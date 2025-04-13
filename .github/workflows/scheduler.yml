@@ -4,11 +4,6 @@ on:
   schedule:
     - cron: "0 */10 * * *"
 
-concurrency:
-  group: scope-scan
-  cancel-in-progress: false
-
-
 jobs:
   update-scope:
     runs-on: ubuntu-latest
