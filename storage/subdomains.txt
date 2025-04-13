@@ -8,6 +8,7 @@ Infra-summit.tst.amsterdam.nl
 Top.apeldoorn.nl
 _autodiscover._tcp.aalten.nl
 _autodiscover._tcp.amstelveen.nl
+_autodiscover._tcp.barendrecht.nl
 _dmarc.amsterdam.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
@@ -372,6 +373,7 @@ awmag.asten.nl
 baarle-nassau.nl
 baarn.nl
 bag.assen.nl
+barendrecht.nl
 basisstatistiek.amsterdam.nl
 bastion365.assen.nl
 bastion365.asten.nl
@@ -643,7 +645,9 @@ e.achtkarspelen.nl
 e.almelo.nl
 ebms.achtkarspelen.nl
 edienstenaanvragensd-acceptatie.albrandswaard.nl
+edienstenaanvragensd-acceptatie.barendrecht.nl
 edienstenaanvragensd.albrandswaard.nl
+edienstenaanvragensd.barendrecht.nl
 edienstenburgerzaken-test.aalten.nl
 edienstenburgerzaken-test.alblasserdam.nl
 edienstenburgerzaken-test.albrandswaard.nl
@@ -652,6 +656,7 @@ edienstenburgerzaken-test.almere.nl
 edienstenburgerzaken-test.alphenaandenrijn.nl
 edienstenburgerzaken-test.arnhem.nl
 edienstenburgerzaken-test.baarn.nl
+edienstenburgerzaken-test.barendrecht.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.alblasserdam.nl
@@ -662,14 +667,19 @@ edienstenburgerzaken.alphenaandenrijn.nl
 edienstenburgerzaken.amstelveen.nl
 edienstenburgerzaken.arnhem.nl
 edienstenburgerzaken.baarn.nl
+edienstenburgerzaken.barendrecht.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
+edienstenmijninkomen-acceptatie.barendrecht.nl
 edienstenmijninkomen.albrandswaard.nl
+edienstenmijninkomen.barendrecht.nl
 edienstenweni-test.arnhem.nl
 edienstenweni.arnhem.nl
 edienstverlening-preprod.albrandswaard.nl
+edienstverlening-preprod.barendrecht.nl
 edienstverlening.albrandswaard.nl
+edienstverlening.barendrecht.nl
 edisa.amsterdam.nl
 edison-acc.amsterdam.nl
 edison.amsterdam.nl
@@ -984,6 +994,7 @@ intranet.amsterdam.nl
 intranet.apeldoorn.nl
 intranet.assen.nl
 intranet.baarn.nl
+intranet.barendrecht.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.geuzenveld.amsterdam.nl
@@ -1056,11 +1067,13 @@ loket.acceptatie.aalsmeer.nl
 loket.acceptatie.alblasserdam.nl
 loket.acceptatie.albrandswaard.nl
 loket.acceptatie.amstelveen.nl
+loket.acceptatie.barendrecht.nl
 loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
 loket.amsterdam.nl
 loket.asten.nl
+loket.barendrecht.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
@@ -1306,9 +1319,11 @@ openklant.assen.nl
 openpdc.albrandswaard.nl
 openpdc.alkmaar.nl
 openpdc.arnhem.nl
+openpdc.barendrecht.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.arnhem.nl
+openpub.barendrecht.nl
 openstad.apeldoorn.nl
 openvas.datapunt.amsterdam.nl
 openzaak-tst.amsterdam.nl
@@ -1405,6 +1420,7 @@ portal.pmb.amsterdam.nl
 praatmee.alblasserdam.nl
 prd.afs.amsterdam.nl
 preprod-mijn.albrandswaard.nl
+preprod-mijn.barendrecht.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
 preprod-woz-portaal-eemnes.baarn.nl
@@ -1417,6 +1433,7 @@ probeer.aalten.nl
 probeer.achtkarspelen.nl
 probeer.albrandswaard.nl
 probeer.baarn.nl
+probeer.barendrecht.nl
 projectarchief-vor.amsterdam.nl
 protectus.ggd.amsterdam.nl
 proto.apeldoorn.nl
@@ -1424,7 +1441,9 @@ publicaties.rekenkamer.amsterdam.nl
 publiek.amsterdam.nl
 pv.achtkarspelen.nl
 pv.albrandswaard.nl
+pv.barendrecht.nl
 pv.diensten.almere.nl
+pwa.barendrecht.nl
 qr.amersfoort.nl
 qr.arnhem.nl
 qr.digitaalgemeenteloket.alphenaandenrijn.nl
@@ -1508,6 +1527,7 @@ secure.alphen-chaam.nl
 secure.ameland.nl
 secure.amsterdam.nl
 secure.baarle-nassau.nl
+secure.barendrecht.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
 servicedesk.almelo.nl
@@ -1540,6 +1560,7 @@ simcms.achtkarspelen.nl
 simcms.albrandswaard.nl
 simcms.ameland.nl
 simcms.baarn.nl
+simcms.barendrecht.nl
 simform-preproductie.achtkarspelen.nl
 simform.achtkarspelen.nl
 simsite.aalten.nl
@@ -1736,6 +1757,7 @@ verhuisformulieren.amsterdam.nl
 verhuisportaal.amsterdam.nl
 verkeer.amsterdam.nl
 verkiezingen.albrandswaard.nl
+verkiezingen.barendrecht.nl
 vga.amsterdam.nl
 victor.amsterdam.nl
 view.nieuwsbrief.amsterdam.nl
@@ -1869,6 +1891,7 @@ www.atlas.amsterdam.nl
 www.baarle-nassau.nl
 www.baarn.nl
 www.baarsjes.amsterdam.nl
+www.barendrecht.nl
 www.bba.amsterdam.nl
 www.bereikbaar.amsterdam.nl
 www.bestemmingsplannen.amsterdam.nl
