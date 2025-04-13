@@ -34,6 +34,7 @@ http://preproductie.achtkarspelen.nl
 http://redirector.alkmaar.nl
 http://simcms.aalten.nl
 http://simcms.beekdaelen.nl
+http://simsite.bergeijk.nl
 http://subsites.amsterdam.nl
 http://woz.amsterdam.nl
 http://www.bba.amsterdam.nl
@@ -268,6 +269,7 @@ https://belastingportaal.acc.aaenhunze.nl
 https://belastingportaal.acc.assen.nl
 https://belastingportaal.assen.nl
 https://bereikbaarheid.amsterdam.nl
+https://bergeijk.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
 https://bermod-fa.amsterdam.nl
@@ -579,6 +581,7 @@ https://iburgerzaken.assen.nl
 https://iburgerzaken.asten.nl
 https://iburgerzaken.baarle-nassau.nl
 https://iburgerzaken.beekdaelen.nl
+https://iburgerzaken.bergeijk.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -621,6 +624,7 @@ https://intunecollector.amsterdam.nl
 https://iovi.amsterdam.nl
 https://jaarrekening.arnhem.nl
 https://jaarverslag.arnhem.nl
+https://jccapi.bergeijk.nl
 https://jongerenraad.barneveld.nl
 https://jvvs.amsterdam.nl
 https://kaart.amersfoort.nl
@@ -918,6 +922,7 @@ https://siam.ameland.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms.ameland.nl
 https://simcms.baarn.nl
+https://simcms.bergeijk.nl
 https://simform.achtkarspelen.nl
 https://simsite.beekdaelen.nl
 https://sip.ggd.amsterdam.nl

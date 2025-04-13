@@ -2,9 +2,9 @@
 www
 autodiscover
 edienstenburgerzaken
-edienstenburgerzaken-test
 iburgerzaken
 ibzpink
+edienstenburgerzaken-test
 secure
 mail
 mijn
@@ -13,14 +13,15 @@ meldingen
 intranet
 simcms
 afspraken
-loket.acceptatie
 probeer
 simsite
+loket.acceptatie
 api.meldingen
 digikoppeling
 acceptatie
 mijnzorg
 test
+felix
 werkplek
 formulieren
 api.meldingen-acc
@@ -28,8 +29,8 @@ meldingen-acc
 data
 mijnzorg-acc
 dkd
-felix
 portal
+preproductie
 kennisbank
 pv
 raad
@@ -46,7 +47,6 @@ www.duurzaam
 loket.test
 _autodiscover._tcp
 documenten
-preproductie
 portaal
 ruimtelijkeplannen
 zaken
@@ -1741,3 +1741,6 @@ samenmet
 sentry
 werkomgeving
 www.samenmet
+drupalintranet
+jccapi
+simcmsintra
