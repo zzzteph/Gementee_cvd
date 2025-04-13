@@ -1,4 +1,5 @@
 http://aalten.nl
+http://afspraak.bergendal.nl
 http://autodiscover.aaenhunze.nl
 http://autodiscover.aalsmeer.nl
 http://autodiscover.achtkarspelen.nl
@@ -16,10 +17,12 @@ http://autodiscover.baarn.nl
 http://autodiscover.barneveld.nl
 http://autodiscover.bergen-nh.nl
 http://autodiscover.bergen.nl
+http://autodiscover.bergendal.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://belastingbalie.amsterdam.nl
 http://bergen.nl
+http://bergendal.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
@@ -278,6 +281,7 @@ https://bergeijk.nl
 https://bergen-nh.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
+https://berichten.bergendal.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -342,6 +346,7 @@ https://dagbesteding.apeldoorn.nl
 https://dali.alphenaandenrijn.nl
 https://dap.amsterdam.nl
 https://dashboard.makkelijkemarkt.amsterdam.nl
+https://data-test.bergendal.nl
 https://data.aalsmeer.nl
 https://data.amstelveen.nl
 https://data.amsterdam.nl
@@ -457,6 +462,7 @@ https://eloket.almere.nl
 https://eloket.arnhem.nl
 https://eloket.asten.nl
 https://eloket.beesel.nl
+https://eloket.bergendal.nl
 https://eloketstaging.almere.nl
 https://email.mail.denkmee.amstelveen.nl
 https://email.mail.participatie.aalsmeer.nl
@@ -507,6 +513,7 @@ https://fblocatielijst.amsterdam.nl
 https://fbtools.amsterdam.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
+https://felix.bergendal.nl
 https://fgt.amstelveen.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -597,6 +604,7 @@ https://iburgerzaken.baarle-nassau.nl
 https://iburgerzaken.beekdaelen.nl
 https://iburgerzaken.bergeijk.nl
 https://iburgerzaken.bergen.nl
+https://iburgerzaken.bergendal.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -634,7 +642,10 @@ https://intern.formulieren.amsterdam.nl
 https://intranet.acc.amsterdam.nl
 https://intranet.amsterdam.nl
 https://intranet.apeldoorn.nl
+https://intranet.bergendal.nl
 https://intranetacc.apeldoorn.nl
+https://intranetcms-acc.bergendal.nl
+https://intranetcms.bergendal.nl
 https://intunecollector.amsterdam.nl
 https://iovi.amsterdam.nl
 https://jaarrekening.arnhem.nl
@@ -644,6 +655,7 @@ https://jongerenraad.barneveld.nl
 https://jvvs.amsterdam.nl
 https://kaart.amersfoort.nl
 https://kaart.amsterdam.nl
+https://kaart.bergendal.nl
 https://kaartviewer.barneveld.nl
 https://kavels.almere.nl
 https://kavelwinkel.almere.nl
@@ -875,6 +887,8 @@ https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprodbroker.aalten.nl
 https://preproductie.beekdaelen.nl
 https://prijsvraag-zwembad.apeldoorn.nl
+https://privacybewustzijn.bergendal.nl
+https://programmavan.bergendal.nl
 https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
 https://publicaties.barneveld.nl
@@ -895,6 +909,7 @@ https://raad.alblasserdam.nl
 https://raad.albrandswaard.nl
 https://raad.arnhem.nl
 https://raad.asten.nl
+https://raad.bergendal.nl
 https://redactie.amersfoort.nl
 https://redactie.antwoord.amsterdam.nl
 https://regio.almere.nl
@@ -947,6 +962,7 @@ https://simcms.baarn.nl
 https://simcms.bergeijk.nl
 https://simform.achtkarspelen.nl
 https://simsite.beekdaelen.nl
+https://simsite.bergendal.nl
 https://sip.ggd.amsterdam.nl
 https://smap.almere.nl
 https://smartdoc.apeldoorn.nl
@@ -1026,6 +1042,7 @@ https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testeloket.arnhem.nl
 https://testeloket.asten.nl
 https://testeloket.beesel.nl
+https://testeloket.bergendal.nl
 https://testmeldingen.asten.nl
 https://testportaal.almelo.nl
 https://testsiam.ameland.nl
@@ -1130,6 +1147,7 @@ https://www.barendrecht.nl
 https://www.barneveld.nl
 https://www.beesel.nl
 https://www.bergen-nh.nl
+https://www.bergendal.nl
 https://www.bikecity.amsterdam.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
@@ -1158,6 +1176,7 @@ https://www.praatmee.alblasserdam.nl
 https://www.preprod-woz-portaal-eemnes.baarn.nl
 https://www.prijsvraag-zwembad.apeldoorn.nl
 https://www.raad.arnhem.nl
+https://www.raad.bergendal.nl
 https://www.rekenkamer.amsterdam.nl
 https://www.samenmet.beesel.nl
 https://www.schoolwijzer.amsterdam.nl
