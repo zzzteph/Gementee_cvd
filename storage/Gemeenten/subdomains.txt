@@ -82,6 +82,7 @@ acc.bernheze.org
 acc.bmidms.amsterdam.nl
 acc.bodegraven-reeuwijk.nl
 acc.boekel.nl
+acc.borsele.nl
 acc.bp.data.amsterdam.nl
 acc.catalogus.data.amsterdam.nl
 acc.data.amsterdam.nl
@@ -221,6 +222,7 @@ afspraak.arnhem.nl
 afspraak.barneveld.nl
 afspraak.bergendal.nl
 afspraak.boekel.nl
+afspraak.borsele.nl
 afspraken.alkmaar.nl
 afspraken.amersfoort.nl
 afspraken.apeldoorn.nl
@@ -238,6 +240,7 @@ afspraken.bladel.nl
 afspraken.borne.nl
 afval.assen.nl
 afvalkalender.alphenaandenrijn.nl
+afvalkalender.borsele.nl
 agbi.apeldoorn.nl
 agis.apeldoorn.nl
 agwp01.azweu.alkmaar.nl
@@ -538,6 +541,7 @@ bomen.amsterdam.nl
 boostjebuurt.amsterdam.nl
 borger-odoorn.nl
 borne.nl
+borsele.nl
 bounces-eps.amsterdam.nl
 bouwdossiers.amsterdam.nl
 bp.data.amsterdam.nl
@@ -547,6 +551,8 @@ broker.aalten.nl
 broker.assen.nl
 broker.bernheze.org
 broker.borger-odoorn.nl
+brsoribi01.borsele.nl
+brsoribi02.borsele.nl
 buikslotermeerplein.amsterdam.nl
 burgerzaken.amsterdam.nl
 buurtbudget.amsterdam.nl
@@ -1087,6 +1093,7 @@ gp.ggd.amsterdam.nl
 gpa.apeldoorn.nl
 gpg.apeldoorn.nl
 gpt.apeldoorn.nl
+grmks06.borsele.nl
 groenengezond.almere.nl
 growinggreencities.almere.nl
 gsmpt.stadstoezicht.amsterdam.nl
@@ -1170,6 +1177,7 @@ iburgerzaken.bodegraven-reeuwijk.nl
 iburgerzaken.boekel.nl
 iburgerzaken.borger-odoorn.nl
 iburgerzaken.borne.nl
+iburgerzaken.borsele.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1193,6 +1201,7 @@ ibzpink.bodegraven-reeuwijk.nl
 ibzpink.boekel.nl
 ibzpink.borger-odoorn.nl
 ibzpink.borne.nl
+ibzpink.borsele.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1282,6 +1291,7 @@ jcc.amstelveen.nl
 jcc.bergenopzoom.nl
 jccapi.bergeijk.nl
 jccapi.bladel.nl
+jcccloud.borsele.nl
 jcctest.bergenopzoom.nl
 jeugdengezin.amsterdam.nl
 jn12plus.amsterdam.nl
@@ -1290,6 +1300,7 @@ join.almelo.nl
 join.bijzondereprojecten.acc.amsterdam.nl
 join.bijzondereprojecten.amsterdam.nl
 jongerenraad.barneveld.nl
+jongin.borsele.nl
 joost.beuningen.nl
 jvvs.amsterdam.nl
 k1._domainkey.bergendal.nl
@@ -1406,6 +1417,7 @@ mailexo.acc.amsterdam.nl
 mailexo.amsterdam.nl
 mailhost.centrum.amsterdam.nl
 mailing.alphenaandenrijn.nl
+mailing.borsele.nl
 makelaar-test.almelo.nl
 makelaar.almelo.nl
 makkelijkemarkt-api.amsterdam.nl
@@ -1631,6 +1643,7 @@ oldenhove.doemee.bloemendaal.nl
 ombudsman.amsterdam.nl
 omgevingsvisie.almelo.nl
 omgevingsvisie.borger-odoorn.nl
+omgevingsvisie.borsele.nl
 omgevingsvisie.doemee.bloemendaal.nl
 omslagroute.amsterdam.nl
 onderhoudspagina.amsterdam.nl
@@ -1788,6 +1801,7 @@ portal.iba.amsterdam.nl
 portal.pmb.amsterdam.nl
 powerbi.beesel.nl
 praatmee.alblasserdam.nl
+praatmee.borsele.nl
 prd.afs.amsterdam.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
@@ -2428,6 +2442,7 @@ www.boekel.nl
 www.bolwerken.amsterdam.nl
 www.borger-odoorn.nl
 www.borne.nl
+www.borsele.nl
 www.buikslotermeerplein.amsterdam.nl
 www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
@@ -2492,6 +2507,7 @@ www.pao.amsterdam.nl
 www.participatielab.amsterdam.nl
 www.pmb.amsterdam.nl
 www.praatmee.alblasserdam.nl
+www.praatmee.borsele.nl
 www.preprod-woz-portaal-eemnes.baarn.nl
 www.prijsvraag-zwembad.apeldoorn.nl
 www.proeftuin.amsterdam.nl
