@@ -9,10 +9,10 @@ ibzpink
 loket
 loket.acceptatie
 meldingen
+simcms
 mail
 mijn
 probeer
-simcms
 simsite
 ruimtelijkeplannen
 vpn
@@ -37,12 +37,14 @@ openpub
 osb
 osbacc
 wachtwoord
+werkenbij
 werkplek
 hybrid
 mijninkomen
 belastingen
 kaart
 snelbalie
+enterpriseenrollment
 belastingportaal
 belastingportaal.acc
 digikoppeling
@@ -158,7 +160,6 @@ test-subsidieloket
 testafspraken
 veiligdelen
 webmail
-werkenbij
 werkplek.gslb
 wifi-sport
 www.werkenbij
@@ -307,7 +308,6 @@ dkd-prod
 dkd-test
 duurzaam
 email.samenveiligwerken
-enterpriseenrollment
 enterpriseregistration
 exchange
 exchange2
@@ -341,3 +341,9 @@ www.duurzaam
 www.uwdorpofwijk
 www.zwammerdamdorpskern
 zwammerdamdorpskern
+mozard
+mozardtest
+siam
+test-zaakloket
+testsiam
+zaakloket

@@ -1,0 +1,12 @@
+http://autodiscover.ameland.nl
+https://ameland.nl
+https://enterpriseenrollment.ameland.nl
+https://mozard.ameland.nl
+https://mozardtest.ameland.nl
+https://siam.ameland.nl
+https://simcms.ameland.nl
+https://test-zaakloket.ameland.nl
+https://testsiam.ameland.nl
+https://werkenbij.ameland.nl
+https://www.ameland.nl
+https://zaakloket.ameland.nl
