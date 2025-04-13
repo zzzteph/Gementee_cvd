@@ -1,6 +1,10 @@
 2connect-acc.apeldoorn.nl
 2connect-tst.apeldoorn.nl
 2connect.apeldoorn.nl
+2secure.breda.nl
+2secureacc.breda.nl
+2securecloud.breda.nl
+2securecloudacc.breda.nl
 3d.almere.nl
 3d.amsterdam.nl
 Autorisatietest.bloemendaal.nl
@@ -85,6 +89,7 @@ acc.bodegraven-reeuwijk.nl
 acc.boekel.nl
 acc.borsele.nl
 acc.bp.data.amsterdam.nl
+acc.breda.nl
 acc.catalogus.data.amsterdam.nl
 acc.data.amsterdam.nl
 acc.datapunt.amsterdam.nl
@@ -311,12 +316,15 @@ aovpn.bergen.nl
 ap01.alkmaar.nl
 apeldoorn.nl
 apex.almere.nl
+api-acc.breda.nl
+api-dev.breda.nl
 api-meldingen.acc.almelo.nl
 api-meldingen.almelo.nl
 api.acc.meldingen.amsterdam.nl
 api.aip.amsterdam.nl
 api.amsterdam.nl
 api.betalen.amsterdam.nl
+api.betalen.breda.nl
 api.data.amsterdam.nl
 api.dataportaal.amsterdam.nl
 api.doemee.bloemendaal.nl
@@ -371,6 +379,7 @@ applicaties.amsterdam.nl
 apps.amsterdam.nl
 apps.arnhem.nl
 archief.afs.amsterdam.nl
+archieven.stadsarchief.breda.nl
 arena.ami-acc.amsterdam.nl
 arena.ami-dev.amsterdam.nl
 arena.ami-tac.amsterdam.nl
@@ -458,6 +467,7 @@ beekdaelen.nl
 beeldbank-bo.baarn.nl
 beeldbank.amstelveen.nl
 beeldbank.baarn.nl
+beeldbank.breda.nl
 beesel.nl
 begraafplaatsduinrust.beverwijk.nl
 begraafplaatsen.bloemendaal.nl
@@ -466,6 +476,7 @@ begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 beheer.acc.amsterdam.nl
 beheer.amsterdam.nl
 beheer.data.amsterdam.nl
+beheerbeeldbank.breda.nl
 beheerfotobank.amsterdam.nl
 beheeropenbareruimte.arnhem.nl
 bekslaan-leidsevaartweg.doemee.bloemendaal.nl
@@ -509,6 +520,7 @@ betalen.almere.nl
 betalen.amsterdam.nl
 betalen.bergen-nh.nl
 betalen.beverwijk.nl
+betalen.breda.nl
 betalingen.amsterdam.nl
 beuningen.nl
 beverwijk.nl
@@ -550,9 +562,11 @@ borne.nl
 borsele.nl
 bounces-eps.amsterdam.nl
 bouwdossiers.amsterdam.nl
+bouwdossiers.stadsarchief.breda.nl
 boxtel.nl
 bp.data.amsterdam.nl
 brandweer.almelo.nl
+breda.nl
 brediusbad.amsterdam.nl
 broker.aalten.nl
 broker.assen.nl
@@ -599,6 +613,7 @@ cmsoo.borger-odoorn.nl
 cmsoo.borne.nl
 college.alblasserdam.nl
 college.albrandswaard.nl
+comoverheidacc.breda.nl
 conference.assen.nl
 connect-preprod.almere.nl
 consent.sarphati.amsterdam.nl
@@ -613,6 +628,7 @@ containersweesperbuurt.amsterdam.nl
 copper.dbga.acc.amsterdam.nl
 copper.dbga.amsterdam.nl
 corona.beverwijk.nl
+corona.breda.nl
 crk.amsterdam.nl
 crypt.apeldoorn.nl
 cryptacc.apeldoorn.nl
@@ -643,8 +659,10 @@ data.amsterdam.nl
 data.arnhem.nl
 data.bergenopzoom.nl
 data.beuningen.nl
+data.breda.nl
 data.gemnet.bergendal.nl
 data.gemnet.beuningen.nl
+dataacc.breda.nl
 datalab.alkmaar.nl
 dataportaal.amsterdam.nl
 dataportaal.apeldoorn.nl
@@ -689,6 +707,7 @@ desktop.apeldoorn.nl
 desktop.borne.nl
 deurwaardersloket.amersfoort.nl
 dev.rnd.amsterdam.nl
+deventit.breda.nl
 devportal.api.amsterdam.nl
 dex.meldingen.alphenaandenrijn.nl
 dgdialog.acc.amsterdam.nl
@@ -904,6 +923,7 @@ enterpriseregistration.arnhem.nl
 enterpriseregistration.bergenopzoom.nl
 enterpriseregistration.bladel.nl
 epms.amsterdam.nl
+erfgoed.breda.nl
 erfgoedregister.amsterdam.nl
 erfpacht-acc.amsterdam.nl
 erfpacht-codekwal-dev.amsterdam.nl
@@ -934,9 +954,12 @@ erisa.fa.amsterdam.nl
 erisa.fa2.amsterdam.nl
 erisa.ft.amsterdam.nl
 esb.bergenopzoom.nl
+esb.breda.nl
+esbacc.breda.nl
 esbt.bergenopzoom.nl
 evenementen.amsterdam.nl
 evenementen.assen.nl
+evenementen.breda.nl
 exchange.alphenaandenrijn.nl
 exchange.assen.nl
 exchange2.alphenaandenrijn.nl
@@ -960,6 +983,8 @@ felix.bladel.nl
 fgt.amstelveen.nl
 fibu.amsterdam.nl
 fibu.dwiweb.amsterdam.nl
+filecap.breda.nl
+filecapacc.breda.nl
 files.data.amsterdam.nl
 fileshare.adds.amsterdam.nl
 fileshare.amsterdam.nl
@@ -1004,6 +1029,8 @@ forms.vga.amsterdam.nl
 formulier.amersfoort.nl
 formulier.amsterdam.nl
 formulier.assen.nl
+formulier.breda.nl
+formulieracc.breda.nl
 formulieren-g4-acc.amsterdam.nl
 formulieren-test.beesel.nl
 formulieren.acc.amsterdam.nl
@@ -1014,6 +1041,8 @@ formulieren.assen.nl
 formulieren.beesel.nl
 formulieren.bodegraven-reeuwijk.nl
 formulieren1.amsterdam.nl
+formulierenacc.breda.nl
+formulierenaccdirect.breda.nl
 fotobank.amsterdam.nl
 frontoffice-parkeervergunningen-acc.beverwijk.nl
 frontoffice-parkeervergunningen.beverwijk.nl
@@ -1062,6 +1091,7 @@ gen1.alkmaar.nl
 gen2.alkmaar.nl
 geo.aaenhunze.nl
 geo.arnhem.nl
+geo.breda.nl
 geo1.arnhem.nl
 geodata.almelo.nl
 geohr.assen.nl
@@ -1077,6 +1107,7 @@ gir.acc.amsterdam.nl
 gir.amsterdam.nl
 gis.apeldoorn.nl
 gis.assen.nl
+gis.breda.nl
 gisib-test.alblasserdam.nl
 gisib.acc.amsterdam.nl
 gisib.acc.meldingen.amsterdam.nl
@@ -1189,6 +1220,7 @@ iburgerzaken.boekel.nl
 iburgerzaken.borger-odoorn.nl
 iburgerzaken.borne.nl
 iburgerzaken.borsele.nl
+iburgerzaken.breda.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1213,6 +1245,7 @@ ibzpink.boekel.nl
 ibzpink.borger-odoorn.nl
 ibzpink.borne.nl
 ibzpink.borsele.nl
+ibzpink.breda.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1248,6 +1281,8 @@ indienst.almere.nl
 ingesprek.almere.nl
 inkomen-test.mijn.arnhem.nl
 inkomen.mijn.arnhem.nl
+inkomensondersteuning.breda.nl
+inkomensondersteuningpp.breda.nl
 inkoopplein.almere.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
@@ -1334,6 +1369,7 @@ kennisnet.almelo.nl
 keuzesinbeeld.amsterdam.nl
 key2financien-prod.beverwijk.nl
 key2financien-test.beverwijk.nl
+key2finportal.breda.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
 keycloak.assen.nl
 kibana.parkeren.data.amsterdam.nl
@@ -1348,13 +1384,16 @@ klachten.amsterdam.nl
 klantcontact.baarn.nl
 klantcontact.beuningen.nl
 klimaatplein.bergen-nh.nl
+knp.breda.nl
 koppelpoort.amersfoort.nl
 koppelvlak.bergen-nh.nl
+kredietbankwestbrabant.breda.nl
 krefia-acceptatie.amsterdam.nl
 krefia.amsterdam.nl
 krm.brievenbus.amsterdam.nl
 krmacc.brievenbus.amsterdam.nl
 langparkeren.amsterdam.nl
+lavueltaholanda.breda.nl
 ldap.alkmaar.nl
 leefbuiten.almere.nl
 leeromgeving-mijnleno-a.amsterdam.nl
@@ -1392,6 +1431,7 @@ loket.asten.nl
 loket.barendrecht.nl
 loket.bergen-nh.nl
 loket.borne.nl
+loket.breda.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
@@ -1452,6 +1492,7 @@ mase01.oudzuid.amsterdam.nl
 matchpointbhr.dmo.acc.amsterdam.nl
 matchpointkp.dmo.acc.amsterdam.nl
 matenpark.apeldoorn.nl
+matomo.breda.nl
 mbg1.beverwijk.nl
 mdm.borne.nl
 mdr.beverwijk.nl
@@ -1555,9 +1596,11 @@ misc-geo-02.barneveld.nl
 mks.acc.amsterdam.nl
 mks.amsterdam.nl
 mks.beekdaelen.nl
+mks.breda.nl
 mks.brievenbus.amsterdam.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
+mksacc.breda.nl
 mksp01bkl.boekel.nl
 mmc.formulieren.amsterdam.nl
 mo.apeldoorn.nl
@@ -1595,6 +1638,7 @@ nha.amsterdam.nl
 nhr.barneveld.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 nieuwkomers.arnhem.nl
+nieuws.breda.nl
 nieuwsbrief.amsterdam.nl
 nieuwsbrief.arnhem.nl
 nieuwsbrief.assen.nl
@@ -1685,6 +1729,7 @@ open.arnhem.nl
 open.barneveld.nl
 open.beverwijk.nl
 open.boxtel.nl
+open.breda.nl
 open.data.amsterdam.nl
 opendata.arnhem.nl
 opendata.assen.nl
@@ -1728,6 +1773,7 @@ p-2secure.amersfoort.nl
 panel.amsterdam.nl
 panorama.data.amsterdam.nl
 panoviewer.data.amsterdam.nl
+parkeerabonnementen.breda.nl
 parkeerapp.apeldoorn.nl
 parkeerbelasting.amsterdam.nl
 parkeerkaart-acc.amsterdam.nl
@@ -1768,14 +1814,17 @@ passwordreset.almere.nl
 patternlab.barneveld.nl
 pb-yutpa.rnd.amsterdam.nl
 personeelsplanning.beekdaelen.nl
+persoonlijk.breda.nl
 pfsense.secure.amsterdam.nl
 phpmyadmin.bodegraven-reeuwijk.nl
 pilot-digitaleplannen.apeldoorn.nl
 pingping.amsterdam.nl
 piwik.almelo.nl
 piwik.bodegraven-reeuwijk.nl
+piwik.breda.nl
 piwik.data.amsterdam.nl
 piwik.datapunt.amsterdam.nl
+piwikacc.breda.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
 pki.bladel.nl
@@ -1885,6 +1934,7 @@ raad.bergendal.nl
 raadsnet.aalten.nl
 raadsnet.bernheze.org
 rabbitmq.datapunt.amsterdam.nl
+rap.breda.nl
 rds.vga.amsterdam.nl
 rdw-test.authenticatie.alkmaar.nl
 rdw.authenticatie.alkmaar.nl
@@ -1971,6 +2021,7 @@ secure.barneveld.nl
 secure.beverwijk.nl
 secure.bloemendaal.nl
 secure.boekel.nl
+secure.breda.nl
 securemail.borne.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
@@ -2085,6 +2136,7 @@ speleninzuid.amsterdam.nl
 spf-ogone01.asten.nl
 spf-ogone02.asten.nl
 spf-wind.asten.nl
+sportaccommodaties.breda.nl
 sportencultuur.almere.nl
 sportparken.datapunt.amsterdam.nl
 sportsupport.almere.nl
@@ -2096,6 +2148,7 @@ ssp.alphenaandenrijn.nl
 staatvandeparticipatie.amsterdam.nl
 stadsarchief.almere.nl
 stadsarchief.amsterdam.nl
+stadsarchief.breda.nl
 stadsarchief.brievenbus.amsterdam.nl
 stadsgesprekken.almere.nl
 stadspark.apeldoorn.nl
@@ -2312,6 +2365,8 @@ wcs.amersfoort.nl
 web.alblasserdam.nl
 web2print.assen.nl
 webapps.aaenhunze.nl
+webcamslingerweg.breda.nl
+webcamspinveld.breda.nl
 webconf.assen.nl
 webmail.alkmaar.nl
 webmail.amersfoort.nl
@@ -2323,6 +2378,7 @@ webmail.bloemendaal.nl
 webmail.boekel.nl
 webmail.borne.nl
 webmail.boxtel.nl
+webmail.breda.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -2341,6 +2397,7 @@ webserver.bergen-nh.nl
 webservice-decosdvl.acc.amsterdam.nl
 webservice-decosdvl.amsterdam.nl
 website.alphen-chaam.nl
+websiteacc.breda.nl
 webtim.nzl.amsterdam.nl
 weesp.acc.meldingen.amsterdam.nl
 weesp.amsterdam.nl
@@ -2466,6 +2523,7 @@ www.borger-odoorn.nl
 www.borne.nl
 www.borsele.nl
 www.boxtel.nl
+www.breda.nl
 www.buikslotermeerplein.amsterdam.nl
 www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
@@ -2548,6 +2606,7 @@ www.speleninoost.amsterdam.nl
 www.speleninzuid.amsterdam.nl
 www.sport.amsterdam.nl
 www.staatvandeparticipatie.amsterdam.nl
+www.stadsarchief.breda.nl
 www.stadspas.apeldoorn.nl
 www.stadstoezicht.amsterdam.nl
 www.statistiek.amsterdam.nl
