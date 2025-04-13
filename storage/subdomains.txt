@@ -80,6 +80,7 @@ acc.bereikbaarheid.amsterdam.nl
 acc.bernheze.org
 acc.bmidms.amsterdam.nl
 acc.bodegraven-reeuwijk.nl
+acc.boekel.nl
 acc.bp.data.amsterdam.nl
 acc.catalogus.data.amsterdam.nl
 acc.data.amsterdam.nl
@@ -217,6 +218,7 @@ afs.tst.amsterdam.nl
 afspraak.arnhem.nl
 afspraak.barneveld.nl
 afspraak.bergendal.nl
+afspraak.boekel.nl
 afspraken.alkmaar.nl
 afspraken.amersfoort.nl
 afspraken.apeldoorn.nl
@@ -525,6 +527,7 @@ bloemendaal.nl
 bmidms.amsterdam.nl
 boa.amsterdam.nl
 bodegraven-reeuwijk.nl
+boekel.nl
 bomen.amsterdam.nl
 boostjebuurt.amsterdam.nl
 bounces-eps.amsterdam.nl
@@ -1048,6 +1051,7 @@ gisibonline.beesel.nl
 git.data.amsterdam.nl
 git.datapunt.amsterdam.nl
 gitlab.amsterdam.nl
+gms.boekel.nl
 gn2connect-acc.apeldoorn.nl
 gn2connect.apeldoorn.nl
 goud.almere.nl
@@ -1134,6 +1138,7 @@ iburgerzaken.bladel.nl
 iburgerzaken.blaricum.nl
 iburgerzaken.bloemendaal.nl
 iburgerzaken.bodegraven-reeuwijk.nl
+iburgerzaken.boekel.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1154,6 +1159,7 @@ ibzpink.bladel.nl
 ibzpink.blaricum.nl
 ibzpink.bloemendaal.nl
 ibzpink.bodegraven-reeuwijk.nl
+ibzpink.boekel.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1214,6 +1220,7 @@ intranet.bergen.nl
 intranet.bergendal.nl
 intranet.bernheze.org
 intranet.beverwijk.nl
+intranet.boekel.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.geuzenveld.amsterdam.nl
@@ -1304,6 +1311,7 @@ logilink.gbamailbox.amersfoort.nl
 login.alphenaandenrijn.nl
 login.bergen.nl
 login.bernheze.org
+login.boekel.nl
 loket-acc.asten.nl
 loket.aaenhunze.nl
 loket.aalsmeer.nl
@@ -1477,6 +1485,7 @@ mks.beekdaelen.nl
 mks.brievenbus.amsterdam.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
+mksp01bkl.boekel.nl
 mmc.formulieren.amsterdam.nl
 mo.apeldoorn.nl
 mobile.ggd.amsterdam.nl
@@ -1873,6 +1882,7 @@ secure.barendrecht.nl
 secure.barneveld.nl
 secure.beverwijk.nl
 secure.bloemendaal.nl
+secure.boekel.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
 sentry.beesel.nl
@@ -1940,6 +1950,7 @@ simsite.bergendal.nl
 simsite.bernheze.org
 simsite.beverwijk.nl
 simsite.bladel.nl
+simsite.boekel.nl
 sip.assen.nl
 sip.ggd.amsterdam.nl
 sip.oa.amsterdam.nl
@@ -2209,6 +2220,7 @@ webmail.bergen.nl
 webmail.bernheze.org
 webmail.beverwijk.nl
 webmail.bloemendaal.nl
+webmail.boekel.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -2341,6 +2353,7 @@ www.bloemendaal.nl
 www.bma.amsterdam.nl
 www.bmz.amsterdam.nl
 www.bodegraven-reeuwijk.nl
+www.boekel.nl
 www.bolwerken.amsterdam.nl
 www.buikslotermeerplein.amsterdam.nl
 www.buurtbudget.amsterdam.nl
@@ -2433,6 +2446,7 @@ www.vastgoed.assen.nl
 www.vga.amsterdam.nl
 www.victor.amsterdam.nl
 www.vvetest.amsterdam.nl
+www.webmail.boekel.nl
 www.weespbegroot.amsterdam.nl
 www.werkenbij.alkmaar.nl
 www.werkenbij.amsterdam.nl

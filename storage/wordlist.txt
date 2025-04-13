@@ -7,8 +7,8 @@ edienstenburgerzaken
 simcms
 afspraken
 edienstenburgerzaken-test
-mail
 intranet
+mail
 secure
 simsite
 probeer
@@ -18,15 +18,15 @@ mijn
 loket
 digikoppeling
 preproductie
+webmail
 api.meldingen
 test
-webmail
+acc
 loket.acceptatie
 data
 portal
 pv
 werkplek
-acc
 parkeren
 eloket
 formulieren
@@ -55,8 +55,10 @@ osb
 werkenbij
 betalen
 waarmerk
+login
 snelbaliepp
 www.duurzaam
+afspraak
 testeloket
 loket.test
 broker
@@ -72,7 +74,6 @@ belastingen
 maps
 berichten
 digikoppeling-test
-login
 formulier
 ns
 atlas
@@ -80,7 +81,6 @@ digikoppeling.test
 gemeente
 nieuwsbrief
 parkeren-acc
-afspraak
 open
 opendata
 obsurv
@@ -1880,3 +1880,6 @@ o1.ptr1802
 oud
 phpmyadmin
 testformulieren
+gms
+mksp01bkl
+www.webmail
