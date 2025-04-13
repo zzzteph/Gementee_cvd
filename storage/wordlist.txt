@@ -4,22 +4,22 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-edienstenburgerzaken-test
 simcms
 afspraken
+edienstenburgerzaken-test
 intranet
 mail
-secure
 simsite
-meldingen
-mijn
 probeer
-loket
+secure
+meldingen
 felix
+mijn
+loket
+preproductie
 api.meldingen
 digikoppeling
 test
-preproductie
 loket.acceptatie
 data
 portal
@@ -39,6 +39,8 @@ formulieren
 kaart
 snelbalie
 duurzaam
+enterpriseenrollment
+enterpriseregistration
 adfs
 mijnzorg-acc
 _autodiscover._tcp
@@ -51,8 +53,6 @@ parkeren
 betalen
 gemeenteraad
 waarmerk
-enterpriseenrollment
-enterpriseregistration
 snelbaliepp
 www.duurzaam
 testeloket
@@ -78,6 +78,7 @@ nieuwsbrief
 afspraak
 open
 obsurv
+simcms-preproductie
 belastingportaal
 belastingportaal.acc
 fs
@@ -164,7 +165,7 @@ bis
 test-digikoppeling
 klantcontact
 fmreturn
-simcms-preproductie
+jccapi
 uca
 data-test
 data.gemnet
@@ -1745,7 +1746,6 @@ sentry
 werkomgeving
 www.samenmet
 drupalintranet
-jccapi
 simcmsintra
 acceptatieloket
 backup
@@ -1849,3 +1849,4 @@ sophos
 test-bink
 test-cmsbink
 uc
+pki
