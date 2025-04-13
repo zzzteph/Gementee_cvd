@@ -12,6 +12,7 @@ acc-maps.almere.nl
 acc.almelo.nl
 acc.formulieren.almere.nl
 acceptatie.aalsmeer.nl
+acceptatie.alphen-chaam.nl
 achtkarspelen.nl
 aeos.alkmaar.nl
 afspraken.alkmaar.nl
@@ -37,6 +38,7 @@ almereconnect.almere.nl
 almeregeeftenergie.almere.nl
 almerekracht.almere.nl
 almerepoort.almere.nl
+alphen-chaam.nl
 ap01.alkmaar.nl
 apex.almere.nl
 api-meldingen.acc.almelo.nl
@@ -63,6 +65,7 @@ belastingen-acc.almere.nl
 belastingen.almere.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
+berichten.alphen-chaam.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 betalen.almere.nl
 brandweer.almelo.nl
@@ -78,6 +81,7 @@ denkmee.achtkarspelen.nl
 diensten.almere.nl
 digikoppeling.aaenhunze.nl
 digitaalerfgoed.almere.nl
+digitaalnachtregister.alphen-chaam.nl
 directadmin.almelo.nl
 dkd.aalten.nl
 dkd.almelo.nl
@@ -149,9 +153,11 @@ iam.almere.nl
 iburgerzaken.aaenhunze.nl
 iburgerzaken.achtkarspelen.nl
 iburgerzaken.almelo.nl
+iburgerzaken.alphen-chaam.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
+ibzpink.alphen-chaam.nl
 ids.almelo.nl
 ikbouwmijnhuisin.almere.nl
 ikonderneemin.almere.nl
@@ -282,6 +288,7 @@ secure.aalten.nl
 secure.achtkarspelen.nl
 secure.albrandswaard.nl
 secure.almere.nl
+secure.alphen-chaam.nl
 servicedesk.almelo.nl
 simcms.aalten.nl
 simcms.achtkarspelen.nl
@@ -290,6 +297,7 @@ simform-preproductie.achtkarspelen.nl
 simform.achtkarspelen.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
+simsite.alphen-chaam.nl
 smap.almere.nl
 smoelennet.almelo.nl
 snelbalie.almere.nl
@@ -336,12 +344,14 @@ voorschool.almere.nl
 vpn.alkmaar.nl
 vpn.almelo.nl
 vpn.almere.nl
+waarmerk.alphen-chaam.nl
 wachtwoord.alkmaar.nl
 wachtwoord.almere.nl
 wachtwoordreset.almere.nl
 web.alblasserdam.nl
 webapps.aaenhunze.nl
 webmail.alkmaar.nl
+website.alphen-chaam.nl
 werkenbij.alkmaar.nl
 werkplek.alkmaar.nl
 werkplek.almere.nl
@@ -361,6 +371,7 @@ www.albrandswaard.nl
 www.alkmaar.nl
 www.almelo.nl
 www.almere.nl
+www.alphen-chaam.nl
 www.praatmee.alblasserdam.nl
 www.werkenbij.alkmaar.nl
 www2.aaenhunze.nl
