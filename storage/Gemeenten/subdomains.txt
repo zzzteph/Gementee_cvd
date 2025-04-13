@@ -3,12 +3,14 @@
 2connect.apeldoorn.nl
 3d.almere.nl
 3d.amsterdam.nl
+BGNVSV002.bergen.nl
 Infra-summit.acc.amsterdam.nl
 Infra-summit.tst.amsterdam.nl
 Top.apeldoorn.nl
 _autodiscover._tcp.aalten.nl
 _autodiscover._tcp.amstelveen.nl
 _autodiscover._tcp.barendrecht.nl
+_autodiscover._tcp.bergen.nl
 _dmarc.amsterdam.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
@@ -183,6 +185,7 @@ adam.amsterdam.nl
 adc.barneveld.nl
 adfs.beekdaelen.nl
 adfs.bergen-nh.nl
+adfs.bergen.nl
 adfs.ggd.amsterdam.nl
 adiko.apeldoorn.nl
 admin-acc.datapunt.amsterdam.nl
@@ -208,6 +211,7 @@ afspraken.asten.nl
 afspraken.baarle-nassau.nl
 afspraken.beekdaelen.nl
 afspraken.bergeijk.nl
+afspraken.bergen.nl
 afval.assen.nl
 afvalkalender.alphenaandenrijn.nl
 agbi.apeldoorn.nl
@@ -273,6 +277,7 @@ andreas2.opl.amsterdam.nl
 andreas2.tst.amsterdam.nl
 anva.vga.amsterdam.nl
 anvatest.vga.amsterdam.nl
+aovpn.bergen.nl
 ap01.alkmaar.nl
 apeldoorn.nl
 apex.almere.nl
@@ -370,6 +375,7 @@ autodiscover.asten.nl
 autodiscover.baarn.nl
 autodiscover.barneveld.nl
 autodiscover.bergen-nh.nl
+autodiscover.bergen.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -429,6 +435,7 @@ belastingportaal.assen.nl
 bereikbaarheid.amsterdam.nl
 bergeijk.nl
 bergen-nh.nl
+bergen.nl
 berichten.alphen-chaam.nl
 berichten.baarle-nassau.nl
 berichtenverkeer.authenticatie.alkmaar.nl
@@ -447,6 +454,8 @@ betalingen.amsterdam.nl
 bewegen.apeldoorn.nl
 bewonersbrieven.amsterdam.nl
 bewustwording.amersfoort.nl
+bgnvsv002.bergen.nl
+bgnvsv003.bergen.nl
 bgt.assen.nl
 bgt.baarn.nl
 bhg.bba.amsterdam.nl
@@ -459,6 +468,7 @@ bi-sociaal.ft.amsterdam.nl
 bi.amsterdam.nl
 bibob.brievenbus.amsterdam.nl
 bikecity.amsterdam.nl
+binnenshuis.bergen.nl
 bis.assen.nl
 bis.beesel.nl
 bl-vms0021.ggd.amsterdam.nl
@@ -501,6 +511,7 @@ cios.acam.amsterdam.nl
 cis.barneveld.nl
 cloudadapter-test.baarn.nl
 cloudadapter.baarn.nl
+cms-binnenshuis.bergen.nl
 cms.alphenaandenrijn.nl
 cmsoo.assen.nl
 college.alblasserdam.nl
@@ -676,6 +687,8 @@ e-file-p-07.adds.amsterdam.nl
 e-file-p-07.amsterdam.nl
 e-file-p-08.adds.amsterdam.nl
 e-loket.apeldoorn.nl
+e-loket.bergen.nl
+e-loketstaging.bergen.nl
 e-net.amsterdam.nl
 e-net.intranet.amsterdam.nl
 e.achtkarspelen.nl
@@ -801,6 +814,7 @@ felix.achtkarspelen.nl
 felix.baarn.nl
 felix.beekdaelen.nl
 felix.bergeijk.nl
+felix.bergen.nl
 fgt.amstelveen.nl
 fibu.amsterdam.nl
 fibu.dwiweb.amsterdam.nl
@@ -999,6 +1013,7 @@ iburgerzaken.asten.nl
 iburgerzaken.baarle-nassau.nl
 iburgerzaken.beekdaelen.nl
 iburgerzaken.bergeijk.nl
+iburgerzaken.bergen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1010,6 +1025,7 @@ ibzpink.asten.nl
 ibzpink.baarle-nassau.nl
 ibzpink.beekdaelen.nl
 ibzpink.bergeijk.nl
+ibzpink.bergen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1060,6 +1076,7 @@ intranet.assen.nl
 intranet.baarn.nl
 intranet.barendrecht.nl
 intranet.bergeijk.nl
+intranet.bergen.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.geuzenveld.amsterdam.nl
@@ -1134,6 +1151,7 @@ listen2.dro.amsterdam.nl
 live.bergen-nh.nl
 logilink.gbamailbox.amersfoort.nl
 login.alphenaandenrijn.nl
+login.bergen.nl
 loket-acc.asten.nl
 loket.aaenhunze.nl
 loket.aalsmeer.nl
@@ -1173,6 +1191,7 @@ mail.apeldoorn.nl
 mail.arnhem.nl
 mail.asten.nl
 mail.barneveld.nl
+mail.bergen.nl
 mail.dmb.amsterdam.nl
 mail.noord.amsterdam.nl
 mail.participatie.aalsmeer.nl
@@ -1535,6 +1554,7 @@ probeer.baarn.nl
 probeer.barendrecht.nl
 probeer.beekdaelen.nl
 probeer.bergeijk.nl
+probeer.bergen.nl
 projectarchief-vor.amsterdam.nl
 protectus.ggd.amsterdam.nl
 proto.apeldoorn.nl
@@ -1674,6 +1694,7 @@ simcms.baarn.nl
 simcms.barendrecht.nl
 simcms.beekdaelen.nl
 simcms.bergeijk.nl
+simcms.bergen.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -1685,6 +1706,7 @@ simsite.baarle-nassau.nl
 simsite.baarn.nl
 simsite.beekdaelen.nl
 simsite.bergeijk.nl
+simsite.bergen.nl
 sip.assen.nl
 sip.ggd.amsterdam.nl
 sip.oa.amsterdam.nl
@@ -1792,6 +1814,7 @@ taxiportaal-acc.amsterdam.nl
 taxiportaal.amsterdam.nl
 telecom.apeldoorn.nl
 telewerken.amsterdam.nl
+test-binnenshuis.bergen.nl
 test-digikoppeling.assen.nl
 test-digikoppeling.beesel.nl
 test-e-loket.apeldoorn.nl
@@ -1824,6 +1847,7 @@ test.formulieren.almere.nl
 test.io.amsterdam.nl
 test.mijnzorg.beekdaelen.nl
 testafspraken.alkmaar.nl
+testcms-binnenshuis.bergen.nl
 testdigid.arnhem.nl
 testdigitaalgemeenteloket.alphenaandenrijn.nl
 testeloket.arnhem.nl
@@ -1926,6 +1950,7 @@ webconf.assen.nl
 webmail.alkmaar.nl
 webmail.amersfoort.nl
 webmail.bergen-nh.nl
+webmail.bergen.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -2037,6 +2062,7 @@ www.beesel.nl
 www.bereikbaar.amsterdam.nl
 www.bergeijk.nl
 www.bergen-nh.nl
+www.bergen.nl
 www.bestemmingsplannen.amsterdam.nl
 www.bestuur.centrum.amsterdam.nl
 www.bikecity.amsterdam.nl
@@ -2158,6 +2184,7 @@ zaken.top.amsterdam.nl
 zec.acc.amsterdam.nl
 zec.amsterdam.nl
 zoeken.alkmaar.nl
+zorg.bergen.nl
 zorgvlied.acceptatie.amstelveen.nl
 zorgvlied.amstelveen.nl
 zrc.data.amsterdam.nl
