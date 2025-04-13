@@ -1,26 +1,27 @@
 
 www
 autodiscover
-edienstenburgerzaken
 iburgerzaken
 ibzpink
+edienstenburgerzaken
 meldingen
 mail
+secure
 loket
 edienstenburgerzaken-test
 mijn
-secure
+afspraken
 api.meldingen
 loket.acceptatie
+acceptatie
 intranet
-afspraken
 api.meldingen-acc
 meldingen-acc
-acceptatie
 data
 test
 dkd
 simcms
+simsite
 raad
 werkplek
 parkeren
@@ -32,7 +33,6 @@ loket.test
 documenten
 portal
 probeer
-simsite
 kennisbank
 portaal
 ruimtelijkeplannen
@@ -46,6 +46,7 @@ acc
 belastingen
 eloket
 snelbalie
+waarmerk
 enterpriseenrollment
 enterpriseregistration
 formulier
@@ -87,7 +88,8 @@ iam
 maps
 planon
 stadsarchief
-waarmerk
+berichten
+digitaalnachtregister
 centrumbegroot
 duurzaam
 exchange
@@ -104,6 +106,7 @@ qr
 apps
 dataportaal
 evenementen
+gemeente
 openzaak
 parkeren-acc
 top
@@ -317,8 +320,6 @@ voorschool
 wachtwoordreset
 wifiguestportal
 wijkteams
-berichten
-digitaalnachtregister
 website
 afvalkalender
 alleplannen.centrumbegroot
@@ -868,7 +869,6 @@ ftps.ggd
 gbav.dpg
 gebiedinbeeld
 gebouwdin
-gemeente
 geoprdb.stadstoezicht
 ggd
 gir.acc
