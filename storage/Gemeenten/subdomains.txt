@@ -82,6 +82,7 @@ acc-keycloak.dev.assen.nl
 acc-keycloak.enschede.nl
 acc-keycloak.gemeente-oldambt.nl
 acc-maps.almere.nl
+acc-mediabank.gemeentehw.nl
 acc-midoffice.gemeente-oldambt.nl
 acc-mijn.assen.nl
 acc-mijn.dev.assen.nl
@@ -407,6 +408,7 @@ afspraken.emmen.nl
 afspraken.ermelo.nl
 afspraken.gemeente-oldambt.nl
 afspraken.gemeente-steenbergen.nl
+afspraken.gemeentehw.nl
 afval.acc.denhaag.nl
 afval.assen.nl
 afval.diemen.nl
@@ -612,6 +614,7 @@ aut.topdesk.denhaag.nl
 auth.apeldoorn.nl
 auth.denhaag.nl
 auth.doemee.bloemendaal.nl
+auth.gemeentehw.nl
 auth.openstad.deventer.nl
 auth.openstad.enschede.nl
 auth1.denhaag.nl
@@ -622,6 +625,7 @@ auth5.denhaag.nl
 auth7.denhaag.nl
 authenticatiedienst.echt-susteren.nl
 authenticatiedienst.preprod.echt-susteren.nl
+authentication.gemeentehw.nl
 authx.denhaag.nl
 authx1.denhaag.nl
 authx2.denhaag.nl
@@ -693,6 +697,7 @@ autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
 autodiscover.gemeentehulst.nl
+autodiscover.gemeentehw.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -804,11 +809,13 @@ begraven.dewolden.nl
 begroten.centrumbegroot.alphenaandenrijn.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 begroting.delft.nl
+begroting.gemeentehw.nl
 beheer-test-trefpunt.deurne.nl
 beheer-trefpunt.deurne.nl
 beheer.acc.amsterdam.nl
 beheer.amsterdam.nl
 beheer.data.amsterdam.nl
+beheer.gemeentehw.nl
 beheerbeeldbank.breda.nl
 beheerfotobank.amsterdam.nl
 beheeropenbareruimte.arnhem.nl
@@ -988,6 +995,7 @@ broker.elburg.nl
 broker.emmen.nl
 broker.enschede.nl
 broker.gemeente-oldambt.nl
+broker.gemeentehw.nl
 bronckhorst.nl
 bros-academie.deurne.nl
 brsoribi01.borsele.nl
@@ -1327,6 +1335,7 @@ digikoppeling-test.cranendonck.nl
 digikoppeling-test.echt-susteren.nl
 digikoppeling-test.gemeente-steenbergen.nl
 digikoppeling-test.gemeentehulst.nl
+digikoppeling-test.gemeentehw.nl
 digikoppeling-test.gemnet.ede.nl
 digikoppeling.aaenhunze.nl
 digikoppeling.amstelveen.nl
@@ -1351,6 +1360,7 @@ digikoppeling.eijsden-margraten.nl
 digikoppeling.eindhoven.nl
 digikoppeling.emmen.nl
 digikoppeling.gemeentehulst.nl
+digikoppeling.gemeentehw.nl
 digikoppeling.gemnet.ede.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
@@ -1398,6 +1408,7 @@ dkd.denhelder.nl
 dkd.deventer.nl
 dkd.doesburg.nl
 dkd.dronten.nl
+dkd.gemeentehw.nl
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdtest.brunssum.nl
@@ -1552,7 +1563,9 @@ edam-volendam.nl
 ede.nl
 edge.echt-susteren.nl
 edienstaanvragensd.defryskemarren.nl
+ediensten-preproductie.gemeentehw.nl
 ediensten-sociaaldomein.denhelder.nl
+ediensten.gemeentehw.nl
 edienstenaanvragensd-acceptatie.albrandswaard.nl
 edienstenaanvragensd-acceptatie.barendrecht.nl
 edienstenaanvragensd.albrandswaard.nl
@@ -1594,6 +1607,7 @@ edienstenburgerzaken-test.ermelo.nl
 edienstenburgerzaken-test.etten-leur.nl
 edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken-test.gemeentehulst.nl
+edienstenburgerzaken-test.gemeentehw.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -1634,6 +1648,7 @@ edienstenburgerzaken.ermelo.nl
 edienstenburgerzaken.etten-leur.nl
 edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.gemeentehulst.nl
+edienstenburgerzaken.gemeentehw.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1937,6 +1952,7 @@ formulieren.duiven.nl
 formulieren.edam-volendam.nl
 formulieren.geertruidenberg.nl
 formulieren.gemeente-steenbergen.nl
+formulieren.gemeentehw.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -2010,6 +2026,7 @@ gemeenteberkelland.nl
 gemeentebest.nl
 gemeenteblad.almere.nl
 gemeentehulst.nl
+gemeentehw.nl
 gemeenteraad.almere.nl
 gemeenteraad.amsterdam.nl
 gemeenteraad.arnhem.nl
@@ -2067,6 +2084,7 @@ geovisia.achtkarspelen.nl
 geovisia.amersfoort.nl
 geovisia.gemeente-oldambt.nl
 geuzenstatenkwartierfietst.denhaag.nl
+gevondenvoorwerpen.gemeentehw.nl
 gezinscoach.deventer.nl
 ggd.amsterdam.nl
 ggk.brunssum.nl
@@ -2190,6 +2208,8 @@ huishoudboekje.amersfoort.nl
 huisvuilkalender.acc.denhaag.nl
 huisvuilkalender.denhaag.nl
 hupextern.acc.denhaag.nl
+hwok-test.gemeentehw.nl
+hwok.gemeentehw.nl
 hybrid.almelo.nl
 hybrid.almere.nl
 hybrid.beverwijk.nl
@@ -2198,6 +2218,7 @@ hybrid.dongen.nl
 hybrid.edam-volendam.nl
 hybrid.gemeentebeek.nl
 hybrid.gemeenteberkelland.nl
+hybrid.gemeentehw.nl
 hybridmail.amersfoort.nl
 iam-acc.almere.nl
 iam-forms.denhaag.nl
@@ -2518,6 +2539,7 @@ jaarrekening2021.financieelportaal.etten-leur.nl
 jaarstukken.bronckhorst.nl
 jaarstukken.delft.nl
 jaarstukken.gemeente-steenbergen.nl
+jaarstukken.gemeentehw.nl
 jaarstukken2020.bronckhorst.nl
 jaarstukken2021.bronckhorst.nl
 jaarstukken2022.bronckhorst.nl
@@ -2715,6 +2737,7 @@ login.bernheze.org
 login.boekel.nl
 login.ede.nl
 login.gemeentebeek.nl
+login.gemeentehw.nl
 logoff.ede.nl
 loket-acc.asten.nl
 loket-acc.gemeentehulst.nl
@@ -2869,6 +2892,7 @@ media.assen.nl
 media.delft.nl
 media.denhaag.nl
 mediabank.eindhoven.nl
+mediabank.gemeentehw.nl
 meedenken.arnhem.nl
 meedoen-acc.borger-odoorn.nl
 meedoen.baarn.nl
@@ -2986,6 +3010,7 @@ mijninkomen.defryskemarren.nl
 mijninkomen.denhelder.nl
 mijninkomen.doesburg.nl
 mijninkomen.dronten.nl
+mijninkomen.gemeentehw.nl
 mijnkaart.deurne.nl
 mijnkaarten.ovh.gemeentebeek.nl
 mijnloket.deventer.nl
@@ -3339,6 +3364,7 @@ openpdc.dronten.nl
 openpdc.enkhuizen.nl
 openpdc.etten-leur.nl
 openpdc.gemeenteberkelland.nl
+openpdc.gemeentehw.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.arnhem.nl
@@ -3347,6 +3373,7 @@ openpub.buren.nl
 openpub.defryskemarren.nl
 openpub.dronten.nl
 openpub.gemeenteberkelland.nl
+openpub.gemeentehw.nl
 openstad.apeldoorn.nl
 openstad.deventer.nl
 openstad.emmen.nl
@@ -3477,6 +3504,7 @@ passwordreset.almere.nl
 patternlab.barneveld.nl
 pb-yutpa.rnd.amsterdam.nl
 pdc.buren.nl
+pencportaal.gemeentehw.nl
 pencportal.ede.nl
 personeelshandboek.bronckhorst.nl
 personeelsplanning.beekdaelen.nl
@@ -3488,7 +3516,9 @@ phpmyadmin.bodegraven-reeuwijk.nl
 pilot-digitaleplannen.apeldoorn.nl
 pinewood.lev.delft.nl
 pingping.amsterdam.nl
+pip-preproductie.gemeentehw.nl
 pip-test.emmen.nl
+pip.gemeentehw.nl
 pit.ede.nl
 piwik.almelo.nl
 piwik.bodegraven-reeuwijk.nl
@@ -3594,6 +3624,7 @@ preprod-broker.buren.nl
 preprod-edienstaanvragensd.defryskemarren.nl
 preprod-ediensten-sociaaldomein.denhelder.nl
 preprod-formulieren.buren.nl
+preprod-formulieren.gemeentehw.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
 preprod-mijn.defryskemarren.nl
@@ -3604,6 +3635,7 @@ preprod-mijninkomen.defryskemarren.nl
 preprod-mijninkomen.denhelder.nl
 preprod-mijninkomen.doesburg.nl
 preprod-mijninkomen.dronten.nl
+preprod-mijninkomen.gemeentehw.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnplan.gemeenteberkelland.nl
 preprod-mijnportaal.defryskemarren.nl
@@ -3622,6 +3654,7 @@ preprod.vergunningintaker.bernheze.org
 preprodbroker.aalten.nl
 preprodbroker.bernheze.org
 preprodbroker.duiven.nl
+preprodbroker.gemeentehw.nl
 preprodgdintaker.diemen.nl
 preprodscbroker.diemen.nl
 preproductie.aalten.nl
@@ -3647,6 +3680,7 @@ preproductie.eersel.nl
 preproductie.enkhuizen.nl
 preproductie.geertruidenberg.nl
 preproductie.gemeentebeek.nl
+preproductie.gemeentehw.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
 private-test.delft.nl
@@ -3714,6 +3748,7 @@ pv.echt-susteren.nl
 pv.enschede.nl
 pv.geldrop-mierlo.nl
 pv.gemeenteberkelland.nl
+pv.gevondenvoorwerpen.gemeentehw.nl
 pveopenbareruimte.deventer.nl
 pwa.barendrecht.nl
 qcalendar.deventer.nl
@@ -4017,8 +4052,10 @@ simcms.gemeentebeek.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
+simform-preproductie.gemeentehw.nl
 simform.achtkarspelen.nl
 simform.beuningen.nl
+simform.gemeentehw.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
 simsite.alphen-chaam.nl
@@ -4050,6 +4087,7 @@ simsite.ermelo.nl
 simsite.geertruidenberg.nl
 simsite.geldrop-mierlo.nl
 simsite.gemeentebeek.nl
+simsite.gemeentehw.nl
 sip.assen.nl
 sip.castricum.nl
 sip.diemen.nl
@@ -4153,8 +4191,10 @@ squit2go-backoffice.enschede.nl
 squit2go.castricum.nl
 squit2go.enschede.nl
 squit2go.gemeentebest.nl
+squit2goprod.gemeentehw.nl
 squit2gotest-backoffice.enschede.nl
 squit2gotest.enschede.nl
+squit2gotest.gemeentehw.nl
 srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
 srvmksbur.buren.nl
@@ -4284,6 +4324,7 @@ taxiportaal-acc.amsterdam.nl
 taxiportaal.amsterdam.nl
 td.gemeentehulst.nl
 telecom.apeldoorn.nl
+telefoon.gemeentehw.nl
 telewerken.amsterdam.nl
 telewerken.drechterland.nl
 test-belastingbalie.eindhoven.nl
@@ -4381,6 +4422,7 @@ test.io.amsterdam.nl
 test.mijnzorg.beekdaelen.nl
 test.services.dronten.nl
 testafspraken.alkmaar.nl
+testafspraken.gemeentehw.nl
 testbelastingloket.edam-volendam.nl
 testbelastingloket.elburg.nl
 testberichten.bergendal.nl
@@ -4716,6 +4758,7 @@ werkplek.etten-leur.nl
 werkplek.gemeentebeek.nl
 werkplek.gemeenteberkelland.nl
 werkplek.gemeentebest.nl
+werkplek.gemeentehw.nl
 werkplek.gslb.alkmaar.nl
 werkplek.ovh.gemeentebeek.nl
 werkplek02.derondevenen.nl
@@ -5010,6 +5053,7 @@ www.gemeentebeek.nl
 www.gemeenteberkelland.nl
 www.gemeentebest.nl
 www.gemeentehulst.nl
+www.gemeentehw.nl
 www.gemeenteraad.bloemendaal.nl
 www.gemeenteraad.etten-leur.nl
 www.gemnps01.eijsden-margraten.nl
@@ -5281,6 +5325,7 @@ ztc.data.amsterdam.nl
 zuiderbad.amsterdam.nl
 zuidwestopznbest-acc.denhaag.nl
 zuidwestopznbest.denhaag.nl
+zuil.gemeentehw.nl
 zvldapp.amstelveen.nl
 zwammerdamdorpskern.alphenaandenrijn.nl
 zwembadabonnement.gemeentebest.nl
