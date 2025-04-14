@@ -11,8 +11,8 @@ afspraken
 simsite
 webmail
 mijn
-secure
 preproductie
+secure
 simcms
 digikoppeling
 acceptatie
@@ -23,16 +23,16 @@ test
 acc
 formulieren
 werkplek
+portal
 waarmerk
 afspraak
 dkd
-portal
 broker
 adfs
 betalen
+eloket
 gemeenteraad
 geo
-eloket
 open
 meldingen
 pv
@@ -46,6 +46,7 @@ dacceptatieloket
 dacceptatiemidoffice
 data
 openpdc
+testeloket
 dloket
 dmidoffice
 loket.acceptatie
@@ -55,7 +56,6 @@ osb
 hybrid
 login
 formulier
-testeloket
 api.meldingen
 remote
 iparticipatie
@@ -126,6 +126,7 @@ keycloak
 objecten
 sts
 extranet
+samen
 simcms-open
 pki
 dtestmidoffice
@@ -157,7 +158,6 @@ openklant
 test-digikoppeling
 belastingloket
 byod
-samen
 uca
 uc
 www.webmail
@@ -177,6 +177,7 @@ loket.test
 midoffice
 www.acceptatie
 denkmee
+geovisia
 simform
 college
 praatmee
@@ -189,6 +190,7 @@ maps
 thuiswerken
 cms
 preprod
+ro-online
 www.duurzaam
 onderzoek
 vdi
@@ -199,6 +201,7 @@ api.betalen
 evenementen
 ftp
 legacy
+parkeervergunningen
 telewerken
 desktop
 mijngeldzaken
@@ -218,13 +221,14 @@ mobiel
 ro
 inproces.acceptatie
 inproces
+cryptshare
 admin.openstad
 auth.openstad
 img.openstad
 e.openstad
+raadsnet
 toegang
 vergunningintaker-preprod
-geovisia
 gisib-test
 gisibapi-test
 gisibapi
@@ -243,14 +247,12 @@ melddesk
 stadsarchief
 digitaalnachtregister
 exchange
-ro-online
 mozard
 mozardtest
 bewustwording
 magazine
 wion
 api
-parkeervergunningen
 top
 e-loket
 gbi
@@ -306,7 +308,7 @@ omgevingswet
 programmabegroting
 key2gbav
 www.afspraak
-cryptshare
+woz-loket
 storefront
 klantportaal
 outlook
@@ -336,7 +338,6 @@ inloggen.belastingportaal.acc
 www2
 edienstenburgerzaken.test
 participatie
-raadsnet
 simform-preproductie
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
@@ -414,6 +415,7 @@ digitaleplannen
 gpa
 ndes
 parkeerapp
+digid
 ns2
 testdigid
 wob
@@ -484,7 +486,6 @@ download
 squit2go-backoffice
 connect.test
 contentbeheer.test
-woz-loket
 zaken.test
 ris
 bor
@@ -1852,7 +1853,6 @@ www.matenpark
 www.prijsvraag-zwembad
 www.stadspas
 beheeropenbareruimte
-digid
 digikoppelingtst
 dns1
 edienstenweni-test
@@ -4050,3 +4050,10 @@ hardinxveld-giessendam-checker-preprod
 hardinxveld-giessendam-checker
 rxlaunch-signicat-preprod
 vthbroker
+acc.woz-loket
+groen
+parkeervergunningenacc
+tbp
+tbt
+testtsjinstbus
+tsjinstbus
