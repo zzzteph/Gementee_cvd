@@ -3,8 +3,8 @@ www
 autodiscover
 iburgerzaken
 ibzpink
-afspraken
 edienstenburgerzaken
+afspraken
 intranet
 secure
 simcms
@@ -21,14 +21,14 @@ webmail
 acceptatie
 test
 dkd
+acc
 meldingen
 portal
-acc
 formulieren
 adfs
+gemeenteraad
 pv
 eloket
-gemeenteraad
 afspraak
 loket.acceptatie
 data
@@ -47,6 +47,7 @@ werkenbij
 omgevingsvisie
 kaart
 waarmerk
+open
 iparticipatie
 zaken
 openpub
@@ -54,13 +55,14 @@ snelbalie
 digikoppeling-test
 enterpriseregistration
 nieuwsbrief
-open
 testeloket
 cmsoo
 dacceptatieloket
 dacceptatiemidoffice
 dloket
 dmidoffice
+cloudadapter-test
+cloudadapter
 api.meldingen-acc
 meldingen-acc
 remote
@@ -77,8 +79,7 @@ financien
 formulier
 gemeente
 bgt
-cloudadapter-test
-cloudadapter
+belastingportaal
 loket.test
 mijnzorg-acc
 _autodiscover._tcp
@@ -94,6 +95,7 @@ login
 www.duurzaam
 siam
 ns
+qr
 apps
 evenementen
 ftp
@@ -103,7 +105,6 @@ acc-broker
 test-digikoppeling
 woningbouwkaart
 mdm
-belastingportaal
 midoffice
 www.acceptatie
 documenten
@@ -120,7 +121,6 @@ stadsarchief
 exchange
 mailing
 belastingbalie
-qr
 vdi
 atlas
 beeldbank
@@ -146,6 +146,7 @@ gasten
 govroam
 simcms-preproductie
 formulieren-test
+acceptatieloket
 uca
 intranet-acc
 doemee
@@ -271,7 +272,6 @@ publicroam
 gisibonline
 sentry
 jccapi
-acceptatieloket
 klimaatplein
 mijnsociaalplein
 mijnsociaalportaal-acc
@@ -292,6 +292,7 @@ pki
 dtestloket
 wozloket-acc
 gp
+belastingportaal-test
 projecten
 filecap
 dtestmidoffice
@@ -313,6 +314,7 @@ zaken.test
 ris
 archief
 kennisportaal
+uitslagen
 burgerloket
 ondernemersloket
 webapps
@@ -1946,7 +1948,6 @@ jcccloud
 jongin
 Belastingportaal-test
 atelier
-belastingportaal-test
 netwerk
 preprod-mijnoverzicht
 woww
@@ -2497,7 +2498,6 @@ udp-rspackage-acc
 udp-rspackage
 udp-rstudio-acc
 udp-rstudio
-uitslagen
 uwmening
 verkeersbesluiten
 verkiezingen.acc.topdesk
@@ -2766,3 +2766,8 @@ parkeren-siam-test
 parkeren-siam
 site
 training
+acceptatie-open
+preprod-sociaalportaal
+serverruimte
+sociaalportaal
+testloket

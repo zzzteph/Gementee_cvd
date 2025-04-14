@@ -124,6 +124,7 @@ acc.data.amsterdam.nl
 acc.datapunt.amsterdam.nl
 acc.demolab.amsterdam.nl
 acc.denhaag.nl
+acc.dinkelland.nl
 acc.drc.data.amsterdam.nl
 acc.dsr.maps.amsterdam.nl
 acc.fblocatielijst.amsterdam.nl
@@ -218,6 +219,7 @@ acc.zxy-cloud-models.amsterdam.nl
 acc.zxy-cloud.amsterdam.nl
 accdrop.barneveld.nl
 accept-zaaksysteem.denhelder.nl
+acceptatie-open.dinkelland.nl
 acceptatie-vaarvergunningen.amsterdam.nl
 acceptatie.aalsmeer.nl
 acceptatie.alphen-chaam.nl
@@ -236,6 +238,7 @@ acceptatie.diemen.nl
 acceptatie.intranet.debilt.nl
 acceptatieloket.bergen-nh.nl
 acceptatieloket.borne.nl
+acceptatieloket.dinkelland.nl
 access.oa.amsterdam.nl
 accisdtalentcenter.bergenopzoom.nl
 accschuldhulp.coevorden.nl
@@ -643,11 +646,13 @@ belastingen.alphenaandenrijn.nl
 belastingen.arnhem.nl
 belastingloket.barneveld.nl
 belastingportaal-test.boxtel.nl
+belastingportaal-test.dinkelland.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
 belastingportaal.acc.assen.nl
 belastingportaal.assen.nl
 belastingportaal.boxtel.nl
+belastingportaal.dinkelland.nl
 bereikbaarheid.amsterdam.nl
 bereikbarestad-acc.denhaag.nl
 bereikbarestad.denhaag.nl
@@ -816,11 +821,13 @@ cloudadapter-test.bronckhorst.nl
 cloudadapter-test.brunssum.nl
 cloudadapter-test.debilt.nl
 cloudadapter-test.delft.nl
+cloudadapter-test.dinkelland.nl
 cloudadapter.baarn.nl
 cloudadapter.bronckhorst.nl
 cloudadapter.brunssum.nl
 cloudadapter.debilt.nl
 cloudadapter.delft.nl
+cloudadapter.dinkelland.nl
 cloudrecorder.denhaag.nl
 cluster-cg.test.denhaag.nl
 cms-binnenshuis.bergen.nl
@@ -1056,6 +1063,7 @@ digitaalnachtregister.baarle-nassau.nl
 digitaleplannen.apeldoorn.nl
 dijkenwaard.nl
 diko.apeldoorn.nl
+dinkelland.nl
 directadmin.almelo.nl
 djuma.beesel.nl
 djumaproxy.brunssum.nl
@@ -1212,6 +1220,7 @@ edienstenburgerzaken-test.castricum.nl
 edienstenburgerzaken-test.dantumadiel.frl
 edienstenburgerzaken-test.defryskemarren.nl
 edienstenburgerzaken-test.denhelder.nl
+edienstenburgerzaken-test.dinkelland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -1236,6 +1245,7 @@ edienstenburgerzaken.dantumadiel.frl
 edienstenburgerzaken.defryskemarren.nl
 edienstenburgerzaken.denhaag.nl
 edienstenburgerzaken.denhelder.nl
+edienstenburgerzaken.dinkelland.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1528,6 +1538,7 @@ gemeenteraad.borne.nl
 gemeenteraad.denhelder.nl
 gemeenteraad.deventer.nl
 gemeenteraad.diemen.nl
+gemeenteraad.dinkelland.nl
 gen1.alkmaar.nl
 gen2.alkmaar.nl
 geo.aaenhunze.nl
@@ -2494,6 +2505,7 @@ open.boxtel.nl
 open.breda.nl
 open.bronckhorst.nl
 open.data.amsterdam.nl
+open.dinkelland.nl
 openbareruimte.deventer.nl
 opendata.arnhem.nl
 opendata.assen.nl
@@ -2735,6 +2747,7 @@ preprod-mijnportaal.defryskemarren.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 preprod-mijnsociaalplein.castricum.nl
 preprod-mijnzorg.denhelder.nl
+preprod-sociaalportaal.dinkelland.nl
 preprod-woz-portaal-eemnes.baarn.nl
 preprod.alphenaandenrijn.nl
 preprod.mijnaanvraagzi.beuningen.nl
@@ -2820,6 +2833,7 @@ qr.amersfoort.nl
 qr.arnhem.nl
 qr.capelleaandenijssel.nl
 qr.digitaalgemeenteloket.alphenaandenrijn.nl
+qr.dinkelland.nl
 qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 quarantine.bernheze.org
 r01-nk-h140.ams.denhaag.nl
@@ -2987,6 +3001,7 @@ sensorenregister.amsterdam.nl
 sentry.beesel.nl
 sentry.denhelder.nl
 sentry1.denhelder.nl
+serverruimte.dinkelland.nl
 servicebus.capelleaandenijssel.nl
 servicedesk.almelo.nl
 services.acc.amsterdam.nl
@@ -3130,6 +3145,7 @@ soc.amsterdam.nl
 soc.brievenbus.amsterdam.nl
 sociaal.amsterdam.nl
 sociaaldomein.almere.nl
+sociaalportaal.dinkelland.nl
 social.amsterdam.nl
 socialeteams.deventer.nl
 sollicitatie.ggd.amsterdam.nl
@@ -3314,6 +3330,7 @@ test.bunnik.nl
 test.denhelder.nl
 test.diemen.nl
 test.digikoppeling.denhelder.nl
+test.dinkelland.nl
 test.formulieren.almere.nl
 test.io.amsterdam.nl
 test.mijnzorg.beekdaelen.nl
@@ -3332,6 +3349,7 @@ testeloket.culemborg.nl
 testeloket.deurne.nl
 testformulieren.bodegraven-reeuwijk.nl
 testkaart.alphenaandenrijn.nl
+testloket.dinkelland.nl
 testmeldingen.asten.nl
 testmijnzaken.derondevenen.nl
 testportaal.almelo.nl
@@ -3393,6 +3411,7 @@ udp-rspackage.denhaag.nl
 udp-rstudio-acc.denhaag.nl
 udp-rstudio.denhaag.nl
 uitslagen.denhaag.nl
+uitslagen.dinkelland.nl
 uitvaartagenda-dev.apeldoorn.nl
 uitvaartagenda-staging.apeldoorn.nl
 uitvaartagenda-test.apeldoorn.nl
@@ -3758,6 +3777,7 @@ www.devgovrs1.deventer.nl
 www.dewolden.nl
 www.diemen.nl
 www.dijkenwaard.nl
+www.dinkelland.nl
 www.dmo.amsterdam.nl
 www.dmo2.amsterdam.nl
 www.doe-mee.coevorden.nl
