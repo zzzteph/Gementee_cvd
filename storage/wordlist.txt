@@ -17,9 +17,9 @@ digikoppeling
 preproductie
 probeer
 acceptatie
+felix
 loket
 test
-felix
 acc
 formulieren
 dkd
@@ -33,12 +33,12 @@ adfs
 geo
 broker
 pv
-enterpriseenrollment
-data
 omgevingsvisie
 eloket
-waarmerk
+enterpriseenrollment
 open
+data
+waarmerk
 api.meldingen
 loket.acceptatie
 iparticipatie
@@ -50,8 +50,8 @@ vpn
 werkenbij
 zaaksysteem-accept
 parkeren
-test-ipa
 testeloket
+test-ipa
 cmsoo
 dacceptatieloket
 dacceptatiemidoffice
@@ -135,6 +135,7 @@ govroam
 samen
 formulieren-test
 uca
+simcms-open
 doemee
 dtestloket
 smtp
@@ -195,7 +196,6 @@ jccapi
 acceptatieloket
 data-test
 intranet-acc
-simcms-open
 uc
 www.doemee
 acc.piwik
@@ -3102,3 +3102,11 @@ mijnwiz
 via
 woa
 woa2
+centrumimpuls
+en
+giskit-bgt
+luchen
+samenduurzaam
+simcms-centrumimpuls
+simcms-omgevingsvisie
+simcms-samenduurzaam
