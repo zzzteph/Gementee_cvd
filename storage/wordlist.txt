@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mail
-afspraken
 simsite
+afspraken
 mijn
 webmail
 digikoppeling
@@ -27,8 +27,8 @@ afspraak
 meldingen
 dkd
 werkplek
-waarmerk
 eloket
+waarmerk
 adfs
 broker
 betalen
@@ -44,14 +44,14 @@ ruimtelijkeplannen
 vpn
 zaaksysteem-accept
 enterpriseenrollment
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
+data
 openpdc
-testeloket
 dloket
 dmidoffice
 loket.acceptatie
-data
 iparticipatie
 osb
 werkenbij
@@ -92,6 +92,7 @@ mks
 nieuwsbrief
 govroam
 test-intranet
+pki
 doemee
 dtestloket
 filecap
@@ -109,7 +110,6 @@ gemeente
 acc-podiumd-logs
 podiumd-logs
 belastingloket
-pki
 mdm
 dtestmidoffice
 jaarstukken
@@ -228,10 +228,12 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 support
+data-test
 micollab
 www.doemee
 www.gemeenteraad
 acc.piwik
+jongin
 rap
 omgevingswet
 mobiel
@@ -313,14 +315,12 @@ klimaatplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
 wij
-data-test
 intranet-acc
 digikoppelingtest
 extern
 wozloket
 gp
 mam
-jongin
 2secure
 erfgoed
 matomo
@@ -330,6 +330,7 @@ programmabegroting
 djumaproxy
 dkdtest
 medewerkers
+www.jongin
 www.afspraak
 bor
 archief
@@ -511,7 +512,6 @@ test-secure
 uitwijk
 mbg
 preprod-formulieren
-www.jongin
 qr-acc
 servicebus
 download
@@ -4207,3 +4207,5 @@ siem
 siem2
 test-cmsextranet
 test-extranet
+email.privacy
+geoloket
