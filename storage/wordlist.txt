@@ -14,8 +14,8 @@ mail
 felix
 mijn
 preproductie
-digikoppeling
 probeer
+digikoppeling
 webmail
 loket
 acceptatie
@@ -26,11 +26,11 @@ acc
 formulieren
 adfs
 portal
+eloket
 loket.acceptatie
 data
 pv
 werkplek
-eloket
 enterpriseenrollment
 afspraak
 api.meldingen
@@ -38,6 +38,7 @@ geo
 mijnzorg
 ruimtelijkeplannen
 raad
+vpn
 werkenbij
 parkeren
 betalen
@@ -47,13 +48,13 @@ waarmerk
 broker
 zaken
 openpub
-vpn
 omgevingsvisie
 snelbalie
 digikoppeling-test
 enterpriseregistration
 nieuwsbrief
 open
+testeloket
 cmsoo
 api.meldingen-acc
 meldingen-acc
@@ -68,7 +69,6 @@ snelbaliepp
 financien
 formulier
 gemeente
-testeloket
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -137,6 +137,7 @@ media
 woningbouwkaart
 obsurv
 extranet
+klantcontact
 gasten
 govroam
 simcms-preproductie
@@ -244,7 +245,6 @@ bis
 keycloak
 sip
 sts
-klantcontact
 meedoen
 publicaties
 byod
@@ -269,6 +269,7 @@ corona
 csc
 digid-parkeervergunningen
 mbg1
+micollab
 simcms-open
 uc
 pki
@@ -1868,7 +1869,6 @@ frontoffice-parkeervergunningen
 key2financien-prod
 key2financien-test
 mdr
-micollab
 openwave
 rp
 simcms-begraafplaatsduinrust
@@ -2640,3 +2640,15 @@ selector2._domainkey
 stroomlijntest
 testmijnzaken
 werkplek02
+any2info
+beheer-test-trefpunt
+beheer-trefpunt
+bros-academie
+da
+mijnkaart
+rdweb
+sbc
+scim
+test-trefpunt
+trefpunt
+xelion
