@@ -27,16 +27,16 @@ afspraak
 adfs
 meldingen
 portal
+betalen
 gemeenteraad
 werkplek
-betalen
 geo
 data
+broker
 pv
 eloket
 enterpriseenrollment
 loket.acceptatie
-broker
 ruimtelijkeplannen
 raad
 vpn
@@ -47,6 +47,7 @@ api.meldingen
 iparticipatie
 werkenbij
 waarmerk
+testeloket
 remote
 mijnzorg
 test-ipa
@@ -58,7 +59,6 @@ mijninkomen
 kaart
 digikoppeling-test
 enterpriseregistration
-testeloket
 cmsoo
 kennisbank
 verkiezingen
@@ -95,6 +95,7 @@ parkeren-acc
 bgt
 pki
 mdm
+filecap
 connect
 belastingportaal
 loket.test
@@ -120,12 +121,12 @@ acc-broker
 sts
 test-digikoppeling
 extranet
+belastingloket
 govroam
 formulieren-test
 test-intranet
 smtp
 kaarten
-filecap
 AutoDiscover
 midoffice
 www.acceptatie
@@ -169,7 +170,6 @@ openformulieren
 sip
 obsurv
 klantcontact
-belastingloket
 publicaties
 fmreturn
 gasten
@@ -374,6 +374,7 @@ test-cmsintranet
 vergunningen
 www.socialekaart
 socialekaart
+testbelastingloket
 webapps
 www2
 email.mail.participatie
@@ -2886,7 +2887,6 @@ kop-pub-tmp-joi
 kop-pub-woz
 praathuis
 rmts
-testbelastingloket
 78852ffdb030c56.infra
 acceptatie.subsidies-backend
 acceptatie.subsidies
@@ -2984,3 +2984,4 @@ uitkeringen
 vragenlijst
 www.oco
 zaaksysteem
+mx
