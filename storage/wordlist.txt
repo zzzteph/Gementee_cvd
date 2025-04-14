@@ -6,9 +6,9 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
+afspraken
 mail
 simsite
-afspraken
 webmail
 mijn
 secure
@@ -26,9 +26,9 @@ formulieren
 broker
 dkd
 portal
+waarmerk
 afspraak
 adfs
-waarmerk
 betalen
 eloket
 meldingen
@@ -155,6 +155,7 @@ mobile
 smtp
 AutoDiscover
 jaarstukken
+squit2go
 contentbeheer.acceptatie
 contentbeheer
 zaken.acceptatie
@@ -204,7 +205,6 @@ www.doemee
 xential
 mobiel
 inloggen
-squit2go
 inproces.acceptatie
 inproces
 toegang
@@ -216,8 +216,10 @@ preprod-mijn
 www.werkenbij
 makelaar
 subsidie
+veiligmailen
 belastingbalie-test
 english
+melddesk
 stadsarchief
 digitaalnachtregister
 exchange
@@ -340,12 +342,10 @@ servicedesk
 start
 subsidies-backend.acceptatie
 subsidies.acceptatie
-veiligmailen
 3d
 belastingen-acc
 iam
 ingesprek
-melddesk
 planon
 secure-test
 sociaaldomein
@@ -3839,3 +3839,6 @@ tjooner
 validsign
 warp
 xentialtest
+mail.mailing
+mijnintranet
+server-appl13
