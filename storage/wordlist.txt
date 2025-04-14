@@ -4,10 +4,10 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-secure
-simcms
 afspraken
 edienstenburgerzaken-test
+secure
+simcms
 intranet
 simsite
 mijn
@@ -17,8 +17,8 @@ felix
 preproductie
 digikoppeling
 loket
-webmail
 acceptatie
+webmail
 test
 dkd
 acc
@@ -28,6 +28,7 @@ portal
 formulieren
 gemeenteraad
 pv
+werkplek
 betalen
 eloket
 enterpriseenrollment
@@ -36,7 +37,6 @@ geo
 loket.acceptatie
 data
 ruimtelijkeplannen
-werkplek
 parkeren
 open
 api.meldingen
@@ -73,6 +73,7 @@ openpdc
 verkiezingen
 osb
 zaaksysteem-accept
+hybrid
 preprod-mijninkomen
 duurzaam
 snelbaliepp
@@ -88,7 +89,6 @@ _autodiscover._tcp
 denkmee
 e
 portaal
-hybrid
 thuiswerken
 berichten
 afvalkalender
@@ -225,6 +225,7 @@ www.centrumbegroot
 mozard
 mozardtest
 bewustwording
+magazine
 onderzoek
 www.test
 jcc
@@ -273,6 +274,7 @@ fmreturn
 guest
 iarchief
 publicroam
+samen
 gisibonline
 sentry
 jccapi
@@ -527,7 +529,6 @@ key2waarderen-voormeldingwoz
 koppelpoort
 logilink.gbamailbox
 m2m
-magazine
 mail1
 mail2
 p-2secure
@@ -1792,7 +1793,6 @@ zaak
 alarm
 baglevering
 personeelsplanning
-samen
 simcms2
 test.mijnzorg
 bestuursinformatie
@@ -2798,3 +2798,10 @@ webdav
 webformulieren
 webscada-rps
 webscada
+bestanden
+certificates
+dkd.berichtenverkeer
+geoinformatie
+meedoenregeling
+test-meedoenregeling
+webservices
