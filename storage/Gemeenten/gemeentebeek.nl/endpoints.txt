@@ -1,0 +1,12 @@
+http://felix.gemeentebeek.nl
+http://gemeentebeek.nl
+http://open.gemeentebeek.nl
+http://test-cmsintranet.gemeentebeek.nl
+https://cmsintranet.gemeentebeek.nl
+https://iburgerzaken.gemeentebeek.nl
+https://intranet.gemeentebeek.nl
+https://mailing.gemeentebeek.nl
+https://secudoc.gemeentebeek.nl
+https://simsite.gemeentebeek.nl
+https://werkplek.gemeentebeek.nl
+https://www.gemeentebeek.nl
