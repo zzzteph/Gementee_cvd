@@ -16,8 +16,8 @@ mijn
 preproductie
 digikoppeling
 acceptatie
-loket
 probeer
+loket
 felix
 test
 broker
@@ -62,13 +62,15 @@ openpub
 osb
 werkenbij
 hybrid
+mijninkomen
 login
 acc-broker
 mijnzorg
 test-ipa
-mijninkomen
 piwik
+preprod-mijninkomen
 berichten
+nieuwsbrief
 woningbouwkaart
 cloudadapter-test
 cloudadapter
@@ -77,16 +79,15 @@ api.meldingen-acc
 meldingen-acc
 belastingen
 kaart
-preprod-mijninkomen
+snelbalie
 enterpriseregistration
 belastingbalie
-nieuwsbrief
 test-intranet
 filecap
 kennisbank
 portaal
 verkiezingen
-snelbalie
+snelbaliepp
 siam
 financien
 beeldbank
@@ -110,7 +111,6 @@ osbacc
 subsidies
 duurzaam
 mailing
-snelbaliepp
 ns
 qr
 digikoppeling.test
@@ -134,6 +134,7 @@ sts
 belastingloket
 govroam
 simcms-open
+uc
 www.webmail
 mobile
 smtp
@@ -154,6 +155,7 @@ denkmee
 e
 simform
 gisib
+praatmee
 izaaksuite
 wachtwoord
 flowmailer-tracking
@@ -181,10 +183,10 @@ mijngeldzaken
 bag
 openformulieren
 test-digikoppeling
+meedoen
 samen
 formulieren-test
 uca
-uc
 www.doemee
 jaarstukken
 inloggen
@@ -193,7 +195,7 @@ inproces
 cmsintranet
 geovisia
 college
-praatmee
+www.praatmee
 preprod-mijn
 www.werkenbij
 subsidie
@@ -235,7 +237,6 @@ test-openzaak
 test-podiumd-logs
 obsurv
 klantcontact
-meedoen
 publicaties
 byod
 fmreturn
@@ -268,6 +269,7 @@ admin.openstad
 auth.openstad
 img.openstad
 openformulieren-test
+webdav
 squit2020.acceptatie
 squit2020
 afspraakmaken
@@ -290,7 +292,6 @@ gisibapi
 gisibgeoserver-test
 gisibgeoserver
 web
-www.praatmee
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -460,7 +461,6 @@ parkeren-siam-test
 parkeren-siam
 centric
 eformulieren
-webdav
 router
 klantportaal.acc
 prod
@@ -3441,3 +3441,13 @@ mijntalent-acc
 mijntalent
 spam
 belastingen-test
+clicksfm.nieuwsbrief
+dashboard-iav-api
+dashboard-iav
+marketingtools
+test-meedoen
+ucaccess01
+ucc01
+ucconf01
+ucweb01-ext
+www.marketingtools
