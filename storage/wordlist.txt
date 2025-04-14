@@ -8,9 +8,9 @@ edienstenburgerzaken-test
 afspraken
 intranet
 secure
+simsite
 mail
 simcms
-simsite
 webmail
 mijn
 digikoppeling
@@ -22,16 +22,16 @@ loket
 test
 acc
 dkd
+betalen
 formulieren
 meldingen
 portal
-betalen
 afspraak
 adfs
+geo
 broker
 werkplek
 gemeenteraad
-geo
 pv
 data
 eloket
@@ -3081,3 +3081,5 @@ sstpvpn
 whatsepe
 www.filecap
 zoek
+geo-secure
+onlinedorpsgesprek
