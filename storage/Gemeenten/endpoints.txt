@@ -33,6 +33,7 @@ http://belastingbalie.amsterdam.nl
 http://bergen.nl
 http://bergendal.nl
 http://bouwdossiers.stadsarchief.breda.nl
+http://capelleaandenijssel.nl
 http://cmsoo.bodegraven-reeuwijk.nl
 http://data.breda.nl
 http://dmb.amsterdam.nl
@@ -328,6 +329,8 @@ https://beheerfotobank.amsterdam.nl
 https://bekslaan-leidsevaartweg.doemee.bloemendaal.nl
 https://belastingbalie-test.almere.nl
 https://belastingbalie.amersfoort.nl
+https://belastingbalie.capelleaandenijssel.nl
+https://belastingbalietest.capelleaandenijssel.nl
 https://belastingen-acc.arnhem.nl
 https://belastingen.almere.nl
 https://belastingen.arnhem.nl
@@ -410,6 +413,7 @@ https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
 https://cimot.almelo.nl
 https://citrix.brielle.nl
+https://clicksfm.capelleaandenijssel.nl
 https://cms-binnenshuis.bergen.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
@@ -648,6 +652,7 @@ https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.bergendal.nl
 https://felix.beverwijk.nl
+https://felix.capelleaandenijssel.nl
 https://fgt.amstelveen.nl
 https://filecap.breda.nl
 https://filecapacc.breda.nl
@@ -704,6 +709,7 @@ https://gemeenteraad.bloemendaal.nl
 https://geo.arnhem.nl
 https://geo.breda.nl
 https://geo.brunssum.nl
+https://geo.capelleaandenijssel.nl
 https://geografie.bronckhorst.nl
 https://geoserver-signalen.almere.nl
 https://geotest.arnhem.nl
@@ -876,6 +882,7 @@ https://leerplein.arnhem.nl
 https://leerpleinburgerzaken.amsterdam.nl
 https://lerenloont.almere.nl
 https://les-acc.amsterdam.nl
+https://link.capelleaandenijssel.nl
 https://live.bergen-nh.nl
 https://login.alphenaandenrijn.nl
 https://loket.aaenhunze.nl
@@ -1002,6 +1009,7 @@ https://nha.amsterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://nieuwkomers.arnhem.nl
 https://nieuws.breda.nl
+https://nieuwsbrief.capelleaandenijssel.nl
 https://nieuwsbrieven.amsterdam.nl
 https://nlgembrl.brielle.nl
 https://noorderparkbad.amsterdam.nl
@@ -1167,8 +1175,10 @@ https://pv.bergen-nh.nl
 https://pv.bodegraven-reeuwijk.nl
 https://pv.diensten.almere.nl
 https://pwa.barendrecht.nl
+https://qr-acc.capelleaandenijssel.nl
 https://qr.amersfoort.nl
 https://qr.arnhem.nl
+https://qr.capelleaandenijssel.nl
 https://qr.digitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://raad.acceptatie.asten.nl
@@ -1498,6 +1508,7 @@ https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl
 https://www.buurtbudgetzuidoost.amsterdam.nl
+https://www.capelleaandenijssel.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
 https://www.containers.amsterdam.nl
