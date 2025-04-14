@@ -75,12 +75,14 @@ snelbaliepp
 financien
 formulier
 gemeente
+bgt
 cloudadapter-test
 cloudadapter
 loket.test
 mijnzorg-acc
 _autodiscover._tcp
 denkmee
+e
 zaaksysteem-accept
 hybrid
 preprod-mijninkomen
@@ -93,16 +95,16 @@ siam
 ns
 evenementen
 ftp
+mks
 parkeren-acc
 acc-broker
-bgt
 test-digikoppeling
+woningbouwkaart
 mdm
 belastingportaal
 midoffice
 www.acceptatie
 documenten
-e
 portaal
 praatmee
 preprod-mijn
@@ -124,7 +126,6 @@ digikoppeling.test
 apps
 email
 legacy
-mks
 parkeervergunningen
 www.acc
 desktop
@@ -135,7 +136,6 @@ opendata
 www.raad
 bag
 media
-woningbouwkaart
 obsurv
 extranet
 klantcontact
@@ -150,6 +150,7 @@ wozloket
 smtp
 kaarten
 AutoDiscover
+outlook
 belastingportaal.acc
 fs
 inloggen.belastingportaal
@@ -252,6 +253,7 @@ acc-podiumd-logs
 bastion365
 bis
 keycloak
+openformulieren
 podiumd-logs
 sip
 sts
@@ -308,7 +310,6 @@ zaken.test
 ris
 archief
 kennisportaal
-outlook
 webapps
 www2
 email.mail.participatie
@@ -1697,7 +1698,6 @@ mijnplein
 notificaties
 objecten
 objecttypen
-openformulieren
 openklant
 organisatieontwikkeling
 owa
@@ -2736,3 +2736,5 @@ www.openstad
 www.staging
 www.vvv
 zorgaanbieders
+begraven
+openformulieren-test

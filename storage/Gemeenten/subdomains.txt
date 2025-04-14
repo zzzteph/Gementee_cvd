@@ -230,6 +230,7 @@ acceptatie.debilt.nl
 acceptatie.delft.nl
 acceptatie.denhelder.nl
 acceptatie.derondevenen.nl
+acceptatie.dewolden.nl
 acceptatie.intranet.debilt.nl
 acceptatieloket.bergen-nh.nl
 acceptatieloket.borne.nl
@@ -546,6 +547,7 @@ autodiscover.denhaag.nl
 autodiscover.denhelder.nl
 autodiscover.derondevenen.nl
 autodiscover.deventer.nl
+autodiscover.dewolden.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -604,6 +606,7 @@ beesel.nl
 begraafplaatsduinrust.beverwijk.nl
 begraafplaatsen.bloemendaal.nl
 begraafplaatsreservering.bronckhorst.nl
+begraven.dewolden.nl
 begroten.centrumbegroot.alphenaandenrijn.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 begroting.delft.nl
@@ -680,6 +683,7 @@ bgt.assen.nl
 bgt.baarn.nl
 bgt.brummen.nl
 bgt.capelleaandenijssel.nl
+bgt.dewolden.nl
 bgtt.bergenopzoom.nl
 bhg.bba.amsterdam.nl
 bhgtest.bba.amsterdam.nl
@@ -981,6 +985,7 @@ devgovrs1.deventer.nl
 devis.deventer.nl
 devisie2020.deventer.nl
 devportal.api.amsterdam.nl
+dewolden.nl
 dex.meldingen.alphenaandenrijn.nl
 dgdialog.acc.amsterdam.nl
 dgdialog.amsterdam.nl
@@ -1154,6 +1159,7 @@ e-net.intranet.amsterdam.nl
 e.achtkarspelen.nl
 e.almelo.nl
 e.borger-odoorn.nl
+e.dewolden.nl
 e.mailings.deventer.nl
 eaptls.deventer.nl
 ebms.achtkarspelen.nl
@@ -1686,6 +1692,7 @@ iburgerzaken.dalfsen.nl
 iburgerzaken.derondevenen.nl
 iburgerzaken.deurne.nl
 iburgerzaken.deventer.nl
+iburgerzaken.dewolden.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1721,6 +1728,7 @@ ibzpink.dalfsen.nl
 ibzpink.derondevenen.nl
 ibzpink.deurne.nl
 ibzpink.deventer.nl
+ibzpink.dewolden.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -2241,6 +2249,7 @@ mks.amsterdam.nl
 mks.beekdaelen.nl
 mks.breda.nl
 mks.brievenbus.amsterdam.nl
+mks.dewolden.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
 mksacc.breda.nl
@@ -2452,9 +2461,11 @@ openbareruimte.deventer.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
+openformulieren-test.dewolden.nl
 openformulieren-zgw.acc.denhaag.nl
 openformulieren-zgw.test.denhaag.nl
 openformulieren.assen.nl
+openformulieren.dewolden.nl
 openklant-beheer-erfpacht-dev.amsterdam.nl
 openklant-beheer-erfpacht-ont.amsterdam.nl
 openklant-beheer-erfpacht.amsterdam.nl
@@ -2512,6 +2523,7 @@ ota.mijn.almere.nl
 oud.bodegraven-reeuwijk.nl
 outlook.denhelder.nl
 outlook.deventer.nl
+outlook.dewolden.nl
 outlook3.denhaag.nl
 owa.assen.nl
 owa.oudzuid.amsterdam.nl
@@ -3544,6 +3556,7 @@ wonenportaal.amsterdam.nl
 woningbouwkaart.assen.nl
 woningbouwkaart.borger-odoorn.nl
 woningbouwkaart.coevorden.nl
+woningbouwkaart.dewolden.nl
 woningdossier.assen.nl
 woo-acc.denhaag.nl
 woo.arnhem.nl
@@ -3686,6 +3699,7 @@ www.derondevenen.nl
 www.deurne.nl
 www.deventer.nl
 www.devgovrs1.deventer.nl
+www.dewolden.nl
 www.dmo.amsterdam.nl
 www.dmo2.amsterdam.nl
 www.doe-mee.coevorden.nl
