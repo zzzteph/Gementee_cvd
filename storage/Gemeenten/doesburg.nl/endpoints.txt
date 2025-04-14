@@ -1,0 +1,12 @@
+http://felixpdc.doesburg.nl
+http://mijn.doesburg.nl
+http://simsite.doesburg.nl
+http://woo.doesburg.nl
+http://www.doesburg.nl
+https://edienstenburgerzaken-test.doesburg.nl
+https://edienstenburgerzaken.doesburg.nl
+https://mijninkomen.doesburg.nl
+https://preprod-mijninkomen.doesburg.nl
+https://simcms-woo.doesburg.nl
+https://vraagbaak.doesburg.nl
+https://www.vraagbaak.doesburg.nl
