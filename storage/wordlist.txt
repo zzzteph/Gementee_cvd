@@ -5,13 +5,13 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-afspraken
 intranet
-simsite
+afspraken
 mail
-simcms
+simsite
 webmail
 secure
+simcms
 mijn
 preproductie
 digikoppeling
@@ -29,12 +29,12 @@ afspraak
 broker
 pv
 waarmerk
+geo
 meldingen
 betalen
 eloket
 gemeenteraad
 adfs
-geo
 open
 raad
 openpdc
@@ -42,6 +42,7 @@ omgevingsvisie
 enterpriseenrollment
 api.meldingen
 data
+vpn
 zaaksysteem-accept
 parkeren
 digikoppeling-test
@@ -55,7 +56,6 @@ iparticipatie
 ruimtelijkeplannen
 openpub
 osb
-vpn
 werkenbij
 hybrid
 formulier
@@ -78,6 +78,7 @@ enterpriseregistration
 login
 nieuwsbrief
 woningbouwkaart
+test-intranet
 kennisbank
 portaal
 verkiezingen
@@ -88,7 +89,6 @@ financien
 gemeente
 mks
 extranet
-test-intranet
 pki
 filecap
 connect
@@ -108,6 +108,7 @@ acc-podiumd-logs
 bgt
 keycloak
 podiumd-logs
+sts
 belastingloket
 govroam
 simcms-open
@@ -120,6 +121,7 @@ kaarten
 AutoDiscover
 dtestmidoffice
 transfer
+test-cmsintranet
 belastingportaal
 loket.test
 midoffice
@@ -145,6 +147,8 @@ email
 evenementen
 ftp
 www.acc
+auth
+desktop
 gis
 mijngeldzaken
 openstad
@@ -163,7 +167,6 @@ objecten
 objecttypen
 openformulieren
 openklant
-sts
 test-digikoppeling
 samen
 formulieren-test
@@ -175,7 +178,7 @@ connect.acceptatie
 contentbeheer.acceptatie
 contentbeheer
 zaken.acceptatie
-test-cmsintranet
+cmsintranet
 www.acceptatie
 geovisia
 college
@@ -191,18 +194,18 @@ stadsarchief
 api.openstad
 cms
 exchange
+bewustwording
 onderzoek
 vdi
 www.test
 atlas
+werkenvoor
 api.betalen
 legacy
 parkeervergunningen
 sharefile
 telewerken
 top
-auth
-desktop
 e-loket
 gbi
 ns1
@@ -247,7 +250,6 @@ outlook
 burgerloket
 filr
 openformulieren-test
-cmsintranet
 duo
 belastingportaal.acc
 fs
@@ -312,10 +314,9 @@ rpl3
 www.centrumbegroot
 mozard
 mozardtest
-bewustwording
 magazine
+wion
 jcc
-werkenvoor
 aanmeldenparkeren
 api
 beheer
@@ -453,6 +454,7 @@ socialekaart
 vergunningintaker.preprod
 www.intranet
 testbelastingloket
+antispam
 squit2020publiceren
 mediabank
 e.openstad
@@ -657,7 +659,6 @@ ro-online1
 tracking
 vdi8
 wcs
-wion
 documenten.acceptatie
 email.mail.denkmee
 ems
@@ -2945,7 +2946,6 @@ kansshop
 medewerkersportaal
 test-kansshop
 aeolus
-antispam
 bestplan1
 burgerportaal
 emma
@@ -3365,3 +3365,4 @@ w2008stuf
 workspace-rds
 www-cache
 www.eformulieren
+e.bewustwording
