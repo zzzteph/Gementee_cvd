@@ -214,6 +214,7 @@ media
 sip
 obsurv
 klantcontact
+meedoen
 publicaties
 byod
 fmreturn
@@ -357,7 +358,6 @@ test-openzaak
 test-podiumd-logs
 vastgoed
 loket-acc
-meedoen
 accdrop
 kaartviewer
 nhr
