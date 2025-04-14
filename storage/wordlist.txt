@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mail
-afspraken
 simsite
+afspraken
 webmail
 mijn
 digikoppeling
@@ -30,14 +30,14 @@ waarmerk
 adfs
 meldingen
 broker
+betalen
 eloket
 gemeenteraad
 geo
-betalen
+pv
 omgevingsvisie
 parkeren
 open
-pv
 raad
 ruimtelijkeplannen
 vpn
@@ -73,13 +73,13 @@ flowmailer-tracking
 piwik
 belastingen
 preprod-mijninkomen
+snelbalie
 acc-broker
 woningbouwkaart
 connect
 mijnzorg
 parkeren-test
 kaart
-snelbalie
 enterpriseregistration
 belastingbalie
 financien
@@ -96,6 +96,7 @@ portaal
 verkiezingen
 osbacc
 duurzaam
+snelbaliepp
 siam
 digikoppeling.test
 apps
@@ -106,6 +107,7 @@ acc-podiumd-logs
 podiumd-logs
 extranet
 belastingloket
+pki
 dtestloket
 mdm
 test-cmsintranet
@@ -114,7 +116,6 @@ simform
 gisib
 subsidies
 preprod
-snelbaliepp
 qr
 openzaak
 parkeren-acc
@@ -135,7 +136,6 @@ sts
 byod
 samen
 simcms-open
-pki
 dtestmidoffice
 jaarstukken
 connect.acceptatie
@@ -218,6 +218,8 @@ guest
 iarchief
 publicroam
 formulieren-test
+mijnsociaalplein
+preprod-mijnsociaalplein
 www.doemee
 www.gemeenteraad
 acc.piwik
@@ -302,8 +304,9 @@ simcms-preproductie
 djuma
 jccapi
 acceptatieloket
-mijnsociaalplein
-preprod-mijnsociaalplein
+klimaatplein
+mijnsociaalportaal-acc
+mijnsociaalportaal
 support
 wij
 data-test
@@ -453,10 +456,7 @@ kaartviewer
 nhr
 gisibonline
 sentry
-klimaatplein
 live
-mijnsociaalportaal-acc
-mijnsociaalportaal
 aovpn
 data.gemnet
 intranetcms
@@ -508,6 +508,7 @@ www.jongin
 qr-acc
 servicebus
 download
+publicatie
 squit2go-backoffice
 connect.test
 contentbeheer.test
@@ -2215,7 +2216,6 @@ osbtest
 makelaar-01
 nlgemctc
 publicatie-test
-publicatie
 webcon
 www.squit2go-backoffice
 accschuldhulp
@@ -4151,3 +4151,4 @@ vf.heitje
 www.heitje
 WOZ-loket
 vris-brk
+werken
