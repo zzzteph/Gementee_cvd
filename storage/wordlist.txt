@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mail
-afspraken
 simsite
+afspraken
 webmail
 secure
 simcms
@@ -30,16 +30,17 @@ portal
 betalen
 waarmerk
 pv
+eloket
 adfs
 geo
 meldingen
-eloket
 gemeenteraad
 open
+omgevingsvisie
 raad
 openpdc
-omgevingsvisie
 enterpriseenrollment
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -53,7 +54,6 @@ zaaksysteem-accept
 parkeren
 digikoppeling-test
 formulier
-testeloket
 cmsoo
 remote
 iparticipatie
@@ -64,6 +64,7 @@ werkenbij
 hybrid
 login
 acc-broker
+mijnzorg
 test-ipa
 mijninkomen
 piwik
@@ -73,7 +74,6 @@ cloudadapter
 connect
 api.meldingen-acc
 meldingen-acc
-mijnzorg
 kaart
 preprod-mijninkomen
 berichten
@@ -102,6 +102,7 @@ doemee
 dtestloket
 mdm
 kaarten
+mijnzorg-acc
 _autodiscover._tcp
 preprodbroker
 vergunningintaker
@@ -145,7 +146,6 @@ test-cmsintranet
 belastingportaal
 loket.test
 midoffice
-mijnzorg-acc
 www.acceptatie
 documenten
 denkmee
@@ -202,6 +202,7 @@ english
 maps
 stadsarchief
 exchange
+ro-online
 bewustwording
 onderzoek
 vdi
@@ -330,7 +331,6 @@ dkd-test
 kinderburgemeester
 mijnoverzicht
 msoid
-ro-online
 rpl3
 www.centrumbegroot
 mozard
@@ -436,12 +436,14 @@ subsidies-login.acceptatie
 subsidies-login
 archief
 begroting
+cryptshare
 storefront
 huisvuilkalender
 kennisportaal
 mfa
 smartdocuments
 uitslagen
+test.digikoppeling
 ondernemersloket
 forms
 intra
@@ -451,6 +453,7 @@ www.openstad
 zorgaanbieders
 internetafspraken
 bestuur
+filetransfer
 parkeren-siam-test
 parkeren-siam
 centric
@@ -461,6 +464,7 @@ klantportaal.acc
 prod
 woz-portaal
 vergunningen
+mta-sts
 www.socialekaart
 attachments
 authenticatiedienst
@@ -2217,7 +2221,6 @@ acc-subsidie
 acc-subsidiebeheer
 axians.lev
 cppm
-cryptshare
 cryptsharetest
 datatest
 feedback
@@ -2670,7 +2673,6 @@ ediensten-sociaaldomein
 preprod-ediensten-sociaaldomein
 preprod-mijnzorg
 sentry1
-test.digikoppeling
 vpn365
 vsp
 www.ingesprek
@@ -2788,7 +2790,6 @@ vogelweide
 www.financielestukken
 apps-fat
 apps-vdi
-filetransfer
 geodata-acc
 gisweb
 hetsociaalplein-acc
@@ -2871,7 +2872,6 @@ acceptatiebelastingen
 acceptatievergunningen
 duiven-checker-preprod
 duiven-checker
-mta-sts
 mta-sts.raad
 clv
 echt-susteren-checker-preprod
@@ -3435,3 +3435,8 @@ www.en.cmsoo
 www.en
 www.gb-wls-04
 www.gb-wls-05
+erfgoedmaasenniers
+meldpunt
+mijntalent-acc
+mijntalent
+spam
