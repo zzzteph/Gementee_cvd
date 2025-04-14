@@ -254,6 +254,7 @@ acc.gemeentebest.nl
 acc.goes.nl
 acc.gorinchem.nl
 acc.haarlem.nl
+acc.halderberge.nl
 acc.heelenschoon.amsterdam.nl
 acc.hior.amsterdam.nl
 acc.hitkans.top.amsterdam.nl
@@ -286,6 +287,7 @@ acc.pingping.amsterdam.nl
 acc.piwik.bodegraven-reeuwijk.nl
 acc.piwik.drimmelen.nl
 acc.piwik.echt-susteren.nl
+acc.piwik.halderberge.nl
 acc.rabbitmq.datapunt.amsterdam.nl
 acc.registraties.amsterdam.nl
 acc.roles.data.amsterdam.nl
@@ -460,6 +462,7 @@ afspraak.gemeentesluis.nl
 afspraak.gemeentewestland.nl
 afspraak.gooisemeren.nl
 afspraak.haarlemmermeer.nl
+afspraak.halderberge.nl
 afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
 afspraakmaken.gemert-bakel.nl
@@ -1134,6 +1137,7 @@ bgt.baarn.nl
 bgt.brummen.nl
 bgt.capelleaandenijssel.nl
 bgt.dewolden.nl
+bgt.halderberge.nl
 bgtt.bergenopzoom.nl
 bhg.bba.amsterdam.nl
 bhgtest.bba.amsterdam.nl
@@ -1674,6 +1678,7 @@ digikoppeling.gennep.nl
 digikoppeling.gorinchem.nl
 digikoppeling.gulpen-wittem.nl
 digikoppeling.haarlemmermeer.nl
+digikoppeling.halderberge.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -1977,6 +1982,7 @@ edienstenburgerzaken-test.goeree-overflakkee.nl
 edienstenburgerzaken-test.gorinchem.nl
 edienstenburgerzaken-test.gouda.nl
 edienstenburgerzaken-test.gulpen-wittem.nl
+edienstenburgerzaken-test.halderberge.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2026,6 +2032,7 @@ edienstenburgerzaken.goeree-overflakkee.nl
 edienstenburgerzaken.gorinchem.nl
 edienstenburgerzaken.gouda.nl
 edienstenburgerzaken.gulpen-wittem.nl
+edienstenburgerzaken.halderberge.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2251,6 +2258,7 @@ felix.eersel.nl
 felix.geldrop-mierlo.nl
 felix.gemeentebeek.nl
 felix.gemeentemaasgouw.nl
+felix.halderberge.nl
 felixpdc.doesburg.nl
 fgt.amstelveen.nl
 fibu.amsterdam.nl
@@ -2278,6 +2286,7 @@ financials.apeldoorn.nl
 financialstest.derondevenen.nl
 financieel.delft.nl
 financieelportaal.etten-leur.nl
+financieelportaal.halderberge.nl
 financielestukken.diemen.nl
 financien.amersfoort.nl
 financien.arnhem.nl
@@ -2394,6 +2403,7 @@ fs-mail.drimmelen.nl
 fs.aaenhunze.nl
 fs.beverwijk.nl
 fs.haarlem.nl
+fs.halderberge.nl
 fs.mobiliteit.data.amsterdam.nl
 fs2016.beesel.nl
 fsa.ede.nl
@@ -2493,6 +2503,7 @@ gemeenteraad.etten-leur.nl
 gemeenteraad.gemeentemaashorst.nl
 gemeenteraad.groningen.nl
 gemeenteraad.haarlemmermeer.nl
+gemeenteraad.halderberge.nl
 gemeentesluis.nl
 gemeentestein.nl
 gemeentewesterveld.nl
@@ -2699,6 +2710,9 @@ haal-centraal.api.data.amsterdam.nl
 haarlem.nl
 haarlemmerliederaad.haarlemmermeer.nl
 haarlemmermeer.nl
+halbox.halderberge.nl
+halderberge.nl
+halnet.halderberge.nl
 handboekdibor.ede.nl
 handhaving.groningen.nl
 handhaving.haarlem.nl
@@ -3498,6 +3512,7 @@ mail.gemert-bakel.nl
 mail.gennep.nl
 mail.gorinchem.nl
 mail.gulpen-wittem.nl
+mail.halderberge.nl
 mail.mailing.haaksbergen.nl
 mail.noord.amsterdam.nl
 mail.participatie.aalsmeer.nl
@@ -3555,6 +3570,7 @@ matchpointkp.dmo.acc.amsterdam.nl
 matenpark.apeldoorn.nl
 matomo.breda.nl
 matomo.haarlem.nl
+matomo.halderberge.nl
 mbg.buren.nl
 mbg.dantumadiel.frl
 mbg1.beverwijk.nl
@@ -3769,6 +3785,7 @@ mijnwiz.geertruidenberg.nl
 mijnwoonomgeving.deventer.nl
 mijnws.amsterdam.nl
 mijnzaken.derondevenen.nl
+mijnzaken.halderberge.nl
 mijnzi.beuningen.nl
 mijnzorg-acc.aalsmeer.nl
 mijnzorg-acc.amstelveen.nl
@@ -4084,6 +4101,7 @@ online.gooisemeren.nl
 onlinedorpsgesprek.ermelo.nl
 onlineregelen.alphenaandenrijn.nl
 onlineregelenstaging.alphenaandenrijn.nl
+ons.halderberge.nl
 ont.api.amsterdam.nl
 ont.bp.data.amsterdam.nl
 ont.io.amsterdam.nl
@@ -4117,6 +4135,7 @@ open.gemeentebeek.nl
 open.gemeentestein.nl
 open.gooisemeren.nl
 open.gorinchem.nl
+open.halderberge.nl
 openbareruimte.deventer.nl
 opendata.arnhem.nl
 opendata.assen.nl
@@ -4209,11 +4228,13 @@ osb.enkhuizen.nl
 osb.epe.nl
 osb.geertruidenberg.nl
 osb.gooisemeren.nl
+osb.halderberge.nl
 osbacc.alkmaar.nl
 osbacc.almere.nl
 osbacc.drechterland.nl
 osbacc.enkhuizen.nl
 osbacc.geertruidenberg.nl
+osbacc.halderberge.nl
 osbtest.capelleaandenijssel.nl
 osdorp.amsterdam.nl
 ot.denhaag.nl
@@ -4356,6 +4377,7 @@ piwik.echt-susteren.nl
 piwik.ede.nl
 piwik.emmen.nl
 piwik.gemeente-oldambt.nl
+piwik.halderberge.nl
 piwikacc.breda.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
@@ -4587,6 +4609,7 @@ probeer.geldrop-mierlo.nl
 probeer.gemeentebeek.nl
 probeer.gemeentemaasgouw.nl
 probeer.goeree-overflakkee.nl
+probeer.halderberge.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 programmabegroting.bronckhorst.nl
@@ -4734,6 +4757,7 @@ ro-onlineprod.brielle.nl
 ro.brunssum.nl
 ro.emmen.nl
 ro.gemeenteberkelland.nl
+ro.halderberge.nl
 rokinintranet.amsterdam.nl
 roles.datapunt.amsterdam.nl
 rom.authenticatie.alkmaar.nl
@@ -4791,6 +4815,7 @@ samenvattingbegroting2017.deventer.nl
 samenveiligwerken.alphenaandenrijn.nl
 samenwerken.groningen.nl
 samenwij.groningen.nl
+samenwijzer.halderberge.nl
 sammy-acc.derondevenen.nl
 sammy.derondevenen.nl
 sammycms-acc.derondevenen.nl
@@ -4953,6 +4978,7 @@ simcms-open.bronckhorst.nl
 simcms-open.doetinchem.nl
 simcms-open.geldrop-mierlo.nl
 simcms-open.gemeentebeek.nl
+simcms-open.halderberge.nl
 simcms-preproductie.beekdaelen.nl
 simcms-preproductie.beuningen.nl
 simcms-preproductie.bladel.nl
@@ -4989,6 +5015,7 @@ simcms.geldrop-mierlo.nl
 simcms.gemeentebeek.nl
 simcms.gemeentemaasgouw.nl
 simcms.goeree-overflakkee.nl
+simcms.halderberge.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -5833,6 +5860,7 @@ webmail.goirle.nl
 webmail.gooisemeren.nl
 webmail.haarlem.nl
 webmail.haarlemmermeer.nl
+webmail.halderberge.nl
 webmail.iba.amsterdam.nl
 webmail.ivv.amsterdam.nl
 webmail.nieuwwest.amsterdam.nl
@@ -6036,6 +6064,7 @@ www.acc.amsterdam.nl
 www.acc.bodegraven-reeuwijk.nl
 www.acc.denhaag.nl
 www.acc.echt-susteren.nl
+www.acc.halderberge.nl
 www.acc.piwik.echt-susteren.nl
 www.acccorsa02.ovh.gemeentebeek.nl
 www.acceptatie-intranet.gemeentewestland.nl
@@ -6354,6 +6383,7 @@ www.haaksbergen.nl
 www.haarlem.nl
 www.haarlemmerliederaad.haarlemmermeer.nl
 www.haarlemmermeer.nl
+www.halderberge.nl
 www.handhavingsacademie.amsterdam.nl
 www.havenkwartieraanzet.denhaag.nl
 www.hh2015.groningen.nl
@@ -6679,6 +6709,7 @@ zaaksysteem-accept.etten-leur.nl
 zaaksysteem-accept.gemeenteberkelland.nl
 zaaksysteem-accept.gooisemeren.nl
 zaaksysteem-accept.gouda.nl
+zaaksysteem-accept.halderberge.nl
 zaaksysteem.eindhoven.nl
 zaalhuur.borne.nl
 zaken.acceptatie.coevorden.nl
