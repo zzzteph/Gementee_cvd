@@ -40,8 +40,8 @@ api.meldingen
 raad
 omgevingsvisie
 open
-ruimtelijkeplannen
 vpn
+ruimtelijkeplannen
 zaaksysteem-accept
 enterpriseenrollment
 testeloket
@@ -49,11 +49,11 @@ dacceptatieloket
 dacceptatiemidoffice
 data
 openpdc
+osb
 dloket
 dmidoffice
 loket.acceptatie
 iparticipatie
-osb
 werkenbij
 hybrid
 berichten
@@ -140,6 +140,7 @@ samen
 simcms-open
 uc
 www.webmail
+smtp
 connect.acceptatie
 begroting
 cmsintranet
@@ -173,7 +174,6 @@ meedoen
 gasten
 uca
 mobile
-smtp
 xential
 AutoDiscover
 inloggen
@@ -216,6 +216,7 @@ opendata
 rooster
 woo
 afval
+bastion365
 lyncdiscover
 meet
 openformulieren
@@ -251,6 +252,7 @@ testloket
 testbelastingloket
 e.openstad
 handhaving
+www2
 toegang
 vergunningintaker-preprod
 simform-preproductie
@@ -292,7 +294,6 @@ geotest
 ns1
 sslvpn
 www.raad
-bastion365
 bis
 media
 test-formulier
@@ -362,7 +363,6 @@ gateway
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
-www2
 edienstenburgerzaken.test
 participatie
 edienstenaanvragensd-acceptatie
@@ -487,6 +487,7 @@ elokettest
 img.doemee
 ondernemers
 zonneparking.doemee
+oud
 testformulieren
 gms
 wozloket-acc
@@ -613,8 +614,11 @@ mijnintranet
 gemeentebestuur
 lynccon
 lyncweb
+officewebapps
 portaltest
 sera
+zwemles
+webkassa
 bzg1-acc
 webapps
 email.mail.participatie
@@ -2089,7 +2093,6 @@ tradities.doemee
 www.nieuwauthentiekbloemendaal.doemee
 mail01
 o1.ptr1802
-oud
 phpmyadmin
 mksp01bkl
 ibo
@@ -3953,7 +3956,6 @@ mpivoorjaar
 najaarsrapportage
 nw
 office365
-officewebapps
 onboarden
 pilotgeovwr
 planningencontrol
@@ -4042,11 +4044,9 @@ tunnel
 vdi-uitwijk
 woz-loket-accept
 zwembaden
-zwemles
 gemeentelijkebelastingen
 onlinestadsgesprek
 scoremodule
-webkassa
 hardinxveld-giessendam-checker-preprod
 hardinxveld-giessendam-checker
 rxlaunch-signicat-preprod
@@ -4209,3 +4209,16 @@ test-cmsextranet
 test-extranet
 email.privacy
 geoloket
+bijeen
+coda
+hsdjbappdb01
+maisflexis
+oefen
+olo-test
+olo
+po
+productie.postex
+pushmail
+webmail2
+wozportaal
+zsaccept
