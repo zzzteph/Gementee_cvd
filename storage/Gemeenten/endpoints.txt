@@ -79,6 +79,7 @@ http://autodiscover.gorinchem.nl
 http://autodiscover.gouda.nl
 http://autodiscover.haaksbergen.nl
 http://autodiscover.haarlemmermeer.nl
+http://autodiscover.hardenberg.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -401,6 +402,7 @@ https://acc.top.amsterdam.nl
 https://acc.vt.data.amsterdam.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://accept-zaaksysteem.denhelder.nl
+https://acceptatie-intranet.hardenberg.nl
 https://acceptatie-open.dinkelland.nl
 https://acceptatie-open.gooisemeren.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
@@ -414,6 +416,7 @@ https://acceptatie.eemsdelta.nl
 https://acceptatie.gemeentesluis.nl
 https://acceptatie.gilzerijen.nl
 https://acceptatie.goirle.nl
+https://acceptatie.hardenberg.nl
 https://acceptatie.intranet.debilt.nl
 https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.subsidies-backend.ede.nl
@@ -583,6 +586,7 @@ https://api.erfpachtzakelijk-dev.amsterdam.nl
 https://api.erfpachtzakelijk-ont.amsterdam.nl
 https://api.erfpachtzakelijk-tst.amsterdam.nl
 https://api.erfpachtzakelijk.amsterdam.nl
+https://api.hardenberg.nl
 https://api.makkelijkemarkt.amsterdam.nl
 https://api.meldingen-acc.aaenhunze.nl
 https://api.meldingen-acc.almere.nl
@@ -906,6 +910,7 @@ https://buren.nl
 https://burgerloket.acceptatie.derondevenen.nl
 https://burgerloket.derondevenen.nl
 https://burgerloket.diemen.nl
+https://burgerportaal.hardenberg.nl
 https://burgerzaken.amsterdam.nl
 https://buurt.eindhoven.nl
 https://buurtbudget.amsterdam.nl
@@ -1532,6 +1537,7 @@ https://formulieren.duiven.nl
 https://formulieren.gemeentehw.nl
 https://formulieren.gooisemeren.nl
 https://formulieren.haarlemmermeer.nl
+https://formulieren.hardenberg.nl
 https://formulierenmd.groningen.nl
 https://formulierenpb.groningen.nl
 https://formulierna.denhaag.nl
@@ -1684,6 +1690,7 @@ https://haarlemmermeer.nl
 https://halbox.halderberge.nl
 https://halnet.halderberge.nl
 https://handboekdibor.ede.nl
+https://hardenberg.nl
 https://haven.deventer.nl
 https://havenkwartieraanzet.denhaag.nl
 https://heiligen.deventer.nl
@@ -1793,6 +1800,7 @@ https://iburgerzaken.goirle.nl
 https://iburgerzaken.gooisemeren.nl
 https://iburgerzaken.groningen.nl
 https://iburgerzaken.haaksbergen.nl
+https://iburgerzaken.hardenberg.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -1886,6 +1894,7 @@ https://intranet.gemeenteberkelland.nl
 https://intranet.gemeentesluis.nl
 https://intranet.gemeentestein.nl
 https://intranet.groningen.nl
+https://intranet.hardenberg.nl
 https://intranet2.gulpen-wittem.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
@@ -2172,6 +2181,7 @@ https://mijn.gouda.nl
 https://mijn.groningen.nl
 https://mijn.haaksbergen.nl
 https://mijn.haarlem.nl
+https://mijn.hardenberg.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnerfpacht.amsterdam.nl
 https://mijnevenement-authenticatie-staging.gemeente-steenbergen.nl
@@ -2832,6 +2842,7 @@ https://secure.almere.nl
 https://secure.denhaag.nl
 https://selfservice.ggd.amsterdam.nl
 https://sensorenregister.amsterdam.nl
+https://sera.hardenberg.nl
 https://serverruimte.dinkelland.nl
 https://servicedesk.almelo.nl
 https://servicedesk.edam-volendam.nl
@@ -2928,6 +2939,7 @@ https://spivoorjaar.haarlemmermeer.nl
 https://splunk-controlroom.denhaag.nl
 https://spoorzone.deventer.nl
 https://sport.denhaag.nl
+https://sport.hardenberg.nl
 https://sportaccommodaties.breda.nl
 https://sportencultuur.almere.nl
 https://sportencultuur.gorinchem.nl
@@ -3357,7 +3369,9 @@ https://wordpress-zgw.denhaag.nl
 https://wordpress-zgw.test.denhaag.nl
 https://workspace365.almelo.nl
 https://woww.boxtel.nl
+https://woz-loket-accept.hardenberg.nl
 https://woz-loket.coevorden.nl
+https://woz-loket.hardenberg.nl
 https://woz-portaal-test.gemeente-steenbergen.nl
 https://woz-portaal.drimmelen.nl
 https://woz-portaal.gemeente-steenbergen.nl
@@ -3553,6 +3567,7 @@ https://www.haaksbergen.nl
 https://www.haarlem.nl
 https://www.haarlemmermeer.nl
 https://www.halderberge.nl
+https://www.hardenberg.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl
@@ -3693,6 +3708,7 @@ https://zaaksysteem-accept.gemeenteberkelland.nl
 https://zaaksysteem-accept.gooisemeren.nl
 https://zaaksysteem-accept.gouda.nl
 https://zaaksysteem-accept.halderberge.nl
+https://zaaksysteem-accept.hardenberg.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl
 https://zaken.denhaag.nl
@@ -3720,4 +3736,6 @@ https://zuidwestopznbest.denhaag.nl
 https://zuil.gemeentehw.nl
 https://zwammerdamdorpskern.alphenaandenrijn.nl
 https://zwembadabonnement.gemeentebest.nl
+https://zwembaden.hardenberg.nl
+https://zwemles.hardenberg.nl
 https://zwik.openstad.enschede.nl
