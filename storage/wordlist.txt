@@ -8,11 +8,11 @@ edienstenburgerzaken-test
 afspraken
 intranet
 simsite
+mail
 secure
 simcms
-mail
-mijn
 webmail
+mijn
 preproductie
 probeer
 digikoppeling
@@ -21,8 +21,8 @@ felix
 loket
 test
 acc
-formulieren
 werkplek
+formulieren
 meldingen
 dkd
 portal
@@ -84,6 +84,7 @@ login
 siam
 belastingbalie
 gemeente
+mks
 test-intranet
 pki
 filecap
@@ -97,14 +98,15 @@ mailing
 snelbaliepp
 financien
 qr
+beeldbank
 digikoppeling.test
-mks
 parkeren-acc
 bgt
 extranet
 belastingloket
 govroam
 simcms-open
+doemee
 mdm
 smtp
 kaarten
@@ -124,7 +126,6 @@ afvalkalender
 preprod
 www.duurzaam
 ns
-beeldbank
 apps
 email
 evenementen
@@ -143,7 +144,6 @@ test-digikoppeling
 samen
 formulieren-test
 uca
-doemee
 dtestloket
 dtestmidoffice
 inloggen
@@ -183,6 +183,7 @@ parkeervergunningen
 sharefile
 top
 desktop
+e-loket
 gis
 ns1
 opendata
@@ -228,6 +229,7 @@ mobile
 jongin
 jaarstukken
 ro
+squit2go
 inproces.acceptatie
 inproces
 klantportaal
@@ -321,7 +323,6 @@ sportverhuur
 telewerken
 www.ruimtelijkeplannen
 auth
-e-loket
 gbi
 gpa
 ndes
@@ -391,7 +392,6 @@ mbg
 medewerkers
 www.jongin
 squit2go-backoffice
-squit2go
 connect.test
 contentbeheer.test
 zaken.test
@@ -433,6 +433,7 @@ squit2020publiceren
 duo
 e.openstad
 contact
+liquit
 webapps
 www2
 email.mail.participatie
@@ -3254,10 +3255,18 @@ www.srmvauitwijk.ovh
 api-jcc
 gb-app05
 leverancier
-liquit
 liquitsatellite
 mijnplan
 otp
 preprod-mijnplan
 radius
 taxatieverslagen
+beeldbankbeheer
+bestand
+bestie-stats
+bestie
+email.doemee
+nta7516
+tim
+tv
+zwembadabonnement
