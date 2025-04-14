@@ -29,11 +29,11 @@ dkd
 portal
 broker
 adfs
-gemeenteraad
 betalen
+gemeenteraad
+geo
 eloket
 open
-geo
 meldingen
 pv
 vpn
@@ -553,6 +553,7 @@ www.mobile
 geoportaaltest
 squit2gotest
 zoek
+geo-secure
 financieelportaal
 en
 www.login
@@ -3102,7 +3103,6 @@ dktstdn
 sstpvpn
 whatsepe
 www.filecap
-geo-secure
 onlinedorpsgesprek
 Edienstenburgerzaken-test
 Edienstenburgerzaken
@@ -4042,3 +4042,7 @@ vdi-uitwijk
 woz-loket-accept
 zwembaden
 zwemles
+gemeentelijkebelastingen
+onlinestadsgesprek
+scoremodule
+webkassa
