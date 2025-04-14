@@ -4,8 +4,8 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-afspraken
 edienstenburgerzaken-test
+afspraken
 secure
 simcms
 intranet
@@ -27,6 +27,7 @@ meldingen
 portal
 formulieren
 gemeenteraad
+loket.acceptatie
 pv
 werkplek
 betalen
@@ -34,15 +35,14 @@ eloket
 enterpriseenrollment
 afspraak
 geo
-loket.acceptatie
 data
 ruimtelijkeplannen
+raad
 parkeren
 open
 api.meldingen
 mijnzorg
 broker
-raad
 vpn
 werkenbij
 omgevingsvisie
@@ -75,6 +75,7 @@ osb
 zaaksysteem-accept
 hybrid
 preprod-mijninkomen
+berichten
 duurzaam
 snelbaliepp
 siam
@@ -90,7 +91,6 @@ denkmee
 e
 portaal
 thuiswerken
-berichten
 afvalkalender
 login
 www.duurzaam
@@ -110,6 +110,8 @@ mdm
 midoffice
 www.acceptatie
 documenten
+college
+gisib
 praatmee
 preprod-mijn
 izaaksuite
@@ -117,9 +119,11 @@ wachtwoord
 flowmailer-tracking
 parkeren-test
 piwik
+subsidie
 belastingen
 maps
 stadsarchief
+cms
 exchange
 mailing
 vdi
@@ -170,8 +174,12 @@ raadsnet
 vergunningintaker
 geovisia
 simform
-college
-gisib
+gisib-test
+gisibapi-test
+gisibapi
+gisibgeoserver-test
+gisibgeoserver
+web
 www.praatmee
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
@@ -194,7 +202,6 @@ kennisnet
 makelaar
 meldingen.acc
 start
-subsidie
 subsidies-backend.acceptatie
 subsidies-backend
 subsidies.acceptatie
@@ -212,7 +219,6 @@ secure-test
 digitaalnachtregister
 api.openstad
 centrumbegroot
-cms
 dali
 dkd-test
 gemeentearchief
@@ -324,6 +330,7 @@ kennisportaal
 uitslagen
 burgerloket
 ondernemersloket
+intra
 centric
 webapps
 www2
@@ -339,12 +346,6 @@ ebms
 lvwoz
 simform-preproductie
 sophos01
-gisib-test
-gisibapi-test
-gisibapi
-gisibgeoserver-test
-gisibgeoserver
-web
 a2b-rtr
 aeos
 agwp01.azweu
@@ -2690,7 +2691,6 @@ haven
 heiligen
 hetgeldvan
 img.openstad
-intra
 jongerenloket
 kadbrkwkpd
 kei
@@ -2805,3 +2805,9 @@ geoinformatie
 meedoenregeling
 test-meedoenregeling
 webservices
+e-tstsys
+router
+subsidie.acceptatie
+subsidiebackoffice.acceptatie
+subsidiebackoffice
+wijken
