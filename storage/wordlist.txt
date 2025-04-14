@@ -15,8 +15,8 @@ simcms
 mijn
 preproductie
 digikoppeling
-loket
 acceptatie
+loket
 probeer
 felix
 test
@@ -37,12 +37,12 @@ meldingen
 gemeenteraad
 open
 omgevingsvisie
+dacceptatieloket
+dacceptatiemidoffice
 raad
 openpdc
 enterpriseenrollment
 testeloket
-dacceptatieloket
-dacceptatiemidoffice
 dloket
 dmidoffice
 api.meldingen
@@ -68,15 +68,16 @@ mijnzorg
 test-ipa
 mijninkomen
 piwik
+berichten
 woningbouwkaart
 cloudadapter-test
 cloudadapter
 connect
 api.meldingen-acc
 meldingen-acc
+belastingen
 kaart
 preprod-mijninkomen
-berichten
 enterpriseregistration
 belastingbalie
 nieuwsbrief
@@ -85,7 +86,6 @@ filecap
 kennisbank
 portaal
 verkiezingen
-belastingen
 snelbalie
 siam
 financien
@@ -111,6 +111,7 @@ subsidies
 duurzaam
 mailing
 snelbaliepp
+ns
 qr
 digikoppeling.test
 parkeren-acc
@@ -134,6 +135,7 @@ belastingloket
 govroam
 simcms-open
 www.webmail
+mobile
 smtp
 AutoDiscover
 dtestmidoffice
@@ -164,7 +166,6 @@ cms
 gemeentearchief
 preprod
 www.duurzaam
-ns
 api.betalen
 apps
 email
@@ -185,7 +186,6 @@ formulieren-test
 uca
 uc
 www.doemee
-mobile
 jaarstukken
 inloggen
 inproces.acceptatie
@@ -201,6 +201,7 @@ belastingbalie-test
 english
 maps
 stadsarchief
+digitaalnachtregister
 exchange
 ro-online
 bewustwording
@@ -323,7 +324,7 @@ ingesprek
 melddesk
 planon
 secure-test
-digitaalnachtregister
+website
 centrumbegroot
 dali
 digikoppeling-prod
@@ -401,6 +402,7 @@ auth.doemee
 img.doemee
 ondernemers
 www.gemeenteraad
+gms
 wozloket-acc
 mam
 xential
@@ -479,6 +481,7 @@ squit2020publiceren
 mediabank
 www.mobile
 squit2gotest
+zoek
 en
 liquit
 webapps
@@ -625,7 +628,6 @@ voorschool
 wachtwoordreset
 wifiguestportal
 wijkteams
-website
 alleplannen.centrumbegroot
 begroten.centrumbegroot
 begroten.zwammerdamdorpskern
@@ -2005,7 +2007,6 @@ o1.ptr1802
 oud
 phpmyadmin
 testformulieren
-gms
 mksp01bkl
 ibo
 localhost
@@ -3082,7 +3083,6 @@ dktstdn
 sstpvpn
 whatsepe
 www.filecap
-zoek
 geo-secure
 onlinedorpsgesprek
 Edienstenburgerzaken-test
@@ -3440,3 +3440,4 @@ meldpunt
 mijntalent-acc
 mijntalent
 spam
+belastingen-test
