@@ -5,22 +5,22 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 intranet
+secure
+simcms
 afspraken
 edienstenburgerzaken-test
 mail
-secure
-simcms
 simsite
-loket
 probeer
 webmail
+loket
 meldingen
 felix
 mijn
-test
-acc
 digikoppeling
+test
 preproductie
+acc
 api.meldingen
 data
 portal
@@ -44,6 +44,7 @@ vpn
 betalen
 kaart
 snelbalie
+waarmerk
 duurzaam
 enterpriseenrollment
 enterpriseregistration
@@ -57,7 +58,6 @@ openpdc
 openpub
 osb
 werkenbij
-waarmerk
 login
 snelbaliepp
 www.duurzaam
@@ -65,6 +65,10 @@ formulier
 gemeente
 testeloket
 cmsoo
+dacceptatieloket
+dacceptatiemidoffice
+dloket
+dmidoffice
 belastingportaal
 geo
 remote
@@ -97,10 +101,7 @@ nieuwsbrief
 parkeren-acc
 gis
 opendata
-dacceptatieloket
-dacceptatiemidoffice
-dloket
-dmidoffice
+test-digikoppeling
 obsurv
 simcms-preproductie
 belastingportaal.acc
@@ -132,6 +133,7 @@ autorisatie
 izaaksuite
 osbacc
 www.werkenbij
+makelaar
 parkeren-test
 start
 veiligmailen
@@ -147,6 +149,7 @@ digitaalnachtregister
 afvalkalender
 centrumbegroot
 cms
+dali
 exchange
 gemeentearchief
 kinderburgemeester
@@ -158,6 +161,7 @@ rpl3
 www.centrumbegroot
 siam
 belastingbalie
+bewustwording
 financien
 onderzoek
 qr
@@ -184,8 +188,8 @@ acc-broker
 bastion365
 bgt
 bis
-test-digikoppeling
 woningbouwkaart
+extranet
 klantcontact
 meedoen
 fmreturn
@@ -200,6 +204,7 @@ intranet-acc
 esb
 corona
 pki
+dtestloket
 webapps
 www2
 email.mail.participatie
@@ -289,7 +294,6 @@ join-test
 join
 kennisnet
 makelaar-test
-makelaar
 meldingen.acc
 mhp
 mht
@@ -382,7 +386,6 @@ api.openstad
 begroten.centrumbegroot
 begroten.zwammerdamdorpskern
 css.openstad
-dali
 dex.meldingen
 digikoppeling-prod
 digitaalgemeenteloket
@@ -417,7 +420,6 @@ zaakloket
 a-digikoppeling
 activesync
 bestandversturen
-bewustwording
 debelastingbalie
 deurwaardersloket
 e-dienstaanvragen
@@ -1696,7 +1698,6 @@ beeldbank-bo
 bestemmingsplannen
 cloudadapter-test
 cloudadapter
-extranet
 geoserver-test
 geoserver
 neuron.prod
@@ -1883,7 +1884,6 @@ testformulieren
 gms
 mksp01bkl
 www.webmail
-dtestloket
 extern
 ibo
 localhost
@@ -1963,3 +1963,16 @@ webcamslingerweg
 webcamspinveld
 websiteacc
 www.stadsarchief
+AutoDiscover
+brlcmg
+citrix
+dtestmidoffice
+esuitenotubiz-test
+ironport
+mycorsanxt
+nlgembrl
+ro-onlineprod
+smartdoc-brl
+smartdoc-brlacc
+smartdocbrl
+smartdocbrlacc
