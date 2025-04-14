@@ -8,12 +8,12 @@ edienstenburgerzaken-test
 afspraken
 intranet
 secure
+mail
 simcms
 simsite
-mail
 webmail
-digikoppeling
 mijn
+digikoppeling
 preproductie
 probeer
 acceptatie
@@ -29,14 +29,15 @@ betalen
 afspraak
 adfs
 broker
+werkplek
 gemeenteraad
 geo
 pv
-werkplek
 data
 eloket
 waarmerk
 enterpriseenrollment
+open
 api.meldingen
 loket.acceptatie
 iparticipatie
@@ -46,9 +47,10 @@ vpn
 werkenbij
 omgevingsvisie
 parkeren
-open
 test-ipa
 openpdc
+osb
+zaaksysteem-accept
 testeloket
 cmsoo
 dacceptatieloket
@@ -59,8 +61,6 @@ remote
 mijnzorg
 zaken
 openpub
-osb
-zaaksysteem-accept
 mijninkomen
 piwik
 kaart
@@ -83,6 +83,7 @@ acc-broker
 cloudadapter-test
 cloudadapter
 pki
+filecap
 _autodiscover._tcp
 portaal
 berichten
@@ -97,7 +98,6 @@ parkeren-acc
 bgt
 belastingloket
 mdm
-filecap
 AutoDiscover
 connect
 belastingportaal
@@ -194,6 +194,7 @@ uca
 data-test
 intranet-acc
 simcms-open
+uc
 www.doemee
 acc.piwik
 www.webmail
@@ -324,6 +325,7 @@ notificaties
 objecten
 objecttypen
 openklant
+owa
 test-formulier
 test-keycloak
 test-mijn
@@ -356,7 +358,6 @@ csc
 digid-parkeervergunningen
 mbg1
 micollab
-uc
 extern
 wozloket-acc
 mam
@@ -1766,7 +1767,6 @@ digikoppeling-mks
 geohr
 mijnplein
 organisatieontwikkeling
-owa
 point
 scorpio
 slimbereikbaar
@@ -3074,3 +3074,10 @@ www.nieuwsbrief
 www.toegankelijk
 www.werkpakt
 zwik.openstad
+cmswhatsepe
+dkdn
+dktstdn
+sstpvpn
+whatsepe
+www.filecap
+zoek
