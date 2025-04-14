@@ -85,6 +85,7 @@ http://autodiscover.hattem.nl
 http://autodiscover.heemskerk.nl
 http://autodiscover.heemstede.nl
 http://autodiscover.heerde.nl
+http://autodiscover.heeze-leende.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -249,6 +250,7 @@ https://Edienstenburgerzaken-test.etten-leur.nl
 https://Infra-summit.acc.amsterdam.nl
 https://Infra-summit.tst.amsterdam.nl
 https://VRiSeLoket.cranendonck.nl
+https://WOZ-loket.heeze-leende.nl
 https://a-consent.sarphati.amsterdam.nl
 https://a-surveys3.ggd.amsterdam.nl
 https://aaenhunze.nl
@@ -507,6 +509,7 @@ https://afspraken.gemeente-steenbergen.nl
 https://afspraken.goes.nl
 https://afspraken.goirle.nl
 https://afspraken.harderwijk.nl
+https://afspraken.heeze-leende.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -825,6 +828,7 @@ https://berichten.gemeentesluis.nl
 https://berichten.gilzerijen.nl
 https://berichten.gorinchem.nl
 https://berichten.heemskerk.nl
+https://berichten.heeze-leende.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -1405,6 +1409,7 @@ https://email.bernheze.org
 https://email.doemee.gemeentebest.nl
 https://email.eijsden-margraten.nl
 https://email.haarlem.nl
+https://email.heeze-leende.nl
 https://email.mail.denkmee.amstelveen.nl
 https://email.mail.participatie.aalsmeer.nl
 https://email.samenveiligwerken.alphenaandenrijn.nl
@@ -1770,6 +1775,7 @@ https://heemskerk.nl
 https://heemstede.nl
 https://heerde.nl
 https://heerenveen.nl
+https://heeze-leende.nl
 https://heiligen.deventer.nl
 https://heitje.heerlen.nl
 https://helloid.bergenopzoom.nl
@@ -1885,6 +1891,7 @@ https://iburgerzaken.heemskerk.nl
 https://iburgerzaken.heemstede.nl
 https://iburgerzaken.heerde.nl
 https://iburgerzaken.heerlen.nl
+https://iburgerzaken.heeze-leende.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2807,6 +2814,7 @@ https://preproductie.bladel.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
 https://preproductie.heerenveen.nl
+https://preproductie.heeze-leende.nl
 https://preproductiebroker.gemeentewesterveld.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://privacybewustzijn.bergendal.nl
@@ -3018,6 +3026,7 @@ https://simsite.beverwijk.nl
 https://simsite.edam-volendam.nl
 https://simsite.geertruidenberg.nl
 https://simsite.gemeentebeek.nl
+https://simsite.heeze-leende.nl
 https://sip.diemen.nl
 https://sip.ggd.amsterdam.nl
 https://siraskalot.delft.nl
@@ -3513,6 +3522,7 @@ https://woningbouwkaart.eersel.nl
 https://woningbouwkaart.eindhoven.nl
 https://woningbouwkaart.emmen.nl
 https://woningbouwkaart.gemeentewesterveld.nl
+https://woningbouwkaart.heeze-leende.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
 https://woo.denhaag.nl
@@ -3526,6 +3536,7 @@ https://woz-loket-accept.hardenberg.nl
 https://woz-loket.coevorden.nl
 https://woz-loket.hardenberg.nl
 https://woz-loket.harlingen.nl
+https://woz-loket.heeze-leende.nl
 https://woz-portaal-test.gemeente-steenbergen.nl
 https://woz-portaal.drimmelen.nl
 https://woz-portaal.gemeente-steenbergen.nl
@@ -3730,6 +3741,7 @@ https://www.heemskerk.nl
 https://www.heemstede.nl
 https://www.heerde.nl
 https://www.heerenveen.nl
+https://www.heeze-leende.nl
 https://www.heitje.heerlen.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl

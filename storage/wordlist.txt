@@ -5,16 +5,16 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-mail
 intranet
+mail
 afspraken
 simsite
 webmail
 mijn
 digikoppeling
 preproductie
-secure
 simcms
+secure
 loket
 acceptatie
 probeer
@@ -58,13 +58,13 @@ loket.acceptatie
 test-ipa
 zaken
 werkenbij
+berichten
+digikoppeling-test
 login
 formulier
 remote
 openpub
 mijninkomen
-berichten
-digikoppeling-test
 cmsoo
 cloudadapter-test
 api.meldingen-acc
@@ -74,6 +74,7 @@ piwik
 belastingen
 preprod-mijninkomen
 acc-broker
+woningbouwkaart
 connect
 mijnzorg
 parkeren-test
@@ -84,7 +85,6 @@ belastingbalie
 financien
 beeldbank
 nieuwsbrief
-woningbouwkaart
 cloudadapter
 govroam
 test-intranet
@@ -99,10 +99,12 @@ duurzaam
 siam
 digikoppeling.test
 apps
+email
 gemeente
 mks
 acc-podiumd-logs
 podiumd-logs
+extranet
 belastingloket
 dtestloket
 mdm
@@ -114,7 +116,6 @@ subsidies
 preprod
 snelbaliepp
 qr
-email
 openzaak
 parkeren-acc
 openstad
@@ -131,7 +132,6 @@ bgt
 keycloak
 objecten
 sts
-extranet
 byod
 samen
 simcms-open
@@ -183,6 +183,7 @@ internetafspraken
 fs
 loket.test
 www.acceptatie
+raadsnet
 denkmee
 geovisia
 college
@@ -225,6 +226,7 @@ omgevingswet
 mobiel
 key2gbav
 ro
+woz-loket
 inproces.acceptatie
 inproces
 cryptshare
@@ -235,7 +237,6 @@ testloket
 testbelastingloket
 e.openstad
 handhaving
-raadsnet
 toegang
 vergunningintaker-preprod
 simform-preproductie
@@ -320,7 +321,6 @@ citrix
 programmabegroting
 dkdtest
 www.afspraak
-woz-loket
 storefront
 klantportaal
 outlook
@@ -512,6 +512,7 @@ squit2go-backoffice
 connect.test
 contentbeheer.test
 zaken.test
+pkio1
 ris
 bor
 suite4burgerzaken-prod
@@ -545,6 +546,7 @@ centric
 eformulieren
 bestanden
 router
+digitalebalie
 klantportaal.acc
 prod
 academie
@@ -2233,7 +2235,6 @@ wijzer.test
 www.doe-mee
 www.woz-loket
 VRiSeLoket
-pkio1
 ptr
 vriseloket
 dvg
@@ -2885,7 +2886,6 @@ subsidiebackoffice
 wijken
 G0498
 datab
-digitalebalie
 durp
 g0498
 sb
@@ -4149,3 +4149,5 @@ uipath-orchestrator
 vacatures
 vf.heitje
 www.heitje
+WOZ-loket
+vris-brk
