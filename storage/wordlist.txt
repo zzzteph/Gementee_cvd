@@ -14,8 +14,8 @@ mail
 mijn
 probeer
 webmail
-preproductie
 digikoppeling
+preproductie
 loket
 felix
 acceptatie
@@ -85,6 +85,7 @@ login
 snelbaliepp
 belastingbalie
 financien
+digikoppeling.test
 gemeente
 parkeren-acc
 bgt
@@ -105,7 +106,6 @@ www.duurzaam
 ns
 qr
 beeldbank
-digikoppeling.test
 apps
 evenementen
 ftp
