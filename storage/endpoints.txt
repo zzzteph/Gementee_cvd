@@ -5,6 +5,7 @@ http://AutoDiscover.enkhuizen.nl
 http://AutoDiscover.koggenland.nl
 http://AutoDiscover.medemblik.nl
 http://AutoDiscover.nissewaard.nl
+http://AutoDiscover.opmeer.nl
 http://Autodiscover.hilversum.nl
 http://aalten.nl
 http://acc-contact.gemert-bakel.nl
@@ -146,6 +147,7 @@ http://autodiscover.oegstgeest.nl
 http://autodiscover.oldebroek.nl
 http://autodiscover.oostgelre.nl
 http://autodiscover.ooststellingwerf.nl
+http://autodiscover.opmeer.nl
 http://autodiscover.partijvoordedieren.nijmegen.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.pvda.nijmegen.nl
@@ -255,6 +257,7 @@ http://ooststellingwerf.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://open.halderberge.nl
+http://opmeer.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -2033,6 +2036,7 @@ https://eloket.nijkerk.eu
 https://eloket.nissewaard.nl
 https://eloket.nuenen.nl
 https://eloket.nunspeet.nl
+https://eloket.opmeer.nl
 https://eloket.preprod.leudal.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
@@ -2186,6 +2190,7 @@ https://felix.leudal.nl
 https://felix.loonopzand.nl
 https://felix.lopik.nl
 https://felix.nederweert.nl
+https://felix.opmeer.nl
 https://felixburgerzaken.nissewaard.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
@@ -2738,6 +2743,7 @@ https://iburgerzaken.ommen.nl
 https://iburgerzaken.oosterhout.nl
 https://iburgerzaken.oostgelre.nl
 https://iburgerzaken.ooststellingwerf.nl
+https://iburgerzaken.opmeer.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2786,6 +2792,7 @@ https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
 https://ikzoek.huizen.nl
 https://ikzoekeenhuis.almere.nl
+https://im.opmeer.nl
 https://image.nieuwsbrief.amsterdam.nl
 https://images.openstad.alphenaandenrijn.nl
 https://img.doemee.bloemendaal.nl
@@ -3067,6 +3074,7 @@ https://klantcontact.landgraaf.nl
 https://klantcontact.lingewaard.nl
 https://klantcontact.loonopzand.nl
 https://klantcontact.nissewaard.nl
+https://klantcontact.opmeer.nl
 https://klantgeleiding.gorinchem.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
@@ -3459,12 +3467,14 @@ https://mijnsdv.emmen.nl
 https://mijnshv.coevorden.nl
 https://mijnsociaaldomein-acc.koggenland.nl
 https://mijnsociaaldomein-acc.meierijstad.nl
+https://mijnsociaaldomein-acc.opmeer.nl
 https://mijnsociaaldomein-test.losser.nl
 https://mijnsociaaldomein.gemeentesluis.nl
 https://mijnsociaaldomein.heerenveen.nl
 https://mijnsociaaldomein.koggenland.nl
 https://mijnsociaaldomein.losser.nl
 https://mijnsociaaldomein.meierijstad.nl
+https://mijnsociaaldomein.opmeer.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
 https://mijnsociaalplein.gemeentemaashorst.nl
@@ -3761,6 +3771,7 @@ https://ont.management.api.amsterdam.nl
 https://ontheffingen-acc.amsterdam.nl
 https://ontheffingen-mz.denhaag.nl
 https://ontheffingen.amsterdam.nl
+https://ontmoetingscentra.opmeer.nl
 https://ontmoetingskaart.landvancuijk.nl
 https://ontw.app.amsterdam.nl
 https://onzestad.nijmegen.nl
@@ -4433,6 +4444,7 @@ https://siem2.hethogeland.nl
 https://simcms-centrum.heerlen.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-energiek.beuningen.nl
+https://simcms-ontmoetingscentra.opmeer.nl
 https://simcms-open.geldrop-mierlo.nl
 https://simcms-open.halderberge.nl
 https://simcms-open.meerssen.nl
@@ -4460,6 +4472,7 @@ https://simcms.maassluis.nl
 https://simcms.middelburg.nl
 https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
+https://simcms.opmeer.nl
 https://simform.achtkarspelen.nl
 https://simform.beuningen.nl
 https://simform.gemeentehw.nl
@@ -5215,6 +5228,8 @@ https://wijkteam.katwijk.nl
 https://wijkteams.almere.nl
 https://wijkvernieuwing.groningen.nl
 https://wijsamen.groningen.nl
+https://wijzer-acc.opmeer.nl
+https://wijzer.opmeer.nl
 https://wilbertoord.landvancuijk.nl
 https://willkommen.groningen.nl
 https://windopland.haarlemmermeer.nl

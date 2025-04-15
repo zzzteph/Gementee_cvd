@@ -6,14 +6,14 @@ ibzpink
 edienstenburgerzaken
 intranet
 edienstenburgerzaken-test
-afspraken
 simsite
+afspraken
 webmail
 mijn
 mail
 digikoppeling
-acceptatie
 preproductie
+acceptatie
 secure
 simcms
 probeer
@@ -82,6 +82,7 @@ duurzaam
 digikoppeling.test
 mks
 cloudadapter
+extranet
 test-intranet
 pki
 osbacc
@@ -89,7 +90,6 @@ parkeren-test
 piwik
 subsidies
 financien
-extranet
 doemee
 www.webmail
 kaarten
@@ -105,6 +105,7 @@ gemeente
 acc-formulier
 acc-podiumd-logs
 podiumd-logs
+klantcontact
 belastingloket
 samen
 simcms-open
@@ -131,7 +132,7 @@ acc-openklant
 acc-openzaak
 keycloak
 objecten
-klantcontact
+AutoDiscover
 squit2go
 begroting
 transfer
@@ -158,7 +159,6 @@ obsurv
 gasten
 mdm
 smtp
-AutoDiscover
 connect.acceptatie
 contentbeheer
 bor
@@ -174,6 +174,7 @@ owa
 test-digikoppeling
 meedoen
 iarchief
+jccapi
 micollab
 uc
 mobile
@@ -207,7 +208,6 @@ byod
 fmreturn
 guest
 publicroam
-jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 data-test
@@ -217,6 +217,7 @@ outlook
 contact
 liquit
 www.portal
+mijnsociaaldomein
 handhaving
 fs
 mijnzorg-acc
@@ -278,7 +279,6 @@ zaaksysteem
 e.openstad
 en
 ibabs
-mijnsociaaldomein
 gateway
 www2
 loket.test
@@ -463,6 +463,8 @@ duo
 stemvan
 www.samen
 gbionline
+corsa-prod
+corsa-test
 gemeentewinkel
 www.login
 beeldbankbeheer
@@ -486,6 +488,8 @@ access
 insite
 www.afspraken
 digitaalloket
+hta
+mijnsociaaldomein-acc
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -653,6 +657,7 @@ download
 publicatie
 squit2go-backoffice
 webcon
+wijzer
 pkio1
 idtst
 bor-acc
@@ -731,8 +736,6 @@ squit2gotest
 zoek
 geo-secure
 financieelportaal
-corsa-prod
-corsa-test
 organisatie
 ketenportaal.acceptatie
 nedplan
@@ -818,8 +821,10 @@ pcorsa
 pkoppelcorsa
 tcorsa
 tkoppelcorsa
-hta
-mijnsociaaldomein-acc
+HTA
+lvolo-prod
+lvolo-test
+validsign-prod
 geocortex
 tickets
 cmsembrace
@@ -2397,7 +2402,6 @@ reserveren
 test-cmshofnet
 test-hofnet
 wijzer.acceptatie
-wijzer
 wijzer.test
 www.doe-mee
 www.woz-loket
@@ -4464,7 +4468,6 @@ taxa05
 tcoda
 tmakelaar
 waarstemjijvoor
-HTA
 belastingen.acc
 goprod
 gotest
@@ -4473,12 +4476,9 @@ ik
 inloggen.belastingen.acc
 inloggen.belastingen
 jboss
-lvolo-prod
-lvolo-test
 mohis
 mohistest
 prefill
-validsign-prod
 komverder
 mijnkrimpenwijzer
 pub
@@ -5173,3 +5173,11 @@ www.talentenbank
 psiam
 tloket
 tsiam
+LVOLO-PROD
+LVOLO-TEST
+im
+ontmoetingscentra
+opmmks01
+simcms-ontmoetingscentra
+validsign-test
+wijzer-acc
