@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mijn
-webmail
 simsite
+webmail
 afspraken
 mail
 digikoppeling
@@ -17,8 +17,8 @@ simcms
 acceptatie
 secure
 probeer
-loket
 felix
+loket
 formulieren
 dkd
 eloket
@@ -42,11 +42,11 @@ betalen
 iparticipatie
 parkeren
 test-ipa
-zaaksysteem-accept
 werkenbij
+zaaksysteem-accept
+enterpriseenrollment
 belastingen
 gemeenteraad
-enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 openpdc
@@ -110,6 +110,7 @@ denkmee
 mijninkomen
 subsidies
 snelbalie
+siam
 qr
 openzaak
 acc-mijn
@@ -124,7 +125,6 @@ squit2go
 begroting
 preprod-mijninkomen
 mailing
-siam
 apps
 parkeren-acc
 acc-contact
@@ -321,6 +321,8 @@ secure-test
 stadsarchief
 exchange
 rpl3
+mozard
+mozardtest
 mail2
 wion
 www.test
@@ -399,8 +401,6 @@ sociaaldomein
 digitaalnachtregister
 mijnoverzicht
 ssp
-mozard
-mozardtest
 bewustwording
 app
 belastingbalie.acc
@@ -586,6 +586,9 @@ qr.testdigitaalgemeenteloket
 samenveiligwerken
 testdigitaalgemeenteloket
 www.centrumbegroot
+test-zaakloket
+testsiam
+zaakloket
 activesync
 mail1
 redactie
@@ -610,6 +613,7 @@ octopus-portaal
 octopus
 ois
 parkeervergunningen.acc
+regelgeving
 rekenkamer
 social
 sportverhuur
@@ -1087,9 +1091,6 @@ www.alleplannen.centrumbegroot
 www.uwdorpofwijk
 www.zwammerdamdorpskern
 zwammerdamdorpskern
-test-zaakloket
-testsiam
-zaakloket
 a-digikoppeling
 bestandversturen
 debelastingbalie
@@ -1831,7 +1832,6 @@ publiek
 rabbitmq.datapunt
 rds.vga
 redactie.antwoord
-regelgeving
 registraties
 reinigingsrecht-acc
 reinigingsrecht-online
