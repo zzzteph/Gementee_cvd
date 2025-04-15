@@ -94,6 +94,7 @@ http://autodiscover.heumen.nl
 http://autodiscover.heusden.nl
 http://autodiscover.hillegom.nl
 http://autodiscover.hilversum.nl
+http://autodiscover.hofvantwente.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -440,6 +441,7 @@ https://acceptatie-intranet.hardenberg.nl
 https://acceptatie-mobiliteitsplan.hillegom.nl
 https://acceptatie-open.dinkelland.nl
 https://acceptatie-open.gooisemeren.nl
+https://acceptatie-open.hofvantwente.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.asten.nl
@@ -845,6 +847,7 @@ https://belastingen.gemeente-oldambt.nl
 https://belastingen.gilzerijen.nl
 https://belastingen.heerenveen.nl
 https://belastingen.hellendoorn.nl
+https://belastingen.hofvantwente.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.edam-volendam.nl
 https://belastingloket.elburg.nl
@@ -959,6 +962,7 @@ https://bouwarchief.hillegom.nl
 https://bouwdossiers.amsterdam.nl
 https://bouwdossiers.gemeentewestland.nl
 https://bouwdossiers.heemstede.nl
+https://bouwkavels.hofvantwente.nl
 https://bouwtekeningen.heemstede.nl
 https://boxtel.nl
 https://bp.data.amsterdam.nl
@@ -1048,6 +1052,7 @@ https://cmsintranet.gemeentestein.nl
 https://cmsintranet.gooisemeren.nl
 https://cmsintranet.groningen.nl
 https://cmsintranet.heuvelrug.nl
+https://cmsjip.hofvantwente.nl
 https://cmsoo.assen.nl
 https://cmsoo.borger-odoorn.nl
 https://cmsoo.borne.nl
@@ -1369,6 +1374,7 @@ https://edienstenburgerzaken-test.harlingen.nl
 https://edienstenburgerzaken-test.heiloo.nl
 https://edienstenburgerzaken-test.hellendoorn.nl
 https://edienstenburgerzaken-test.hillegom.nl
+https://edienstenburgerzaken-test.hofvantwente.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1423,6 +1429,7 @@ https://edienstenburgerzaken.harlingen.nl
 https://edienstenburgerzaken.heiloo.nl
 https://edienstenburgerzaken.hellendoorn.nl
 https://edienstenburgerzaken.hillegom.nl
+https://edienstenburgerzaken.hofvantwente.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1746,6 +1753,7 @@ https://gemeenteraad.groningen.nl
 https://gemeenteraad.haarlemmermeer.nl
 https://gemeenteraad.halderberge.nl
 https://gemeenteraad.heemskerk.nl
+https://gemeenteraad.hofvantwente.nl
 https://gemeentesluis.nl
 https://gemeentestein.nl
 https://gemeentewesterveld.nl
@@ -1902,6 +1910,7 @@ https://histor-web.amsterdam.nl
 https://histor-web.tst.amsterdam.nl
 https://hnw.delft.nl
 https://hofnet.coevorden.nl
+https://hofvantwente.nl
 https://hometest.groningen.nl
 https://hor-acc.amsterdam.nl
 https://hor.amsterdam.nl
@@ -2153,6 +2162,7 @@ https://jcctest.bergenopzoom.nl
 https://jeugdombudsman.denhaag.nl
 https://jf.doemee.heemstede.nl
 https://jijmaaktdebuurt.openstad.enschede.nl
+https://jip.hofvantwente.nl
 https://johanwagenaarlaan-cesarfrancklaan-old.doemee.heemstede.nl
 https://johanwagenaarlaan-cesarfrancklaan.doemee.heemstede.nl
 https://joinconnect.dalfsen.nl
@@ -2213,6 +2223,7 @@ https://keycloak.gemeente-oldambt.nl
 https://keycloak.gemeentemaashorst.nl
 https://keycloak.gemert-bakel.nl
 https://keycloak.test.denhaag.nl
+https://keyhub.hofvantwente.nl
 https://kghtb-prod.gemeente-steenbergen.nl
 https://kgzorgned-prod.gemeente-steenbergen.nl
 https://kijk.dijkenwaard.nl
@@ -2437,6 +2448,7 @@ https://mijn.helmond.nl
 https://mijn.hengelo.nl
 https://mijn.heusden.nl
 https://mijn.heuvelrug.nl
+https://mijn.hofvantwente.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnerfpacht.amsterdam.nl
 https://mijnevenement-authenticatie-staging.gemeente-steenbergen.nl
@@ -2480,6 +2492,7 @@ https://mijnsociaalplein.castricum.nl
 https://mijnsociaalplein.gemeentemaashorst.nl
 https://mijnsociaalplein.heiloo.nl
 https://mijnsociaalplein.hilversum.nl
+https://mijnsociaalplein.hofvantwente.nl
 https://mijnsociaalportaal-acc.bergen-nh.nl
 https://mijnsociaalportaal-acc.castricum.nl
 https://mijnsociaalportaal-acc.heiloo.nl
@@ -2667,6 +2680,7 @@ https://omgevingsvisie.gouda.nl
 https://omgevingsvisie.heemstede.nl
 https://omgevingsvisie.heerde.nl
 https://omgevingsvisie.hilversum.nl
+https://omgevingsvisie.hofvantwente.nl
 https://omgevingswet.deventer.nl
 https://omgevingswet.gemeentemaashorst.nl
 https://omslagroute.amsterdam.nl
@@ -2716,6 +2730,7 @@ https://open.gooisemeren.nl
 https://open.gorinchem.nl
 https://open.hillegom.nl
 https://open.hilversum.nl
+https://open.hofvantwente.nl
 https://openbareruimte.deventer.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
@@ -2756,6 +2771,7 @@ https://openpdc.gemeenteberkelland.nl
 https://openpdc.gemeentehw.nl
 https://openpdc.gouda.nl
 https://openpdc.hellendoorn.nl
+https://openpdc.hofvantwente.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
 https://openpub.arnhem.nl
@@ -2767,6 +2783,7 @@ https://openpub.gemeenteberkelland.nl
 https://openpub.gemeentehw.nl
 https://openpub.gouda.nl
 https://openpub.hellendoorn.nl
+https://openpub.hofvantwente.nl
 https://openstad.apeldoorn.nl
 https://openstad.deventer.nl
 https://openstad.enschede.nl
@@ -3038,6 +3055,7 @@ https://pveopenbareruimte.deventer.nl
 https://pvsor.gemeentewestland.nl
 https://pwa.barendrecht.nl
 https://qcalendar.deventer.nl
+https://qfact.hofvantwente.nl
 https://qr-acc.capelleaandenijssel.nl
 https://qr-acc.gooisemeren.nl
 https://qr.amersfoort.nl
@@ -3441,6 +3459,7 @@ https://testbelastingloket.heerde.nl
 https://testcms-binnenshuis.bergen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
+https://testcms-jip.hofvantwente.nl
 https://testdigikoppeling.haarlemmermeer.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testeloket.arnhem.nl
@@ -3983,6 +4002,7 @@ https://www.hildebrandplein.denhaag.nl
 https://www.hillegom.nl
 https://www.hilvarenbeek.nl
 https://www.hilversum.nl
+https://www.hofvantwente.nl
 https://www.houtwijkbegroot.denhaag.nl
 https://www.iedereenwerktmee.amsterdam.nl
 https://www.ihp.denhaag.nl
@@ -4123,6 +4143,7 @@ https://zaaksysteem-accept.gooisemeren.nl
 https://zaaksysteem-accept.gouda.nl
 https://zaaksysteem-accept.halderberge.nl
 https://zaaksysteem-accept.hardenberg.nl
+https://zaaksysteem-accept.hofvantwente.nl
 https://zaaksysteem.hilversum.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl
