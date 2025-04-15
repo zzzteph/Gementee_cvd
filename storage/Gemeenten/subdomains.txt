@@ -45,6 +45,7 @@ Infra-summit.acc.amsterdam.nl
 Infra-summit.tst.amsterdam.nl
 Inkomensbalie.eindhoven.nl
 LVWKPB-emmen.napels.emmen.nl
+MD-APP-P-01.middendelfland.nl
 MiCollab.leiden.nl
 NLGEMBRC.blaricum.nl
 Preprod.kaagenbraassem.nl
@@ -647,6 +648,7 @@ afspraken.leiden.nl
 afspraken.lelystad.nl
 afspraken.lingewaard.nl
 afspraken.meierijstad.nl
+afspraken.middendelfland.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -862,7 +864,9 @@ api.top.amsterdam.nl
 api.v2.openstad.haarlemmermeer.nl
 api.wonen.zaken.amsterdam.nl
 apigateway.gemeentewestland.nl
+apigateway.middendelfland.nl
 apigateway2.gemeentewestland.nl
+apigateway2.middendelfland.nl
 apim-gw-wpi-o.amsterdam.nl
 apim-gw-wpi-t.amsterdam.nl
 apim-mgmt-wpi-o.amsterdam.nl
@@ -1593,6 +1597,7 @@ broker.losser.nl
 broker.preprod.leudal.nl
 bronckhorst.nl
 bros-academie.deurne.nl
+brp.middendelfland.nl
 brs.groningen.nl
 brsoribi01.borsele.nl
 brsoribi02.borsele.nl
@@ -1784,6 +1789,7 @@ cmsoo.horstaandemaas.nl
 cmsoo.kampen.nl
 cmsoo.laarbeek.nl
 cmsoo.losser.nl
+cmssocialintranet.middendelfland.nl
 cmswhatsepe.epe.nl
 cnoops.gemeentemaasgouw.nl
 co108.groningen.nl
@@ -2176,6 +2182,7 @@ digikoppeling.lochem.nl
 digikoppeling.maasdriel.nl
 digikoppeling.maassluis.nl
 digikoppeling.middelburg.nl
+digikoppeling.middendelfland.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -2956,6 +2963,7 @@ felix.lingewaard.nl
 felix.loonopzand.nl
 felix.lopik.nl
 felix.maassluis.nl
+felix.middendelfland.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
 festivals.landvancuijk.nl
@@ -2980,6 +2988,7 @@ fileshare.amsterdam.nl
 filetransfer.dijkenwaard.nl
 filetransfer.gennep.nl
 filetransfer.meierijstad.nl
+filetransfer.middendelfland.nl
 filr.derondevenen.nl
 filr.drimmelen.nl
 filr.eijsden-margraten.nl
@@ -3189,6 +3198,7 @@ gasten.lansingerland.nl
 gateway.gemeentewestland.nl
 gateway.groningen.nl
 gateway.heerenveen.nl
+gateway.middendelfland.nl
 gb-app05.gemeenteberkelland.nl
 gb-servers.intra.gemert-bakel.nl
 gb-wls-04.gemert-bakel.nl
@@ -3534,6 +3544,10 @@ gvzdigikoppeling.acc.amsterdam.nl
 gvzdigikoppeling.amsterdam.nl
 gvzdigikoppeling.landsmeer.nl
 gw.servers1.bergen-nh.nl
+gwm-orawls-01.middendelfland.nl
+gwm-orawls-02.middendelfland.nl
+gwm-orawls-p1.middendelfland.nl
+gwm-orawls-t1.middendelfland.nl
 gwmor008.gulpen-wittem.nl
 gwmor009.gulpen-wittem.nl
 gwmwb012.gulpen-wittem.nl
@@ -4148,6 +4162,7 @@ intranet.meierijstad.nl
 intranet.meppel.nl
 intranet.middelburg.nl
 intranet.midden-groningen.nl
+intranet.middendelfland.nl
 intranet.raadsinformatie.amsterdam.nl
 intranet2.gulpen-wittem.nl
 intranetacc.apeldoorn.nl
@@ -4265,6 +4280,7 @@ jeugdombudsman-acc.denhaag.nl
 jeugdombudsman.denhaag.nl
 jf.doemee.heemstede.nl
 jijmaaktdebuurt.openstad.enschede.nl
+jimintranet.middendelfland.nl
 jip.hofvantwente.nl
 jn12plus.amsterdam.nl
 joep.kerkrade.nl
@@ -4760,6 +4776,7 @@ mail.leudal.nl
 mail.lopik.nl
 mail.losser.nl
 mail.mailing.haaksbergen.nl
+mail.middendelfland.nl
 mail.noord.amsterdam.nl
 mail.participatie.aalsmeer.nl
 mail01.bodegraven-reeuwijk.nl
@@ -4830,6 +4847,7 @@ mbg.dantumadiel.frl
 mbg1.beverwijk.nl
 mbg1.dantumadiel.frl
 mbg2.dantumadiel.frl
+md-app-p-01.middendelfland.nl
 mdm-sentry.bronckhorst.nl
 mdm.borne.nl
 mdm.bronckhorst.nl
@@ -4972,6 +4990,7 @@ microservices.schoolwijzer.amsterdam.nl
 micstz.almelo.nl
 middelburg.nl
 midden-groningen.nl
+middendelfland.nl
 middengroningen.groningen.nl
 midoffice.aalsmeer.nl
 midoffice.amstelveen.nl
@@ -5041,6 +5060,7 @@ mijn.maasdriel.nl
 mijn.maassluis.nl
 mijn.meierijstad.nl
 mijn.meppel.nl
+mijn.middendelfland.nl
 mijnaanvraagzi.beuningen.nl
 mijnacpt.haarlem.nl
 mijnafval.meerssen.nl
@@ -6170,6 +6190,7 @@ preproductie.leudal.nl
 preproductie.lopik.nl
 preproductie.maassluis.nl
 preproductie.meierijstad.nl
+preproductie.middendelfland.nl
 preproductiebroker.gemeentewesterveld.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
@@ -6215,6 +6236,7 @@ probeer.leudal.nl
 probeer.lopik.nl
 probeer.maassluis.nl
 probeer.middelburg.nl
+probeer.middendelfland.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 product.leiden.nl
@@ -6395,6 +6417,7 @@ remote.gorinchem.nl
 remote.hethogeland.nl
 remote.hoorn.nl
 remote.lochem.nl
+remotewerken.middendelfland.nl
 rep.bronckhorst.nl
 reserveren.coevorden.nl
 return.heuvelrug.nl
@@ -6604,6 +6627,7 @@ secure.landgraaf.nl
 secure.lansingerland.nl
 secure.leeuwarden.nl
 secure.leudal.nl
+secure.middendelfland.nl
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
@@ -6764,6 +6788,7 @@ simcms.lingewaard.nl
 simcms.lopik.nl
 simcms.maassluis.nl
 simcms.middelburg.nl
+simcms.middendelfland.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -6832,6 +6857,7 @@ simsite.lopik.nl
 simsite.maassluis.nl
 simsite.meierijstad.nl
 simsite.middelburg.nl
+simsite.middendelfland.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -6930,6 +6956,7 @@ socialekaart.echt-susteren.nl
 socialekaart.ede.nl
 socialeteams.deventer.nl
 socialewegwijzer.meierijstad.nl
+socialintranet.middendelfland.nl
 solidariteit.laarbeek.nl
 sollicitatie.ggd.amsterdam.nl
 solliciterenbij.barneveld.nl
@@ -7006,6 +7033,7 @@ squitxo.goirle.nl
 squitxotest.goirle.nl
 srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
+srv-dmz-01.middendelfland.nl
 srvmksbur.buren.nl
 sscict.intranet.amsterdam.nl
 ssd.brunssum.nl
@@ -7263,6 +7291,7 @@ test-cmsintranet.groningen.nl
 test-cmsintranet.heuvelrug.nl
 test-cmsintranet.lansingerland.nl
 test-cmsintranet.meierijstad.nl
+test-cmssocialintranet.middendelfland.nl
 test-contact.gemert-bakel.nl
 test-dieuwke.defryskemarren.nl
 test-digikoppeling.assen.nl
@@ -7362,6 +7391,7 @@ test-secure.heerlen.nl
 test-secure.landgraaf.nl
 test-secure.leeuwarden.nl
 test-secureweb.landgraaf.nl
+test-socialintranet.middendelfland.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl
 test-topvorm.apeldoorn.nl
@@ -7431,6 +7461,7 @@ testdigid.arnhem.nl
 testdigid.denhaag.nl
 testdigikoppeling.haarlemmermeer.nl
 testdigikoppeling.middelburg.nl
+testdigikoppeling.middendelfland.nl
 testdigitaalgemeenteloket.alphenaandenrijn.nl
 testdigitaalgemeenteloket.kaagenbraassem.nl
 testeloket.arnhem.nl
@@ -7497,6 +7528,7 @@ thuiswerken.bergen-nh.nl
 thuiswerken.bronckhorst.nl
 thuiswerken.castricum.nl
 thuiswerken.dwi.amsterdam.nl
+thuiswerken.middendelfland.nl
 thuiswerken2.bronckhorst.nl
 thuiswinkelen.landvancuijk.nl
 tickets.krimpenerwaard.nl
@@ -7916,6 +7948,9 @@ webformulieren.hoorn.nl
 webgba.gouda.nl
 webkassa.harderwijk.nl
 webkassa.heusden.nl
+weblogic-prod.middendelfland.nl
+weblogic-test.middendelfland.nl
+weblogic.middendelfland.nl
 webmail-test.haarlem.nl
 webmail.alkmaar.nl
 webmail.amersfoort.nl
@@ -7980,6 +8015,7 @@ webmail.lopik.nl
 webmail.maassluis.nl
 webmail.meerssen.nl
 webmail.meierijstad.nl
+webmail.middendelfland.nl
 webmail.nieuwwest.amsterdam.nl
 webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
@@ -8303,6 +8339,7 @@ www.atlas.amsterdam.nl
 www.baarle-nassau.nl
 www.baarn.nl
 www.baarsjes.amsterdam.nl
+www.bag.middendelfland.nl
 www.barendrecht.nl
 www.barneveld.nl
 www.bars.emmen.nl
@@ -8727,6 +8764,7 @@ www.merk.denhaag.nl
 www.micollab.gemeentewestland.nl
 www.middelburg.nl
 www.midden-groningen.nl
+www.middendelfland.nl
 www.middengroningen.groningen.nl
 www.mijn.arnhem.nl
 www.mijn.groningen.nl
@@ -8825,6 +8863,7 @@ www.regentesseplein.denhaag.nl
 www.regiocheckervth.denhaag.nl
 www.rekenkamer.amsterdam.nl
 www.remote.druten.nl
+www.remotewerken.middendelfland.nl
 www.rondleidingen.landvancuijk.nl
 www.roplan.haarlemmermeer.nl
 www.ruimtelijkeplannen.amsterdam.nl
@@ -9030,6 +9069,7 @@ zaaksysteem-accept.lansingerland.nl
 zaaksysteem-accept.lingewaard.nl
 zaaksysteem-accept.maasdriel.nl
 zaaksysteem-accept.maassluis.nl
+zaaksysteem-accept.middendelfland.nl
 zaaksysteem.eindhoven.nl
 zaaksysteem.hilversum.nl
 zaaksysteem.maassluis.nl
