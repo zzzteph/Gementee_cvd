@@ -6,9 +6,9 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 simsite
 afspraken
+webmail
 mail
 mijn
 digikoppeling
@@ -34,16 +34,16 @@ geo
 waarmerk
 broker
 portal
+pv
 vpn
 parkeren
 betalen
-pv
 werkenbij
 zaaksysteem-accept
 gemeenteraad
+enterpriseenrollment
 iparticipatie
 raad
-enterpriseenrollment
 testeloket
 test-ipa
 osb
@@ -64,16 +64,17 @@ remote
 data
 openpub
 flowmailer-tracking
+enterpriseregistration
 cloudadapter-test
 zaken
 kaart
 berichten
-enterpriseregistration
 formulier
 cmsoo
 digikoppeling-test
 beeldbank
 loket.acceptatie
+mks
 acc-broker
 woningbouwkaart
 cloudadapter
@@ -83,12 +84,12 @@ osbacc
 parkeren-test
 duurzaam
 digikoppeling.test
-mks
 extranet
 dtestloket
 mijninkomen
 piwik
 financien
+apps
 pki
 kaarten
 connect
@@ -99,7 +100,6 @@ verkiezingen
 subsidies
 preprod-mijninkomen
 snelbalie
-apps
 gemeente
 nieuwsbrief
 belastingloket
@@ -111,6 +111,7 @@ jaarstukken
 transfer
 cmsintranet
 vergunningintaker
+denkmee
 e
 mailing
 preprod
@@ -118,6 +119,7 @@ email
 parkeren-acc
 acc-formulier
 acc-podiumd-logs
+bastion365
 bgt
 podiumd-logs
 sts
@@ -131,10 +133,10 @@ dtestmidoffice
 inloggen
 squit2go
 begroting
+testloket
 belastingportaal
 _autodiscover._tcp
 preprodbroker
-denkmee
 kennisbank
 simform
 web
@@ -154,7 +156,6 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
-bastion365
 keycloak
 objecten
 owa
@@ -165,7 +166,6 @@ mobile
 AutoDiscover
 connect.acceptatie
 contentbeheer
-testloket
 midoffice
 documenten
 gisib
@@ -202,6 +202,7 @@ inproces.acceptatie
 inproces
 cryptshare
 outlook
+liquit
 fs
 mijnzorg-acc
 participatie
@@ -248,7 +249,6 @@ bestanden
 squit2020
 aeolus
 ibabs
-liquit
 mijnsociaaldomein
 gateway
 handhaving
@@ -324,6 +324,7 @@ en
 www.portal
 sbc01
 cloudadapter-prod
+m
 www2
 toegang
 simform-preproductie
@@ -421,6 +422,7 @@ cloudadapter-t
 burgerloket
 ondernemersloket
 intra
+mijnloket
 winkelen
 www.openstad
 bestuur
@@ -442,7 +444,6 @@ beeldbankbeheer
 www.werkplek
 acceptatie-intranet
 de
-m
 validsign
 gemeentebestuur
 lyncweb
@@ -527,6 +528,7 @@ parkeervergunningen.acc
 social
 sportverhuur
 subsites
+vaarvergunningen
 vergunning
 wachtwoordvergeten
 www.bestemmingsplannen
@@ -652,7 +654,6 @@ sbc
 allegroweb
 binnenstad
 forms
-mijnloket
 zorgaanbieders
 begraven
 parkeren-siam-test
@@ -703,9 +704,11 @@ corsa-test
 organisatie
 nedplan
 secudoc
+liquitsatellite
 tim
 www.djuma
 pip
+mylex
 preprod-mijnsociaaldomein
 rds
 digikoppelingjnet
@@ -768,6 +771,7 @@ bouwarchief
 edienstenpreprod
 testwerkplek
 wijkteam
+www.denkmee
 open-formulieren-test
 hybrid1
 hybrid2
@@ -1828,7 +1832,6 @@ uniwin
 upk.afs.acc
 upk.afs
 vaarkaart.bba
-vaarvergunningen
 vergaderen-adp
 vergaderen.acc
 vergaderen
@@ -3359,7 +3362,6 @@ www.srmvauitwijk.ovh
 api-jcc
 gb-app05
 leverancier
-liquitsatellite
 mijnplan
 otp
 preprod-mijnplan
@@ -3452,7 +3454,6 @@ webteam
 accommodatieverhuur
 helpdesk
 ict
-mylex
 neptunus
 s4
 w2008bag
@@ -4304,7 +4305,6 @@ idselectprd
 organisatievisie2030
 sociaaljaarverslag
 verhalenroute
-www.denkmee
 www.meedoen
 hgvexc1
 hgvmks1
@@ -4893,3 +4893,6 @@ services-t
 sportlocaties
 tripleformst
 wlan
+mksggk
+nwk-djm02
+www.vaarvergunningen

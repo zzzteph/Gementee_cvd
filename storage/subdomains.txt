@@ -667,6 +667,7 @@ afspraken.middendelfland.nl
 afspraken.montferland.info
 afspraken.montfoort.nl
 afspraken.mookenmiddelaar.nl
+afspraken.nieuwkoop.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -913,6 +914,7 @@ apps.haarlemmermeer.nl
 apps.heemskerk.nl
 apps.hoogeveen.nl
 apps.katwijk.nl
+apps.nieuwkoop.nl
 apv-broker.heuvelrug.nl
 apv-broker.preprod.heuvelrug.nl
 arcgis.groningen.nl
@@ -1135,6 +1137,7 @@ autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 autodiscover.nederbetuwe.nl
 autodiscover.nederweert.nl
 autodiscover.nieuwegein.nl
+autodiscover.nieuwkoop.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.opsb.groningen.nl
@@ -1209,6 +1212,7 @@ bastion365.heusden.nl
 bastion365.hollandskroon.nl
 bastion365.katwijk.nl
 bastion365.nederweert.nl
+bastion365.nieuwkoop.nl
 bavak.gemeentewestland.nl
 bb1051246.kerkrade.nl
 bb1051247.kerkrade.nl
@@ -2111,6 +2115,7 @@ denkmee.bodegraven-reeuwijk.nl
 denkmee.hollandskroon.nl
 denkmee.kaagenbraassem.nl
 denkmee.maassluis.nl
+denkmee.nieuwkoop.nl
 derondevenen.nl
 deschop.acceptatie.asten.nl
 deschop.asten.nl
@@ -2880,6 +2885,7 @@ enterpriseenrollment.lochem.nl
 enterpriseenrollment.meierijstad.nl
 enterpriseenrollment.moerdijk.nl
 enterpriseenrollment.nederweert.nl
+enterpriseenrollment.nieuwkoop.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
 enterpriseone.almere.nl
@@ -2897,6 +2903,7 @@ enterpriseregistration.lochem.nl
 enterpriseregistration.moerdijk.nl
 enterpriseregistration.montferland.info
 enterpriseregistration.nederweert.nl
+enterpriseregistration.nieuwkoop.nl
 eopenstad.gemeentewestland.nl
 epe.nl
 epms.amsterdam.nl
@@ -3942,6 +3949,7 @@ iburgerzaken.montferland.info
 iburgerzaken.mookenmiddelaar.nl
 iburgerzaken.nederbetuwe.nl
 iburgerzaken.nieuwegein.nl
+iburgerzaken.nieuwkoop.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -4052,6 +4060,7 @@ ibzpink.montferland.info
 ibzpink.mookenmiddelaar.nl
 ibzpink.nederbetuwe.nl
 ibzpink.nieuwegein.nl
+ibzpink.nieuwkoop.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -4278,6 +4287,7 @@ intranet.midden-groningen.nl
 intranet.middendelfland.nl
 intranet.montferland.info
 intranet.mookenmiddelaar.nl
+intranet.nieuwkoop.nl
 intranet.raadsinformatie.amsterdam.nl
 intranet2.gulpen-wittem.nl
 intranetacc.apeldoorn.nl
@@ -4691,7 +4701,9 @@ liquit.gemeentebest.nl
 liquit.leeuwarden.nl
 liquit.meierijstad.nl
 liquit.montferland.info
+liquit.nieuwkoop.nl
 liquitsatellite.gemeenteberkelland.nl
+liquitsatellite.nieuwkoop.nl
 lisse-checker-preprod.lisse.nl
 lisse.nl
 listen2.dro.amsterdam.nl
@@ -4830,6 +4842,7 @@ lyncweb.houten.nl
 m.groningen.nl
 m.leiden.nl
 m.lochem.nl
+m.nieuwkoop.nl
 m1.delft.nl
 m2.delft.nl
 m2m.amersfoort.nl
@@ -4908,6 +4921,7 @@ mail.losser.nl
 mail.mailing.haaksbergen.nl
 mail.middendelfland.nl
 mail.nederweert.nl
+mail.nieuwkoop.nl
 mail.noord.amsterdam.nl
 mail.participatie.aalsmeer.nl
 mail01.bodegraven-reeuwijk.nl
@@ -5247,6 +5261,7 @@ mijnkaarten.ovh.gemeentebeek.nl
 mijnkrimpenwijzer.krimpenaandenijssel.nl
 mijnloket.deventer.nl
 mijnloket.edam-volendam.nl
+mijnloket.nieuwkoop.nl
 mijnmobiel.gemeentebeek.nl
 mijnmobiel.oa.amsterdam.nl
 mijnmobiel.ovh.gemeentebeek.nl
@@ -5344,10 +5359,12 @@ mks.hethogeland.nl
 mks.hoogeveen.nl
 mks.kerkrade.nl
 mks.midden-groningen.nl
+mks.nieuwkoop.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
 mks01msn.meerssen.nl
 mksacc.breda.nl
+mksggk.nieuwkoop.nl
 mksp01bkl.boekel.nl
 mksprod.midden-groningen.nl
 mkstest.adir.lingewaard.nl
@@ -5432,6 +5449,7 @@ mycorsanxt.brielle.nl
 mycorsanxt.derondevenen.nl
 myexports.bernheze.org
 mylex.gemeentesluis.nl
+mylex.nieuwkoop.nl
 mymeeting-ris.gulpen-wittem.nl
 mymeeting.montferland.info
 mymeeting20.gulpen-wittem.nl
@@ -5501,6 +5519,7 @@ nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 nieuweburgemeester.deventer.nl
 nieuwegein.nl
 nieuwkomers.arnhem.nl
+nieuwkoop.nl
 nieuws.breda.nl
 nieuws.hoorn.nl
 nieuws.landvancuijk.nl
@@ -5561,6 +5580,7 @@ nsx01.alkmaar.nl
 nsx02.alkmaar.nl
 nta7516.gemeentebest.nl
 nw.haarlemmermeer.nl
+nwk-djm02.nieuwkoop.nl
 o1.afspraak.leiden.nl
 o1.ptr1802.bodegraven-reeuwijk.nl
 oa.amsterdam.nl
@@ -6369,6 +6389,7 @@ preproductie.middendelfland.nl
 preproductie.montferland.info
 preproductie.mookenmiddelaar.nl
 preproductie.nederweert.nl
+preproductie.nieuwkoop.nl
 preproductiebroker.gemeentewesterveld.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
@@ -6417,6 +6438,7 @@ probeer.middelburg.nl
 probeer.middendelfland.nl
 probeer.mookenmiddelaar.nl
 probeer.nederweert.nl
+probeer.nieuwkoop.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 product.leiden.nl
@@ -6489,6 +6511,7 @@ pv.kaagenbraassem.nl
 pv.kampen.nl
 pv.krimpenaandenijssel.nl
 pv.meppel.nl
+pv.nieuwkoop.nl
 pveopenbareruimte.deventer.nl
 pvh.hoorn.nl
 pvsor.gemeentewestland.nl
@@ -6826,6 +6849,7 @@ secure.middendelfland.nl
 secure.molenlanden.nl
 secure.montferland.info
 secure.nederweert.nl
+secure.nieuwkoop.nl
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
@@ -6994,6 +7018,7 @@ simcms.middelburg.nl
 simcms.middendelfland.nl
 simcms.mookenmiddelaar.nl
 simcms.nederweert.nl
+simcms.nieuwkoop.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -7066,6 +7091,7 @@ simsite.middendelfland.nl
 simsite.montferland.info
 simsite.mookenmiddelaar.nl
 simsite.nederweert.nl
+simsite.nieuwkoop.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -7723,6 +7749,7 @@ testloket.heerde.nl
 testloket.katwijk.nl
 testloket.leusden.nl
 testloket.middelburg.nl
+testloket.nieuwkoop.nl
 testmeldingen.asten.nl
 testmijn.haarlemmermeer.nl
 testmijn.lochem.nl
@@ -7925,6 +7952,7 @@ uwvergunning.leiden.nl
 v2.openstad.haarlemmermeer.nl
 vaarkaart.bba.amsterdam.nl
 vaarvergunningen.amsterdam.nl
+vaarvergunningen.nieuwkoop.nl
 vacatures.heerlen.nl
 vacatures.landvancuijk.nl
 vakantie.landvancuijk.nl
@@ -8693,6 +8721,7 @@ www.denhaagfietst-acc.denhaag.nl
 www.denhaagfietst.denhaag.nl
 www.denhelder.nl
 www.denkmee.hollandskroon.nl
+www.denkmee.nieuwkoop.nl
 www.derondevenen.nl
 www.destemvan.groningen.nl
 www.desuikerzijde.groningen.nl
@@ -9044,6 +9073,7 @@ www.nederweert.nl
 www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 www.nieuwbouw.amsterdam.nl
 www.nieuwegein.nl
+www.nieuwkoop.nl
 www.nieuwsbrief.enschede.nl
 www.nieuwwest.amsterdam.nl
 www.noordzuidlijn.amsterdam.nl
@@ -9205,6 +9235,7 @@ www.uit.groningen.nl
 www.uren-tst.groningen.nl
 www.uwdorpofwijk.alphenaandenrijn.nl
 www.v2.openstad.haarlemmermeer.nl
+www.vaarvergunningen.nieuwkoop.nl
 www.varen.groningen.nl
 www.vasd-acc.groningen.nl
 www.vasd.groningen.nl
