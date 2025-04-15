@@ -20,19 +20,19 @@ probeer
 loket
 felix
 formulieren
-dkd
 eloket
+dkd
+werkplek
 meldingen
 test
-werkplek
 waarmerk
 portal
 acc
 adfs
+broker
 afspraak
 api.meldingen
 geo
-broker
 open
 betalen
 gemeenteraad
@@ -71,9 +71,9 @@ cmsoo
 cloudadapter-test
 loket.acceptatie
 remote
+digikoppeling-test
 beeldbank
 woningbouwkaart
-digikoppeling-test
 acc-broker
 cloudadapter
 govroam
@@ -117,6 +117,7 @@ dtestmidoffice
 jaarstukken
 cmsintranet
 _autodiscover._tcp
+preprodbroker
 kennisbank
 simform
 subsidies-backend
@@ -148,7 +149,6 @@ contentbeheer
 transfer
 belastingportaal
 midoffice
-preprodbroker
 denkmee
 gisib
 qr
@@ -178,6 +178,7 @@ contentbeheer.acceptatie
 zaken.acceptatie
 begroting
 cryptshare
+testloket
 mijnzorg-acc
 documenten
 college
@@ -224,7 +225,6 @@ inproces.acceptatie
 inproces
 outlook
 internetafspraken
-testloket
 squit2020
 handhaving
 fs
@@ -251,6 +251,7 @@ onderzoek
 www.test
 atlas
 api
+beheer
 parkeervergunning
 parkeervergunningen
 mijngeldzaken
@@ -301,6 +302,7 @@ contact
 geoportaal
 en
 www.portal
+sbc01
 www2
 participatie
 toegang
@@ -326,7 +328,6 @@ bewustwording
 mail2
 wion
 _dmarc
-beheer
 bouwdossiers
 hor
 id
@@ -417,8 +418,8 @@ www.werkplek
 mijnsociaaldomein
 gateway
 de
-sbc01
 cloudadapter-prod
+gemeentebestuur
 lyncweb
 sera
 teleweb
@@ -701,7 +702,6 @@ ows-app
 rekentool
 validsign
 mijnintranet
-gemeentebestuur
 lynccon
 servicegateway
 wkpb
@@ -4690,3 +4690,6 @@ pcmonitor
 seg
 voice
 wionklic
+acceptatie.eloket
+leusden-checker-preprod
+leusden-checker
