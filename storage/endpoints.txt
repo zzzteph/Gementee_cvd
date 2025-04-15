@@ -16,6 +16,7 @@ http://acc-openklant.gemert-bakel.nl
 http://acc-openzaak.gemert-bakel.nl
 http://acc-podiumd-logs.gemert-bakel.nl
 http://afspraak.bergendal.nl
+http://ansvlm2009.landsmeer.nl
 http://archief-yell-cms.etten-leur.nl
 http://archief-yell.etten-leur.nl
 http://autodiscover.aaenhunze.nl
@@ -102,6 +103,7 @@ http://autodiscover.horstaandemaas.nl
 http://autodiscover.houten.nl
 http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
+http://autodiscover.landsmeer.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -603,6 +605,7 @@ https://afspraken.hellevoetsluis.nl
 https://afspraken.huizen.nl
 https://afspraken.kampen.nl
 https://afspraken.kapelle.nl
+https://afspraken.landsmeer.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -1660,6 +1663,7 @@ https://enterpriseenrollment.edam-volendam.nl
 https://enterpriseenrollment.etten-leur.nl
 https://enterpriseenrollment.gooisemeren.nl
 https://enterpriseenrollment.heerlen.nl
+https://enterpriseenrollment.landsmeer.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
 https://enterpriseone.almere.nl
@@ -1672,6 +1676,7 @@ https://enterpriseregistration.denhaag.nl
 https://enterpriseregistration.doetinchem.nl
 https://enterpriseregistration.gooisemeren.nl
 https://enterpriseregistration.huizen.nl
+https://enterpriseregistration.landsmeer.nl
 https://eopenstad.gemeentewestland.nl
 https://epe.nl
 https://epp.denhaag.nl
@@ -2186,6 +2191,7 @@ https://iburgerzaken.kapelle.nl
 https://iburgerzaken.kerkrade.nl
 https://iburgerzaken.koggenland.nl
 https://iburgerzaken.laarbeek.nl
+https://iburgerzaken.landsmeer.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2469,6 +2475,7 @@ https://krimpenaandenijssel.nl
 https://krimpenerwaard.nl
 https://laakhavensbepaalt.denhaag.nl
 https://laarbeek.nl
+https://landsmeer.nl
 https://ld-01.hellevoetsluis.nl
 https://leerlingzaken.denhaag.nl
 https://leeromgeving-mijnleno-a.amsterdam.nl
@@ -3302,6 +3309,7 @@ https://publicaties.eindhoven.nl
 https://publicaties.rekenkamer.amsterdam.nl
 https://publiek-id-test.gouda.nl
 https://publiek-id.gouda.nl
+https://publieksbalie.landsmeer.nl
 https://pv.achtkarspelen.nl
 https://pv.albrandswaard.nl
 https://pv.barendrecht.nl
@@ -4356,6 +4364,7 @@ https://www.krimpenaandenijssel.nl
 https://www.krimpenerwaard.nl
 https://www.laakhavensbepaalt.denhaag.nl
 https://www.laarbeek.nl
+https://www.landsmeer.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
