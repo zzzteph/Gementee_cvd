@@ -14,8 +14,8 @@ mail
 digikoppeling
 preproductie
 secure
-acceptatie
 simcms
+acceptatie
 probeer
 felix
 loket
@@ -24,9 +24,9 @@ eloket
 dkd
 werkplek
 test
+open
 meldingen
 acc
-open
 afspraak
 adfs
 geo
@@ -74,11 +74,11 @@ zaken
 digikoppeling-test
 beeldbank
 loket.acceptatie
+woningbouwkaart
 govroam
 digikoppeling.test
 mks
 acc-broker
-woningbouwkaart
 cloudadapter
 test-intranet
 dtestloket
@@ -97,6 +97,7 @@ financien
 apps
 gemeente
 samen
+simcms-open
 doemee
 kaarten
 jaarstukken
@@ -114,7 +115,6 @@ nieuwsbrief
 parkeren-acc
 klantcontact
 belastingloket
-simcms-open
 www.webmail
 dtestmidoffice
 transfer
@@ -196,6 +196,7 @@ fmreturn
 guest
 iarchief
 publicroam
+jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 data-test
@@ -217,6 +218,7 @@ participatie
 raadsnet
 college
 preprod-mijn
+izaaksuite
 www.werkenbij
 geodata
 subsidies-backend.acceptatie
@@ -244,7 +246,6 @@ afval
 lyncdiscover
 meet
 openformulieren
-jccapi
 support
 uca
 intranet-acc
@@ -276,7 +277,6 @@ toegang
 vergunningintaker-preprod
 geovisia
 praatmee
-izaaksuite
 zoeken
 makelaar
 cms
@@ -569,6 +569,7 @@ parkeerapp
 smartdoc
 tijdschrijven
 digid
+leerplein
 ns2
 old
 testdigid
@@ -2069,7 +2070,6 @@ inkomen-test.mijn
 inkomen.mijn
 jaarrekening
 jaarverslag
-leerplein
 loketacc
 meedenken
 mfa-rooster
@@ -5088,3 +5088,5 @@ zorgwijzer
 bisgemeenteraad
 lior
 www.digitaalfotoarchief
+betalenaan
+raadsagenda
