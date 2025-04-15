@@ -1,0 +1,13 @@
+aeolus.montfoort.nl
+afspraken.montfoort.nl
+autodiscover.montfoort.nl
+belastingbalie.montfoort.nl
+hybrid.montfoort.nl
+hybrid1.montfoort.nl
+hybrid2.montfoort.nl
+mijn.montfoort.nl
+mijnacc.montfoort.nl
+osb.montfoort.nl
+raadsnet.montfoort.nl
+werk.montfoort.nl
+www.montfoort.nl

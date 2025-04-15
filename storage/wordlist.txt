@@ -6,11 +6,11 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
-simsite
 afspraken
-mail
+webmail
 mijn
+simsite
+mail
 digikoppeling
 secure
 preproductie
@@ -48,23 +48,23 @@ test-ipa
 enterpriseenrollment
 api.meldingen-acc
 meldingen-acc
+osb
 omgevingsvisie
 openpdc
-osb
 belastingen
+belastingbalie
 dacceptatieloket
 dacceptatiemidoffice
 ruimtelijkeplannen
-belastingbalie
 dloket
 dmidoffice
 openpub
 flowmailer-tracking
+hybrid
 login
 remote
 data
 zaken
-hybrid
 kaart
 berichten
 formulier
@@ -201,6 +201,7 @@ cryptshare
 outlook
 fs
 mijnzorg-acc
+raadsnet
 college
 wachtwoord
 www.werkenbij
@@ -246,7 +247,6 @@ handhaving
 loket.test
 participatie
 www.acceptatie
-raadsnet
 vergunningintaker-preprod
 geovisia
 praatmee
@@ -310,6 +310,7 @@ afspraakmaken
 www.intranet
 testbelastingloket
 mx1
+aeolus
 zaaksysteem
 e.openstad
 contact
@@ -354,6 +355,7 @@ top
 woz
 e-loket
 geotest
+werk
 www.mijn
 www.raad
 dialin
@@ -422,7 +424,6 @@ webservices
 academie
 vergunningen
 mx2
-aeolus
 squit2020publiceren
 duo
 stemvan
@@ -537,7 +538,6 @@ digid
 ns2
 old
 testdigid
-werk
 wob
 www.old
 acc-contact.dev
@@ -759,6 +759,8 @@ edienstenpreprod
 testwerkplek
 wijkteam
 open-formulieren-test
+hybrid1
+hybrid2
 liber
 pcorsa
 pkoppelcorsa
@@ -4370,8 +4372,6 @@ gijs-acc
 gijs
 gijscms-acc
 gijscms
-hybrid1
-hybrid2
 sociaaldomein-acc
 Preprod
 dds-alphen-kaag
@@ -4864,3 +4864,4 @@ w2kmks
 w2kzmm
 xworks-acc
 xworks
+mijnacc

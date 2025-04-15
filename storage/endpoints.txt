@@ -119,6 +119,7 @@ http://autodiscover.meppel.nl
 http://autodiscover.middelburg.nl
 http://autodiscover.midden-groningen.nl
 http://autodiscover.moerdijk.nl
+http://autodiscover.montfoort.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -3092,7 +3093,9 @@ https://mijn.meierijstad.nl
 https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
+https://mijn.montfoort.nl
 https://mijnaanvraagzi.beuningen.nl
+https://mijnacc.montfoort.nl
 https://mijnafval.meerssen.nl
 https://mijnerfpacht.amsterdam.nl
 https://mijnevenement-authenticatie-staging.gemeente-steenbergen.nl
@@ -5044,6 +5047,7 @@ https://www.milieudienst.groningen.nl
 https://www.moerdijk.nl
 https://www.molenlanden.nl
 https://www.montferland.info
+https://www.montfoort.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.oco.eindhoven.nl
