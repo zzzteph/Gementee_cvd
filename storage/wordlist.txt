@@ -4,8 +4,8 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-intranet
 edienstenburgerzaken-test
+intranet
 webmail
 mijn
 simsite
@@ -44,9 +44,9 @@ betalen
 gemeenteraad
 enterpriseenrollment
 test-ipa
+raad
 werkenbij
 testeloket
-raad
 api.meldingen-acc
 meldingen-acc
 dacceptatieloket
@@ -60,20 +60,20 @@ belastingen
 login
 belastingbalie
 data
+zaken
 openpub
 kaart
 formulier
 cmsoo
 remote
-zaken
 flowmailer-tracking
 hybrid
 berichten
 digikoppeling-test
 enterpriseregistration
+loket.acceptatie
 beeldbank
 cloudadapter-test
-loket.acceptatie
 acc-broker
 digikoppeling.test
 mks
@@ -90,6 +90,7 @@ test-intranet
 pki
 www.webmail
 connect
+vergunningintaker
 mijninkomen
 parkeren-test
 piwik
@@ -99,7 +100,6 @@ preprod
 doemee
 kaarten
 filecap
-vergunningintaker
 denkmee
 portaal
 verkiezingen
@@ -172,6 +172,7 @@ inproces
 squit2020
 _autodiscover._tcp
 simform
+gisib
 web
 izaaksuite
 wachtwoord
@@ -191,7 +192,7 @@ ro
 www.portal
 midoffice
 documenten
-gisib
+college
 veiligdelen
 servicedesk
 subsidie
@@ -225,7 +226,7 @@ fs
 mijnzorg-acc
 participatie
 raadsnet
-college
+vergunningintaker-preprod
 preprod-mijn
 www.werkenbij
 zoeken
@@ -290,8 +291,12 @@ www2
 loket.test
 www.acceptatie
 toegang
-vergunningintaker-preprod
 geovisia
+gisib-test
+gisibapi-test
+gisibapi
+gisibgeoserver-test
+gisibgeoserver
 praatmee
 makelaar
 cms
@@ -351,11 +356,6 @@ sbc01
 cloudadapter-prod
 m
 simform-preproductie
-gisib-test
-gisibapi-test
-gisibapi
-gisibgeoserver-test
-gisibgeoserver
 www.praatmee
 autorisatie
 testafspraken
@@ -802,6 +802,8 @@ samenwijzer
 preprod-burgerportaal
 zwemles
 webkassa
+rxlaunch-signicat-preprod
+vthbroker
 mijn-preproductie
 subsidies-backend-test
 subsidies-test
@@ -4120,8 +4122,6 @@ onlinestadsgesprek
 scoremodule
 hardinxveld-giessendam-checker-preprod
 hardinxveld-giessendam-checker
-rxlaunch-signicat-preprod
-vthbroker
 acc.woz-loket
 groen
 parkeervergunningenacc
@@ -5270,3 +5270,6 @@ www.radius
 www.sap01.gem
 www.woz
 zaken.staging
+collegeprogramma
+papendrecht-checker-preprod
+papendrecht-checker
