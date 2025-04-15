@@ -165,6 +165,7 @@ http://autodiscover.rheden.nl
 http://autodiscover.rhenen.nl
 http://autodiscover.rijswijk.nl
 http://autodiscover.roermond.nl
+http://autodiscover.roosendaal.nl
 http://autodiscover.sp.nijmegen.nl
 http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
@@ -696,6 +697,7 @@ https://acceptatie-open.gooisemeren.nl
 https://acceptatie-open.hofvantwente.nl
 https://acceptatie-open.moerdijk.nl
 https://acceptatie-open.oude-ijsselstreek.nl
+https://acceptatie-open.roosendaal.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.asten.nl
@@ -1727,6 +1729,7 @@ https://data.heumen.nl
 https://data.hilversum.nl
 https://data.nijmegen.nl
 https://data.oss.nl
+https://data.roosendaal.nl
 https://dataacc.breda.nl
 https://datalab.alkmaar.nl
 https://datalab.purmerend.nl
@@ -2280,6 +2283,7 @@ https://enterpriseenrollment.nieuwkoop.nl
 https://enterpriseenrollment.noardeast-fryslan.nl
 https://enterpriseenrollment.opsterland.nl
 https://enterpriseenrollment.oss.nl
+https://enterpriseenrollment.roosendaal.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
 https://enterpriseone.almere.nl
@@ -2302,6 +2306,7 @@ https://enterpriseregistration.opsterland.nl
 https://enterpriseregistration.peelenmaas.nl
 https://enterpriseregistration.renkum.nl
 https://enterpriseregistration.rheden.nl
+https://enterpriseregistration.roosendaal.nl
 https://eopenstad.gemeentewestland.nl
 https://epe.nl
 https://epp.denhaag.nl
@@ -2987,6 +2992,7 @@ https://iburgerzaken.reuseldemierden.nl
 https://iburgerzaken.rheden.nl
 https://iburgerzaken.rijssen-holten.nl
 https://iburgerzaken.roermond.nl
+https://iburgerzaken.roosendaal.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3002,6 +3008,7 @@ https://id-subsidies-login.ede.nl
 https://id.dalfsen.nl
 https://id.krimpenerwaard.nl
 https://idcontact-accp.nijmegen.nl
+https://idee.roosendaal.nl
 https://identity-test.huizen.nl
 https://identity.bergenopzoom.nl
 https://identity.huizen.nl
@@ -3418,6 +3425,7 @@ https://lisse.nl
 https://live.bergen-nh.nl
 https://liveblog.ede.nl
 https://lochem.nl
+https://login-acc.roosendaal.nl
 https://login-pre.mookenmiddelaar.nl
 https://login-pre.nijkerk.eu
 https://login.alphenaandenrijn.nl
@@ -3542,6 +3550,7 @@ https://mas.groningen.nl
 https://matenpark.apeldoorn.nl
 https://matomo.breda.nl
 https://matomo.haarlem.nl
+https://matomo.roosendaal.nl
 https://mbg1.beverwijk.nl
 https://mbg1.dantumadiel.frl
 https://mbg1.noardeast-fryslan.nl
@@ -3732,6 +3741,7 @@ https://mijn.overbetuwe.nl
 https://mijn.pekela.nl
 https://mijn.rijswijk.nl
 https://mijn.roermond.nl
+https://mijn.roosendaal.nl
 https://mijn.test.oss.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnacc.montfoort.nl
@@ -3830,6 +3840,7 @@ https://mijnzi.beuningen.nl
 https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
 https://mijnzorg-acc.beesel.nl
+https://mijnzorg-acc.roosendaal.nl
 https://mijnzorg-test.borne.nl
 https://mijnzorg-test.heuvelrug.nl
 https://mijnzorg.amstelveen.nl
@@ -3840,6 +3851,7 @@ https://mijnzorg.borne.nl
 https://mijnzorg.denhelder.nl
 https://mijnzorg.gennep.nl
 https://mijnzorg.heuvelrug.nl
+https://mijnzorg.roosendaal.nl
 https://milieudienst.groningen.nl
 https://milieueducatie.denhaag.nl
 https://mill.landvancuijk.nl
@@ -4147,6 +4159,7 @@ https://open.nijmegen.nl
 https://open.noordwijk.nl
 https://open.oude-ijsselstreek.nl
 https://open.rhenen.nl
+https://open.roosendaal.nl
 https://openagenda.ridderkerk.nl
 https://openbareruimte.deventer.nl
 https://opendata.arnhem.nl
@@ -4154,6 +4167,7 @@ https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://opendata.heemstede.nl
 https://opendata.nijmegen.nl
+https://opendata.roosendaal.nl
 https://openformulieren-test.dewolden.nl
 https://openformulieren-test.drechterland.nl
 https://openformulieren-test.enkhuizen.nl
@@ -4620,6 +4634,7 @@ https://pv.oldebroek.nl
 https://pv.overbetuwe.nl
 https://pv.raalte.nl
 https://pv.ridderkerk.nl
+https://pv.roosendaal.nl
 https://pveopenbareruimte.deventer.nl
 https://pvsor.gemeentewestland.nl
 https://pwa.barendrecht.nl
@@ -4667,6 +4682,7 @@ https://raad.purmerend.nl
 https://raad.renkum.nl
 https://raad.ridderkerk.nl
 https://raad.rijssen-holten.nl
+https://raad.roosendaal.nl
 https://raadplegen.denhaag.nl
 https://raadsinformatie.oegstgeest.nl
 https://raadzaam.nieuwegein.nl
@@ -4730,6 +4746,7 @@ https://roerdalen-checker.roerdalen.nl
 https://roerdalen.nl
 https://roermond.nl
 https://rondleidingen.landvancuijk.nl
+https://roosendaal.nl
 https://rooster.arnhem.nl
 https://rooster.denhelder.nl
 https://roplan.haarlemmermeer.nl
@@ -5668,6 +5685,7 @@ https://werkplek.leudal.nl
 https://werkplek.leusden.nl
 https://werkplek.meerssen.nl
 https://werkplek.moerdijk.nl
+https://werkplek.roosendaal.nl
 https://werkplek02.derondevenen.nl
 https://werving.amsterdam.nl
 https://westbegroot.amsterdam.nl
@@ -5998,6 +6016,7 @@ https://www.hoorn.nl
 https://www.horstaandemaas.nl
 https://www.houten.nl
 https://www.houtwijkbegroot.denhaag.nl
+https://www.idee.roosendaal.nl
 https://www.iedereenwerktmee.amsterdam.nl
 https://www.ihp.denhaag.nl
 https://www.ijsselstein.nl
@@ -6136,6 +6155,7 @@ https://www.rijswijk.nl
 https://www.roerdalen.nl
 https://www.roermond.nl
 https://www.rondleidingen.landvancuijk.nl
+https://www.roosendaal.nl
 https://www.ruimtelijkeplannen.dronten.nl
 https://www.ruimtevoorjou.groningen.nl
 https://www.samen.lingewaard.nl
@@ -6264,6 +6284,7 @@ https://zaaksysteem-accept.moerdijk.nl
 https://zaaksysteem-accept.noordwijk.nl
 https://zaaksysteem-accept.ommen.nl
 https://zaaksysteem-accept.oude-ijsselstreek.nl
+https://zaaksysteem-accept.roosendaal.nl
 https://zaaksysteem.hilversum.nl
 https://zaaksysteem.maassluis.nl
 https://zaaksysteem.meppel.nl
