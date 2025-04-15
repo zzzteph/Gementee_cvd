@@ -7,9 +7,9 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mail
+afspraken
 mijn
 simsite
-afspraken
 webmail
 digikoppeling
 preproductie
@@ -22,10 +22,10 @@ felix
 formulieren
 test
 portal
+acc
 meldingen
 dkd
 werkplek
-acc
 eloket
 waarmerk
 afspraak
@@ -108,6 +108,7 @@ kennisbank
 portaal
 simform
 verkiezingen
+mailing
 snelbaliepp
 siam
 digikoppeling.test
@@ -126,7 +127,6 @@ belastingportaal
 denkmee
 gisib
 subsidies
-mailing
 qr
 legacy
 openzaak
@@ -521,6 +521,7 @@ wozloket-acc
 automator
 mijnzorg-test
 voormeldingen
+jcccloud
 belastingportaal-test
 projecten
 nieuws
@@ -2143,7 +2144,6 @@ zaalhuur
 brsoribi01
 brsoribi02
 grmks06
-jcccloud
 Belastingportaal-test
 atelier
 netwerk
@@ -4385,3 +4385,4 @@ smartphone
 socialebasis
 stad
 www.stad
+grmks02
