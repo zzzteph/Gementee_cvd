@@ -20,8 +20,8 @@ probeer
 felix
 loket
 formulieren
-eloket
 dkd
+eloket
 meldingen
 test
 werkplek
@@ -39,8 +39,8 @@ ruimtelijkeplannen
 iparticipatie
 vpn
 test-ipa
-betalen
 raad
+betalen
 zaaksysteem-accept
 parkeren
 gemeenteraad
@@ -60,18 +60,18 @@ belastingen
 belastingbalie
 zaken
 openpub
+enterpriseregistration
 login
 cmsoo
+loket.acceptatie
+remote
 data
 hybrid
 kaart
-enterpriseregistration
+digikoppeling-test
 formulier
-loket.acceptatie
-remote
 flowmailer-tracking
 berichten
-digikoppeling-test
 beeldbank
 cloudadapter-test
 acc-broker
@@ -126,6 +126,7 @@ test-cmsintranet
 cmsintranet
 mijnzorg
 e
+qr
 email
 nieuwsbrief
 openzaak
@@ -154,10 +155,10 @@ kennisbank
 gisib
 izaaksuite
 subsidies-backend
+melddesk
 dali
 snelbaliepp
 siam
-qr
 jcc
 ftp
 legacy
@@ -170,6 +171,7 @@ gasten
 micollab
 uc
 smtp
+mobiel
 contentbeheer.acceptatie
 zaken.acceptatie
 bor
@@ -179,7 +181,6 @@ _autodiscover._tcp
 simform
 web
 wachtwoord
-melddesk
 afvalkalender
 openstad
 woo
@@ -192,7 +193,6 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
-mobiel
 ro
 www.portal
 midoffice
@@ -222,6 +222,7 @@ xential
 jongin
 cryptshare
 outlook
+afspraakmaken
 contact
 liquit
 mijnsociaaldomein
@@ -281,7 +282,6 @@ acceptatie-open
 bestanden
 squit2020.acceptatie
 woz-portaal
-afspraakmaken
 www.intranet
 kcc
 testbelastingloket
@@ -303,6 +303,7 @@ gisibapi
 gisibgeoserver-test
 gisibgeoserver
 praatmee
+belastingen-acc
 cms
 dkd-test
 exchange
@@ -366,7 +367,6 @@ www.praatmee
 autorisatie
 testafspraken
 veiligmailen
-belastingen-acc
 diensten
 english
 planon
@@ -599,10 +599,13 @@ parkeerapp
 smartdoc
 tijdschrijven
 leerplein
+moh-acc
+moh
 ns2
 old
 testdigid
 wob
+www.geo
 www.old
 acc-contact.dev
 acc-formulier.dev
@@ -762,6 +765,7 @@ cca-acc
 cca
 organisatie
 ketenportaal.acceptatie
+mijnmobiel
 nedplan
 secudoc
 liquitsatellite
@@ -2135,12 +2139,9 @@ jaarverslag
 loketacc
 meedenken
 mfa-rooster
-moh-acc
-moh
 nieuwkomers
 preprod-mijngeldzaken
 vastgoedbedrijf
-www.geo
 www.meedenken
 acc-podiumd.sschosting.nl
 assengast1
@@ -3383,7 +3384,6 @@ idrac8.ovh
 idrac9.ovh
 ketenportaal
 mijnkaarten.ovh
-mijnmobiel
 mijnmobiel.ovh
 mobielbeek
 nas-beek.ovh
@@ -5337,3 +5337,6 @@ jccafsprakencloud
 oudebeeldbank
 _sipfederationtls._tcp
 grmks03
+intercontent
+mdesk
+melddesk-test
