@@ -8,8 +8,8 @@ intranet
 edienstenburgerzaken-test
 simsite
 webmail
-afspraken
 mijn
+afspraken
 mail
 digikoppeling
 preproductie
@@ -38,17 +38,17 @@ pv
 ruimtelijkeplannen
 iparticipatie
 vpn
+zaaksysteem-accept
 parkeren
 enterpriseenrollment
 test-ipa
-zaaksysteem-accept
 betalen
 gemeenteraad
 testeloket
+raad
 werkenbij
 api.meldingen-acc
 meldingen-acc
-raad
 dacceptatieloket
 dacceptatiemidoffice
 omgevingsvisie
@@ -68,9 +68,9 @@ remote
 flowmailer-tracking
 hybrid
 berichten
+digikoppeling-test
 enterpriseregistration
 zaken
-digikoppeling-test
 beeldbank
 cloudadapter-test
 acc-broker
@@ -91,6 +91,7 @@ mijninkomen
 parkeren-test
 piwik
 subsidies
+belastingloket
 doemee
 www.webmail
 kaarten
@@ -108,7 +109,6 @@ acc-formulier
 acc-podiumd-logs
 podiumd-logs
 klantcontact
-belastingloket
 samen
 simcms-open
 dtestmidoffice
@@ -268,6 +268,7 @@ archief
 admin.openstad
 auth.openstad
 img.openstad
+acceptatie-open
 bestanden
 squit2020.acceptatie
 woz-portaal
@@ -329,7 +330,6 @@ vth
 www.openstad
 openformulieren-test
 filetransfer
-acceptatie-open
 eformulieren
 academie
 kcc
@@ -452,6 +452,7 @@ intra
 mijnloket
 winkelen
 bestuur
+efactuur
 webdav
 webformulieren
 webservices
@@ -459,6 +460,7 @@ grondwater
 vergunningen
 socialekaart
 mx2
+ondernemen
 burgerportaal
 raadsinformatie
 duo
@@ -698,8 +700,8 @@ begraven
 parkeren-siam-test
 parkeren-siam
 centric
-efactuur
 relay
+test-digikoppelingadapter
 router
 digitalebalie
 durp
@@ -715,7 +717,6 @@ authenticatiedienst.preprod
 edge
 vergunningintaker.preprod
 www.piwik
-ondernemen
 redirect
 welkom
 www.belastingbalie
@@ -3013,7 +3014,6 @@ koppeling-belastingbalie
 mijngeldzaken-acceptatie
 servicestore
 smtptls
-test-digikoppelingadapter
 visvijver
 web4biz251
 webscada-rps
@@ -5211,3 +5211,7 @@ test.loket
 uem
 uem.test
 vpntunnel
+belastingloket.test
+server02
+toekomstvisie
+websitestatistiek
