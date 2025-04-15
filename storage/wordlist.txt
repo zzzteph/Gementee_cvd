@@ -3,11 +3,11 @@ www
 autodiscover
 iburgerzaken
 ibzpink
-intranet
 edienstenburgerzaken
+intranet
 edienstenburgerzaken-test
-simsite
 afspraken
+simsite
 webmail
 mijn
 mail
@@ -69,9 +69,9 @@ flowmailer-tracking
 hybrid
 berichten
 zaken
+digikoppeling-test
 enterpriseregistration
 cloudadapter-test
-digikoppeling-test
 beeldbank
 acc-broker
 loket.acceptatie
@@ -152,6 +152,7 @@ bgt
 notificaties
 objecttypen
 openklant
+sip
 sts
 obsurv
 gasten
@@ -170,7 +171,6 @@ ftp
 openstad
 woo
 owa
-sip
 test-digikoppeling
 meedoen
 iarchief
@@ -202,6 +202,7 @@ legacy
 telewerken
 gis
 bag
+lyncdiscover
 byod
 fmreturn
 guest
@@ -247,7 +248,6 @@ desktop
 mijngeldzaken
 opendata
 afval
-lyncdiscover
 meet
 openformulieren
 support
@@ -5170,3 +5170,6 @@ www.iarchief
 www.stempasfonds
 www.stwidocosw02
 www.talentenbank
+psiam
+tloket
+tsiam
