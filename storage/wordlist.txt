@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 simsite
+webmail
 afspraken
 mail
 mijn
@@ -23,11 +23,11 @@ formulieren
 eloket
 dkd
 werkplek
-meldingen
 test
+meldingen
 acc
-afspraak
 open
+afspraak
 adfs
 waarmerk
 api.meldingen
@@ -37,11 +37,11 @@ portal
 pv
 parkeren
 betalen
+testeloket
 vpn
 werkenbij
 zaaksysteem-accept
 enterpriseenrollment
-testeloket
 raad
 gemeenteraad
 iparticipatie
@@ -87,6 +87,7 @@ duurzaam
 digikoppeling.test
 extranet
 pki
+verkiezingen
 mijninkomen
 piwik
 subsidies
@@ -102,7 +103,6 @@ test-cmsintranet
 mijnzorg
 denkmee
 portaal
-verkiezingen
 preprod-mijninkomen
 mailing
 preprod
@@ -111,6 +111,7 @@ nieuwsbrief
 parkeren-acc
 klantcontact
 belastingloket
+simcms-open
 doemee
 www.webmail
 dtestmidoffice
@@ -133,7 +134,6 @@ podiumd-logs
 sts
 obsurv
 gasten
-simcms-open
 mdm
 smtp
 AutoDiscover
@@ -260,6 +260,7 @@ squit2020
 aeolus
 zaaksysteem
 e.openstad
+en
 ibabs
 mijnsociaaldomein
 gateway
@@ -328,7 +329,6 @@ testbelastingloket
 mx1
 contact
 geoportaal
-en
 www.portal
 sbc01
 cloudadapter-prod
