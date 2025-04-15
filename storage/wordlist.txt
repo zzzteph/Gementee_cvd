@@ -20,9 +20,9 @@ probeer
 loket
 felix
 formulieren
+meldingen
 test
 dkd
-meldingen
 eloket
 waarmerk
 portal
@@ -30,8 +30,8 @@ werkplek
 acc
 afspraak
 adfs
-geo
 api.meldingen
+geo
 broker
 betalen
 gemeenteraad
@@ -40,23 +40,23 @@ pv
 parkeren
 raad
 omgevingsvisie
+iparticipatie
 openpdc
 osb
 vpn
 dacceptatieloket
 dacceptatiemidoffice
-iparticipatie
+test-ipa
 werkenbij
 zaaksysteem-accept
 enterpriseenrollment
 testeloket
 dloket
 dmidoffice
-ruimtelijkeplannen
-test-ipa
-openpub
 api.meldingen-acc
 meldingen-acc
+ruimtelijkeplannen
+openpub
 data
 belastingen
 berichten
@@ -83,6 +83,7 @@ mijninkomen
 piwik
 duurzaam
 enterpriseregistration
+digikoppeling.test
 mks
 extranet
 test-intranet
@@ -94,7 +95,6 @@ parkeren-test
 preprod-mijninkomen
 snelbalie
 financien
-digikoppeling.test
 apps
 gemeente
 doemee
@@ -187,6 +187,7 @@ subsidie
 melddesk
 afvalkalender
 api.openstad
+dali
 gemeentearchief
 ro-online
 www.duurzaam
@@ -240,7 +241,6 @@ maps
 thuiswerken
 website
 cms
-dali
 onderzoek
 www.test
 atlas
@@ -672,6 +672,7 @@ squit2gotest
 zoek
 geo-secure
 financieelportaal
+gemeentewinkel
 organisatie
 www.login
 beeldbankbeheer
@@ -728,6 +729,8 @@ pkoppelcorsa
 tcorsa
 tkoppelcorsa
 tickets
+werkeninkomen-test
+werkeninkomen
 webapps
 email.mail.participatie
 mail.participatie
@@ -3202,7 +3205,6 @@ xential-vold92
 corsa-prod
 corsa-test
 digiforms
-gemeentewinkel
 gws-prod
 htb-prod
 htb-test
@@ -4666,5 +4668,4 @@ test.lab.tod
 test.subsites
 tzp
 uwvergunning
-werkeninkomen-test
-werkeninkomen
+www.gemeentewinkel
