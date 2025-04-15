@@ -1096,6 +1096,7 @@ autodiscover.losser.nl
 autodiscover.maasdriel.nl
 autodiscover.medemblik.nl
 autodiscover.meppel.nl
+autodiscover.middelburg.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.opsb.groningen.nl
@@ -1269,6 +1270,7 @@ begroting.gooisemeren.nl
 begroting.gorinchem.nl
 begroting.groningen.nl
 begroting.hengelo.nl
+begroting.middelburg.nl
 begroting2016.kerkrade.nl
 begroting2017.groningen.nl
 begroting2018.groningen.nl
@@ -1417,6 +1419,7 @@ bestuur.gemeente-steenbergen.nl
 bestuur.gooisemeren.nl
 bestuursinformatie.beesel.nl
 bestuursrapportage.leiden.nl
+bestuursrapportage.middelburg.nl
 betaal.ede.nl
 betalen.almere.nl
 betalen.amsterdam.nl
@@ -2164,6 +2167,7 @@ digikoppeling.leusden.nl
 digikoppeling.lochem.nl
 digikoppeling.maasdriel.nl
 digikoppeling.maassluis.nl
+digikoppeling.middelburg.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -2723,6 +2727,7 @@ eloket.leudal.nl
 eloket.leusden.nl
 eloket.meerssen.nl
 eloket.meppel.nl
+eloket.middelburg.nl
 eloket.preprod.leudal.nl
 eloketstaging.almere.nl
 elokettest.bloemendaal.nl
@@ -2986,6 +2991,7 @@ financien.gemeentemaashorst.nl
 financien.gouda.nl
 financien.groningen.nl
 financien.hengelo.nl
+financien.middelburg.nl
 firewall.lopik.nl
 firewall.servers1.bergen-nh.nl
 fise02.oudzuid.amsterdam.nl
@@ -3024,6 +3030,7 @@ flowmailer-tracking.kampen.nl
 flowmailer-tracking.katwijk.nl
 flowmailer-tracking.leidschendam-voorburg.nl
 flowmailer-tracking.meppel.nl
+flowmailer-tracking.middelburg.nl
 flowmailer-tracking.parkeervergunning.leeuwarden.nl
 fm.apeldoorn.nl
 fm.krimpenerwaard.nl
@@ -3359,6 +3366,7 @@ ggd.groningen.nl
 ggexo.groningen.nl
 ggexoopsrv1.groningen.nl
 ggexoopsrv2.groningen.nl
+ggk-koppeling.middelburg.nl
 ggk.brunssum.nl
 gglvclbp001.groningen.ad.groningen.nl
 gglvtwp001.groningen.ad.groningen.nl
@@ -3800,6 +3808,7 @@ iburgerzaken.maasdriel.nl
 iburgerzaken.maassluis.nl
 iburgerzaken.medemblik.nl
 iburgerzaken.meerssen.nl
+iburgerzaken.middelburg.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -3901,6 +3910,7 @@ ibzpink.maasdriel.nl
 ibzpink.maassluis.nl
 ibzpink.medemblik.nl
 ibzpink.meerssen.nl
+ibzpink.middelburg.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -4122,6 +4132,7 @@ intranet.lopik.nl
 intranet.meerssen.nl
 intranet.meierijstad.nl
 intranet.meppel.nl
+intranet.middelburg.nl
 intranet.raadsinformatie.amsterdam.nl
 intranet2.gulpen-wittem.nl
 intranetacc.apeldoorn.nl
@@ -4190,6 +4201,7 @@ jaarstukken.gorinchem.nl
 jaarstukken.haarlemmermeer.nl
 jaarstukken.hengelo.nl
 jaarstukken.leiden.nl
+jaarstukken.middelburg.nl
 jaarstukken2011.leiden.nl
 jaarstukken2020.bronckhorst.nl
 jaarstukken2021.bronckhorst.nl
@@ -4299,6 +4311,7 @@ kaartviewer.gemeentehulst.nl
 kaartviewer.hoorn.nl
 kadbrkwkpd.deventer.nl
 kaderbrief.leiden.nl
+kadernota.middelburg.nl
 kadernota2022.financielestukken.diemen.nl
 kampen.nl
 kansshop.eemsdelta.nl
@@ -4941,6 +4954,7 @@ micollab.meerssen.nl
 micontentstore.lansingerland.nl
 microservices.schoolwijzer.amsterdam.nl
 micstz.almelo.nl
+middelburg.nl
 middengroningen.groningen.nl
 midoffice.aalsmeer.nl
 midoffice.amstelveen.nl
@@ -5237,6 +5251,7 @@ nac.meierijstad.nl
 naheffingsaanslag-acc.amsterdam.nl
 naheffingsaanslag-tst.amsterdam.nl
 naheffingsaanslag.amsterdam.nl
+najaarsbrief.middelburg.nl
 najaarsrapportage.haarlemmermeer.nl
 namitest1.acc.denhaag.nl
 napels.emmen.nl
@@ -5778,6 +5793,7 @@ parkeren-test.heerenveen.nl
 parkeren-test.heerlen.nl
 parkeren-test.leiden.nl
 parkeren-test.meppel.nl
+parkeren-test.middelburg.nl
 parkeren-tst.amsterdam.nl
 parkeren.almelo.nl
 parkeren.amsterdam.nl
@@ -5801,6 +5817,7 @@ parkeren.hoorn.nl
 parkeren.katwijk.nl
 parkeren.leiden.nl
 parkeren.meppel.nl
+parkeren.middelburg.nl
 parkeren.reserveren.leiden.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
@@ -6177,6 +6194,7 @@ probeer.landgraaf.nl
 probeer.leudal.nl
 probeer.lopik.nl
 probeer.maassluis.nl
+probeer.middelburg.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 product.leiden.nl
@@ -6326,6 +6344,8 @@ regelen-acc.haarlem.nl
 regelen.haarlem.nl
 regelgeving.amsterdam.nl
 regentesseplein.denhaag.nl
+regieportaal-test.middelburg.nl
+regieportaal.middelburg.nl
 regio.almere.nl
 regio.landvancuijk.nl
 regiocheckervth-acc.denhaag.nl
@@ -6454,6 +6474,8 @@ samenveiligwerken.alphenaandenrijn.nl
 samenveiligwerken.kaagenbraassem.nl
 samenwerken.groningen.nl
 samenwerkenaan.heerde.nl
+samenwerkingbelastingen-test.middelburg.nl
+samenwerkingbelastingen.middelburg.nl
 samenwij.groningen.nl
 samenwijzer.halderberge.nl
 sammy-acc.derondevenen.nl
@@ -6720,6 +6742,7 @@ simcms.leudal.nl
 simcms.lingewaard.nl
 simcms.lopik.nl
 simcms.maassluis.nl
+simcms.middelburg.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -6787,6 +6810,7 @@ simsite.leudal.nl
 simsite.lopik.nl
 simsite.maassluis.nl
 simsite.meierijstad.nl
+simsite.middelburg.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -7376,6 +7400,7 @@ testcms-jip.hofvantwente.nl
 testdigid.arnhem.nl
 testdigid.denhaag.nl
 testdigikoppeling.haarlemmermeer.nl
+testdigikoppeling.middelburg.nl
 testdigitaalgemeenteloket.alphenaandenrijn.nl
 testdigitaalgemeenteloket.kaagenbraassem.nl
 testeloket.arnhem.nl
@@ -7408,6 +7433,7 @@ testloket.hattem.nl
 testloket.heerde.nl
 testloket.katwijk.nl
 testloket.leusden.nl
+testloket.middelburg.nl
 testmeldingen.asten.nl
 testmijn.haarlemmermeer.nl
 testmijn.lochem.nl
@@ -8666,6 +8692,7 @@ www.meierijstad.nl
 www.meppel.nl
 www.merk.denhaag.nl
 www.micollab.gemeentewestland.nl
+www.middelburg.nl
 www.middengroningen.groningen.nl
 www.mijn.arnhem.nl
 www.mijn.groningen.nl
@@ -9017,7 +9044,9 @@ zomerprogramma070-acc.denhaag.nl
 zomerprogramma070.denhaag.nl
 zonneparking.doemee.bloemendaal.nl
 zonneparking.doemee.heemstede.nl
+zorg-acc.middelburg.nl
 zorg.bergen.nl
+zorg.middelburg.nl
 zorgaanbieders.deventer.nl
 zorgaanbieders.eindhoven.nl
 zorgloket.groningen.nl
