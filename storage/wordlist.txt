@@ -29,17 +29,17 @@ open
 adfs
 portal
 afspraak
-acc
-waarmerk
 api.meldingen
 broker
+acc
+waarmerk
 geo
 pv
 ruimtelijkeplannen
-vpn
 iparticipatie
-betalen
+vpn
 test-ipa
+betalen
 raad
 zaaksysteem-accept
 parkeren
@@ -51,9 +51,9 @@ dacceptatieloket
 dacceptatiemidoffice
 api.meldingen-acc
 meldingen-acc
-osb
 dloket
 dmidoffice
+osb
 openpdc
 omgevingsvisie
 belastingen
@@ -61,12 +61,12 @@ belastingbalie
 zaken
 openpub
 login
+cmsoo
 data
 hybrid
 kaart
 enterpriseregistration
 formulier
-cmsoo
 loket.acceptatie
 remote
 flowmailer-tracking
@@ -74,9 +74,9 @@ berichten
 digikoppeling-test
 beeldbank
 cloudadapter-test
+acc-broker
 financien
 mks
-acc-broker
 belastingloket
 duurzaam
 digikoppeling.test
@@ -234,6 +234,7 @@ preprod-mijn
 www.werkenbij
 zoeken
 geodata
+makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
 belastingbalie-test
@@ -302,7 +303,6 @@ gisibapi
 gisibgeoserver-test
 gisibgeoserver
 praatmee
-makelaar
 cms
 dkd-test
 exchange
@@ -651,6 +651,7 @@ automator
 mijnzorg-test
 rx-mission-publiceren
 voormeldingen
+wim2-acc
 belastingportaal-test
 preprod-mijnoverzicht
 inkomensondersteuning
@@ -2322,7 +2323,6 @@ testportal
 vmapp002
 vmapp006
 vmgis003
-wim2-acc
 zaalhuur
 brsoribi01
 brsoribi02
@@ -5335,3 +5335,4 @@ dgpt
 historischbeeldarchief
 jccafsprakencloud
 oudebeeldbank
+_sipfederationtls._tcp
