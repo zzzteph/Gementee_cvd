@@ -104,6 +104,7 @@ http://autodiscover.houten.nl
 http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
 http://autodiscover.landsmeer.nl
+http://autodiscover.lansingerland.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -250,6 +251,7 @@ http://test-intranet.edam-volendam.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentestein.nl
 http://test-intranet.groningen.nl
+http://test-intranet.lansingerland.nl
 http://test-keycloak-admin.gemert-bakel.nl
 http://test-keycloak.gemert-bakel.nl
 http://test-mijn.gemert-bakel.nl
@@ -1112,6 +1114,7 @@ https://bros-academie.deurne.nl
 https://brummen.nl
 https://brunssum.nl
 https://buitenoporde.defryskemarren.nl
+https://buitenoporde.lansingerland.nl
 https://bunnik.nl
 https://buren.nl
 https://burgerloket.acceptatie.derondevenen.nl
@@ -1145,8 +1148,13 @@ https://citrix.gulpen-wittem.nl
 https://cjg.denhaag.nl
 https://clickprotection.haarlem.nl
 https://clicks.helmond.nl
+https://clicks.nieuws.lansingerland.nl
+https://clicks.persberichten.lansingerland.nl
 https://clicksfm.capelleaandenijssel.nl
+https://clicksfm.lansingerland.nl
+https://clicksfm.nieuws.lansingerland.nl
 https://clicksfm.nieuwsbrief.goeree-overflakkee.nl
+https://clicksfm.persberichten.lansingerland.nl
 https://cloudrecorder.denhaag.nl
 https://cms-binnenshuis.bergen.nl
 https://cms-extranet.hethogeland.nl
@@ -1166,6 +1174,7 @@ https://cmsintranet.gemeentestein.nl
 https://cmsintranet.gooisemeren.nl
 https://cmsintranet.groningen.nl
 https://cmsintranet.heuvelrug.nl
+https://cmsintranet.lansingerland.nl
 https://cmsjip.hofvantwente.nl
 https://cmsoo.assen.nl
 https://cmsoo.borger-odoorn.nl
@@ -1521,6 +1530,7 @@ https://edienstenburgerzaken-test.kaagenbraassem.nl
 https://edienstenburgerzaken-test.krimpenerwaard.nl
 https://edienstenburgerzaken-test.landgraaf.nl
 https://edienstenburgerzaken-test.landvancuijk.nl
+https://edienstenburgerzaken-test.lansingerland.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1582,6 +1592,7 @@ https://edienstenburgerzaken.katwijk.nl
 https://edienstenburgerzaken.krimpenerwaard.nl
 https://edienstenburgerzaken.landgraaf.nl
 https://edienstenburgerzaken.landvancuijk.nl
+https://edienstenburgerzaken.lansingerland.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2352,6 +2363,7 @@ https://intranet.kampen.nl
 https://intranet.laarbeek.nl
 https://intranet.landgraaf.nl
 https://intranet.landvancuijk.nl
+https://intranet.lansingerland.nl
 https://intranet2.gulpen-wittem.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
@@ -2402,6 +2414,7 @@ https://jccapi.hellendoorn.nl
 https://jcccloud.borsele.nl
 https://jcccloud.kapelle.nl
 https://jcctest.bergenopzoom.nl
+https://jeugdhulp.lansingerland.nl
 https://jeugdombudsman.denhaag.nl
 https://jf.doemee.heemstede.nl
 https://jijmaaktdebuurt.openstad.enschede.nl
@@ -2523,6 +2536,7 @@ https://landingspage.landvancuijk.nl
 https://landsmeer.nl
 https://landvancuijk.nl
 https://langenboom.landvancuijk.nl
+https://lansingerland.nl
 https://ld-01.hellevoetsluis.nl
 https://ledeacker.landvancuijk.nl
 https://leerlingzaken.denhaag.nl
@@ -2602,6 +2616,7 @@ https://mailing.eindhoven.nl
 https://mailing.gemeentebeek.nl
 https://mailing.kaagenbraassem.nl
 https://mailing.kapelle.nl
+https://mailsig.lansingerland.nl
 https://makelaar.brielle.nl
 https://makelpunt.openstad.enschede.nl
 https://mam.groningen.nl
@@ -2695,6 +2710,7 @@ https://mft.amsterdam.nl
 https://mheenpark.apeldoorn.nl
 https://micollab.hellendoorn.nl
 https://micollab.huizen.nl
+https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://mijn-acc.groningen.nl
 https://mijn-acceptatie.enschede.nl
@@ -2738,6 +2754,7 @@ https://mijn.hofvantwente.nl
 https://mijn.hollandskroon.nl
 https://mijn.hoorn.nl
 https://mijn.laarbeek.nl
+https://mijn.lansingerland.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnerfpacht.amsterdam.nl
 https://mijnevenement-authenticatie-staging.gemeente-steenbergen.nl
@@ -2772,6 +2789,7 @@ https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnplan.gemeenteberkelland.nl
 https://mijnportaal.defryskemarren.nl
+https://mijnportaal.lansingerland.nl
 https://mijnsbl.amsterdam.nl
 https://mijnsdv.emmen.nl
 https://mijnshv.coevorden.nl
@@ -2878,6 +2896,7 @@ https://nieuwkomers.arnhem.nl
 https://nieuws.breda.nl
 https://nieuws.hoorn.nl
 https://nieuws.landvancuijk.nl
+https://nieuws.lansingerland.nl
 https://nieuwsbrief.capelleaandenijssel.nl
 https://nieuwsbrief.delft.nl
 https://nieuwsbrief.denhaag.nl
@@ -3089,6 +3108,7 @@ https://openpdc.gouda.nl
 https://openpdc.hellendoorn.nl
 https://openpdc.hofvantwente.nl
 https://openpdc.hollandskroon.nl
+https://openpdc.lansingerland.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
 https://openpub.arnhem.nl
@@ -3102,6 +3122,7 @@ https://openpub.gouda.nl
 https://openpub.hellendoorn.nl
 https://openpub.hofvantwente.nl
 https://openpub.hollandskroon.nl
+https://openpub.lansingerland.nl
 https://openstad.apeldoorn.nl
 https://openstad.deventer.nl
 https://openstad.enschede.nl
@@ -3201,6 +3222,7 @@ https://pb-yutpa.rnd.amsterdam.nl
 https://pdc.buren.nl
 https://pencportaal.gemeentehw.nl
 https://pencportal.ede.nl
+https://persberichten.lansingerland.nl
 https://personeelsplanning.beekdaelen.nl
 https://personeelsplanning.kampen.nl
 https://personeelsvereniging.helmond.nl
@@ -3317,6 +3339,7 @@ https://preprod-mijninkomen.gouda.nl
 https://preprod-mijnoverzicht.boxtel.nl
 https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
+https://preprod-mijnportaal.lansingerland.nl
 https://preprod-mijnsociaaldomein.gemeentesluis.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
@@ -3363,6 +3386,7 @@ https://programmabegroting2024.bronckhorst.nl
 https://programmabegroting2024.financielestukken.diemen.nl
 https://programmavan.bergendal.nl
 https://projecten.denhaag.nl
+https://projecten.lansingerland.nl
 https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
 https://provconnect.hethogeland.nl
@@ -3720,6 +3744,7 @@ https://sts.delft.nl
 https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
 https://sts.gemeentestein.nl
+https://sts.lansingerland.nl
 https://subsidie.acc.haarlemmermeer.nl
 https://subsidie.acceptatie.dordrecht.nl
 https://subsidie.almelo.nl
@@ -3794,6 +3819,7 @@ https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
 https://test-cmsintranet.heuvelrug.nl
+https://test-cmsintranet.lansingerland.nl
 https://test-digikoppeling.brielle.nl
 https://test-e-loket.apeldoorn.nl
 https://test-eloket.brunssum.nl
@@ -4474,6 +4500,7 @@ https://www.laakhavensbepaalt.denhaag.nl
 https://www.laarbeek.nl
 https://www.landsmeer.nl
 https://www.landvancuijk.nl
+https://www.lansingerland.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
@@ -4615,6 +4642,7 @@ https://zaaksysteem-accept.gouda.nl
 https://zaaksysteem-accept.halderberge.nl
 https://zaaksysteem-accept.hardenberg.nl
 https://zaaksysteem-accept.hofvantwente.nl
+https://zaaksysteem-accept.lansingerland.nl
 https://zaaksysteem.hilversum.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl
