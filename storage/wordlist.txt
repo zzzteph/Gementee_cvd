@@ -6,16 +6,16 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-afspraken
-webmail
 mijn
 simsite
+afspraken
+webmail
 mail
 digikoppeling
 preproductie
+simcms
 acceptatie
 secure
-simcms
 probeer
 loket
 felix
@@ -38,10 +38,11 @@ pv
 ruimtelijkeplannen
 raad
 vpn
+betalen
 iparticipatie
 parkeren
-betalen
 test-ipa
+werkenbij
 zaaksysteem-accept
 belastingen
 gemeenteraad
@@ -49,7 +50,6 @@ enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 openpdc
-werkenbij
 testeloket
 dloket
 dmidoffice
@@ -57,8 +57,8 @@ api.meldingen-acc
 meldingen-acc
 openpub
 osb
-belastingbalie
 omgevingsvisie
+belastingbalie
 enterpriseregistration
 login
 formulier
@@ -233,6 +233,7 @@ data-test
 intranet-acc
 xential
 jongin
+filetransfer
 acceptatie-open
 bestanden
 mx1
@@ -291,7 +292,6 @@ ondernemersloket
 admin.openstad
 auth.openstad
 img.openstad
-filetransfer
 squit2020.acceptatie
 woz-portaal
 www.intranet
@@ -428,6 +428,7 @@ awmag
 loket-acc
 plannen
 geoserver
+accdrop
 nhr
 personeelsplanning
 djuma
@@ -470,6 +471,7 @@ buitenoporde
 preprod-mijnportaal
 storefront
 topdesk
+cjg
 geoservices
 klantportaal
 lvs
@@ -493,6 +495,7 @@ mobility
 grondwater
 vergunningen
 mta-sts
+www.socialekaart
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -541,6 +544,7 @@ digitaalloket
 hta
 mijnsociaaldomein-acc
 www.belastingloket
+mijndesktop
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -650,7 +654,6 @@ acc-podiumd-logs.dev
 bedrijfsafval
 vastgoed
 pwa
-accdrop
 solliciterenbij
 gisibonline
 sentry
@@ -728,7 +731,6 @@ m1
 m2
 sem
 stats.intranet
-cjg
 crl
 huisvuilkalender
 kennisportaal
@@ -771,7 +773,6 @@ prod
 dok
 www.zorgloket
 zmm
-www.socialekaart
 www.acc.piwik
 betaal
 redirect
@@ -935,7 +936,6 @@ smtp10
 smtp20
 www.afspraakmaken
 mijnwerkplek
-mijndesktop
 webapps
 email.mail.participatie
 mail.participatie
@@ -5700,3 +5700,10 @@ preprod-mijnwijkteam
 profilemanager
 rdweb01
 squitxo-test
+cmsflash
+flash
+mijnafspraak
+probeer-cjg
+simcms-cjg
+test-cmsflash
+test-flash
