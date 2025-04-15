@@ -67,11 +67,11 @@ remote
 zaken
 belastingen
 digikoppeling-test
+woningbouwkaart
 cloudadapter-test
 flowmailer-tracking
 mijninkomen
 cmsoo
-woningbouwkaart
 extranet
 mijnzorg
 piwik
@@ -80,6 +80,7 @@ snelbalie
 belastingbalie
 financien
 beeldbank
+mks
 acc-broker
 cloudadapter
 test-intranet
@@ -91,8 +92,8 @@ parkeren-test
 kaart
 duurzaam
 enterpriseregistration
+apps
 email
-mks
 nieuwsbrief
 govroam
 pki
@@ -107,9 +108,9 @@ preprod
 snelbaliepp
 siam
 digikoppeling.test
-apps
 gemeente
 acc-podiumd-logs
+bgt
 podiumd-logs
 belastingloket
 mdm
@@ -117,6 +118,7 @@ dtestmidoffice
 jaarstukken
 cmsintranet
 belastingportaal
+e
 simform
 gisib
 subsidies
@@ -133,7 +135,6 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
-bgt
 keycloak
 objecten
 sts
@@ -155,7 +156,6 @@ _autodiscover._tcp
 documenten
 preprodbroker
 denkmee
-e
 web
 subsidies-backend
 afvalkalender
@@ -174,6 +174,7 @@ bag
 bastion365
 notificaties
 objecttypen
+openformulieren
 openklant
 sip
 test-digikoppeling
@@ -184,6 +185,7 @@ uca
 mobile
 xential
 AutoDiscover
+mobiel
 inloggen
 contentbeheer.acceptatie
 contentbeheer
@@ -220,12 +222,12 @@ ftp
 parkeervergunningen
 desktop
 mijngeldzaken
+ns1
 opendata
 rooster
 afval
 lyncdiscover
 meet
-openformulieren
 owa
 guest
 publicroam
@@ -239,8 +241,8 @@ www.gemeenteraad
 acc.piwik
 jongin
 rap
+citrix
 omgevingswet
-mobiel
 key2gbav
 ro
 woz-loket
@@ -248,10 +250,12 @@ bor
 inproces.acceptatie
 inproces
 cryptshare
+outlook
 mijnzaken
 admin.openstad
 auth.openstad
 img.openstad
+openformulieren-test
 testloket
 testbelastingloket
 e.openstad
@@ -296,7 +300,6 @@ top
 e-loket
 gbi
 geotest
-ns1
 sslvpn
 www.mijn
 www.raad
@@ -332,7 +335,6 @@ mam
 2secure
 erfgoed
 matomo
-citrix
 aanmelden
 programmabegroting
 djumaproxy
@@ -343,13 +345,11 @@ www.afspraak
 archief
 storefront
 klantportaal
-outlook
 burgerloket
 filr
 intra
 vth
 www.openstad
-openformulieren-test
 bestuur
 acceptatie-open
 webdav
@@ -444,6 +444,7 @@ gpa
 mo
 ndes
 parkeerapp
+tijdschrijven
 digid
 ns2
 testdigid
@@ -527,6 +528,7 @@ connect.test
 contentbeheer.test
 zaken.test
 pkio1
+grooster
 ris
 suite4burgerzaken-prod
 acceptatie.intranet
@@ -554,6 +556,7 @@ forms
 mijnloket
 winkelen
 zorgaanbieders
+begraven
 filetransfer
 parkeren-siam-test
 parkeren-siam
@@ -1890,7 +1893,6 @@ talent
 telecom
 test-e-loket
 test-topvorm
-tijdschrijven
 topvorm
 uitvaartagenda-dev
 uitvaartagenda-staging
@@ -2258,7 +2260,6 @@ vriseloket
 dvg
 platform
 www.platform
-grooster
 idtst
 joinconnect
 kindregeling
@@ -2837,7 +2838,6 @@ www.csam
 www.devgovrs1
 www.staging
 www.vvv
-begraven
 4dekwartaalbrief2019.financielestukken
 financielestukken
 gdintaker
@@ -4284,3 +4284,5 @@ verhalenroute
 wijkteam
 www.denkmee
 www.meedoen
+hgvexc1
+hgvmks1
