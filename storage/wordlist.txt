@@ -25,9 +25,9 @@ eloket
 werkplek
 meldingen
 test
-portal
 acc
 open
+portal
 adfs
 api.meldingen
 afspraak
@@ -38,12 +38,12 @@ pv
 ruimtelijkeplannen
 raad
 vpn
+parkeren
 betalen
 iparticipatie
-parkeren
-test-ipa
 werkenbij
 zaaksysteem-accept
+test-ipa
 enterpriseenrollment
 belastingen
 gemeenteraad
@@ -65,10 +65,10 @@ formulier
 loket.acceptatie
 remote
 data
+flowmailer-tracking
 digikoppeling-test
 cmsoo
 zaken
-flowmailer-tracking
 hybrid
 beeldbank
 kaart
@@ -91,6 +91,7 @@ kaarten
 filecap
 connect
 vergunningintaker
+denkmee
 portaal
 verkiezingen
 osbacc
@@ -106,13 +107,13 @@ test-intranet
 doemee
 jaarstukken
 mijnzorg
-denkmee
 mijninkomen
 subsidies
 snelbalie
 siam
 qr
 openzaak
+parkeren-acc
 acc-mijn
 acc-notificaties
 acc-objecten
@@ -126,7 +127,6 @@ begroting
 preprod-mijninkomen
 mailing
 apps
-parkeren-acc
 acc-contact
 acc-keycloak
 acc-openklant
@@ -170,6 +170,7 @@ veiligdelen
 wachtwoord
 subsidies-backend
 melddesk
+afvalkalender
 snelbaliepp
 jcc
 ftp
@@ -188,7 +189,6 @@ squit2020
 contact
 _autodiscover._tcp
 college
-afvalkalender
 evenementen
 gis
 openstad
@@ -672,6 +672,7 @@ intranetcms-acc
 testberichten
 esb
 identity
+zorgmail
 wwwtest
 acc-openwave
 corona
@@ -716,6 +717,7 @@ womserver
 uitwijk
 mbg
 clicksfm
+link
 osbtest
 qr-acc
 servicebus
@@ -2291,7 +2293,6 @@ isdtalentcenter
 jcctest
 xencor
 xencort
-zorgmail
 intranet-cms
 intranet-stats
 myexports
@@ -2447,7 +2448,6 @@ preprod-broker
 srvmksbur
 wmoservice
 belastingbalietest
-link
 lvgeo.acc
 lvgeo
 makelaar-01
@@ -5727,3 +5727,14 @@ sm1-sec
 websrv01
 websrv03
 zendto
+digikoppelingwoz
+gast
+ijz
+ijz2
+solliciteren
+stuf3gbavzstest
+stuf3zstest
+stufddsprod
+stufddstest
+wup
+wup2
