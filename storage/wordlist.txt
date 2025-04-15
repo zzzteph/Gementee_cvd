@@ -13,9 +13,9 @@ mijn
 mail
 digikoppeling
 preproductie
+simcms
 acceptatie
 secure
-simcms
 probeer
 felix
 loket
@@ -25,9 +25,9 @@ eloket
 meldingen
 test
 werkplek
+portal
 open
 adfs
-portal
 acc
 afspraak
 api.meldingen
@@ -169,6 +169,7 @@ objecttypen
 openklant
 sts
 gasten
+jccapi
 micollab
 uc
 smtp
@@ -189,7 +190,6 @@ owa
 test-digikoppeling
 meedoen
 iarchief
-jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
