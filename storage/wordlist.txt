@@ -17,8 +17,8 @@ simcms
 acceptatie
 secure
 probeer
-felix
 loket
+felix
 formulieren
 eloket
 dkd
@@ -34,13 +34,13 @@ api.meldingen
 geo
 broker
 waarmerk
-ruimtelijkeplannen
 pv
+ruimtelijkeplannen
 iparticipatie
+raad
 vpn
 betalen
 test-ipa
-raad
 zaaksysteem-accept
 parkeren
 gemeenteraad
@@ -54,14 +54,14 @@ meldingen-acc
 belastingen
 dloket
 dmidoffice
-osb
 openpdc
+osb
 omgevingsvisie
 belastingbalie
-enterpriseregistration
 loket.acceptatie
-zaken
 openpub
+enterpriseregistration
+zaken
 login
 cmsoo
 remote
@@ -86,6 +86,7 @@ govroam
 dtestloket
 connect
 portaal
+verkiezingen
 osbacc
 preprod
 extranet
@@ -98,7 +99,6 @@ kaarten
 filecap
 vergunningintaker
 denkmee
-verkiezingen
 mijninkomen
 parkeren-test
 piwik
@@ -181,6 +181,7 @@ inproces.acceptatie
 squit2020
 _autodiscover._tcp
 simform
+college
 wachtwoord
 afvalkalender
 openstad
@@ -198,7 +199,7 @@ afspraakmaken
 www.portal
 midoffice
 documenten
-college
+preprod-mijn
 veiligdelen
 servicedesk
 subsidie
@@ -233,7 +234,6 @@ mijnzorg-acc
 participatie
 raadsnet
 vergunningintaker-preprod
-preprod-mijn
 www.werkenbij
 zoeken
 geodata
@@ -365,6 +365,12 @@ m
 www.afspraken
 simform-preproductie
 www.praatmee
+edienstenaanvragensd-acceptatie
+edienstenaanvragensd
+edienstenmijninkomen-acceptatie
+edienstenmijninkomen
+edienstverlening-preprod
+edienstverlening
 autorisatie
 testafspraken
 veiligmailen
@@ -522,12 +528,6 @@ belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
 edienstenburgerzaken.test
-edienstenaanvragensd-acceptatie
-edienstenaanvragensd
-edienstenmijninkomen-acceptatie
-edienstenmijninkomen
-edienstverlening-preprod
-edienstverlening
 aanvragen
 datalab
 gen1
@@ -628,6 +628,7 @@ acc-openzaak.dev
 acc-podiumd-logs.dev
 vastgoed
 awmag
+pwa
 accdrop
 solliciterenbij
 gisibonline
@@ -2204,7 +2205,6 @@ www.preprod-woz-portaal-eemnes
 www.woz-portaal-eemnes
 www.woz-portaal
 youpp
-pwa
 adc
 cis
 cscp
@@ -5370,3 +5370,4 @@ www.siam
 www.testeloket
 www.vibe
 www.zmm
+openagenda
