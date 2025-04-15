@@ -328,6 +328,7 @@ https://abonneren-t.delft.nl
 https://abonneren.delft.nl
 https://academie.drimmelen.nl
 https://academie.goirle.nl
+https://academie.landgraaf.nl
 https://acc-afvalkalender.goes.nl
 https://acc-broker.assen.nl
 https://acc-broker.borger-odoorn.nl
@@ -535,6 +536,7 @@ https://adfs.edam-volendam.nl
 https://adfs.gooisemeren.nl
 https://adfs.gorinchem.nl
 https://adfs.kerkrade.nl
+https://adfs.landgraaf.nl
 https://adfslogin.defryskemarren.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.doemee.gemeentewestland.nl
@@ -1492,6 +1494,7 @@ https://edienstenburgerzaken-test.hofvantwente.nl
 https://edienstenburgerzaken-test.houten.nl
 https://edienstenburgerzaken-test.kaagenbraassem.nl
 https://edienstenburgerzaken-test.krimpenerwaard.nl
+https://edienstenburgerzaken-test.landgraaf.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1551,6 +1554,7 @@ https://edienstenburgerzaken.houten.nl
 https://edienstenburgerzaken.kaagenbraassem.nl
 https://edienstenburgerzaken.katwijk.nl
 https://edienstenburgerzaken.krimpenerwaard.nl
+https://edienstenburgerzaken.landgraaf.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2256,6 +2260,7 @@ https://inloggen.belastingportaal.assen.nl
 https://inloggen.geertruidenberg.nl
 https://inloggen.haarlemmermeer.nl
 https://inloggen.hoorn.nl
+https://inloggen.landgraaf.nl
 https://inloggen.mijnsubsidie.eindhoven.nl
 https://inloggen.mijnsubsidie.test.eindhoven.nl
 https://inloggenapv-preprod.hellendoorn.nl
@@ -2301,6 +2306,7 @@ https://intranet.heuvelrug.nl
 https://intranet.hoorn.nl
 https://intranet.kampen.nl
 https://intranet.laarbeek.nl
+https://intranet.landgraaf.nl
 https://intranet2.gulpen-wittem.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
@@ -2441,6 +2447,7 @@ https://klantcontact.beuningen.nl
 https://klantcontact.deurne.nl
 https://klantcontact.kerkrade.nl
 https://klantcontact.koggenland.nl
+https://klantcontact.landgraaf.nl
 https://klantgeleiding.gorinchem.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
@@ -3207,6 +3214,7 @@ https://praatmee.boxtel.nl
 https://praatmee.goeree-overflakkee.nl
 https://prd.afs.amsterdam.nl
 https://pre-gemeenteloket.gemeentemaastricht.nl
+https://pre-inloggen.landgraaf.nl
 https://pre-ows-ahp.groningen.nl
 https://pre-ows-app.groningen.nl
 https://pre-ows-dmnsapi.groningen.nl
@@ -3267,6 +3275,7 @@ https://preproductie.heerenveen.nl
 https://preproductie.heeze-leende.nl
 https://preproductie.heuvelrug.nl
 https://preproductie.kerkrade.nl
+https://preproductie.landgraaf.nl
 https://preproductiebroker.gemeentewesterveld.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://privacybewustzijn.bergendal.nl
@@ -3498,6 +3507,7 @@ https://simcms.gemeentemaasgouw.nl
 https://simcms.heerlen.nl
 https://simcms.kerkrade.nl
 https://simcms.koggenland.nl
+https://simcms.landgraaf.nl
 https://simform.achtkarspelen.nl
 https://simform.beuningen.nl
 https://simform.gemeentehw.nl
@@ -3512,6 +3522,7 @@ https://simsite.gemeentebeek.nl
 https://simsite.heeze-leende.nl
 https://simsite.heumen.nl
 https://simsite.heuvelrug.nl
+https://simsite.landgraaf.nl
 https://sip.diemen.nl
 https://sip.ggd.amsterdam.nl
 https://sip.hellevoetsluis.nl

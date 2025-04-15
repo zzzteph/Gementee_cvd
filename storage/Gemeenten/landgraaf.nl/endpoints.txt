@@ -1,0 +1,11 @@
+https://academie.landgraaf.nl
+https://adfs.landgraaf.nl
+https://edienstenburgerzaken-test.landgraaf.nl
+https://edienstenburgerzaken.landgraaf.nl
+https://inloggen.landgraaf.nl
+https://intranet.landgraaf.nl
+https://klantcontact.landgraaf.nl
+https://pre-inloggen.landgraaf.nl
+https://preproductie.landgraaf.nl
+https://simcms.landgraaf.nl
+https://simsite.landgraaf.nl
