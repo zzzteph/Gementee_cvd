@@ -97,6 +97,7 @@ acc-broker.enschede.nl
 acc-broker.gemeente-oldambt.nl
 acc-broker.gemeentemaashorst.nl
 acc-broker.gemert-bakel.nl
+acc-broker.kampen.nl
 acc-contact.assen.nl
 acc-contact.dev.assen.nl
 acc-contact.dev.groningen.nl
@@ -291,6 +292,7 @@ acc.makkelijkemarkt-dashboard.amsterdam.nl
 acc.map.data.amsterdam.nl
 acc.melding.amsterdam.nl
 acc.meldingen.amsterdam.nl
+acc.meldingen.kampen.nl
 acc.meldingenamsterdamsebos.amsterdam.nl
 acc.meldingenweesp.amsterdam.nl
 acc.microservices.schoolwijzer.amsterdam.nl
@@ -561,6 +563,7 @@ afspraken.hellevoetsluis.nl
 afspraken.huizen.nl
 afspraken.ijsselstein.nl
 afspraken.kaagenbraassem.nl
+afspraken.kampen.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -667,6 +670,7 @@ api-meldingen.acc.denhaag.nl
 api-meldingen.almelo.nl
 api-meldingen.denhaag.nl
 api.acc.meldingen.amsterdam.nl
+api.acc.meldingen.kampen.nl
 api.aip.amsterdam.nl
 api.amsterdam.nl
 api.betalen.amsterdam.nl
@@ -732,6 +736,7 @@ api.meldingen.helmond.nl
 api.meldingen.hengelo.nl
 api.meldingen.heuvelrug.nl
 api.meldingen.hilversum.nl
+api.meldingen.kampen.nl
 api.openstad.alphenaandenrijn.nl
 api.openstad.deventer.nl
 api.openstad.enschede.nl
@@ -1127,6 +1132,8 @@ bekendmakingen.houten.nl
 bekslaan-leidsevaartweg.doemee.bloemendaal.nl
 belasting-loket.helmond.nl
 belasting-lokettest.helmond.nl
+belasting-test.kampen.nl
+belasting.kampen.nl
 belastingbalie-acc.amsterdam.nl
 belastingbalie-acc.hilversum.nl
 belastingbalie-prepod.gooisemeren.nl
@@ -1375,6 +1382,7 @@ broker.gemeentemaashorst.nl
 broker.gemeentewesterveld.nl
 broker.gemeentewestland.nl
 broker.gemert-bakel.nl
+broker.kampen.nl
 bronckhorst.nl
 bros-academie.deurne.nl
 brs.groningen.nl
@@ -1536,6 +1544,7 @@ cmsoo.gemeente.emmen.nl
 cmsoo.gemeente.groningen.nl
 cmsoo.gemert-bakel.nl
 cmsoo.horstaandemaas.nl
+cmsoo.kampen.nl
 cmswhatsepe.epe.nl
 cnoops.gemeentemaasgouw.nl
 co108.groningen.nl
@@ -1622,6 +1631,7 @@ cryptshare.gennep.nl
 cryptshare.gorinchem.nl
 cryptshare.harlingen.nl
 cryptshare.kaagenbraassem.nl
+cryptshare.kampen.nl
 cryptsharetest.delft.nl
 csam.deventer.nl
 csc.beverwijk.nl
@@ -1654,6 +1664,7 @@ dacceptatieloket.gemert-bakel.nl
 dacceptatieloket.gilzerijen.nl
 dacceptatieloket.groningen.nl
 dacceptatieloket.hellevoetsluis.nl
+dacceptatieloket.kampen.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -1668,6 +1679,7 @@ dacceptatiemidoffice.gemert-bakel.nl
 dacceptatiemidoffice.gilzerijen.nl
 dacceptatiemidoffice.groningen.nl
 dacceptatiemidoffice.hellevoetsluis.nl
+dacceptatiemidoffice.kampen.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -1899,6 +1911,7 @@ digipost.amsterdam.nl
 digiprodsrvr.gorinchem.nl
 digitaal-test.heerlen.nl
 digitaal.heerlen.nl
+digitaal.kampen.nl
 digitaalerfgoed.almere.nl
 digitaalgemeenteloket.alphenaandenrijn.nl
 digitaalgemeenteloket.kaagenbraassem.nl
@@ -1954,6 +1967,7 @@ dkd.hardenberg.nl
 dkd.heerenveen.nl
 dkd.heerlen.nl
 dkd.hofvantwente.nl
+dkd.kampen.nl
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdtest.brunssum.nl
@@ -1980,6 +1994,7 @@ dloket.gemeentemaashorst.nl
 dloket.gemert-bakel.nl
 dloket.groningen.nl
 dloket.hellevoetsluis.nl
+dloket.kampen.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmarc-reject.amsterdam.nl
@@ -1997,6 +2012,7 @@ dmidoffice.gemeentemaashorst.nl
 dmidoffice.gemert-bakel.nl
 dmidoffice.groningen.nl
 dmidoffice.hellevoetsluis.nl
+dmidoffice.kampen.nl
 dmpfunc002.amsterdam.nl
 dms.heuvelrug.nl
 dmz-websrv.achtkarspelen.nl
@@ -2056,6 +2072,7 @@ dtestloket.gemeentemaashorst.nl
 dtestloket.gemert-bakel.nl
 dtestloket.groningen.nl
 dtestloket.hellevoetsluis.nl
+dtestloket.kampen.nl
 dtestmidoffice.brielle.nl
 dtestmidoffice.coevorden.nl
 dtestmidoffice.emmen.nl
@@ -2471,6 +2488,7 @@ esb.bergenopzoom.nl
 esb.breda.nl
 esbacc.breda.nl
 esbt.bergenopzoom.nl
+escaperoom.kampen.nl
 esedge.haarlem.nl
 esrce.haarlem.nl
 esrs.heerlen.nl
@@ -2619,6 +2637,7 @@ flowmailer-tracking.haarlemmermeer.nl
 flowmailer-tracking.heemstede.nl
 flowmailer-tracking.heerlen.nl
 flowmailer-tracking.helmond.nl
+flowmailer-tracking.kampen.nl
 fm.apeldoorn.nl
 fm01.apeldoorn.nl
 fm02.apeldoorn.nl
@@ -2785,6 +2804,7 @@ gemeente.boxtel.nl
 gemeente.derondevenen.nl
 gemeente.emmen.nl
 gemeente.groningen.nl
+gemeente.kampen.nl
 gemeentearchief.alphenaandenrijn.nl
 gemeentearchief.barneveld.nl
 gemeentearchief.ede.nl
@@ -3166,6 +3186,7 @@ huisvuilkalender.gemeentewestland.nl
 huizen.nl
 hulpwijzer.hattem.nl
 hupextern.acc.denhaag.nl
+huursportzaal.kampen.nl
 hvd.groningen.nl
 hwok-test.gemeentehw.nl
 hwok.gemeentehw.nl
@@ -3181,6 +3202,7 @@ hybrid.gemeentehw.nl
 hybrid.gooisemeren.nl
 hybrid.gulpen-wittem.nl
 hybrid.heemskerk.nl
+hybrid.kampen.nl
 hybrid1.ijsselstein.nl
 hybrid2.ijsselstein.nl
 hybridexo.haarlem.nl
@@ -3300,6 +3322,7 @@ iburgerzaken.hollandskroon.nl
 iburgerzaken.hoogeveen.nl
 iburgerzaken.horstaandemaas.nl
 iburgerzaken.huizen.nl
+iburgerzaken.kampen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -3384,6 +3407,7 @@ ibzpink.hollandskroon.nl
 ibzpink.hoogeveen.nl
 ibzpink.horstaandemaas.nl
 ibzpink.huizen.nl
+ibzpink.kampen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -3458,6 +3482,7 @@ img.openstad.enschede.nl
 img.openstad.gemeentewestland.nl
 img.openstad.haarlemmermeer.nl
 img.v2.openstad.haarlemmermeer.nl
+impactmeter.kampen.nl
 indica-acc.amsterdam.nl
 indienst.almere.nl
 infonet.eijsden-margraten.nl
@@ -3575,9 +3600,11 @@ intranet.heumen.nl
 intranet.heusden.nl
 intranet.heuvelrug.nl
 intranet.hoorn.nl
+intranet.kampen.nl
 intranet.raadsinformatie.amsterdam.nl
 intranet2.gulpen-wittem.nl
 intranetacc.apeldoorn.nl
+intranetacceptatie.kampen.nl
 intranetcms-acc.bergendal.nl
 intranetcms.bergendal.nl
 intranetcms.drimmelen.nl
@@ -3706,6 +3733,7 @@ kaart.debilt.nl
 kaart.delft.nl
 kaart.haarlem.nl
 kaart.kaagenbraassem.nl
+kaart.kampen.nl
 kaarten.boxtel.nl
 kaarten.buren.nl
 kaarten.deventer.nl
@@ -3720,6 +3748,7 @@ kaartviewer.gemeentehulst.nl
 kaartviewer.hoorn.nl
 kadbrkwkpd.deventer.nl
 kadernota2022.financielestukken.diemen.nl
+kampen.nl
 kansshop.eemsdelta.nl
 kassaservice.brunssum.nl
 kavelaanbod.enschede.nl
@@ -3994,6 +4023,7 @@ maasgouw-checker.gemeentemaasgouw.nl
 magazine.amersfoort.nl
 magazine.dongen.nl
 magazine.goes.nl
+magazine.kampen.nl
 magazines.amsterdam.nl
 magazines.gooisemeren.nl
 magazines.horstaandemaas.nl
@@ -4047,6 +4077,7 @@ mail.helmond.nl
 mail.heuvelrug.nl
 mail.hoorn.nl
 mail.kaagenbraassem.nl
+mail.kampen.nl
 mail.mailing.haaksbergen.nl
 mail.noord.amsterdam.nl
 mail.participatie.aalsmeer.nl
@@ -4904,6 +4935,7 @@ owa.assen.nl
 owa.epe.nl
 owa.groningen.nl
 owa.helmond.nl
+owa.kampen.nl
 owa.oudzuid.amsterdam.nl
 owa.stadstoezicht.amsterdam.nl
 ows-ahp-test.groningen.nl
@@ -4944,6 +4976,7 @@ parkeervergunning-ont.amsterdam.nl
 parkeervergunning-tst.amsterdam.nl
 parkeervergunning.amsterdam.nl
 parkeervergunning.enschede.nl
+parkeervergunning.kampen.nl
 parkeervergunningen-acc.amsterdam.nl
 parkeervergunningen-acc.beverwijk.nl
 parkeervergunningen.acc.amsterdam.nl
@@ -4954,6 +4987,7 @@ parkeervergunningen.denhaag.nl
 parkeervergunningen.harlingen.nl
 parkeervergunningenacc.harlingen.nl
 parkeervergunningtest.enschede.nl
+parkeervergunningtest.kampen.nl
 parkeren-acc.amsterdam.nl
 parkeren-acc.apeldoorn.nl
 parkeren-acc.bodegraven-reeuwijk.nl
@@ -5020,6 +5054,7 @@ pencportaal.gemeentehw.nl
 pencportal.ede.nl
 personeelshandboek.bronckhorst.nl
 personeelsplanning.beekdaelen.nl
+personeelsplanning.kampen.nl
 personeelsvereniging.helmond.nl
 persoonlijk.breda.nl
 perspectiefnota.gemeente-steenbergen.nl
@@ -5386,6 +5421,7 @@ pv.gevondenvoorwerpen.gemeentehw.nl
 pv.heiloo.nl
 pv.helmond.nl
 pv.kaagenbraassem.nl
+pv.kampen.nl
 pveopenbareruimte.deventer.nl
 pvh.hoorn.nl
 pvsor.gemeentewestland.nl
@@ -5681,6 +5717,7 @@ selector1._domainkey.derondevenen.nl
 selector2._domainkey.derondevenen.nl
 selfservice.ggd.amsterdam.nl
 sem.delft.nl
+sem.kampen.nl
 sensorenregister.amsterdam.nl
 sentry.beesel.nl
 sentry.denhelder.nl
@@ -5694,12 +5731,15 @@ service01-acceptatie.eijsden-margraten.nl
 service01.eijsden-margraten.nl
 service02-acceptatie.eijsden-margraten.nl
 service02.eijsden-margraten.nl
+servicebus-t.kampen.nl
 servicebus.capelleaandenijssel.nl
 servicebus.gemeentewesterveld.nl
 servicedesk.almelo.nl
 servicedesk.edam-volendam.nl
 servicedesk.hethogeland.nl
 servicegateway.haarlem.nl
+servicegateway.kampen.nl
+servicegatewayt.kampen.nl
 services.acc.amsterdam.nl
 services.amsterdam.nl
 services.dronten.nl
@@ -5897,6 +5937,7 @@ smartdocuments-zgw.test.denhaag.nl
 smartdocuments.denhaag.nl
 smartdocuments.drimmelen.nl
 smartdocumentsacc.drimmelen.nl
+smartphone.kampen.nl
 smoelennet.almelo.nl
 sms.ggd.amsterdam.nl
 smtp.borne.nl
@@ -5949,6 +5990,7 @@ sociaaljaarverslag.hollandskroon.nl
 sociaalplein.gemeentewestland.nl
 sociaalportaal.dinkelland.nl
 social.amsterdam.nl
+socialebasis.kampen.nl
 socialekaart.echt-susteren.nl
 socialekaart.ede.nl
 socialeteams.deventer.nl
@@ -6033,6 +6075,7 @@ ssp.alphenaandenrijn.nl
 ssp.kaagenbraassem.nl
 sstpvpn.epe.nl
 staatvandeparticipatie.amsterdam.nl
+stad.kampen.nl
 stadhuis.groningen.nl
 stadjerpas-acc.groningen.nl
 stadjerpas.groningen.nl
@@ -7019,6 +7062,7 @@ woz-portaal.drimmelen.nl
 woz-portaal.gemeente-steenbergen.nl
 woz-portaal.huizen.nl
 woz.amsterdam.nl
+woz.kampen.nl
 wozloket-acc.borger-odoorn.nl
 wozloket-acc.coevorden.nl
 wozloket.borger-odoorn.nl
@@ -7433,6 +7477,7 @@ www.internwifi.hellevoetsluis.nl
 www.intranet.echt-susteren.nl
 www.intranet.gemeentehulst.nl
 www.intranet.gemeentewestland.nl
+www.intranet.kampen.nl
 www.intranet.nieuwsbrief.amsterdam.nl
 www.iobjecten-acc.kaagenbraassem.nl
 www.itstore.kaagenbraassem.nl
@@ -7448,6 +7493,7 @@ www.kaagenbraassem.nl
 www.kaarten.gemeentewestland.nl
 www.kaarten.haarlemmermeer.nl
 www.kaartviewer.gemeentehulst.nl
+www.kampen.nl
 www.kindpakket.groningen.nl
 www.kmdn.gemeentehulst.nl
 www.koningsdag.groningen.nl
@@ -7604,6 +7650,7 @@ www.srmvauitwijk.ovh.gemeentebeek.nl
 www.sso-test.groningen.nl
 www.ssp.kaagenbraassem.nl
 www.staatvandeparticipatie.amsterdam.nl
+www.stad.kampen.nl
 www.stadjerspas.gemeente.groningen.nl
 www.stadsarchief.breda.nl
 www.stadshavens.groningen.nl
