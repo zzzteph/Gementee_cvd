@@ -7,9 +7,9 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mijn
+webmail
 simsite
 afspraken
-webmail
 mail
 digikoppeling
 preproductie
@@ -42,8 +42,8 @@ betalen
 iparticipatie
 parkeren
 test-ipa
-werkenbij
 zaaksysteem-accept
+werkenbij
 belastingen
 gemeenteraad
 enterpriseenrollment
@@ -65,14 +65,14 @@ formulier
 loket.acceptatie
 remote
 data
+digikoppeling-test
 cmsoo
 zaken
 flowmailer-tracking
 hybrid
-digikoppeling-test
+beeldbank
 kaart
 berichten
-beeldbank
 cloudadapter-test
 mks
 acc-broker
@@ -146,6 +146,7 @@ internetafspraken
 test-cmsintranet
 cmsintranet
 e
+dali
 vdi
 email
 nieuwsbrief
@@ -169,7 +170,6 @@ veiligdelen
 wachtwoord
 subsidies-backend
 melddesk
-dali
 snelbaliepp
 jcc
 ftp
@@ -233,6 +233,7 @@ data-test
 intranet-acc
 xential
 jongin
+archief
 filetransfer
 acceptatie-open
 bestanden
@@ -245,6 +246,7 @@ participatie
 raadsnet
 toegang
 vergunningintaker-preprod
+praatmee
 www.werkenbij
 zoeken
 geodata
@@ -284,7 +286,6 @@ programmabegroting
 key2gbav
 test-secure
 subsidies-login
-archief
 sport
 burgerloket
 mijnzaken
@@ -315,7 +316,6 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
-praatmee
 diensten
 secure-test
 stadsarchief
@@ -364,6 +364,7 @@ woz-loket
 zaken.test
 grooster
 subsidies-login.acceptatie
+test.digikoppeling
 filr
 vth
 www.openstad
@@ -466,6 +467,7 @@ www.jongin
 download
 www.afspraak
 ris
+collecties
 inproces.test
 buitenoporde
 preprod-mijnportaal
@@ -480,7 +482,6 @@ smtp1
 smtp2
 www.cjg
 cloudadapter-t
-test.digikoppeling
 burgerloket.acceptatie
 allegroweb
 intra
@@ -660,6 +661,7 @@ sentry
 werkomgeving
 koppelvlak
 live
+webserver
 aovpn
 data.gemnet
 intranetcms-acc
@@ -698,6 +700,7 @@ g-rooster
 jaarstukken2021
 adsync
 afspraken-test
+edienstenburgerzaken-prod
 ggk
 kassaservice
 navigus
@@ -719,7 +722,6 @@ wijzer
 pkio1
 idtst
 bor-acc
-collecties
 mbg2
 suite4burgerzaken-prod
 acceptatie.intranet
@@ -816,6 +818,7 @@ apigateway2
 berichtenverkeer
 www.kaarten
 www.mdm
+geovisiaonline
 belastingen-test
 test-meedoen
 ucconf01
@@ -2267,7 +2270,6 @@ firewall.servers1
 gw.servers1
 tabsign-koppelvlak
 tabsign
-webserver
 BGNVSV002
 bgnvsv002
 bgnvsv003
@@ -2424,7 +2426,6 @@ bsmpkitest
 cognos-test
 databridge-tst
 databridge
-edienstenburgerzaken-prod
 jcc-afspraken
 key2bag-test
 key2datadistributie-prod
@@ -3573,7 +3574,6 @@ gb-wls-04
 gb-wls-05
 gemgbl-wls-gb-1
 gemgbl-wls-gb-2
-geovisiaonline
 malengo-cms
 malengo-test
 malengo-testcms
@@ -5707,3 +5707,23 @@ probeer-cjg
 simcms-cjg
 test-cmsflash
 test-flash
+aform
+appl03
+boeken
+brz1-sm100
+geovisiaonlinetest
+jnetcc01p
+jnetcc01t
+ns1.webserver
+ns2.webserver
+parkeren-prod
+parkeren-siam-prod
+parkerenapp-prod
+pform
+prod.digikoppeling
+schiedata
+sgen
+sm1-sec
+websrv01
+websrv03
+zendto
