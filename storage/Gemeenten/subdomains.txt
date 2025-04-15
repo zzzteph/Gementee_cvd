@@ -547,6 +547,7 @@ acceptatie.pekela.nl
 acceptatie.reimerswaal.nl
 acceptatie.rijssen-holten.nl
 acceptatie.rijswijk.nl
+acceptatie.schagen.nl
 acceptatie.subsidies-backend.ede.nl
 acceptatie.subsidies.ede.nl
 acceptatiebelastingen.duiven.nl
@@ -1367,6 +1368,7 @@ autodiscover.rotterdam.nl
 autodiscover.rozendaal.nl
 autodiscover.rucphen.nl
 autodiscover.s-hertogenbosch.nl
+autodiscover.schagen.nl
 autodiscover.sp.haarlemmermeer.nl
 autodiscover.sp.nijmegen.nl
 autodiscover.srh.haarlemmermeer.nl
@@ -2672,6 +2674,7 @@ digikoppeling-test.nunspeet.nl
 digikoppeling-test.oostzaan.nl
 digikoppeling-test.oude-ijsselstreek.nl
 digikoppeling-test.renkum.nl
+digikoppeling-test.schagen.nl
 digikoppeling-tst.gemeente.groningen.nl
 digikoppeling-tst.gemeentewestland.nl
 digikoppeling.aaenhunze.nl
@@ -2743,6 +2746,7 @@ digikoppeling.rheden.nl
 digikoppeling.rhenen.nl
 digikoppeling.rotterdam.nl
 digikoppeling.rozendaal.nl
+digikoppeling.schagen.nl
 digikoppeling.ta-twd.rotterdam.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
@@ -4126,6 +4130,8 @@ gemeentewinkel.meerssen.nl
 gemert-bakel.nl
 gemgbl-wls-gb-1.gemert-bakel.nl
 gemgbl-wls-gb-2.gemert-bakel.nl
+gemnet-dkd.schagen.nl
+gemnet-dkdtest.schagen.nl
 gemnps01.eijsden-margraten.nl
 gemnps01.intern.eijsden-margraten.nl
 gen1.alkmaar.nl
@@ -4781,6 +4787,7 @@ iburgerzaken.roermond.nl
 iburgerzaken.roosendaal.nl
 iburgerzaken.rozendaal.nl
 iburgerzaken.s-hertogenbosch.nl
+iburgerzaken.schagen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -4918,6 +4925,7 @@ ibzpink.rijssen-holten.nl
 ibzpink.roermond.nl
 ibzpink.roosendaal.nl
 ibzpink.rozendaal.nl
+ibzpink.schagen.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -5644,6 +5652,7 @@ ksnijmegen.acc.nijmegen.nl
 laakhavensbepaalt.denhaag.nl
 laarbeek.nl
 lab.tod.leiden.nl
+lan.schagen.nl
 landgraaf.nl
 landhorst.landvancuijk.nl
 landingspage.landvancuijk.nl
@@ -5770,6 +5779,7 @@ login.nieuwegein.nl
 login.nijkerk.eu
 login.regiomonitor-acc.oosterhout.nl
 login.roosendaal.nl
+login.schagen.nl
 login.subsidie.leiden.nl
 logoff.ede.nl
 lois-acc.losser.nl
@@ -5918,6 +5928,7 @@ magazine.dongen.nl
 magazine.goes.nl
 magazine.kampen.nl
 magazine.landvancuijk.nl
+magazine.schagen.nl
 magazines.amsterdam.nl
 magazines.gooisemeren.nl
 magazines.horstaandemaas.nl
@@ -6133,6 +6144,7 @@ meedoen.goeree-overflakkee.nl
 meedoen.hellendoorn.nl
 meedoen.hollandskroon.nl
 meedoen.losser.nl
+meedoen.schagen.nl
 meedoenregeling.dongen.nl
 meent.alkmaar.nl
 meerssen.nl
@@ -6485,6 +6497,8 @@ mijnuitkering.emmen.nl
 mijnuitkering.nissewaard.nl
 mijnuitkering.s-hertogenbosch.nl
 mijnwerkplek.peelenmaas.nl
+mijnwerkplek.schagen.nl
+mijnwijkteam.schagen.nl
 mijnwiz-test.geertruidenberg.nl
 mijnwiz.geertruidenberg.nl
 mijnwoonomgeving.deventer.nl
@@ -6494,6 +6508,7 @@ mijnzaken.derondevenen.nl
 mijnzaken.halderberge.nl
 mijnzaken.heerlen.nl
 mijnzaken.hengelo.nl
+mijnzaken.schagen.nl
 mijnzakentest.heerlen.nl
 mijnzi.beuningen.nl
 mijnzorg-acc.aalsmeer.nl
@@ -7319,6 +7334,7 @@ owa.kampen.nl
 owa.nederweert.nl
 owa.nieuwegein.nl
 owa.oudzuid.amsterdam.nl
+owa.schagen.nl
 owa.stadstoezicht.amsterdam.nl
 ows-ahp-test.groningen.nl
 ows-ahp.groningen.nl
@@ -7765,6 +7781,7 @@ preprod-mijnsociaalplein.hilversum.nl
 preprod-mijnsociaalplein.hofvantwente.nl
 preprod-mijnsociaalplein.putten.nl
 preprod-mijnuitkering.nissewaard.nl
+preprod-mijnwijkteam.schagen.nl
 preprod-mijnzorg.denhelder.nl
 preprod-sociaalportaal.dinkelland.nl
 preprod-sociaalportaal.rijssen-holten.nl
@@ -7932,6 +7949,7 @@ prodsuitewiz.nissewaard.nl
 product.leiden.nl
 productie.postex.heusden.nl
 prodwizraapl.nissewaard.nl
+profilemanager.schagen.nl
 programmabegroting.bronckhorst.nl
 programmabegroting.financien.purmerend.nl
 programmabegroting.gemeente-steenbergen.nl
@@ -8079,6 +8097,7 @@ raad.renkum.nl
 raad.ridderkerk.nl
 raad.rijssen-holten.nl
 raad.roosendaal.nl
+raad.schagen.nl
 raadplegen.denhaag.nl
 raadsagenda.oirschot.nl
 raadsinformatie.eindhoven.nl
@@ -8115,6 +8134,7 @@ rdw-test.authenticatie.alkmaar.nl
 rdw.authenticatie.alkmaar.nl
 rdweb.deurne.nl
 rdweb.houten.nl
+rdweb01.schagen.nl
 reclame.nijmegen.nl
 redactie-extern.denhaag.nl
 redactie.amersfoort.nl
@@ -8175,6 +8195,7 @@ remote.nieuwegein.nl
 remote.nunspeet.nl
 remote.renkum.nl
 remote.rozendaal.nl
+remote.schagen.nl
 remotewerken.middendelfland.nl
 renkum.nl
 renswoude.nl
@@ -8327,6 +8348,7 @@ samen.putten.nl
 samen.rhenen.nl
 samen.rijswijk.nl
 samen.s-hertogenbosch.nl
+samen.schagen.nl
 samenduurzaam.geldrop-mierlo.nl
 samenindebuurt.heerlen.nl
 samenmet.beesel.nl
@@ -8377,6 +8399,7 @@ scbroker.diemen.nl
 scbroker.ouder-amstel.nl
 sccmmp.haarlem.nl
 scep.montferland.info
+schagen.nl
 schemas.data.amsterdam.nl
 scheveningen-acc.denhaag.nl
 scheveningen.denhaag.nl
@@ -8976,9 +8999,11 @@ squit2gotest.purmerend.nl
 squitpub-prod.haarlem.nl
 squitxo-prd.gemeentewestland.nl
 squitxo-server-service.montferland.info
+squitxo-test.schagen.nl
 squitxo-tst.gemeentewestland.nl
 squitxo.goirle.nl
 squitxo.rijssen-holten.nl
+squitxo.schagen.nl
 squitxotest.goirle.nl
 srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
@@ -9002,6 +9027,7 @@ sso-test.groningen.nl
 sso.acc.ta-twd.rotterdam.nl
 sso.groningen.nl
 sso.ir.rotterdam.nl
+sso.schagen.nl
 ssorad.rotterdam.nl
 ssp-acc.purmerend.nl
 ssp.alphenaandenrijn.nl
@@ -9384,6 +9410,7 @@ test-keycloak.assen.nl
 test-keycloak.enschede.nl
 test-keycloak.gemert-bakel.nl
 test-meedoen.goeree-overflakkee.nl
+test-meedoen.schagen.nl
 test-meedoenregeling.dongen.nl
 test-mijn.assen.nl
 test-mijn.enschede.nl
@@ -9565,6 +9592,7 @@ testmeldingen.asten.nl
 testmijn.haarlemmermeer.nl
 testmijn.lochem.nl
 testmijnzaken.derondevenen.nl
+testmijnzaken.schagen.nl
 testparkeren.goes.nl
 testplannen.katwijk.nl
 testportaal.almelo.nl
@@ -9839,6 +9867,7 @@ vdi.landgraaf.nl
 vdi.meppel.nl
 vdi.rijswijk.nl
 vdi.rotterdam.nl
+vdi.schagen.nl
 vdi8.amersfoort.nl
 veenkolonien.groningen.nl
 veilig.houten.nl
@@ -9849,6 +9878,7 @@ veiligdelen.landvancuijk.nl
 veiligdelen.meppel.nl
 veiligdelen.montferland.info
 veiligdelen.s-hertogenbosch.nl
+veiligdelen.schagen.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
@@ -10223,6 +10253,7 @@ webmail.rijswijk.nl
 webmail.roerdalen.nl
 webmail.rozendaal.nl
 webmail.samen.rhenen.nl
+webmail.schagen.nl
 webmail.stadsarchief.amsterdam.nl
 webmail.test.hoorn.nl
 webmail.west.amsterdam.nl
@@ -10297,6 +10328,7 @@ werkenbij.midden-groningen.nl
 werkenbij.moerdijk.nl
 werkenbij.noardeast-fryslan.nl
 werkenbij.oudewater.nl
+werkenbij.schagen.nl
 werkeninkomen-test.leiden.nl
 werkeninkomen-test.leiderdorp.nl
 werkeninkomen.leiden.nl
@@ -10353,6 +10385,7 @@ werkplek.peelenmaas.nl
 werkplek.rheden.nl
 werkplek.roosendaal.nl
 werkplek.rucphen.nl
+werkplek.schagen.nl
 werkplek02.derondevenen.nl
 werkplektest.haarlemmermeer.nl
 werving.amsterdam.nl
@@ -10395,6 +10428,7 @@ wijkteam-cursus.katwijk.nl
 wijkteam-tst.katwijk.nl
 wijkteam.hollandskroon.nl
 wijkteam.katwijk.nl
+wijkteam.schagen.nl
 wijkteams.almere.nl
 wijkvernieuwing.groningen.nl
 wijsamen.groningen.nl
@@ -11260,6 +11294,7 @@ www.samenwij.groningen.nl
 www.sap01.gem.overbetuwe.nl
 www.sbc-ata01.haarlemmermeer.nl
 www.sbc-ha.haarlemmermeer.nl
+www.schagen.nl
 www.scheveningen.denhaag.nl
 www.schoolwijzer.amsterdam.nl
 www.sec.gemeentemaasgouw.nl
