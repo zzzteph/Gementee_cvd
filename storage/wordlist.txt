@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mail
-afspraken
 simsite
+afspraken
 mijn
 webmail
 digikoppeling
@@ -39,8 +39,8 @@ pv
 parkeren
 betalen
 omgevingsvisie
-osb
 raad
+osb
 vpn
 testeloket
 iparticipatie
@@ -52,6 +52,8 @@ dacceptatieloket
 dacceptatiemidoffice
 data
 test-ipa
+belastingen
+berichten
 enterpriseenrollment
 dloket
 dmidoffice
@@ -59,8 +61,6 @@ api.meldingen-acc
 meldingen-acc
 openpub
 hybrid
-belastingen
-berichten
 login
 loket.acceptatie
 remote
@@ -123,6 +123,7 @@ mdm
 dtestmidoffice
 jaarstukken
 connect.acceptatie
+transfer
 cmsintranet
 belastingportaal
 denkmee
@@ -155,6 +156,7 @@ simcms-open
 uc
 mobile
 smtp
+AutoDiscover
 inloggen
 squit2go
 contentbeheer.acceptatie
@@ -162,12 +164,12 @@ contentbeheer
 zaken.acceptatie
 begroting
 cryptshare
-transfer
 midoffice
 mijnzorg-acc
 _autodiscover._tcp
 documenten
 preprodbroker
+college
 web
 wachtwoord
 www.werkenbij
@@ -195,13 +197,13 @@ openklant
 owa
 test-digikoppeling
 obsurv
+klantcontact
 guest
 iarchief
 publicroam
 uca
 micollab
 xential
-AutoDiscover
 mobiel
 inproces.acceptatie
 inproces
@@ -215,7 +217,6 @@ www.acceptatie
 raadsnet
 vergunningintaker-preprod
 geovisia
-college
 praatmee
 preprod-mijn
 izaaksuite
@@ -247,7 +248,6 @@ rooster
 sslvpn
 bis
 test-mijn
-klantcontact
 fmreturn
 simcms-preproductie
 formulieren-test
@@ -277,6 +277,7 @@ vth
 openformulieren-test
 squit2020.acceptatie
 squit2020
+woz-portaal
 www.intranet
 testbelastingloket
 e.openstad
@@ -376,7 +377,6 @@ eformulieren
 webdav
 bestanden
 webservices
-woz-portaal
 afspraakmaken
 mx1
 aeolus
@@ -385,6 +385,7 @@ duo
 contact
 ibabs
 www.werkplek
+mijnsociaaldomein
 gateway
 de
 sbc01
@@ -639,7 +640,6 @@ liquit
 beeldbankbeheer
 www.djuma
 pip
-mijnsociaaldomein
 preprod-mijnsociaaldomein
 rds
 acceptatie-intranet
@@ -671,6 +671,7 @@ bzg1-acc
 digitaal
 teleweb
 preprod-meedoen
+cars
 wijkteam
 digitaalloket
 webapps
@@ -4226,7 +4227,6 @@ wozportaal
 zsaccept
 apv-broker
 apv-broker.preprod
-cars
 dms
 iverblijf
 mgapp
@@ -4441,3 +4441,20 @@ tcorsa
 tkoppelcorsa
 tmakelaar
 waarstemjijvoor
+HTA
+belastingen.acc
+goprod
+gotest
+hta
+ik-acc
+ik
+inloggen.belastingen.acc
+inloggen.belastingen
+jboss
+lvolo-prod
+lvolo-test
+mijnsociaaldomein-acc
+mohis
+mohistest
+prefill
+validsign-prod

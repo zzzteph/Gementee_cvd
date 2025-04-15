@@ -2,6 +2,7 @@ http://AutoDiscover.brielle.nl
 http://AutoDiscover.derondevenen.nl
 http://AutoDiscover.drechterland.nl
 http://AutoDiscover.enkhuizen.nl
+http://AutoDiscover.koggenland.nl
 http://Autodiscover.hilversum.nl
 http://aalten.nl
 http://acc-contact.gemert-bakel.nl
@@ -100,12 +101,15 @@ http://autodiscover.hoorn.nl
 http://autodiscover.horstaandemaas.nl
 http://autodiscover.houten.nl
 http://autodiscover.katwijk.nl
+http://autodiscover.koggenland.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
 http://beheer-test-trefpunt.deurne.nl
 http://belasting-test.kampen.nl
 http://belastingbalie.amsterdam.nl
+http://belastingen.acc.koggenland.nl
+http://belastingen.koggenland.nl
 http://bergen.nl
 http://bergendal.nl
 http://bouwdossiers.stadsarchief.breda.nl
@@ -142,10 +146,13 @@ http://htb-test.gemeente-steenbergen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
 http://id-subsidies-login.acceptatie.ede.nl
+http://inloggen.belastingen.acc.koggenland.nl
+http://inloggen.belastingen.koggenland.nl
 http://insite.houten.nl
 http://kerkrade.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
+http://koggenland.nl
 http://loket.acceptatie.hardinxveld-giessendam.nl
 http://lvs.denhaag.nl
 http://magazine.amersfoort.nl
@@ -937,6 +944,7 @@ https://berichten.heemskerk.nl
 https://berichten.heeze-leende.nl
 https://berichten.helmond.nl
 https://berichten.huizen.nl
+https://berichten.koggenland.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -1136,6 +1144,7 @@ https://college.alblasserdam.nl
 https://college.albrandswaard.nl
 https://college.dordrecht.nl
 https://college.hardinxveld-giessendam.nl
+https://college.koggenland.nl
 https://communicatie.hollandskroon.nl
 https://connect-preprod.almere.nl
 https://connect.goirle.nl
@@ -1695,6 +1704,7 @@ https://felix.gemeentemaasgouw.nl
 https://felix.halderberge.nl
 https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
+https://felix.koggenland.nl
 https://fgt.amstelveen.nl
 https://filecap.breda.nl
 https://filecap.drimmelen.nl
@@ -2135,6 +2145,7 @@ https://iburgerzaken.huizen.nl
 https://iburgerzaken.kampen.nl
 https://iburgerzaken.kapelle.nl
 https://iburgerzaken.kerkrade.nl
+https://iburgerzaken.koggenland.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2170,6 +2181,8 @@ https://ihc-extern.acc.denhaag.nl
 https://ihc-extern.denhaag.nl
 https://ihp.denhaag.nl
 https://ijsselstein.nl
+https://ik-acc.koggenland.nl
+https://ik.koggenland.nl
 https://ikbouwin.denhaag.nl
 https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
@@ -2386,6 +2399,7 @@ https://klantcontact.baarn.nl
 https://klantcontact.beuningen.nl
 https://klantcontact.deurne.nl
 https://klantcontact.kerkrade.nl
+https://klantcontact.koggenland.nl
 https://klantgeleiding.gorinchem.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
@@ -2647,8 +2661,10 @@ https://mijnportaal.defryskemarren.nl
 https://mijnsbl.amsterdam.nl
 https://mijnsdv.emmen.nl
 https://mijnshv.coevorden.nl
+https://mijnsociaaldomein-acc.koggenland.nl
 https://mijnsociaaldomein.gemeentesluis.nl
 https://mijnsociaaldomein.heerenveen.nl
+https://mijnsociaaldomein.koggenland.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
 https://mijnsociaalplein.gemeentemaashorst.nl
@@ -3273,6 +3289,7 @@ https://raad.goirle.nl
 https://raad.hardinxveld-giessendam.nl
 https://raad.hattem.nl
 https://raad.hellendoorn.nl
+https://raad.koggenland.nl
 https://raadplegen.denhaag.nl
 https://rap.gemeentesluis.nl
 https://raster.horstaandemaas.nl
@@ -3423,6 +3440,7 @@ https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.heerlen.nl
 https://simcms.kerkrade.nl
+https://simcms.koggenland.nl
 https://simform.achtkarspelen.nl
 https://simform.beuningen.nl
 https://simform.gemeentehw.nl
@@ -3735,6 +3753,7 @@ https://transfer.eemsdelta.nl
 https://transfer.enkhuizen.nl
 https://transfer.gemeentehulst.nl
 https://transfer.katwijk.nl
+https://transfer.koggenland.nl
 https://transform.deventer.nl
 https://trefnet.hellevoetsluis.nl
 https://trefpunt.deurne.nl
@@ -4022,6 +4041,7 @@ https://woz-portaal-test.gemeente-steenbergen.nl
 https://woz-portaal.drimmelen.nl
 https://woz-portaal.gemeente-steenbergen.nl
 https://woz-portaal.huizen.nl
+https://woz-portaal.koggenland.nl
 https://wozloket-acc.borger-odoorn.nl
 https://wozloket-acc.coevorden.nl
 https://wozloket.borger-odoorn.nl
