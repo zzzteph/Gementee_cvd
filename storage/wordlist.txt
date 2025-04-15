@@ -12,10 +12,10 @@ mijn
 simsite
 afspraken
 digikoppeling
-preproductie
 secure
-simcms
 acceptatie
+preproductie
+simcms
 probeer
 loket
 felix
@@ -42,19 +42,19 @@ werkenbij
 zaaksysteem-accept
 gemeenteraad
 iparticipatie
+raad
 testeloket
 test-ipa
-raad
 enterpriseenrollment
 api.meldingen-acc
 meldingen-acc
 omgevingsvisie
 openpdc
 osb
+belastingen
 dacceptatieloket
 dacceptatiemidoffice
 ruimtelijkeplannen
-belastingen
 belastingbalie
 dloket
 dmidoffice
@@ -80,16 +80,17 @@ cloudadapter
 govroam
 test-intranet
 parkeren-test
+duurzaam
 digikoppeling.test
 mks
 dtestloket
 osbacc
 mijninkomen
 piwik
-duurzaam
 financien
 extranet
 pki
+kaarten
 connect
 test-cmsintranet
 mijnzorg
@@ -104,7 +105,6 @@ nieuwsbrief
 samen
 doemee
 www.webmail
-kaarten
 filecap
 jaarstukken
 transfer
@@ -331,6 +331,7 @@ autorisatie
 geodata
 veiligmailen
 english
+secure-test
 sociaaldomein
 stadsarchief
 digitaalnachtregister
@@ -376,6 +377,7 @@ klimaatplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
 wij
+zorg
 digikoppelingtest
 testcms-intranet
 wozloket
@@ -415,6 +417,7 @@ www.openstad
 bestuur
 eformulieren
 webdav
+webformulieren
 webservices
 academie
 vergunningen
@@ -471,7 +474,6 @@ ingesprek
 kavels
 planon
 regio
-secure-test
 sportencultuur
 test.formulieren
 centrumbegroot
@@ -557,7 +559,6 @@ gisibonline
 sentry
 live
 aovpn
-zorg
 data.gemnet
 intranetcms-acc
 testberichten
@@ -652,7 +653,6 @@ parkeren-siam-test
 parkeren-siam
 centric
 relay
-webformulieren
 router
 digitalebalie
 durp
@@ -706,6 +706,7 @@ apigateway2
 berichtenverkeer
 www.kaarten
 www.mdm
+belastingen-test
 ucconf01
 ucweb01-ext
 aaa
@@ -742,6 +743,7 @@ ubwprod
 ubwtest
 vacatures
 preprod-meedoen
+e2s
 cars
 dms
 aanvragenpreprod
@@ -766,6 +768,7 @@ bestuursrapportage
 werkeninkomen-test
 werkeninkomen
 testwebsite
+zorg-acc
 webapps
 email.mail.participatie
 mail.participatie
@@ -3511,7 +3514,6 @@ meldpunt
 mijntalent-acc
 mijntalent
 spam
-belastingen-test
 clicksfm.nieuwsbrief
 dashboard-iav-api
 dashboard-iav
@@ -4203,7 +4205,6 @@ www.trefnet
 belasting-loket
 belasting-lokettest
 clicks
-e2s
 e2stest
 edienst
 edienstpp
@@ -4789,7 +4790,6 @@ regieportaal-test
 regieportaal
 samenwerkingbelastingen-test
 samenwerkingbelastingen
-zorg-acc
 acc.mijngkb
 consul
 globalprotect
@@ -4844,3 +4844,6 @@ wmo
 huisstijl
 leef-test
 leef
+e2s-test
+kaarten-test
+webformulieren-test
