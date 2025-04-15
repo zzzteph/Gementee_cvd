@@ -22,9 +22,9 @@ felix
 formulieren
 dkd
 eloket
+werkplek
 meldingen
 test
-werkplek
 portal
 acc
 open
@@ -97,6 +97,7 @@ osbacc
 parkeren-test
 piwik
 preprod
+gemeente
 acc-formulier
 acc-podiumd-logs
 podiumd-logs
@@ -109,7 +110,6 @@ mijninkomen
 subsidies
 snelbalie
 qr
-gemeente
 openzaak
 acc-mijn
 acc-notificaties
@@ -135,6 +135,7 @@ notificaties
 objecttypen
 openklant
 klantcontact
+micollab
 simcms-open
 mdm
 inloggen
@@ -150,7 +151,6 @@ auth
 bgt
 sip
 sts
-micollab
 AutoDiscover
 connect.acceptatie
 inproces
@@ -295,6 +295,7 @@ woz-portaal
 www.intranet
 kcc
 testbelastingloket
+mx1
 aeolus
 zaaksysteem
 e.openstad
@@ -370,7 +371,7 @@ eformulieren
 webservices
 digitalebalie
 academie
-mx1
+mx2
 squit2020publiceren
 stemvan
 www.samen
@@ -499,7 +500,6 @@ edge
 socialekaart
 vergunningintaker.preprod
 www.piwik
-mx2
 ondernemen
 www.belastingbalie
 burgerportaal
@@ -5646,3 +5646,9 @@ xmlgw.preprod
 xmlgw
 xmstore
 xmstoreacc
+bijlage
+datadis
+datadis.test
+oig
+testwww
+workdrive
