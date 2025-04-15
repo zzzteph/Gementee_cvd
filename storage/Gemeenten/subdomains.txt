@@ -552,6 +552,7 @@ adfs.lingewaard.nl
 adfs.meppel.nl
 adfs.midden-groningen.nl
 adfs.montferland.info
+adfs.ommen.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 admanager.zaaksysteem.eindhoven.nl
@@ -1537,6 +1538,7 @@ berichten.helmond.nl
 berichten.huizen.nl
 berichten.koggenland.nl
 berichten.noordoostpolder.nl
+berichten.ommen.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtenverkeer.gemeentewestland.nl
 berichtenverkeer.gouda.nl
@@ -1774,6 +1776,7 @@ burgerloket.duiven.nl
 burgerpanel.middendrenthe.nl
 burgerportaal.eijsden-margraten.nl
 burgerportaal.hardenberg.nl
+burgerportaal.ommen.nl
 burgerzaken.amsterdam.nl
 buurt.eindhoven.nl
 buurtbudget.amsterdam.nl
@@ -2301,6 +2304,7 @@ dicos-test.nissewaard.nl
 dict.amsterdam.nl
 diemen.nl
 diensten.almere.nl
+diensten.ommen.nl
 dieuwke.defryskemarren.nl
 digi01.meerssen.nl
 digid-parkeervergunningen-acc.beverwijk.nl
@@ -2442,6 +2446,7 @@ digitalebalie.drechterland.nl
 digitalebalie.heeze-leende.nl
 digitaleplannen.apeldoorn.nl
 digitaleplannen.hardenberg.nl
+digitaleplannen.ommen.nl
 digitestsrvr.gorinchem.nl
 dijkenwaard.nl
 diko.apeldoorn.nl
@@ -2501,6 +2506,7 @@ dkd.nijkerk.eu
 dkd.nissewaard.nl
 dkd.noardeast-fryslan.nl
 dkd.noordoostpolder.nl
+dkd.ommen.nl
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdservice-test.meppel.nl
@@ -4190,6 +4196,7 @@ iburgerzaken.oirschot.nl
 iburgerzaken.oisterwijk.nl
 iburgerzaken.oldebroek.nl
 iburgerzaken.olst-wijhe.nl
+iburgerzaken.ommen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -4310,6 +4317,7 @@ ibzpink.oirschot.nl
 ibzpink.oisterwijk.nl
 ibzpink.oldebroek.nl
 ibzpink.olst-wijhe.nl
+ibzpink.ommen.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -4557,6 +4565,7 @@ intranet.noordwijk.nl
 intranet.nunspeet.nl
 intranet.oegstgeest.nl
 intranet.oldenzaal.nl
+intranet.ommen.nl
 intranet.raadsinformatie.amsterdam.nl
 intranet2.gulpen-wittem.nl
 intranetacc.apeldoorn.nl
@@ -5546,6 +5555,7 @@ mijn.nijmegen.nl
 mijn.noordwijk.nl
 mijn.nunspeet.nl
 mijn.oldenzaal.nl
+mijn.ommen.nl
 mijnaanvraagzi.beuningen.nl
 mijnacc.montfoort.nl
 mijnacpt.haarlem.nl
@@ -6079,6 +6089,7 @@ omgevingswet.deventer.nl
 omgevingswet.gemeentemaashorst.nl
 omgevingswet.heemskerk.nl
 omgevingswet.meierijstad.nl
+ommen.nl
 omslagroute.amsterdam.nl
 onboarden.haarlemmermeer.nl
 onboardingambulancezorg.denhaag.nl
@@ -6223,6 +6234,7 @@ openpdc.hollandskroon.nl
 openpdc.lansingerland.nl
 openpdc.leiden.nl
 openpdc.noordwijk.nl
+openpdc.ommen.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.arnhem.nl
@@ -6239,6 +6251,7 @@ openpub.hollandskroon.nl
 openpub.lansingerland.nl
 openpub.leiden.nl
 openpub.noordwijk.nl
+openpub.ommen.nl
 openstad.apeldoorn.nl
 openstad.deventer.nl
 openstad.emmen.nl
@@ -6693,6 +6706,7 @@ preprod-belastingportaal.hilvarenbeek.nl
 preprod-belastingportaal.oisterwijk.nl
 preprod-broker.buren.nl
 preprod-burgerportaal.hardenberg.nl
+preprod-burgerportaal.ommen.nl
 preprod-edienstaanvragensd.defryskemarren.nl
 preprod-ediensten-sociaaldomein.denhelder.nl
 preprod-edienstensociaaldomein.heerenveen.nl
@@ -9677,6 +9691,7 @@ www.ombudsman.denhaag.nl
 www.ombudsman.nijmegen.nl
 www.omgevingsvisie.denhaag.nl
 www.omgevingsvisie.hilversum.nl
+www.ommen.nl
 www.ondernemen.ede.nl
 www.ondernemersportaal.denhaag.nl
 www.ondersteuning.olst-wijhe.nl
@@ -9978,6 +9993,7 @@ zaaksysteem-accept.maassluis.nl
 zaaksysteem-accept.middendelfland.nl
 zaaksysteem-accept.moerdijk.nl
 zaaksysteem-accept.noordwijk.nl
+zaaksysteem-accept.ommen.nl
 zaaksysteem.eindhoven.nl
 zaaksysteem.hilversum.nl
 zaaksysteem.maassluis.nl

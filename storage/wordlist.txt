@@ -37,13 +37,13 @@ portal
 pv
 parkeren
 ruimtelijkeplannen
+zaaksysteem-accept
 betalen
 gemeenteraad
 testeloket
 iparticipatie
 vpn
 werkenbij
-zaaksysteem-accept
 enterpriseenrollment
 test-ipa
 raad
@@ -52,23 +52,23 @@ meldingen-acc
 omgevingsvisie
 dacceptatieloket
 dacceptatiemidoffice
+openpdc
 osb
 belastingen
 dloket
 dmidoffice
-openpdc
 login
 belastingbalie
+openpub
 kaart
 remote
 data
-openpub
 flowmailer-tracking
 hybrid
+berichten
 formulier
 cmsoo
 zaken
-berichten
 enterpriseregistration
 cloudadapter-test
 digikoppeling-test
@@ -369,6 +369,7 @@ nieuwsbrieven
 ombudsman
 top
 woz
+digitaleplannen
 e-loket
 geotest
 werk
@@ -454,6 +455,7 @@ grondwater
 vergunningen
 socialekaart
 mx2
+burgerportaal
 raadsinformatie
 duo
 stemvan
@@ -507,6 +509,7 @@ nac
 start
 3d
 apex
+diensten
 iam
 ingesprek
 kavels
@@ -564,7 +567,6 @@ www.onderzoek
 www.ruimtelijkeplannen
 www.sport
 cc
-digitaleplannen
 fm
 gpa
 mo
@@ -709,7 +711,6 @@ redirect
 welkom
 www.belastingbalie
 antispam
-burgerportaal
 mediabank
 mijnsubsidie
 cmsoo.gemeente
@@ -774,6 +775,7 @@ portaltest
 testmijn
 testzaken
 ons
+preprod-burgerportaal
 zwemles
 webkassa
 bzg1-acc
@@ -919,7 +921,6 @@ almerepoort
 apint
 apint2
 connect-preprod
-diensten
 digitaalerfgoed
 eloketstaging
 enterpriseone-dv
@@ -4097,7 +4098,6 @@ www2.testformulieren
 halbox
 halnet
 samenwijzer
-preprod-burgerportaal
 tunnel
 vdi-uitwijk
 woz-loket-accept
