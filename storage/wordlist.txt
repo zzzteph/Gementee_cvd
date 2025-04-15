@@ -40,13 +40,13 @@ omgevingsvisie
 parkeren
 pv
 raad
+ruimtelijkeplannen
 openpdc
 vpn
 werkenbij
 zaaksysteem-accept
 testeloket
 data
-ruimtelijkeplannen
 osb
 enterpriseenrollment
 dacceptatieloket
@@ -104,6 +104,7 @@ test-cmsintranet
 e
 kennisbank
 portaal
+simform
 verkiezingen
 preprod
 snelbaliepp
@@ -114,13 +115,13 @@ parkeren-acc
 acc-podiumd-logs
 bgt
 podiumd-logs
+sip
 belastingloket
 mdm
 dtestmidoffice
 jaarstukken
 cmsintranet
 belastingportaal
-simform
 gisib
 subsidies
 qr
@@ -138,7 +139,6 @@ acc-openklant
 acc-openzaak
 keycloak
 objecten
-sip
 sts
 meedoen
 byod
@@ -160,6 +160,7 @@ documenten
 preprodbroker
 denkmee
 web
+wachtwoord
 www.werkenbij
 subsidies-backend
 afvalkalender
@@ -176,6 +177,8 @@ gis
 woo
 bag
 bastion365
+lyncdiscover
+meet
 notificaties
 objecttypen
 openformulieren
@@ -204,7 +207,6 @@ college
 praatmee
 preprod-mijn
 izaaksuite
-wachtwoord
 zoeken
 subsidie
 maps
@@ -226,9 +228,9 @@ mijngeldzaken
 ns1
 opendata
 rooster
+sslvpn
 afval
-lyncdiscover
-meet
+bis
 owa
 test-mijn
 fmreturn
@@ -305,10 +307,9 @@ top
 e-loket
 gbi
 geotest
-sslvpn
 www.mijn
 www.raad
-bis
+dialin
 media
 test-formulier
 test-keycloak
@@ -373,6 +374,7 @@ www.portal
 gateway
 sbc01
 cloudadapter-prod
+lyncweb
 sera
 belastingportaal.acc
 inloggen.belastingportaal
@@ -465,7 +467,6 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
-dialin
 vastgoed
 loket-acc
 beeldbank-bo
@@ -542,6 +543,7 @@ subsidies-login.acceptatie
 subsidies-login
 preprod-mijnportaal
 datatest
+topdesk
 geoservices
 huisvuilkalender
 kennisportaal
@@ -557,6 +559,7 @@ cloudadapter-t
 test.digikoppeling
 vsp
 ondernemersloket
+rdweb
 sbc
 forms
 mijnloket
@@ -601,6 +604,7 @@ pip-test
 stemvan
 www.gemeente
 www.mobile
+gbionline
 geoportaaltest
 squit2gotest
 zoek
@@ -623,6 +627,7 @@ www.kaarten
 www.mdm
 de
 ucconf01
+ucweb01-ext
 aaa
 preprod-belastingportaal
 trobit
@@ -634,7 +639,7 @@ rekentool
 mijnintranet
 gemeentebestuur
 lynccon
-lyncweb
+fortinet
 officewebapps
 portaltest
 zwemles
@@ -2330,7 +2335,6 @@ storefronttest
 sv11961
 sv12701
 sv18046
-topdesk
 www.archief
 zgt.lev
 AutoDiscover.uitwijk
@@ -2764,7 +2768,6 @@ beheer-trefpunt
 bros-academie
 da
 mijnkaart
-rdweb
 scim
 test-trefpunt
 trefpunt
@@ -3094,7 +3097,6 @@ afspraakmakentest
 bodemdossier-t
 bodemdossier
 directduidelijk.openstad
-gbionline
 gbionlinetest
 geobrowser
 glanerbrug.openstad
@@ -3471,7 +3473,6 @@ marketingtools
 test-meedoen
 ucaccess01
 ucc01
-ucweb01-ext
 www.marketingtools
 acc-afvalkalender
 grmks01
@@ -3923,7 +3924,6 @@ dns
 email.security
 etl
 fortigate
-fortinet
 geoanalytics
 geocatalogus
 geoservertest
@@ -4316,3 +4316,19 @@ open-formulieren-test
 preprod-belastingen
 raster
 zwembad
+bekendmakingen
+cmsinsite
+gbit
+gisdata
+insite
+lyncaccess
+lyncrp
+pre-formulieren
+pre-simform
+sfbaccess
+sfbwebconf
+test-cmsinsite
+test-insite
+veilig
+videodocs
+webconnector
