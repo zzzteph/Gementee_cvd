@@ -9,8 +9,8 @@ intranet
 mail
 mijn
 simsite
-webmail
 afspraken
+webmail
 digikoppeling
 preproductie
 secure
@@ -24,9 +24,9 @@ test
 meldingen
 portal
 acc
+eloket
 dkd
 werkplek
-eloket
 waarmerk
 afspraak
 adfs
@@ -40,13 +40,13 @@ omgevingsvisie
 parkeren
 pv
 raad
+osb
 vpn
+testeloket
 ruimtelijkeplannen
 openpdc
-osb
 werkenbij
 zaaksysteem-accept
-testeloket
 data
 iparticipatie
 enterpriseenrollment
@@ -75,6 +75,7 @@ mijninkomen
 belastingbalie
 extranet
 mijnzorg
+osbacc
 piwik
 preprod-mijninkomen
 snelbalie
@@ -90,7 +91,6 @@ test-intranet
 kaarten
 connect
 vergunningintaker
-osbacc
 parkeren-test
 kaart
 apps
@@ -220,6 +220,7 @@ onderzoek
 vdi
 www.test
 atlas
+jcc
 werkenvoor
 api
 api.betalen
@@ -300,7 +301,6 @@ bewustwording
 magazine
 mail2
 wion
-jcc
 bouwdossiers
 hor
 magazines
@@ -367,6 +367,7 @@ woz-portaal
 afspraakmaken
 www.intranet
 mx1
+aeolus
 squit2020publiceren
 duo
 contact
@@ -595,7 +596,6 @@ vergunningintaker.preprod
 mx2
 welkom
 www.belastingbalie
-aeolus
 antispam
 burgerportaal
 mediabank
@@ -4350,3 +4350,10 @@ testcms-inhuiz
 testinhuiz
 trainersportaal
 trainingsformulier
+gijs-acc
+gijs
+gijscms-acc
+gijscms
+hybrid1
+hybrid2
+sociaaldomein-acc
