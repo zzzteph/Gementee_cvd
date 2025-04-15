@@ -3,11 +3,11 @@ www
 autodiscover
 iburgerzaken
 ibzpink
-edienstenburgerzaken
 intranet
+edienstenburgerzaken
 edienstenburgerzaken-test
-afspraken
 simsite
+afspraken
 webmail
 mijn
 mail
@@ -31,23 +31,23 @@ afspraak
 adfs
 api.meldingen
 broker
-geo
 waarmerk
+geo
 portal
 pv
 ruimtelijkeplannen
 parkeren
+iparticipatie
 vpn
 zaaksysteem-accept
 betalen
 gemeenteraad
 testeloket
-iparticipatie
+test-ipa
 werkenbij
 enterpriseenrollment
 api.meldingen-acc
 meldingen-acc
-test-ipa
 raad
 dacceptatieloket
 dacceptatiemidoffice
@@ -88,9 +88,11 @@ osbacc
 parkeren-test
 piwik
 subsidies
+financien
 extranet
 doemee
 www.webmail
+kaarten
 filecap
 connect
 vergunningintaker
@@ -98,7 +100,6 @@ verkiezingen
 mijninkomen
 snelbalie
 preprod
-financien
 apps
 gemeente
 acc-formulier
@@ -107,7 +108,6 @@ podiumd-logs
 belastingloket
 samen
 simcms-open
-kaarten
 dtestmidoffice
 jaarstukken
 inloggen
@@ -133,6 +133,7 @@ keycloak
 objecten
 klantcontact
 squit2go
+begroting
 transfer
 testloket
 cmsintranet
@@ -160,7 +161,6 @@ AutoDiscover
 connect.acceptatie
 contentbeheer
 bor
-begroting
 _autodiscover._tcp
 simform
 web
@@ -173,6 +173,7 @@ owa
 sip
 test-digikoppeling
 meedoen
+iarchief
 micollab
 uc
 mobile
@@ -182,9 +183,11 @@ zaken.acceptatie
 inproces.acceptatie
 inproces
 internetafspraken
+squit2020
 midoffice
 documenten
 gisib
+izaaksuite
 veiligdelen
 servicedesk
 subsidie
@@ -202,7 +205,6 @@ bag
 byod
 fmreturn
 guest
-iarchief
 publicroam
 jccapi
 mijnsociaalplein
@@ -211,9 +213,9 @@ data-test
 xential
 cryptshare
 outlook
-squit2020
 contact
 liquit
+www.portal
 handhaving
 fs
 mijnzorg-acc
@@ -221,7 +223,6 @@ participatie
 raadsnet
 college
 preprod-mijn
-izaaksuite
 www.werkenbij
 zoeken
 geodata
@@ -269,6 +270,7 @@ img.openstad
 bestanden
 squit2020.acceptatie
 woz-portaal
+afspraakmaken
 www.intranet
 testbelastingloket
 aeolus
@@ -276,7 +278,6 @@ zaaksysteem
 e.openstad
 en
 ibabs
-www.portal
 mijnsociaaldomein
 gateway
 www2
@@ -330,7 +331,6 @@ filetransfer
 acceptatie-open
 eformulieren
 academie
-afspraakmaken
 kcc
 mx1
 squit2020publiceren
@@ -373,6 +373,7 @@ ombudsman
 top
 digitaleplannen
 e-loket
+digid
 geotest
 werk
 www.mijn
@@ -575,7 +576,6 @@ ndes
 parkeerapp
 smartdoc
 tijdschrijven
-digid
 leerplein
 ns2
 old
@@ -783,6 +783,7 @@ ons
 preprod-burgerportaal
 zwemles
 webkassa
+mijn-preproductie
 subsidies-backend-test
 subsidies-test
 bzg1-acc
@@ -4136,7 +4137,6 @@ tradities
 samenwerkenaan
 zorgvraag
 edienstensociaaldomein
-mijn-preproductie
 preprod-edienstensociaaldomein
 pubgov
 standplaatsen
@@ -5156,3 +5156,17 @@ uag1
 vrijwilligerswerk-oostgelre
 wabo
 www.mob
+iobjects
+nlwmoosw
+smtp10
+smtp20
+stempasfonds
+stwapp02
+stwidocosw02
+stwmksoost01
+talentenbank
+www.afspraakmaken
+www.iarchief
+www.stempasfonds
+www.stwidocosw02
+www.talentenbank
