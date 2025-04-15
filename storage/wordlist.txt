@@ -32,8 +32,8 @@ acc
 geo
 broker
 afspraak
-api.meldingen
 open
+api.meldingen
 betalen
 gemeenteraad
 pv
@@ -155,6 +155,7 @@ midoffice
 denkmee
 gisib
 web
+dali
 qr
 jcc
 legacy
@@ -188,9 +189,9 @@ wachtwoord
 www.werkenbij
 subsidie
 melddesk
+website
 afvalkalender
 api.openstad
-dali
 gemeentearchief
 ro-online
 www.duurzaam
@@ -246,7 +247,6 @@ subsidies.acceptatie
 belastingbalie-test
 maps
 thuiswerken
-website
 cms
 onderzoek
 www.test
@@ -723,6 +723,11 @@ vacatures
 preprod-meedoen
 cars
 dms
+aanvragenpreprod
+aanvragenprod
+acceptatie-mobiliteitsplan
+bouwarchief
+edienstenpreprod
 wijkteam
 access
 open-formulieren-test
@@ -4254,11 +4259,6 @@ vicrea
 vinden
 wmoloket
 www.cars
-aanvragenpreprod
-aanvragenprod
-acceptatie-mobiliteitsplan
-bouwarchief
-edienstenpreprod
 hillegom-checker-preprod
 acceptatie.hilvernet
 hilvernet
@@ -4702,3 +4702,6 @@ nat
 simcms-klimaatbestendig
 vlindernet
 www.belastingloket
+lisse-checker-preprod
+mobiliteitsplan
+website.acceptatie
