@@ -2241,6 +2241,7 @@ https://iburgerzaken.kerkrade.nl
 https://iburgerzaken.koggenland.nl
 https://iburgerzaken.laarbeek.nl
 https://iburgerzaken.landsmeer.nl
+https://iburgerzaken.laren.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2537,6 +2538,7 @@ https://landsmeer.nl
 https://landvancuijk.nl
 https://langenboom.landvancuijk.nl
 https://lansingerland.nl
+https://laren.nl
 https://ld-01.hellevoetsluis.nl
 https://ledeacker.landvancuijk.nl
 https://leerlingzaken.denhaag.nl
@@ -4501,6 +4503,7 @@ https://www.laarbeek.nl
 https://www.landsmeer.nl
 https://www.landvancuijk.nl
 https://www.lansingerland.nl
+https://www.laren.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl

@@ -12,8 +12,8 @@ simsite
 webmail
 mijn
 secure
-preproductie
 digikoppeling
+preproductie
 simcms
 acceptatie
 probeer
@@ -99,6 +99,7 @@ test-cmsintranet
 vergunningintaker
 parkeren-test
 preprod
+digikoppeling.test
 email
 gemeente
 nieuwsbrief
@@ -119,7 +120,6 @@ simform
 mailing
 snelbaliepp
 siam
-digikoppeling.test
 openzaak
 acc-contact
 acc-formulier
