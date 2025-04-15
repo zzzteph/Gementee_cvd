@@ -23,8 +23,8 @@ formulieren
 werkplek
 meldingen
 eloket
-dkd
 test
+dkd
 waarmerk
 adfs
 api.meldingen
@@ -42,13 +42,13 @@ parkeren
 test-ipa
 vpn
 raad
+zaaksysteem-accept
 omgevingsvisie
 api.meldingen-acc
 meldingen-acc
 openpdc
 osb
 werkenbij
-zaaksysteem-accept
 enterpriseenrollment
 testeloket
 dacceptatieloket
@@ -76,6 +76,7 @@ loket.acceptatie
 acc-broker
 woningbouwkaart
 enterpriseregistration
+digikoppeling.test
 cloudadapter
 govroam
 dtestloket
@@ -83,7 +84,6 @@ osbacc
 mijninkomen
 piwik
 duurzaam
-digikoppeling.test
 mks
 extranet
 test-intranet
