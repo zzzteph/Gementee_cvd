@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-simsite
 afspraken
+simsite
 webmail
 mijn
 mail
@@ -20,15 +20,15 @@ probeer
 loket
 felix
 formulieren
-eloket
 dkd
+eloket
 meldingen
-werkplek
 test
+werkplek
 open
+adfs
 portal
 acc
-adfs
 afspraak
 api.meldingen
 geo
@@ -36,8 +36,8 @@ broker
 waarmerk
 pv
 ruimtelijkeplannen
-iparticipatie
 raad
+iparticipatie
 vpn
 betalen
 test-ipa
@@ -51,15 +51,15 @@ dacceptatieloket
 dacceptatiemidoffice
 api.meldingen-acc
 meldingen-acc
+openpdc
 belastingen
 dloket
 dmidoffice
-openpdc
 osb
+openpub
 omgevingsvisie
 belastingbalie
 loket.acceptatie
-openpub
 enterpriseregistration
 zaken
 login
@@ -84,6 +84,7 @@ woningbouwkaart
 cloudadapter
 govroam
 dtestloket
+kaarten
 connect
 portaal
 verkiezingen
@@ -95,7 +96,6 @@ test-intranet
 pki
 doemee
 www.webmail
-kaarten
 filecap
 vergunningintaker
 denkmee
@@ -106,6 +106,7 @@ subsidies
 snelbalie
 gemeente
 jaarstukken
+squit2go
 preprod-mijninkomen
 mailing
 qr
@@ -119,7 +120,6 @@ simcms-open
 mdm
 dtestmidoffice
 inloggen
-squit2go
 contentbeheer
 begroting
 internetafspraken
@@ -279,6 +279,7 @@ ondernemersloket
 admin.openstad
 auth.openstad
 img.openstad
+filetransfer
 acceptatie-open
 bestanden
 squit2020.acceptatie
@@ -349,7 +350,6 @@ mijnzaken
 vth
 www.openstad
 openformulieren-test
-filetransfer
 eformulieren
 academie
 mx1
@@ -733,6 +733,8 @@ www.financielestukken
 gisweb
 parkeren-siam-test
 parkeren-siam
+preprod-sociaalportaal
+sociaalportaal
 centric
 test-digikoppelingadapter
 router
@@ -795,6 +797,7 @@ belastingen-test
 ucconf01
 ucweb01-ext
 aaa
+squitxo
 vergaderingen
 trobit
 stats
@@ -845,6 +848,7 @@ ubwtest
 preprod-meedoen
 e2s
 parkeerproducten
+siem
 wozportaal
 dms
 return
@@ -3019,9 +3023,7 @@ parkeeracties-test
 parkeeracties
 site
 training
-preprod-sociaalportaal
 serverruimte
-sociaalportaal
 felixpdc
 menscentraal
 sim-prefill
@@ -3595,7 +3597,6 @@ testparkeren
 acceptatie.oranjeplein
 jvs
 oranjeplein
-squitxo
 squitxotest
 vergaderingen.acceptatie
 vergaderingen.test
@@ -4267,7 +4268,6 @@ kluis
 provconnect
 roemte
 securewifi
-siem
 siem2
 test-cmsextranet
 test-extranet
@@ -5371,3 +5371,14 @@ www.testeloket
 www.vibe
 www.zmm
 openagenda
+jcc-api
+mksora
+nieuwbouwzwembad
+omgevingsdocumenten
+persportaal
+pw-specificatie
+safenet
+sportenbeweeg
+squit2go-test
+taxivooriedereen
+timetell
