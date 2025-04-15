@@ -86,7 +86,9 @@ test-intranet
 pki
 osbacc
 parkeren-test
+subsidies
 extranet
+doemee
 www.webmail
 filecap
 connect
@@ -94,7 +96,6 @@ vergunningintaker
 verkiezingen
 mijninkomen
 piwik
-subsidies
 snelbalie
 preprod
 financien
@@ -103,7 +104,6 @@ gemeente
 belastingloket
 samen
 simcms-open
-doemee
 kaarten
 dtestmidoffice
 jaarstukken
@@ -129,6 +129,7 @@ belastingportaal
 preprodbroker
 e
 kennisbank
+subsidies-backend
 dali
 snelbaliepp
 siam
@@ -155,11 +156,11 @@ smtp
 AutoDiscover
 connect.acceptatie
 contentbeheer
+bor
 begroting
 _autodiscover._tcp
 simform
 web
-subsidies-backend
 jcc
 ftp
 openstad
@@ -177,7 +178,6 @@ mobile
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
-bor
 inproces.acceptatie
 inproces
 internetafspraken
@@ -252,6 +252,7 @@ support
 uca
 intranet-acc
 intranetcms
+www.doemee
 rap
 citrix
 omgevingswet
@@ -259,6 +260,7 @@ programmabegroting
 mobiel
 key2gbav
 test-secure
+subsidies-login
 archief
 admin.openstad
 auth.openstad
@@ -303,7 +305,6 @@ publicaties
 simcms-preproductie
 formulieren-test
 wifi
-www.doemee
 www.gemeenteraad
 acc.piwik
 extern
@@ -316,7 +317,6 @@ aanmelden
 dkdtest
 woz-loket
 subsidies-login.acceptatie
-subsidies-login
 sport
 filr
 mijnzaken
@@ -332,6 +332,7 @@ kcc
 mx1
 squit2020publiceren
 geoportaal
+acceptatie-intranet
 sbc01
 cloudadapter-prod
 m
@@ -465,7 +466,6 @@ gemeentewinkel
 www.login
 beeldbankbeheer
 www.werkplek
-acceptatie-intranet
 de
 preprod-belastingportaal
 online
@@ -778,6 +778,8 @@ ons
 preprod-burgerportaal
 zwemles
 webkassa
+subsidies-backend-test
+subsidies-test
 bzg1-acc
 digitaal
 key2datadistributie
@@ -4136,9 +4138,7 @@ mijn-preproductie
 preprod-edienstensociaaldomein
 pubgov
 standplaatsen
-subsidies-backend-test
 subsidies-login-test
-subsidies-test
 193-203-220-7
 193-203-220-9
 acc-eformulier
@@ -5114,3 +5114,23 @@ mijnleefomgeving
 www.mijnkijkop
 www.mijnleefomgeving
 www.ondersteuning
+admin.regiomonitor-acc
+apis.regiomonitor-acc
+bor.test
+cognos-oth
+dev
+idinloggen
+idinloggenpre
+import.regiomonitor-acc
+infoplein
+koo
+login.regiomonitor-acc
+ontology.regiomonitor-acc
+plugin.regiomonitor-acc
+regiomonitor-acc
+sportbedrijf
+sts.regiomonitor-acc
+subsidies-test-login
+webkassa.sportbedrijf
+webmail.koo
+www.webkassa.sportbedrijf
