@@ -6,19 +6,19 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
+simsite
 afspraken
 webmail
-simsite
-mijn
 mail
+mijn
 digikoppeling
 preproductie
 secure
-acceptatie
 simcms
+acceptatie
 probeer
-loket
 felix
+loket
 formulieren
 werkplek
 eloket
@@ -26,9 +26,9 @@ meldingen
 test
 dkd
 adfs
+afspraak
 open
 acc
-afspraak
 api.meldingen
 geo
 waarmerk
@@ -43,12 +43,12 @@ zaaksysteem-accept
 gemeenteraad
 iparticipatie
 raad
+enterpriseenrollment
 testeloket
 test-ipa
-enterpriseenrollment
+osb
 api.meldingen-acc
 meldingen-acc
-osb
 omgevingsvisie
 belastingen
 openpdc
@@ -68,10 +68,10 @@ remote
 zaken
 kaart
 berichten
+enterpriseregistration
 formulier
 cmsoo
 digikoppeling-test
-enterpriseregistration
 beeldbank
 loket.acceptatie
 acc-broker
@@ -79,13 +79,13 @@ woningbouwkaart
 cloudadapter
 govroam
 test-intranet
+osbacc
 parkeren-test
 duurzaam
 digikoppeling.test
 mks
 extranet
 dtestloket
-osbacc
 mijninkomen
 piwik
 financien
@@ -154,6 +154,7 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
+bastion365
 keycloak
 objecten
 sip
@@ -181,10 +182,10 @@ gis
 openstad
 woo
 bag
-bastion365
 notificaties
 objecttypen
 openklant
+owa
 byod
 fmreturn
 guest
@@ -229,7 +230,6 @@ afval
 lyncdiscover
 meet
 openformulieren
-owa
 test-digikoppeling
 jccapi
 uca
@@ -239,6 +239,7 @@ rap
 omgevingswet
 mobiel
 key2gbav
+test-secure
 internetafspraken
 bestanden
 squit2020
@@ -246,6 +247,7 @@ aeolus
 ibabs
 liquit
 mijnsociaaldomein
+gateway
 handhaving
 loket.test
 www.acceptatie
@@ -260,6 +262,7 @@ cms
 onderzoek
 www.test
 atlas
+_dmarc
 api
 beheer
 parkeervergunning
@@ -292,7 +295,6 @@ nieuws
 citrix
 aanmelden
 programmabegroting
-test-secure
 woz-loket
 bor
 subsidies-login.acceptatie
@@ -320,7 +322,6 @@ contact
 geoportaal
 en
 www.portal
-gateway
 sbc01
 cloudadapter-prod
 www2
@@ -347,7 +348,6 @@ mozardtest
 bewustwording
 mail2
 wion
-_dmarc
 bouwdossiers
 hor
 id
@@ -555,6 +555,7 @@ acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
 vastgoed
+awmag
 geoserver
 accdrop
 nhr
@@ -2081,7 +2082,6 @@ www.mijnplein
 www.organisatieontwikkeling
 www.slimbereikbaar
 www.vastgoed
-awmag
 deschop.acceptatie
 deschop
 dk
@@ -4872,3 +4872,7 @@ mintra
 services-test
 intraweb
 telewerkentest
+awmail
+awtunnel
+exch
+huisnet
