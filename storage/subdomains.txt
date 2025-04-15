@@ -594,6 +594,7 @@ afspraak.lopik.nl
 afspraak.maassluis.nl
 afspraak.moerdijk.nl
 afspraak.nederweert.nl
+afspraak.nijkerk.eu
 afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
 afspraakmaken.gemert-bakel.nl
@@ -967,6 +968,7 @@ auth.gemeentestein.nl
 auth.haarlem.nl
 auth.leeuwarden.nl
 auth.lelystad.nl
+auth.nijkerk.eu
 auth.openstad.deventer.nl
 auth.openstad.enschede.nl
 auth.openstad.gemeentewestland.nl
@@ -2347,6 +2349,7 @@ dkd.leeuwarden.nl
 dkd.lelystad.nl
 dkd.meierijstad.nl
 dkd.nederweert.nl
+dkd.nijkerk.eu
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdservice-test.meppel.nl
@@ -2438,6 +2441,7 @@ doesburg.nl
 doetinchem.nl
 doewatmoet-acc.denhaag.nl
 dok.dronten.nl
+domain-admin.nijkerk.eu
 dongen.nl
 dordrecht.nl
 download.castricum.nl
@@ -2659,6 +2663,7 @@ edienstenburgerzaken-test.meierijstad.nl
 edienstenburgerzaken-test.meppel.nl
 edienstenburgerzaken-test.nederweert.nl
 edienstenburgerzaken-test.nieuwegein.nl
+edienstenburgerzaken-test.nijkerk.eu
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2734,6 +2739,7 @@ edienstenburgerzaken.meierijstad.nl
 edienstenburgerzaken.meppel.nl
 edienstenburgerzaken.nederweert.nl
 edienstenburgerzaken.nieuwegein.nl
+edienstenburgerzaken.nijkerk.eu
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2819,6 +2825,7 @@ eloket.meerssen.nl
 eloket.meppel.nl
 eloket.middelburg.nl
 eloket.midden-groningen.nl
+eloket.nijkerk.eu
 eloket.preprod.leudal.nl
 eloketstaging.almere.nl
 elokettest.bloemendaal.nl
@@ -3050,6 +3057,7 @@ felix.maassluis.nl
 felix.middendelfland.nl
 felix.mookenmiddelaar.nl
 felix.nederweert.nl
+felix.nijkerk.eu
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
 festivals.landvancuijk.nl
@@ -4288,6 +4296,7 @@ intranet.middendelfland.nl
 intranet.montferland.info
 intranet.mookenmiddelaar.nl
 intranet.nieuwkoop.nl
+intranet.nijkerk.eu
 intranet.raadsinformatie.amsterdam.nl
 intranet2.gulpen-wittem.nl
 intranetacc.apeldoorn.nl
@@ -4720,6 +4729,7 @@ logilinkGBA.emmen.nl
 logilinkgba.emmen.nl
 login-accept.maximaaljezelf.groningen.nl
 login-pre.mookenmiddelaar.nl
+login-pre.nijkerk.eu
 login.acc.denhaag.nl
 login.alphenaandenrijn.nl
 login.bergen.nl
@@ -4739,6 +4749,7 @@ login.maximaaljezelf.groningen.nl
 login.meerssen.nl
 login.mookenmiddelaar.nl
 login.nieuwegein.nl
+login.nijkerk.eu
 login.subsidie.leiden.nl
 logoff.ede.nl
 lois-acc.losser.nl
@@ -5538,6 +5549,7 @@ nieuwsbrieven.gorinchem.nl
 nieuwsbrieven.hengelo.nl
 nieuwwest.amsterdam.nl
 nige.denhaag.nl
+nijkerk.eu
 nip.brummen.nl
 niptest.brummen.nl
 nlgembek.gemeentebeek.nl
@@ -6129,6 +6141,7 @@ pki.heiloo.nl
 pki.heumen.nl
 pki.laarbeek.nl
 pki.landgraaf.nl
+pki.nijkerk.eu
 pkio1.cranendonck.nl
 pkio1.heeze-leende.nl
 pkoppelcorsa.kerkrade.nl
@@ -6390,6 +6403,7 @@ preproductie.montferland.info
 preproductie.mookenmiddelaar.nl
 preproductie.nederweert.nl
 preproductie.nieuwkoop.nl
+preproductie.nijkerk.eu
 preproductiebroker.gemeentewesterveld.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
@@ -6439,6 +6453,7 @@ probeer.middendelfland.nl
 probeer.mookenmiddelaar.nl
 probeer.nederweert.nl
 probeer.nieuwkoop.nl
+probeer.nijkerk.eu
 prod.drechterland.nl
 prod.enkhuizen.nl
 product.leiden.nl
@@ -6850,10 +6865,12 @@ secure.molenlanden.nl
 secure.montferland.info
 secure.nederweert.nl
 secure.nieuwkoop.nl
+secure.nijkerk.eu
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
 securemail.borne.nl
+securenetwork.nijkerk.eu
 secureweb.landgraaf.nl
 securewifi.hethogeland.nl
 seg.leudal.nl
@@ -6936,6 +6953,7 @@ siam.denhelder.nl
 siam.doetinchem.nl
 siam.drimmelen.nl
 siam.gooisemeren.nl
+siam.nijkerk.eu
 siamtest.bunnik.nl
 sibp01.lelystad.nl
 sibt01.lelystad.nl
@@ -7019,6 +7037,7 @@ simcms.middendelfland.nl
 simcms.mookenmiddelaar.nl
 simcms.nederweert.nl
 simcms.nieuwkoop.nl
+simcms.nijkerk.eu
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -7092,6 +7111,7 @@ simsite.montferland.info
 simsite.mookenmiddelaar.nl
 simsite.nederweert.nl
 simsite.nieuwkoop.nl
+simsite.nijkerk.eu
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -7505,6 +7525,7 @@ tcorsa.kerkrade.nl
 tcorsa.landgraaf.nl
 td.gemeentehulst.nl
 teamplan.huizen.nl
+teams.nijkerk.eu
 techniek.landvancuijk.nl
 telecom.apeldoorn.nl
 telefoon.gemeentehw.nl
@@ -7737,6 +7758,7 @@ testeloket.lelystad.nl
 testeloket.meerssen.nl
 testeloket.meppel.nl
 testeloket.midden-groningen.nl
+testeloket.nijkerk.eu
 testformulieren.bodegraven-reeuwijk.nl
 testformulieren.haarlemmermeer.nl
 testinhuiz.huizen.nl
@@ -7810,6 +7832,7 @@ tmakelaar.kerkrade.nl
 toegang.aalten.nl
 toegang.eindhoven.nl
 toegang.groningen.nl
+toegang.nijkerk.eu
 toegang.noord.amsterdam.nl
 toegang3.denhaag.nl
 toegang4.denhaag.nl
@@ -8324,6 +8347,7 @@ weer.landvancuijk.nl
 weesp.acc.meldingen.amsterdam.nl
 weesp.amsterdam.nl
 weespbegroot.amsterdam.nl
+wegwijzer.nijkerk.eu
 welbo.alphenaandenrijn.nl
 welbotest.alphenaandenrijn.nl
 welkom.ede.nl
@@ -9076,6 +9100,7 @@ www.nieuwegein.nl
 www.nieuwkoop.nl
 www.nieuwsbrief.enschede.nl
 www.nieuwwest.amsterdam.nl
+www.nijkerk.eu
 www.noordzuidlijn.amsterdam.nl
 www.oco.eindhoven.nl
 www.oefenenmetstemmen.denhaag.nl
@@ -9264,6 +9289,7 @@ www.webmail.meerssen.nl
 www.webvpn.gemeentehulst.nl
 www.webwinkel.landvancuijk.nl
 www.weespbegroot.amsterdam.nl
+www.wegwijzer.nijkerk.eu
 www.werkaandewijk.denhaag.nl
 www.werkenbij.alkmaar.nl
 www.werkenbij.amsterdam.nl
