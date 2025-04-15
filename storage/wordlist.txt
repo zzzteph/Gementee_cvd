@@ -9,11 +9,11 @@ intranet
 mail
 simsite
 afspraken
-mijn
 webmail
-digikoppeling
+mijn
 preproductie
 secure
+digikoppeling
 simcms
 acceptatie
 probeer
@@ -21,19 +21,19 @@ loket
 felix
 formulieren
 test
+eloket
 portal
 acc
-eloket
 waarmerk
 meldingen
 dkd
 werkplek
 afspraak
-adfs
 geo
+adfs
+open
 pv
 gemeenteraad
-open
 api.meldingen
 broker
 parkeren
@@ -75,13 +75,13 @@ woningbouwkaart
 cloudadapter-test
 osbacc
 mijninkomen
+piwik
 mks
 acc-broker
 extranet
 govroam
 connect
 mijnzorg
-piwik
 preprod-mijninkomen
 snelbalie
 duurzaam
@@ -94,6 +94,7 @@ test-intranet
 dtestloket
 kaarten
 vergunningintaker
+verkiezingen
 parkeren-test
 preprod
 email
@@ -108,7 +109,6 @@ e
 kennisbank
 portaal
 simform
-verkiezingen
 mailing
 snelbaliepp
 siam
@@ -133,6 +133,7 @@ qr
 legacy
 openzaak
 openstad
+woo
 acc-contact
 acc-formulier
 acc-keycloak
@@ -174,18 +175,19 @@ web
 wachtwoord
 www.werkenbij
 subsidies-backend
+melddesk
 afvalkalender
 api.openstad
 gemeentearchief
 ro-online
 www.duurzaam
 ns
+ftp
 sharefile
 telewerken
 www.acc
 auth
 gis
-woo
 afval
 bag
 lyncdiscover
@@ -224,7 +226,6 @@ zoeken
 makelaar
 subsidie
 maps
-melddesk
 thuiswerken
 cms
 dali
@@ -238,7 +239,6 @@ werkenvoor
 api
 api.betalen
 evenementen
-ftp
 parkeervergunningen
 desktop
 mijngeldzaken
@@ -263,6 +263,7 @@ extern
 jongin
 rap
 citrix
+aanmelden
 omgevingswet
 key2gbav
 ro
@@ -313,6 +314,7 @@ mail2
 wion
 bouwdossiers
 hor
+id
 magazines
 nieuwsbrieven
 parkeervergunning
@@ -350,7 +352,6 @@ mam
 2secure
 erfgoed
 matomo
-aanmelden
 programmabegroting
 carel
 cognos
@@ -455,7 +456,6 @@ dataportaal
 docgen
 edison
 ggd
-id
 iga
 mas
 melding
@@ -472,6 +472,7 @@ www.ggd
 www.onderzoek
 www.ruimtelijkeplannen
 digitaleplannen
+fm
 gpa
 mo
 ndes
@@ -547,6 +548,7 @@ logilink
 mor
 ssd
 suite4burgerzaken-test
+test-eloket
 test-secure
 uitwijk
 mbg
@@ -559,6 +561,7 @@ squit2go-backoffice
 webcon
 pkio1
 grooster
+idtst
 ris
 inproces.test
 suite4burgerzaken-prod
@@ -602,6 +605,7 @@ klantportaal.acc
 prod
 academie
 mobility
+grondwater
 vergunningen
 www.zorgloket
 mta-sts
@@ -672,6 +676,7 @@ digitaal
 teleweb
 preprod-meedoen
 cars
+dms
 wijkteam
 digitaalloket
 webapps
@@ -1895,7 +1900,6 @@ diko
 energiepunt
 financials-acc
 financials
-fm
 fm01
 fm02
 gn2connect-acc
@@ -2240,7 +2244,6 @@ scan
 ssdtest
 suite4burgerzaken
 sync
-test-eloket
 view
 webmeeting
 womserver-test
@@ -2285,7 +2288,6 @@ vriseloket
 dvg
 platform
 www.platform
-idtst
 joinconnect
 kindregeling
 online-aanvraag-test
@@ -2929,7 +2931,6 @@ uitwisseling
 webaccess
 cmsdok
 dok
-grondwater
 test-cmsdok
 test-dok
 test.afspraakmaken
@@ -4227,7 +4228,6 @@ wozportaal
 zsaccept
 apv-broker
 apv-broker.preprod
-dms
 iverblijf
 mgapp
 mldapp
@@ -4463,3 +4463,17 @@ mijnkrimpenwijzer
 pub
 test-mijnkrimpenwijzer
 www.komverder
+buitendienst-app
+buitendienst-dashboard
+eloket-sociaaldomein
+eloket-test-sociaaldomein
+geocortex
+internekoppelingen
+intranettest
+koppelingen
+koppelingentest
+monitor
+thinclients
+tickets
+unjunk
+waardwijzer
