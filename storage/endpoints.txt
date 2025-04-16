@@ -359,6 +359,7 @@ http://sammy-acc.derondevenen.nl
 http://secure.dalfsen.nl
 http://sem.kampen.nl
 http://simcms-duurzaam.beverwijk.nl
+http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.bronckhorst.nl
@@ -380,6 +381,7 @@ http://simcms.scherpenzeel.nl
 http://simcms.simpelveld.nl
 http://simcms.terschelling.nl
 http://simcms.urk.nl
+http://simcms.vlissingen.nl
 http://simform-preproductie.vlaardingen.nl
 http://simform.heerenveen.nl
 http://simform.heerlen.nl
@@ -2213,6 +2215,7 @@ https://doemee.peelenmaas.nl
 https://doemee.terneuzen.nl
 https://doemee.valkenburg.nl
 https://doemee.veere.nl
+https://doemee.vlissingen.nl
 https://dok.dronten.nl
 https://dok.rotterdam.nl
 https://dolph.rotterdam.nl
@@ -2625,11 +2628,13 @@ https://eloket.tiel.nl
 https://eloket.twenterand.nl
 https://eloket.velsen.nl
 https://eloket.venray.nl
+https://eloket.vlissingen.nl
 https://eloketstaging.almere.nl
 https://eloketstaging.putten.nl
 https://elokettest.bloemendaal.nl
 https://elokettest.heemstede.nl
 https://elokettest.sudwestfryslan.nl
+https://elokettest.vlissingen.nl
 https://email.bernheze.org
 https://email.doemee.gemeentebest.nl
 https://email.eijsden-margraten.nl
@@ -2814,6 +2819,7 @@ https://felix.scherpenzeel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.vlieland.nl
+https://felix.vlissingen.nl
 https://felixburgerzaken.nissewaard.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
@@ -2883,6 +2889,7 @@ https://flowmailer-tracking.roermond.nl
 https://flowmailer-tracking.schouwen-duiveland.nl
 https://flowmailer-tracking.smallingerland.nl
 https://flowmailer-tracking.venlo.nl
+https://flowmailer-tracking.vlissingen.nl
 https://fm.krimpenerwaard.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
@@ -3516,6 +3523,7 @@ https://iburgerzaken.veere.nl
 https://iburgerzaken.velsen.nl
 https://iburgerzaken.venlo.nl
 https://iburgerzaken.venray.nl
+https://iburgerzaken.vlissingen.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3714,6 +3722,7 @@ https://intranet.utrecht.nl
 https://intranet.valkenburg.nl
 https://intranet.velsen.nl
 https://intranet.venlo.nl
+https://intranet.vlissingen.nl
 https://intranet2.gulpen-wittem.nl
 https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
@@ -4212,6 +4221,7 @@ https://meerssen.nl
 https://meet.ggd.amsterdam.nl
 https://meet.houten.nl
 https://meierijstad.nl
+https://meld.vlissingen.nl
 https://melddesk-test.renkum.nl
 https://melding.acc.heerlen.nl
 https://melding.heerlen.nl
@@ -5172,6 +5182,7 @@ https://parkeren.sudwestfryslan.nl
 https://parkeren.valkenswaard.nl
 https://parkeren.veere.nl
 https://parkeren.venlo.nl
+https://parkeren.vlissingen.nl
 https://parkerenapp-prod.schiedam.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
@@ -5649,6 +5660,7 @@ https://ro.gemeenteberkelland.nl
 https://ro.halderberge.nl
 https://ro.olst-wijhe.nl
 https://ro.valkenburg.nl
+https://ro.vlissingen.nl
 https://roadi.rotterdam.nl
 https://roel.middendrenthe.nl
 https://roemte.hethogeland.nl
@@ -6055,6 +6067,7 @@ https://stationsdistrict.nijmegen.nl
 https://statistiek.amsterdam.nl
 https://statistiek.data.amsterdam.nl
 https://statistieken-intranet.enschede.nl
+https://statistieken.vlissingen.nl
 https://stats.intranet.delft.nl
 https://stats.purmerend.nl
 https://stats.utrecht.nl
@@ -6615,9 +6628,12 @@ https://viertfietsen.deventer.nl
 https://view.nieuwsbrief.amsterdam.nl
 https://vijfheerenlanden.nl
 https://vinden.heuvelrug.nl
+https://visnet-acc.vlissingen.nl
+https://visnet.vlissingen.nl
 https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://vlaardingen.nl
+https://vlissingen.nl
 https://vogelweide.diemen.nl
 https://voice.leudal.nl
 https://volg.amsterdam.nl

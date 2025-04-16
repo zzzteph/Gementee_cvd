@@ -10,12 +10,12 @@ webmail
 mijn
 simsite
 afspraken
-mail
 digikoppeling
+mail
 secure
 preproductie
-acceptatie
 simcms
+acceptatie
 felix
 probeer
 loket
@@ -33,8 +33,8 @@ raad
 afspraak
 ruimtelijkeplannen
 betalen
-api.meldingen
 parkeren
+api.meldingen
 waarmerk
 adfs
 pv
@@ -63,11 +63,11 @@ enterpriseregistration
 loket.acceptatie
 data
 login
+flowmailer-tracking
 digikoppeling-test
 beeldbank
 cmsoo
 zaken
-flowmailer-tracking
 cloudadapter-test
 remote
 kaart
@@ -82,16 +82,16 @@ connect
 denkmee
 financien
 digikoppeling.test
+parkeren-acc
 acc-broker
 belastingloket
 govroam
 samen
+doemee
 dtestloket
 osbacc
-parkeren-acc
 extranet
 pki
-doemee
 test-cmsintranet
 cmsintranet
 verkiezingen
@@ -128,6 +128,7 @@ dtestmidoffice
 jaarstukken
 contentbeheer
 belastingportaal
+simform
 gisib
 web
 snelbaliepp
@@ -147,7 +148,6 @@ micollab
 mdm
 transfer
 internetafspraken
-simform
 izaaksuite
 dali
 mailing
@@ -182,6 +182,7 @@ lyncdiscover
 meedoen
 gasten
 smtp
+ro
 contentbeheer.acceptatie
 zaken.acceptatie
 testloket
@@ -200,7 +201,6 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
-ro
 bor
 inproces.acceptatie
 outlook
@@ -305,6 +305,7 @@ app
 edison
 parkeervergunning
 services
+e-loket
 gbi
 mijngeldzaken
 rooster
@@ -363,7 +364,6 @@ magazines
 nieuwsbrieven
 octopus
 regelgeving
-e-loket
 geotest
 moh-acc
 moh
@@ -390,6 +390,7 @@ klimaatplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
 wij
+elokettest
 www.gemeenteraad
 wozloket
 jcccloud
@@ -435,6 +436,7 @@ pip
 www.werkplek
 acceptatie-intranet
 sso
+testdigikoppeling
 cars
 mijndesktop
 belastingportaal.acc
@@ -500,7 +502,6 @@ cloud
 csc
 digid-parkeervergunningen
 mbg1
-elokettest
 testformulieren
 automator
 preprod-mijnoverzicht
@@ -609,7 +610,6 @@ autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
 geoweb
-testdigikoppeling
 ons
 sera
 rxlaunch-signicat-preprod
@@ -1055,6 +1055,7 @@ decos
 mijnafval
 smtp01
 stuf
+ggk-koppeling
 kadernota
 regieportaal
 zorg-acc
@@ -4825,7 +4826,6 @@ speciaal
 sportaccommodatieverhuur
 wie
 zaaksysteem-acc
-ggk-koppeling
 najaarsbrief
 regieportaal-test
 samenwerkingbelastingen-test
@@ -6418,3 +6418,9 @@ mailbackup
 minimi
 test.mijnloket
 woningzoeken
+meld
+probeer-gemeenteraad
+simcms-gemeenteraad
+statistieken
+visnet-acc
+visnet
