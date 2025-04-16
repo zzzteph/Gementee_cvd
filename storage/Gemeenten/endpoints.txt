@@ -1149,7 +1149,6 @@ https://alwayson.stichtsevecht.nl
 https://am-dev.rotterdam.nl
 https://am-preprod.rotterdam.nl
 https://am.rotterdam.nl
-https://ameland.nl
 https://amersfoort.nl
 https://ami-acc.amsterdam.nl
 https://ami-tst.amsterdam.nl
@@ -6510,7 +6509,6 @@ https://simcms-preproductie.beekdaelen.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-woo.doesburg.nl
-https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergeijk.nl
 https://simcms.bergenopzoom.nl
