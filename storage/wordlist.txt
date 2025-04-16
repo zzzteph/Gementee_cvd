@@ -46,8 +46,8 @@ zaaksysteem-accept
 belastingen
 test-ipa
 gemeenteraad
-testeloket
 enterpriseenrollment
+testeloket
 openpdc
 dacceptatieloket
 dacceptatiemidoffice
@@ -107,6 +107,7 @@ mijninkomen
 parkeren-test
 piwik
 subsidies
+siam
 gemeente
 acc-formulier
 acc-podiumd-logs
@@ -118,7 +119,6 @@ begroting
 mijnzorg
 e
 preprod-mijninkomen
-siam
 qr
 apps
 nieuwsbrief
@@ -273,6 +273,8 @@ dkd-test
 gemeentearchief
 ro-online
 www.duurzaam
+mozard
+mozardtest
 ns
 www.test
 _dmarc
@@ -332,8 +334,6 @@ stadsarchief
 exchange
 mijnoverzicht
 rpl3
-mozard
-mozardtest
 wion
 atlas
 api
@@ -395,6 +395,7 @@ test.digikoppeling
 filr
 vth
 www.openstad
+bestuur
 webservices
 digitalebalie
 mta-sts
@@ -424,6 +425,9 @@ planon
 sociaaldomein
 digitaalnachtregister
 ssp
+test-zaakloket
+testsiam
+zaakloket
 activesync
 bewustwording
 mail1
@@ -436,6 +440,7 @@ melding
 nieuwsbrieven
 ombudsman
 parkeervergunningen-acc
+regelgeving
 top
 www.ruimtelijkeplannen
 digitaleplannen
@@ -507,7 +512,6 @@ allegroweb
 intra
 mijnloket
 winkelen
-bestuur
 efactuur
 relay
 webdav
@@ -538,6 +542,7 @@ corsa-test
 gemeentewinkel
 www.login
 radius
+tim
 berichtenverkeer
 www.kaarten
 de
@@ -621,9 +626,6 @@ qr.testdigitaalgemeenteloket
 samenveiligwerken
 testdigitaalgemeenteloket
 www.centrumbegroot
-test-zaakloket
-testsiam
-zaakloket
 redactie
 aanmeldenparkeren
 acc.meldingen
@@ -647,7 +649,6 @@ octopus-portaal
 octopus-webdav
 ois
 parkeervergunningen.acc
-regelgeving
 rekenkamer
 social
 sportverhuur
@@ -852,7 +853,6 @@ mijnmobiel
 nedplan
 secudoc
 liquitsatellite
-tim
 www.djuma
 www.eloket
 www.parkeren
@@ -5971,3 +5971,4 @@ tijdregistratie
 tnz-park-01
 tnz-park-02
 tnz-rad-01
+co2monitor
