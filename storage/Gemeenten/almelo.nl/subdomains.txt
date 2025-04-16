@@ -1,9 +1,9 @@
 acc.almelo.nl
 almelo-centraal.almelo.nl
 almelo.nl
-api-meldingen.acc.almelo.nl
 api-meldingen.almelo.nl
 autodiscover.almelo.nl
+bis.almelo.nl
 brandweer.almelo.nl
 cimot.almelo.nl
 directadmin.almelo.nl
@@ -56,3 +56,4 @@ vpn.almelo.nl
 wooninstrumenten.almelo.nl
 workspace365.almelo.nl
 www.almelo.nl
+www.brandweer.almelo.nl

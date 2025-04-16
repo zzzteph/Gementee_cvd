@@ -198,6 +198,7 @@ fs
 _autodiscover._tcp
 kennisbank
 preprod-mijn
+bis
 belastingbalie-test
 melddesk
 mail2
@@ -219,7 +220,6 @@ evenementen
 telewerken
 desktop
 woo
-bis
 byod
 guest
 publicroam
@@ -708,7 +708,6 @@ gen1
 notubiz
 test-subsidiebeheer
 test-subsidieloket
-api-meldingen.acc
 api-meldingen
 enquete
 ids
@@ -1270,6 +1269,7 @@ test-kennisbank
 testportaal
 wooninstrumenten
 workspace365
+www.brandweer
 acc-kaart
 acc-maps
 acc.formulieren
@@ -2724,6 +2724,7 @@ alg-zgw
 alg-zgw.test
 alleplannen.laakhavensbepaalt
 alleplannen.mariahoeveaanzet
+api-meldingen.acc
 archeologie-acc
 archeologie
 aut.acc.topdesk
