@@ -21,8 +21,8 @@ felix
 loket
 formulieren
 dkd
-eloket
 werkplek
+eloket
 test
 open
 portal
@@ -41,12 +41,12 @@ waarmerk
 pv
 parkeren
 werkenbij
-iparticipatie
 zaaksysteem-accept
+iparticipatie
 belastingen
+enterpriseenrollment
 test-ipa
 gemeenteraad
-enterpriseenrollment
 testeloket
 openpdc
 openpub
@@ -96,6 +96,7 @@ snelbalie
 duurzaam
 woningbouwkaart
 obsurv
+extranet
 pki
 doemee
 www.webmail
@@ -112,7 +113,6 @@ gemeente
 acc-formulier
 acc-podiumd-logs
 podiumd-logs
-extranet
 simcms-open
 jaarstukken
 begroting
@@ -171,6 +171,7 @@ legacy
 bgt
 sip
 gasten
+smtp
 contentbeheer.acceptatie
 zaken.acceptatie
 inproces
@@ -186,7 +187,6 @@ owa
 test-digikoppeling
 meedoen
 jccapi
-smtp
 mobiel
 bor
 inproces.acceptatie
@@ -288,6 +288,7 @@ desktop
 gbi
 mijngeldzaken
 ns1
+rooster
 bis
 meet
 publicaties
@@ -312,6 +313,7 @@ admin.openstad
 auth.openstad
 img.openstad
 openformulieren-test
+bestuur
 eformulieren
 squit2020.acceptatie
 academie
@@ -345,7 +347,6 @@ e-loket
 geotest
 moh-acc
 moh
-rooster
 sslvpn
 media
 test-formulier
@@ -395,7 +396,6 @@ test.digikoppeling
 filr
 vth
 www.openstad
-bestuur
 webservices
 digitalebalie
 mta-sts
@@ -5979,3 +5979,5 @@ mozardproductie
 pbx
 subsidiebeleidskaart
 teylingen-checker-preprod
+qmatic
+ucserver
