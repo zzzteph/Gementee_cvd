@@ -30,20 +30,20 @@ open
 meldingen
 geo
 raad
+afspraak
 ruimtelijkeplannen
 betalen
-afspraak
 api.meldingen
 parkeren
 adfs
+pv
 vpn
 waarmerk
 broker
-pv
 iparticipatie
+zaaksysteem-accept
 testeloket
 test-ipa
-zaaksysteem-accept
 werkenbij
 belastingen
 enterpriseenrollment
@@ -81,13 +81,13 @@ test-intranet
 connect
 denkmee
 financien
+digikoppeling.test
 acc-broker
 belastingloket
 govroam
 samen
 dtestloket
 osbacc
-digikoppeling.test
 parkeren-acc
 extranet
 pki
@@ -129,6 +129,7 @@ jaarstukken
 contentbeheer
 belastingportaal
 gisib
+web
 snelbaliepp
 api.betalen
 nieuwsbrief
@@ -146,7 +147,7 @@ micollab
 mdm
 transfer
 internetafspraken
-web
+simform
 izaaksuite
 dali
 mailing
@@ -163,15 +164,16 @@ openklant
 owa
 uc
 AutoDiscover
+mobiel
 inloggen
 connect.acceptatie
 inproces
 cryptshare
 preprodbroker
-simform
 college
 veiligdelen
 belastingbalie-test
+maps
 vdi
 jcc
 email
@@ -180,7 +182,6 @@ lyncdiscover
 meedoen
 gasten
 smtp
-mobiel
 contentbeheer.acceptatie
 zaken.acceptatie
 testloket
@@ -189,7 +190,6 @@ kennisbank
 preprod-mijn
 wachtwoord
 subsidies-backend
-maps
 melddesk
 website
 onderzoek
@@ -249,6 +249,7 @@ cms
 exchange
 gemeentearchief
 magazine
+ns
 werkenvoor
 _dmarc
 parkeervergunningen
@@ -281,6 +282,7 @@ sbc01
 participatie
 raadsnet
 toegang
+simform-preproductie
 gisib-test
 gisibapi-test
 gisibapi
@@ -296,7 +298,6 @@ ro-online
 www.duurzaam
 mozard
 mozardtest
-ns
 wion
 www.test
 api
@@ -347,7 +348,6 @@ www.afspraken
 www2
 loket.test
 www.acceptatie
-simform-preproductie
 diensten
 secure-test
 stadsarchief
@@ -414,6 +414,7 @@ subsidies-login.acceptatie
 klantportaal
 test.digikoppeling
 filr
+mijnloket
 www.openstad
 digitalebalie
 socialekaart
@@ -426,6 +427,7 @@ www.samen
 gbionline
 gemeentewinkel
 tim
+pip
 www.werkplek
 acceptatie-intranet
 sso
@@ -536,7 +538,6 @@ vsp
 burgerloket.acceptatie
 allegroweb
 intra
-mijnloket
 winkelen
 financielestukken
 gdintaker
@@ -581,7 +582,6 @@ corsa-test
 www.login
 liquitsatellite
 radius
-pip
 preprod-mijnsociaaldomein
 berichtenverkeer
 www.kaarten
@@ -697,6 +697,7 @@ bi
 buurtbudget
 centrum
 docgen
+erfpacht
 formulieren-g4-acc
 formulieren.acc
 gvz2digikoppeling
@@ -704,6 +705,7 @@ gvzdigikoppeling
 iga
 image.acc-nieuwsbrief
 mas
+mft
 nlx
 octopus-portaal
 octopus-webdav
@@ -781,6 +783,7 @@ joost
 wwwtest
 acc-openwave
 corona
+sophos
 admin.doemee
 api.doemee
 auth.doemee
@@ -919,6 +922,7 @@ secudoc
 www.djuma
 www.eloket
 www.parkeren
+pip-preproductie
 telefoon
 www.mail
 prtg
@@ -1077,7 +1081,10 @@ www.jcc
 mijnwerkplek
 mijnpost
 digitalebelastingbalie
+service
+bibliotheek
 edison-opl
+www.bibliotheek
 oig
 secure-t
 camera
@@ -1619,7 +1626,6 @@ erfpacht-gwextern-dev
 erfpacht-gwextern-ont
 erfpacht-gwextern-tst
 erfpacht-gwextern
-erfpacht
 erfpachtmedewerkers-acc
 erfpachtmedewerkers-dev
 erfpachtmedewerkers-ont
@@ -1825,7 +1831,6 @@ meet.ggd
 meldingenamsterdamsebos
 meldingenweesp
 mft-fa
-mft
 microservices.schoolwijzer
 mijn.data
 mijnbelastingen
@@ -2432,7 +2437,6 @@ openwave
 rp
 simcms-begraafplaatsduinrust
 simcms-duurzaam
-sophos
 test-bink
 test-cmsbink
 NLGEMBRC
@@ -3557,7 +3561,6 @@ gevondenvoorwerpen
 hwok-test
 hwok
 pencportaal
-pip-preproductie
 pv.gevondenvoorwerpen
 squit2goprod
 zuil
@@ -5407,7 +5410,6 @@ voorjaarsnota
 krachtigedorpen
 roerdalen-checker-preprod
 roerdalen-checker
-service
 ws013
 ws018
 awseg
@@ -5448,7 +5450,6 @@ betaaltoolsorga
 bezettinggebouwen
 bezoek
 bezoekv2
-bibliotheek
 bodemvondsten
 cairo
 checklist
@@ -5638,7 +5639,6 @@ wise-web.bibliotheek
 wsone
 wsone2
 www.backup.crp
-www.bibliotheek
 www.bis
 www.crp
 www.gis
@@ -6405,3 +6405,16 @@ pki-test
 reject.dmarc
 test-cmsjip
 zaaksysteem-ontwikkeling
+aselect.bibliotheek
+authmfa
+authportal
+bagonline
+balie2
+balietest2
+formulieren-preproductie
+hcr
+mailarchief
+mailbackup
+minimi
+test.mijnloket
+woningzoeken
