@@ -13,8 +13,8 @@ webmail
 mail
 digikoppeling
 acceptatie
-simcms
 preproductie
+simcms
 secure
 probeer
 felix
@@ -48,16 +48,16 @@ gemeenteraad
 testeloket
 test-ipa
 enterpriseenrollment
+openpdc
 dacceptatieloket
 dacceptatiemidoffice
-openpdc
 dloket
 dmidoffice
 api.meldingen-acc
 meldingen-acc
 openpub
-belastingbalie
 osb
+belastingbalie
 omgevingsvisie
 loket.acceptatie
 login
@@ -76,9 +76,9 @@ berichten
 cloudadapter-test
 mks
 acc-broker
+samen
 financien
 belastingloket
-samen
 dtestloket
 digikoppeling.test
 cloudadapter
@@ -87,6 +87,7 @@ kaarten
 connect
 vergunningintaker
 verkiezingen
+osbacc
 duurzaam
 preprod
 parkeren-acc
@@ -98,7 +99,6 @@ www.webmail
 filecap
 denkmee
 portaal
-osbacc
 parkeren-test
 piwik
 gemeente
@@ -127,6 +127,7 @@ objecten
 mdm
 dtestmidoffice
 squit2go
+transfer
 test-cmsintranet
 cmsintranet
 preprod-mijninkomen
@@ -143,9 +144,9 @@ openklant
 sts
 klantcontact
 micollab
+AutoDiscover
 inloggen
 contentbeheer
-transfer
 internetafspraken
 belastingportaal
 e
@@ -160,7 +161,6 @@ bgt
 sip
 gasten
 uc
-AutoDiscover
 connect.acceptatie
 inproces
 testloket
@@ -234,6 +234,7 @@ telewerken
 www.acc
 opendata
 afval
+openformulieren
 fmreturn
 data-test
 intranet-acc
@@ -280,7 +281,6 @@ mijngeldzaken
 ns1
 bis
 meet
-openformulieren
 publicaties
 formulieren-test
 support
@@ -303,6 +303,7 @@ ondernemersloket
 admin.openstad
 auth.openstad
 img.openstad
+openformulieren-test
 squit2020.acceptatie
 academie
 woz-portaal
@@ -381,11 +382,11 @@ zaken.test
 grooster
 subsidies-login.acceptatie
 topdesk
+klantportaal
 test.digikoppeling
 filr
 vth
 www.openstad
-openformulieren-test
 eformulieren
 webservices
 digitalebalie
@@ -483,7 +484,6 @@ preprod-mijnportaal
 storefront
 cjg
 geoservices
-klantportaal
 lvs
 smartdocuments
 smtp1
@@ -500,6 +500,8 @@ efactuur
 relay
 webdav
 webformulieren
+klantportaal.acc
+prod
 mobility
 grondwater
 vergunningen
@@ -805,8 +807,6 @@ centric
 test-digikoppelingadapter
 router
 durp
-klantportaal.acc
-prod
 dok
 www.zorgloket
 zmm
@@ -5802,3 +5802,5 @@ xential-prod
 epos
 probeer-epos
 simcms-epos
+openpdckb
+openpubkb
