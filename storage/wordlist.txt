@@ -171,6 +171,7 @@ inloggen
 inproces
 transfer
 internetafspraken
+_autodiscover._tcp
 college
 veiligdelen
 mailing
@@ -195,7 +196,6 @@ afspraakmaken
 mta-sts
 geoportaal
 fs
-_autodiscover._tcp
 kennisbank
 preprod-mijn
 bis

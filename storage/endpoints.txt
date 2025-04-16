@@ -224,7 +224,6 @@ http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
 http://baarn.nl
-http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
 http://beheer-test-trefpunt.deurne.nl
 http://belasting-test.kampen.nl
@@ -412,12 +411,12 @@ http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.bronckhorst.nl
 http://simcms-open.leudal.nl
+http://simcms-preproductie.beekdaelen.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-wonen.westerkwartier.nl
 http://simcms.aalten.nl
 http://simcms.achtkarspelen.nl
 http://simcms.baarn.nl
-http://simcms.beekdaelen.nl
 http://simcms.goeree-overflakkee.nl
 http://simcms.halderberge.nl
 http://simcms.heumen.nl
@@ -526,7 +525,6 @@ http://woo.doesburg.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.bba.amsterdam.nl
-http://www.beekdaelen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
 http://www.denkmee.hollandskroon.nl
@@ -3125,6 +3123,7 @@ https://fd-zgw.denhaag.nl
 https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.aalten.nl
+https://felix.beekdaelen.nl
 https://felix.bergen.nl
 https://felix.bergendal.nl
 https://felix.beverwijk.nl
@@ -4860,6 +4859,7 @@ https://mijn.amsterdam.nl
 https://mijn.arnhem.nl
 https://mijn.assen.nl
 https://mijn.baarn.nl
+https://mijn.beekdaelen.nl
 https://mijn.beuningen.nl
 https://mijn.bronckhorst.nl
 https://mijn.buren.nl
@@ -6518,10 +6518,10 @@ https://simcms-open.halderberge.nl
 https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.staphorst.nl
-https://simcms-preproductie.beekdaelen.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-woo.doesburg.nl
+https://simcms.beekdaelen.nl
 https://simcms.bergeijk.nl
 https://simcms.bergenopzoom.nl
 https://simcms.beuningen.nl
@@ -6564,7 +6564,6 @@ https://simform.houten.nl
 https://simform.rijswijk.nl
 https://simform.voorschoten.nl
 https://simpelveld.nl
-https://simsite.beekdaelen.nl
 https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.edam-volendam.nl

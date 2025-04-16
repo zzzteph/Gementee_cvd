@@ -1,3 +1,4 @@
+_autodiscover._tcp.beekdaelen.nl
 adfs.beekdaelen.nl
 afspraken.beekdaelen.nl
 alarm.beekdaelen.nl
