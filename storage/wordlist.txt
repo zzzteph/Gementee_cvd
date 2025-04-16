@@ -195,6 +195,7 @@ afspraakmaken
 mta-sts
 geoportaal
 fs
+_autodiscover._tcp
 kennisbank
 preprod-mijn
 belastingbalie-test
@@ -208,7 +209,6 @@ inproces.acceptatie
 outlook
 testloket
 contact
-_autodiscover._tcp
 wachtwoord
 geodata
 subsidies-backend
