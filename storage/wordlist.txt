@@ -67,15 +67,15 @@ enterpriseregistration
 flowmailer-tracking
 beeldbank
 cloudadapter-test
+remote
 kaart
 digikoppeling-test
-remote
 zaken
+hybrid
 berichten
 formulier
 cloudadapter
 kaarten
-hybrid
 parkeren-acc
 mks
 test-intranet
@@ -128,6 +128,7 @@ acc-formulier
 acc-podiumd-logs
 podiumd-logs
 sts
+klantcontact
 simcms-open
 mdm
 jaarstukken
@@ -137,6 +138,7 @@ gisib
 web
 izaaksuite
 snelbaliepp
+vdi
 api.betalen
 nieuwsbrief
 openzaak
@@ -148,15 +150,15 @@ acc-objecttypen
 keycloak
 objecten
 sip
-klantcontact
+gasten
 uc
 inloggen
+cryptshare
 transfer
 internetafspraken
 preprodbroker
 maps
 mailing
-vdi
 ftp
 legacy
 acc-contact
@@ -168,12 +170,10 @@ objecttypen
 openklant
 owa
 meedoen
-gasten
 AutoDiscover
 mobiel
 connect.acceptatie
 inproces
-cryptshare
 bestuur
 fs
 college
@@ -213,6 +213,7 @@ mijnsociaalplein
 preprod-mijnsociaalplein
 intranet-acc
 mobile
+jongin
 bor
 inproces.acceptatie
 squit2020
@@ -237,7 +238,6 @@ openstad
 afval
 bis
 xential
-jongin
 key2gbav
 archief
 filetransfer
@@ -306,6 +306,7 @@ zoeken
 makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
+diensten
 dkd-test
 ro-online
 www.duurzaam
@@ -338,6 +339,7 @@ cognos
 dkdtest
 key2datadistributie-test
 key2gbavtest
+www.jongin
 subsidies-login
 mijnzaken
 auth.openstad
@@ -361,7 +363,6 @@ www.afspraken
 www2
 loket.test
 www.acceptatie
-diensten
 secure-test
 stadsarchief
 mijnoverzicht
@@ -420,7 +421,6 @@ suite4burgerzaken-test
 medewerkers
 pdc
 preprod-formulieren
-www.jongin
 connect.test
 contentbeheer.test
 zaken.test
@@ -453,6 +453,7 @@ pip
 www.werkplek
 acceptatie-intranet
 hpdm
+authenticatie
 sso
 geoweb
 testdigikoppeling
@@ -622,7 +623,6 @@ online
 neuron
 stats
 aov
-authenticatie
 handhavingtest
 mijn-acc
 open-formulieren
@@ -949,6 +949,7 @@ www.djuma
 www.eloket
 pip-preproductie
 telefoon
+mm
 www.mail
 mylex
 rds
@@ -1028,6 +1029,7 @@ wozportaal
 dms
 return
 wmoloket
+gvonline
 testwerkplek
 Cloudadapter-test
 cmsjip
@@ -1043,6 +1045,7 @@ test-insite
 veilig
 hybrid1
 hybrid2
+www.cryptshare
 parkeernormen
 liber
 pcorsa
@@ -1113,6 +1116,7 @@ www.iarchief
 www.jcc
 mijnwerkplek
 mijnpost
+analytics
 bibliotheek
 edison-opl
 www.bibliotheek
@@ -1130,6 +1134,7 @@ videobellen
 nwro
 zwemmen
 wsn-mail
+spamfilter
 webapps
 email.mail.participatie
 mail.participatie
@@ -3593,7 +3598,6 @@ iis2
 iis3
 maasgouw-checker-preprod
 maasgouw-checker
-mm
 sec
 www.cag
 www.mm
@@ -4381,7 +4385,6 @@ bgthvs
 bgtwdm
 data-acc
 energieloket
-gvonline
 mijnsociaalplein-acc
 vrijwilliger
 vrijwilligerin
@@ -4470,7 +4473,6 @@ outlook2
 spf
 test-digitaalgemeenteloket
 testservices
-www.cryptshare
 www.iobjecten-acc
 www.itstore
 www.ssp
@@ -5402,7 +5404,6 @@ squit2go-test
 taxivooriedereen
 timetell
 afspraak-test
-analytics
 berichten-test
 cloudconnector-test
 cloudconnector
@@ -6527,7 +6528,6 @@ simcms-data
 simcms-subsite8
 simcms-werkenvoor
 simcms-wonen
-spamfilter
 test-potjeswijzer
 wozbezwaar
 ambacht
@@ -6549,3 +6549,13 @@ post
 prefill.test
 testintranet
 wes-x-iis-01
+e-formulieren
+ftpes
+office
+planning
+portal.office.com
+secure2
+testsim
+westmaasenwaal007.simgroephosting04.nl
+wmw-vvc02
+www.wmw-vvc02
