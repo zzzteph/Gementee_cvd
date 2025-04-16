@@ -1566,6 +1566,7 @@ autodiscover.venlo.nl
 autodiscover.venray.nl
 autodiscover.vijfheerenlanden.nl
 autodiscover.vlaardingen.nl
+autodiscover.vlieland.nl
 autodiscover.vsp.nijmegen.nl
 autodiscover.vvd.haarlemmermeer.nl
 autodiscover.vvd.mookenmiddelaar.nl
@@ -1869,6 +1870,7 @@ belastingbalie.smallingerland.nl
 belastingbalie.veenendaal.nl
 belastingbalie.veldhoven.nl
 belastingbalie.venlo.nl
+belastingbalie.vlieland.nl
 belastingbalietest.capelleaandenijssel.nl
 belastingen-acc.almere.nl
 belastingen-acc.arnhem.nl
@@ -2023,6 +2025,7 @@ bestuur.terschelling.nl
 bestuur.tholen.nl
 bestuur.tubbergen.nl
 bestuur.vaals.nl
+bestuur.vlieland.nl
 bestuursakkoord.s-hertogenbosch.nl
 bestuursinformatie.beesel.nl
 bestuursrapportage.leiden.nl
@@ -3245,8 +3248,10 @@ digitalebalie.heeze-leende.nl
 digitalebalie.rhenen.nl
 digitalebalie.rotterdam.nl
 digitalebelastingbalie-test.texel.nl
+digitalebelastingbalie-test.vlieland.nl
 digitalebelastingbalie.rijswijk.nl
 digitalebelastingbalie.texel.nl
+digitalebelastingbalie.vlieland.nl
 digitaleplannen.apeldoorn.nl
 digitaleplannen.hardenberg.nl
 digitaleplannen.ommen.nl
@@ -4086,6 +4091,7 @@ enterpriseenrollment.schiermonnikoog.nl
 enterpriseenrollment.terschelling.nl
 enterpriseenrollment.tholen.nl
 enterpriseenrollment.veenendaal.nl
+enterpriseenrollment.vlieland.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
 enterpriseone.almere.nl
@@ -4311,6 +4317,7 @@ felix.twenterand.nl
 felix.urk.nl
 felix.valkenswaard.nl
 felix.veere.nl
+felix.vlieland.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -7661,12 +7668,14 @@ mozard.bunnik.nl
 mozard.gooisemeren.nl
 mozard.schiermonnikoog.nl
 mozard.terschelling.nl
+mozard.vlieland.nl
 mozardproductie.texel.nl
 mozardtest.ameland.nl
 mozardtest.bunnik.nl
 mozardtest.gooisemeren.nl
 mozardtest.schiermonnikoog.nl
 mozardtest.terschelling.nl
+mozardtest.vlieland.nl
 mp1.s-hertogenbosch.nl
 mpinajaar.haarlemmermeer.nl
 mpivoorjaar.haarlemmermeer.nl
@@ -9440,6 +9449,7 @@ regelen.haarlem.nl
 regelgeving.amsterdam.nl
 regelgeving.schiermonnikoog.nl
 regelgeving.terschelling.nl
+regelgeving.vlieland.nl
 regenboograad.acc.nijmegen.nl
 regentesseplein.denhaag.nl
 regieportaal-test.middelburg.nl
@@ -9845,6 +9855,7 @@ secure.veendam.nl
 secure.veldhoven.nl
 secure.venlo.nl
 secure.vlaardingen.nl
+secure.vlieland.nl
 secure1.gulpen-wittem.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
@@ -9965,6 +9976,7 @@ siam.s-hertogenbosch.nl
 siam.schiermonnikoog.nl
 siam.terschelling.nl
 siam.veenendaal.nl
+siam.vlieland.nl
 siamtest.bunnik.nl
 siamtest.veenendaal.nl
 sibp01.lelystad.nl
@@ -10080,6 +10092,7 @@ simcms.twenterand.nl
 simcms.urk.nl
 simcms.valkenswaard.nl
 simcms.veere.nl
+simcms.vlieland.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -10186,6 +10199,7 @@ simsite.valkenburg.nl
 simsite.valkenswaard.nl
 simsite.veendam.nl
 simsite.veere.nl
+simsite.vlieland.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -10988,6 +11002,7 @@ test-witgoed.middendrenthe.nl
 test-zaakloket.ameland.nl
 test-zaakloket.schiermonnikoog.nl
 test-zaakloket.terschelling.nl
+test-zaakloket.vlieland.nl
 test-zac.gemert-bakel.nl
 test.aalsmeer.nl
 test.achtkarspelen.nl
@@ -11157,6 +11172,7 @@ testservices.kaagenbraassem.nl
 testsiam.ameland.nl
 testsiam.schiermonnikoog.nl
 testsiam.terschelling.nl
+testsiam.vlieland.nl
 testsuitewiz.nissewaard.nl
 testtsjinstbus.harlingen.nl
 testtsjinstbus.sudwestfryslan.nl
@@ -11607,6 +11623,7 @@ vis.gouda.nl
 visvijver.doetinchem.nl
 vitaal.venlo.nl
 vlaardingen.nl
+vlieland.nl
 vlindernet.lingewaard.nl
 vlspmks.velsen.nl
 vlstmks.velsen.nl
@@ -11747,6 +11764,7 @@ waarmerk.pekela.nl
 waarmerk.roerdalen.nl
 waarmerk.simpelveld.nl
 waarmerk.veendam.nl
+waarmerk.vlieland.nl
 waarstemjijvoor.kerkrade.nl
 wabo.oostgelre.nl
 wacfarm.acc.amsterdam.nl
@@ -12038,6 +12056,7 @@ werkenbij.schiermonnikoog.nl
 werkenbij.schouwen-duiveland.nl
 werkenbij.sudwestfryslan.nl
 werkenbij.t-diel.nl
+werkenbij.vlieland.nl
 werkeninkomen-test.leiden.nl
 werkeninkomen-test.leiderdorp.nl
 werkeninkomen.leiden.nl
@@ -13278,6 +13297,7 @@ www.vibe.rhenen.nl
 www.victor.amsterdam.nl
 www.vijfheerenlanden.nl
 www.vlaardingen.nl
+www.vlieland.nl
 www.vpn.haarlemmermeer.nl
 www.vraagbaak.doesburg.nl
 www.vroegsignalering.sudwestfryslan.nl
@@ -13416,6 +13436,7 @@ zaak.tynaarlo.nl
 zaakloket.ameland.nl
 zaakloket.schiermonnikoog.nl
 zaakloket.terschelling.nl
+zaakloket.vlieland.nl
 zaaksysteem-acc.meppel.nl
 zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl

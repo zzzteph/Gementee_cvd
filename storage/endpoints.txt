@@ -193,6 +193,7 @@ http://autodiscover.veenendaal.nl
 http://autodiscover.venlo.nl
 http://autodiscover.venray.nl
 http://autodiscover.vijfheerenlanden.nl
+http://autodiscover.vlieland.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
@@ -447,6 +448,7 @@ http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://vergunningintaker.bernheze.org
+http://vlieland.nl
 http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
 http://webmail.gooisemeren.nl
@@ -2149,7 +2151,9 @@ https://digitaalgemeenteloket.kaagenbraassem.nl
 https://digitaalvergaderen.soest.nl
 https://digitalebalie.rotterdam.nl
 https://digitalebelastingbalie-test.texel.nl
+https://digitalebelastingbalie-test.vlieland.nl
 https://digitalebelastingbalie.texel.nl
+https://digitalebelastingbalie.vlieland.nl
 https://digitaleplannen.apeldoorn.nl
 https://digiwap.rotterdam.nl
 https://dijkenwaard.nl
@@ -2692,6 +2696,7 @@ https://enterpriseenrollment.schiermonnikoog.nl
 https://enterpriseenrollment.terschelling.nl
 https://enterpriseenrollment.tholen.nl
 https://enterpriseenrollment.veenendaal.nl
+https://enterpriseenrollment.vlieland.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
 https://enterpriseone.almere.nl
@@ -2808,6 +2813,7 @@ https://felix.overbetuwe.nl
 https://felix.scherpenzeel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
+https://felix.vlieland.nl
 https://felixburgerzaken.nissewaard.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
@@ -4576,12 +4582,14 @@ https://mozard.bunnik.nl
 https://mozard.gooisemeren.nl
 https://mozard.schiermonnikoog.nl
 https://mozard.terschelling.nl
+https://mozard.vlieland.nl
 https://mozardproductie.texel.nl
 https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
 https://mozardtest.gooisemeren.nl
 https://mozardtest.schiermonnikoog.nl
 https://mozardtest.terschelling.nl
+https://mozardtest.vlieland.nl
 https://mpinajaar.haarlemmermeer.nl
 https://mpivoorjaar.haarlemmermeer.nl
 https://msm.almelo.nl
@@ -5809,6 +5817,7 @@ https://siam.bunnik.nl
 https://siam.rhenen.nl
 https://siam.schiermonnikoog.nl
 https://siam.terschelling.nl
+https://siam.vlieland.nl
 https://siamtest.bunnik.nl
 https://sibp01.lelystad.nl
 https://sibt01.lelystad.nl
@@ -6270,6 +6279,7 @@ https://test-witgoed.middendrenthe.nl
 https://test-zaakloket.ameland.nl
 https://test-zaakloket.schiermonnikoog.nl
 https://test-zaakloket.terschelling.nl
+https://test-zaakloket.vlieland.nl
 https://test.api.tod.leiden.nl
 https://test.app.amsterdam.nl
 https://test.beverwijk.nl
@@ -6361,6 +6371,7 @@ https://testportaal.almelo.nl
 https://testsiam.ameland.nl
 https://testsiam.schiermonnikoog.nl
 https://testsiam.terschelling.nl
+https://testsiam.vlieland.nl
 https://testwebsite.losser.nl
 https://testwozloket.borger-odoorn.nl
 https://testwww.rucphen.nl
@@ -6799,6 +6810,7 @@ https://werkenbij.schiermonnikoog.nl
 https://werkenbij.schouwen-duiveland.nl
 https://werkenbij.sudwestfryslan.nl
 https://werkenbij.t-diel.nl
+https://werkenbij.vlieland.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -7453,6 +7465,7 @@ https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
+https://www.vlieland.nl
 https://www.vraagbaak.doesburg.nl
 https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl
@@ -7519,6 +7532,7 @@ https://zaak.tynaarlo.nl
 https://zaakloket.ameland.nl
 https://zaakloket.schiermonnikoog.nl
 https://zaakloket.terschelling.nl
+https://zaakloket.vlieland.nl
 https://zaaksysteem-acc.meppel.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
