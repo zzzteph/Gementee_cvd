@@ -13,12 +13,12 @@ afspraken
 mail
 digikoppeling
 acceptatie
-preproductie
 simcms
+preproductie
 secure
 probeer
-loket
 felix
+loket
 formulieren
 eloket
 dkd
@@ -36,18 +36,18 @@ afspraak
 broker
 raad
 pv
-parkeren
 ruimtelijkeplannen
+parkeren
 vpn
 betalen
 iparticipatie
 werkenbij
 zaaksysteem-accept
+testeloket
 test-ipa
 belastingen
 gemeenteraad
 enterpriseenrollment
-testeloket
 dacceptatieloket
 dacceptatiemidoffice
 openpdc
@@ -86,6 +86,7 @@ govroam
 kaarten
 connect
 vergunningintaker
+verkiezingen
 duurzaam
 preprod
 parkeren-acc
@@ -97,7 +98,6 @@ www.webmail
 filecap
 denkmee
 portaal
-verkiezingen
 osbacc
 parkeren-test
 piwik
@@ -123,6 +123,7 @@ acc-objecttypen
 bastion365
 keycloak
 objecten
+simcms-open
 dtestmidoffice
 squit2go
 test-cmsintranet
@@ -141,7 +142,6 @@ openklant
 sts
 klantcontact
 micollab
-simcms-open
 mdm
 inloggen
 contentbeheer
@@ -245,6 +245,7 @@ bestanden
 kcc
 mx1
 zaaksysteem
+en
 liquit
 mijnsociaaldomein
 handhaving
@@ -310,7 +311,6 @@ mx2
 aeolus
 e.openstad
 geoportaal
-en
 ibabs
 gateway
 cloudadapter-prod
