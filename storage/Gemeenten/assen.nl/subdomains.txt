@@ -3,6 +3,7 @@ acc-contact.assen.nl
 acc-contact.dev.assen.nl
 acc-formulier.assen.nl
 acc-formulier.dev.assen.nl
+acc-keycloak-admin.assen.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
 acc-mijn.assen.nl
@@ -21,6 +22,7 @@ acc-openzaak.dev.assen.nl
 acc-podiumd-logs.assen.nl
 acc-podiumd-logs.dev.assen.nl
 acc-podiumd.sschosting.nl.assen.nl
+acc-zac.assen.nl
 afspraken.assen.nl
 afval.assen.nl
 api.meldingen-acc.assen.nl
@@ -89,6 +91,7 @@ slimbereikbaar.assen.nl
 sts.assen.nl
 test-digikoppeling.assen.nl
 test-formulier.assen.nl
+test-keycloak-admin.assen.nl
 test-keycloak.assen.nl
 test-mijn.assen.nl
 test-notificaties.assen.nl
@@ -97,6 +100,7 @@ test-objecttypen.assen.nl
 test-openklant.assen.nl
 test-openzaak.assen.nl
 test-podiumd-logs.assen.nl
+test-zac.assen.nl
 vastgoed.assen.nl
 waarmerk.assen.nl
 wbs003.assen.nl

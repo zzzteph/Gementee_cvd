@@ -201,6 +201,7 @@ acc-formulier.roermond.nl
 acc-formulier.rotterdam.nl
 acc-formulier.zwolle.nl
 acc-kaart.almere.nl
+acc-keycloak-admin.assen.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
 acc-keycloak.dev.groningen.nl
@@ -340,6 +341,7 @@ acc-waardepapieren-balie.hoorn.nl
 acc-waardepapieren.hoorn.nl
 acc-zaanlink.zaanstad.nl
 acc-zaanlinkcms.zaanstad.nl
+acc-zac.assen.nl
 acc-zac.dev.groningen.nl
 acc.adam.amsterdam.nl
 acc.admin.data.amsterdam.nl
@@ -12167,6 +12169,7 @@ test-kaartviewer.hoorn.nl
 test-kaartviewer.pijnacker-nootdorp.nl
 test-kansshop.eemsdelta.nl
 test-kennisbank.almelo.nl
+test-keycloak-admin.assen.nl
 test-keycloak-admin.gemert-bakel.nl
 test-keycloak.assen.nl
 test-keycloak.enschede.nl
@@ -12243,6 +12246,7 @@ test-zaakloket.schiermonnikoog.nl
 test-zaakloket.terschelling.nl
 test-zaakloket.vlieland.nl
 test-zaanzoeker.zaanstad.nl
+test-zac.assen.nl
 test-zac.gemert-bakel.nl
 test.aalsmeer.nl
 test.achtkarspelen.nl

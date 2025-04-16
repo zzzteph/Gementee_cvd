@@ -3,6 +3,7 @@ https://acc-contact.assen.nl
 https://acc-contact.dev.assen.nl
 https://acc-formulier.assen.nl
 https://acc-formulier.dev.assen.nl
+https://acc-keycloak-admin.assen.nl
 https://acc-keycloak.assen.nl
 https://acc-keycloak.dev.assen.nl
 https://acc-mijn.assen.nl
@@ -20,6 +21,7 @@ https://acc-openzaak.dev.assen.nl
 https://acc-podiumd-logs.assen.nl
 https://acc-podiumd-logs.dev.assen.nl
 https://acc-podiumd.sschosting.nl.assen.nl
+https://acc-zac.assen.nl
 https://afspraken.assen.nl
 https://afval.assen.nl
 https://api.meldingen-acc.assen.nl

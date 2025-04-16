@@ -680,6 +680,7 @@ https://acc-formulier.oostgelre.nl
 https://acc-formulier.roermond.nl
 https://acc-formulier.rotterdam.nl
 https://acc-formulier.zwolle.nl
+https://acc-keycloak-admin.assen.nl
 https://acc-keycloak.assen.nl
 https://acc-keycloak.dev.assen.nl
 https://acc-keycloak.dev.groningen.nl
@@ -800,6 +801,7 @@ https://acc-podiumd.sschosting.nl.assen.nl
 https://acc-subsidie.delft.nl
 https://acc-subsidiebeheer.delft.nl
 https://acc-zaanlinkcms.zaanstad.nl
+https://acc-zac.assen.nl
 https://acc-zac.dev.groningen.nl
 https://acc.admin.schoolwijzer.amsterdam.nl
 https://acc.adus.amsterdam.nl
