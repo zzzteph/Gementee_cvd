@@ -36,10 +36,10 @@ api.meldingen
 broker
 ruimtelijkeplannen
 vpn
+betalen
 waarmerk
 pv
 parkeren
-betalen
 werkenbij
 iparticipatie
 zaaksysteem-accept
@@ -49,9 +49,9 @@ gemeenteraad
 enterpriseenrollment
 testeloket
 openpdc
+openpub
 dacceptatieloket
 dacceptatiemidoffice
-openpub
 osb
 dloket
 dmidoffice
@@ -78,13 +78,13 @@ mks
 acc-broker
 samen
 kaarten
+connect
 financien
 cloudadapter
 belastingloket
 govroam
 test-intranet
 dtestloket
-connect
 verkiezingen
 osbacc
 preprod
@@ -140,6 +140,7 @@ transfer
 afvalkalender
 mailing
 snelbaliepp
+api.betalen
 acc-contact
 acc-keycloak
 acc-openklant
@@ -164,7 +165,6 @@ veiligdelen
 dali
 vdi
 jcc
-api.betalen
 email
 ftp
 bgt
@@ -176,6 +176,7 @@ inproces
 cryptshare
 testloket
 kennisbank
+preprod-mijn
 izaaksuite
 wachtwoord
 subsidies-backend
@@ -194,7 +195,6 @@ squit2020
 afspraakmaken
 contact
 _autodiscover._tcp
-preprod-mijn
 belastingbalie-test
 evenementen
 sharefile
@@ -270,6 +270,7 @@ makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
 dkd-test
+exchange
 gemeentearchief
 ro-online
 www.duurzaam
@@ -331,7 +332,6 @@ simform-preproductie
 diensten
 secure-test
 stadsarchief
-exchange
 mijnoverzicht
 rpl3
 wion
@@ -927,6 +927,7 @@ key2datadistributie
 tripleforms
 ubwprod
 ubwtest
+werken
 preprod-meedoen
 e2s
 parkeerproducten
@@ -982,6 +983,7 @@ stuf
 kadernota
 regieportaal
 zorg-acc
+lokettest
 portaaltest
 login-pre
 services-test
@@ -1001,6 +1003,7 @@ smtp20
 www.afspraakmaken
 www.jcc
 mijnwerkplek
+digitalebelastingbalie
 camera
 pdc.test
 webapps
@@ -4243,7 +4246,6 @@ vf.heitje
 www.heitje
 WOZ-loket
 vris-brk
-werken
 api-hetravijn
 hellendoorn-checker-preprod
 hellendoorn-checker
@@ -4847,7 +4849,6 @@ www.remotewerken
 belastingtest
 burgerpanel
 link.burgerpanel
-lokettest
 md02
 md04
 mdfg01
@@ -5389,7 +5390,6 @@ analytics
 berichten-test
 cloudconnector-test
 cloudconnector
-digitalebelastingbalie
 emagazine2030
 foto-bo
 keerpunt
@@ -5972,3 +5972,9 @@ tnz-park-01
 tnz-park-02
 tnz-rad-01
 co2monitor
+digitalebelastingbalie-test
+mail.digikoppeling
+mijntexeltest
+mozardproductie
+pbx
+subsidiebeleidskaart

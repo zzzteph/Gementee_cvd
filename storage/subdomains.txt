@@ -973,6 +973,7 @@ api.betalen.nissewaard.nl
 api.betalen.smallingerland.nl
 api.betalen.stadskanaal.nl
 api.betalen.steenwijkerland.nl
+api.betalen.texel.nl
 api.data.amsterdam.nl
 api.data.leiden.nl
 api.dataportaal.amsterdam.nl
@@ -1439,6 +1440,7 @@ autodiscover.sudwestfryslan.nl
 autodiscover.terneuzen.nl
 autodiscover.terschelling.nl
 autodiscover.test.haarlemmermeer.nl
+autodiscover.texel.nl
 autodiscover.uitwijk.denhaag.nl
 autodiscover.vsp.nijmegen.nl
 autodiscover.vvd.haarlemmermeer.nl
@@ -1895,6 +1897,7 @@ betalen.scherpenzeel.nl
 betalen.smallingerland.nl
 betalen.stadskanaal.nl
 betalen.steenwijkerland.nl
+betalen.texel.nl
 betalenaan.oirschot.nl
 betalingen.amsterdam.nl
 beugen.landvancuijk.nl
@@ -2420,6 +2423,7 @@ connect.test.coevorden.nl
 connect.test.dantumadiel.frl
 connect.test.kerkrade.nl
 connect.test.overbetuwe.nl
+connect.texel.nl
 consent.sarphati.amsterdam.nl
 consul-tst.groningen.nl
 consul.midden-groningen.nl
@@ -2924,6 +2928,7 @@ digikoppeling.test.maasdriel.nl
 digikoppeling.test.oegstgeest.nl
 digikoppeling.test.oss.nl
 digikoppeling.test.rhenen.nl
+digikoppeling.texel.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingenproductie.steenwijkerland.nl
 digikoppelingentest.steenwijkerland.nl
@@ -2963,7 +2968,9 @@ digitalebalie.drechterland.nl
 digitalebalie.heeze-leende.nl
 digitalebalie.rhenen.nl
 digitalebalie.rotterdam.nl
+digitalebelastingbalie-test.texel.nl
 digitalebelastingbalie.rijswijk.nl
+digitalebelastingbalie.texel.nl
 digitaleplannen.apeldoorn.nl
 digitaleplannen.hardenberg.nl
 digitaleplannen.ommen.nl
@@ -3857,6 +3864,7 @@ exchange.alphenaandenrijn.nl
 exchange.assen.nl
 exchange.defryskemarren.nl
 exchange.overbetuwe.nl
+exchange.texel.nl
 exchange2.alphenaandenrijn.nl
 exchangehybrid.gemeentebeek.nl
 exo-ews.rotterdam.nl
@@ -4430,6 +4438,7 @@ geo.roermond.nl
 geo.sittard-geleen.nl
 geo.staphorst.nl
 geo.sudwestfryslan.nl
+geo.texel.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobrowser.enschede.nl
@@ -5074,6 +5083,7 @@ iburgerzaken.someren.nl
 iburgerzaken.sonenbreugel.nl
 iburgerzaken.staphorst.nl
 iburgerzaken.stichtsevecht.nl
+iburgerzaken.texel.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5218,6 +5228,7 @@ ibzpink.sonenbreugel.nl
 ibzpink.staphorst.nl
 ibzpink.stichtsevecht.nl
 ibzpink.t-diel.nl
+ibzpink.texel.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -5539,6 +5550,7 @@ intranet.sittard-geleen.nl
 intranet.staphorst.nl
 intranet.sudwestfryslan.nl
 intranet.terneuzen.nl
+intranet.texel.nl
 intranet2.gulpen-wittem.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
@@ -6206,9 +6218,11 @@ loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
 loket.test.dantumadiel.frl
+loket.texel.nl
 loketacc.arnhem.nl
 loketacpt.haarlem.nl
 lokettest.middendrenthe.nl
+lokettest.texel.nl
 loo-tv.brunssum.nl
 loonopzand.nl
 looplijst.top.amsterdam.nl
@@ -6299,6 +6313,7 @@ mail.delft.nl
 mail.denhelder.nl
 mail.derondevenen.nl
 mail.deventer.nl
+mail.digikoppeling.texel.nl
 mail.dmb.amsterdam.nl
 mail.drechterland.nl
 mail.echt-susteren.nl
@@ -6750,6 +6765,7 @@ mijn.stichtsevecht.nl
 mijn.sudwestfryslan.nl
 mijn.terneuzen.nl
 mijn.test.oss.nl
+mijn.texel.nl
 mijnaanvraagzi.beuningen.nl
 mijnaanvragen.purmerend.nl
 mijnacc.montfoort.nl
@@ -6869,6 +6885,7 @@ mijnswf.sudwestfryslan.nl
 mijntalent-acc.gennep.nl
 mijntalent.gennep.nl
 mijntalentcenter.gemeentehulst.nl
+mijntexeltest.texel.nl
 mijnuitkering.emmen.nl
 mijnuitkering.nissewaard.nl
 mijnuitkering.s-hertogenbosch.nl
@@ -7019,6 +7036,7 @@ mozard.bunnik.nl
 mozard.gooisemeren.nl
 mozard.schiermonnikoog.nl
 mozard.terschelling.nl
+mozardproductie.texel.nl
 mozardtest.ameland.nl
 mozardtest.bunnik.nl
 mozardtest.gooisemeren.nl
@@ -7605,6 +7623,7 @@ openpdc.rijssen-holten.nl
 openpdc.rozendaal.nl
 openpdc.s-hertogenbosch.nl
 openpdc.stedebroec.nl
+openpdc.texel.nl
 openpdckb.stedebroec.nl
 openpub.acc.stichtsevecht.nl
 openpub.albrandswaard.nl
@@ -7632,6 +7651,7 @@ openpub.s-hertogenbosch.nl
 openpub.sittard-geleen.nl
 openpub.stichtsevecht.nl
 openpub.test.stichtsevecht.nl
+openpub.texel.nl
 openpubkb.stedebroec.nl
 openstad.apeldoorn.nl
 openstad.deventer.nl
@@ -7930,6 +7950,7 @@ passwordreset.almere.nl
 patternlab.barneveld.nl
 payt.nieuwegein.nl
 pb-yutpa.rnd.amsterdam.nl
+pbx.texel.nl
 pcmonitor.leudal.nl
 pcoda.kerkrade.nl
 pcorsa.kerkrade.nl
@@ -8222,6 +8243,7 @@ preprod-mijn.hollandskroon.nl
 preprod-mijn.noordwijk.nl
 preprod-mijn.ridderkerk.nl
 preprod-mijn.sudwestfryslan.nl
+preprod-mijn.texel.nl
 preprod-mijnaanvragen.purmerend.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
@@ -9756,6 +9778,7 @@ subsidiebackoffice.acceptatie.dordrecht.nl
 subsidiebackoffice.dordrecht.nl
 subsidiebeheer.alkmaar.nl
 subsidiebeheer.delft.nl
+subsidiebeleidskaart.texel.nl
 subsidieloket-acc.midden-groningen.nl
 subsidieloket-backend-acc.midden-groningen.nl
 subsidieloket-backend.midden-groningen.nl
@@ -10153,6 +10176,7 @@ test.sonenbreugel.nl
 test.stichtsevecht.nl
 test.subsites.leiden.nl
 test.sudwestfryslan.nl
+test.texel.nl
 test.website.westland.gemeentewestland.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
@@ -10257,6 +10281,7 @@ testwozloket.borger-odoorn.nl
 testwww.rucphen.nl
 testzaken.haarlemmermeer.nl
 testzaken.meierijstad.nl
+texel.nl
 tgws4allsuite4werk.heerlen.nl
 tgws4allsuite4zorg.heerlen.nl
 themawebsite.hoorn.nl
@@ -11002,6 +11027,7 @@ werk.landvancuijk.nl
 werk.montfoort.nl
 werkaandewijk.denhaag.nl
 werken.heiloo.nl
+werken.texel.nl
 werkenbij-ict.haarlem.nl
 werkenbij.alkmaar.nl
 werkenbij.ameland.nl
@@ -11094,6 +11120,7 @@ werkplek.smallingerland.nl
 werkplek.staphorst.nl
 werkplek.steenwijkerland.nl
 werkplek.sudwestfryslan.nl
+werkplek.texel.nl
 werkplek02.derondevenen.nl
 werkplektest.haarlemmermeer.nl
 werving.amsterdam.nl
@@ -12149,6 +12176,7 @@ www.test.sudwestfryslan.nl
 www.testeloket.rhenen.nl
 www.testloket.groningen.nl
 www.testnhr.sudwestfryslan.nl
+www.texel.nl
 www.thuiswinkelen.landvancuijk.nl
 www.toegang.noord.amsterdam.nl
 www.toegangtest.groningen.nl
