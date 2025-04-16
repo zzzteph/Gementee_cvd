@@ -12,8 +12,8 @@ simsite
 mail
 afspraken
 digikoppeling
-secure
 preproductie
+secure
 simcms
 acceptatie
 felix
@@ -58,11 +58,11 @@ belastingbalie
 omgevingsvisie
 cmsoo
 loket.acceptatie
+data
 osb
 login
 api.meldingen-acc
 meldingen-acc
-data
 enterpriseregistration
 remote
 flowmailer-tracking
@@ -239,6 +239,7 @@ e-loket
 openstad
 afval
 bis
+data-test
 xential
 key2gbav
 archief
@@ -269,12 +270,12 @@ _dmarc
 parkeervergunningen
 ns1
 opendata
+sslvpn
 meet
 openformulieren
 awmag
 publicaties
 support
-data-test
 intranetcms
 www.doemee
 www.gemeenteraad
@@ -322,7 +323,6 @@ services
 gbi
 mijngeldzaken
 rooster
-sslvpn
 geoserver
 uca
 wifi
@@ -568,6 +568,7 @@ cloudadapter-t
 vsp
 burgerloket.acceptatie
 allegroweb
+forms
 haven
 winkelen
 financielestukken
@@ -667,6 +668,7 @@ www.iarchief
 content
 digitalebelastingbalie
 service
+qmanage
 edienstenburgerzaken.test
 aanvragen
 av
@@ -899,7 +901,6 @@ scim
 binnenstad
 cms.openstad
 devapps3
-forms
 staging
 www.staging
 zorgaanbieders
@@ -917,6 +918,7 @@ test-digikoppelingadapter
 dkd.berichtenverkeer
 durp
 dok
+forms-test
 www.remote
 www.zorgloket
 zmm
@@ -1066,6 +1068,7 @@ tickets
 cmsembrace
 embrace
 koppelvlakken
+publieksbalie
 foto
 status
 winkel
@@ -1133,7 +1136,6 @@ dis4fin
 parkeerloket
 secure-t
 camera
-qmanage
 pdc.test
 mijnhr
 digitalebelastingbalie-test
@@ -3203,7 +3205,6 @@ test-cmsdok
 test-dok
 test.afspraakmaken
 test.services
-forms-test
 kcv
 duiven-checker-preprod
 duiven-checker
@@ -4595,7 +4596,6 @@ w2008l
 w2012y
 w2016l
 ansvlm2009
-publieksbalie
 actief
 adverteren
 agenda
