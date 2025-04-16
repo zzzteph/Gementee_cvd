@@ -13,16 +13,16 @@ mail
 afspraken
 digikoppeling
 secure
+acceptatie
 preproductie
 simcms
-acceptatie
 felix
 probeer
 loket
 formulieren
 test
-dkd
 eloket
+dkd
 werkplek
 acc
 portal
@@ -41,12 +41,12 @@ waarmerk
 broker
 pv
 zaaksysteem-accept
-iparticipatie
-enterpriseenrollment
 testeloket
+iparticipatie
+gemeenteraad
+enterpriseenrollment
 test-ipa
 werkenbij
-gemeenteraad
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
@@ -59,10 +59,10 @@ omgevingsvisie
 loket.acceptatie
 osb
 login
+cmsoo
 api.meldingen-acc
 meldingen-acc
 enterpriseregistration
-cmsoo
 data
 flowmailer-tracking
 beeldbank
@@ -172,6 +172,7 @@ mobiel
 connect.acceptatie
 inproces
 cryptshare
+bestuur
 fs
 preprodbroker
 college
@@ -188,7 +189,6 @@ ro
 contentbeheer.acceptatie
 zaken.acceptatie
 outlook
-bestuur
 testloket
 kennisbank
 preprod-mijn
@@ -205,6 +205,7 @@ byod
 guest
 iarchief
 publicroam
+formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -232,7 +233,6 @@ woo
 afval
 bis
 fmreturn
-formulieren-test
 xential
 jongin
 key2gbav
@@ -275,6 +275,7 @@ support
 data-test
 intranetcms
 www.doemee
+www.gemeenteraad
 acc.piwik
 citrix
 test-secure
@@ -320,7 +321,6 @@ geoserver
 uca
 wifi
 digikoppelingtest
-www.gemeenteraad
 extern
 gp
 mam
@@ -344,6 +344,7 @@ webservices
 squit2020.acceptatie
 academie
 woz-portaal
+socialekaart
 www.intranet
 testbelastingloket
 aeolus
@@ -436,7 +437,7 @@ mijnloket
 www.openstad
 digitalebalie
 mobility
-socialekaart
+www.socialekaart
 ondernemen
 raadsinformatie
 duo
@@ -541,6 +542,7 @@ clicksfm
 download
 www.afspraak
 pkio1
+dvg
 inproces.test
 mbg2
 buitenoporde
@@ -580,7 +582,6 @@ klantportaal.acc
 prod
 grondwater
 vergunningen
-www.socialekaart
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -851,7 +852,6 @@ squit2go-backoffice
 webcon
 reserveren
 wijzer
-dvg
 idtst
 bor-acc
 suite4burgerzaken-prod
@@ -6514,3 +6514,5 @@ klicwion
 parkeerlokettest
 secure1ev
 secure1t
+adviesraad
+www.adviesraad
