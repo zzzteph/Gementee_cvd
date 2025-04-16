@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 mijn
+webmail
 simsite
 mail
 digikoppeling
@@ -26,10 +26,10 @@ dkd
 werkplek
 acc
 portal
+open
 meldingen
 waarmerk
 afspraak
-open
 geo
 raad
 parkeren
@@ -63,20 +63,20 @@ remote
 osb
 omgevingsvisie
 enterpriseregistration
+cloudadapter-test
 data
 login
 beeldbank
-cloudadapter-test
 flowmailer-tracking
 digikoppeling-test
 kaart
 zaken
+berichten
+cloudadapter
 kaarten
 hybrid
-berichten
 formulier
 parkeren-acc
-cloudadapter
 digikoppeling.test
 test-intranet
 cmsintranet
@@ -90,6 +90,7 @@ acc-broker
 govroam
 doemee
 test-cmsintranet
+portaal
 osbacc
 parkeren-test
 piwik
@@ -97,9 +98,11 @@ siam
 extranet
 samen
 pki
-portaal
 verkiezingen
 duurzaam
+apps
+klantcontact
+simcms-open
 www.webmail
 filecap
 squit2go
@@ -108,12 +111,10 @@ afvalkalender
 dali
 preprod
 qr
-apps
 gemeente
 bastion365
 woningbouwkaart
-klantcontact
-simcms-open
+obsurv
 dtestmidoffice
 begroting
 mijnzorg
@@ -122,7 +123,6 @@ simform
 mijninkomen
 bgt
 sip
-obsurv
 micollab
 mdm
 contentbeheer
@@ -191,6 +191,7 @@ fs
 kennisbank
 college
 belastingbalie-test
+melddesk
 mail2
 jcc
 sharefile
@@ -208,7 +209,6 @@ _autodiscover._tcp
 preprod-mijn
 wachtwoord
 subsidies-backend
-melddesk
 website
 gemeentearchief
 onderzoek
@@ -369,6 +369,7 @@ ibabs
 tim
 gateway
 m
+mijn-preproductie
 www.afspraken
 prefill
 mijndesktop
@@ -470,7 +471,6 @@ sso
 gemeentebestuur
 geoweb
 testdigikoppeling
-mijn-preproductie
 teleweb
 cars
 access
@@ -593,6 +593,7 @@ preprodgdintaker
 preprodscbroker
 scbroker
 www.financielestukken
+micc
 parkeeracties
 parkeren-siam-test
 parkeren-siam
@@ -671,6 +672,8 @@ www.denkmee
 open-formulieren-test
 preprod-belastingen
 insite
+hybrid1
+hybrid2
 digitaalloket
 ews
 www.belastingloket
@@ -921,7 +924,6 @@ zorgaanbieders
 begraven
 geodata-acc
 gisweb
-micc
 parkeeracties-test
 site
 serverruimte
@@ -1064,8 +1066,6 @@ test-kaartviewer
 bekendmakingen
 test-insite
 veilig
-hybrid1
-hybrid2
 www.cryptshare
 parkeernormen
 liber
@@ -6710,3 +6710,11 @@ rokkeveen
 simcms-raad
 stadsatlas-contrast
 stadsatlas
+ddsaansluiting
+gbaservices
+medewerkersportal
+melddeskapp
+mmiprod
+mmitest
+mobielapp
+zpljcc
