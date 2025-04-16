@@ -5087,6 +5087,7 @@ fsp.ede.nl
 ft.gouda.nl
 ftp-server.ovh.gemeentebeek.nl
 ftp-test.tilburg.nl
+ftp.achtkarspelen.nl
 ftp.afs.acc.amsterdam.nl
 ftp.afs.amsterdam.nl
 ftp.amsterdam.nl

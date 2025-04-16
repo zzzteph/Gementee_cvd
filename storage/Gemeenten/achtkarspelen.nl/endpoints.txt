@@ -1,10 +1,11 @@
 http://autodiscover.achtkarspelen.nl
-http://mail.achtkarspelen.nl
-http://preproductie.achtkarspelen.nl
+http://simcms.achtkarspelen.nl
 https://denkmee.achtkarspelen.nl
 https://e.achtkarspelen.nl
+https://ftp.achtkarspelen.nl
 https://iburgerzaken.achtkarspelen.nl
 https://portal.achtkarspelen.nl
+https://preproductie.achtkarspelen.nl
 https://pv.achtkarspelen.nl
 https://ruimtelijkeplannen.achtkarspelen.nl
-https://simform.achtkarspelen.nl
+https://simform-preproductie.achtkarspelen.nl
