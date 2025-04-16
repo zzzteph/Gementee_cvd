@@ -13,9 +13,9 @@ afspraken
 mail
 digikoppeling
 secure
+acceptatie
 preproductie
 simcms
-acceptatie
 felix
 probeer
 loket
@@ -33,8 +33,8 @@ ruimtelijkeplannen
 raad
 afspraak
 betalen
-parkeren
 adfs
+parkeren
 api.meldingen
 vpn
 waarmerk
@@ -60,9 +60,9 @@ osb
 api.meldingen-acc
 meldingen-acc
 enterpriseregistration
+login
 loket.acceptatie
 data
-login
 flowmailer-tracking
 digikoppeling-test
 beeldbank
@@ -74,8 +74,8 @@ kaart
 berichten
 formulier
 hybrid
-kaarten
 cloudadapter
+kaarten
 mks
 govroam
 test-intranet
@@ -103,6 +103,7 @@ siam
 gemeente
 woningbouwkaart
 www.webmail
+filecap
 squit2go
 vergunningintaker
 mijninkomen
@@ -111,7 +112,6 @@ afvalkalender
 duurzaam
 bastion365
 obsurv
-filecap
 begroting
 mijnzorg
 e
@@ -141,6 +141,7 @@ acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
+bgt
 keycloak
 objecten
 sip
@@ -157,7 +158,6 @@ acc-contact
 acc-keycloak
 acc-openklant
 acc-openzaak
-bgt
 notificaties
 objecttypen
 openklant
@@ -194,6 +194,7 @@ subsidies-backend
 melddesk
 website
 onderzoek
+evenementen
 sharefile
 test-digikoppeling
 byod
@@ -214,10 +215,10 @@ zaaksysteem
 contact
 www.portal
 _autodiscover._tcp
+geodata
 subsidie
 api.openstad
 mail2
-evenementen
 telewerken
 www.acc
 openstad
@@ -243,7 +244,6 @@ vergunningintaker-preprod
 geovisia
 simform-preproductie
 praatmee
-geodata
 servicedesk
 belastingen-acc
 thuiswerken
@@ -438,6 +438,7 @@ tim
 pip
 www.werkplek
 acceptatie-intranet
+hpdm
 sso
 testdigikoppeling
 teleweb
@@ -454,6 +455,7 @@ edienstenmijninkomen
 edienstverlening-preprod
 edienstverlening
 autorisatie
+ldap
 testafspraken
 veiligmailen
 3d
@@ -483,6 +485,7 @@ top
 www.ruimtelijkeplannen
 digitaleplannen
 parkeerapp
+smartdoc
 digid
 werk
 www.mijn
@@ -586,6 +589,7 @@ corsa-test
 www.login
 liquitsatellite
 radius
+prtg
 preprod-mijnsociaaldomein
 berichtenverkeer
 www.kaarten
@@ -594,7 +598,6 @@ de
 aaa
 preprod-belastingportaal
 squitxo
-hpdm
 online
 neuron
 stats
@@ -650,7 +653,6 @@ aanvragen
 av
 datalab
 gen1
-ldap
 notubiz
 subsidiebeheer
 api-meldingen.acc
@@ -736,7 +738,6 @@ fm
 gpa
 mo
 ndes
-smartdoc
 stadspas
 tijdschrijven
 www.stadspas
@@ -883,7 +884,9 @@ staging
 www.staging
 zorgaanbieders
 begraven
+geodata-acc
 gisweb
+micc
 parkeeracties
 site
 serverruimte
@@ -928,7 +931,6 @@ www.parkeren
 pip-preproductie
 telefoon
 www.mail
-prtg
 mylex
 rds
 digikoppelingjnet
@@ -3120,11 +3122,9 @@ programmabegroting2024.financielestukken
 vogelweide
 apps-fat
 apps-vdi
-geodata-acc
 hetsociaalplein-acc
 hetsociaalplein
 kijk
-micc
 parkeeracties-test
 training
 felixpdc
@@ -6431,3 +6431,16 @@ key2financien
 notubiz-recorder
 vdlpki
 wsn-mail
+ctb
+evenemententest
+geobeheer
+login1
+login2
+logintest
+mijn-accept
+mitel
+sdm
+sl
+sltest
+smartdoctest
+zsnl

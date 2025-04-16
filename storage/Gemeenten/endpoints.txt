@@ -843,6 +843,7 @@ https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
 https://acceptatie.teylingen.nl
 https://acceptatie.velsen.nl
+https://acceptatie.voorst.nl
 https://acceptatiebelastingen.duiven.nl
 https://acceptatievergunningen.duiven.nl
 https://access.landvancuijk.nl
@@ -3131,10 +3132,12 @@ https://geobrowser.enschede.nl
 https://geocortex.krimpenerwaard.nl
 https://geocortex.middendrenthe.nl
 https://geodata-acc.dijkenwaard.nl
+https://geodata-acc.voorst.nl
 https://geodata.dijkenwaard.nl
 https://geodata.hollandskroon.nl
 https://geodata.nunspeet.nl
 https://geodata.utrecht.nl
+https://geodata.voorst.nl
 https://geografie.bronckhorst.nl
 https://geoinformatie.dongen.nl
 https://geoloket.heumen.nl
@@ -4338,6 +4341,7 @@ https://midden-groningen.nl
 https://middendrenthe.nl
 https://mijn-acc.groningen.nl
 https://mijn-acc.overbetuwe.nl
+https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-preproductie.ooststellingwerf.nl
 https://mijn-services.accp.nijmegen.nl
@@ -4425,6 +4429,7 @@ https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
 https://mijn.voorschoten.nl
+https://mijn.voorst.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnaanvragensociaaldomein.venlo.nl
 https://mijnacc.montfoort.nl
@@ -6656,6 +6661,7 @@ https://volg.amsterdam.nl
 https://voorjaarsnota.rijswijk.nl
 https://voorjaarsrapportage.haarlemmermeer.nl
 https://voorschool.almere.nl
+https://voorst.nl
 https://vortum-mullem.landvancuijk.nl
 https://vow.rotterdam.nl
 https://vpn-extern.gooisemeren.nl
@@ -7499,6 +7505,7 @@ https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
 https://www.vlieland.nl
 https://www.voerendaal.nl
+https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl
 https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl
