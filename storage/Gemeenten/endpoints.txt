@@ -228,7 +228,6 @@ http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
 http://beheer-test-trefpunt.deurne.nl
 http://belasting-test.kampen.nl
-http://belastingbalie.amsterdam.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://belastingen.sudwestfryslan.nl
@@ -346,8 +345,6 @@ http://mijn.houten.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.zuidplas.nl
 http://mijn.zwartewaterland.nl
-http://mijnbelastingen.amsterdam.nl
-http://mijnsbl-test.amsterdam.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
 http://mijnzorg.aalsmeer.nl
@@ -567,6 +564,7 @@ http://www.trefnet.hellevoetsluis.nl
 http://www.veere.nl
 http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
+http://www.weesp.amsterdam.nl
 http://www.werkenbij.amsterdam.nl
 http://www.werkenbij.zaanstad.nl
 http://www.westmaasenwaal.nl
@@ -975,6 +973,7 @@ https://adfs.simpelveld.nl
 https://adfs.voerendaal.nl
 https://adfs01.sudwestfryslan.nl
 https://adfslogin.defryskemarren.nl
+https://admin.bereikbaarheid.amsterdam.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.doemee.gemeentewestland.nl
 https://admin.doemee.zwolle.nl
@@ -1619,6 +1618,7 @@ https://belastingbalie-test.veldhoven.nl
 https://belastingbalie.acc.nissewaard.nl
 https://belastingbalie.acc.rhenen.nl
 https://belastingbalie.amersfoort.nl
+https://belastingbalie.amsterdam.nl
 https://belastingbalie.capelleaandenijssel.nl
 https://belastingbalie.doetinchem.nl
 https://belastingbalie.ede.nl
@@ -2349,6 +2349,7 @@ https://derondevenen.nl
 https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
 https://design.hoorn.nl
+https://designsystem.amsterdam.nl
 https://designsystem.leiden.nl
 https://designtool.rotterdam.nl
 https://desktop.gemeentestein.nl
@@ -4947,6 +4948,7 @@ https://mijnafspraak.scherpenzeel.nl
 https://mijnafval.meerssen.nl
 https://mijnafval.valkenburg.nl
 https://mijnbbsuo.soest.nl
+https://mijnbelastingen.amsterdam.nl
 https://mijnbelastingen.vught.nl
 https://mijnbetaling.sudwestfryslan.nl
 https://mijnerfpacht.amsterdam.nl
@@ -5009,6 +5011,7 @@ https://mijnportaal.lansingerland.nl
 https://mijnpost.pekela.nl
 https://mijnpost.veendam.nl
 https://mijnrapportages.rotterdam.nl
+https://mijnsbl-test.amsterdam.nl
 https://mijnsbl.amsterdam.nl
 https://mijnschuldhulpverlening.nissewaard.nl
 https://mijnsdv.emmen.nl
@@ -6412,6 +6415,7 @@ https://schiermonnikoog.nl
 https://scholenwijzer-acc.denhaag.nl
 https://scholenwijzer.denhaag.nl
 https://schoolwijzer.amsterdam.nl
+https://schoon.amsterdam.nl
 https://schouwen-duiveland.nl
 https://schulddossier.amsterdam.nl
 https://scim.noordwijk.nl
@@ -6426,6 +6430,8 @@ https://sdv-p.zwolle.nl
 https://sdv-t.zwolle.nl
 https://search.amsterdam.nl
 https://search.data.amsterdam.nl
+https://seascape.acc.amsterdam.nl
+https://seascape.amsterdam.nl
 https://secfs.tilburg.nl
 https://secudoc.gemeentebeek.nl
 https://secudoc.nederbetuwe.nl

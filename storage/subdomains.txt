@@ -726,6 +726,7 @@ adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 admanager.zaaksysteem.eindhoven.nl
 admin-acc.datapunt.amsterdam.nl
+admin.bereikbaarheid.amsterdam.nl
 admin.data.amsterdam.nl
 admin.doemee.bloemendaal.nl
 admin.doemee.gemeentewestland.nl
@@ -3293,6 +3294,7 @@ derondevenen.nl
 deschop.acceptatie.asten.nl
 deschop.asten.nl
 design.hoorn.nl
+designsystem.amsterdam.nl
 designsystem.leiden.nl
 designtool.rotterdam.nl
 desktop.apeldoorn.nl
@@ -6774,6 +6776,7 @@ iparticipatie.waddinxveen.nl
 iparticipatie.weststellingwerf.nl
 iparticipatie.wierden.nl
 iparticipatie.wijdemeren.nl
+iparticipatie.wpi.amsterdam.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
 iris.acc.denhaag.nl
@@ -10810,6 +10813,7 @@ scholenwijzer-acc.denhaag.nl
 scholenwijzer.denhaag.nl
 school.bibliotheek.rotterdam.nl
 schoolwijzer.amsterdam.nl
+schoon.amsterdam.nl
 schouwen-duiveland.nl
 schulddossier.amsterdam.nl
 scim.deurne.nl
@@ -10836,6 +10840,8 @@ sdv.haarlem.nl
 se.vga.amsterdam.nl
 search.amsterdam.nl
 search.data.amsterdam.nl
+seascape.acc.amsterdam.nl
+seascape.amsterdam.nl
 sec.gemeentemaasgouw.nl
 secfs.tilburg.nl
 secudoc.gemeentebeek.nl
@@ -13794,6 +13800,7 @@ www.apeldoorn.nl
 www.app6-accp.nijmegen.nl
 www.app6.nijmegen.nl
 www.apps.haarlemmermeer.nl
+www.arc.amsterdam.nl
 www.arcgis.groningen.nl
 www.archeologie.denhaag.nl
 www.archief.delft.nl
@@ -13940,6 +13947,7 @@ www.dataland.sudwestfryslan.nl
 www.dataportaal.tilburg.nl
 www.de.gemert-bakel.nl
 www.debilt.nl
+www.debretten.amsterdam.nl
 www.defryskemarren.nl
 www.delft.nl
 www.delfzijl.groningen.nl
@@ -14776,9 +14784,11 @@ www.webvpn.gemeentehulst.nl
 www.webvpn.zwolle.nl
 www.webwinkel.landvancuijk.nl
 www.weert.nl
+www.weesp.amsterdam.nl
 www.weespbegroot.amsterdam.nl
 www.wegwijsplus.vught.nl
 www.wegwijzer.nijkerk.eu
+www.werkaandeweg.amsterdam.nl
 www.werkaandewijk.denhaag.nl
 www.werkenbij.alkmaar.nl
 www.werkenbij.amsterdam.nl

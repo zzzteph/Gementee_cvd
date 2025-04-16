@@ -1,12 +1,9 @@
 http://autodiscover.amsterdam.nl
-http://belastingbalie.amsterdam.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://mail.amsterdam.nl
-http://mijnbelastingen.amsterdam.nl
-http://mijnsbl-test.amsterdam.nl
 http://parkeervergunningen.amsterdam.nl
 http://subsites.amsterdam.nl
 http://woz.amsterdam.nl
@@ -17,6 +14,7 @@ http://www.nieuwwest.amsterdam.nl
 http://www.pmb.amsterdam.nl
 http://www.regelgeving.amsterdam.nl
 http://www.stadstoezicht.amsterdam.nl
+http://www.weesp.amsterdam.nl
 http://www.werkenbij.amsterdam.nl
 https://3d.amsterdam.nl
 https://Infra-summit.acc.amsterdam.nl
@@ -62,6 +60,7 @@ https://acc.vt.data.amsterdam.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://activiteiten.amsterdam.nl
+https://admin.bereikbaarheid.amsterdam.nl
 https://admin.schoolwijzer.amsterdam.nl
 https://adus.amsterdam.nl
 https://afs.acc.amsterdam.nl
@@ -129,6 +128,7 @@ https://awm.amsterdam.nl
 https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
 https://beheerfotobank.amsterdam.nl
+https://belastingbalie.amsterdam.nl
 https://bereikbaarheid.amsterdam.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
@@ -189,6 +189,7 @@ https://decoswonen.acc.amsterdam.nl
 https://decoswonen.amsterdam.nl
 https://demirandabad.amsterdam.nl
 https://demo.onderwijssubsidies.amsterdam.nl
+https://designsystem.amsterdam.nl
 https://devportal.api.amsterdam.nl
 https://digiform-fa.amsterdam.nl
 https://digiform.acc.amsterdam.nl
@@ -335,7 +336,9 @@ https://mft-fa.amsterdam.nl
 https://mft.amsterdam.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://mijn.amsterdam.nl
+https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
+https://mijnsbl-test.amsterdam.nl
 https://mijnsbl.amsterdam.nl
 https://mijnsubsidies.acc.amsterdam.nl
 https://mijnsubsidies.amsterdam.nl
@@ -433,9 +436,12 @@ https://scanhulp.amsterdam.nl
 https://scanhulp.tst.amsterdam.nl
 https://schemas.data.amsterdam.nl
 https://schoolwijzer.amsterdam.nl
+https://schoon.amsterdam.nl
 https://schulddossier.amsterdam.nl
 https://search.amsterdam.nl
 https://search.data.amsterdam.nl
+https://seascape.acc.amsterdam.nl
+https://seascape.amsterdam.nl
 https://selfservice.ggd.amsterdam.nl
 https://sensorenregister.amsterdam.nl
 https://sfb.ggd.amsterdam.nl

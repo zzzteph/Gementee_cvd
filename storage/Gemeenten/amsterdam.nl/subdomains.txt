@@ -128,6 +128,7 @@ activiteiten.amsterdam.nl
 adam.amsterdam.nl
 adfs.ggd.amsterdam.nl
 admin-acc.datapunt.amsterdam.nl
+admin.bereikbaarheid.amsterdam.nl
 admin.data.amsterdam.nl
 admin.schoolwijzer.amsterdam.nl
 adus.amsterdam.nl
@@ -329,6 +330,7 @@ decoswonen.amsterdam.nl
 demirandabad.amsterdam.nl
 demo-onderwijsloket.amsterdam.nl
 demo.onderwijssubsidies.amsterdam.nl
+designsystem.amsterdam.nl
 dev.rnd.amsterdam.nl
 devportal.api.amsterdam.nl
 dgdialog.acc.amsterdam.nl
@@ -567,6 +569,7 @@ intranet.geuzenveld.amsterdam.nl
 intranet.raadsinformatie.amsterdam.nl
 intunecollector.amsterdam.nl
 iovi.amsterdam.nl
+iparticipatie.wpi.amsterdam.nl
 iris.data.amsterdam.nl
 is2.acc.amsterdam.nl
 is2.amsterdam.nl
@@ -824,10 +827,13 @@ scanhulp.amsterdam.nl
 scanhulp.tst.amsterdam.nl
 schemas.data.amsterdam.nl
 schoolwijzer.amsterdam.nl
+schoon.amsterdam.nl
 schulddossier.amsterdam.nl
 se.vga.amsterdam.nl
 search.amsterdam.nl
 search.data.amsterdam.nl
+seascape.acc.amsterdam.nl
+seascape.amsterdam.nl
 secure.amsterdam.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
@@ -1005,6 +1011,7 @@ wppbeheer.amsterdam.nl
 www.acc.amsterdam.nl
 www.aga.amsterdam.nl
 www.amsterdam.nl
+www.arc.amsterdam.nl
 www.ateliers.amsterdam.nl
 www.atlas.amsterdam.nl
 www.baarsjes.amsterdam.nl
@@ -1029,6 +1036,7 @@ www.containers.amsterdam.nl
 www.containersweesperbuurt.amsterdam.nl
 www.crk.amsterdam.nl
 www.data.amsterdam.nl
+www.debretten.amsterdam.nl
 www.dmo.amsterdam.nl
 www.dmo2.amsterdam.nl
 www.dro.amsterdam.nl
@@ -1078,7 +1086,9 @@ www.toegang.noord.amsterdam.nl
 www.vga.amsterdam.nl
 www.victor.amsterdam.nl
 www.vvetest.amsterdam.nl
+www.weesp.amsterdam.nl
 www.weespbegroot.amsterdam.nl
+www.werkaandeweg.amsterdam.nl
 www.werkenbij.amsterdam.nl
 www.westbegroot.amsterdam.nl
 wzs.amsterdam.nl
