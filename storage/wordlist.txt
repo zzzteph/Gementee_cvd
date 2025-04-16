@@ -36,8 +36,8 @@ adfs
 ruimtelijkeplannen
 vpn
 betalen
-api.meldingen
 waarmerk
+api.meldingen
 broker
 pv
 zaaksysteem-accept
@@ -85,13 +85,13 @@ belastingloket
 govroam
 dtestloket
 connect
+cmsintranet
 denkmee
 financien
 extranet
 samen
 doemee
 test-cmsintranet
-cmsintranet
 portaal
 osbacc
 siam
@@ -115,6 +115,7 @@ vergunningintaker
 simform
 mijninkomen
 dali
+bgt
 obsurv
 micollab
 dtestmidoffice
@@ -125,7 +126,6 @@ preprod-mijninkomen
 qr
 acc-formulier
 acc-podiumd-logs
-bgt
 podiumd-logs
 sts
 simcms-open
@@ -204,6 +204,7 @@ woo
 bag
 test-digikoppeling
 byod
+fmreturn
 guest
 iarchief
 publicroam
@@ -235,7 +236,6 @@ e-loket
 openstad
 afval
 bis
-fmreturn
 xential
 jongin
 key2gbav
@@ -286,6 +286,7 @@ burgerloket
 ondernemersloket
 admin.openstad
 eformulieren
+woz-portaal
 kcc
 aeolus
 en
@@ -308,6 +309,7 @@ subsidies.acceptatie
 dkd-test
 ro-online
 www.duurzaam
+bewustwording
 wion
 www.test
 api
@@ -345,7 +347,6 @@ openformulieren-test
 webservices
 squit2020.acceptatie
 academie
-woz-portaal
 socialekaart
 www.intranet
 testbelastingloket
@@ -368,7 +369,6 @@ rpl3
 test-zaakloket
 testsiam
 zaakloket
-bewustwording
 mail1
 atlas
 beheer
@@ -445,6 +445,8 @@ duo
 mijnuitkering
 www.samen
 gbionline
+cca-acc
+cca
 gemeentewinkel
 tim
 pip
@@ -460,6 +462,7 @@ bezoekersparkeren-acc
 bezoekersparkeren
 hta
 mijnsociaaldomein-acc
+prefill
 awmail
 awtunnel
 mijndesktop
@@ -599,8 +602,6 @@ pip-test
 www.gemeente
 gbionlinetest
 squit2gotest
-cca-acc
-cca
 corsa-prod
 corsa-test
 www.login
@@ -656,7 +657,6 @@ open-formulieren-test
 preprod-belastingen
 insite
 digitaalloket
-prefill
 wonen
 ews
 www.belastingloket
@@ -789,6 +789,7 @@ spf-ogone01
 spf-ogone02
 spf-wind
 geoserver-test
+youpp
 pwa
 k2fin
 solliciterenbij
@@ -951,6 +952,7 @@ telefoon
 www.mail
 mylex
 rds
+e.bewustwording
 digikoppelingjnet
 apigateway
 apigateway2
@@ -1098,6 +1100,7 @@ wlan
 domain-admin
 formulier.accp
 Snelbalie
+duoloket
 eformulieren-test
 helpmij
 telefonie
@@ -2380,7 +2383,6 @@ woz-portaal-eemnes
 www.preprod-woz-portaal-eemnes
 www.woz-portaal-eemnes
 www.woz-portaal
-youpp
 adc
 cis
 cscp
@@ -3616,7 +3618,6 @@ w2008stuf
 workspace-rds
 www-cache
 www.eformulieren
-e.bewustwording
 digikoppelingjnet-test
 misentry
 preproductiebroker
@@ -5040,7 +5041,6 @@ dicos-test
 docudistri
 droppki
 droptestpki
-duoloket
 evoiprod
 evoitest
 felixburgerzaken
@@ -6537,3 +6537,15 @@ hamersestraat
 rosmolen
 westervoort-checker-preprod
 westervoort-checker
+bag-vwes11
+cmstestintranet
+dds-vwes21
+dkde-vwes11
+iis-vwes11
+iis-vwes21
+meldweb
+mh-vwes21
+post
+prefill.test
+testintranet
+wes-x-iis-01
