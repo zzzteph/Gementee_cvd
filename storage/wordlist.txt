@@ -12,8 +12,8 @@ simsite
 afspraken
 mail
 digikoppeling
-acceptatie
 preproductie
+acceptatie
 simcms
 secure
 probeer
@@ -24,29 +24,29 @@ eloket
 dkd
 werkplek
 test
+portal
 open
 meldingen
-portal
 acc
 geo
 adfs
+raad
 afspraak
 api.meldingen
 broker
 ruimtelijkeplannen
-raad
 waarmerk
 vpn
 parkeren
 betalen
 pv
 werkenbij
+iparticipatie
 zaaksysteem-accept
 belastingen
-iparticipatie
+test-ipa
 gemeenteraad
 testeloket
-test-ipa
 enterpriseenrollment
 openpdc
 dacceptatieloket
@@ -90,6 +90,7 @@ osbacc
 digikoppeling.test
 parkeren-acc
 vergunningintaker
+denkmee
 duurzaam
 preprod
 woningbouwkaart
@@ -99,7 +100,6 @@ www.webmail
 filecap
 test-cmsintranet
 cmsintranet
-denkmee
 portaal
 parkeren-test
 piwik
@@ -115,6 +115,7 @@ doemee
 jaarstukken
 begroting
 mijnzorg
+e
 mijninkomen
 siam
 qr
@@ -135,7 +136,6 @@ dtestmidoffice
 squit2go
 contentbeheer
 transfer
-e
 preprod-mijninkomen
 afvalkalender
 mailing
@@ -155,6 +155,7 @@ connect.acceptatie
 internetafspraken
 belastingportaal
 preprodbroker
+simform
 college
 gisib
 web
@@ -174,7 +175,6 @@ zaken.acceptatie
 inproces
 testloket
 kennisbank
-simform
 izaaksuite
 wachtwoord
 subsidies-backend
@@ -218,6 +218,7 @@ midoffice
 mijnzorg-acc
 documenten
 vergunningintaker-preprod
+geovisia
 praatmee
 servicedesk
 subsidie
@@ -256,7 +257,6 @@ handhaving
 participatie
 raadsnet
 toegang
-geovisia
 gisib-test
 gisibapi-test
 gisibapi
@@ -325,6 +325,7 @@ cloudadapter-prod
 www2
 loket.test
 www.acceptatie
+simform-preproductie
 diensten
 secure-test
 stadsarchief
@@ -407,7 +408,6 @@ sbc01
 m
 cars
 www.afspraken
-simform-preproductie
 www.praatmee
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
@@ -566,6 +566,7 @@ teleweb
 vacatures
 monitoring
 wijkteam
+www.denkmee
 access
 bezoekersparkeren-acc
 bezoekersparkeren
@@ -940,7 +941,6 @@ testwerkplek
 Cloudadapter-test
 communicatie
 idselect
-www.denkmee
 test-kaartviewer
 open-formulieren-test
 bekendmakingen
@@ -5957,3 +5957,9 @@ www.zorgaanbod
 youp
 zepcam
 zorgaanbod
+afvalris
+ried
+simcms-werkenbij
+taskflow
+webshop
+wsdl
