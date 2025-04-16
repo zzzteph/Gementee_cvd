@@ -12,8 +12,8 @@ simsite
 afspraken
 mail
 digikoppeling
-preproductie
 acceptatie
+preproductie
 secure
 simcms
 probeer
@@ -24,8 +24,8 @@ dkd
 eloket
 werkplek
 test
-portal
 open
+portal
 meldingen
 acc
 geo
@@ -138,6 +138,7 @@ squit2go
 contentbeheer
 transfer
 afvalkalender
+dali
 mailing
 snelbaliepp
 api.betalen
@@ -162,11 +163,11 @@ college
 gisib
 web
 veiligdelen
-dali
 vdi
 jcc
 email
 ftp
+legacy
 bgt
 sip
 gasten
@@ -181,7 +182,6 @@ izaaksuite
 wachtwoord
 subsidies-backend
 melddesk
-legacy
 owa
 test-digikoppeling
 meedoen
@@ -196,6 +196,7 @@ afspraakmaken
 contact
 _autodiscover._tcp
 belastingbalie-test
+website
 evenementen
 sharefile
 telewerken
@@ -226,7 +227,6 @@ subsidie
 belastingen-acc
 maps
 thuiswerken
-website
 api.openstad
 cms
 magazine
@@ -572,6 +572,11 @@ digitaal
 teleweb
 vacatures
 monitoring
+aanvragenpreprod
+aanvragenprod
+acceptatie-mobiliteitsplan
+bouwarchief
+edienstenpreprod
 wijkteam
 www.denkmee
 access
@@ -936,11 +941,6 @@ wozportaal
 dms
 return
 wmoloket
-aanvragenpreprod
-aanvragenprod
-acceptatie-mobiliteitsplan
-bouwarchief
-edienstenpreprod
 testwerkplek
 Cloudadapter-test
 communicatie
@@ -975,6 +975,8 @@ bestuursrapportage
 parkeren.reserveren
 werkeninkomen-test
 werkeninkomen
+mobiliteitsplan
+website.acceptatie
 alwayson
 testwebsite
 decos
@@ -4735,8 +4737,6 @@ nat
 simcms-klimaatbestendig
 vlindernet
 lisse-checker-preprod
-mobiliteitsplan
-website.acceptatie
 Www
 server23
 stroomlijn
@@ -5978,3 +5978,4 @@ mijntexeltest
 mozardproductie
 pbx
 subsidiebeleidskaart
+teylingen-checker-preprod
