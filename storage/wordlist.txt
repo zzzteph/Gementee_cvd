@@ -44,9 +44,9 @@ iparticipatie
 werkenbij
 zaaksysteem-accept
 test-ipa
-enterpriseenrollment
 belastingen
 gemeenteraad
+enterpriseenrollment
 testeloket
 dacceptatieloket
 dacceptatiemidoffice
@@ -62,18 +62,18 @@ omgevingsvisie
 loket.acceptatie
 login
 flowmailer-tracking
+digikoppeling-test
 enterpriseregistration
 formulier
 remote
 data
 zaken
 hybrid
-digikoppeling-test
-cmsoo
 kaart
 beeldbank
-cloudadapter-test
+cmsoo
 berichten
+cloudadapter-test
 mks
 acc-broker
 financien
@@ -108,6 +108,7 @@ obsurv
 extranet
 doemee
 jaarstukken
+begroting
 mijnzorg
 mijninkomen
 subsidies
@@ -123,7 +124,6 @@ keycloak
 objecten
 dtestmidoffice
 squit2go
-begroting
 test-cmsintranet
 cmsintranet
 preprod-mijninkomen
@@ -189,6 +189,7 @@ bor
 inproces.acceptatie
 outlook
 squit2020
+afspraakmaken
 contact
 _autodiscover._tcp
 belastingbalie-test
@@ -197,6 +198,7 @@ evenementen
 gis
 openstad
 woo
+bag
 lyncdiscover
 byod
 guest
@@ -207,7 +209,6 @@ preprod-mijnsociaalplein
 mobile
 ro
 cryptshare
-afspraakmaken
 www.portal
 midoffice
 mijnzorg-acc
@@ -231,7 +232,6 @@ telewerken
 www.acc
 opendata
 afval
-bag
 fmreturn
 data-test
 intranet-acc
@@ -242,7 +242,9 @@ archief
 filetransfer
 acceptatie-open
 bestanden
+kcc
 mx1
+zaaksysteem
 liquit
 mijnsociaaldomein
 handhaving
@@ -303,11 +305,9 @@ squit2020.acceptatie
 academie
 woz-portaal
 www.intranet
-kcc
 testbelastingloket
 mx2
 aeolus
-zaaksysteem
 e.openstad
 geoportaal
 en
@@ -348,6 +348,7 @@ test-objecttypen
 test-podiumd-logs
 beeldbank-bo
 bestemmingsplannen
+geoserver
 kaartviewer
 publicaties
 simcms-preproductie
@@ -440,7 +441,6 @@ test-openzaak
 awmag
 loket-acc
 plannen
-geoserver
 accdrop
 nhr
 personeelsplanning
@@ -670,6 +670,7 @@ acc-openzaak.dev
 acc-podiumd-logs.dev
 bedrijfsafval
 vastgoed
+geoserver-test
 pwa
 solliciterenbij
 gisibonline
@@ -710,6 +711,7 @@ rx-mission-publiceren
 voormeldingen
 wim2-acc
 netwerk
+beheerbeeldbank
 inkomensondersteuning
 www.stadsarchief
 ro-onlineprod
@@ -744,6 +746,8 @@ mbg2
 suite4burgerzaken-prod
 acceptatie.intranet
 efacturen
+geokoppeling-t
+geokoppeling
 mijnportaal
 datatest
 lev
@@ -847,6 +851,7 @@ aaa
 vergaderingen
 trobit
 stats
+verhuursport
 authenticatie
 begroting2018
 campus
@@ -856,6 +861,7 @@ open-formulieren
 ows-app
 rekentool
 sso
+www.begroting
 www.stemvan
 corsanxt
 xentialtest
@@ -907,6 +913,7 @@ idselect
 www.denkmee
 test-kaartviewer
 open-formulieren-test
+preprod-belastingen
 bekendmakingen
 test-insite
 hybrid1
@@ -919,6 +926,7 @@ tkoppelcorsa
 HTA
 lvolo-prod
 lvolo-test
+prefill
 validsign-prod
 geocortex
 tickets
@@ -2236,7 +2244,6 @@ spf-ogone01
 spf-ogone02
 spf-wind
 testmeldingen
-geoserver-test
 neuron.prod
 neuron.test
 preprod-woz-portaal-eemnes
@@ -2379,7 +2386,6 @@ woww
 api-acc
 api-dev
 archieven.stadsarchief
-beheerbeeldbank
 bouwdossiers.stadsarchief
 comoverheidacc
 dataacc
@@ -2486,8 +2492,6 @@ online-aanvraag
 sharepoint
 ddsp.services
 ddst.services
-geokoppeling-t
-geokoppeling
 adfslogin
 cmsdieuwke
 dieuwke
@@ -3638,7 +3642,6 @@ mivbxsrvr
 neuron-test
 powerbrowser-esb
 powerbrowsertest-esb
-verhuursport
 www.sportencultuur
 aauth
 begroting2019.financien
@@ -3854,7 +3857,6 @@ www.afspraken-abs
 www.afspraken-tst
 www.afspraken-tstabs
 www.arcgis
-www.begroting
 www.begroting2017
 www.begroting2018
 www.byod
@@ -4367,7 +4369,6 @@ webformulieren-acc
 webmail.test
 wpvh
 mfawerkplek
-preprod-belastingen
 raster
 zwembad
 cmsinsite
@@ -4493,7 +4494,6 @@ inloggen.belastingen
 jboss
 mohis
 mohistest
-prefill
 komverder
 mijnkrimpenwijzer
 pub
@@ -5780,3 +5780,12 @@ mail4
 mail5
 qmanage
 srv-app52
+acceptatie-zaaksysteem
+archief-zaaksysteem
+digitaalvergaderen
+mijnbbsuo
+msteamsbellen
+snelbaliebbsuo
+snelbalietestbbsuo
+test-mijnbbsuo
+zorgzaam
