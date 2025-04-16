@@ -202,6 +202,7 @@ http://autodiscover.waadhoeke.nl
 http://autodiscover.waalre.nl
 http://autodiscover.waalwijk.nl
 http://autodiscover.wageningen.nl
+http://autodiscover.wassenaar.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -396,6 +397,7 @@ http://simform-preproductie.vlaardingen.nl
 http://simform.heerenveen.nl
 http://simform.heerlen.nl
 http://simform.t-diel.nl
+http://simform.wassenaar.nl
 http://simsite.bergeijk.nl
 http://simsite.bunschoten.nl
 http://simsite.doesburg.nl
@@ -2060,6 +2062,7 @@ https://dali.schiedam.nl
 https://dali.teylingen.nl
 https://dali.voorschoten.nl
 https://dali.waddinxveen.nl
+https://dali.wassenaar.nl
 https://dantumadiel.frl
 https://dap.amsterdam.nl
 https://darwin.tilburg.nl
@@ -3109,6 +3112,7 @@ https://gemeentearchief.ede.nl
 https://gemeentearchief.gemeentehulst.nl
 https://gemeentearchief.goes.nl
 https://gemeentearchief.veenendaal.nl
+https://gemeentearchief.wassenaar.nl
 https://gemeenteberkelland.nl
 https://gemeentebest.nl
 https://gemeentebestuur.haarlem.nl
@@ -3603,6 +3607,7 @@ https://iburgerzaken.waalre.nl
 https://iburgerzaken.waalwijk.nl
 https://iburgerzaken.waddinxveen.nl
 https://iburgerzaken.wageningen.nl
+https://iburgerzaken.wassenaar.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -6006,6 +6011,7 @@ https://simcms.staphorst.nl
 https://simcms.twenterand.nl
 https://simcms.veere.nl
 https://simcms.voorschoten.nl
+https://simcms.wassenaar.nl
 https://simform-preproductie.voorschoten.nl
 https://simform-test.rijswijk.nl
 https://simform.achtkarspelen.nl

@@ -13,8 +13,8 @@ mail
 afspraken
 digikoppeling
 secure
-acceptatie
 simcms
+acceptatie
 preproductie
 felix
 probeer
@@ -33,10 +33,10 @@ afspraak
 ruimtelijkeplannen
 raad
 parkeren
+vpn
 betalen
 adfs
 api.meldingen
-vpn
 waarmerk
 pv
 zaaksysteem-accept
@@ -92,10 +92,10 @@ doemee
 dtestloket
 test-cmsintranet
 cmsintranet
+portaal
 osbacc
 siam
 pki
-portaal
 verkiezingen
 parkeren-test
 snelbalie
@@ -110,16 +110,16 @@ filecap
 squit2go
 mijnzorg
 vergunningintaker
+simform
 mijninkomen
 piwik
+dali
 bastion365
 obsurv
 begroting
 e
-simform
 subsidies
 preprod-mijninkomen
-dali
 qr
 acc-formulier
 acc-podiumd-logs
@@ -217,9 +217,11 @@ zaaksysteem
 contact
 www.portal
 _autodiscover._tcp
+simform-preproductie
 geodata
 subsidie
 api.openstad
+gemeentearchief
 telewerken
 www.acc
 e-loket
@@ -248,14 +250,12 @@ mijnzorg-acc
 documenten
 vergunningintaker-preprod
 geovisia
-simform-preproductie
 praatmee
 servicedesk
 belastingen-acc
 thuiswerken
 cms
 exchange
-gemeentearchief
 mozard
 mozardtest
 magazine
@@ -428,6 +428,7 @@ ris
 collecties
 subsidies-login.acceptatie
 klantportaal
+mfa
 test.digikoppeling
 filr
 mijnloket
@@ -544,7 +545,6 @@ storefront
 cjg
 geoservices
 lvs
-mfa
 octopus-acc
 smartdocuments
 smtp1
@@ -655,6 +655,7 @@ www.belastingloket
 huisstijl
 awmail
 awtunnel
+content
 digitalebelastingbalie
 service
 edienstenburgerzaken.test
@@ -1097,7 +1098,6 @@ smtp10
 smtp20
 www.afspraakmaken
 www.iarchief
-content
 www.jcc
 mijnwerkplek
 mijnpost
@@ -1116,6 +1116,7 @@ qmatic
 videobellen
 nwro
 zwemmen
+wsn-mail
 webapps
 email.mail.participatie
 mail.participatie
@@ -6430,7 +6431,6 @@ camerabuitendienst
 key2financien
 notubiz-recorder
 vdlpki
-wsn-mail
 ctb
 evenemententest
 geobeheer
