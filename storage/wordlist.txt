@@ -26,10 +26,10 @@ dkd
 werkplek
 acc
 portal
+waarmerk
 afspraak
 geo
 meldingen
-waarmerk
 open
 raad
 parkeren
@@ -37,8 +37,8 @@ betalen
 adfs
 api.meldingen
 ruimtelijkeplannen
-vpn
 broker
+vpn
 iparticipatie
 zaaksysteem-accept
 gemeenteraad
@@ -55,11 +55,11 @@ dloket
 dmidoffice
 openpub
 belastingbalie
+cmsoo
 api.meldingen-acc
 meldingen-acc
 osb
 omgevingsvisie
-cmsoo
 loket.acceptatie
 remote
 data
@@ -71,12 +71,12 @@ flowmailer-tracking
 digikoppeling-test
 kaart
 zaken
+kaarten
 hybrid
 berichten
 formulier
-cloudadapter
-kaarten
 parkeren-acc
+cloudadapter
 test-intranet
 cmsintranet
 denkmee
@@ -91,13 +91,13 @@ govroam
 test-cmsintranet
 osbacc
 parkeren-test
+piwik
 siam
 extranet
 samen
 doemee
 portaal
 verkiezingen
-piwik
 duurzaam
 pki
 www.webmail
@@ -126,6 +126,7 @@ simcms-open
 mdm
 contentbeheer
 begroting
+preprodbroker
 e
 izaaksuite
 subsidies
@@ -138,7 +139,6 @@ podiumd-logs
 sts
 jaarstukken
 belastingportaal
-preprodbroker
 gisib
 web
 maps
@@ -177,12 +177,14 @@ openklant
 owa
 test-digikoppeling
 meedoen
+formulieren-test
 mobiel
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
 bestuur
 squit2020
+mta-sts
 fs
 kennisbank
 college
@@ -191,8 +193,8 @@ mail2
 jcc
 sharefile
 gis
+fmreturn
 iarchief
-formulieren-test
 intranet-acc
 smtp
 bor
@@ -200,7 +202,6 @@ inproces.acceptatie
 outlook
 testloket
 afspraakmaken
-mta-sts
 _autodiscover._tcp
 preprod-mijn
 wachtwoord
@@ -215,7 +216,6 @@ desktop
 woo
 bag
 byod
-fmreturn
 guest
 publicroam
 jccapi
@@ -448,6 +448,7 @@ router
 digitalebalie
 mobility
 vergunningen
+mta-sts.raad
 www.socialekaart
 raadsinformatie
 duo
@@ -601,7 +602,7 @@ webformulieren
 klantportaal.acc
 prod
 grondwater
-mta-sts.raad
+acceptatiebelastingen
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -933,7 +934,6 @@ forms-test
 www.remote
 www.zorgloket
 zmm
-acceptatiebelastingen
 acceptatievergunningen
 www.acc.piwik
 betaal
@@ -1167,6 +1167,7 @@ videobellen
 nwro
 zwemmen
 wsn-mail
+autodiscover.raad
 spamfilter
 webapps
 email.mail.participatie
@@ -6519,7 +6520,6 @@ adviesraad
 www.adviesraad
 acceptatie.notarisportaal
 armoedepact
-autodiscover.raad
 notarisportaal
 potjeswijzer
 selfserviceportal
