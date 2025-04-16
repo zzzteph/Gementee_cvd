@@ -201,6 +201,7 @@ http://autodiscover.vvd.nijmegen.nl
 http://autodiscover.waadhoeke.nl
 http://autodiscover.waalre.nl
 http://autodiscover.waalwijk.nl
+http://autodiscover.wageningen.nl
 http://baarn.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -935,6 +936,7 @@ https://afspraak.pekela.nl
 https://afspraak.rijswijk.nl
 https://afspraak.sudwestfryslan.nl
 https://afspraak.veenendaal.nl
+https://afspraak.wageningen.nl
 https://afspraakmaken.dronten.nl
 https://afspraakmaken.enschede.nl
 https://afspraakmaken.losser.nl
@@ -1535,6 +1537,7 @@ https://belastingen.rozendaal.nl
 https://belastingen.soest.nl
 https://belastingen.stadskanaal.nl
 https://belastingen.venray.nl
+https://belastingen.wageningen.nl
 https://belastingloket-test.vijfheerenlanden.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.edam-volendam.nl
@@ -1869,6 +1872,7 @@ https://clicksfm.nieuwsbrief.stichtsevecht.nl
 https://clicksfm.persberichten.lansingerland.nl
 https://clicksfm.persberichten.stichtsevecht.nl
 https://clicksfm.stichtsevecht.nl
+https://cloud.wageningen.nl
 https://cloudadapter-test.meppel.nl
 https://cloudadapter.meppel.nl
 https://cloudrecorder.denhaag.nl
@@ -1906,6 +1910,7 @@ https://cmsintranet.steenwijkerland.nl
 https://cmsintranet.sudwestfryslan.nl
 https://cmsintranet.velsen.nl
 https://cmsintranet.venlo.nl
+https://cmsintranet.wageningen.nl
 https://cmsjip.hofvantwente.nl
 https://cmsjip.vijfheerenlanden.nl
 https://cmsmarkt1.nunspeet.nl
@@ -2473,6 +2478,7 @@ https://edienstenburgerzaken-test.voerendaal.nl
 https://edienstenburgerzaken-test.vught.nl
 https://edienstenburgerzaken-test.waadhoeke.nl
 https://edienstenburgerzaken-test.waalre.nl
+https://edienstenburgerzaken-test.wageningen.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -2585,6 +2591,7 @@ https://edienstenburgerzaken.voerendaal.nl
 https://edienstenburgerzaken.vught.nl
 https://edienstenburgerzaken.waadhoeke.nl
 https://edienstenburgerzaken.waalre.nl
+https://edienstenburgerzaken.wageningen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
 https://edienstenmijninkomen.albrandswaard.nl
 https://edienstenmijninkomen.barendrecht.nl
@@ -2819,6 +2826,8 @@ https://erisa.fa2.amsterdam.nl
 https://erisa.ft.amsterdam.nl
 https://ermelo.nl
 https://esb-nhr.hellevoetsluis.nl
+https://esb-test.wageningen.nl
+https://esb.wageningen.nl
 https://escharen.landvancuijk.nl
 https://etl.haarlemmermeer.nl
 https://etten-leur.nl
@@ -3195,6 +3204,7 @@ https://geoportaal.katwijk.nl
 https://geoportaal.oss.nl
 https://geoportaal.test.oss.nl
 https://geoportaal.waalwijk.nl
+https://geoportaal.wageningen.nl
 https://geoportaaltest.enschede.nl
 https://geoproxy.s-hertogenbosch.nl
 https://geoserver-signalen.almere.nl
@@ -3333,6 +3343,7 @@ https://haven.acc.sittard-geleen.nl
 https://haven.deventer.nl
 https://haven.sittard-geleen.nl
 https://haven.tst.sittard-geleen.nl
+https://haven.wageningen.nl
 https://havenkwartieraanzet.denhaag.nl
 https://healthyurbanliving.utrecht.nl
 https://heemskerk.nl
@@ -3591,6 +3602,7 @@ https://iburgerzaken.vught.nl
 https://iburgerzaken.waalre.nl
 https://iburgerzaken.waalwijk.nl
 https://iburgerzaken.waddinxveen.nl
+https://iburgerzaken.wageningen.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3666,6 +3678,7 @@ https://img.v2.openstad.haarlemmermeer.nl
 https://impactmeter.kampen.nl
 https://indica-acc.amsterdam.nl
 https://indienst.almere.nl
+https://indienst.wageningen.nl
 https://info.sudwestfryslan.nl
 https://infoopkaart.steenwijkerland.nl
 https://infoplein.oosterhout.nl
@@ -3700,6 +3713,7 @@ https://inloggen.mijnsubsidie.eindhoven.nl
 https://inloggen.mijnsubsidie.test.eindhoven.nl
 https://inloggen.oldenzaal.nl
 https://inloggen.oostgelre.nl
+https://inloggen.wageningen.nl
 https://inloggenapv-preprod.hellendoorn.nl
 https://inloggenapv.hellendoorn.nl
 https://inproces-templafy-acc.overbetuwe.nl
@@ -3791,6 +3805,7 @@ https://intranet.velsen.nl
 https://intranet.venlo.nl
 https://intranet.vlissingen.nl
 https://intranet.waalwijk.nl
+https://intranet.wageningen.nl
 https://intranet2.gulpen-wittem.nl
 https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
@@ -3803,6 +3818,7 @@ https://intranetcms.midden-groningen.nl
 https://intranetcms.nissewaard.nl
 https://intranetcms.waalwijk.nl
 https://intranetdekompanjie.veendam.nl
+https://intranetprod.wageningen.nl
 https://intranettest.krimpenerwaard.nl
 https://intraweb.nederbetuwe.nl
 https://intro.roermond.nl
@@ -5100,6 +5116,7 @@ https://openpdc.s-hertogenbosch.nl
 https://openpdc.stedebroec.nl
 https://openpdc.texel.nl
 https://openpdc.waddinxveen.nl
+https://openpdc.wageningen.nl
 https://openpdckb.stedebroec.nl
 https://openpub.acc.stichtsevecht.nl
 https://openpub.albrandswaard.nl
@@ -5129,6 +5146,7 @@ https://openpub.stichtsevecht.nl
 https://openpub.test.stichtsevecht.nl
 https://openpub.texel.nl
 https://openpub.waddinxveen.nl
+https://openpub.wageningen.nl
 https://openpubkb.stedebroec.nl
 https://openstad.apeldoorn.nl
 https://openstad.deventer.nl
@@ -5185,6 +5203,7 @@ https://outlook.dewolden.nl
 https://outlook.hoogeveen.nl
 https://outlook.meerssen.nl
 https://outlook.sittard-geleen.nl
+https://outlook.wageningen.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://overloon.landvancuijk.nl
 https://owa.groningen.nl
@@ -5203,13 +5222,17 @@ https://papendrecht-checker.papendrecht.nl
 https://papendrecht.nl
 https://parkeerabonnementen.breda.nl
 https://parkeeracties-test.dijkenwaard.nl
+https://parkeeracties-test.wageningen.nl
 https://parkeeracties.dijkenwaard.nl
 https://parkeeracties.valkenswaard.nl
+https://parkeeracties.wageningen.nl
 https://parkeerapp.acc.denhaag.nl
 https://parkeerapp.acc.utrecht.nl
 https://parkeerapp.apeldoorn.nl
 https://parkeerapp.denhaag.nl
 https://parkeerapp.utrecht.nl
+https://parkeerbalie-test.wageningen.nl
+https://parkeerbalie.wageningen.nl
 https://parkeerkaart.amsterdam.nl
 https://parkeernorm.valkenswaard.nl
 https://parkeernormen.katwijk.nl
@@ -5926,12 +5949,14 @@ https://sherlock.amsterdam.nl
 https://sherlock.tst.amsterdam.nl
 https://shop.heitje.heerlen.nl
 https://shops.landvancuijk.nl
+https://siam-test.wageningen.nl
 https://siam.ameland.nl
 https://siam.bunnik.nl
 https://siam.rhenen.nl
 https://siam.schiermonnikoog.nl
 https://siam.terschelling.nl
 https://siam.vlieland.nl
+https://siam.wageningen.nl
 https://siamtest.bunnik.nl
 https://sibp01.lelystad.nl
 https://sibt01.lelystad.nl
@@ -6191,6 +6216,7 @@ https://stemmen.amsterdam.nl
 https://stemvan.groningen.nl
 https://stemvan.midden-groningen.nl
 https://stemvan.opsterland.nl
+https://stemvan.wageningen.nl
 https://stevensbeek.landvancuijk.nl
 https://stichtsevecht.nl
 https://stoepvrij.groningen.nl
@@ -6334,6 +6360,7 @@ https://telewerken.nederbetuwe.nl
 https://telewerken.stichtsevecht.nl
 https://terneuzen.nl
 https://test-belastingbalie.eindhoven.nl
+https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
 https://test-bink.beverwijk.nl
 https://test-cmsbink.beverwijk.nl
@@ -6350,6 +6377,7 @@ https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.venlo.nl
+https://test-cmsintranet.wageningen.nl
 https://test-cmsjip.vijfheerenlanden.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-digikoppeling.brielle.nl
@@ -6367,6 +6395,7 @@ https://test-intranet.heuvelrug.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.sittard-geleen.nl
 https://test-intranet.venlo.nl
+https://test-intranet.wageningen.nl
 https://test-jip.vijfheerenlanden.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
@@ -6823,6 +6852,7 @@ https://waddsup.waddinxveen.nl
 https://wadelse.waddinxveen.nl
 https://wadelsecms-acc.waddinxveen.nl
 https://wadelsecms.waddinxveen.nl
+https://wageningen.nl
 https://wandelroutes.landvancuijk.nl
 https://wanroij.landvancuijk.nl
 https://warenhuis.groningen.nl
@@ -6892,6 +6922,7 @@ https://webmail.terneuzen.nl
 https://webmail.tynaarlo.nl
 https://webmail.valkenburg.nl
 https://webmail.waalwijk.nl
+https://webmail.wageningen.nl
 https://webmeeting.brunssum.nl
 https://webproxy.venray.nl
 https://webserver.schiedam.nl
@@ -7622,6 +7653,7 @@ https://www.waalre.nl
 https://www.waalwijk.nl
 https://www.waddenland.groningen.nl
 https://www.waddinxveen.nl
+https://www.wageningen.nl
 https://www.watdoetdegemeente.rotterdam.nl
 https://www.webmail.olst-wijhe.nl
 https://www.webwinkel.landvancuijk.nl
