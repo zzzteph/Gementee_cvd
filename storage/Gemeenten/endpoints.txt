@@ -254,6 +254,7 @@ http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
 http://digid.ooststellingwerf.nl
 http://digitaalnachtregister.alphen-chaam.nl
+http://digitaalnachtregister.baarle-nassau.nl
 http://digitaalnachtregister.gilzerijen.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
