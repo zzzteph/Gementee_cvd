@@ -410,6 +410,7 @@ media
 plannen
 bestemmingsplannen
 kaartviewer
+localhost
 nhr
 personeelsplanning
 djuma
@@ -568,7 +569,6 @@ api.doemee
 auth.doemee
 img.doemee
 testformulieren
-localhost
 automator
 preprod-mijnoverzicht
 2secure
@@ -2466,6 +2466,7 @@ cis
 cscp
 dkp
 dkt
+ggi
 jongerenraad
 k2bg
 misc-geo-01

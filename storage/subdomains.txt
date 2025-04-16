@@ -5450,6 +5450,7 @@ ggd.rotterdam.nl
 ggexo.groningen.nl
 ggexoopsrv1.groningen.nl
 ggexoopsrv2.groningen.nl
+ggi.barneveld.nl
 ggk-koppeling.middelburg.nl
 ggk-koppeling.vlissingen.nl
 ggk-pki.sudwestfryslan.nl
@@ -7351,6 +7352,7 @@ lliam-test.zoetermeer.nl
 lliam.zoetermeer.nl
 lms.veere.nl
 local.oostgelre.nl
+localhost.barneveld.nl
 localhost.borger-odoorn.nl
 localhost.smallingerland.nl
 localhost.zaanstad.nl
