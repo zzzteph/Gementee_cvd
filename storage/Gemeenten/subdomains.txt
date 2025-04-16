@@ -778,6 +778,7 @@ afs.vaals.nl
 afscheidcrone.leeuwarden.nl
 afspraak-test.rijswijk.nl
 afspraak.acc.utrecht.nl
+afspraak.amersfoort.nl
 afspraak.arnhem.nl
 afspraak.barneveld.nl
 afspraak.bergendal.nl

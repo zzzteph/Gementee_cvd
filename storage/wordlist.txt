@@ -29,9 +29,9 @@ portal
 open
 meldingen
 raad
+afspraak
 parkeren
 waarmerk
-afspraak
 geo
 api.meldingen
 vpn
