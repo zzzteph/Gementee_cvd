@@ -200,6 +200,7 @@ inproces.acceptatie
 outlook
 testloket
 afspraakmaken
+mta-sts
 preprod-mijn
 wachtwoord
 subsidies-backend
@@ -220,7 +221,6 @@ mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
 jongin
-mta-sts
 mx1
 mx2
 zaaksysteem
@@ -367,6 +367,7 @@ tim
 gateway
 m
 www.afspraken
+mijndesktop
 www2
 loket.test
 www.acceptatie
@@ -462,6 +463,7 @@ acceptatie-intranet
 hpdm
 authenticatie
 sso
+gemeentebestuur
 geoweb
 testdigikoppeling
 mijn-preproductie
@@ -475,7 +477,6 @@ mijnsociaaldomein-acc
 prefill
 awmail
 awtunnel
-mijndesktop
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -634,7 +635,6 @@ mijn-acc
 open-formulieren
 validsign
 xentialtest
-gemeentebestuur
 lyncweb
 servicegateway
 autodiscover.cda
@@ -6607,3 +6607,5 @@ pkioverheid
 geoxchange-prod
 geoxchange-test
 relay2
+sat
+uat
