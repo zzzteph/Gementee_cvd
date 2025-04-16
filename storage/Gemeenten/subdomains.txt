@@ -4621,6 +4621,7 @@ etten-leur.nl
 ev-edienstenburgerzaken-test.echt-susteren.nl
 ev-edienstenburgerzaken.echt-susteren.nl
 evenementen-acc.denhaag.nl
+evenementen.almere.nl
 evenementen.amsterdam.nl
 evenementen.assen.nl
 evenementen.breda.nl
@@ -7314,6 +7315,7 @@ lifecoolsquare.groningen.nl
 linden.landvancuijk.nl
 link.burgerpanel.middendrenthe.nl
 link.capelleaandenijssel.nl
+link.pr.almere.nl
 link.pr.haarlemmermeer.nl
 link.pr.zwolle.nl
 link.schouwen-duiveland.nl
@@ -9410,6 +9412,7 @@ p-2secure.amersfoort.nl
 p8-test.zwolle.nl
 p8.zwolle.nl
 packages.sudwestfryslan.nl
+panel.almere.nl
 panel.amsterdam.nl
 panorama.data.amsterdam.nl
 panoviewer.data.amsterdam.nl

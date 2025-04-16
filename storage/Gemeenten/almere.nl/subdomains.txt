@@ -29,6 +29,7 @@ english.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
 enterpriseone.almere.nl
+evenementen.almere.nl
 floriade.almere.nl
 formulieren.almere.nl
 gemeenteblad.almere.nl
@@ -52,6 +53,7 @@ kavels.almere.nl
 kavelwinkel.almere.nl
 leefbuiten.almere.nl
 lerenloont.almere.nl
+link.pr.almere.nl
 maps.almere.nl
 melddesk.almere.nl
 meldingen-acc.almere.nl
@@ -64,6 +66,7 @@ ondernemersplein.almere.nl
 osb.almere.nl
 osbacc.almere.nl
 ota.mijn.almere.nl
+panel.almere.nl
 password.almere.nl
 passwordreset.almere.nl
 planon-acc.almere.nl

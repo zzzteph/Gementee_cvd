@@ -370,6 +370,7 @@ http://ows-dmnsapi.groningen.nl
 http://ows-websrvc-test.groningen.nl
 http://p8-test.zwolle.nl
 http://p8.zwolle.nl
+http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
 http://parkeren.waterland.nl
 http://participatieprikbord.denhaag.nl
@@ -3089,6 +3090,7 @@ https://escharen.landvancuijk.nl
 https://esuitenotubiz-test.westvoorne.nl
 https://etl.haarlemmermeer.nl
 https://etten-leur.nl
+https://evenementen.almere.nl
 https://evenementen.breda.nl
 https://evenementen.denhaag.nl
 https://evenementen.landvancuijk.nl
@@ -4475,6 +4477,7 @@ https://lifecoolsquare.groningen.nl
 https://linden.landvancuijk.nl
 https://link.burgerpanel.middendrenthe.nl
 https://link.capelleaandenijssel.nl
+https://link.pr.almere.nl
 https://link.pr.zwolle.nl
 https://link.schouwen-duiveland.nl
 https://link.socialewegwijzer.meierijstad.nl
@@ -5989,7 +5992,6 @@ https://preprod-mijn.texel.nl
 https://preprod-mijn.zwolle.nl
 https://preprod-mijnaanvragensociaaldomein.venlo.nl
 https://preprod-mijnbelastingen.vught.nl
-https://preprod-mijninkomen.almere.nl
 https://preprod-mijninkomen.beverwijk.nl
 https://preprod-mijninkomen.denhelder.nl
 https://preprod-mijninkomen.doesburg.nl
