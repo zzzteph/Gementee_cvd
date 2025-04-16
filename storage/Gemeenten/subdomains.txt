@@ -466,6 +466,7 @@ acc.ton.amsterdam.nl
 acc.top.amsterdam.nl
 acc.tubbergen.nl
 acc.tynaarlo.nl
+acc.vaals.nl
 acc.vergunningcheck.amsterdam.nl
 acc.vergunningschecker.amsterdam.nl
 acc.verkeer.amsterdam.nl
@@ -702,6 +703,7 @@ afs.amsterdam.nl
 afs.ont.amsterdam.nl
 afs.opl.amsterdam.nl
 afs.tst.amsterdam.nl
+afs.vaals.nl
 afscheidcrone.leeuwarden.nl
 afspraak-test.rijswijk.nl
 afspraak.acc.utrecht.nl
@@ -837,6 +839,7 @@ afspraken.stadskanaal.nl
 afspraken.steenwijkerland.nl
 afspraken.tholen.nl
 afspraken.tynaarlo.nl
+afspraken.vaals.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -1955,6 +1958,7 @@ bestuur.gooisemeren.nl
 bestuur.terschelling.nl
 bestuur.tholen.nl
 bestuur.tubbergen.nl
+bestuur.vaals.nl
 bestuursakkoord.s-hertogenbosch.nl
 bestuursinformatie.beesel.nl
 bestuursrapportage.leiden.nl
@@ -2253,6 +2257,7 @@ bzg1-acc.heerlen.nl
 bzg1-acc.hellevoetsluis.nl
 bzg1-acc.twenterand.nl
 bzg1.heerlen.nl
+bzg1.vaals.nl
 c2c-tst.gemeente.groningen.nl
 c2c.gemeente.groningen.nl
 cag.gemeentemaasgouw.nl
@@ -2947,6 +2952,7 @@ digid-parkeervergunningen.denhaag.nl
 digid-parkeervergunningen.utrecht.nl
 digid-parkeren-acc.purmerend.nl
 digid-parkeren.purmerend.nl
+digid-prod.vaals.nl
 digid-subsidies-login.acceptatie.ede.nl
 digid-subsidies-login.ede.nl
 digid.arnhem.nl
@@ -3096,6 +3102,7 @@ digikoppelingtest.smallingerland.nl
 digikoppelingtst.arnhem.nl
 digikoppelingtst.rheden.nl
 digikoppelingwoz.schouwen-duiveland.nl
+digilevering.vaals.nl
 digileveringportaal.gemeentebeek.nl
 digiloket.kerkrade.nl
 digipoort.emmen.nl
@@ -5000,6 +5007,8 @@ haven.sittard-geleen.nl
 haven.tst.sittard-geleen.nl
 havenkwartieraanzet.denhaag.nl
 hba.dpg.amsterdam.nl
+hcs01.vaals.nl
+hcs02.vaals.nl
 healthyurbanliving.utrecht.nl
 heelenschoon.amsterdam.nl
 heemskerk.nl
@@ -5340,6 +5349,7 @@ iburgerzaken.twenterand.nl
 iburgerzaken.tynaarlo.nl
 iburgerzaken.uithoorn.nl
 iburgerzaken.urk.nl
+iburgerzaken.vaals.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5490,6 +5500,7 @@ ibzpink.tiel.nl
 ibzpink.twenterand.nl
 ibzpink.tynaarlo.nl
 ibzpink.uithoorn.nl
+ibzpink.vaals.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -6200,6 +6211,7 @@ keyhub.hofvantwente.nl
 keyhub.urk.nl
 kghtb-prod.gemeente-steenbergen.nl
 kghtb-test.gemeente-steenbergen.nl
+kgs01.vaals.nl
 kgzorgned-prod.gemeente-steenbergen.nl
 kgzorgned-test.gemeente-steenbergen.nl
 kibana.parkeren.data.amsterdam.nl
@@ -7410,6 +7422,7 @@ mta-sts.pop.deventer.nl
 mta-sts.raad.duiven.nl
 mta-sts.raad.terneuzen.nl
 mta-sts.terneuzen.nl
+mta-sts.vaals.nl
 mta.nieuwsbrief.amsterdam.nl
 museumcollecties.roermond.nl
 mv1.amsterdam.nl
@@ -11051,6 +11064,7 @@ uwdorpofwijk.alphenaandenrijn.nl
 uwmening.denhaag.nl
 uwvergunning.leiden.nl
 v2.openstad.haarlemmermeer.nl
+vaals.nl
 vaarkaart.bba.amsterdam.nl
 vaarvergunningen.amsterdam.nl
 vaarvergunningen.nieuwkoop.nl
@@ -11513,6 +11527,7 @@ webmail.twenterand.nl
 webmail.tynaarlo.nl
 webmail.urk.nl
 webmail.utrecht.nl
+webmail.vaals.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
 webmail2.heusden.nl
@@ -11520,6 +11535,7 @@ webmail3.twenterand.nl
 webmailacc.utrecht.nl
 webmailpost.amstelveen.nl
 webmeeting.brunssum.nl
+webpublishing.vaals.nl
 webreserveren.tynaarlo.nl
 webscada-rps.doetinchem.nl
 webscada.doetinchem.nl
@@ -12793,6 +12809,7 @@ www.urk.nl
 www.utrecht.nl
 www.uwdorpofwijk.alphenaandenrijn.nl
 www.v2.openstad.haarlemmermeer.nl
+www.vaals.nl
 www.vaarvergunningen.nieuwkoop.nl
 www.varen.groningen.nl
 www.vasd-acc.groningen.nl
