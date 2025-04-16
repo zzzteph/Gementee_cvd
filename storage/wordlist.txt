@@ -26,17 +26,17 @@ dkd
 werkplek
 acc
 portal
+geo
 meldingen
 waarmerk
 afspraak
 open
-geo
 raad
 parkeren
+betalen
 adfs
 api.meldingen
 ruimtelijkeplannen
-betalen
 vpn
 broker
 iparticipatie
@@ -617,6 +617,7 @@ pip-test
 www.gemeente
 gbionlinetest
 squit2gotest
+geo-secure
 mijnmobiel
 www.login
 liquitsatellite
@@ -950,7 +951,6 @@ geoportaaltest
 mijn-acceptatie
 parkeervergunningtest
 zoek
-geo-secure
 financieelportaal
 intake
 organisatie
