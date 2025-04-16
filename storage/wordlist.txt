@@ -61,11 +61,11 @@ cmsoo
 loket.acceptatie
 remote
 cloudadapter-test
+data
 osb
 omgevingsvisie
 enterpriseregistration
 login
-data
 beeldbank
 flowmailer-tracking
 digikoppeling-test
@@ -107,6 +107,7 @@ www.webmail
 filecap
 dtestmidoffice
 squit2go
+mijnzorg
 vergunningintaker
 snelbalie
 afvalkalender
@@ -119,7 +120,6 @@ bgt
 woningbouwkaart
 obsurv
 begroting
-mijnzorg
 simform
 mijninkomen
 acc-formulier
@@ -237,6 +237,7 @@ zaaksysteem
 www.portal
 cloudadapter-prod
 handhaving
+mijnzorg-acc
 vergunningintaker-preprod
 simform-preproductie
 praatmee
@@ -267,7 +268,6 @@ woz-portaal
 en
 mijnsociaaldomein
 midoffice
-mijnzorg-acc
 documenten
 geovisia
 gisib-test
@@ -317,6 +317,7 @@ sbc01
 participatie
 raadsnet
 toegang
+pdc
 zoeken
 subsidies-backend.acceptatie
 subsidies.acceptatie
@@ -434,7 +435,6 @@ logilink
 suite4burgerzaken-test
 sync
 medewerkers
-pdc
 www.afspraak
 grooster
 ris
@@ -505,7 +505,9 @@ edienstverlening
 aanvragen
 autorisatie
 ldap
+pub
 subsidiebeheer
+subsidieloket
 testafspraken
 veiligmailen
 3d
@@ -1095,7 +1097,6 @@ HTA
 lvolo-prod
 lvolo-test
 validsign-prod
-pub
 geocortex
 monitor
 tickets
@@ -1133,7 +1134,6 @@ ggk-koppeling
 kadernota
 regieportaal
 zorg-acc
-subsidieloket
 lokettest
 portaaltest
 wmo
@@ -1215,12 +1215,15 @@ alkgeo01.authenticatie
 alkkpv01.authenticatie
 alkmaarsport-techniek
 alksrx01
+alktkpv01.authenticatie
 ap01
 artiance
 autorisatie01
 autorisatie02
 berichtenverkeer.authenticatie
 camera-sport
+digimedia
+digitaletweeling
 egress-repro
 fw-rtr
 gast-rtr
@@ -1229,6 +1232,7 @@ gbsserver
 gbstadswerk
 gen2
 meent
+netbox
 ns01
 ns02
 nsx01

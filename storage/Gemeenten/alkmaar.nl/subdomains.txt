@@ -13,6 +13,7 @@ alkkpv01.authenticatie.alkmaar.nl
 alkmaar.nl
 alkmaarsport-techniek.alkmaar.nl
 alksrx01.alkmaar.nl
+alktkpv01.authenticatie.alkmaar.nl
 ap01.alkmaar.nl
 artiance.alkmaar.nl
 autodiscover.alkmaar.nl
@@ -22,7 +23,10 @@ autorisatie02.alkmaar.nl
 av.alkmaar.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 camera-sport.alkmaar.nl
+data.alkmaar.nl
 datalab.alkmaar.nl
+digimedia.alkmaar.nl
+digitaletweeling.alkmaar.nl
 edienstenburgerzaken-test.alkmaar.nl
 edienstenburgerzaken.alkmaar.nl
 egress-repro.alkmaar.nl
@@ -37,6 +41,9 @@ izaaksuite.alkmaar.nl
 ldap.alkmaar.nl
 meent.alkmaar.nl
 mijn.alkmaar.nl
+mijnzorg-acc.alkmaar.nl
+mijnzorg.alkmaar.nl
+netbox.alkmaar.nl
 notubiz.alkmaar.nl
 ns01.alkmaar.nl
 ns02.alkmaar.nl
@@ -46,9 +53,11 @@ openpdc.alkmaar.nl
 openpub.alkmaar.nl
 osb.alkmaar.nl
 osbacc.alkmaar.nl
+pdc.alkmaar.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
 portal.data.alkmaar.nl
+pub.alkmaar.nl
 rdw-test.authenticatie.alkmaar.nl
 rdw.authenticatie.alkmaar.nl
 redirector.alkmaar.nl
@@ -59,6 +68,7 @@ spyke-stw.alkmaar.nl
 sthbcp02.alkmaar.nl
 stkbcp01.alkmaar.nl
 subsidiebeheer.alkmaar.nl
+subsidieloket.alkmaar.nl
 sw01.alkmaar.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl

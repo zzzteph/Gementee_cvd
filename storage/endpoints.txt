@@ -2270,6 +2270,7 @@ https://data-test.heumen.nl
 https://data-test.nijmegen.nl
 https://data-test.wijchen.nl
 https://data.aalsmeer.nl
+https://data.alkmaar.nl
 https://data.amstelveen.nl
 https://data.amsterdam.nl
 https://data.bergenopzoom.nl
@@ -5071,6 +5072,7 @@ https://mijnzaken.hengelo.nl
 https://mijnzaken.schagen.nl
 https://mijnzakentest.heerlen.nl
 https://mijnzi.beuningen.nl
+https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
 https://mijnzorg-acc.beesel.nl
@@ -5079,6 +5081,7 @@ https://mijnzorg-test.borne.nl
 https://mijnzorg-test.heuvelrug.nl
 https://mijnzorg.acc.utrecht.nl
 https://mijnzorg.accp.s-hertogenbosch.nl
+https://mijnzorg.alkmaar.nl
 https://mijnzorg.amstelveen.nl
 https://mijnzorg.barneveld.nl
 https://mijnzorg.beekdaelen.nl
@@ -5188,6 +5191,7 @@ https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
 https://nederweert.nl
 https://nerdio.meierijstad.nl
+https://netbox.alkmaar.nl
 https://neuron-test.gorinchem.nl
 https://neuron.gorinchem.nl
 https://ngsrv02.ad.winterswijk.nl
@@ -5798,6 +5802,7 @@ https://pcmonitor.leudal.nl
 https://pcportal.nijmegen.nl
 https://pdc-api.cg-intern.utrecht.nl
 https://pdc.acc.stichtsevecht.nl
+https://pdc.alkmaar.nl
 https://pdc.buren.nl
 https://pdc.sittard-geleen.nl
 https://pdc.stichtsevecht.nl
@@ -6098,6 +6103,7 @@ https://prp.tiel.nl
 https://prtg.gemeentemaashorst.nl
 https://psiam.oostzaan.nl
 https://psiam.wormerland.nl
+https://pub.alkmaar.nl
 https://pubgov.heerenveen.nl
 https://publicaties.barneveld.nl
 https://publicaties.delft.nl
@@ -6814,6 +6820,7 @@ https://subsidieloket-backend-acc.midden-groningen.nl
 https://subsidieloket-backend.midden-groningen.nl
 https://subsidieloket-login-acc.midden-groningen.nl
 https://subsidieloket-login.midden-groningen.nl
+https://subsidieloket.alkmaar.nl
 https://subsidieloket.midden-groningen.nl
 https://subsidieloket.zwolle.nl
 https://subsidieregister.denhaag.nl

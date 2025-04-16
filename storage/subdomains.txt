@@ -1020,6 +1020,7 @@ alkkpv01.authenticatie.alkmaar.nl
 alkmaar.nl
 alkmaarsport-techniek.alkmaar.nl
 alksrx01.alkmaar.nl
+alktkpv01.authenticatie.alkmaar.nl
 allegro-acc.rotterdam.nl
 allegro-test.nissewaard.nl
 allegro.emmen.nl
@@ -3151,6 +3152,7 @@ data-test.mookenmiddelaar.nl
 data-test.nijmegen.nl
 data-test.wijchen.nl
 data.aalsmeer.nl
+data.alkmaar.nl
 data.amstelveen.nl
 data.amsterdam.nl
 data.arnhem.nl
@@ -3551,6 +3553,7 @@ digilevering-portaal.zwolle.nl
 digilevering.vaals.nl
 digileveringportaal.gemeentebeek.nl
 digiloket.kerkrade.nl
+digimedia.alkmaar.nl
 digimelding.venlo.nl
 digipoort.emmen.nl
 digipost-acc.amsterdam.nl
@@ -3584,6 +3587,7 @@ digitalebelastingbalie.vlieland.nl
 digitaleplannen.apeldoorn.nl
 digitaleplannen.hardenberg.nl
 digitaleplannen.ommen.nl
+digitaletweeling.alkmaar.nl
 digitestsrvr.gorinchem.nl
 digiwap.rotterdam.nl
 dijkenwaard.nl
@@ -8345,6 +8349,7 @@ mijnzaken.schagen.nl
 mijnzakentest.heerlen.nl
 mijnzi.beuningen.nl
 mijnzorg-acc.aalsmeer.nl
+mijnzorg-acc.alkmaar.nl
 mijnzorg-acc.amstelveen.nl
 mijnzorg-acc.barneveld.nl
 mijnzorg-acc.beesel.nl
@@ -8355,6 +8360,7 @@ mijnzorg-test.heuvelrug.nl
 mijnzorg.aalsmeer.nl
 mijnzorg.acc.utrecht.nl
 mijnzorg.accp.s-hertogenbosch.nl
+mijnzorg.alkmaar.nl
 mijnzorg.amstelveen.nl
 mijnzorg.barneveld.nl
 mijnzorg.beekdaelen.nl
@@ -8628,6 +8634,7 @@ nedplan.montferland.info
 nedwion.westvoorne.nl
 neptunus.gemeentesluis.nl
 nerdio.meierijstad.nl
+netbox.alkmaar.nl
 netwerk.boxtel.nl
 netwerk.rhenen.nl
 netwerkstad.almelo.nl
@@ -9606,6 +9613,7 @@ pda.sittard-geleen.nl
 pda.zaanstad.nl
 pdc-api.cg-intern.utrecht.nl
 pdc.acc.stichtsevecht.nl
+pdc.alkmaar.nl
 pdc.buren.nl
 pdc.sittard-geleen.nl
 pdc.stichtsevecht.nl
@@ -10252,6 +10260,7 @@ psmartdoc.heerlen.nl
 psn.ise.rotterdam.nl
 psquit2020.landgraaf.nl
 ptr.cranendonck.nl
+pub.alkmaar.nl
 pub.krimpenaandenijssel.nl
 pub.uithoorn.nl
 pubgov.heerenveen.nl
@@ -11828,6 +11837,7 @@ subsidieloket-backend-acc.midden-groningen.nl
 subsidieloket-backend.midden-groningen.nl
 subsidieloket-login-acc.midden-groningen.nl
 subsidieloket-login.midden-groningen.nl
+subsidieloket.alkmaar.nl
 subsidieloket.midden-groningen.nl
 subsidieloket.zwolle.nl
 subsidieregister.denhaag.nl
