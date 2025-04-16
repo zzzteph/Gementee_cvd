@@ -27,10 +27,10 @@ werkplek
 acc
 portal
 meldingen
-open
-geo
 waarmerk
 afspraak
+open
+geo
 raad
 parkeren
 adfs
@@ -65,12 +65,12 @@ remote
 data
 login
 flowmailer-tracking
+digikoppeling-test
 enterpriseregistration
 beeldbank
 cloudadapter-test
-digikoppeling-test
-zaken
 kaart
+zaken
 hybrid
 berichten
 formulier
@@ -89,6 +89,7 @@ financien
 acc-broker
 govroam
 osbacc
+parkeren-test
 siam
 extranet
 samen
@@ -96,10 +97,10 @@ doemee
 test-cmsintranet
 portaal
 verkiezingen
-parkeren-test
 piwik
 duurzaam
 pki
+www.webmail
 filecap
 squit2go
 snelbalie
@@ -111,7 +112,6 @@ gemeente
 bastion365
 woningbouwkaart
 klantcontact
-www.webmail
 dtestmidoffice
 mijnzorg
 vergunningintaker
@@ -201,6 +201,7 @@ outlook
 testloket
 afspraakmaken
 mta-sts
+_autodiscover._tcp
 preprod-mijn
 wachtwoord
 subsidies-backend
@@ -229,11 +230,12 @@ zaaksysteem
 contact
 geoportaal
 www.portal
-_autodiscover._tcp
+handhaving
 simform-preproductie
 praatmee
 geodata
 subsidie
+thuiswerken
 api.openstad
 cms
 werkenvoor
@@ -252,7 +254,6 @@ acceptatie-open
 bestanden
 woz-portaal
 mijnsociaaldomein
-handhaving
 midoffice
 mijnzorg-acc
 documenten
@@ -262,7 +263,6 @@ www.werkenbij
 makelaar
 servicedesk
 belastingen-acc
-thuiswerken
 exchange
 ro-online
 mozard
@@ -296,6 +296,7 @@ sport
 burgerloket
 ondernemersloket
 admin.openstad
+vth
 eformulieren
 squit2020.acceptatie
 academie
@@ -354,7 +355,6 @@ subsidies-login
 mijnzaken
 auth.openstad
 img.openstad
-vth
 openformulieren-test
 webservices
 socialekaart
@@ -430,6 +430,7 @@ suite4burgerzaken-test
 sync
 medewerkers
 pdc
+www.afspraak
 grooster
 ris
 collecties
@@ -462,6 +463,7 @@ pip
 www.werkplek
 acceptatie-intranet
 hpdm
+neuron
 authenticatie
 sso
 gemeentebestuur
@@ -561,7 +563,6 @@ uitwijk
 mbg
 clicksfm
 download
-www.afspraak
 pkio1
 dvg
 mbg2
@@ -620,6 +621,7 @@ mijnmobiel
 www.login
 liquitsatellite
 www.parkeren
+www.mail
 prtg
 preprod-mijnsociaaldomein
 berichtenverkeer
@@ -631,7 +633,6 @@ aaa
 preprod-belastingportaal
 squitxo
 online
-neuron
 stats
 aov
 handhavingtest
@@ -961,10 +962,10 @@ mijnplan
 preprod-mijnplan
 www.djuma
 www.eloket
+www.parkeren-test
 pip-preproductie
 telefoon
 mm
-www.mail
 mylex
 rds
 e.bewustwording
@@ -1003,6 +1004,7 @@ intranet2
 secure1
 mijnintranet
 lynccon
+squitpub-prod
 wkpb
 autodiscover.d66
 autodiscover.sp
@@ -3595,7 +3597,6 @@ www.ldap
 www.mijntalentcenter
 www.parkeren-siam-test
 www.parkeren-siam
-www.parkeren-test
 www.preprod.clo
 www.transfer
 www.webvpn
@@ -4086,7 +4087,6 @@ regelen
 sccmmp
 sdv
 singlegateway
-squitpub-prod
 videogesprek
 webmail-test
 werkenbij-ict
@@ -6671,3 +6671,22 @@ zamo
 ceo
 mijnhulp-test
 mijnhulp
+bam
+bouwdossier
+code.intern
+code
+code2
+docu
+nlgemzdv.intern
+owncloud
+stroomlijn.intern
+thuis
+www.bam
+www.code.intern
+www.code
+www.code2
+www.docu
+www.handhaving
+www.owncloud
+www.thuis
+www.thuiswerken
