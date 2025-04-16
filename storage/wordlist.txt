@@ -6,16 +6,16 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 mijn
+webmail
 simsite
 afspraken
-digikoppeling
 mail
+digikoppeling
 secure
-acceptatie
 preproductie
 simcms
+acceptatie
 felix
 probeer
 loket
@@ -36,9 +36,9 @@ betalen
 parkeren
 adfs
 api.meldingen
+vpn
 waarmerk
 pv
-vpn
 broker
 zaaksysteem-accept
 iparticipatie
@@ -94,6 +94,7 @@ osbacc
 pki
 test-cmsintranet
 cmsintranet
+portaal
 verkiezingen
 parkeren-test
 snelbalie
@@ -104,9 +105,9 @@ woningbouwkaart
 www.webmail
 squit2go
 vergunningintaker
-portaal
 mijninkomen
 piwik
+afvalkalender
 duurzaam
 bastion365
 obsurv
@@ -114,9 +115,9 @@ filecap
 begroting
 mijnzorg
 e
+simform
 subsidies
 preprod-mijninkomen
-afvalkalender
 qr
 apps
 acc-formulier
@@ -128,9 +129,9 @@ dtestmidoffice
 jaarstukken
 contentbeheer
 belastingportaal
-simform
 gisib
 web
+dali
 snelbaliepp
 api.betalen
 nieuwsbrief
@@ -149,7 +150,6 @@ mdm
 transfer
 internetafspraken
 izaaksuite
-dali
 mailing
 ftp
 legacy
@@ -241,6 +241,7 @@ mijnzorg-acc
 documenten
 vergunningintaker-preprod
 geovisia
+simform-preproductie
 praatmee
 geodata
 servicedesk
@@ -286,7 +287,6 @@ sbc01
 participatie
 raadsnet
 toegang
-simform-preproductie
 gisib-test
 gisibapi-test
 gisibapi
@@ -531,6 +531,7 @@ storefront
 cjg
 geoservices
 lvs
+mfa
 octopus-acc
 smartdocuments
 smtp1
@@ -861,7 +862,6 @@ fo-parkeervergunningen
 form
 huisvuilkalender
 kennisportaal
-mfa
 parkeerapp.acc
 uitslagen
 www.ombudsman
@@ -1081,6 +1081,7 @@ smtp10
 smtp20
 www.afspraakmaken
 www.iarchief
+content
 www.jcc
 mijnwerkplek
 mijnpost
@@ -5214,7 +5215,6 @@ betaallink
 cms-internoss-test
 cms-internoss
 cms-internoss.test
-content
 endpoint
 formulieren.test
 geoportaal.test
@@ -6430,3 +6430,4 @@ camerabuitendienst
 key2financien
 notubiz-recorder
 vdlpki
+wsn-mail
