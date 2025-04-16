@@ -36,8 +36,8 @@ parkeren
 adfs
 ruimtelijkeplannen
 betalen
-vpn
 api.meldingen
+vpn
 broker
 iparticipatie
 testeloket
@@ -57,12 +57,12 @@ belastingbalie
 openpub
 omgevingsvisie
 cmsoo
+api.meldingen-acc
 loket.acceptatie
+meldingen-acc
 data
 osb
 login
-api.meldingen-acc
-meldingen-acc
 remote
 enterpriseregistration
 cloudadapter-test
@@ -95,6 +95,7 @@ test-cmsintranet
 portaal
 verkiezingen
 osbacc
+duurzaam
 siam
 pki
 filecap
@@ -103,12 +104,12 @@ parkeren-test
 piwik
 snelbalie
 afvalkalender
-duurzaam
 preprod
 apps
 gemeente
 bastion365
 woningbouwkaart
+klantcontact
 www.webmail
 dtestmidoffice
 mijnzorg
@@ -118,7 +119,6 @@ mijninkomen
 dali
 bgt
 obsurv
-klantcontact
 micollab
 simcms-open
 mdm
@@ -195,6 +195,7 @@ iarchief
 formulieren-test
 intranet-acc
 smtp
+bor
 inproces.acceptatie
 outlook
 testloket
@@ -219,7 +220,6 @@ mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
 jongin
-bor
 mta-sts
 mx1
 mx2
@@ -269,6 +269,7 @@ mozardtest
 bewustwording
 magazine
 ns
+wion
 _dmarc
 parkeervergunningen
 ns1
@@ -316,7 +317,6 @@ subsidies.acceptatie
 diensten
 dkd-test
 www.duurzaam
-wion
 www.test
 api
 app
@@ -327,6 +327,7 @@ gbi
 mijngeldzaken
 rooster
 geoserver
+simcms-preproductie
 uca
 wifi
 digikoppelingtest
@@ -362,6 +363,7 @@ e.openstad
 mijnuitkering
 stemvan
 ibabs
+tim
 gateway
 m
 www.afspraken
@@ -400,7 +402,6 @@ bestemmingsplannen
 kaartviewer
 nhr
 personeelsplanning
-simcms-preproductie
 djuma
 klimaatplein
 mijnsociaalportaal-acc
@@ -450,8 +451,9 @@ www.samen
 gbionline
 cca-acc
 cca
+corsa-prod
+corsa-test
 gemeentewinkel
-tim
 pip
 www.werkplek
 acceptatie-intranet
@@ -534,6 +536,7 @@ identity
 preprod.vergunningintaker
 testcms-intranet
 digid-parkeervergunningen
+simcms-duurzaam
 testformulieren
 automator
 preprod-mijnoverzicht
@@ -607,8 +610,6 @@ pip-test
 www.gemeente
 gbionlinetest
 squit2gotest
-corsa-prod
-corsa-test
 www.login
 liquitsatellite
 radius
@@ -817,7 +818,6 @@ acc-openwave
 corona
 key2financien-prod
 key2financien-test
-simcms-duurzaam
 sophos
 admin.doemee
 api.doemee
@@ -6601,3 +6601,6 @@ wwcs02.ad
 wwex02.ad
 wwfortimail01.ad
 wwng01
+PKIoverheid
+goedendag
+pkioverheid
