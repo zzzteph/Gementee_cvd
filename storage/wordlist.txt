@@ -56,10 +56,10 @@ dmidoffice
 openpub
 belastingbalie
 omgevingsvisie
+cmsoo
 loket.acceptatie
 osb
 login
-cmsoo
 api.meldingen-acc
 meldingen-acc
 data
@@ -74,9 +74,9 @@ zaken
 berichten
 formulier
 cloudadapter
+kaarten
 hybrid
 parkeren-acc
-kaarten
 mks
 test-intranet
 digikoppeling.test
@@ -98,6 +98,7 @@ siam
 pki
 verkiezingen
 parkeren-test
+piwik
 snelbalie
 afvalkalender
 duurzaam
@@ -113,7 +114,6 @@ mijnzorg
 vergunningintaker
 simform
 mijninkomen
-piwik
 dali
 obsurv
 micollab
@@ -153,6 +153,7 @@ uc
 inloggen
 transfer
 internetafspraken
+preprodbroker
 maps
 mailing
 vdi
@@ -175,7 +176,6 @@ inproces
 cryptshare
 bestuur
 fs
-preprodbroker
 college
 veiligdelen
 belastingbalie-test
@@ -184,6 +184,7 @@ email
 sharefile
 gis
 lyncdiscover
+formulieren-test
 smtp
 ro
 contentbeheer.acceptatie
@@ -206,7 +207,6 @@ byod
 guest
 iarchief
 publicroam
-formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -216,6 +216,7 @@ bor
 inproces.acceptatie
 squit2020
 afspraakmaken
+mta-sts
 zaaksysteem
 contact
 www.portal
@@ -242,7 +243,6 @@ archief
 filetransfer
 acceptatie-open
 bestanden
-mta-sts
 mx1
 mx2
 geoportaal
@@ -437,6 +437,7 @@ mijnloket
 www.openstad
 digitalebalie
 mobility
+vergunningen
 www.socialekaart
 ondernemen
 raadsinformatie
@@ -582,7 +583,7 @@ router
 klantportaal.acc
 prod
 grondwater
-vergunningen
+mta-sts.raad
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -914,7 +915,8 @@ durp
 dok
 www.zorgloket
 zmm
-mta-sts.raad
+acceptatiebelastingen
+acceptatievergunningen
 www.acc.piwik
 betaal
 mx3
@@ -3189,8 +3191,6 @@ test.services
 forms-test
 kcv
 www.remote
-acceptatiebelastingen
-acceptatievergunningen
 duiven-checker-preprod
 duiven-checker
 clv
@@ -6530,3 +6530,10 @@ simcms-wonen
 spamfilter
 test-potjeswijzer
 wozbezwaar
+ambacht
+beekenoord
+geerken
+hamersestraat
+rosmolen
+westervoort-checker-preprod
+westervoort-checker
