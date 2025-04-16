@@ -12,8 +12,8 @@ simsite
 afspraken
 digikoppeling
 mail
-preproductie
 acceptatie
+preproductie
 secure
 simcms
 probeer
@@ -30,9 +30,9 @@ portal
 meldingen
 geo
 raad
+betalen
 adfs
 ruimtelijkeplannen
-betalen
 afspraak
 api.meldingen
 broker
@@ -152,6 +152,7 @@ acc-openzaak
 notificaties
 objecttypen
 openklant
+sip
 klantcontact
 micollab
 uc
@@ -170,7 +171,6 @@ jcc
 email
 legacy
 bgt
-sip
 gasten
 smtp
 contentbeheer.acceptatie
@@ -185,6 +185,7 @@ subsidies-backend
 melddesk
 sharefile
 gis
+lyncdiscover
 owa
 test-digikoppeling
 meedoen
@@ -211,7 +212,6 @@ telewerken
 openstad
 woo
 bag
-lyncdiscover
 byod
 guest
 publicroam
@@ -236,6 +236,7 @@ cms
 magazine
 onderzoek
 werkenvoor
+woz
 www.acc
 desktop
 opendata
@@ -251,6 +252,8 @@ xential
 key2gbav
 archief
 sport
+burgerloket
+ondernemersloket
 bestuur
 filetransfer
 bestanden
@@ -290,7 +293,6 @@ app
 parkeervergunning
 parkeervergunningen
 services
-woz
 gbi
 mijngeldzaken
 ns1
@@ -312,9 +314,7 @@ test-secure
 woz-loket
 subsidies-login
 topdesk
-burgerloket
 mijnzaken
-ondernemersloket
 admin.openstad
 auth.openstad
 img.openstad
@@ -376,6 +376,7 @@ mijnsociaalportaal
 wij
 digikoppelingtest
 www.gemeenteraad
+wozloket
 jcccloud
 belastingportaal-test
 projecten
@@ -478,7 +479,6 @@ cloud
 csc
 mbg1
 elokettest
-wozloket
 automator
 preprod-mijnoverzicht
 2secure
@@ -518,6 +518,12 @@ allegroweb
 intra
 mijnloket
 winkelen
+financielestukken
+gdintaker
+preprodgdintaker
+preprodscbroker
+scbroker
+www.financielestukken
 preprod-sociaalportaal
 sociaalportaal
 efactuur
@@ -820,12 +826,6 @@ staging
 www.staging
 zorgaanbieders
 begraven
-financielestukken
-gdintaker
-preprodgdintaker
-preprodscbroker
-scbroker
-www.financielestukken
 gisweb
 parkeren-siam-test
 parkeren-siam
@@ -971,6 +971,7 @@ HTA
 lvolo-prod
 lvolo-test
 validsign-prod
+pub
 geocortex
 tickets
 cmsembrace
@@ -4513,7 +4514,6 @@ mohis
 mohistest
 komverder
 mijnkrimpenwijzer
-pub
 test-mijnkrimpenwijzer
 www.komverder
 buitendienst-app
