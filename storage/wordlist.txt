@@ -21,8 +21,8 @@ felix
 loket
 formulieren
 eloket
-dkd
 test
+dkd
 werkplek
 acc
 portal
@@ -30,8 +30,8 @@ open
 meldingen
 geo
 raad
-betalen
 ruimtelijkeplannen
+betalen
 afspraak
 api.meldingen
 parkeren
@@ -53,21 +53,21 @@ dacceptatiemidoffice
 dloket
 dmidoffice
 openpdc
+omgevingsvisie
 belastingbalie
 openpub
 osb
-omgevingsvisie
 api.meldingen-acc
 meldingen-acc
+enterpriseregistration
 loket.acceptatie
 data
-enterpriseregistration
 login
+digikoppeling-test
 beeldbank
 cmsoo
 zaken
 flowmailer-tracking
-digikoppeling-test
 cloudadapter-test
 remote
 kaart
@@ -82,6 +82,7 @@ connect
 denkmee
 financien
 acc-broker
+belastingloket
 govroam
 samen
 dtestloket
@@ -89,7 +90,7 @@ osbacc
 digikoppeling.test
 parkeren-acc
 extranet
-belastingloket
+pki
 doemee
 test-cmsintranet
 cmsintranet
@@ -99,7 +100,6 @@ snelbalie
 preprod
 gemeente
 woningbouwkaart
-pki
 www.webmail
 squit2go
 vergunningintaker
@@ -175,6 +175,7 @@ belastingbalie-test
 vdi
 jcc
 email
+gis
 lyncdiscover
 meedoen
 gasten
@@ -193,7 +194,6 @@ melddesk
 website
 onderzoek
 sharefile
-gis
 test-digikoppeling
 iarchief
 jccapi
@@ -222,6 +222,7 @@ afval
 bag
 bis
 byod
+fmreturn
 guest
 publicroam
 formulieren-test
@@ -249,6 +250,7 @@ exchange
 gemeentearchief
 magazine
 werkenvoor
+_dmarc
 parkeervergunningen
 woz
 desktop
@@ -257,7 +259,6 @@ opendata
 meet
 openformulieren
 publicaties
-fmreturn
 support
 data-test
 www.doemee
@@ -298,7 +299,6 @@ mozardtest
 ns
 wion
 www.test
-_dmarc
 api
 app
 edison
@@ -692,6 +692,7 @@ api.data
 applicaties
 autodiscover.ggd
 belastingbalie-acc
+berichtverkeer
 bi
 buurtbudget
 centrum
@@ -826,6 +827,7 @@ servicebus
 publicatie
 squit2go-backoffice
 webcon
+reserveren
 wijzer
 dvg
 idtst
@@ -1000,7 +1002,10 @@ return
 wmoloket
 testwerkplek
 Cloudadapter-test
+cmsjip
+jip
 keyhub
+test-jip
 communicatie
 idselect
 www.meedoen
@@ -1470,7 +1475,6 @@ beheer.data
 beheerfotobank
 bereikbaarheid
 berichtverkeer.acc
-berichtverkeer
 bermod-fa
 bermod
 bermod2
@@ -2554,7 +2558,6 @@ doe-mee
 hofnet
 mijnshv
 nawservice
-reserveren
 test-cmshofnet
 test-hofnet
 wijzer.acceptatie
@@ -4365,12 +4368,9 @@ wijdemeren
 zsnl-acceptatie
 Cloudadapter-prod
 bouwkavels
-cmsjip
 e-notas-test
 e-notas
-jip
 qfact
-test-jip
 testcms-jip
 vpn-sso
 idselectprd
@@ -6398,3 +6398,10 @@ testkoppeling
 webproxy
 www.hulpwijzer
 www.prodoud
+belastingloket-test
+berichtverkeer.test
+cpanel
+pki-test
+reject.dmarc
+test-cmsjip
+zaaksysteem-ontwikkeling
