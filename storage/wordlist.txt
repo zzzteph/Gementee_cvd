@@ -22,16 +22,16 @@ loket
 formulieren
 eloket
 dkd
-werkplek
 test
+werkplek
 acc
 open
 portal
 meldingen
 geo
 raad
-api.meldingen
 betalen
+api.meldingen
 adfs
 ruimtelijkeplannen
 afspraak
@@ -64,6 +64,7 @@ enterpriseregistration
 login
 data
 beeldbank
+cloudadapter-test
 remote
 zaken
 flowmailer-tracking
@@ -71,13 +72,12 @@ kaart
 digikoppeling-test
 formulier
 cmsoo
-cloudadapter-test
 hybrid
 berichten
+cloudadapter
 denkmee
 mks
 acc-broker
-cloudadapter
 govroam
 samen
 dtestloket
@@ -93,14 +93,16 @@ preprod
 digikoppeling.test
 parkeren-acc
 woningbouwkaart
+extranet
 pki
+doemee
 www.webmail
 vergunningintaker
 duurzaam
+gemeente
 obsurv
-extranet
-doemee
 filecap
+squit2go
 test-cmsintranet
 cmsintranet
 mijnzorg
@@ -112,7 +114,6 @@ subsidies
 siam
 qr
 apps
-gemeente
 acc-formulier
 acc-podiumd-logs
 bastion365
@@ -121,12 +122,12 @@ sts
 simcms-open
 dtestmidoffice
 jaarstukken
-squit2go
 begroting
 belastingportaal
 e
 preprod-mijninkomen
 snelbaliepp
+api.betalen
 nieuwsbrief
 openzaak
 auth
@@ -146,7 +147,6 @@ web
 afvalkalender
 dali
 mailing
-api.betalen
 ftp
 legacy
 acc-contact
@@ -173,6 +173,7 @@ jcc
 email
 bgt
 lyncdiscover
+owa
 gasten
 smtp
 contentbeheer.acceptatie
@@ -186,7 +187,6 @@ subsidies-backend
 melddesk
 sharefile
 gis
-owa
 test-digikoppeling
 meedoen
 iarchief
@@ -194,6 +194,7 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 mobiel
+ro
 bor
 inproces.acceptatie
 outlook
@@ -222,10 +223,10 @@ intranet-acc
 mobile
 xential
 jongin
-ro
 bestuur
 acceptatie-open
 zaaksysteem
+handhaving
 midoffice
 mijnzorg-acc
 documenten
@@ -264,10 +265,10 @@ filetransfer
 bestanden
 kcc
 mx1
+mx2
 en
 liquit
 mijnsociaaldomein
-handhaving
 participatie
 raadsnet
 toegang
@@ -330,7 +331,6 @@ woz-portaal
 mta-sts
 www.intranet
 testbelastingloket
-mx2
 aeolus
 e.openstad
 geoportaal
@@ -562,6 +562,7 @@ duo
 flex
 mijnuitkering
 pip-test
+www.gemeente
 gbionline
 squit2gotest
 corsa-prod
@@ -584,6 +585,7 @@ neuron
 stats
 aov
 authenticatie
+handhavingtest
 mijn-acc
 validsign
 gemeentebestuur
@@ -782,6 +784,7 @@ netwerk
 beheerbeeldbank
 inkomensondersteuning
 www.stadsarchief
+ironport
 ro-onlineprod
 g-rooster
 jaarstukken2021
@@ -867,6 +870,7 @@ zmm
 mta-sts.raad
 www.acc.piwik
 betaal
+mx3
 redirect
 welkom
 antispam
@@ -874,7 +878,6 @@ mediabank
 mx
 allegro
 cmsoo.gemeente
-www.gemeente
 www.mobile
 afspraakmakentest
 gbionlinetest
@@ -918,16 +921,17 @@ xential-test
 verhuursport
 begroting2018
 campus
-handhavingtest
 mijngkb
 myprint
 open-formulieren
 ows-app
 rekentool
 sso-test
+toerisme
 www.begroting
 www.govroam
 www.stemvan
+www.toerisme
 corsanxt
 intranet2
 xentialtest
@@ -1016,6 +1020,7 @@ website.acceptatie
 alwayson
 testwebsite
 decos
+mijnafval
 smtp01
 stuf
 kadernota
@@ -1048,6 +1053,7 @@ secure-t
 camera
 pdc.test
 mijnhr
+qmatic
 webapps
 email.mail.participatie
 mail.participatie
@@ -2466,7 +2472,6 @@ webcamspinveld
 websiteacc
 brlcmg
 esuitenotubiz-test
-ironport
 nlgembrl
 smartdoc-brl
 smartdoc-brlacc
@@ -3192,7 +3197,6 @@ liquidfiles-acc
 liquidfiles
 liveblog
 logoff
-mx3
 nextcloud
 pencportal
 pit
@@ -3854,7 +3858,6 @@ tasman375
 tc1
 testwebkassa.wsr
 toegangtest
-toerisme
 tstwi132gn.tst
 tstwi132tb.tst
 tstwi141.tst
@@ -3952,7 +3955,6 @@ www.stadshavens
 www.suikerkwartier
 www.testloket
 www.toegangtest
-www.toerisme
 www.tstwi141.tst
 www.tstwi184.tst
 www.tuinen
@@ -4786,7 +4788,6 @@ digi01
 djumamks
 gs01msn
 mform
-mijnafval
 mks01msn
 mstat
 ned03msn
@@ -5979,7 +5980,6 @@ mozardproductie
 pbx
 subsidiebeleidskaart
 teylingen-checker-preprod
-qmatic
 ucserver
 prp
 wonenwelzijnenzorg
@@ -6285,3 +6285,6 @@ hcs01
 hcs02
 kgs01
 webpublishing
+as
+valk99
+wolk
