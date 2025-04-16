@@ -87,6 +87,7 @@ a-surveys3.ggd.amsterdam.nl
 a2b-rtr.alkmaar.nl
 aaa.goirle.nl
 aaa.groningen.nl
+aaa.staphorst.nl
 aaenhunze.nl
 aalsmeer.nl
 aalten-checker-preprod.aalten.nl
@@ -3677,6 +3678,7 @@ eoffice.purmerend.nl
 eopenstad.gemeentewestland.nl
 epe.nl
 epms.amsterdam.nl
+epos.staphorst.nl
 epp.denhaag.nl
 eppx.denhaag.nl
 erfgoed.breda.nl
@@ -3852,6 +3854,7 @@ felix.scherpenzeel.nl
 felix.schiermonnikoog.nl
 felix.simpelveld.nl
 felix.sonenbreugel.nl
+felix.staphorst.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -4316,6 +4319,7 @@ geo.renkum.nl
 geo.rheden.nl
 geo.roermond.nl
 geo.sittard-geleen.nl
+geo.staphorst.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobrowser.enschede.nl
@@ -4949,6 +4953,7 @@ iburgerzaken.schagen.nl
 iburgerzaken.smallingerland.nl
 iburgerzaken.someren.nl
 iburgerzaken.sonenbreugel.nl
+iburgerzaken.staphorst.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5090,6 +5095,7 @@ ibzpink.schagen.nl
 ibzpink.smallingerland.nl
 ibzpink.someren.nl
 ibzpink.sonenbreugel.nl
+ibzpink.staphorst.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -5401,6 +5407,7 @@ intranet.roerdalen.nl
 intranet.rucphen.nl
 intranet.schouwen-duiveland.nl
 intranet.sittard-geleen.nl
+intranet.staphorst.nl
 intranet2.gulpen-wittem.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -6317,6 +6324,7 @@ mdm.haarlem.nl
 mdm.montferland.info
 mdm.overbetuwe.nl
 mdm.purmerend.nl
+mdm.staphorst.nl
 mdmcore.defryskemarren.nl
 mdmks.middendrenthe.nl
 mdr.beverwijk.nl
@@ -6590,6 +6598,7 @@ mijn.schiedam.nl
 mijn.schouwen-duiveland.nl
 mijn.sittard-geleen.nl
 mijn.soest.nl
+mijn.staphorst.nl
 mijn.test.oss.nl
 mijnaanvraagzi.beuningen.nl
 mijnaanvragen.purmerend.nl
@@ -7361,6 +7370,7 @@ open.roosendaal.nl
 open.schouwen-duiveland.nl
 open.sint-michielsgestel.nl
 open.sonenbreugel.nl
+open.staphorst.nl
 openagenda.ridderkerk.nl
 openbareruimte.deventer.nl
 opencatalogi.rotterdam.nl
@@ -8142,6 +8152,7 @@ preproductie.ridderkerk.nl
 preproductie.roerdalen.nl
 preproductie.scherpenzeel.nl
 preproductie.simpelveld.nl
+preproductie.staphorst.nl
 preproductiebroker.gemeentewesterveld.nl
 pric.rotterdam.nl
 prijsvraag-zwembad.apeldoorn.nl
@@ -8150,6 +8161,7 @@ private-test.delft.nl
 private.delft.nl
 proapp.rotterdam.nl
 probeer-cjg.scherpenzeel.nl
+probeer-epos.staphorst.nl
 probeer.aalten.nl
 probeer.achtkarspelen.nl
 probeer.albrandswaard.nl
@@ -8206,6 +8218,7 @@ probeer.roerdalen.nl
 probeer.scherpenzeel.nl
 probeer.simpelveld.nl
 probeer.sonenbreugel.nl
+probeer.staphorst.nl
 prod.digikoppeling.schiedam.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
@@ -8907,6 +8920,7 @@ simcms-centrumimpuls.geldrop-mierlo.nl
 simcms-cjg.scherpenzeel.nl
 simcms-duurzaam.beverwijk.nl
 simcms-energiek.beuningen.nl
+simcms-epos.staphorst.nl
 simcms-klimaatbestendig.lingewaard.nl
 simcms-omgevingsvisie.geldrop-mierlo.nl
 simcms-omgevingswet.bronckhorst.nl
@@ -8922,6 +8936,7 @@ simcms-open.meerssen.nl
 simcms-open.nuenen.nl
 simcms-open.oirschot.nl
 simcms-open.sonenbreugel.nl
+simcms-open.staphorst.nl
 simcms-preproductie.beekdaelen.nl
 simcms-preproductie.beuningen.nl
 simcms-preproductie.bladel.nl
@@ -8996,6 +9011,7 @@ simcms.scherpenzeel.nl
 simcms.schiermonnikoog.nl
 simcms.simpelveld.nl
 simcms.sonenbreugel.nl
+simcms.staphorst.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -9090,6 +9106,7 @@ simsite.scherpenzeel.nl
 simsite.schiermonnikoog.nl
 simsite.simpelveld.nl
 simsite.sonenbreugel.nl
+simsite.staphorst.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -9348,6 +9365,7 @@ sso.acc.ta-twd.rotterdam.nl
 sso.groningen.nl
 sso.ir.rotterdam.nl
 sso.schagen.nl
+sso.staphorst.nl
 ssorad.rotterdam.nl
 ssp-acc.purmerend.nl
 ssp.alphenaandenrijn.nl
@@ -9389,6 +9407,7 @@ staging.stemvan.groningen.nl
 stan-acc.stadskanaal.nl
 stan.stadskanaal.nl
 standplaatsen.heerenveen.nl
+staphorst.nl
 stappenteller.rotterdam.nl
 start.almelo.nl
 start.beverwijk.nl
@@ -9622,6 +9641,7 @@ telecom.apeldoorn.nl
 telefonie.noordoostpolder.nl
 telefonie.stadskanaal.nl
 telefoon.gemeentehw.nl
+telefoon.staphorst.nl
 teleweb.heerlen.nl
 teleweb.kerkrade.nl
 teleweb.landgraaf.nl
@@ -9989,6 +10009,7 @@ thuiswerken.bronckhorst.nl
 thuiswerken.castricum.nl
 thuiswerken.dwi.amsterdam.nl
 thuiswerken.middendelfland.nl
+thuiswerken.staphorst.nl
 thuiswerken2.bronckhorst.nl
 thuiswinkelen.landvancuijk.nl
 tickets.krimpenerwaard.nl
@@ -10754,6 +10775,7 @@ werkplek.rucphen.nl
 werkplek.schagen.nl
 werkplek.schiedam.nl
 werkplek.smallingerland.nl
+werkplek.staphorst.nl
 werkplek02.derondevenen.nl
 werkplektest.haarlemmermeer.nl
 werving.amsterdam.nl
@@ -11725,6 +11747,7 @@ www.stadspas.apeldoorn.nl
 www.stadstoezicht.amsterdam.nl
 www.staging.deventer.nl
 www.staging.olst-wijhe.nl
+www.staphorst.nl
 www.stationsdistrict.nijmegen.nl
 www.statistiek.amsterdam.nl
 www.stemmen.amsterdam.nl

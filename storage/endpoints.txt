@@ -222,6 +222,7 @@ http://ehv-lpi-ap-15.lopik.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
+http://epos.staphorst.nl
 http://extranet-acc.eemsdelta.nl
 http://felix.bladel.nl
 http://felix.bunschoten.nl
@@ -478,6 +479,7 @@ https://WOZ-loket.heeze-leende.nl
 https://Www.lochem.nl
 https://a-consent.sarphati.amsterdam.nl
 https://a-surveys3.ggd.amsterdam.nl
+https://aaa.staphorst.nl
 https://aaenhunze.nl
 https://aalsmeer.nl
 https://aalten-checker-preprod.aalten.nl
@@ -3199,6 +3201,7 @@ https://iburgerzaken.schagen.nl
 https://iburgerzaken.smallingerland.nl
 https://iburgerzaken.someren.nl
 https://iburgerzaken.sonenbreugel.nl
+https://iburgerzaken.staphorst.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3372,6 +3375,7 @@ https://intranet.peelenmaas.nl
 https://intranet.rucphen.nl
 https://intranet.schouwen-duiveland.nl
 https://intranet.sittard-geleen.nl
+https://intranet.staphorst.nl
 https://intranet2.gulpen-wittem.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
@@ -4461,6 +4465,7 @@ https://open.rhenen.nl
 https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
+https://open.staphorst.nl
 https://openagenda.ridderkerk.nl
 https://openbareruimte.deventer.nl
 https://opendata.arnhem.nl
@@ -5265,6 +5270,7 @@ https://simcms-open.geldrop-mierlo.nl
 https://simcms-open.halderberge.nl
 https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
+https://simcms-open.staphorst.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-woo.doesburg.nl
@@ -5292,6 +5298,7 @@ https://simcms.opmeer.nl
 https://simcms.renswoude.nl
 https://simcms.reuseldemierden.nl
 https://simcms.roerdalen.nl
+https://simcms.staphorst.nl
 https://simform-test.rijswijk.nl
 https://simform.achtkarspelen.nl
 https://simform.beuningen.nl
@@ -5425,6 +5432,7 @@ https://squitxo.rijssen-holten.nl
 https://squitxo.schagen.nl
 https://ssl.roermond.nl
 https://sso.ir.rotterdam.nl
+https://sso.staphorst.nl
 https://ssorad.rotterdam.nl
 https://ssp-acc.purmerend.nl
 https://ssp.purmerend.nl
@@ -6681,6 +6689,7 @@ https://www.stadskrant-acc.denhaag.nl
 https://www.stadskrant.denhaag.nl
 https://www.staging.deventer.nl
 https://www.staging.olst-wijhe.nl
+https://www.staphorst.nl
 https://www.stationsdistrict.nijmegen.nl
 https://www.statistiek.amsterdam.nl
 https://www.stemmen.amsterdam.nl

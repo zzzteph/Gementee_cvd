@@ -24,13 +24,13 @@ eloket
 dkd
 werkplek
 test
-meldingen
 open
+meldingen
 portal
 acc
 adfs
-api.meldingen
 geo
+api.meldingen
 raad
 waarmerk
 afspraak
@@ -106,6 +106,7 @@ acc-formulier
 acc-podiumd-logs
 podiumd-logs
 extranet
+simcms-open
 doemee
 jaarstukken
 begroting
@@ -123,7 +124,7 @@ acc-objecttypen
 bastion365
 keycloak
 objecten
-simcms-open
+mdm
 dtestmidoffice
 squit2go
 test-cmsintranet
@@ -142,7 +143,6 @@ openklant
 sts
 klantcontact
 micollab
-mdm
 inloggen
 contentbeheer
 transfer
@@ -221,6 +221,7 @@ servicedesk
 subsidie
 belastingen-acc
 maps
+thuiswerken
 website
 api.openstad
 cms
@@ -264,7 +265,6 @@ geodata
 makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
-thuiswerken
 dkd-test
 gemeentearchief
 ro-online
@@ -528,6 +528,7 @@ www.login
 radius
 berichtenverkeer
 de
+aaa
 preprod-belastingportaal
 squitxo
 hpdm
@@ -535,6 +536,7 @@ online
 neuron
 aov
 mijn-acc
+sso
 validsign
 gemeentebestuur
 lyncweb
@@ -841,6 +843,7 @@ tim
 www.djuma
 www.eloket
 pip
+telefoon
 www.mail
 prtg
 mylex
@@ -856,7 +859,6 @@ belastingen-test
 test-meedoen
 ucconf01
 ucweb01-ext
-aaa
 vergaderingen
 trobit
 xential-test
@@ -870,7 +872,6 @@ mijngkb
 open-formulieren
 ows-app
 rekentool
-sso
 www.begroting
 www.stemvan
 corsanxt
@@ -3499,7 +3500,6 @@ pencportaal
 pip-preproductie
 pv.gevondenvoorwerpen
 squit2goprod
-telefoon
 zuil
 bag1
 bestplan
@@ -5799,3 +5799,6 @@ stan-acc
 stan
 wenen
 xential-prod
+epos
+probeer-epos
+simcms-epos
