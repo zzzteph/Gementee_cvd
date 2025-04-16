@@ -39,14 +39,14 @@ betalen
 waarmerk
 api.meldingen
 broker
+iparticipatie
 pv
 zaaksysteem-accept
 testeloket
-iparticipatie
-gemeenteraad
-enterpriseenrollment
 test-ipa
 werkenbij
+gemeenteraad
+enterpriseenrollment
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
@@ -121,6 +121,7 @@ micollab
 dtestmidoffice
 begroting
 e
+izaaksuite
 subsidies
 preprod-mijninkomen
 qr
@@ -136,7 +137,6 @@ contentbeheer
 belastingportaal
 gisib
 web
-izaaksuite
 snelbaliepp
 vdi
 api.betalen
@@ -184,6 +184,7 @@ email
 sharefile
 gis
 lyncdiscover
+iarchief
 formulieren-test
 smtp
 ro
@@ -191,6 +192,8 @@ contentbeheer.acceptatie
 zaken.acceptatie
 outlook
 testloket
+squit2020
+afspraakmaken
 kennisbank
 preprod-mijn
 wachtwoord
@@ -206,7 +209,6 @@ test-digikoppeling
 byod
 fmreturn
 guest
-iarchief
 publicroam
 jccapi
 mijnsociaalplein
@@ -216,8 +218,6 @@ mobile
 jongin
 bor
 inproces.acceptatie
-squit2020
-afspraakmaken
 mta-sts
 zaaksysteem
 contact
@@ -286,6 +286,7 @@ burgerloket
 ondernemersloket
 admin.openstad
 eformulieren
+academie
 woz-portaal
 kcc
 aeolus
@@ -348,7 +349,6 @@ vth
 openformulieren-test
 webservices
 squit2020.acceptatie
-academie
 socialekaart
 www.intranet
 testbelastingloket
@@ -457,6 +457,7 @@ authenticatie
 sso
 geoweb
 testdigikoppeling
+mijn-preproductie
 teleweb
 cars
 bezoekersparkeren-acc
@@ -639,7 +640,6 @@ ons
 sera
 rxlaunch-signicat-preprod
 vthbroker
-mijn-preproductie
 bzg1-acc
 digitaal
 key2datadistributie
@@ -661,6 +661,8 @@ wonen
 ews
 www.belastingloket
 huisstijl
+www.afspraakmaken
+www.iarchief
 content
 digitalebelastingbalie
 service
@@ -1109,10 +1111,13 @@ helpmij
 telefonie
 test.open-formulieren
 dev
+iobjects
 smtp10
 smtp20
-www.afspraakmaken
-www.iarchief
+stwapp02
+talentenbank
+www.talentenbank
+kantoor
 www.jcc
 mijnwerkplek
 mijnpost
@@ -5186,16 +5191,12 @@ uag1
 vrijwilligerswerk-oostgelre
 wabo
 www.mob
-iobjects
 nlwmoosw
 stempasfonds
-stwapp02
 stwidocosw02
 stwmksoost01
-talentenbank
 www.stempasfonds
 www.stwidocosw02
-www.talentenbank
 psiam
 tloket
 tsiam
@@ -5209,7 +5210,6 @@ validsign-test
 wijzer-acc
 acc.stemvan
 batched
-kantoor
 olwmks01
 ops-fw1
 ops-fw2
@@ -6559,3 +6559,11 @@ testsim
 westmaasenwaal007.simgroephosting04.nl
 wmw-vvc02
 www.wmw-vvc02
+nlwmowsw
+stwidocwsw02
+stwmkswest01
+triton
+www.academie
+www.iobjects
+www.kantoor
+www.stwidocwsw02
