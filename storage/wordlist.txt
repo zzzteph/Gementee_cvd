@@ -31,8 +31,8 @@ meldingen
 geo
 raad
 betalen
-api.meldingen
 afspraak
+api.meldingen
 adfs
 ruimtelijkeplannen
 waarmerk
@@ -44,9 +44,9 @@ iparticipatie
 zaaksysteem-accept
 test-ipa
 werkenbij
+enterpriseenrollment
 testeloket
 belastingen
-enterpriseenrollment
 gemeenteraad
 dacceptatieloket
 dacceptatiemidoffice
@@ -58,8 +58,8 @@ osb
 api.meldingen-acc
 meldingen-acc
 omgevingsvisie
-loket.acceptatie
 belastingbalie
+loket.acceptatie
 enterpriseregistration
 login
 data
@@ -85,13 +85,13 @@ samen
 dtestloket
 osbacc
 financien
+digikoppeling.test
 extranet
 belastingloket
 test-intranet
 verkiezingen
 snelbalie
 preprod
-digikoppeling.test
 gemeente
 parkeren-acc
 woningbouwkaart
@@ -99,19 +99,19 @@ pki
 doemee
 www.webmail
 vergunningintaker
+portaal
 parkeren-test
 duurzaam
+siam
 obsurv
 filecap
 squit2go
 test-cmsintranet
 cmsintranet
 mijnzorg
-portaal
 mijninkomen
 piwik
 subsidies
-siam
 qr
 apps
 acc-formulier
@@ -184,7 +184,9 @@ kennisbank
 preprod-mijn
 wachtwoord
 subsidies-backend
+belastingbalie-test
 melddesk
+onderzoek
 sharefile
 gis
 test-digikoppeling
@@ -205,12 +207,10 @@ www.portal
 fs
 _autodiscover._tcp
 subsidie
-belastingbalie-test
 maps
 website
 api.openstad
 mail2
-onderzoek
 evenementen
 telewerken
 openstad
@@ -238,6 +238,7 @@ servicedesk
 belastingen-acc
 thuiswerken
 cms
+gemeentearchief
 magazine
 werkenvoor
 parkeervergunningen
@@ -264,6 +265,7 @@ ondernemersloket
 admin.openstad
 filetransfer
 bestanden
+mta-sts
 kcc
 mx1
 mx2
@@ -285,7 +287,6 @@ subsidies-backend.acceptatie
 subsidies.acceptatie
 dkd-test
 exchange
-gemeentearchief
 ro-online
 www.duurzaam
 mozard
@@ -328,7 +329,6 @@ webservices
 squit2020.acceptatie
 academie
 woz-portaal
-mta-sts
 www.intranet
 testbelastingloket
 aeolus
@@ -425,6 +425,7 @@ acceptatie-intranet
 sbc01
 sso
 cars
+mijndesktop
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -631,7 +632,6 @@ prefill
 ews
 www.belastingloket
 huisstijl
-mijndesktop
 edienstenburgerzaken.test
 aanvragen
 av
@@ -805,6 +805,7 @@ suite4burgerzaken
 view
 womserver-test
 womserver
+siamtest
 mbg
 link
 osbtest
@@ -992,6 +993,7 @@ test-kaartviewer
 open-formulieren-test
 bekendmakingen
 test-insite
+veilig
 hybrid1
 hybrid2
 parkeernormen
@@ -1033,6 +1035,7 @@ regieportaal
 zorg-acc
 lokettest
 portaaltest
+wmo
 login-pre
 services-test
 awmail
@@ -2520,7 +2523,6 @@ scan
 webmeeting
 zwembaddebronspot
 mzdtest
-siamtest
 securegw
 preprod-broker
 srvmksbur
@@ -4406,7 +4408,6 @@ pre-simform
 sfbaccess
 sfbwebconf
 test-cmsinsite
-veilig
 videodocs
 webconnector
 administratieportaal-test
@@ -4869,7 +4870,6 @@ roel
 sportief
 test-witgoed
 witgoed
-wmo
 leef-test
 leef
 e2s-test
@@ -6298,3 +6298,19 @@ iis-vvee21
 intranetdekompanjie
 jeugdplein
 www.xentialtest
+bijveen-acc
+bijveen
+bijveencms-acc
+bijveencms
+gemnet.digikoppeling.test
+gemnet.digikoppeling
+ivor
+kranten
+mijn-test
+raadplegenbrp
+raadsakkoord
+toekomst
+vdtm
+wmonedtest
+wmonedversie
+www.raadsakkoord
