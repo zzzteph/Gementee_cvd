@@ -271,6 +271,7 @@ http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
 http://epos.staphorst.nl
 http://extranet-acc.eemsdelta.nl
+http://felix.baarn.nl
 http://felix.bladel.nl
 http://felix.bunschoten.nl
 http://felix.gemeentebeek.nl
@@ -415,6 +416,7 @@ http://simcms-samenindebuurt.heerlen.nl
 http://simcms-wonen.westerkwartier.nl
 http://simcms.aalten.nl
 http://simcms.achtkarspelen.nl
+http://simcms.baarn.nl
 http://simcms.beekdaelen.nl
 http://simcms.goeree-overflakkee.nl
 http://simcms.halderberge.nl
@@ -3123,7 +3125,6 @@ https://fd-zgw.denhaag.nl
 https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.aalten.nl
-https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.bergendal.nl
 https://felix.beverwijk.nl
@@ -6521,7 +6522,6 @@ https://simcms-preproductie.beekdaelen.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-woo.doesburg.nl
-https://simcms.baarn.nl
 https://simcms.bergeijk.nl
 https://simcms.bergenopzoom.nl
 https://simcms.beuningen.nl
