@@ -10,8 +10,8 @@ mijn
 webmail
 simsite
 mail
-digikoppeling
 afspraken
+digikoppeling
 preproductie
 simcms
 secure
@@ -34,10 +34,10 @@ afspraak
 geo
 parkeren
 api.meldingen
+vpn
 betalen
 adfs
 ruimtelijkeplannen
-vpn
 broker
 iparticipatie
 zaaksysteem-accept
@@ -86,19 +86,19 @@ belastingloket
 dtestloket
 connect
 parkeren-test
+siam
 financien
 acc-broker
 govroam
+pki
 doemee
 test-cmsintranet
 portaal
 osbacc
 piwik
-siam
 extranet
 klantcontact
 samen
-pki
 verkiezingen
 duurzaam
 apps
@@ -880,6 +880,7 @@ webcon
 reserveren
 wijzer
 idtst
+joinconnect
 bor-acc
 suite4burgerzaken-prod
 acceptatie.intranet
@@ -977,6 +978,7 @@ e.bewustwording
 digikoppelingjnet
 apigateway
 apigateway2
+mailgate
 geovisiaonline
 belastingen-test
 clicksfm.nieuwsbrief
@@ -2642,7 +2644,6 @@ ptr
 vriseloket
 platform
 www.platform
-joinconnect
 kindregeling
 online-aanvraag-test
 online-aanvraag
@@ -3661,7 +3662,6 @@ e.doemee
 eopenstad
 guestportal
 intranet-oud
-mailgate
 mailgate2
 oudewebsite
 pl
@@ -6735,3 +6735,4 @@ preprod-mijntoegang
 sigmax-acc
 sjaak.test
 sjaak
+digik
