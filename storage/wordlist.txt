@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 webmail
 mijn
-simsite
 mail
+simsite
 afspraken
 digikoppeling
 preproductie
@@ -29,8 +29,8 @@ portal
 open
 geo
 meldingen
-raad
 waarmerk
+raad
 afspraak
 parkeren
 adfs
@@ -67,23 +67,23 @@ remote
 enterpriseregistration
 cloudadapter-test
 flowmailer-tracking
+digikoppeling-test
 beeldbank
 zaken
 kaart
-digikoppeling-test
 hybrid
 berichten
 formulier
 cloudadapter
 kaarten
 parkeren-acc
+denkmee
 mks
 belastingloket
 test-intranet
 dtestloket
 connect
 cmsintranet
-denkmee
 digikoppeling.test
 acc-broker
 govroam
@@ -119,6 +119,7 @@ mijninkomen
 dali
 qr
 bgt
+sip
 obsurv
 micollab
 simcms-open
@@ -133,7 +134,6 @@ api.betalen
 acc-formulier
 acc-podiumd-logs
 podiumd-logs
-sip
 sts
 jaarstukken
 belastingportaal
@@ -150,6 +150,7 @@ acc-notificaties
 acc-objecten
 acc-objecttypen
 keycloak
+lyncdiscover
 objecten
 gasten
 uc
@@ -169,7 +170,6 @@ acc-contact
 acc-keycloak
 acc-openklant
 acc-openzaak
-lyncdiscover
 notificaties
 objecttypen
 openklant
@@ -1106,6 +1106,7 @@ kadernota
 regieportaal
 zorg-acc
 lokettest
+opentunnel
 portaaltest
 wmo
 mymeeting
@@ -1132,6 +1133,9 @@ smtp20
 stwapp02
 talentenbank
 www.talentenbank
+psiam
+tloket
+tsiam
 kantoor
 www.jcc
 mijnwerkplek
@@ -4894,7 +4898,6 @@ mdjcc
 mdliquit
 mdmks
 mdtel01
-opentunnel
 opentunnel.test
 roel
 sportief
@@ -5200,9 +5203,6 @@ stwidocosw02
 stwmksoost01
 www.stempasfonds
 www.stwidocosw02
-psiam
-tloket
-tsiam
 LVOLO-PROD
 LVOLO-TEST
 im
