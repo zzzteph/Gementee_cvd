@@ -1,7 +1,6 @@
 https://4dekwartaalbrief2019.financielestukken.diemen.nl
 https://afval.diemen.nl
 https://betalen.diemen.nl
-https://burgerloket.diemen.nl
 https://diemen.nl
 https://financielestukken.diemen.nl
 https://gdintaker.diemen.nl
@@ -15,7 +14,6 @@ https://preprodgdintaker.diemen.nl
 https://preprodscbroker.diemen.nl
 https://programmabegroting2021.financielestukken.diemen.nl
 https://programmabegroting2024.financielestukken.diemen.nl
-https://scbroker.diemen.nl
 https://sip.diemen.nl
 https://vogelweide.diemen.nl
 https://www.diemen.nl

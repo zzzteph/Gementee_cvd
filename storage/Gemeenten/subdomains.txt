@@ -2522,7 +2522,6 @@ burgerloket.acceptatie.derondevenen.nl
 burgerloket.acceptatie.ouder-amstel.nl
 burgerloket.acceptatie.overbetuwe.nl
 burgerloket.derondevenen.nl
-burgerloket.diemen.nl
 burgerloket.duiven.nl
 burgerloket.ouder-amstel.nl
 burgerloket.overbetuwe.nl

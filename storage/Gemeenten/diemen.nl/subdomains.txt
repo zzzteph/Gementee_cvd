@@ -3,7 +3,6 @@ acceptatie.diemen.nl
 afspraken.diemen.nl
 afval.diemen.nl
 betalen.diemen.nl
-burgerloket.diemen.nl
 diemen.nl
 financielestukken.diemen.nl
 gdintaker.diemen.nl

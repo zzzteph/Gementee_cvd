@@ -1987,7 +1987,6 @@ https://buren.nl
 https://burgerloket.acceptatie.derondevenen.nl
 https://burgerloket.acceptatie.ouder-amstel.nl
 https://burgerloket.derondevenen.nl
-https://burgerloket.diemen.nl
 https://burgerloket.ouder-amstel.nl
 https://burgerloket.uithoorn.nl
 https://burgerpanel.middendrenthe.nl
@@ -6426,7 +6425,6 @@ https://scanhulp-ft.amsterdam.nl
 https://scanhulp.acc.amsterdam.nl
 https://scanhulp.amsterdam.nl
 https://scanhulp.tst.amsterdam.nl
-https://scbroker.diemen.nl
 https://scbroker.ouder-amstel.nl
 https://scbroker.uithoorn.nl
 https://scep.montferland.info
