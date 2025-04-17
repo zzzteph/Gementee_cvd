@@ -653,6 +653,7 @@ www.mail
 prtg
 preprod-mijnsociaaldomein
 rds
+wmoloket
 berichtenverkeer
 www.kaarten
 www.mdm
@@ -1077,7 +1078,6 @@ parkeerproducten
 siem
 dms
 return
-wmoloket
 gvonline
 testwerkplek
 Cloudadapter-test

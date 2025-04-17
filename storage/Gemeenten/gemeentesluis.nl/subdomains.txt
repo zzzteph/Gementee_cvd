@@ -30,6 +30,7 @@ w2008stuf.gemeentesluis.nl
 waarmerk.gemeentesluis.nl
 webdav.gemeentesluis.nl
 webmail.gemeentesluis.nl
+wmoloket.gemeentesluis.nl
 workspace-rds.gemeentesluis.nl
 www-cache.gemeentesluis.nl
 www.eformulieren.gemeentesluis.nl

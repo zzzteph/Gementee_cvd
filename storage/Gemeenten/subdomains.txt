@@ -13635,6 +13635,7 @@ wmoauth.acceptatie.amsterdam.nl
 wmoauth.amsterdam.nl
 wmoauth.test.amsterdam.nl
 wmokennisbank.antwoord.amsterdam.nl
+wmoloket.gemeentesluis.nl
 wmoloket.heuvelrug.nl
 wmoloket.olst-wijhe.nl
 wmonedtest.veenendaal.nl

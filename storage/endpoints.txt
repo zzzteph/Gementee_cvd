@@ -392,6 +392,7 @@ http://preproductie.voorschoten.nl
 http://preproductie.westerkwartier.nl
 http://preproductie.westmaasenwaal.nl
 http://preproductie.zwartewaterland.nl
+http://pv.gemeentesluis.nl
 http://raadsagenda.oirschot.nl
 http://redirector.alkmaar.nl
 http://remote.gemeentesluis.nl
@@ -6170,7 +6171,6 @@ https://pv.enschede.nl
 https://pv.geldrop-mierlo.nl
 https://pv.gemeenteberkelland.nl
 https://pv.gemeentemaashorst.nl
-https://pv.gemeentesluis.nl
 https://pv.gevondenvoorwerpen.gemeentehw.nl
 https://pv.heiloo.nl
 https://pv.helmond.nl

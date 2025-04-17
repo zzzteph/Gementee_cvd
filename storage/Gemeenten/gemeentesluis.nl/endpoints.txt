@@ -1,4 +1,5 @@
 http://autodiscover.gemeentesluis.nl
+http://pv.gemeentesluis.nl
 http://remote.gemeentesluis.nl
 https://acceptatie.gemeentesluis.nl
 https://accommodatieverhuur.gemeentesluis.nl
@@ -13,7 +14,6 @@ https://intranet.gemeentesluis.nl
 https://mijnsociaaldomein.gemeentesluis.nl
 https://mylex.gemeentesluis.nl
 https://preprod-mijnsociaaldomein.gemeentesluis.nl
-https://pv.gemeentesluis.nl
 https://rap.gemeentesluis.nl
 https://rds.gemeentesluis.nl
 https://w2008bag.gemeentesluis.nl
