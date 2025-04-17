@@ -8,6 +8,7 @@ https://hardenberg.nl
 https://iburgerzaken.hardenberg.nl
 https://intranet.hardenberg.nl
 https://mijn.hardenberg.nl
+https://preprod-burgerportaal.hardenberg.nl
 https://sera.hardenberg.nl
 https://sport.hardenberg.nl
 https://woz-loket-accept.hardenberg.nl
