@@ -289,7 +289,6 @@ http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
 http://formulieren.meierijstad.nl
 http://geldzaken.loonopzand.nl
-http://gemeentebeek.nl
 http://geo.krimpenerwaard.nl
 http://geo.roermond.nl
 http://geoportal.weert.nl
@@ -405,6 +404,7 @@ http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-omgevingsvisie.geldrop-mierlo.nl
+http://simcms-open.gemeentebeek.nl
 http://simcms-open.leudal.nl
 http://simcms-preproductie.beekdaelen.nl
 http://simcms-samenindebuurt.heerlen.nl
@@ -6591,7 +6591,6 @@ https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
 https://simsite.eersel.nl
-https://simsite.gemeentebeek.nl
 https://simsite.heeze-leende.nl
 https://simsite.heumen.nl
 https://simsite.heuvelrug.nl
@@ -6989,6 +6988,7 @@ https://test-formulier.enschede.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-intra.gooisemeren.nl
+https://test-intranet.gemeentebeek.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.sittard-geleen.nl
