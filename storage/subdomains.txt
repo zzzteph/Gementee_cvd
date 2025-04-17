@@ -12040,6 +12040,7 @@ teamplan.huizen.nl
 teams.nijkerk.eu
 teams.zwolle.nl
 techniek.landvancuijk.nl
+tekst.gemeentenoordenveld.nl
 telecom.apeldoorn.nl
 telefonie.noordoostpolder.nl
 telefonie.stadskanaal.nl

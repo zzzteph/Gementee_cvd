@@ -3685,6 +3685,7 @@ hub
 mijn-gemeenteloket
 pre-gemeenteloket
 webteam
+tekst
 accommodatieverhuur
 helpdesk
 ict
