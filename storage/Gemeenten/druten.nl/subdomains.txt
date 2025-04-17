@@ -16,6 +16,8 @@ remote.druten.nl
 simcms.druten.nl
 simsite.druten.nl
 www.druten.nl
+www.jongin.druten.nl
 www.remote.druten.nl
 www.zorgloket.druten.nl
 zmm.druten.nl
+zorgloket.druten.nl

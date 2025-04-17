@@ -259,6 +259,7 @@ support
 data-test
 www.doemee
 xential
+www.jongin
 erfgoed
 key2gbav
 vth
@@ -297,7 +298,6 @@ intranetcms
 digikoppelingtest
 www.gemeenteraad
 acc.piwik
-www.jongin
 citrix
 omgevingswet
 dkdtest
@@ -623,6 +623,7 @@ webformulieren
 klantportaal.acc
 prod
 grondwater
+zorgloket
 acceptatiebelastingen
 attachments
 authenticatiedienst
@@ -1027,7 +1028,6 @@ www.begroting
 www.govroam
 www.stemvan
 www.toerisme
-zorgloket
 corsanxt
 intranet2
 secure1

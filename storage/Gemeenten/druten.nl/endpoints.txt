@@ -1,5 +1,6 @@
 http://autodiscover.druten.nl
 http://www.zorgloket.druten.nl
+http://zorgloket.druten.nl
 https://data-test.druten.nl
 https://druten.nl
 https://forms-test.druten.nl
