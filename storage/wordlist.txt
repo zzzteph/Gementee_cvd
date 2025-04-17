@@ -150,6 +150,7 @@ jaarstukken
 connect.acceptatie
 cryptshare
 belastingportaal
+_autodiscover._tcp
 ftp
 maps
 vdi
@@ -172,7 +173,6 @@ inloggen
 inproces
 transfer
 internetafspraken
-_autodiscover._tcp
 college
 veiligdelen
 mailing

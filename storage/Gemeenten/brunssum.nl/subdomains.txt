@@ -1,3 +1,4 @@
+_autodiscover._tcp.brunssum.nl
 adfs.brunssum.nl
 adsync.brunssum.nl
 afspraken-test.brunssum.nl

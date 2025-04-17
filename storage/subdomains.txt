@@ -85,6 +85,7 @@ _autodiscover._tcp.amstelveen.nl
 _autodiscover._tcp.barendrecht.nl
 _autodiscover._tcp.beekdaelen.nl
 _autodiscover._tcp.bergen.nl
+_autodiscover._tcp.brunssum.nl
 _autodiscover._tcp.eersel.nl
 _autodiscover._tcp.laarbeek.nl
 _autodiscover._tcp.landgraaf.nl
