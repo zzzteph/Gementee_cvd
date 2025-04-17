@@ -1427,6 +1427,7 @@ https://auth5.denhaag.nl
 https://auth7.denhaag.nl
 https://authenticatie-accp.nijmegen.nl
 https://authenticatie-preprod.tilburg.nl
+https://authenticatie.gemeentestein.nl
 https://authenticatie.groningen.nl
 https://authenticatie.nijmegen.nl
 https://authenticatie.tilburg.nl
@@ -3496,7 +3497,6 @@ https://geo.doetinchem.nl
 https://geo.emmen.nl
 https://geo.ermelo.nl
 https://geo.gemeente-oldambt.nl
-https://geo.gemeentestein.nl
 https://geo.harderwijk.nl
 https://geo.heerenveen.nl
 https://geo.hilversum.nl

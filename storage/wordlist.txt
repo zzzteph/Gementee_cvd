@@ -381,6 +381,7 @@ corsa-prod
 corsa-test
 radius
 tim
+authenticatie
 gateway
 m
 mijn-preproductie
@@ -473,7 +474,6 @@ www.werkplek
 acceptatie-intranet
 hpdm
 neuron
-authenticatie
 sso
 gemeentebestuur
 lyncweb

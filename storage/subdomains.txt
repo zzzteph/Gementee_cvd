@@ -1440,6 +1440,7 @@ auth5.denhaag.nl
 auth7.denhaag.nl
 authenticatie-accp.nijmegen.nl
 authenticatie-preprod.tilburg.nl
+authenticatie.gemeentestein.nl
 authenticatie.groningen.nl
 authenticatie.nijmegen.nl
 authenticatie.tilburg.nl

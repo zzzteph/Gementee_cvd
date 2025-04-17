@@ -1,11 +1,11 @@
 http://test-intranet.gemeentestein.nl
 http://wion.gemeentestein.nl
 https://auth.gemeentestein.nl
+https://authenticatie.gemeentestein.nl
 https://cmsintranet.gemeentestein.nl
 https://desktop.gemeentestein.nl
 https://e.bewustwording.gemeentestein.nl
 https://gemeentestein.nl
-https://geo.gemeentestein.nl
 https://iburgerzaken.gemeentestein.nl
 https://intranet.gemeentestein.nl
 https://open.gemeentestein.nl
