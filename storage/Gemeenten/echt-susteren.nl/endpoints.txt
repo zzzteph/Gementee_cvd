@@ -1,3 +1,4 @@
+http://simcms.echt-susteren.nl
 https://authenticatiedienst.echt-susteren.nl
 https://authenticatiedienst.preprod.echt-susteren.nl
 https://echt-susteren-checker-preprod.echt-susteren.nl
