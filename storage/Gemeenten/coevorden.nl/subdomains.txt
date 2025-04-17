@@ -1,4 +1,5 @@
 acc-broker.coevorden.nl
+acceptatiemidoffice.coevorden.nl
 accschuldhulp.coevorden.nl
 autodiscover.coevorden.nl
 bedrijfslocaties.coevorden.nl

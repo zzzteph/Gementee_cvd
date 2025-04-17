@@ -656,6 +656,7 @@ acceptatieformulieren.nissewaard.nl
 acceptatieloket.bergen-nh.nl
 acceptatieloket.borne.nl
 acceptatieloket.dinkelland.nl
+acceptatiemidoffice.coevorden.nl
 acceptatievergunningen.duiven.nl
 acceptatievergunningen.westervoort.nl
 access.hoorn.nl
