@@ -457,7 +457,6 @@ http://test-cmsbink.beverwijk.nl
 http://test-cmsdok.dronten.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsinsite.houten.nl
-http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsintranet.velsen.nl
@@ -6949,6 +6948,7 @@ https://test-belastingloket.purmerend.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
+https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
