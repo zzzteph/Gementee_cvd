@@ -233,6 +233,7 @@ http://belastingen.sudwestfryslan.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://beverwijk.nl
 http://bijveen-acc.veenendaal.nl
+http://bladel.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://capelleaandenijssel.nl
@@ -417,6 +418,7 @@ http://simcms-wonen.westerkwartier.nl
 http://simcms.aalten.nl
 http://simcms.achtkarspelen.nl
 http://simcms.baarn.nl
+http://simcms.bladel.nl
 http://simcms.goeree-overflakkee.nl
 http://simcms.halderberge.nl
 http://simcms.heumen.nl
@@ -1862,7 +1864,6 @@ https://binnenstebuiten.ede.nl
 https://bis-test.tilburg.nl
 https://bis.houten.nl
 https://bis.tilburg.nl
-https://bladel.nl
 https://blaricum.nl
 https://bliek.gorinchem.nl
 https://bliekcms-acc.gorinchem.nl
@@ -6073,7 +6074,6 @@ https://preprodscbroker.uithoorn.nl
 https://preproductie.achtkarspelen.nl
 https://preproductie.beekdaelen.nl
 https://preproductie.beuningen.nl
-https://preproductie.bladel.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
 https://preproductie.heerenveen.nl
@@ -6534,7 +6534,6 @@ https://simcms.bergendal.nl
 https://simcms.bergenopzoom.nl
 https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
-https://simcms.bladel.nl
 https://simcms.bronckhorst.nl
 https://simcms.dalfsen.nl
 https://simcms.doetinchem.nl

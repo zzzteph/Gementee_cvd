@@ -1,8 +1,7 @@
+http://bladel.nl
 http://felix.bladel.nl
-https://bladel.nl
+http://simcms.bladel.nl
 https://enterpriseenrollment.bladel.nl
 https://enterpriseregistration.bladel.nl
 https://iburgerzaken.bladel.nl
 https://jccapi.bladel.nl
-https://preproductie.bladel.nl
-https://simcms.bladel.nl
