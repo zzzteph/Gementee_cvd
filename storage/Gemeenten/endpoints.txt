@@ -285,6 +285,7 @@ http://felix.winterswijk.nl
 http://felix.zoetermeer.nl
 http://felix.zwartewaterland.nl
 http://flash.scherpenzeel.nl
+http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
 http://formulieren.meierijstad.nl
 http://geldzaken.loonopzand.nl
@@ -434,6 +435,7 @@ http://simform.heerlen.nl
 http://simform.t-diel.nl
 http://simform.wassenaar.nl
 http://simsite.cranendonck.nl
+http://simsite.geertruidenberg.nl
 http://simsite.goeree-overflakkee.nl
 http://simsite.kerkrade.nl
 http://simsite.montferland.info
@@ -6587,7 +6589,6 @@ https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
 https://simsite.eersel.nl
-https://simsite.geertruidenberg.nl
 https://simsite.gemeentebeek.nl
 https://simsite.heeze-leende.nl
 https://simsite.heumen.nl
