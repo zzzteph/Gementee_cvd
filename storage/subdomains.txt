@@ -91,6 +91,7 @@ _autodiscover._tcp.laarbeek.nl
 _autodiscover._tcp.landgraaf.nl
 _autodiscover._tcp.zandvoort.nl
 _dmarc.amsterdam.nl
+_dmarc.delft.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl
 _dmarc.nederweert.nl
@@ -10368,6 +10369,7 @@ pw-specificatie.rijssen-holten.nl
 pwa.barendrecht.nl
 pwa.ridderkerk.nl
 pzr.rotterdam.nl
+q-matic.delft.nl
 q4.venlo.nl
 qcalendar.deventer.nl
 qfact.hofvantwente.nl

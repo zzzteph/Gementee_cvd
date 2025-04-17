@@ -1,3 +1,4 @@
+_dmarc.delft.nl
 aanmelder.delft.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
@@ -47,6 +48,7 @@ private-test.delft.nl
 private.delft.nl
 publicaties.delft.nl
 publiekwifi.delft.nl
+q-matic.delft.nl
 raad.delft.nl
 ris.delft.nl
 sbir1.lev.delft.nl
