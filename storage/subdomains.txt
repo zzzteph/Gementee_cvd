@@ -3161,6 +3161,7 @@ data.alkmaar.nl
 data.amstelveen.nl
 data.amsterdam.nl
 data.arnhem.nl
+data.bergendal.nl
 data.bergenopzoom.nl
 data.beuningen.nl
 data.breda.nl
@@ -7143,6 +7144,7 @@ kindregelingen-acc.geertruidenberg.nl
 kindregelingen.geertruidenberg.nl
 klachten.amsterdam.nl
 klantcontact.baarn.nl
+klantcontact.bergendal.nl
 klantcontact.beuningen.nl
 klantcontact.deurne.nl
 klantcontact.kerkrade.nl

@@ -60,8 +60,8 @@ belastingbalie
 cmsoo
 loket.acceptatie
 remote
-cloudadapter-test
 data
+cloudadapter-test
 osb
 omgevingsvisie
 enterpriseregistration
@@ -91,13 +91,13 @@ connect
 piwik
 siam
 financien
+klantcontact
 govroam
 pki
 test-cmsintranet
 portaal
 osbacc
 extranet
-klantcontact
 samen
 verkiezingen
 duurzaam

@@ -3,6 +3,7 @@ autodiscover.bergendal.nl
 bergendal.nl
 berichten.bergendal.nl
 data-test.bergendal.nl
+data.bergendal.nl
 data.gemnet.bergendal.nl
 eloket.bergendal.nl
 felix.bergendal.nl
@@ -14,6 +15,7 @@ intranetcms-acc.bergendal.nl
 intranetcms.bergendal.nl
 k1._domainkey.bergendal.nl
 kaart.bergendal.nl
+klantcontact.bergendal.nl
 osb.bergendal.nl
 preproductie.bergendal.nl
 privacybewustzijn.bergendal.nl
