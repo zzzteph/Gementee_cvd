@@ -6022,7 +6022,6 @@ https://preprod-mijnaanvragensociaaldomein.venlo.nl
 https://preprod-mijnbelastingen.vught.nl
 https://preprod-mijninkomen.beverwijk.nl
 https://preprod-mijninkomen.defryskemarren.nl
-https://preprod-mijninkomen.denhelder.nl
 https://preprod-mijninkomen.doesburg.nl
 https://preprod-mijninkomen.dronten.nl
 https://preprod-mijninkomen.goeree-overflakkee.nl
@@ -6044,7 +6043,6 @@ https://preprod-mijnsociaalplein.putten.nl
 https://preprod-mijnsociaalplein.uitgeest.nl
 https://preprod-mijnuitkering.westvoorne.nl
 https://preprod-mijnwijkteam.schagen.nl
-https://preprod-mijnzorg.denhelder.nl
 https://preprod-sociaalportaal.dinkelland.nl
 https://preprod-sociaalportaal.rijssen-holten.nl
 https://preprod-sociaalportaal.tubbergen.nl
