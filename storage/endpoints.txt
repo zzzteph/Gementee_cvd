@@ -483,6 +483,7 @@ http://test-intranet.velsen.nl
 http://test-intranet.zeist.nl
 http://test-keycloak-admin.gemert-bakel.nl
 http://test-keycloak.gemert-bakel.nl
+http://test-meedoenregeling.dongen.nl
 http://test-mijn.gemert-bakel.nl
 http://test-notificaties.gemert-bakel.nl
 http://test-objecten.gemert-bakel.nl
@@ -6988,7 +6989,6 @@ https://test-kansshop.eemsdelta.nl
 https://test-keycloak.enschede.nl
 https://test-meedoen.goeree-overflakkee.nl
 https://test-meedoen.schagen.nl
-https://test-meedoenregeling.dongen.nl
 https://test-mijn.enschede.nl
 https://test-mijn.hoorn.nl
 https://test-mijnoverzicht.alphenaandenrijn.nl
