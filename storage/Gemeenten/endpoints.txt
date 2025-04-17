@@ -326,6 +326,7 @@ http://leusden-checker.leusden.nl
 http://login.sittard-geleen.nl
 http://loket.acceptatie.hardinxveld-giessendam.nl
 http://loket.waalwijk.nl
+http://luchen.geldrop-mierlo.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
 http://maassluis.nl
@@ -403,6 +404,7 @@ http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
+http://simcms-omgevingsvisie.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
 http://simcms-preproductie.beekdaelen.nl
 http://simcms-samenindebuurt.heerlen.nl
@@ -2021,6 +2023,7 @@ https://catalogus.dataplatform.s-hertogenbosch.nl
 https://cdn1.tilburg.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
+https://centrumimpuls.geldrop-mierlo.nl
 https://checklist.rotterdam.nl
 https://cicd010.rotterdam.nl
 https://cimot.almelo.nl
@@ -3144,6 +3147,7 @@ https://felix.bronckhorst.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
 https://felix.deurne.nl
+https://felix.geldrop-mierlo.nl
 https://felix.gemeentemaasgouw.nl
 https://felix.halderberge.nl
 https://felix.heuvelrug.nl
@@ -6532,7 +6536,6 @@ https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-duurzaam.waalwijk.nl
 https://simcms-ontmoetingscentra.opmeer.nl
-https://simcms-open.geldrop-mierlo.nl
 https://simcms-open.halderberge.nl
 https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
@@ -6551,7 +6554,6 @@ https://simcms.bunschoten.nl
 https://simcms.cranendonck.nl
 https://simcms.doesburg.nl
 https://simcms.eersel.nl
-https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.heerlen.nl
 https://simcms.kerkrade.nl
@@ -7985,6 +7987,7 @@ https://www.followyourdreams.denhaag.nl
 https://www.gebouwdin.amsterdam.nl
 https://www.geertruidenberg.nl
 https://www.geldloket.emmen.nl
+https://www.geldrop-mierlo.nl
 https://www.gelukkignieuwjaar.zwolle.nl
 https://www.gemeente-oldambt.nl
 https://www.gemeente-steenbergen.nl
