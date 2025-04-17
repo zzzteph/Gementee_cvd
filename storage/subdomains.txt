@@ -1391,6 +1391,7 @@ atijdschrijven.apeldoorn.nl
 atlas.amstelveen.nl
 atlas.amsterdam.nl
 atlas.apeldoorn.nl
+atlas.breda.nl
 atlas.dbi.amsterdam.nl
 atlas.gulpen-wittem.nl
 atlasacc.apeldoorn.nl
@@ -6380,6 +6381,7 @@ iedereenwerktmee.tisa.amsterdam.nl
 ife.delft.nl
 ig-acc.rotterdam.nl
 ig-dev.rotterdam.nl
+ig.breda.nl
 ig.rotterdam.nl
 iga.amsterdam.nl
 iga.denhaag.nl
@@ -9029,6 +9031,7 @@ onderwijsloket.amsterdam.nl
 onderwijssubsidies.amsterdam.nl
 onderzoek.amersfoort.nl
 onderzoek.amsterdam.nl
+onderzoek.breda.nl
 onderzoek.eindhoven.nl
 onderzoek.groningen.nl
 onderzoek.nieuwegein.nl
@@ -13362,6 +13365,7 @@ websrv01.schiedam.nl
 websrv03.schiedam.nl
 webteam.gemeentemaastricht.nl
 webtim.nzl.amsterdam.nl
+webtoegang.breda.nl
 webvpn.gemeentehulst.nl
 webvpn.zwolle.nl
 webwerken.deventer.nl

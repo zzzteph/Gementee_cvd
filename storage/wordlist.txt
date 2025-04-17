@@ -203,6 +203,7 @@ belastingbalie-test
 evenementen
 melddesk
 mail2
+onderzoek
 jcc
 sharefile
 bag
@@ -217,7 +218,6 @@ geodata
 subsidies-backend
 website
 gemeentearchief
-onderzoek
 telewerken
 desktop
 woo
@@ -326,6 +326,7 @@ diensten
 dkd-test
 www.duurzaam
 www.test
+atlas
 api
 app
 edison
@@ -397,7 +398,6 @@ test-zaakloket
 testsiam
 zaakloket
 mail1
-atlas
 beheer
 magazines
 octopus
@@ -870,6 +870,7 @@ wim2-acc
 Belastingportaal-test
 netwerk
 beheerbeeldbank
+ig
 inkomensondersteuning
 www.stadsarchief
 esuitenotubiz-test
@@ -2609,6 +2610,7 @@ piwikacc
 webcamslingerweg
 webcamspinveld
 websiteacc
+webtoegang
 brlcmg
 nlgembrl
 smartdoc-brl
@@ -5545,7 +5547,6 @@ ibr-projectregistratie
 idiensten-contract
 ig-acc
 ig-dev
-ig
 iit-controle
 inkomensadvies
 inzagecleopatra

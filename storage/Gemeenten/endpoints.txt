@@ -246,7 +246,6 @@ http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://crl.denhaag.nl
 http://dalfsen.nl
-http://data.breda.nl
 http://data.delft.nl
 http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
@@ -1394,6 +1393,7 @@ https://asten.nl
 https://atijdschrijven.apeldoorn.nl
 https://atlas.amstelveen.nl
 https://atlas.apeldoorn.nl
+https://atlas.breda.nl
 https://atlasacc.apeldoorn.nl
 https://atlasomgevingskwaliteit.winterswijk.nl
 https://aut.acc.topdesk.denhaag.nl
@@ -2286,6 +2286,7 @@ https://data.amstelveen.nl
 https://data.amsterdam.nl
 https://data.bergendal.nl
 https://data.bergenopzoom.nl
+https://data.breda.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl
@@ -5442,6 +5443,7 @@ https://onderwijsloket.amsterdam.nl
 https://onderwijssubsidies.amsterdam.nl
 https://onderzoek.amersfoort.nl
 https://onderzoek.amsterdam.nl
+https://onderzoek.breda.nl
 https://onderzoek.eindhoven.nl
 https://onderzoek.groningen.nl
 https://onderzoek.nieuwegein.nl
