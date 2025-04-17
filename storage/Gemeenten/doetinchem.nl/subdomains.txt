@@ -42,3 +42,4 @@ webscada-rps.doetinchem.nl
 webscada.doetinchem.nl
 www.doetinchem.nl
 www.jongin.doetinchem.nl
+zorgplein.doetinchem.nl
