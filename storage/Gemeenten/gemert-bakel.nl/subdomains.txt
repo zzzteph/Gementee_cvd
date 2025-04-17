@@ -1,6 +1,7 @@
 acc-broker.gemert-bakel.nl
 acc-contact.gemert-bakel.nl
 acc-formulier.gemert-bakel.nl
+acc-keycloak-admin.gemert-bakel.nl
 acc-keycloak.gemert-bakel.nl
 acc-mijn.gemert-bakel.nl
 acc-notificaties.gemert-bakel.nl
@@ -10,6 +11,7 @@ acc-openformulieren.gemert-bakel.nl
 acc-openklant.gemert-bakel.nl
 acc-openzaak.gemert-bakel.nl
 acc-podiumd-logs.gemert-bakel.nl
+acc-zac.gemert-bakel.nl
 afspraakmaken.gemert-bakel.nl
 api.betalen.gemert-bakel.nl
 autodiscover.gemert-bakel.nl

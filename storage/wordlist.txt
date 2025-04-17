@@ -547,6 +547,8 @@ digid
 werk
 www.mijn
 www.raad
+acc-keycloak-admin
+acc-zac
 bedrijfsafval
 test-keycloak-admin
 test-keycloak
@@ -813,7 +815,6 @@ www.geo
 www.old
 acc-contact.dev
 acc-formulier.dev
-acc-keycloak-admin
 acc-keycloak.dev
 acc-mijn.dev
 acc-notificaties.dev
@@ -823,7 +824,6 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
-acc-zac
 webconf
 werknemersportaal
 www.evenementen

@@ -9,16 +9,6 @@ http://AutoDiscover.opmeer.nl
 http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
-http://acc-contact.gemert-bakel.nl
-http://acc-formulier.gemert-bakel.nl
-http://acc-keycloak.gemert-bakel.nl
-http://acc-mijn.gemert-bakel.nl
-http://acc-notificaties.gemert-bakel.nl
-http://acc-objecten.gemert-bakel.nl
-http://acc-objecttypen.gemert-bakel.nl
-http://acc-openklant.gemert-bakel.nl
-http://acc-openzaak.gemert-bakel.nl
-http://acc-podiumd-logs.gemert-bakel.nl
 http://acc-zaanlink.zaanstad.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
@@ -468,11 +458,9 @@ http://test-cmsintranet.velsen.nl
 http://test-cmssocial.montferland.info
 http://test-cmssocialintranet.middendelfland.nl
 http://test-cmsurknet.urk.nl
-http://test-contact.gemert-bakel.nl
 http://test-dok.dronten.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
-http://test-formulier.gemert-bakel.nl
 http://test-insite.houten.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.drimmelen.nl
@@ -487,17 +475,7 @@ http://test-intranet.steenwijkerland.nl
 http://test-intranet.sudwestfryslan.nl
 http://test-intranet.velsen.nl
 http://test-intranet.zeist.nl
-http://test-keycloak-admin.gemert-bakel.nl
-http://test-keycloak.gemert-bakel.nl
 http://test-meedoenregeling.dongen.nl
-http://test-mijn.gemert-bakel.nl
-http://test-notificaties.gemert-bakel.nl
-http://test-objecten.gemert-bakel.nl
-http://test-objecttypen.gemert-bakel.nl
-http://test-openklant.gemert-bakel.nl
-http://test-openzaak.gemert-bakel.nl
-http://test-podiumd-logs.gemert-bakel.nl
-http://test-zac.gemert-bakel.nl
 http://test.website.westland.gemeentewestland.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
@@ -666,6 +644,7 @@ https://acc-contact.dev.groningen.nl
 https://acc-contact.enschede.nl
 https://acc-contact.gemeente-oldambt.nl
 https://acc-contact.gemeentemaashorst.nl
+https://acc-contact.gemert-bakel.nl
 https://acc-contact.groningen.nl
 https://acc-contact.laarbeek.nl
 https://acc-contact.oldenzaal.nl
@@ -679,6 +658,7 @@ https://acc-formulier.dev.groningen.nl
 https://acc-formulier.enschede.nl
 https://acc-formulier.gemeente-oldambt.nl
 https://acc-formulier.gemeentemaashorst.nl
+https://acc-formulier.gemert-bakel.nl
 https://acc-formulier.groningen.nl
 https://acc-formulier.laarbeek.nl
 https://acc-formulier.losser.nl
@@ -689,12 +669,14 @@ https://acc-formulier.rotterdam.nl
 https://acc-formulier.zwolle.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.enschede.nl
+https://acc-keycloak-admin.gemert-bakel.nl
 https://acc-keycloak.assen.nl
 https://acc-keycloak.dev.assen.nl
 https://acc-keycloak.dev.groningen.nl
 https://acc-keycloak.enschede.nl
 https://acc-keycloak.gemeente-oldambt.nl
 https://acc-keycloak.gemeentemaashorst.nl
+https://acc-keycloak.gemert-bakel.nl
 https://acc-keycloak.groningen.nl
 https://acc-keycloak.laarbeek.nl
 https://acc-keycloak.oldenzaal.nl
@@ -709,6 +691,7 @@ https://acc-mijn.dev.groningen.nl
 https://acc-mijn.enschede.nl
 https://acc-mijn.gemeente-oldambt.nl
 https://acc-mijn.gemeentemaashorst.nl
+https://acc-mijn.gemert-bakel.nl
 https://acc-mijn.groningen.nl
 https://acc-mijn.laarbeek.nl
 https://acc-mijn.oldenzaal.nl
@@ -722,6 +705,7 @@ https://acc-notificaties.dev.groningen.nl
 https://acc-notificaties.enschede.nl
 https://acc-notificaties.gemeente-oldambt.nl
 https://acc-notificaties.gemeentemaashorst.nl
+https://acc-notificaties.gemert-bakel.nl
 https://acc-notificaties.groningen.nl
 https://acc-notificaties.laarbeek.nl
 https://acc-notificaties.oldenzaal.nl
@@ -735,6 +719,7 @@ https://acc-objecten.dev.groningen.nl
 https://acc-objecten.enschede.nl
 https://acc-objecten.gemeente-oldambt.nl
 https://acc-objecten.gemeentemaashorst.nl
+https://acc-objecten.gemert-bakel.nl
 https://acc-objecten.groningen.nl
 https://acc-objecten.laarbeek.nl
 https://acc-objecten.oldenzaal.nl
@@ -748,6 +733,7 @@ https://acc-objecttypen.dev.groningen.nl
 https://acc-objecttypen.enschede.nl
 https://acc-objecttypen.gemeente-oldambt.nl
 https://acc-objecttypen.gemeentemaashorst.nl
+https://acc-objecttypen.gemert-bakel.nl
 https://acc-objecttypen.groningen.nl
 https://acc-objecttypen.laarbeek.nl
 https://acc-objecttypen.oldenzaal.nl
@@ -761,6 +747,7 @@ https://acc-openklant.dev.groningen.nl
 https://acc-openklant.enschede.nl
 https://acc-openklant.gemeente-oldambt.nl
 https://acc-openklant.gemeentemaashorst.nl
+https://acc-openklant.gemert-bakel.nl
 https://acc-openklant.groningen.nl
 https://acc-openklant.laarbeek.nl
 https://acc-openklant.oldenzaal.nl
@@ -775,6 +762,7 @@ https://acc-openzaak.dev.groningen.nl
 https://acc-openzaak.enschede.nl
 https://acc-openzaak.gemeente-oldambt.nl
 https://acc-openzaak.gemeentemaashorst.nl
+https://acc-openzaak.gemert-bakel.nl
 https://acc-openzaak.groningen.nl
 https://acc-openzaak.laarbeek.nl
 https://acc-openzaak.oldenzaal.nl
@@ -791,6 +779,7 @@ https://acc-podiumd-logs.deventer.nl
 https://acc-podiumd-logs.enschede.nl
 https://acc-podiumd-logs.gemeente-oldambt.nl
 https://acc-podiumd-logs.gemeentemaashorst.nl
+https://acc-podiumd-logs.gemert-bakel.nl
 https://acc-podiumd-logs.groningen.nl
 https://acc-podiumd-logs.laarbeek.nl
 https://acc-podiumd-logs.oldenzaal.nl
@@ -812,6 +801,7 @@ https://acc-zaanlinkcms.zaanstad.nl
 https://acc-zac.assen.nl
 https://acc-zac.dev.groningen.nl
 https://acc-zac.enschede.nl
+https://acc-zac.gemert-bakel.nl
 https://acc.admin.schoolwijzer.amsterdam.nl
 https://acc.adus.amsterdam.nl
 https://acc.aip.amsterdam.nl

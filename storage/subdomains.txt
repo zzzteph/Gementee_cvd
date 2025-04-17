@@ -207,6 +207,7 @@ acc-formulier.zwolle.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.enschede.nl
+acc-keycloak-admin.gemert-bakel.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
 acc-keycloak.dev.groningen.nl
@@ -349,6 +350,7 @@ acc-zaanlinkcms.zaanstad.nl
 acc-zac.assen.nl
 acc-zac.dev.groningen.nl
 acc-zac.enschede.nl
+acc-zac.gemert-bakel.nl
 acc.adam.amsterdam.nl
 acc.admin.data.amsterdam.nl
 acc.admin.schoolwijzer.amsterdam.nl
