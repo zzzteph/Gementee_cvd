@@ -9,6 +9,7 @@ http://AutoDiscover.opmeer.nl
 http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
+http://aanvraagparkeren.groningen.nl
 http://acc-zaanlink.zaanstad.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
@@ -333,6 +334,7 @@ http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
 http://mijn.gemeentewestland.nl
 http://mijn.goeree-overflakkee.nl
+http://mijn.groningen.nl
 http://mijn.houten.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.zuidplas.nl
@@ -355,7 +357,6 @@ http://overbetuwe.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
-http://ows-dmnsapi.groningen.nl
 http://ows-websrvc-test.groningen.nl
 http://p8-test.zwolle.nl
 http://p8.zwolle.nl
@@ -469,7 +470,6 @@ http://test-intranet.edam-volendam.nl
 http://test-intranet.eemsdelta.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentestein.nl
-http://test-intranet.groningen.nl
 http://test-intranet.lansingerland.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
@@ -522,6 +522,7 @@ http://www.leudal.nl
 http://www.lingewaard.nl
 http://www.lopik.nl
 http://www.maassluis.nl
+http://www.mijn.groningen.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.oirschot.nl
@@ -602,7 +603,6 @@ https://aanmeldenparkeren.beverwijk.nl
 https://aanmelder.delft.nl
 https://aanpakdrugscriminaliteit.utrecht.nl
 https://aanvraag.waalwijk.nl
-https://aanvraagparkeren.groningen.nl
 https://aanvraagstaging.waalwijk.nl
 https://aanvragenpreprod.hillegom.nl
 https://aanvragenpreprod.lisse.nl
@@ -4526,6 +4526,7 @@ https://login-pre.mookenmiddelaar.nl
 https://login-pre.nijkerk.eu
 https://login.alphenaandenrijn.nl
 https://login.denkmee.tilburg.nl
+https://login.groningen.nl
 https://login.mookenmiddelaar.nl
 https://login.nijkerk.eu
 https://login.schagen.nl
@@ -4898,7 +4899,6 @@ https://mijn.gemeentemaashorst.nl
 https://mijn.gemert-bakel.nl
 https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
-https://mijn.groningen.nl
 https://mijn.haaksbergen.nl
 https://mijn.haarlem.nl
 https://mijn.hardenberg.nl
@@ -5711,6 +5711,7 @@ https://owa.veere.nl
 https://owas.wijdemeren.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
+https://ows-dmnsapi.groningen.nl
 https://ows-emssapi-test.groningen.nl
 https://ows-emssapi.groningen.nl
 https://ows-websrvc.groningen.nl
@@ -6983,6 +6984,7 @@ https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.gemeentebeek.nl
+https://test-intranet.groningen.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.sittard-geleen.nl
@@ -8119,7 +8121,6 @@ https://www.midden-groningen.nl
 https://www.middendelfland.nl
 https://www.middendrenthe.nl
 https://www.mijn.arnhem.nl
-https://www.mijn.groningen.nl
 https://www.mijn.heuvelrug.nl
 https://www.mijnkijkop.olst-wijhe.nl
 https://www.mijnleefomgeving.olst-wijhe.nl
