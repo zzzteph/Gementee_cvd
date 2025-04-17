@@ -1526,6 +1526,7 @@ autodiscover.ede.nl
 autodiscover.eemsdelta.nl
 autodiscover.eh.haarlemmermeer.nl
 autodiscover.eijsden-margraten.nl
+autodiscover.eindhoven.nl
 autodiscover.emmen.nl
 autodiscover.enkhuizen.nl
 autodiscover.enschede.nl

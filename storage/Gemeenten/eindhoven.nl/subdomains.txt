@@ -3,6 +3,7 @@ acceptatie.eindhoven.nl
 admanager.zaaksysteem.eindhoven.nl
 api.meldingen.acceptatie.eindhoven.nl
 api.meldingen.eindhoven.nl
+autodiscover.eindhoven.nl
 beeldmateriaal.eindhoven.nl
 belastingbalie.eindhoven.nl
 buurt.eindhoven.nl

@@ -76,6 +76,7 @@ http://autodiscover.druten.nl
 http://autodiscover.duiven.nl
 http://autodiscover.edam-volendam.nl
 http://autodiscover.eemsdelta.nl
+http://autodiscover.eindhoven.nl
 http://autodiscover.emmen.nl
 http://autodiscover.enkhuizen.nl
 http://autodiscover.epe.nl
@@ -2285,6 +2286,7 @@ https://data.bergendal.nl
 https://data.bergenopzoom.nl
 https://data.breda.nl
 https://data.delft.nl
+https://data.eindhoven.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl

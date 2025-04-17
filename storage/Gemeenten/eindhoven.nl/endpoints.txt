@@ -1,8 +1,10 @@
+http://autodiscover.eindhoven.nl
 https://api.meldingen.acceptatie.eindhoven.nl
 https://api.meldingen.eindhoven.nl
 https://beeldmateriaal.eindhoven.nl
 https://belastingbalie.eindhoven.nl
 https://buurt.eindhoven.nl
+https://data.eindhoven.nl
 https://edienstenburgerzaken-test.eindhoven.nl
 https://edienstenburgerzaken.eindhoven.nl
 https://ehvsubsidie.eindhoven.nl
