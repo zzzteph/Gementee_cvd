@@ -260,7 +260,7 @@ http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://draadloos.sittard-geleen.nl
 http://duurzaam.woensdrecht.nl
-http://ediensten-preproductie.gemeentehw.nl
+http://ediensten.gemeentehw.nl
 http://eformulieren.kerkrade.nl
 http://ehv-lpi-ap-15.lopik.nl
 http://eloket.meppel.nl
@@ -371,7 +371,7 @@ http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
 http://parkeren.waterland.nl
 http://participatieprikbord.denhaag.nl
-http://pip.gemeentehw.nl
+http://pip-preproductie.gemeentehw.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
 http://plannen.someren.nl
@@ -6578,6 +6578,7 @@ https://simcms.winterswijk.nl
 https://simcms.woensdrecht.nl
 https://simcms.zwartewaterland.nl
 https://simform-preproductie.achtkarspelen.nl
+https://simform-preproductie.gemeentehw.nl
 https://simform-preproductie.voorschoten.nl
 https://simform-test.rijswijk.nl
 https://simform.gemeentehw.nl
