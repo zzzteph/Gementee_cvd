@@ -1,4 +1,4 @@
-http://open.halderberge.nl
+http://simcms-open.halderberge.nl
 http://simcms.halderberge.nl
 https://edienstenburgerzaken-test.halderberge.nl
 https://edienstenburgerzaken.halderberge.nl
@@ -7,11 +7,12 @@ https://financieelportaal.halderberge.nl
 https://fs.halderberge.nl
 https://gemeenteraad.halderberge.nl
 https://halbox.halderberge.nl
+https://halderberge.nl
 https://halnet.halderberge.nl
 https://mijnzaken.halderberge.nl
 https://ons.halderberge.nl
 https://ro.halderberge.nl
-https://simcms-open.halderberge.nl
 https://webmail.halderberge.nl
+https://werkplek.halderberge.nl
 https://www.halderberge.nl
 https://zaaksysteem-accept.halderberge.nl

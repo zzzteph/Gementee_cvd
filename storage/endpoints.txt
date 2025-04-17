@@ -349,7 +349,6 @@ http://nhr-test.gemeente-steenbergen.nl
 http://ondernemersloket.kerkrade.nl
 http://ooststellingwerf.nl
 http://open.gemeentebeek.nl
-http://open.halderberge.nl
 http://open.zuidplas.nl
 http://opendata.arnhem.nl
 http://opmeer.nl
@@ -399,6 +398,7 @@ http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-omgevingsvisie.geldrop-mierlo.nl
 http://simcms-open.gemeentebeek.nl
+http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
 http://simcms-preproductie.beekdaelen.nl
 http://simcms-samenindebuurt.heerlen.nl
@@ -3668,6 +3668,7 @@ https://haarlem.nl
 https://haarlemmerliederaad.haarlemmermeer.nl
 https://haarlemmermeer.nl
 https://halbox.halderberge.nl
+https://halderberge.nl
 https://halnet.halderberge.nl
 https://handboekdibor.ede.nl
 https://handleiding.nunspeet.nl
@@ -6532,7 +6533,6 @@ https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-duurzaam.waalwijk.nl
 https://simcms-ontmoetingscentra.opmeer.nl
-https://simcms-open.halderberge.nl
 https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.staphorst.nl
@@ -7655,6 +7655,7 @@ https://werkplek.gemeenteberkelland.nl
 https://werkplek.gemeentehw.nl
 https://werkplek.gooisemeren.nl
 https://werkplek.haarlemmermeer.nl
+https://werkplek.halderberge.nl
 https://werkplek.hilversum.nl
 https://werkplek.landvancuijk.nl
 https://werkplek.lelystad.nl
