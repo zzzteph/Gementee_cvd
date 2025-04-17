@@ -297,6 +297,7 @@ intranetcms
 digikoppelingtest
 www.gemeenteraad
 acc.piwik
+www.jongin
 citrix
 omgevingswet
 dkdtest
@@ -357,7 +358,6 @@ cognos
 key2datadistributie-test
 key2gbavtest
 preprod-formulieren
-www.jongin
 connect.test
 contentbeheer.test
 zaken.test
