@@ -7457,6 +7457,7 @@ https://waardwijzer.krimpenerwaard.nl
 https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
 https://waarmerk.brielle.nl
+https://waarmerk.gemeentebest.nl
 https://waarmerk.gemeentesluis.nl
 https://waarmerk.hellevoetsluis.nl
 https://waarmerk.veendam.nl

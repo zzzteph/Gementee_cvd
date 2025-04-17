@@ -10,8 +10,8 @@ mijn
 webmail
 mail
 simsite
-afspraken
 digikoppeling
+afspraken
 preproductie
 simcms
 secure
@@ -29,10 +29,10 @@ portal
 open
 meldingen
 raad
+waarmerk
 afspraak
 geo
 parkeren
-waarmerk
 api.meldingen
 vpn
 adfs
