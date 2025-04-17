@@ -383,6 +383,7 @@ http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
+http://preproductie.bergeijk.nl
 http://preproductie.beuningen.nl
 http://preproductie.bronckhorst.nl
 http://preproductie.cranendonck.nl
@@ -438,7 +439,6 @@ http://simform.heerenveen.nl
 http://simform.heerlen.nl
 http://simform.t-diel.nl
 http://simform.wassenaar.nl
-http://simsite.bergeijk.nl
 http://simsite.bunschoten.nl
 http://simsite.doesburg.nl
 http://simsite.eersel.nl
@@ -1723,7 +1723,6 @@ https://belevingsroute.gooisemeren.nl
 https://bereikbaarheid.amsterdam.nl
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.denhaag.nl
-https://bergeijk.nl
 https://bergen-nh.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
@@ -3124,6 +3123,7 @@ https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.aalten.nl
 https://felix.beekdaelen.nl
+https://felix.bergeijk.nl
 https://felix.bergen.nl
 https://felix.bergendal.nl
 https://felix.beverwijk.nl
@@ -6564,6 +6564,7 @@ https://simform.houten.nl
 https://simform.rijswijk.nl
 https://simform.voorschoten.nl
 https://simpelveld.nl
+https://simsite.bergeijk.nl
 https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.edam-volendam.nl
