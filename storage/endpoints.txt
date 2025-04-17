@@ -6045,7 +6045,6 @@ https://preprod-mijnsociaaldomein.gemeentesluis.nl
 https://preprod-mijnsociaaldomein.venlo.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
-https://preprod-mijnsociaalplein.gemeentemaashorst.nl
 https://preprod-mijnsociaalplein.heiloo.nl
 https://preprod-mijnsociaalplein.putten.nl
 https://preprod-mijnsociaalplein.uitgeest.nl

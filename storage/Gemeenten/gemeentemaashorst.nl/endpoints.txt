@@ -33,7 +33,6 @@ https://omgevingswet.gemeentemaashorst.nl
 https://openklant.gemeentemaashorst.nl
 https://openzaak.gemeentemaashorst.nl
 https://podiumd-logs.gemeentemaashorst.nl
-https://preprod-mijnsociaalplein.gemeentemaashorst.nl
 https://prtg.gemeentemaashorst.nl
 https://pv.gemeentemaashorst.nl
 https://telewerken.gemeentemaashorst.nl
