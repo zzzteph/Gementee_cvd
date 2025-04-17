@@ -1,12 +1,11 @@
+http://mijn.goeree-overflakkee.nl
 http://simcms.goeree-overflakkee.nl
-http://simsite.goeree-overflakkee.nl
 http://www.praatmee.goeree-overflakkee.nl
 https://clicksfm.nieuwsbrief.goeree-overflakkee.nl
 https://dashboard-iav-api.goeree-overflakkee.nl
 https://dashboard-iav.goeree-overflakkee.nl
 https://edienstenburgerzaken-test.goeree-overflakkee.nl
 https://edienstenburgerzaken.goeree-overflakkee.nl
-https://goeree-overflakkee.nl
 https://meedoen.goeree-overflakkee.nl
 https://mijninkomen.goeree-overflakkee.nl
 https://nieuwsbrief.goeree-overflakkee.nl

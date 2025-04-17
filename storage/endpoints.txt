@@ -332,6 +332,7 @@ http://malengo.gemert-bakel.nl
 http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
 http://mijn.gemeentewestland.nl
+http://mijn.goeree-overflakkee.nl
 http://mijn.houten.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.zuidplas.nl
@@ -431,7 +432,6 @@ http://simform.t-diel.nl
 http://simform.wassenaar.nl
 http://simsite.cranendonck.nl
 http://simsite.geertruidenberg.nl
-http://simsite.goeree-overflakkee.nl
 http://simsite.kerkrade.nl
 http://simsite.montferland.info
 http://simsite.renswoude.nl
@@ -3623,7 +3623,6 @@ https://gitops.test.denhaag.nl
 https://glanerbrug.openstad.enschede.nl
 https://goedbezig.rotterdam.nl
 https://goedterechtin.leeuwarden.nl
-https://goeree-overflakkee.nl
 https://goes.nl
 https://gogo.denhaag.nl
 https://goirle.nl
