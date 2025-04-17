@@ -822,6 +822,7 @@ test-keycloak-admin
 test-zac
 webconf
 werknemersportaal
+www.evenementen
 www.vastgoed
 dk
 dktest
@@ -2446,7 +2447,6 @@ wpdagast2
 wpmksp001
 www.duurzaamheidscentrum
 www.english
-www.evenementen
 www.mijnplein
 www.organisatieontwikkeling
 www.slimbereikbaar
@@ -2852,6 +2852,7 @@ ihc-extern-vth.acc
 ihc-extern.acc
 ihc-extern
 ihp-acc
+ihp.acc
 ihp
 ikbouwin-acc
 ikbouwin
@@ -2916,6 +2917,7 @@ old-grafana
 old-grafana.test
 old-uptimekuma
 ombudsman-acc
+ombudsman.acc
 onboardingambulancezorg
 ondernemersportaal-acc
 ondernemersportaal

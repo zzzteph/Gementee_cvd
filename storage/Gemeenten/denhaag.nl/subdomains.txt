@@ -149,6 +149,7 @@ ihc-extern-vth.acc.denhaag.nl
 ihc-extern.acc.denhaag.nl
 ihc-extern.denhaag.nl
 ihp-acc.denhaag.nl
+ihp.acc.denhaag.nl
 ihp.denhaag.nl
 ikbouwin-acc.denhaag.nl
 ikbouwin.denhaag.nl
@@ -230,6 +231,7 @@ old-grafana.denhaag.nl
 old-grafana.test.denhaag.nl
 old-uptimekuma.denhaag.nl
 ombudsman-acc.denhaag.nl
+ombudsman.acc.denhaag.nl
 ombudsman.denhaag.nl
 omgevingsvisie.denhaag.nl
 onboardingambulancezorg.denhaag.nl
@@ -397,6 +399,7 @@ www.duurzamestad.denhaag.nl
 www.eengoedideevoorocw-acc.denhaag.nl
 www.eengoedideevoorocw.denhaag.nl
 www.enquete.denhaag.nl
+www.evenementen.denhaag.nl
 www.followyourdreams-acc.denhaag.nl
 www.followyourdreams.denhaag.nl
 www.gebiedmaanweg.denhaag.nl

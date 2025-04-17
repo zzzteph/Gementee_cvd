@@ -3,8 +3,12 @@ http://crl.denhaag.nl
 http://lvs.denhaag.nl
 http://meldcode.denhaag.nl
 http://participatieprikbord.denhaag.nl
+http://wob.denhaag.nl
+http://woo.denhaag.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.scheveningen.denhaag.nl
+http://www.wob.denhaag.nl
+http://www.woo.denhaag.nl
 http://www.zuidwestopznbest.denhaag.nl
 https://acc.denhaag.nl
 https://adeptiaconnect.acc.denhaag.nl
@@ -118,6 +122,7 @@ https://iga.denhaag.nl
 https://ihc-extern-vth.acc.denhaag.nl
 https://ihc-extern.acc.denhaag.nl
 https://ihc-extern.denhaag.nl
+https://ihp.acc.denhaag.nl
 https://ihp.denhaag.nl
 https://ikbouwin.denhaag.nl
 https://informatieplattegrond.denhaag.nl
@@ -179,6 +184,7 @@ https://old-dbmanager.test.denhaag.nl
 https://old-grafana.denhaag.nl
 https://old-grafana.test.denhaag.nl
 https://old-uptimekuma.denhaag.nl
+https://ombudsman.acc.denhaag.nl
 https://ombudsman.denhaag.nl
 https://omgevingsvisie.denhaag.nl
 https://onboardingambulancezorg.denhaag.nl
@@ -274,8 +280,6 @@ https://wijkbudgetleidschenveen.denhaag.nl
 https://wijkbudgetvruchtenbuurt.denhaag.nl
 https://wijkbudgetwaldeck.denhaag.nl
 https://wijkbudgetypenburg.denhaag.nl
-https://wob.denhaag.nl
-https://woo.denhaag.nl
 https://wordpress-zgw.acc.denhaag.nl
 https://wordpress-zgw.denhaag.nl
 https://wordpress-zgw.test.denhaag.nl
@@ -334,8 +338,6 @@ https://www.wijkbudgetleidschenveen.denhaag.nl
 https://www.wijkbudgetvruchtenbuurt.denhaag.nl
 https://www.wijkbudgetwaldeck.denhaag.nl
 https://www.wijkbudgetypenburg.denhaag.nl
-https://www.wob.denhaag.nl
-https://www.woo.denhaag.nl
 https://www.ypenburgaanzet.denhaag.nl
 https://www.zkd.denhaag.nl
 https://www.zomerprogramma070.denhaag.nl

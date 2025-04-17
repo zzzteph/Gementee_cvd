@@ -521,6 +521,8 @@ http://wijkteam-acc.katwijk.nl
 http://wijkteam-cursus.katwijk.nl
 http://wijkteam-tst.katwijk.nl
 http://wion.gemeentestein.nl
+http://wob.denhaag.nl
+http://woo.denhaag.nl
 http://woo.doesburg.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
@@ -575,7 +577,9 @@ http://www.werkenbij.zaanstad.nl
 http://www.westmaasenwaal.nl
 http://www.weststellingwerf.nl
 http://www.wierden.nl
+http://www.wob.denhaag.nl
 http://www.woensdrecht.nl
+http://www.woo.denhaag.nl
 http://www.zorgloket.druten.nl
 http://www.zuidwestopznbest.denhaag.nl
 http://www.zwartewaterland.nl
@@ -4000,6 +4004,7 @@ https://igo.gemeente-oldambt.nl
 https://ihc-extern-vth.acc.denhaag.nl
 https://ihc-extern.acc.denhaag.nl
 https://ihc-extern.denhaag.nl
+https://ihp.acc.denhaag.nl
 https://ihp.denhaag.nl
 https://iis-vpek01.pekela.nl
 https://iis-vvee01.veendam.nl
@@ -5391,6 +5396,7 @@ https://oldenzaal-checker-preprod.oldenzaal.nl
 https://oldenzaal-checker.oldenzaal.nl
 https://oldenzaal.nl
 https://olst-wijhe.nl
+https://ombudsman.acc.denhaag.nl
 https://ombudsman.denhaag.nl
 https://ombudsman.nijmegen.nl
 https://omgevingsdocumenten.rijssen-holten.nl
@@ -7738,7 +7744,6 @@ https://wmoservice.buren.nl
 https://woa.geertruidenberg.nl
 https://woa2.geertruidenberg.nl
 https://wob.arnhem.nl
-https://wob.denhaag.nl
 https://woensdrecht.nl
 https://woerden.nl
 https://wolk.valkenburg.nl
@@ -7765,7 +7770,6 @@ https://woningbouwkaart.oirschot.nl
 https://woningbouwkaart.tynaarlo.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
-https://woo.denhaag.nl
 https://woo.helmond.nl
 https://woo.hilversum.nl
 https://woo.krimpenerwaard.nl
@@ -8365,9 +8369,7 @@ https://www.wijkprofiel.rotterdam.nl
 https://www.willkommen.groningen.nl
 https://www.winkelsteeg.nijmegen.nl
 https://www.winterswijk.nl
-https://www.wob.denhaag.nl
 https://www.woerden.nl
-https://www.woo.denhaag.nl
 https://www.wormerland.nl
 https://www.woudenberg.nl
 https://www.woz-loket.coevorden.nl
