@@ -9,6 +9,7 @@ cmsintranet.etten-leur.nl
 edienstenburgerzaken-test.etten-leur.nl
 edienstenburgerzaken.etten-leur.nl
 enterpriseenrollment.etten-leur.nl
+enterpriseregistration.etten-leur.nl
 etten-leur.nl
 financieelportaal.etten-leur.nl
 gemeenteraad.etten-leur.nl

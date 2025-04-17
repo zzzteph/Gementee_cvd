@@ -60,11 +60,11 @@ belastingbalie
 cmsoo
 loket.acceptatie
 remote
+enterpriseregistration
 cloudadapter-test
 data
 osb
 omgevingsvisie
-enterpriseregistration
 login
 beeldbank
 flowmailer-tracking
