@@ -1685,7 +1685,6 @@ https://belastingen.zoetermeer.nl
 https://belastingloket-test.vijfheerenlanden.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.edam-volendam.nl
-https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
 https://belastingloket.hattem.nl
 https://belastingloket.heerde.nl
@@ -1786,7 +1785,6 @@ https://betalen.diemen.nl
 https://betalen.doetinchem.nl
 https://betalen.ede.nl
 https://betalen.eemsdelta.nl
-https://betalen.elburg.nl
 https://betalen.emmen.nl
 https://betalen.ermelo.nl
 https://betalen.gemeentewestland.nl
@@ -2908,6 +2906,7 @@ https://eloket.brunssum.nl
 https://eloket.culemborg.nl
 https://eloket.deurne.nl
 https://eloket.dronten.nl
+https://eloket.elburg.nl
 https://eloket.geldrop-mierlo.nl
 https://eloket.gemeentehulst.nl
 https://eloket.gemeentemaastricht.nl
@@ -3822,7 +3821,6 @@ https://iburgerzaken.eemnes.nl
 https://iburgerzaken.eemsdelta.nl
 https://iburgerzaken.eersel.nl
 https://iburgerzaken.eijsden-margraten.nl
-https://iburgerzaken.elburg.nl
 https://iburgerzaken.enschede.nl
 https://iburgerzaken.epe.nl
 https://iburgerzaken.etten-leur.nl
@@ -6062,6 +6060,7 @@ https://preprod.vergunningintaker.nunspeet.nl
 https://preprodbroker.aalten.nl
 https://preprodbroker.bernheze.org
 https://preprodbroker.duiven.nl
+https://preprodbroker.elburg.nl
 https://preprodbroker.gemeentehw.nl
 https://preprodbroker.gemeentewestland.nl
 https://preprodbroker.leeuwarden.nl
@@ -7057,7 +7056,6 @@ https://testbelastingbalie.hoorn.nl
 https://testbelastingen.zaanstad.nl
 https://testbelastingen.zoetermeer.nl
 https://testbelastingloket.edam-volendam.nl
-https://testbelastingloket.elburg.nl
 https://testbelastingloket.hattem.nl
 https://testbelastingloket.heerde.nl
 https://testbelastingloket.oldebroek.nl

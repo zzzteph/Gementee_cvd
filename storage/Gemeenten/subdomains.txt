@@ -2100,7 +2100,6 @@ belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
 belastingloket.edam-volendam.nl
-belastingloket.elburg.nl
 belastingloket.emmen.nl
 belastingloket.hattem.nl
 belastingloket.heerde.nl
@@ -2237,7 +2236,6 @@ betalen.diemen.nl
 betalen.doetinchem.nl
 betalen.ede.nl
 betalen.eemsdelta.nl
-betalen.elburg.nl
 betalen.emmen.nl
 betalen.ermelo.nl
 betalen.gemeentewestland.nl
@@ -3447,6 +3445,7 @@ digikoppeling.ede.nl
 digikoppeling.eemnes.nl
 digikoppeling.eijsden-margraten.nl
 digikoppeling.eindhoven.nl
+digikoppeling.elburg.nl
 digikoppeling.emmen.nl
 digikoppeling.gemeentehulst.nl
 digikoppeling.gemeentehw.nl
@@ -4390,6 +4389,7 @@ eloket.brunssum.nl
 eloket.culemborg.nl
 eloket.deurne.nl
 eloket.dronten.nl
+eloket.elburg.nl
 eloket.geldrop-mierlo.nl
 eloket.gemeentehulst.nl
 eloket.gemeentemaastricht.nl
@@ -6011,7 +6011,6 @@ iburgerzaken.eemnes.nl
 iburgerzaken.eemsdelta.nl
 iburgerzaken.eersel.nl
 iburgerzaken.eijsden-margraten.nl
-iburgerzaken.elburg.nl
 iburgerzaken.enschede.nl
 iburgerzaken.epe.nl
 iburgerzaken.etten-leur.nl
@@ -8572,7 +8571,6 @@ mta.nieuwsbrief.amsterdam.nl
 museumcollecties.roermond.nl
 mv1.amsterdam.nl
 mvpndec.rotterdam.nl
-mx.elburg.nl
 mx.oss.nl
 mx01.haarlem.nl
 mx02.meierijstad.nl
@@ -10058,6 +10056,7 @@ preprod.vergunningintaker.nunspeet.nl
 preprodbroker.aalten.nl
 preprodbroker.bernheze.org
 preprodbroker.duiven.nl
+preprodbroker.elburg.nl
 preprodbroker.gemeentehw.nl
 preprodbroker.gemeentewestland.nl
 preprodbroker.leeuwarden.nl
@@ -12358,7 +12357,6 @@ testbelastingbalie.hoorn.nl
 testbelastingen.zaanstad.nl
 testbelastingen.zoetermeer.nl
 testbelastingloket.edam-volendam.nl
-testbelastingloket.elburg.nl
 testbelastingloket.hattem.nl
 testbelastingloket.heerde.nl
 testbelastingloket.oldebroek.nl

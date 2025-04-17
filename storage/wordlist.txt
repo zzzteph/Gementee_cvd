@@ -35,10 +35,10 @@ parkeren
 waarmerk
 api.meldingen
 vpn
-betalen
 adfs
 broker
 ruimtelijkeplannen
+betalen
 iparticipatie
 pv
 zaaksysteem-accept
@@ -85,13 +85,13 @@ cmsintranet
 denkmee
 parkeren-test
 acc-broker
-belastingloket
 doemee
 connect
 piwik
 siam
 financien
 klantcontact
+belastingloket
 govroam
 pki
 test-cmsintranet
@@ -120,6 +120,7 @@ bgt
 woningbouwkaart
 obsurv
 begroting
+preprodbroker
 simform
 mijninkomen
 acc-formulier
@@ -130,7 +131,6 @@ micollab
 mdm
 contentbeheer
 _autodiscover._tcp
-preprodbroker
 e
 gisib
 web
@@ -372,7 +372,6 @@ openformulieren-test
 webservices
 socialekaart
 www.intranet
-testbelastingloket
 ondernemen
 e.openstad
 mijnuitkering
@@ -461,6 +460,7 @@ mobility
 vergunningen
 mta-sts.raad
 www.socialekaart
+testbelastingloket
 raadsinformatie
 duo
 www.samen
@@ -966,7 +966,6 @@ redirect
 www.ondernemen
 antispam
 mediabank
-mx
 allegro
 bijeenkomsten
 cmsoo.gemeente
@@ -5271,6 +5270,7 @@ internoss.test
 jaarverslag2023
 kadernota2025
 mijn.test
+mx
 portal.test
 test.loket
 uem
