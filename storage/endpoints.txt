@@ -3482,6 +3482,7 @@ https://geo.brunssum.nl
 https://geo.capelleaandenijssel.nl
 https://geo.dalfsen.nl
 https://geo.doetinchem.nl
+https://geo.emmen.nl
 https://geo.ermelo.nl
 https://geo.gemeente-oldambt.nl
 https://geo.gemeentestein.nl

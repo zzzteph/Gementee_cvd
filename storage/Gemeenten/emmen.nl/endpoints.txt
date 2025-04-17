@@ -15,6 +15,7 @@ https://edienstenburgerzaken.emmen.nl
 https://emmen.nl
 https://geldloket.emmen.nl
 https://gemeente.emmen.nl
+https://geo.emmen.nl
 https://mijnsdv.emmen.nl
 https://mijnuitkering.emmen.nl
 https://ro.emmen.nl
