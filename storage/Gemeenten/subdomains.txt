@@ -2675,6 +2675,7 @@ clientcert-prd.groningen.nl
 clientcert-tst.groningen.nl
 clo.gemeentehulst.nl
 cloud.beverwijk.nl
+cloud.buren.nl
 cloud.midden-groningen.nl
 cloud.nissewaard.nl
 cloud.wageningen.nl
