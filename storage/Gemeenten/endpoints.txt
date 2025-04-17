@@ -403,7 +403,6 @@ http://remote.gemeentesluis.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://sammy-acc.derondevenen.nl
-http://secure.dalfsen.nl
 http://sem.kampen.nl
 http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-energiek.beuningen.nl
@@ -417,6 +416,7 @@ http://simcms.aalten.nl
 http://simcms.achtkarspelen.nl
 http://simcms.baarn.nl
 http://simcms.bladel.nl
+http://simcms.dalfsen.nl
 http://simcms.goeree-overflakkee.nl
 http://simcms.halderberge.nl
 http://simcms.heumen.nl
@@ -529,6 +529,7 @@ http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
 http://www.bunschoten.nl
 http://www.cranendonck.nl
+http://www.dalfsen.nl
 http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.t-diel.nl
@@ -3137,7 +3138,6 @@ https://felix.beverwijk.nl
 https://felix.bronckhorst.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
-https://felix.dalfsen.nl
 https://felix.gemeentemaasgouw.nl
 https://felix.halderberge.nl
 https://felix.heuvelrug.nl
@@ -6456,6 +6456,7 @@ https://secure-t.sittard-geleen.nl
 https://secure-test.almere.nl
 https://secure.acc.denhaag.nl
 https://secure.almere.nl
+https://secure.dalfsen.nl
 https://secure.denhaag.nl
 https://secure.pekela.nl
 https://secure.sittard-geleen.nl
@@ -6540,7 +6541,6 @@ https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
 https://simcms.bunschoten.nl
 https://simcms.cranendonck.nl
-https://simcms.dalfsen.nl
 https://simcms.doetinchem.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
@@ -7905,7 +7905,6 @@ https://www.containers.amsterdam.nl
 https://www.crk.amsterdam.nl
 https://www.csam.deventer.nl
 https://www.culemborg.nl
-https://www.dalfsen.nl
 https://www.dantumadiel.frl
 https://www.dataportaal.tilburg.nl
 https://www.de.gemert-bakel.nl
