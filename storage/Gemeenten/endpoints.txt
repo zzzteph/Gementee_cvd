@@ -230,7 +230,6 @@ http://belasting-test.kampen.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://belastingen.sudwestfryslan.nl
-http://bergen.nl
 http://bergendal.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://bijveen-acc.veenendaal.nl
@@ -1724,6 +1723,7 @@ https://bereikbaarheid.amsterdam.nl
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.denhaag.nl
 https://bergen-nh.nl
+https://bergen.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
@@ -3124,7 +3124,6 @@ https://feedback.delft.nl
 https://felix.aalten.nl
 https://felix.beekdaelen.nl
 https://felix.bergeijk.nl
-https://felix.bergen.nl
 https://felix.bergendal.nl
 https://felix.beverwijk.nl
 https://felix.capelleaandenijssel.nl
@@ -7852,6 +7851,7 @@ https://www.belastingloket.overbetuwe.nl
 https://www.belastingloket.purmerend.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergen-nh.nl
+https://www.bergen.nl
 https://www.bergendal.nl
 https://www.bergenopzoom.nl
 https://www.bernheze.org
