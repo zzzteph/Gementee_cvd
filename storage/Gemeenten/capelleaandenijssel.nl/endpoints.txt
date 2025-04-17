@@ -1,4 +1,5 @@
 http://capelleaandenijssel.nl
+http://email.capelleaandenijssel.nl
 https://belastingbalie.capelleaandenijssel.nl
 https://belastingbalietest.capelleaandenijssel.nl
 https://clicksfm.capelleaandenijssel.nl
@@ -8,4 +9,3 @@ https://link.capelleaandenijssel.nl
 https://nieuwsbrief.capelleaandenijssel.nl
 https://qr-acc.capelleaandenijssel.nl
 https://qr.capelleaandenijssel.nl
-https://www.capelleaandenijssel.nl

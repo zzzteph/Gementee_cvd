@@ -266,6 +266,7 @@ http://eformulieren.kerkrade.nl
 http://ehv-lpi-ap-15.lopik.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
+http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
 http://epos.staphorst.nl
 http://extranet-acc.eemsdelta.nl
@@ -7887,7 +7888,6 @@ https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl
 https://www.buurtbudgetzuidoost.amsterdam.nl
 https://www.campus.groningen.nl
-https://www.capelleaandenijssel.nl
 https://www.castricum.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
