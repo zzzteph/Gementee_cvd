@@ -225,7 +225,6 @@ http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
 http://baarn.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
-http://beheer-test-trefpunt.deurne.nl
 http://belasting-test.kampen.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
@@ -1601,6 +1600,7 @@ https://begroting.zoeterwoude.nl
 https://begroting2016.kerkrade.nl
 https://begroting2018.hoorn.nl
 https://begroting2019.financien.gouda.nl
+https://beheer-test-trefpunt.deurne.nl
 https://beheer-trefpunt.deurne.nl
 https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
@@ -2373,6 +2373,7 @@ https://desktop.lelystad.nl
 https://desktop.winterswijk.nl
 https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
+https://deurne.nl
 https://dev-formulieren.haarlemmermeer.nl
 https://dev01.deventer.nl
 https://devapps3.deventer.nl
@@ -3142,6 +3143,7 @@ https://felix.beverwijk.nl
 https://felix.bronckhorst.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
+https://felix.deurne.nl
 https://felix.gemeentemaasgouw.nl
 https://felix.halderberge.nl
 https://felix.heuvelrug.nl
