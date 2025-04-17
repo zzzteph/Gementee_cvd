@@ -60,8 +60,8 @@ belastingbalie
 cmsoo
 loket.acceptatie
 remote
-data
 cloudadapter-test
+data
 osb
 omgevingsvisie
 enterpriseregistration
@@ -2529,6 +2529,7 @@ energiek
 mijnaanvraagzi
 mijnzi
 preprod.mijnaanvraagzi
+probeer-energiek
 simcms-energiek
 test-mijnzi
 www.energiek
