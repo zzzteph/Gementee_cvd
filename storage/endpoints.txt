@@ -225,7 +225,6 @@ http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
 http://baarn.nl
-http://beh-gemeenteloket.gemeentemaastricht.nl
 http://belasting-test.kampen.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
@@ -4871,6 +4870,7 @@ https://mijn-acc.overbetuwe.nl
 https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
+https://mijn-gemeenteloket.gemeentemaastricht.nl
 https://mijn-preproductie.ooststellingwerf.nl
 https://mijn-preproductie.weststellingwerf.nl
 https://mijn-services.accp.nijmegen.nl
