@@ -129,6 +129,7 @@ sip
 micollab
 mdm
 contentbeheer
+_autodiscover._tcp
 preprodbroker
 e
 gisib
@@ -150,7 +151,6 @@ jaarstukken
 connect.acceptatie
 cryptshare
 belastingportaal
-_autodiscover._tcp
 ftp
 maps
 vdi

@@ -284,7 +284,6 @@ http://felix.voorschoten.nl
 http://felix.winterswijk.nl
 http://felix.zoetermeer.nl
 http://felix.zwartewaterland.nl
-http://felixpdc.doesburg.nl
 http://flash.scherpenzeel.nl
 http://formulieren.heerenveen.nl
 http://formulieren.meierijstad.nl
@@ -341,7 +340,6 @@ http://malengo-testcms.gemert-bakel.nl
 http://malengo.gemert-bakel.nl
 http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
-http://mijn.doesburg.nl
 http://mijn.houten.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.zuidplas.nl
@@ -437,7 +435,6 @@ http://simform.heerlen.nl
 http://simform.t-diel.nl
 http://simform.wassenaar.nl
 http://simsite.cranendonck.nl
-http://simsite.doesburg.nl
 http://simsite.eersel.nl
 http://simsite.goeree-overflakkee.nl
 http://simsite.kerkrade.nl
@@ -521,7 +518,6 @@ http://wijkteam-tst.katwijk.nl
 http://wion.gemeentestein.nl
 http://wob.denhaag.nl
 http://woo.denhaag.nl
-http://woo.doesburg.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.bba.amsterdam.nl
@@ -534,7 +530,6 @@ http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.t-diel.nl
 http://www.doemee.oosterhout.nl
-http://www.doesburg.nl
 http://www.doetinchem.nl
 http://www.huizen.nl
 http://www.internwifi.hellevoetsluis.nl
@@ -6546,6 +6541,7 @@ https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
 https://simcms.bunschoten.nl
 https://simcms.cranendonck.nl
+https://simcms.doesburg.nl
 https://simcms.doetinchem.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
@@ -7767,6 +7763,7 @@ https://woningbouwkaart.oirschot.nl
 https://woningbouwkaart.tynaarlo.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
+https://woo.doesburg.nl
 https://woo.helmond.nl
 https://woo.hilversum.nl
 https://woo.krimpenerwaard.nl
