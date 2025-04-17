@@ -3,6 +3,7 @@
 acc-broker.enschede.nl
 acc-contact.enschede.nl
 acc-formulier.enschede.nl
+acc-keycloak-admin.enschede.nl
 acc-keycloak.enschede.nl
 acc-mijn.enschede.nl
 acc-notificaties.enschede.nl
@@ -11,6 +12,7 @@ acc-objecttypen.enschede.nl
 acc-openklant.enschede.nl
 acc-openzaak.enschede.nl
 acc-podiumd-logs.enschede.nl
+acc-zac.enschede.nl
 admin.openstad.enschede.nl
 afspraakmaken.enschede.nl
 afspraakmakentest.enschede.nl
@@ -74,7 +76,9 @@ squit2gotest-backoffice.enschede.nl
 squit2gotest.enschede.nl
 stadsveld.openstad.enschede.nl
 statistieken-intranet.enschede.nl
+test-contact.enschede.nl
 test-formulier.enschede.nl
+test-keycloak-admin.enschede.nl
 test-keycloak.enschede.nl
 test-mijn.enschede.nl
 test-notificaties.enschede.nl
@@ -83,6 +87,7 @@ test-objecttypen.enschede.nl
 test-openklant.enschede.nl
 test-openzaak.enschede.nl
 test-podiumd-logs.enschede.nl
+test-zac.enschede.nl
 toegankelijk.enschede.nl
 toolbox.openstad.enschede.nl
 webcam.enschede.nl

@@ -681,6 +681,7 @@ https://acc-formulier.roermond.nl
 https://acc-formulier.rotterdam.nl
 https://acc-formulier.zwolle.nl
 https://acc-keycloak-admin.assen.nl
+https://acc-keycloak-admin.enschede.nl
 https://acc-keycloak.assen.nl
 https://acc-keycloak.dev.assen.nl
 https://acc-keycloak.dev.groningen.nl
@@ -803,6 +804,7 @@ https://acc-subsidiebeheer.delft.nl
 https://acc-zaanlinkcms.zaanstad.nl
 https://acc-zac.assen.nl
 https://acc-zac.dev.groningen.nl
+https://acc-zac.enschede.nl
 https://acc.admin.schoolwijzer.amsterdam.nl
 https://acc.adus.amsterdam.nl
 https://acc.aip.amsterdam.nl
@@ -6971,6 +6973,7 @@ https://test-cmsintranet.zeist.nl
 https://test-cmsjip.vijfheerenlanden.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmszaanzoeker.zaanstad.nl
+https://test-contact.enschede.nl
 https://test-digikoppeling.brielle.nl
 https://test-digikoppeling.sint-michielsgestel.nl
 https://test-digikoppeling.westvoorne.nl
@@ -6991,6 +6994,7 @@ https://test-jip.vijfheerenlanden.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
+https://test-keycloak-admin.enschede.nl
 https://test-keycloak.enschede.nl
 https://test-meedoen.goeree-overflakkee.nl
 https://test-meedoen.schagen.nl
@@ -7025,6 +7029,7 @@ https://test-zaakloket.schiermonnikoog.nl
 https://test-zaakloket.terschelling.nl
 https://test-zaakloket.vlieland.nl
 https://test-zaanzoeker.zaanstad.nl
+https://test-zac.enschede.nl
 https://test.api.tod.leiden.nl
 https://test.app.amsterdam.nl
 https://test.beverwijk.nl

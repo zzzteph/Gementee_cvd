@@ -206,6 +206,7 @@ acc-formulier.rotterdam.nl
 acc-formulier.zwolle.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
+acc-keycloak-admin.enschede.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
 acc-keycloak.dev.groningen.nl
@@ -347,6 +348,7 @@ acc-zaanlink.zaanstad.nl
 acc-zaanlinkcms.zaanstad.nl
 acc-zac.assen.nl
 acc-zac.dev.groningen.nl
+acc-zac.enschede.nl
 acc.adam.amsterdam.nl
 acc.admin.data.amsterdam.nl
 acc.admin.schoolwijzer.amsterdam.nl
@@ -12095,6 +12097,7 @@ test-cmssocial.montferland.info
 test-cmssocialintranet.middendelfland.nl
 test-cmsurknet.urk.nl
 test-cmszaanzoeker.zaanstad.nl
+test-contact.enschede.nl
 test-contact.gemert-bakel.nl
 test-dieuwke.defryskemarren.nl
 test-digikoppeling.assen.nl
@@ -12194,6 +12197,7 @@ test-kaartviewer.pijnacker-nootdorp.nl
 test-kansshop.eemsdelta.nl
 test-kennisbank.almelo.nl
 test-keycloak-admin.assen.nl
+test-keycloak-admin.enschede.nl
 test-keycloak-admin.gemert-bakel.nl
 test-keycloak.assen.nl
 test-keycloak.enschede.nl
@@ -12271,6 +12275,7 @@ test-zaakloket.terschelling.nl
 test-zaakloket.vlieland.nl
 test-zaanzoeker.zaanstad.nl
 test-zac.assen.nl
+test-zac.enschede.nl
 test-zac.gemert-bakel.nl
 test.aalsmeer.nl
 test.achtkarspelen.nl
