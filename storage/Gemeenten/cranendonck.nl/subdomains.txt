@@ -3,6 +3,7 @@ afspraken.cranendonck.nl
 afvalkalender.cranendonck.nl
 autodiscover.cranendonck.nl
 berichten.cranendonck.nl
+cranendonck.nl
 digikoppeling-test.cranendonck.nl
 digikoppeling.cranendonck.nl
 felix.cranendonck.nl
