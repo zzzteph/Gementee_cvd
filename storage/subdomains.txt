@@ -7368,6 +7368,7 @@ lms.veere.nl
 local.oostgelre.nl
 localhost.barneveld.nl
 localhost.borger-odoorn.nl
+localhost.ede.nl
 localhost.smallingerland.nl
 localhost.zaanstad.nl
 lochem.nl
@@ -12827,6 +12828,7 @@ veiligmailen.haaksbergen.nl
 veldhoven.nl
 velp.landvancuijk.nl
 velsen.nl
+veluwsepoort.ede.nl
 venlo.nl
 venray.nl
 vergaderen-adp.amsterdam.nl
@@ -15003,6 +15005,7 @@ zaaksysteem-accept.zaltbommel.nl
 zaaksysteem-acceptatie.venlo.nl
 zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 zaaksysteem.acc.utrecht.nl
+zaaksysteem.ede.nl
 zaaksysteem.eindhoven.nl
 zaaksysteem.hilversum.nl
 zaaksysteem.maassluis.nl

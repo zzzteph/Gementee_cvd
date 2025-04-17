@@ -212,6 +212,7 @@ handhaving
 inproces.acceptatie
 outlook
 testloket
+zaaksysteem
 contact
 wachtwoord
 geodata
@@ -235,7 +236,6 @@ acceptatie-open
 kcc
 mx1
 mx2
-zaaksysteem
 www.portal
 cloudadapter-prod
 mijnzorg-acc
@@ -343,6 +343,7 @@ test-objecten
 test-objecttypen
 test-podiumd-logs
 geoserver
+localhost
 simcms-preproductie
 uca
 esb
@@ -411,7 +412,6 @@ media
 plannen
 bestemmingsplannen
 kaartviewer
-localhost
 nhr
 personeelsplanning
 djuma
@@ -3330,6 +3330,7 @@ pit
 spin
 sslvpn2
 sso-sharefile
+veluwsepoort
 broker-preprod
 cms-intranet
 extranet-acc

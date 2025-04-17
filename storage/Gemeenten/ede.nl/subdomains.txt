@@ -38,6 +38,7 @@ kernhem.ede.nl
 liquidfiles-acc.ede.nl
 liquidfiles.ede.nl
 liveblog.ede.nl
+localhost.ede.nl
 login.ede.nl
 logoff.ede.nl
 mail.ede.nl
@@ -67,9 +68,11 @@ subsidies-backend.ede.nl
 subsidies-login.acceptatie.ede.nl
 subsidies-login.ede.nl
 subsidies.ede.nl
+veluwsepoort.ede.nl
 webmail.ede.nl
 welkom.ede.nl
 www.belastingbalie.ede.nl
 www.ede.nl
 www.ondernemen.ede.nl
 zaaksysteem-accept.ede.nl
+zaaksysteem.ede.nl

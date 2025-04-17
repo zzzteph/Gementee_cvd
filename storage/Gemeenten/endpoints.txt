@@ -8456,6 +8456,7 @@ https://zaaksysteem-accept.zaltbommel.nl
 https://zaaksysteem-acceptatie.venlo.nl
 https://zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 https://zaaksysteem.acc.utrecht.nl
+https://zaaksysteem.ede.nl
 https://zaaksysteem.hilversum.nl
 https://zaaksysteem.maassluis.nl
 https://zaaksysteem.meppel.nl
