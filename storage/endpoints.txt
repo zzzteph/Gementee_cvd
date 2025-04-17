@@ -313,7 +313,6 @@ http://koggenland.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://login.sittard-geleen.nl
-http://loket.acceptatie.hardinxveld-giessendam.nl
 http://loket.gemeentewestland.nl
 http://loket.waalwijk.nl
 http://luchen.geldrop-mierlo.nl
@@ -4548,6 +4547,7 @@ https://loket.acceptatie.barendrecht.nl
 https://loket.acceptatie.dantumadiel.frl
 https://loket.acceptatie.dordrecht.nl
 https://loket.acceptatie.gemeentewesterveld.nl
+https://loket.acceptatie.hardinxveld-giessendam.nl
 https://loket.acceptatie.hellendoorn.nl
 https://loket.acceptatie.noardeast-fryslan.nl
 https://loket.acceptatie.overbetuwe.nl
