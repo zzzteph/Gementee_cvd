@@ -1,6 +1,6 @@
 http://autodiscover.bodegraven-reeuwijk.nl
-http://cmsoo.bodegraven-reeuwijk.nl
 https://bodegraven-reeuwijk.nl
+https://cmsoo.bodegraven-reeuwijk.nl
 https://denkmee.bodegraven-reeuwijk.nl
 https://formulieren.bodegraven-reeuwijk.nl
 https://ftp.bodegraven-reeuwijk.nl

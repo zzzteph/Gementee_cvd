@@ -242,7 +242,6 @@ http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
 http://cmsinsite.houten.nl
 http://cmsintranet.etten-leur.nl
-http://cmsoo.bodegraven-reeuwijk.nl
 http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://crl.denhaag.nl
@@ -2099,6 +2098,7 @@ https://cmsjip.vijfheerenlanden.nl
 https://cmsmarkt1.nunspeet.nl
 https://cmsnopnet.noordoostpolder.nl
 https://cmsoo.assen.nl
+https://cmsoo.bodegraven-reeuwijk.nl
 https://cmsoo.borger-odoorn.nl
 https://cmsoo.borne.nl
 https://cmsoo.coevorden.nl
