@@ -155,6 +155,7 @@ maps
 vdi
 nieuwsbrief
 auth
+gis
 acc-contact
 acc-keycloak
 acc-openklant
@@ -177,7 +178,6 @@ veiligdelen
 mailing
 email
 legacy
-gis
 owa
 test-digikoppeling
 meedoen
@@ -207,6 +207,7 @@ jcc
 sharefile
 bag
 intranet-acc
+handhaving
 inproces.acceptatie
 outlook
 testloket
@@ -236,7 +237,6 @@ mx2
 zaaksysteem
 www.portal
 cloudadapter-prod
-handhaving
 mijnzorg-acc
 vergunningintaker-preprod
 simform-preproductie
@@ -568,6 +568,7 @@ admin.doemee
 api.doemee
 auth.doemee
 img.doemee
+wmo
 testformulieren
 automator
 preprod-mijnoverzicht
@@ -1139,7 +1140,6 @@ regieportaal
 zorg-acc
 lokettest
 portaaltest
-wmo
 mymeeting
 scep
 login-pre

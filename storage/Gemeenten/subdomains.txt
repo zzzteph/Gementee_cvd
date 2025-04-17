@@ -5482,6 +5482,7 @@ gis-analytics.haarlemmermeer.nl
 gis-test.tilburg.nl
 gis.apeldoorn.nl
 gis.assen.nl
+gis.bloemendaal.nl
 gis.breda.nl
 gis.gemeentemaashorst.nl
 gis.gouda.nl
@@ -5722,6 +5723,7 @@ halderberge.nl
 halnet.halderberge.nl
 hamersestraat.westervoort.nl
 handboekdibor.ede.nl
+handhaving.bloemendaal.nl
 handhaving.groningen.nl
 handhaving.haarlem.nl
 handhaving.haarlemmermeer.nl
@@ -13601,6 +13603,7 @@ wlan.nieuwegein.nl
 wlan.venlo.nl
 wlc.denhaag.nl
 wlc01.waterland.nl
+wmo.bloemendaal.nl
 wmo.middendrenthe.nl
 wmo.veenendaal.nl
 wmoauth.acceptatie.amsterdam.nl
