@@ -264,7 +264,6 @@ http://felix.bergendal.nl
 http://felix.bladel.nl
 http://felix.bunschoten.nl
 http://felix.gemeentebeek.nl
-http://felix.harlingen.nl
 http://felix.middendelfland.nl
 http://felix.oirschot.nl
 http://felix.renswoude.nl
@@ -410,6 +409,7 @@ http://simcms.dalfsen.nl
 http://simcms.echt-susteren.nl
 http://simcms.goeree-overflakkee.nl
 http://simcms.halderberge.nl
+http://simcms.harlingen.nl
 http://simcms.heumen.nl
 http://simcms.huizen.nl
 http://simcms.lopik.nl
@@ -514,6 +514,7 @@ http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.t-diel.nl
 http://www.doemee.oosterhout.nl
+http://www.harlingen.nl
 http://www.huizen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
@@ -3677,6 +3678,7 @@ https://harderwijk.nl
 https://hardinxveld-giessendam-checker-preprod.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam-checker.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam.nl
+https://harlingen.nl
 https://hattem.nl
 https://haven.acc.sittard-geleen.nl
 https://haven.deventer.nl

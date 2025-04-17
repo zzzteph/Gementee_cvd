@@ -1,10 +1,12 @@
-http://felix.harlingen.nl
+http://simcms.harlingen.nl
+http://www.harlingen.nl
 https://acc.woz-loket.harlingen.nl
 https://cryptshare.harlingen.nl
 https://edienstenburgerzaken-test.harlingen.nl
 https://edienstenburgerzaken.harlingen.nl
 https://eloket.harlingen.nl
 https://geovisia.harlingen.nl
+https://harlingen.nl
 https://parkeervergunningen.harlingen.nl
 https://portal.harlingen.nl
 https://samen.harlingen.nl
