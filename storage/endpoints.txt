@@ -454,7 +454,6 @@ http://stadspas.weert.nl
 http://subsites.amsterdam.nl
 http://test-bink.beverwijk.nl
 http://test-cmsbink.beverwijk.nl
-http://test-cmsdok.dronten.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsinsite.houten.nl
 http://test-cmsintranet.etten-leur.nl
@@ -464,6 +463,7 @@ http://test-cmssocial.montferland.info
 http://test-cmssocialintranet.middendelfland.nl
 http://test-cmsurknet.urk.nl
 http://test-contact.gemert-bakel.nl
+http://test-dok.dronten.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-formulier.gemert-bakel.nl
@@ -6946,6 +6946,7 @@ https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
 https://test-cmsdieuwke.defryskemarren.nl
+https://test-cmsdok.dronten.nl
 https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
