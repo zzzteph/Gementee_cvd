@@ -171,7 +171,6 @@ AutoDiscover
 ro
 inloggen
 inproces
-transfer
 internetafspraken
 college
 veiligdelen
@@ -190,6 +189,7 @@ mobiel
 contentbeheer.acceptatie
 zaken.acceptatie
 bor
+transfer
 bestuur
 squit2020
 afspraakmaken
@@ -3336,6 +3336,7 @@ cms-intranet
 extranet-acc
 extranetcms-acc
 extranetcms
+ez
 fme
 kansshop
 medewerkersportaal

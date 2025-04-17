@@ -1,5 +1,6 @@
 http://autodiscover.eemsdelta.nl
 http://extranet-acc.eemsdelta.nl
+http://test-intranet.eemsdelta.nl
 https://acceptatie.eemsdelta.nl
 https://afspraken.eemsdelta.nl
 https://api.betalen.eemsdelta.nl
@@ -16,10 +17,8 @@ https://iburgerzaken.eemsdelta.nl
 https://intranet.eemsdelta.nl
 https://kansshop.eemsdelta.nl
 https://medewerkersportaal.eemsdelta.nl
-https://test-intranet.eemsdelta.nl
 https://test-kansshop.eemsdelta.nl
 https://testcms-intranet.eemsdelta.nl
-https://transfer.eemsdelta.nl
 https://vergunningintaker-preprod.eemsdelta.nl
 https://vergunningintaker.eemsdelta.nl
 https://verkiezingen.eemsdelta.nl
