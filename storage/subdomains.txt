@@ -7519,6 +7519,7 @@ looplijst.top.amsterdam.nl
 lopik.nl
 losser.nl
 lostlemon.haarlemmermeer.nl
+lrdstufxml.bergen-nh.nl
 luchen.geldrop-mierlo.nl
 lv-brk.noardeast-fryslan.nl
 lv.eindhoven.nl
@@ -10478,6 +10479,7 @@ rdw.authenticatie.alkmaar.nl
 rdweb.deurne.nl
 rdweb.houten.nl
 rdweb01.schagen.nl
+rdwproxy.bergen-nh.nl
 recast-citrixapps.tilburg.nl
 reclame.nijmegen.nl
 redactie-extern.denhaag.nl

@@ -2493,6 +2493,8 @@ dell2.servers1
 dell3
 firewall.servers1
 gw.servers1
+lrdstufxml
+rdwproxy
 tabsign-koppelvlak
 tabsign
 BGNVSV002

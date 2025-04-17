@@ -16,11 +16,13 @@ klimaatplein.bergen-nh.nl
 koppelvlak.bergen-nh.nl
 live.bergen-nh.nl
 loket.bergen-nh.nl
+lrdstufxml.bergen-nh.nl
 mijnsociaalplein.bergen-nh.nl
 mijnsociaalportaal-acc.bergen-nh.nl
 mijnsociaalportaal.bergen-nh.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 pv.bergen-nh.nl
+rdwproxy.bergen-nh.nl
 ro-online.bergen-nh.nl
 snelbalie.bergen-nh.nl
 snelbaliepp.bergen-nh.nl
