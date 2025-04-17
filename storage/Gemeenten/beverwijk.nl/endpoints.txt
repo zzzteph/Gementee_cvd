@@ -1,5 +1,7 @@
-http://simcms-duurzaam.beverwijk.nl
-http://simcms-open.beverwijk.nl
+http://beverwijk.nl
+http://simcms-begraafplaatsduinrust.beverwijk.nl
+http://test-bink.beverwijk.nl
+http://test-cmsbink.beverwijk.nl
 https://aanmeldenparkeren-acc.beverwijk.nl
 https://aanmeldenparkeren.beverwijk.nl
 https://acc-openwave.beverwijk.nl
@@ -7,6 +9,7 @@ https://afspraken.beverwijk.nl
 https://autodiscover.beverwijk.nl
 https://backoffice-parkeervergunningen-acc.beverwijk.nl
 https://backoffice-parkeervergunningen.beverwijk.nl
+https://begraafplaatsduinrust.beverwijk.nl
 https://betalen.beverwijk.nl
 https://bink.beverwijk.nl
 https://cmsbink.beverwijk.nl
@@ -16,6 +19,7 @@ https://digid-parkeervergunningen-acc.beverwijk.nl
 https://digid-parkeervergunningen.beverwijk.nl
 https://dusk-acc-openwave.beverwijk.nl
 https://dusk-openwave.beverwijk.nl
+https://duurzaam.beverwijk.nl
 https://edienstenburgerzaken-test.beverwijk.nl
 https://edienstenburgerzaken.beverwijk.nl
 https://felix.beverwijk.nl
@@ -36,8 +40,7 @@ https://rp.beverwijk.nl
 https://simcms.beverwijk.nl
 https://simsite.beverwijk.nl
 https://start.beverwijk.nl
-https://test-bink.beverwijk.nl
-https://test-cmsbink.beverwijk.nl
 https://test.beverwijk.nl
 https://uc.beverwijk.nl
 https://veiligmailen.beverwijk.nl
+https://www.beverwijk.nl

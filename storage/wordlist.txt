@@ -30,9 +30,9 @@ open
 meldingen
 raad
 afspraak
+geo
 parkeren
 waarmerk
-geo
 api.meldingen
 vpn
 betalen

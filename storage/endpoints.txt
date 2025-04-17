@@ -231,6 +231,7 @@ http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://belastingen.sudwestfryslan.nl
 http://bestuursakkoord.s-hertogenbosch.nl
+http://beverwijk.nl
 http://bijveen-acc.veenendaal.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buurthuisvandetoekomst.denhaag.nl
@@ -404,11 +405,10 @@ http://rosmolen.westervoort.nl
 http://sammy-acc.derondevenen.nl
 http://secure.dalfsen.nl
 http://sem.kampen.nl
-http://simcms-duurzaam.beverwijk.nl
+http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
-http://simcms-open.beverwijk.nl
 http://simcms-open.bronckhorst.nl
 http://simcms-open.leudal.nl
 http://simcms-preproductie.beekdaelen.nl
@@ -458,6 +458,8 @@ http://sslvpn.haarlem.nl
 http://stadsatlas-contrast.zoetermeer.nl
 http://stadspas.weert.nl
 http://subsites.amsterdam.nl
+http://test-bink.beverwijk.nl
+http://test-cmsbink.beverwijk.nl
 http://test-cmsdok.dronten.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmshofnet.coevorden.nl
@@ -1570,6 +1572,7 @@ https://beemsterraadsinformatie.purmerend.nl
 https://beers.landvancuijk.nl
 https://beesel.nl
 https://begraafplaats.heemstede.nl
+https://begraafplaatsduinrust.beverwijk.nl
 https://begraafplaatsen.bloemendaal.nl
 https://begraafplaatsen.gooisemeren.nl
 https://begraafplaatsreservering.bronckhorst.nl
@@ -2512,6 +2515,7 @@ https://dusk-openwave.beverwijk.nl
 https://duurzaam.alphenaandenrijn.nl
 https://duurzaam.barneveld.nl
 https://duurzaam.beesel.nl
+https://duurzaam.beverwijk.nl
 https://duurzaam.gooisemeren.nl
 https://duurzaam.heemskerk.nl
 https://duurzaam.hollandskroon.nl
@@ -6937,8 +6941,6 @@ https://terneuzen.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
-https://test-bink.beverwijk.nl
-https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsextranet.hethogeland.nl
 https://test-cmsintranet.edam-volendam.nl
@@ -7856,6 +7858,7 @@ https://www.bergen-nh.nl
 https://www.bergen.nl
 https://www.bergendal.nl
 https://www.bernheze.org
+https://www.beverwijk.nl
 https://www.bibliotheek.rotterdam.nl
 https://www.bibliotheekbenoordenhout.denhaag.nl
 https://www.bikecity.amsterdam.nl
