@@ -6,6 +6,7 @@ https://cmsintranet.edam-volendam.nl
 https://edam-volendam.nl
 https://email.veiligwerken.edam-volendam.nl
 https://enterpriseenrollment.edam-volendam.nl
+https://formulieren.edam-volendam.nl
 https://iburgerzaken.edam-volendam.nl
 https://intranet.edam-volendam.nl
 https://mijnloket.edam-volendam.nl
@@ -13,7 +14,6 @@ https://omgevingsvisie.edam-volendam.nl
 https://praathuis.edam-volendam.nl
 https://rmts.edam-volendam.nl
 https://servicedesk.edam-volendam.nl
-https://simsite.edam-volendam.nl
 https://test-cmsintranet.edam-volendam.nl
 https://testbelastingloket.edam-volendam.nl
 https://werkenbij.edam-volendam.nl
