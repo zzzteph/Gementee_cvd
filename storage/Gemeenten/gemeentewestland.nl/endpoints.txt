@@ -1,3 +1,5 @@
+http://loket.gemeentewestland.nl
+http://mijn.gemeentewestland.nl
 http://test.website.westland.gemeentewestland.nl
 https://admin.doemee.gemeentewestland.nl
 https://admin.openstad.gemeentewestland.nl

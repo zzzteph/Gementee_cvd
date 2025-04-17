@@ -323,6 +323,7 @@ http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://login.sittard-geleen.nl
 http://loket.acceptatie.hardinxveld-giessendam.nl
+http://loket.gemeentewestland.nl
 http://loket.waalwijk.nl
 http://luchen.geldrop-mierlo.nl
 http://lvs.denhaag.nl
@@ -340,6 +341,7 @@ http://malengo-testcms.gemert-bakel.nl
 http://malengo.gemert-bakel.nl
 http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
+http://mijn.gemeentewestland.nl
 http://mijn.houten.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.zuidplas.nl
