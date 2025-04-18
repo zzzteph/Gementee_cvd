@@ -1,4 +1,3 @@
-http://simcms.huizen.nl
 http://www.huizen.nl
 https://administratieportaal-test.huizen.nl
 https://administratieportaal.huizen.nl

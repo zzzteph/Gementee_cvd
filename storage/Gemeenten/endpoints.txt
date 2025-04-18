@@ -415,7 +415,6 @@ http://simcms.harlingen.nl
 http://simcms.heeze-leende.nl
 http://simcms.heumen.nl
 http://simcms.heuvelrug.nl
-http://simcms.huizen.nl
 http://simcms.lopik.nl
 http://simcms.mookenmiddelaar.nl
 http://simcms.nederweert.nl
