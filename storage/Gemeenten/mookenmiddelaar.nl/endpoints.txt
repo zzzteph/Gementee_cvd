@@ -5,9 +5,10 @@ http://autodiscover.mookenmiddelaar.nl
 http://autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
-http://mookenmiddelaar.nl
 http://preproductie.mookenmiddelaar.nl
 http://simcms.mookenmiddelaar.nl
+https://data-test.mookenmiddelaar.nl
+https://felix.mookenmiddelaar.nl
 https://iburgerzaken.mookenmiddelaar.nl
 https://login-pre.mookenmiddelaar.nl
 https://login.mookenmiddelaar.nl

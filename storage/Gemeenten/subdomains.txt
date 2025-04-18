@@ -2626,6 +2626,7 @@ cca.pekela.nl
 cca.veendam.nl
 cca.westerwolde.nl
 cctst.apeldoorn.nl
+cda.mookenmiddelaar.nl
 cdn1.tilburg.nl
 centric-lvo-vth-p-swf.digikoppeling.sudwestfryslan.nl
 centric-lvo-vth-t-swf.digikoppeling.sudwestfryslan.nl
@@ -10974,6 +10975,7 @@ secure.middendelfland.nl
 secure.molenlanden.nl
 secure.montferland.info
 secure.montfoort.nl
+secure.mookenmiddelaar.nl
 secure.nederweert.nl
 secure.nieuwkoop.nl
 secure.nijkerk.eu
