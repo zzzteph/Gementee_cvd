@@ -1,7 +1,10 @@
 
+autodiscover
+loket
+loket.acceptatie
+www
 api.meldingen-acc
 api.meldingen
-autodiscover
 belastingportaal
 belastingportaal.acc
 digikoppeling
@@ -11,11 +14,20 @@ iburgerzaken
 ibzpink
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
-loket
-loket.acceptatie
 meldingen-acc
 meldingen
 remote
 webapps
-www
 www2
+acceptatie
+data
+edienstenburgerzaken
+edienstenburgerzaken.test
+email.mail.participatie
+loket.test
+midoffice
+mijnzorg-acc
+mijnzorg
+participatie
+test
+www.acceptatie
