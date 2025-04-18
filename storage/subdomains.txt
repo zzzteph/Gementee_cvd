@@ -1,5 +1,6 @@
 3d.almere.nl
 _autodiscover._tcp.aalten.nl
+_autodiscover._tcp.ameland.nl
 a2b-rtr.alkmaar.nl
 aaenhunze.nl
 aalsmeer.nl
@@ -43,6 +44,7 @@ almerekracht.almere.nl
 almerepoort.almere.nl
 alphen-chaam.nl
 alphenaandenrijn.nl
+ameland.nl
 ap01.alkmaar.nl
 apex.almere.nl
 api-meldingen.acc.almelo.nl
@@ -64,6 +66,7 @@ autodiscover.alkmaar.nl
 autodiscover.almelo.nl
 autodiscover.almere.nl
 autodiscover.alphenaandenrijn.nl
+autodiscover.ameland.nl
 autorisatie.alkmaar.nl
 autorisatie01.alkmaar.nl
 autorisatie02.alkmaar.nl
@@ -142,6 +145,7 @@ email.samenveiligwerken.alphenaandenrijn.nl
 english.almere.nl
 enquete.almelo.nl
 enterpriseenrollment.alphenaandenrijn.nl
+enterpriseenrollment.ameland.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone.almere.nl
@@ -264,6 +268,8 @@ mijnzorg-acc.aalsmeer.nl
 mijnzorg-acc.alkmaar.nl
 mijnzorg.aalsmeer.nl
 mijnzorg.alkmaar.nl
+mozard.ameland.nl
+mozardtest.ameland.nl
 msm.almelo.nl
 msoid.alphenaandenrijn.nl
 nac.almelo.nl
@@ -347,10 +353,13 @@ secure.achtkarspelen.nl
 secure.albrandswaard.nl
 secure.almere.nl
 secure.alphen-chaam.nl
+secure.ameland.nl
 servicedesk.almelo.nl
+siam.ameland.nl
 simcms.aalten.nl
 simcms.achtkarspelen.nl
 simcms.albrandswaard.nl
+simcms.ameland.nl
 simform-preproductie.achtkarspelen.nl
 simform.achtkarspelen.nl
 simsite.aalten.nl
@@ -390,6 +399,7 @@ test-kennisbank.almelo.nl
 test-mijnoverzicht.alphenaandenrijn.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl
+test-zaakloket.ameland.nl
 test.aalsmeer.nl
 test.achtkarspelen.nl
 test.formulieren.almere.nl
@@ -397,6 +407,7 @@ testafspraken.alkmaar.nl
 testdigitaalgemeenteloket.alphenaandenrijn.nl
 testkaart.alphenaandenrijn.nl
 testportaal.almelo.nl
+testsiam.ameland.nl
 thuiswerken.almere.nl
 toegang.aalten.nl
 uwdorpofwijk.alphenaandenrijn.nl
@@ -420,6 +431,7 @@ website.alphen-chaam.nl
 welbo.alphenaandenrijn.nl
 welbotest.alphenaandenrijn.nl
 werkenbij.alkmaar.nl
+werkenbij.ameland.nl
 werkplek.alkmaar.nl
 werkplek.almere.nl
 werkplek.gslb.alkmaar.nl
@@ -441,12 +453,14 @@ www.almelo.nl
 www.almere.nl
 www.alphen-chaam.nl
 www.alphenaandenrijn.nl
+www.ameland.nl
 www.centrumbegroot.alphenaandenrijn.nl
 www.duurzaam.alphenaandenrijn.nl
 www.praatmee.alblasserdam.nl
 www.uwdorpofwijk.alphenaandenrijn.nl
 www.werkenbij.alkmaar.nl
 www.zwammerdamdorpskern.alphenaandenrijn.nl
+zaakloket.ameland.nl
 zaaksysteem-accept.alkmaar.nl
 zaken.alblasserdam.nl
 zoeken.alkmaar.nl
