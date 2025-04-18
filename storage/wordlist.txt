@@ -44,9 +44,9 @@ iparticipatie
 pv
 zaaksysteem-accept
 belastingen
-testeloket
 test-ipa
 werkenbij
+testeloket
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
@@ -96,10 +96,10 @@ govroam
 pki
 test-cmsintranet
 portaal
-osbacc
 extranet
 samen
 verkiezingen
+osbacc
 duurzaam
 apps
 simcms-open
@@ -310,7 +310,6 @@ eformulieren
 squit2020.acceptatie
 academie
 www.intranet
-aeolus
 squit2020publiceren
 liquit
 beeldbankbeheer
@@ -375,6 +374,7 @@ openformulieren-test
 webservices
 socialekaart
 ondernemen
+aeolus
 e.openstad
 mijnuitkering
 stemvan
@@ -393,6 +393,7 @@ www2
 loket.test
 www.acceptatie
 secure-test
+sociaaldomein
 stadsarchief
 mijnoverzicht
 rpl3
@@ -516,7 +517,6 @@ veiligmailen
 english
 link.pr
 planon
-sociaaldomein
 digitaalnachtregister
 css.openstad
 msoid
@@ -4519,9 +4519,8 @@ testinhuiz
 trainersportaal
 trainingsformulier
 gijs-acc
-gijs
 gijscms-acc
-gijscms
+ijsaeo1
 sociaaldomein-acc
 Preprod
 dds-alphen-kaag
