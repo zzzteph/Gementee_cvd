@@ -4122,6 +4122,7 @@ edienstenburgerzaken-test.hillegom.nl
 edienstenburgerzaken-test.hofvantwente.nl
 edienstenburgerzaken-test.houten.nl
 edienstenburgerzaken-test.kaagenbraassem.nl
+edienstenburgerzaken-test.katwijk.nl
 edienstenburgerzaken-test.krimpenerwaard.nl
 edienstenburgerzaken-test.landgraaf.nl
 edienstenburgerzaken-test.landvancuijk.nl
@@ -7686,6 +7687,7 @@ mail.heuvelrug.nl
 mail.hoorn.nl
 mail.kaagenbraassem.nl
 mail.kampen.nl
+mail.katwijk.nl
 mail.krimpenerwaard.nl
 mail.laarbeek.nl
 mail.landsmeer.nl

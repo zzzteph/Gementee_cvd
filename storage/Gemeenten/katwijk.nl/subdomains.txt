@@ -7,6 +7,7 @@ bro.katwijk.nl
 bro.pre.katwijk.nl
 dali.katwijk.nl
 digitaalloket.katwijk.nl
+edienstenburgerzaken-test.katwijk.nl
 edienstenburgerzaken.katwijk.nl
 extra.katwijk.nl
 flowmailer-tracking.katwijk.nl
@@ -16,6 +17,7 @@ kaart.katwijk.nl
 katwijk.nl
 katwijs.katwijk.nl
 loket.katwijk.nl
+mail.katwijk.nl
 open.katwijk.nl
 osb.katwijk.nl
 osbacc.katwijk.nl

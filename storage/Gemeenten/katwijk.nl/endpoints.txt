@@ -8,6 +8,7 @@ https://bastion365.katwijk.nl
 https://bro.katwijk.nl
 https://bro.pre.katwijk.nl
 https://dali.katwijk.nl
+https://edienstenburgerzaken-test.katwijk.nl
 https://edienstenburgerzaken.katwijk.nl
 https://extra.katwijk.nl
 https://flowmailer-tracking.katwijk.nl
