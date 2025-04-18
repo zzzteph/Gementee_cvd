@@ -228,6 +228,7 @@ http://bouwdossiers.stadsarchief.breda.nl
 http://bronckhorst.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://capelleaandenijssel.nl
+http://centrum.heerlen.nl
 http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
@@ -284,6 +285,7 @@ http://geoportal.weert.nl
 http://gijscms.ijsselstein.nl
 http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
+http://heerlen.nl
 http://helloid.sittard-geleen.nl
 http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
@@ -399,7 +401,6 @@ http://simcms-open.gemeentebeek.nl
 http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
 http://simcms-preproductie.beekdaelen.nl
-http://simcms-samenindebuurt.heerlen.nl
 http://simcms-wonen.westerkwartier.nl
 http://simcms.aalten.nl
 http://simcms.achtkarspelen.nl
@@ -426,7 +427,6 @@ http://simcms.vlissingen.nl
 http://simcms.zuidplas.nl
 http://simform-preproductie.vlaardingen.nl
 http://simform.gemeentemaasgouw.nl
-http://simform.heerlen.nl
 http://simform.t-diel.nl
 http://simform.wassenaar.nl
 http://simsite.cranendonck.nl
@@ -515,6 +515,7 @@ http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.t-diel.nl
 http://www.doemee.oosterhout.nl
 http://www.harlingen.nl
+http://www.heerlen.nl
 http://www.huizen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
@@ -6408,6 +6409,7 @@ https://samen.s-hertogenbosch.nl
 https://samen.schagen.nl
 https://samen.stedebroec.nl
 https://samenatwork.stichtsevecht.nl
+https://samenindebuurt.heerlen.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
@@ -6532,7 +6534,6 @@ https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-armoedepact.westerkwartier.nl
-https://simcms-centrum.heerlen.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-duurzaam.waalwijk.nl
@@ -6542,6 +6543,7 @@ https://simcms-open.nuenen.nl
 https://simcms-open.staphorst.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
+https://simcms-samenindebuurt.heerlen.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-woo.doesburg.nl
 https://simcms.beekdaelen.nl
@@ -6554,7 +6556,6 @@ https://simcms.bunschoten.nl
 https://simcms.cranendonck.nl
 https://simcms.doesburg.nl
 https://simcms.eersel.nl
-https://simcms.heerlen.nl
 https://simcms.kerkrade.nl
 https://simcms.koggenland.nl
 https://simcms.landgraaf.nl

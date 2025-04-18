@@ -1,5 +1,6 @@
-http://simcms-samenindebuurt.heerlen.nl
-http://simform.heerlen.nl
+http://centrum.heerlen.nl
+http://heerlen.nl
+http://www.heerlen.nl
 https://acc-eformulier.heerlen.nl
 https://api.heitje.heerlen.nl
 https://api.melding.acc.heerlen.nl
@@ -20,9 +21,9 @@ https://mijnintranet.heerlen.nl
 https://mijnzaken.heerlen.nl
 https://mijnzakentest.heerlen.nl
 https://parkeren.heerlen.nl
+https://samenindebuurt.heerlen.nl
 https://shop.heitje.heerlen.nl
-https://simcms-centrum.heerlen.nl
-https://simcms.heerlen.nl
+https://simcms-samenindebuurt.heerlen.nl
 https://tst-eformulier.heerlen.nl
 https://vacatures.heerlen.nl
 https://verkiezingen.heerlen.nl
