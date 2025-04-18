@@ -6564,7 +6564,6 @@ https://simcms.cranendonck.nl
 https://simcms.doesburg.nl
 https://simcms.eersel.nl
 https://simcms.kerkrade.nl
-https://simcms.koggenland.nl
 https://simcms.landgraaf.nl
 https://simcms.maassluis.nl
 https://simcms.middelburg.nl
@@ -6600,6 +6599,7 @@ https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
 https://simsite.eersel.nl
 https://simsite.kerkrade.nl
+https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
 https://simsite.lopik.nl
 https://simsite.mookenmiddelaar.nl
@@ -8095,6 +8095,7 @@ https://www.kaartlaag.rotterdam.nl
 https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
+https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl
