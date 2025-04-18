@@ -68,6 +68,7 @@ test.api.tod.leiden.nl
 test.designsystem.leiden.nl
 test.formulieren.leiden.nl
 test.lab.tod.leiden.nl
+test.leiden.nl
 test.subsites.leiden.nl
 tzp.leiden.nl
 uwvergunning.leiden.nl
