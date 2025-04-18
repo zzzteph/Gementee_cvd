@@ -1135,12 +1135,14 @@ meldingen-a
 parkeervergunning-test
 anyconnect
 bestuursrapportage
+nieuw
 parkeren.reserveren
 werkeninkomen-test
 werkeninkomen
 voice
 alwayson
 testwebsite
+fw
 uitvaart
 blik
 decos
@@ -4791,7 +4793,6 @@ kaderbrief
 lab.tod
 login.subsidie
 natuur
-nieuw
 o1.afspraak
 product
 stadsportal
@@ -5732,7 +5733,6 @@ flex5
 flex6
 flex7
 flexg
-fw
 geoproxy
 iburgerzaken.accp
 idefix

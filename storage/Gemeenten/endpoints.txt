@@ -318,7 +318,6 @@ http://loket.waalwijk.nl
 http://luchen.geldrop-mierlo.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
-http://maassluis.nl
 http://magazine.amersfoort.nl
 http://magazine.schagen.nl
 http://mail.amsterdam.nl
@@ -3153,6 +3152,7 @@ https://felix.heeze-leende.nl
 https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
+https://felix.maassluis.nl
 https://felix.nederweert.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
@@ -3387,6 +3387,7 @@ https://ftp.sudwestfryslan.nl
 https://ftrust.veere.nl
 https://funderingen.zaanstad.nl
 https://funderingsloket.rotterdam.nl
+https://fw.maassluis.nl
 https://g-rooster.bronckhorst.nl
 https://gassel.landvancuijk.nl
 https://gateway.heerenveen.nl
@@ -6571,7 +6572,6 @@ https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
 https://simcms.landgraaf.nl
 https://simcms.leudal.nl
-https://simcms.maassluis.nl
 https://simcms.middelburg.nl
 https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
