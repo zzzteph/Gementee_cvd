@@ -1,7 +1,6 @@
 https://aov.helmond.nl
 https://api.meldingen-acc.helmond.nl
 https://api.meldingen.helmond.nl
-https://autodiscover.helmond.nl
 https://belasting-loket.helmond.nl
 https://belasting-lokettest.helmond.nl
 https://berichten.helmond.nl

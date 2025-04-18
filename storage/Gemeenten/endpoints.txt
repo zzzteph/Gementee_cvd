@@ -1456,7 +1456,6 @@ https://autodiscover.ggd.groningen.nl
 https://autodiscover.groningen.nl
 https://autodiscover.haarlem.nl
 https://autodiscover.hap.haarlemmermeer.nl
-https://autodiscover.helmond.nl
 https://autodiscover.leudal.nl
 https://autodiscover.lopik.nl
 https://autodiscover.losser.nl
