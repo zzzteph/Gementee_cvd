@@ -1,5 +1,6 @@
 afspraak.heerenveen.nl
 belastingen.heerenveen.nl
+bezoekersparkeren.heerenveen.nl
 dkd.heerenveen.nl
 edienstensociaaldomein.heerenveen.nl
 email.heerenveen.nl

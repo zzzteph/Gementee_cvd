@@ -2288,6 +2288,7 @@ bezoekersparkeren-acc.hoorn.nl
 bezoekersparkeren-acc.roermond.nl
 bezoekersparkeren-acc.sittard-geleen.nl
 bezoekersparkeren-acc.waalwijk.nl
+bezoekersparkeren.heerenveen.nl
 bezoekersparkeren.hoorn.nl
 bezoekersparkeren.roermond.nl
 bezoekersparkeren.sittard-geleen.nl
