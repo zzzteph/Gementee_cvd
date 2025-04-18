@@ -259,6 +259,7 @@ meet
 support
 data-test
 www.doemee
+www.gemeenteraad
 xential
 www.jongin
 erfgoed
@@ -298,7 +299,6 @@ beeldbank-bo
 publicaties
 intranetcms
 digikoppelingtest
-www.gemeenteraad
 acc.piwik
 omgevingswet
 dkdtest
@@ -5179,6 +5179,7 @@ www.zorgwijzer
 zorgwijzer
 bisgemeenteraad
 lior
+regelingen
 www.digitaalfotoarchief
 betalenaan
 raadsagenda

@@ -18,8 +18,10 @@ lior.oegstgeest.nl
 oegstgeest.nl
 programmabegroting.oegstgeest.nl
 raadsinformatie.oegstgeest.nl
+regelingen.oegstgeest.nl
 simsite.oegstgeest.nl
 www.afspraken.oegstgeest.nl
 www.digitaalfotoarchief.oegstgeest.nl
+www.gemeenteraad.oegstgeest.nl
 www.intranet.oegstgeest.nl
 www.oegstgeest.nl
