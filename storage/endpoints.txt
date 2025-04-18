@@ -265,7 +265,6 @@ http://felix.bladel.nl
 http://felix.bunschoten.nl
 http://felix.gemeentebeek.nl
 http://felix.nijkerk.eu
-http://felix.oirschot.nl
 http://felix.renswoude.nl
 http://felix.reuseldemierden.nl
 http://felix.t-diel.nl
@@ -340,6 +339,7 @@ http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nijkerk.eu
+http://oirschot.nl
 http://ondernemersloket.kerkrade.nl
 http://ooststellingwerf.nl
 http://open.gemeentebeek.nl
@@ -426,6 +426,7 @@ http://simsite.gorinchem.nl
 http://simsite.heumen.nl
 http://simsite.montferland.info
 http://simsite.nijkerk.eu
+http://simsite.oirschot.nl
 http://simsite.renswoude.nl
 http://simsite.veere.nl
 http://simsite.weststellingwerf.nl
@@ -521,7 +522,6 @@ http://www.mijn.groningen.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
-http://www.oirschot.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.pmb.amsterdam.nl
 http://www.praatmee.borsele.nl
@@ -3157,6 +3157,7 @@ https://felix.maassluis.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nederweert.nl
 https://felix.nuenen.nl
+https://felix.oirschot.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.overbetuwe.nl
@@ -5550,6 +5551,7 @@ https://open.moerdijk.nl
 https://open.nijmegen.nl
 https://open.noordwijk.nl
 https://open.nuenen.nl
+https://open.oirschot.nl
 https://open.oude-ijsselstreek.nl
 https://open.rhenen.nl
 https://open.roosendaal.nl
@@ -6115,7 +6117,6 @@ https://preproductie.heeze-leende.nl
 https://preproductie.kerkrade.nl
 https://preproductie.landgraaf.nl
 https://preproductie.montferland.info
-https://preproductie.oirschot.nl
 https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.valkenswaard.nl
@@ -6579,6 +6580,7 @@ https://simcms.landgraaf.nl
 https://simcms.leudal.nl
 https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
+https://simcms.oirschot.nl
 https://simcms.opmeer.nl
 https://simcms.renswoude.nl
 https://simcms.reuseldemierden.nl
@@ -8180,6 +8182,7 @@ https://www.nwro.velsen.nl
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
+https://www.oirschot.nl
 https://www.oisterwijk.nl
 https://www.old.landvancuijk.nl
 https://www.oldebroek.nl

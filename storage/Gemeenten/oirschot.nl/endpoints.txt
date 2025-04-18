@@ -1,9 +1,12 @@
-http://felix.oirschot.nl
+http://oirschot.nl
 http://raadsagenda.oirschot.nl
-http://www.oirschot.nl
+http://simsite.oirschot.nl
 https://betalenaan.oirschot.nl
+https://felix.oirschot.nl
 https://iburgerzaken.oirschot.nl
 https://jccapi.oirschot.nl
 https://leerplein.oirschot.nl
-https://preproductie.oirschot.nl
+https://open.oirschot.nl
+https://simcms.oirschot.nl
 https://woningbouwkaart.oirschot.nl
+https://www.oirschot.nl
