@@ -264,6 +264,7 @@ http://felix.bergendal.nl
 http://felix.bladel.nl
 http://felix.bunschoten.nl
 http://felix.gemeentebeek.nl
+http://felix.nijkerk.eu
 http://felix.oirschot.nl
 http://felix.renswoude.nl
 http://felix.reuseldemierden.nl
@@ -340,6 +341,7 @@ http://mt-link.stichtsevecht.nl
 http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
+http://nijkerk.eu
 http://ondernemersloket.kerkrade.nl
 http://ooststellingwerf.nl
 http://open.gemeentebeek.nl
@@ -408,7 +410,6 @@ http://simcms.heuvelrug.nl
 http://simcms.lopik.nl
 http://simcms.mookenmiddelaar.nl
 http://simcms.nederweert.nl
-http://simcms.nijkerk.eu
 http://simcms.overbetuwe.nl
 http://simcms.scherpenzeel.nl
 http://simcms.simpelveld.nl
@@ -425,6 +426,7 @@ http://simsite.geertruidenberg.nl
 http://simsite.gorinchem.nl
 http://simsite.heumen.nl
 http://simsite.montferland.info
+http://simsite.nijkerk.eu
 http://simsite.renswoude.nl
 http://simsite.veere.nl
 http://simsite.weststellingwerf.nl
@@ -5266,7 +5268,6 @@ https://nieuwsbrieven.hengelo.nl
 https://nieuwsbrieven.utrecht.nl
 https://nieuwsbrieven.zwolle.nl
 https://nieuwzaansklimaat.zaanstad.nl
-https://nijkerk.eu
 https://nijmegen.nl
 https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
@@ -8160,7 +8161,6 @@ https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwsbrief.enschede.nl
-https://www.nijkerk.eu
 https://www.nijmegen.nl
 https://www.nimmaleert.nijmegen.nl
 https://www.nissewaard.nl
