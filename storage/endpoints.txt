@@ -297,10 +297,8 @@ http://internoss-test.oss.nl
 http://intranet-acc.landvancuijk.nl
 http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
-http://intranet-test.nissewaard.nl
 http://intranet.leudal.nl
 http://intranet.lopik.nl
-http://intranetcms-test.nissewaard.nl
 http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://kerkrade.nl
@@ -3167,7 +3165,6 @@ https://felix.westerkwartier.nl
 https://felix.weststellingwerf.nl
 https://felix.zuidplas.nl
 https://felix.zundert.nl
-https://felixburgerzaken.nissewaard.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
 https://fg-api-pkio.haven.tst.sittard-geleen.nl
@@ -4125,6 +4122,7 @@ https://intranet-acc.wijdemeren.nl
 https://intranet-cms.bernheze.org
 https://intranet-ot.tilburg.nl
 https://intranet-stats.bernheze.org
+https://intranet-test.nissewaard.nl
 https://intranet.acc.amsterdam.nl
 https://intranet.amsterdam.nl
 https://intranet.apeldoorn.nl
@@ -4196,6 +4194,7 @@ https://intranetacc.weert.nl
 https://intranetcms-acc.bergendal.nl
 https://intranetcms-acc.landvancuijk.nl
 https://intranetcms-acc.waalwijk.nl
+https://intranetcms-test.nissewaard.nl
 https://intranetcms.bergendal.nl
 https://intranetcms.drimmelen.nl
 https://intranetcms.landvancuijk.nl
