@@ -1,8 +1,9 @@
 
+www
 autodiscover
 loket
 loket.acceptatie
-www
+edienstenburgerzaken
 api.meldingen-acc
 api.meldingen
 belastingportaal
@@ -21,7 +22,6 @@ webapps
 www2
 acceptatie
 data
-edienstenburgerzaken
 edienstenburgerzaken.test
 email.mail.participatie
 loket.test
@@ -31,3 +31,24 @@ mijnzorg
 participatie
 test
 www.acceptatie
+aalten-checker-preprod
+aalten-checker
+broker
+dkd
+documenten
+edienstenburgerzaken-test
+felix
+intranet
+mail
+mijn
+portal
+preprodbroker
+preproductie
+probeer
+raadsnet
+secure
+simcms
+simsite
+toegang
+vergunningintaker-preprod
+vergunningintaker
