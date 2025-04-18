@@ -17,6 +17,7 @@ https://preprod.vergunningintaker.nunspeet.nl
 https://preprodbroker.nunspeet.nl
 https://remote.nunspeet.nl
 https://test-eloket.nunspeet.nl
+https://testcms-markt1.nunspeet.nl
 https://vergunningintaker.nunspeet.nl
 https://woo.nunspeet.nl
 https://www.nunspeet.nl
