@@ -264,7 +264,6 @@ http://felix.bergendal.nl
 http://felix.bladel.nl
 http://felix.bunschoten.nl
 http://felix.gemeentebeek.nl
-http://felix.middendelfland.nl
 http://felix.oirschot.nl
 http://felix.renswoude.nl
 http://felix.reuseldemierden.nl
@@ -518,6 +517,7 @@ http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.maassluis.nl
 http://www.middelburg.nl
+http://www.middendelfland.nl
 http://www.mijn.groningen.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
@@ -4874,6 +4874,7 @@ https://micollab.weert.nl
 https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://midden-groningen.nl
+https://middendelfland.nl
 https://middendrenthe.nl
 https://mijn-acc.groningen.nl
 https://mijn-acc.overbetuwe.nl
@@ -8138,7 +8139,6 @@ https://www.meierijstad.nl
 https://www.meppel.nl
 https://www.merk.denhaag.nl
 https://www.midden-groningen.nl
-https://www.middendelfland.nl
 https://www.middendrenthe.nl
 https://www.mijn.arnhem.nl
 https://www.mijn.heuvelrug.nl
