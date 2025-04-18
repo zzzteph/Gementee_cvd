@@ -16,6 +16,7 @@ ehv-lpi-ap-15.lopik.nl
 ews.lopik.nl
 felix.lopik.nl
 firewall.lopik.nl
+ftp.lopik.nl
 gwo.lopik.nl
 intranet.lopik.nl
 lopik.nl
@@ -29,4 +30,5 @@ simcms.lopik.nl
 simsite.lopik.nl
 sts.lopik.nl
 webmail.lopik.nl
+welstandsnota.lopik.nl
 www.lopik.nl

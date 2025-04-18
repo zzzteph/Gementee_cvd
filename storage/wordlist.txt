@@ -132,6 +132,7 @@ mdm
 contentbeheer
 _autodiscover._tcp
 e
+ftp
 gisib
 web
 izaaksuite
@@ -151,7 +152,6 @@ jaarstukken
 connect.acceptatie
 cryptshare
 belastingportaal
-ftp
 maps
 vdi
 nieuwsbrief
@@ -4847,6 +4847,7 @@ ehv-lpi-ap-15
 firewall
 gwo
 simcms.intranet
+welstandsnota
 afspraakmakenenschede
 afspraakmakenenschedetest
 api-gemnet

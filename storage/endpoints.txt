@@ -253,7 +253,6 @@ http://docgen.amsterdam.nl
 http://draadloos.sittard-geleen.nl
 http://duurzaam.woensdrecht.nl
 http://ediensten.gemeentehw.nl
-http://ehv-lpi-ap-15.lopik.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
@@ -278,6 +277,7 @@ http://flash.scherpenzeel.nl
 http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
 http://formulieren.meierijstad.nl
+http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
 http://geo.roermond.nl
 http://geoportal.weert.nl
@@ -301,6 +301,7 @@ http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
 http://intranet-test.nissewaard.nl
 http://intranet.leudal.nl
+http://intranet.lopik.nl
 http://intranetcms-test.nissewaard.nl
 http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
@@ -517,7 +518,6 @@ http://www.huizen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
-http://www.lopik.nl
 http://www.maassluis.nl
 http://www.mijn.groningen.nl
 http://www.mijngkb.midden-groningen.nl
@@ -2889,6 +2889,7 @@ https://eformulieren.gemeentesluis.nl
 https://eformulieren.kerkrade.nl
 https://eformulieren.preprod.doetinchem.nl
 https://eformulieren.stichtsevecht.nl
+https://ehv-lpi-ap-15.lopik.nl
 https://ehvsubsidie.eindhoven.nl
 https://ehvsubsidie.test.eindhoven.nl
 https://eijsden-margraten.nl
@@ -3152,7 +3153,6 @@ https://felix.heeze-leende.nl
 https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
-https://felix.lopik.nl
 https://felix.nederweert.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
@@ -6567,6 +6567,7 @@ https://simcms.bunschoten.nl
 https://simcms.cranendonck.nl
 https://simcms.doesburg.nl
 https://simcms.eersel.nl
+https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
 https://simcms.landgraaf.nl
 https://simcms.leudal.nl
@@ -6606,7 +6607,6 @@ https://simsite.eersel.nl
 https://simsite.kerkrade.nl
 https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
-https://simsite.lopik.nl
 https://simsite.mookenmiddelaar.nl
 https://simsite.pekela.nl
 https://simsite.pijnacker-nootdorp.nl

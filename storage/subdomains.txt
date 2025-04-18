@@ -5138,6 +5138,7 @@ ftp.data.amsterdam.nl
 ftp.dwiweb.amsterdam.nl
 ftp.dwiweb.brievenbus.amsterdam.nl
 ftp.krimpenerwaard.nl
+ftp.lopik.nl
 ftp.meerssen.nl
 ftp.nijmegen.nl
 ftp.opsterland.nl
@@ -13455,6 +13456,7 @@ welkom.helmond.nl
 welkom.zeist.nl
 welkombij.helmond.nl
 welstand.venlo.nl
+welstandsnota.lopik.nl
 wenen.stadskanaal.nl
 wepresent.sudwestfryslan.nl
 werk.arnhem.nl
