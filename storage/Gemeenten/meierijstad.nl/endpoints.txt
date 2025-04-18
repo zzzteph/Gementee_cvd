@@ -1,4 +1,3 @@
-http://formulieren.meierijstad.nl
 https://api.meldingen-acc.meierijstad.nl
 https://api.meldingen.meierijstad.nl
 https://belastingbalie.meierijstad.nl
@@ -13,7 +12,6 @@ https://link.socialewegwijzer.meierijstad.nl
 https://meierijstad.nl
 https://meldingen-acc.meierijstad.nl
 https://meldingen.meierijstad.nl
-https://mijn.meierijstad.nl
 https://mijnsociaaldomein-acc.meierijstad.nl
 https://mijnsociaaldomein.meierijstad.nl
 https://nerdio.meierijstad.nl

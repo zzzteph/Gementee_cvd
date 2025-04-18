@@ -276,7 +276,6 @@ http://felix.zwartewaterland.nl
 http://flash.scherpenzeel.nl
 http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
-http://formulieren.meierijstad.nl
 http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
 http://geo.roermond.nl
@@ -4933,7 +4932,6 @@ https://mijn.lingewaard.nl
 https://mijn.lochem.nl
 https://mijn.maasdriel.nl
 https://mijn.maassluis.nl
-https://mijn.meierijstad.nl
 https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
