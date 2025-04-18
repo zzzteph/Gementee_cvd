@@ -1,5 +1,6 @@
 http://autodiscover.aaenhunze.nl
 http://autodiscover.aalsmeer.nl
+http://autodiscover.achtkarspelen.nl
 http://felix.aalten.nl
 http://mijnzorg-acc.aalsmeer.nl
 http://mijnzorg.aalsmeer.nl
@@ -15,12 +16,16 @@ https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
 https://broker.aalten.nl
 https://data.aalsmeer.nl
+https://denkmee.achtkarspelen.nl
+https://e.achtkarspelen.nl
 https://edienstenburgerzaken-test.aalten.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://email.mail.participatie.aalsmeer.nl
+https://felix.achtkarspelen.nl
 https://iburgerzaken.aaenhunze.nl
+https://iburgerzaken.achtkarspelen.nl
 https://inloggen.belastingportaal.aaenhunze.nl
 https://inloggen.belastingportaal.acc.aaenhunze.nl
 https://loket.aaenhunze.nl
@@ -31,7 +36,11 @@ https://loket.test.aalsmeer.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen.aaenhunze.nl
 https://participatie.aalsmeer.nl
+https://portal.achtkarspelen.nl
 https://preprodbroker.aalten.nl
+https://pv.achtkarspelen.nl
+https://ruimtelijkeplannen.achtkarspelen.nl
+https://simform-preproductie.achtkarspelen.nl
 https://vergunningintaker-preprod.aalten.nl
 https://vergunningintaker.aalten.nl
 https://www.aaenhunze.nl
