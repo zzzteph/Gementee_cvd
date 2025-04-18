@@ -408,7 +408,6 @@ http://simcms.heuvelrug.nl
 http://simcms.lopik.nl
 http://simcms.mookenmiddelaar.nl
 http://simcms.nederweert.nl
-http://simcms.nieuwkoop.nl
 http://simcms.nijkerk.eu
 http://simcms.overbetuwe.nl
 http://simcms.scherpenzeel.nl
@@ -517,6 +516,7 @@ http://www.middelburg.nl
 http://www.middendelfland.nl
 http://www.mijn.groningen.nl
 http://www.mijngkb.midden-groningen.nl
+http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.oirschot.nl
 http://www.ondernemersportaal.denhaag.nl
@@ -8159,7 +8159,6 @@ https://www.ndbu.utrecht.nl
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
-https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.nijkerk.eu
 https://www.nijmegen.nl
