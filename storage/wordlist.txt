@@ -1,12 +1,13 @@
 
 www
 autodiscover
-iburgerzaken
-ibzpink
 loket
 loket.acceptatie
 edienstenburgerzaken
+iburgerzaken
+ibzpink
 test
+edienstenburgerzaken-test
 felix
 portal
 preproductie
@@ -42,7 +43,6 @@ aalten-checker
 broker
 dkd
 documenten
-edienstenburgerzaken-test
 intranet
 mail
 mijn
@@ -67,3 +67,15 @@ simform-preproductie
 simform
 sophos01
 test-ipa
+college
+gisib-test
+gisib
+gisibapi-test
+gisibapi
+gisibgeoserver-test
+gisibgeoserver
+praatmee
+raad
+web
+www.praatmee
+zaken
