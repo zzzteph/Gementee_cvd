@@ -61,10 +61,10 @@ belastingbalie
 cmsoo
 loket.acceptatie
 data
+omgevingsvisie
 enterpriseregistration
 cloudadapter-test
 osb
-omgevingsvisie
 login
 beeldbank
 flowmailer-tracking
@@ -465,6 +465,7 @@ mobility
 vergunningen
 mta-sts.raad
 www.socialekaart
+gt-loket
 testbelastingloket
 raadsinformatie
 duo
@@ -489,6 +490,7 @@ rxlaunch-signicat-preprod
 vthbroker
 teleweb
 cars
+www.denkmee
 access
 bezoekersparkeren-acc
 hta
@@ -639,7 +641,6 @@ authenticatiedienst.preprod
 edge
 vergunningintaker.preprod
 www.piwik
-gt-loket
 welkom
 www.belastingbalie
 burgerportaal
@@ -696,7 +697,6 @@ edienstenpreprod
 mobiliteitsplan
 website.acceptatie
 wijkteam
-www.denkmee
 open-formulieren-test
 preprod-belastingen
 insite
