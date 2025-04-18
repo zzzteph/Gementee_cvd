@@ -102,6 +102,7 @@ verkiezingen
 osbacc
 duurzaam
 apps
+gemeente
 simcms-open
 www.webmail
 filecap
@@ -114,7 +115,6 @@ afvalkalender
 dali
 preprod
 qr
-gemeente
 bastion365
 bgt
 woningbouwkaart
