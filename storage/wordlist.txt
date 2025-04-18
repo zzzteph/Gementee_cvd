@@ -955,6 +955,7 @@ simcms-woo
 besluitvorming
 test-digikoppelingadapter
 dkd.berichtenverkeer
+geoinformatie
 durp
 dok
 forms-test
@@ -3250,7 +3251,6 @@ webscada-rps
 webscada
 zorgplein
 certificates
-geoinformatie
 meedoenregeling
 test-meedoenregeling
 e-tstsys

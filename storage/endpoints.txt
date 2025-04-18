@@ -335,6 +335,7 @@ http://melddesk.renkum.nl
 http://mijn.gemeentewestland.nl
 http://mijn.goeree-overflakkee.nl
 http://mijn.groningen.nl
+http://mijn.heuvelrug.nl
 http://mijn.houten.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.zuidplas.nl
@@ -413,6 +414,7 @@ http://simcms.halderberge.nl
 http://simcms.harlingen.nl
 http://simcms.heeze-leende.nl
 http://simcms.heumen.nl
+http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
 http://simcms.lopik.nl
 http://simcms.mookenmiddelaar.nl
@@ -457,6 +459,7 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsinsite.houten.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
+http://test-cmsintranet.heuvelrug.nl
 http://test-cmsintranet.velsen.nl
 http://test-cmssocial.montferland.info
 http://test-cmssocialintranet.middendelfland.nl
@@ -4914,7 +4917,6 @@ https://mijn.hellendoorn.nl
 https://mijn.helmond.nl
 https://mijn.hengelo.nl
 https://mijn.heusden.nl
-https://mijn.heuvelrug.nl
 https://mijn.hofvantwente.nl
 https://mijn.hollandskroon.nl
 https://mijn.hoorn.nl
@@ -6098,7 +6100,6 @@ https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
 https://preproductie.gorinchem.nl
 https://preproductie.heeze-leende.nl
-https://preproductie.heuvelrug.nl
 https://preproductie.kerkrade.nl
 https://preproductie.landgraaf.nl
 https://preproductie.oirschot.nl
@@ -6594,7 +6595,6 @@ https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
 https://simsite.eersel.nl
-https://simsite.heuvelrug.nl
 https://simsite.landgraaf.nl
 https://simsite.lopik.nl
 https://simsite.mookenmiddelaar.nl
@@ -6965,7 +6965,6 @@ https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
-https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.sittard-geleen.nl

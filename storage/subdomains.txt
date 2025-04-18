@@ -5397,6 +5397,7 @@ geodb.vught.nl
 geografie.bronckhorst.nl
 geohr.assen.nl
 geoinformatie.dongen.nl
+geoinformatie.heuvelrug.nl
 geokoppeling-t.debilt.nl
 geokoppeling-t.soest.nl
 geokoppeling.debilt.nl
