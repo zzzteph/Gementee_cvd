@@ -912,7 +912,6 @@ afspraken.lingewaard.nl
 afspraken.meierijstad.nl
 afspraken.middendelfland.nl
 afspraken.montferland.info
-afspraken.montfoort.nl
 afspraken.mookenmiddelaar.nl
 afspraken.nieuwkoop.nl
 afspraken.nissewaard.nl
@@ -5935,7 +5934,6 @@ hybrid.sittard-geleen.nl
 hybrid.westmaasenwaal.nl
 hybrid.zwolle.nl
 hybrid1.ijsselstein.nl
-hybrid1.montfoort.nl
 hybrid1.zuidplas.nl
 hybrid2.ijsselstein.nl
 hybrid2.montfoort.nl
@@ -8188,7 +8186,6 @@ mijn.meierijstad.nl
 mijn.meppel.nl
 mijn.middendelfland.nl
 mijn.moerdijk.nl
-mijn.montfoort.nl
 mijn.nijmegen.nl
 mijn.noordwijk.nl
 mijn.nunspeet.nl
@@ -8557,6 +8554,7 @@ monitoring.nederbetuwe.nl
 monitoring.purmerend.nl
 monrovia.emmen.nl
 montferland.info
+montfoort.nl
 monumenten.acc.amsterdam.nl
 monumenten.amsterdam.nl
 monumentenregister.rotterdam.nl
@@ -9400,6 +9398,7 @@ osbacc.halderberge.nl
 osbacc.heerenveen.nl
 osbacc.hilversum.nl
 osbacc.katwijk.nl
+osbacc.montfoort.nl
 osbacc.nederweert.nl
 osbacc.oudewater.nl
 osbacc.stedebroec.nl
@@ -10509,7 +10508,6 @@ raadsnet.aalten.nl
 raadsnet.bernheze.org
 raadsnet.harlingen.nl
 raadsnet.heeze-leende.nl
-raadsnet.montfoort.nl
 raadzaam.nieuwegein.nl
 raadzaam.nijmegen.nl
 raalte.nl
@@ -10975,6 +10973,7 @@ secure.leudal.nl
 secure.middendelfland.nl
 secure.molenlanden.nl
 secure.montferland.info
+secure.montfoort.nl
 secure.nederweert.nl
 secure.nieuwkoop.nl
 secure.nijkerk.eu

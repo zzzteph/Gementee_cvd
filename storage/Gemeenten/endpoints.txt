@@ -4934,7 +4934,6 @@ https://mijn.maassluis.nl
 https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
-https://mijn.montfoort.nl
 https://mijn.nijmegen.nl
 https://mijn.noordwijk.nl
 https://mijn.oldenzaal.nl
@@ -5169,6 +5168,7 @@ https://monitoring.hellendoorn.nl
 https://monitoring.nederbetuwe.nl
 https://monitoring.purmerend.nl
 https://montferland.info
+https://montfoort.nl
 https://monumenten.acc.amsterdam.nl
 https://monumenten.amsterdam.nl
 https://monumentenregister.rotterdam.nl

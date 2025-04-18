@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-mijn
 webmail
+mijn
 mail
 simsite
 digikoppeling
@@ -96,10 +96,10 @@ govroam
 pki
 test-cmsintranet
 portaal
+osbacc
 extranet
 samen
 verkiezingen
-osbacc
 duurzaam
 apps
 gemeente
@@ -319,7 +319,6 @@ sbc01
 m
 bezoekersparkeren
 participatie
-raadsnet
 toegang
 pdc
 zoeken
@@ -394,6 +393,7 @@ mijndesktop
 www2
 loket.test
 www.acceptatie
+raadsnet
 secure-test
 sociaaldomein
 stadsarchief
@@ -700,7 +700,6 @@ www.denkmee
 open-formulieren-test
 preprod-belastingen
 insite
-hybrid1
 hybrid2
 digitaalloket
 ews
@@ -1101,6 +1100,7 @@ test-kaartviewer
 bekendmakingen
 test-insite
 veilig
+hybrid1
 www.cryptshare
 brk
 servicegatewayt
