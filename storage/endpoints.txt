@@ -6986,6 +6986,7 @@ https://test-e-loket.apeldoorn.nl
 https://test-eloket.brunssum.nl
 https://test-eloket.krimpenerwaard.nl
 https://test-eloket.nunspeet.nl
+https://test-extranet.hethogeland.nl
 https://test-formulier.enschede.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
