@@ -6,6 +6,7 @@ hilvarenbeek.nl
 hilvernet.hilvarenbeek.nl
 iburgerzaken.hilvarenbeek.nl
 ibzpink.hilvarenbeek.nl
+intranet.hilvarenbeek.nl
 preprod-belastingportaal.hilvarenbeek.nl
 simsite.hilvarenbeek.nl
 www.hilvarenbeek.nl
