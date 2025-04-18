@@ -279,7 +279,6 @@ http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
 http://formulieren.meierijstad.nl
 http://geldzaken.loonopzand.nl
-http://geo.krimpenerwaard.nl
 http://geo.roermond.nl
 http://geoportal.weert.nl
 http://gplan.rheden.nl
@@ -3503,6 +3502,7 @@ https://geo.heerenveen.nl
 https://geo.hilversum.nl
 https://geo.horstaandemaas.nl
 https://geo.huizen.nl
+https://geo.krimpenerwaard.nl
 https://geo.middendrenthe.nl
 https://geo.montferland.info
 https://geo.nunspeet.nl
@@ -5875,7 +5875,6 @@ https://pip-test.urk.nl
 https://pip.urk.nl
 https://pip.vlaardingen.nl
 https://piwik.ede.nl
-https://piwik.krimpenerwaard.nl
 https://pki.olst-wijhe.nl
 https://pki.rotterdam.nl
 https://pki.utrecht.nl
