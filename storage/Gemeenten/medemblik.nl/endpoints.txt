@@ -1,5 +1,6 @@
 http://AutoDiscover.medemblik.nl
 http://autodiscover.medemblik.nl
+http://www.samen.medemblik.nl
 https://blik-acc.medemblik.nl
 https://blik.medemblik.nl
 https://erfgoed.medemblik.nl

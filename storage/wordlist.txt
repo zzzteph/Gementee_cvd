@@ -379,6 +379,7 @@ aeolus
 e.openstad
 mijnuitkering
 stemvan
+www.samen
 ibabs
 corsa-prod
 corsa-test
@@ -467,7 +468,6 @@ www.socialekaart
 testbelastingloket
 raadsinformatie
 duo
-www.samen
 gbionline
 cca-acc
 cca

@@ -23,4 +23,5 @@ squit2go.medemblik.nl
 transfer.medemblik.nl
 werkenbij.medemblik.nl
 www.medemblik.nl
+www.samen.medemblik.nl
 www.sociaalloket.medemblik.nl
