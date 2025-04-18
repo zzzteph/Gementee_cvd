@@ -3460,6 +3460,7 @@ https://gemeenteraad.groningen.nl
 https://gemeenteraad.haarlemmermeer.nl
 https://gemeenteraad.halderberge.nl
 https://gemeenteraad.heemskerk.nl
+https://gemeenteraad.hillegom.nl
 https://gemeenteraad.hofvantwente.nl
 https://gemeenteraad.hollandskroon.nl
 https://gemeenteraad.leiden.nl
@@ -5154,6 +5155,7 @@ https://mobiel.vlaardingen.nl
 https://mobielapp.zuidplas.nl
 https://mobile.doetinchem.nl
 https://mobile.ggd.amsterdam.nl
+https://mobiliteitsplan.hillegom.nl
 https://mobiliteitsplan.lisse.nl
 https://mobiliteitsplan.teylingen.nl
 https://modern.noordwijk.nl
@@ -7573,6 +7575,7 @@ https://webservice-decosdvl.amsterdam.nl
 https://webservices-ot.tilburg.nl
 https://webshopapp.denhaag.nl
 https://webshopvitaloo.sudwestfryslan.nl
+https://website.acceptatie.hillegom.nl
 https://website.acceptatie.lisse.nl
 https://website.acceptatie.teylingen.nl
 https://website.alphen-chaam.nl

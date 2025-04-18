@@ -26,10 +26,10 @@ dkd
 werkplek
 acc
 portal
+waarmerk
 open
 meldingen
 raad
-waarmerk
 afspraak
 geo
 parkeren
@@ -39,11 +39,11 @@ adfs
 broker
 ruimtelijkeplannen
 betalen
+gemeenteraad
 iparticipatie
 pv
 zaaksysteem-accept
 belastingen
-gemeenteraad
 testeloket
 test-ipa
 werkenbij
@@ -169,6 +169,7 @@ gasten
 uc
 smtp
 AutoDiscover
+mobiel
 ro
 inloggen
 inproces
@@ -185,7 +186,6 @@ fmreturn
 iarchief
 formulieren-test
 mobile
-mobiel
 contentbeheer.acceptatie
 zaken.acceptatie
 bor
@@ -217,6 +217,7 @@ contact
 wachtwoord
 geodata
 subsidies-backend
+thuiswerken
 website
 gemeentearchief
 _dmarc
@@ -232,6 +233,7 @@ preprod-mijnsociaalplein
 jongin
 archief
 topdesk
+vth
 acceptatie-open
 kcc
 mx1
@@ -243,7 +245,6 @@ vergunningintaker-preprod
 simform-preproductie
 praatmee
 subsidie
-thuiswerken
 api.openstad
 cms
 exchange
@@ -262,7 +263,6 @@ xential
 www.jongin
 erfgoed
 key2gbav
-vth
 filetransfer
 bestanden
 woz-portaal
@@ -309,11 +309,13 @@ admin.openstad
 eformulieren
 squit2020.acceptatie
 academie
+www.intranet
 aeolus
 squit2020publiceren
 liquit
 beeldbankbeheer
 sbc01
+m
 bezoekersparkeren
 participatie
 raadsnet
@@ -372,7 +374,6 @@ img.openstad
 openformulieren-test
 webservices
 socialekaart
-www.intranet
 ondernemen
 e.openstad
 mijnuitkering
@@ -384,7 +385,6 @@ radius
 tim
 authenticatie
 gateway
-m
 mijn-preproductie
 www.afspraken
 prefill
@@ -469,6 +469,7 @@ gbionline
 cca-acc
 cca
 gemeentewinkel
+mijnmobiel
 pip
 www.werkplek
 acceptatie-intranet
@@ -647,7 +648,6 @@ www.mobile
 gbionlinetest
 squit2gotest
 geo-secure
-mijnmobiel
 www.login
 liquitsatellite
 www.parkeren
@@ -690,6 +690,8 @@ aanvragenprod
 acceptatie-mobiliteitsplan
 bouwarchief
 edienstenpreprod
+mobiliteitsplan
+website.acceptatie
 wijkteam
 www.denkmee
 open-formulieren-test
@@ -987,6 +989,7 @@ exchangehybrid
 ketenportaal.acceptatie
 nedplan
 secudoc
+www.mijnmobiel
 mijnplan
 preprod-mijnplan
 webvpn
@@ -994,6 +997,7 @@ www.djuma
 www.eloket
 www.parkeren-test
 www.webvpn
+ediensten
 pip-preproductie
 telefoon
 mm
@@ -1051,6 +1055,7 @@ officewebapps
 testmijn
 testzaken
 www.sts
+www.vpn
 samenwijzer
 preprod-burgerportaal
 tunnel
@@ -1079,6 +1084,7 @@ parkeerproducten
 siem
 dms
 return
+www.thuiswerken
 gvonline
 testwerkplek
 Cloudadapter-test
@@ -1128,8 +1134,6 @@ parkeren.reserveren
 werkeninkomen-test
 werkeninkomen
 voice
-mobiliteitsplan
-website.acceptatie
 alwayson
 testwebsite
 uitvaart
@@ -3600,7 +3604,6 @@ www.bb763.ovh
 www.beekcorsa02.ovh
 www.citrix
 www.internetafspraken
-www.mijnmobiel
 www.mobiel
 www.mobielbeek
 www.squit2020publiceren
@@ -3655,7 +3658,6 @@ zoekengemeentearchief
 acc-mediabank
 authentication
 ediensten-preproductie
-ediensten
 gevondenvoorwerpen
 hwok-test
 hwok
@@ -4257,7 +4259,6 @@ www.roplan
 www.sbc-ata01
 www.sbc-ha
 www.v2.openstad
-www.vpn
 www.warmrijsenhout
 www.werkplektest
 www.windopland
@@ -4436,6 +4437,7 @@ vicrea
 vinden
 www.cars
 hillegom-checker-preprod
+hillegom-checker
 acceptatie.hilvernet
 hilvernet
 1221
@@ -6719,7 +6721,6 @@ www.docu
 www.handhaving
 www.owncloud
 www.thuis
-www.thuiswerken
 acctest
 zs-accept
 aiz

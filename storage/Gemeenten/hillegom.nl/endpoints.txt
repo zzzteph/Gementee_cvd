@@ -8,8 +8,11 @@ https://dali.hillegom.nl
 https://edienstenburgerzaken-test.hillegom.nl
 https://edienstenburgerzaken.hillegom.nl
 https://edienstenpreprod.hillegom.nl
+https://gemeenteraad.hillegom.nl
 https://hillegom-checker-preprod.hillegom.nl
 https://hillegom.nl
+https://mobiliteitsplan.hillegom.nl
 https://open.hillegom.nl
+https://website.acceptatie.hillegom.nl
 https://website.hillegom.nl
 https://www.hillegom.nl
