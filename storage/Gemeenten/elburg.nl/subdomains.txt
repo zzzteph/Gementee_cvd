@@ -1,9 +1,0 @@
-broker.elburg.nl
-digikoppeling.elburg.nl
-elburg.nl
-eloket.elburg.nl
-filecap.elburg.nl
-ibzpink.elburg.nl
-preprodbroker.elburg.nl
-testeloket.elburg.nl
-www.elburg.nl

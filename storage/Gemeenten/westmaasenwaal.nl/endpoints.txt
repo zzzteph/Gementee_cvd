@@ -1,8 +1,0 @@
-http://diensten.westmaasenwaal.nl
-http://preproductie.westmaasenwaal.nl
-http://www.westmaasenwaal.nl
-https://klantcontact.westmaasenwaal.nl
-https://remote.westmaasenwaal.nl
-https://testsim.westmaasenwaal.nl
-https://vdi.westmaasenwaal.nl
-https://westmaasenwaal.nl

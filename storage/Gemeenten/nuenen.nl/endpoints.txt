@@ -1,8 +1,0 @@
-http://simcms-open.nuenen.nl
-https://eloket.nuenen.nl
-https://en.nuenen.nl
-https://felix.nuenen.nl
-https://iburgerzaken.nuenen.nl
-https://open.nuenen.nl
-https://simcms.nuenen.nl
-https://testeloket.nuenen.nl
