@@ -1,3 +1,4 @@
+_autodiscover._tcp.noordoostpolder.nl
 acceptatie.noordoostpolder.nl
 autodiscover.noordoostpolder.nl
 bbv-acceptatie.noordoostpolder.nl

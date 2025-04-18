@@ -120,6 +120,7 @@ bgt
 woningbouwkaart
 obsurv
 begroting
+_autodiscover._tcp
 preprodbroker
 simform
 mijninkomen
@@ -130,7 +131,6 @@ sip
 micollab
 mdm
 contentbeheer
-_autodiscover._tcp
 e
 ftp
 gisib

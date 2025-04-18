@@ -467,6 +467,7 @@ http://test-intranet.sudwestfryslan.nl
 http://test-intranet.velsen.nl
 http://test-intranet.zeist.nl
 http://test-meedoenregeling.dongen.nl
+http://test-nopnet.noordoostpolder.nl
 http://test.website.westland.gemeentewestland.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
@@ -7022,7 +7023,6 @@ https://test-mijn.enschede.nl
 https://test-mijn.hoorn.nl
 https://test-mijnkrimpenwijzer.krimpenaandenijssel.nl
 https://test-mijnoverzicht.alphenaandenrijn.nl
-https://test-nopnet.noordoostpolder.nl
 https://test-notificaties.enschede.nl
 https://test-objecten.enschede.nl
 https://test-objecttypen.enschede.nl
