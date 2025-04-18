@@ -604,6 +604,7 @@ acceptatie.insite.oisterwijk.nl
 acceptatie.intranet.debilt.nl
 acceptatie.intranet.gemeentewestland.nl
 acceptatie.kaagenbraassem.nl
+acceptatie.kampen.nl
 acceptatie.landgraaf.nl
 acceptatie.leeuwarden.nl
 acceptatie.leiderdorp.nl
@@ -1589,6 +1590,7 @@ autodiscover.hoorn.nl
 autodiscover.horstaandemaas.nl
 autodiscover.houten.nl
 autodiscover.iba.amsterdam.nl
+autodiscover.kampen.nl
 autodiscover.katwijk.nl
 autodiscover.koggenland.nl
 autodiscover.landsmeer.nl
@@ -2447,6 +2449,7 @@ bregje.dev.denhaag.nl
 bregje.test.denhaag.nl
 brielle.nl
 brink70.deventer.nl
+brk.kampen.nl
 brk.meerssen.nl
 brlcmg.brielle.nl
 bro.katwijk.nl
@@ -2651,6 +2654,7 @@ citrix.brielle.nl
 citrix.gemeentebeek.nl
 citrix.gulpen-wittem.nl
 citrix.hoogeveen.nl
+citrix.kampen.nl
 citrix.nunspeet.nl
 citrix.waalwijk.nl
 citrixomgeving.gemeentebeek.nl
@@ -3615,6 +3619,7 @@ diogenes.leeuwarden.nl
 directadmin.almelo.nl
 directduidelijk.openstad.enschede.nl
 director.gemeentebeek.nl
+director.kampen.nl
 dis-test.gulpen-wittem.nl
 dis.gulpen-wittem.nl
 dis4bz.heerlen.nl
@@ -5958,6 +5963,7 @@ iarchief.twenterand.nl
 iarchief.weststellingwerf.nl
 iarchief.zutphen.nl
 iarchieftest.twenterand.nl
+ib.kampen.nl
 iba.amsterdam.nl
 ibabs-acc.gemeente-oldambt.nl
 ibabs-connect-acc.overbetuwe.nl
@@ -6568,6 +6574,7 @@ intern.aanmeldenparkeren.amsterdam.nl
 intern.formulieren.acc.amsterdam.nl
 intern.formulieren.amsterdam.nl
 intern.venlo.nl
+internalbeacon.kampen.nl
 internekoppelingen.krimpenerwaard.nl
 internetafspraken.diemen.nl
 internetafspraken.gemeentebeek.nl
@@ -7997,6 +8004,7 @@ meldingen.helmond.nl
 meldingen.hengelo.nl
 meldingen.heuvelrug.nl
 meldingen.hilversum.nl
+meldingen.kampen.nl
 meldingen.leeuwarden.nl
 meldingen.leiden.nl
 meldingen.leiderdorp.nl
@@ -9722,6 +9730,7 @@ piwik.ede.nl
 piwik.emmen.nl
 piwik.gemeente-oldambt.nl
 piwik.halderberge.nl
+piwik.kampen.nl
 piwik.krimpenerwaard.nl
 piwik.oostgelre.nl
 piwik.roosendaal.nl
@@ -9882,6 +9891,7 @@ portal.helmond.nl
 portal.hilversum.nl
 portal.iba.amsterdam.nl
 portal.kaagenbraassem.nl
+portal.kampen.nl
 portal.noordoostpolder.nl
 portal.office.com.westmaasenwaal.nl
 portal.olst-wijhe.nl
@@ -10492,6 +10502,7 @@ raas.rotterdam.nl
 rabbitmq.datapunt.amsterdam.nl
 radar.rotterdam.nl
 radius.gemeenteberkelland.nl
+radius.kampen.nl
 radius.oostgelre.nl
 radius.overbetuwe.nl
 radius.woerden.nl
@@ -10577,6 +10588,7 @@ remote.gemeentewestland.nl
 remote.gorinchem.nl
 remote.hethogeland.nl
 remote.hoorn.nl
+remote.kampen.nl
 remote.lochem.nl
 remote.montferland.info
 remote.nieuwegein.nl
@@ -11030,6 +11042,7 @@ service02.eijsden-margraten.nl
 servicebus-t.kampen.nl
 servicebus.capelleaandenijssel.nl
 servicebus.gemeentewesterveld.nl
+servicebus.kampen.nl
 servicedesk.almelo.nl
 servicedesk.edam-volendam.nl
 servicedesk.hethogeland.nl
@@ -12069,6 +12082,7 @@ telewerken.drechterland.nl
 telewerken.gemeentemaashorst.nl
 telewerken.haarlemmermeer.nl
 telewerken.hellevoetsluis.nl
+telewerken.kampen.nl
 telewerken.nederbetuwe.nl
 telewerken.stichtsevecht.nl
 telewerken.zaanstad.nl
@@ -12334,6 +12348,7 @@ test.helmond.nl
 test.heuvelrug.nl
 test.hoorn.nl
 test.io.amsterdam.nl
+test.kampen.nl
 test.lab.tod.leiden.nl
 test.loket.oss.nl
 test.maasdriel.nl
@@ -12963,6 +12978,7 @@ vlissingen.nl
 vlspmks.velsen.nl
 vlstmks.velsen.nl
 vluchtelingen.zaanstad.nl
+vm-cs.kampen.nl
 vmapp002.borne.nl
 vmapp006.borne.nl
 vmbg01.landgraaf.nl
@@ -13058,6 +13074,7 @@ vth.gemeente-oldambt.nl
 vth.haarlem.nl
 vth.hillegom.nl
 vth.kaagenbraassem.nl
+vth.kampen.nl
 vth.twenterand.nl
 vth.zandvoort.nl
 vth.zwolle.nl
@@ -13110,6 +13127,7 @@ waarmerk.haarlemmermeer.nl
 waarmerk.hellevoetsluis.nl
 waarmerk.hillegom.nl
 waarmerk.huizen.nl
+waarmerk.kampen.nl
 waarmerk.kerkrade.nl
 waarmerk.krimpenaandenijssel.nl
 waarmerk.landgraaf.nl
@@ -13288,6 +13306,7 @@ webmail.huizen.nl
 webmail.iba.amsterdam.nl
 webmail.ivv.amsterdam.nl
 webmail.kaagenbraassem.nl
+webmail.kampen.nl
 webmail.katwijk.nl
 webmail.koo.oosterhout.nl
 webmail.krimpenerwaard.nl
@@ -13510,6 +13529,7 @@ werkplek.haarlemmermeer.nl
 werkplek.halderberge.nl
 werkplek.hilversum.nl
 werkplek.kaagenbraassem.nl
+werkplek.kampen.nl
 werkplek.landvancuijk.nl
 werkplek.lelystad.nl
 werkplek.leudal.nl
@@ -13541,6 +13561,7 @@ werkplek.waalre.nl
 werkplek.wierden.nl
 werkplek.zwolle.nl
 werkplek02.derondevenen.nl
+werkplekcb.kampen.nl
 werkplekspel.tilburg.nl
 werkplektest.haarlemmermeer.nl
 werkregelingen-acc.utrecht.nl
@@ -14739,6 +14760,7 @@ www.test.amersfoort.nl
 www.test.denhaag.nl
 www.test.drechterland.nl
 www.test.gulpen-wittem.nl
+www.test.kampen.nl
 www.test.sudwestfryslan.nl
 www.testeloket.rhenen.nl
 www.testloket.groningen.nl
@@ -14913,6 +14935,7 @@ www.woudenberg.nl
 www.woz-loket.coevorden.nl
 www.woz-portaal-eemnes.baarn.nl
 www.woz-portaal.baarn.nl
+www.woz.kampen.nl
 www.woz.overbetuwe.nl
 www.www2.formulieren.haarlemmermeer.nl
 www.www2.testformulieren.haarlemmermeer.nl
@@ -15147,6 +15170,7 @@ zorgloket.druten.nl
 zorgloket.groningen.nl
 zorgloket.wijdemeren.nl
 zorgmail.bergenopzoom.nl
+zorgmail.kampen.nl
 zorgmail.schouwen-duiveland.nl
 zorgned-prod.gemeente-steenbergen.nl
 zorgplein.doetinchem.nl

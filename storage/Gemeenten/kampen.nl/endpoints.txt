@@ -1,4 +1,4 @@
-http://belasting-test.kampen.nl
+http://autodiscover.kampen.nl
 http://hybrid.kampen.nl
 http://mail.kampen.nl
 http://sem.kampen.nl
@@ -8,6 +8,7 @@ https://acc.meldingen.kampen.nl
 https://afspraken.kampen.nl
 https://api.acc.meldingen.kampen.nl
 https://api.meldingen.kampen.nl
+https://belasting-test.kampen.nl
 https://belasting.kampen.nl
 https://broker.kampen.nl
 https://cmsoo.kampen.nl
@@ -22,6 +23,7 @@ https://intranet.kampen.nl
 https://kaart.kampen.nl
 https://kampen.nl
 https://magazine.kampen.nl
+https://meldingen.kampen.nl
 https://parkeervergunning.kampen.nl
 https://personeelsplanning.kampen.nl
 https://pv.kampen.nl

@@ -110,6 +110,7 @@ http://autodiscover.hoogeveen.nl
 http://autodiscover.hoorn.nl
 http://autodiscover.horstaandemaas.nl
 http://autodiscover.houten.nl
+http://autodiscover.kampen.nl
 http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
 http://autodiscover.landsmeer.nl
@@ -216,7 +217,6 @@ http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
 http://baarn.nl
-http://belasting-test.kampen.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://belastingen.sudwestfryslan.nl
@@ -1613,6 +1613,7 @@ https://bekslaan-leidsevaartweg.doemee.bloemendaal.nl
 https://belasting-loket.helmond.nl
 https://belasting-loket.winterswijk.nl
 https://belasting-lokettest.helmond.nl
+https://belasting-test.kampen.nl
 https://belasting.kampen.nl
 https://belastingbalie-acc.hilversum.nl
 https://belastingbalie-acc.wijdemeren.nl
@@ -4809,6 +4810,7 @@ https://meldingen.helmond.nl
 https://meldingen.hengelo.nl
 https://meldingen.heuvelrug.nl
 https://meldingen.hilversum.nl
+https://meldingen.kampen.nl
 https://meldingen.leeuwarden.nl
 https://meldingen.leiden.nl
 https://meldingen.leiderdorp.nl
