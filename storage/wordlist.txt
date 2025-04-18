@@ -167,6 +167,7 @@ objecttypen
 openklant
 gasten
 uc
+smtp
 AutoDiscover
 ro
 inloggen
@@ -184,7 +185,6 @@ fmreturn
 iarchief
 formulieren-test
 mobile
-smtp
 mobiel
 contentbeheer.acceptatie
 zaken.acceptatie

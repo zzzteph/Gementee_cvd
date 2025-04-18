@@ -1,4 +1,5 @@
 http://autodiscover.heemstede.nl
+http://smtp.heemstede.nl
 https://begraafplaats.heemstede.nl
 https://bouwdossiers.heemstede.nl
 https://bouwtekeningen.heemstede.nl

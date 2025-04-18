@@ -22,6 +22,7 @@ opendata.heemstede.nl
 parkeren-test.heemstede.nl
 parkeren.heemstede.nl
 plein1.heemstede.nl
+smtp.heemstede.nl
 tradities.heemstede.nl
 webmail.heemstede.nl
 www.heemstede.nl
