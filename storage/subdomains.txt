@@ -3863,6 +3863,7 @@ dowc.cg-intern.acc.utrecht.nl
 dowc.cg-intern.ont.utrecht.nl
 download.castricum.nl
 download.gemeentemaasgouw.nl
+download.lingewaard.nl
 download.roerdalen.nl
 download.webmail.sudwestfryslan.nl
 downloaddomain.gemeentemaashorst.nl
@@ -4528,6 +4529,7 @@ enterpriseenrollment.groningen.nl
 enterpriseenrollment.heerlen.nl
 enterpriseenrollment.landsmeer.nl
 enterpriseenrollment.leeuwarden.nl
+enterpriseenrollment.lingewaard.nl
 enterpriseenrollment.lochem.nl
 enterpriseenrollment.meierijstad.nl
 enterpriseenrollment.moerdijk.nl
@@ -7360,6 +7362,7 @@ libertest.landgraaf.nl
 life.landvancuijk.nl
 lifecoolsquare.groningen.nl
 linden.landvancuijk.nl
+lingewaard.nl
 link.burgerpanel.middendrenthe.nl
 link.capelleaandenijssel.nl
 link.pr.almere.nl

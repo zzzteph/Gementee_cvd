@@ -46,8 +46,8 @@ zaaksysteem-accept
 belastingen
 test-ipa
 werkenbij
-testeloket
 enterpriseenrollment
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -438,6 +438,7 @@ logilink
 suite4burgerzaken-test
 sync
 medewerkers
+download
 www.afspraak
 grooster
 ris
@@ -593,7 +594,6 @@ uitwijk
 mbg
 clicksfm
 servicebus
-download
 pkio1
 dvg
 mbg2

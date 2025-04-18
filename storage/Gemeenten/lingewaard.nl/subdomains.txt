@@ -4,6 +4,8 @@ afvalwijzer.lingewaard.nl
 autodiscover.lingewaard.nl
 belastingloket.lingewaard.nl
 bestanden.lingewaard.nl
+download.lingewaard.nl
+enterpriseenrollment.lingewaard.nl
 felix.lingewaard.nl
 gbi.lingewaard.nl
 geo.lingewaard.nl
@@ -15,6 +17,7 @@ iris-acc.lingewaard.nl
 jcc.lingewaard.nl
 klantcontact.lingewaard.nl
 klimaatbestendig.lingewaard.nl
+lingewaard.nl
 mijn.lingewaard.nl
 mks.adir.lingewaard.nl
 mkstest.adir.lingewaard.nl

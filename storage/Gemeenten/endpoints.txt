@@ -392,7 +392,6 @@ http://sem.kampen.nl
 http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
-http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-omgevingsvisie.geldrop-mierlo.nl
 http://simcms-open.gemeentebeek.nl
 http://simcms-open.halderberge.nl
@@ -518,7 +517,6 @@ http://www.huizen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
-http://www.lingewaard.nl
 http://www.lopik.nl
 http://www.maassluis.nl
 http://www.mijn.groningen.nl
@@ -3016,6 +3014,7 @@ https://enterpriseenrollment.gooisemeren.nl
 https://enterpriseenrollment.heerlen.nl
 https://enterpriseenrollment.landsmeer.nl
 https://enterpriseenrollment.leeuwarden.nl
+https://enterpriseenrollment.lingewaard.nl
 https://enterpriseenrollment.lochem.nl
 https://enterpriseenrollment.meierijstad.nl
 https://enterpriseenrollment.moerdijk.nl
@@ -4447,6 +4446,7 @@ https://klantportaal.enkhuizen.nl
 https://klantportaal.stedebroec.nl
 https://klemmi.rotterdam.nl
 https://klimaat.landvancuijk.nl
+https://klimaatbestendig.lingewaard.nl
 https://klimaatplein.bergen-nh.nl
 https://klimaatplein.castricum.nl
 https://klimaatplein.heiloo.nl
@@ -4510,6 +4510,7 @@ https://leverancier.gemeenteberkelland.nl
 https://life.landvancuijk.nl
 https://lifecoolsquare.groningen.nl
 https://linden.landvancuijk.nl
+https://lingewaard.nl
 https://link.burgerpanel.middendrenthe.nl
 https://link.capelleaandenijssel.nl
 https://link.pr.almere.nl
@@ -6544,6 +6545,7 @@ https://simcms-armoedepact.westerkwartier.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-duurzaam.waalwijk.nl
+https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-ontmoetingscentra.opmeer.nl
 https://simcms-open.leudal.nl
 https://simcms-open.meerssen.nl
