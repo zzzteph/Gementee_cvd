@@ -4419,7 +4419,6 @@ po
 productie.postex
 pushmail
 webmail2
-zsaccept
 apv-broker
 apv-broker.preprod
 iverblijf
