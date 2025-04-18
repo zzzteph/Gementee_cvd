@@ -222,6 +222,7 @@ http://belastingen.koggenland.nl
 http://belastingen.sudwestfryslan.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://beverwijk.nl
+http://bezoekersparkeren.hoorn.nl
 http://bijveen-acc.veenendaal.nl
 http://bladel.nl
 http://bouwdossiers.stadsarchief.breda.nl
@@ -362,6 +363,7 @@ http://p8-test.zwolle.nl
 http://p8.zwolle.nl
 http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
+http://parkeren.hoorn.nl
 http://parkeren.waterland.nl
 http://participatieprikbord.denhaag.nl
 http://pip-preproductie.gemeentehw.nl
@@ -1833,7 +1835,6 @@ https://bezettinggebouwen.rotterdam.nl
 https://bezoek.rotterdam.nl
 https://bezoeker.tilburg.nl
 https://bezoekersparkeren.heerenveen.nl
-https://bezoekersparkeren.hoorn.nl
 https://bezoekersparkeren.roermond.nl
 https://bezoekersparkeren.waalwijk.nl
 https://bezoekersparkeren.zwolle.nl
@@ -5800,7 +5801,6 @@ https://parkeren.heemstede.nl
 https://parkeren.heerenveen.nl
 https://parkeren.heerlen.nl
 https://parkeren.hengelo.nl
-https://parkeren.hoorn.nl
 https://parkeren.katwijk.nl
 https://parkeren.leiden.nl
 https://parkeren.meppel.nl

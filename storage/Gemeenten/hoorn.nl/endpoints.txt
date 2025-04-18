@@ -1,9 +1,10 @@
 http://autodiscover.hoorn.nl
+http://bezoekersparkeren.hoorn.nl
+http://parkeren.hoorn.nl
 https://1.hoorn.nl
 https://api.design.hoorn.nl
 https://begroting2018.hoorn.nl
 https://belastingbalie.hoorn.nl
-https://bezoekersparkeren.hoorn.nl
 https://bouwprojecten.hoorn.nl
 https://crisis.hoorn.nl
 https://design.hoorn.nl
@@ -23,7 +24,6 @@ https://marktportaal.hoorn.nl
 https://mijn.hoorn.nl
 https://nieuws.hoorn.nl
 https://organisatie.hoorn.nl
-https://parkeren.hoorn.nl
 https://strand.hoorn.nl
 https://test-kaartviewer.hoorn.nl
 https://test-mijn.hoorn.nl
