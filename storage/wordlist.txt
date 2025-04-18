@@ -109,6 +109,7 @@ filecap
 dtestmidoffice
 squit2go
 mijnzorg
+_autodiscover._tcp
 vergunningintaker
 snelbalie
 afvalkalender
@@ -120,7 +121,6 @@ bgt
 woningbouwkaart
 obsurv
 begroting
-_autodiscover._tcp
 preprodbroker
 simform
 mijninkomen

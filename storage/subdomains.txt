@@ -91,6 +91,7 @@ _autodiscover._tcp.eersel.nl
 _autodiscover._tcp.laarbeek.nl
 _autodiscover._tcp.landgraaf.nl
 _autodiscover._tcp.noordoostpolder.nl
+_autodiscover._tcp.olst-wijhe.nl
 _autodiscover._tcp.zandvoort.nl
 _dmarc.amsterdam.nl
 _dmarc.delft.nl
