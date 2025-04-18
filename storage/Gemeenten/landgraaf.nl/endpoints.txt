@@ -1,3 +1,5 @@
+http://landgraaf.nl
+http://www.landgraaf.nl
 https://academie.landgraaf.nl
 https://adfs.landgraaf.nl
 https://edienstenburgerzaken-test.landgraaf.nl
