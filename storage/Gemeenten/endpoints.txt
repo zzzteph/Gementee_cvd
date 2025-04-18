@@ -323,7 +323,6 @@ http://m.leiden.nl
 http://maassluis.nl
 http://magazine.amersfoort.nl
 http://magazine.schagen.nl
-http://magazines.horstaandemaas.nl
 http://mail.amsterdam.nl
 http://mail.kampen.nl
 http://mail.wijdemeren.nl
@@ -4655,6 +4654,7 @@ https://magazine.kampen.nl
 https://magazine.landvancuijk.nl
 https://magazines.amsterdam.nl
 https://magazines.gooisemeren.nl
+https://magazines.horstaandemaas.nl
 https://magazines.rotterdam.nl
 https://mail.apeldoorn.nl
 https://mail.bloemendaal.nl

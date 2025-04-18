@@ -1,5 +1,4 @@
 http://autodiscover.horstaandemaas.nl
-http://magazines.horstaandemaas.nl
 https://api.horstaandemaas.nl
 https://belastingen.horstaandemaas.nl
 https://cmsoo.horstaandemaas.nl
@@ -8,6 +7,7 @@ https://geo.horstaandemaas.nl
 https://horstaandemaas.nl
 https://iburgerzaken.horstaandemaas.nl
 https://lvs.horstaandemaas.nl
+https://magazines.horstaandemaas.nl
 https://mfawerkplek.horstaandemaas.nl
 https://open-formulieren-test.horstaandemaas.nl
 https://open-formulieren.horstaandemaas.nl
