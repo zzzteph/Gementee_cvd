@@ -18,4 +18,3 @@ meldingen.aaenhunze.nl
 remote.aaenhunze.nl
 webapps.aaenhunze.nl
 www.aaenhunze.nl
-www2.aaenhunze.nl
