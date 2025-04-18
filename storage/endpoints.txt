@@ -411,6 +411,7 @@ http://simcms.echt-susteren.nl
 http://simcms.goeree-overflakkee.nl
 http://simcms.halderberge.nl
 http://simcms.harlingen.nl
+http://simcms.heeze-leende.nl
 http://simcms.heumen.nl
 http://simcms.huizen.nl
 http://simcms.lopik.nl
@@ -3147,6 +3148,7 @@ https://felix.deurne.nl
 https://felix.geldrop-mierlo.nl
 https://felix.gemeentemaasgouw.nl
 https://felix.halderberge.nl
+https://felix.heeze-leende.nl
 https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
@@ -6593,7 +6595,6 @@ https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
 https://simsite.eersel.nl
-https://simsite.heeze-leende.nl
 https://simsite.heumen.nl
 https://simsite.heuvelrug.nl
 https://simsite.landgraaf.nl
