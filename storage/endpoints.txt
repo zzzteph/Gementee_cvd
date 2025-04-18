@@ -517,6 +517,7 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.maassluis.nl
+http://www.middelburg.nl
 http://www.mijn.groningen.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
@@ -6571,7 +6572,6 @@ https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
 https://simcms.landgraaf.nl
 https://simcms.leudal.nl
-https://simcms.middelburg.nl
 https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
 https://simcms.opmeer.nl
