@@ -1,3 +1,4 @@
+http://nederweert.nl
 http://simcms.nederweert.nl
 https://awmail.nederweert.nl
 https://awtunnel.nederweert.nl
@@ -8,5 +9,4 @@ https://enterpriseenrollment.nederweert.nl
 https://enterpriseregistration.nederweert.nl
 https://felix.nederweert.nl
 https://huisnet.nederweert.nl
-https://nederweert.nl
-https://www.nederweert.nl
+https://simsite.nederweert.nl

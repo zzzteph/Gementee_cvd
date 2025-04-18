@@ -338,6 +338,7 @@ http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
 http://mijnzorg.aalsmeer.nl
 http://mt-link.stichtsevecht.nl
+http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://ondernemersloket.kerkrade.nl
@@ -5235,7 +5236,6 @@ https://ndesapeldoorn.apeldoorn.nl
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
-https://nederweert.nl
 https://nerdio.meierijstad.nl
 https://netbox.alkmaar.nl
 https://neuron-test.gorinchem.nl
@@ -6607,6 +6607,7 @@ https://simsite.kerkrade.nl
 https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
 https://simsite.mookenmiddelaar.nl
+https://simsite.nederweert.nl
 https://simsite.pekela.nl
 https://simsite.pijnacker-nootdorp.nl
 https://simsite.reuseldemierden.nl
@@ -8156,7 +8157,6 @@ https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
 https://www.nederbetuwe.nl
-https://www.nederweert.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwkoop.nl
