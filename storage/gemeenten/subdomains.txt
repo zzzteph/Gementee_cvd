@@ -31,6 +31,7 @@ Infra-summit.tst.amsterdam.nl
 Inkomensbalie.eindhoven.nl
 LVWKPB-emmen.napels.emmen.nl
 NLGEMBRC.blaricum.nl
+Squitpub-prod.haarlem.nl
 Top.apeldoorn.nl
 VRiSeLoket.cranendonck.nl
 _autodiscover._tcp.aalten.nl
@@ -253,6 +254,7 @@ acc.gebiedinbeeld.amsterdam.nl
 acc.gemeentebest.nl
 acc.goes.nl
 acc.gorinchem.nl
+acc.haarlem.nl
 acc.heelenschoon.amsterdam.nl
 acc.hior.amsterdam.nl
 acc.hitkans.top.amsterdam.nl
@@ -729,6 +731,7 @@ auth.doemee.gemeentewestland.nl
 auth.gemeentehw.nl
 auth.gemeentestein.nl
 auth.gemeentewestland.nl
+auth.haarlem.nl
 auth.openstad.deventer.nl
 auth.openstad.enschede.nl
 auth.openstad.gemeentewestland.nl
@@ -832,6 +835,7 @@ autodiscover.gorinchem.nl
 autodiscover.gouda.nl
 autodiscover.groningen.nl
 autodiscover.haaksbergen.nl
+autodiscover.haarlem.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
@@ -852,6 +856,7 @@ autorisatiebeheer.brunssum.nl
 autorisatietest.bloemendaal.nl
 av.alkmaar.nl
 avproxy.vga.amsterdam.nl
+awg.haarlem.nl
 awm.acc.amsterdam.nl
 awm.amsterdam.nl
 awmag.asten.nl
@@ -1150,6 +1155,7 @@ bor.dantumadiel.frl
 bor.edam-volendam.nl
 borger-odoorn.nl
 borne.nl
+boronline.haarlem.nl
 borsele.nl
 bounces-eps.amsterdam.nl
 bouwdossiers.amsterdam.nl
@@ -1228,6 +1234,7 @@ c2c-tst.gemeente.groningen.nl
 c2c.gemeente.groningen.nl
 cag.gemeentemaasgouw.nl
 camera-sport.alkmaar.nl
+campagne.haarlem.nl
 campus.groningen.nl
 camunda-zgw.acc.denhaag.nl
 capelleaandenijssel.nl
@@ -1265,6 +1272,7 @@ citytrip.groningen.nl
 cjg.denhaag.nl
 clear-tst.groningen.nl
 clear.groningen.nl
+clickprotection.haarlem.nl
 clicksfm.capelleaandenijssel.nl
 clicksfm.nieuwsbrief.goeree-overflakkee.nl
 clientcert-prd.groningen.nl
@@ -1476,6 +1484,7 @@ data.eindhoven.nl
 data.gemnet.bergendal.nl
 data.gemnet.beuningen.nl
 data.groningen.nl
+data.haarlem.nl
 dataacc.breda.nl
 datab.drechterland.nl
 databeheer.gouda.nl
@@ -1487,6 +1496,7 @@ dataportaal.apeldoorn.nl
 datapunt.amsterdam.nl
 datasync.dmb.amsterdam.nl
 datatest.delft.nl
+datatest.haarlem.nl
 db01.deventer.nl
 dbga.acc.amsterdam.nl
 dcagast1.assen.nl
@@ -1567,6 +1577,7 @@ dhsbc01.denhelder.nl
 dhsbc02.denhelder.nl
 dialin.acc.amsterdam.nl
 dialin.assen.nl
+dialin.haarlem.nl
 dict.amsterdam.nl
 diemen.nl
 diensten.almere.nl
@@ -1582,6 +1593,7 @@ digiform-fa.amsterdam.nl
 digiform.acc.amsterdam.nl
 digiform.amsterdam.nl
 digiforms.gemeente-steenbergen.nl
+digigateway.haarlem.nl
 digikoppeling-mks-test.assen.nl
 digikoppeling-mks.assen.nl
 digikoppeling-prd.gemeente.groningen.nl
@@ -1828,6 +1840,8 @@ e-dfs-p-01.adds.amsterdam.nl
 e-dfs-p-01.amsterdam.nl
 e-dfs-p-02.amsterdam.nl
 e-dienstaanvragen.amersfoort.nl
+e-diensten.haarlem.nl
+e-diensten001.haarlem.nl
 e-facturen-prod.gemert-bakel.nl
 e-file-p-01.adds.amsterdam.nl
 e-file-p-02.adds.amsterdam.nl
@@ -1855,6 +1869,7 @@ e.bewustwording.gemeentestein.nl
 e.borger-odoorn.nl
 e.dewolden.nl
 e.doemee.gemeentewestland.nl
+e.haarlem.nl
 e.mailings.deventer.nl
 e.openstad.emmen.nl
 e.openstad.gemeentewestland.nl
@@ -2043,6 +2058,7 @@ email.bernheze.org
 email.capelleaandenijssel.nl
 email.doemee.gemeentebest.nl
 email.eijsden-margraten.nl
+email.haarlem.nl
 email.mail.denkmee.amstelveen.nl
 email.mail.participatie.aalsmeer.nl
 email.samenveiligwerken.alphenaandenrijn.nl
@@ -2135,7 +2151,9 @@ esb.bergenopzoom.nl
 esb.breda.nl
 esbacc.breda.nl
 esbt.bergenopzoom.nl
+esedge.haarlem.nl
 esp.castricum.nl
+esrce.haarlem.nl
 esrs.ovh.gemeentebeek.nl
 esuitenotubiz-test.brielle.nl
 etten-leur.nl
@@ -2209,6 +2227,7 @@ filecap.eemsdelta.nl
 filecap.elburg.nl
 filecap.epe.nl
 filecap.gemert-bakel.nl
+filecap.haarlem.nl
 filecapacc.breda.nl
 files.data.amsterdam.nl
 fileshare.adds.amsterdam.nl
@@ -2335,6 +2354,7 @@ frontoffice-parkeervergunningen.beverwijk.nl
 fs-mail.drimmelen.nl
 fs.aaenhunze.nl
 fs.beverwijk.nl
+fs.haarlem.nl
 fs.mobiliteit.data.amsterdam.nl
 fs2016.beesel.nl
 fsa.ede.nl
@@ -2367,6 +2387,7 @@ gb-app05.gemeenteberkelland.nl
 gb-servers.intra.gemert-bakel.nl
 gb-wls-04.gemert-bakel.nl
 gb-wls-05.gemert-bakel.nl
+gba-v.haarlem.nl
 gbav.dpg.amsterdam.nl
 gbav.emmen.nl
 gbav1.amersfoort.nl
@@ -2407,6 +2428,7 @@ gemeentearchief.goes.nl
 gemeentebeek.nl
 gemeenteberkelland.nl
 gemeentebest.nl
+gemeentebestuur.haarlem.nl
 gemeenteblad.almere.nl
 gemeentehulst.nl
 gemeentehw.nl
@@ -2613,8 +2635,10 @@ gymzaalhuren.bernheze.org
 gzac.t.ssv.amsterdam.nl
 haaksbergen.nl
 haal-centraal.api.data.amsterdam.nl
+haarlem.nl
 handboekdibor.ede.nl
 handhaving.groningen.nl
+handhaving.haarlem.nl
 handhavingsacademie.amsterdam.nl
 handhavingtest.groningen.nl
 haven.deventer.nl
@@ -2652,6 +2676,7 @@ hoogeland.groningen.nl
 hor-acc.amsterdam.nl
 hor.amsterdam.nl
 hor.denhaag.nl
+horizonvdi.haarlem.nl
 hosted-by.amsterdam.nl
 hotspot.gemeentebeek.nl
 hout.almere.nl
@@ -2680,6 +2705,7 @@ hybrid.gemeenteberkelland.nl
 hybrid.gemeentehw.nl
 hybrid.gooisemeren.nl
 hybrid.gulpen-wittem.nl
+hybridexo.haarlem.nl
 hybridmail.amersfoort.nl
 iam-acc.almere.nl
 iam-forms.denhaag.nl
@@ -3023,6 +3049,7 @@ iparticipatie.deventer.nl
 iparticipatie.edam-volendam.nl
 iparticipatie.eijsden-margraten.nl
 iparticipatie.emmen.nl
+ipp.haarlem.nl
 iris.acc.denhaag.nl
 iris.data.amsterdam.nl
 iris.denhaag.nl
@@ -3102,6 +3129,7 @@ kaart.amsterdam.nl
 kaart.bergendal.nl
 kaart.debilt.nl
 kaart.delft.nl
+kaart.haarlem.nl
 kaarten.boxtel.nl
 kaarten.buren.nl
 kaarten.deventer.nl
@@ -3312,11 +3340,13 @@ loket.gemeentemaasgouw.nl
 loket.gemeentemaastricht.nl
 loket.gemeentewesterveld.nl
 loket.gemeentewestland.nl
+loket.haarlem.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
 loket.test.dantumadiel.frl
 loketacc.arnhem.nl
+loketacpt.haarlem.nl
 loo-tv.brunssum.nl
 looplijst.top.amsterdam.nl
 lrdstufxml.bergen-nh.nl
@@ -3330,9 +3360,14 @@ lvwkpb-emmen.napels.emmen.nl
 lvwoz.achtkarspelen.nl
 lync-av-edge.ggd.amsterdam.nl
 lync-webconf-edge.ggd.amsterdam.nl
+lyncav.haarlem.nl
+lynccon.haarlem.nl
+lyncdir.haarlem.nl
 lyncdiscover.assen.nl
 lyncdiscover.diemen.nl
 lyncdiscover.ggd.amsterdam.nl
+lyncdiscover.haarlem.nl
+lyncweb.haarlem.nl
 m.groningen.nl
 m1.delft.nl
 m2.delft.nl
@@ -3440,6 +3475,7 @@ matchpointbhr.dmo.acc.amsterdam.nl
 matchpointkp.dmo.acc.amsterdam.nl
 matenpark.apeldoorn.nl
 matomo.breda.nl
+matomo.haarlem.nl
 mbg.buren.nl
 mbg.dantumadiel.frl
 mbg1.beverwijk.nl
@@ -3452,6 +3488,7 @@ mdm.brummen.nl
 mdm.denhaag.nl
 mdm.ede.nl
 mdm.gemeentewestland.nl
+mdm.haarlem.nl
 mdmcore.defryskemarren.nl
 mdr.beverwijk.nl
 me-api.acc.amsterdam.nl
@@ -3478,6 +3515,7 @@ meet.acc.amsterdam.nl
 meet.assen.nl
 meet.ede.nl
 meet.ggd.amsterdam.nl
+meet.haarlem.nl
 meldcode.denhaag.nl
 melddesk.almere.nl
 melddesk.bodegraven-reeuwijk.nl
@@ -3575,7 +3613,9 @@ mijn.gooisemeren.nl
 mijn.gouda.nl
 mijn.groningen.nl
 mijn.haaksbergen.nl
+mijn.haarlem.nl
 mijnaanvraagzi.beuningen.nl
+mijnacpt.haarlem.nl
 mijnbelastingen.amsterdam.nl
 mijnerfpacht.acc.amsterdam.nl
 mijnerfpacht.amsterdam.nl
@@ -3726,6 +3766,7 @@ mta-sts.raad.duiven.nl
 mta.nieuwsbrief.amsterdam.nl
 mv1.amsterdam.nl
 mx.elburg.nl
+mx01.haarlem.nl
 mx1.ede.nl
 mx1.groningen.nl
 mx2.ede.nl
@@ -3739,6 +3780,8 @@ mymeeting-ris.gulpen-wittem.nl
 mymeeting20.gulpen-wittem.nl
 myprint.groningen.nl
 mzdtest.bunnik.nl
+n1.auth.haarlem.nl
+n2.auth.haarlem.nl
 nac.almelo.nl
 naheffingsaanslag-acc.amsterdam.nl
 naheffingsaanslag-tst.amsterdam.nl
@@ -4147,6 +4190,7 @@ parkeren-acc.apeldoorn.nl
 parkeren-acc.bodegraven-reeuwijk.nl
 parkeren-acc.bunschoten.nl
 parkeren-acc.ede.nl
+parkeren-acc.haarlem.nl
 parkeren-edu.amsterdam.nl
 parkeren-siam-test.dijkenwaard.nl
 parkeren-siam-test.gemeentehulst.nl
@@ -4169,6 +4213,7 @@ parkeren.dijkenwaard.nl
 parkeren.ede.nl
 parkeren.gemeentehulst.nl
 parkeren.goes.nl
+parkeren.haarlem.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
 parkerendenhaag.denhaag.nl
@@ -4270,6 +4315,7 @@ portaal.amsterdam.nl
 portaal.dijkenwaard.nl
 portaal.dronten.nl
 portaal.gemeentehulst.nl
+portaal.haarlem.nl
 portaal.iam.groningen.nl
 portaal.kre-acc.amsterdam.nl
 portaal.kre-dev.amsterdam.nl
@@ -4320,6 +4366,7 @@ praatmee.borsele.nl
 praatmee.boxtel.nl
 praatmee.goeree-overflakkee.nl
 prd.afs.amsterdam.nl
+prdb.haarlem.nl
 pre-gemeenteloket.gemeentemaastricht.nl
 pre-ows-ahp-test.groningen.nl
 pre-ows-ahp.groningen.nl
@@ -4544,6 +4591,8 @@ redactiemijn-t.ot.denhaag.nl
 redi.denhaag.nl
 redirect.ede.nl
 redirector.alkmaar.nl
+regelen-acc.haarlem.nl
+regelen.haarlem.nl
 regelgeving.amsterdam.nl
 regentesseplein.denhaag.nl
 regio.almere.nl
@@ -4649,6 +4698,7 @@ sammycms.derondevenen.nl
 sb.drechterland.nl
 sbc.deurne.nl
 sbc01.gooisemeren.nl
+sbc01.haarlem.nl
 sbir1.lev.delft.nl
 sbir2.lev.delft.nl
 sbs.acc.amsterdam.nl
@@ -4663,6 +4713,7 @@ scanhulp.acc.amsterdam.nl
 scanhulp.amsterdam.nl
 scanhulp.tst.amsterdam.nl
 scbroker.diemen.nl
+sccmmp.haarlem.nl
 schemas.data.amsterdam.nl
 scheveningen-acc.denhaag.nl
 scheveningen.denhaag.nl
@@ -4680,6 +4731,7 @@ sd2-zgw.acc.denhaag.nl
 sd2-zgw.denhaag.nl
 sd2-zgw.test.denhaag.nl
 sdtest.asten.nl
+sdv.haarlem.nl
 se.vga.amsterdam.nl
 search.amsterdam.nl
 search.data.amsterdam.nl
@@ -4742,6 +4794,7 @@ servicebus.capelleaandenijssel.nl
 servicebus.gemeentewesterveld.nl
 servicedesk.almelo.nl
 servicedesk.edam-volendam.nl
+servicegateway.haarlem.nl
 services.acc.amsterdam.nl
 services.amsterdam.nl
 services.dronten.nl
@@ -4876,11 +4929,13 @@ simsite.gilzerijen.nl
 simsite.goeree-overflakkee.nl
 simsite.gorinchem.nl
 simsite.gulpen-wittem.nl
+singlegateway.haarlem.nl
 sinterklaas.groningen.nl
 sip.assen.nl
 sip.castricum.nl
 sip.diemen.nl
 sip.ggd.amsterdam.nl
+sip.haarlem.nl
 sip.oa.amsterdam.nl
 siraskalot.delft.nl
 site.dijkenwaard.nl
@@ -4998,6 +5053,7 @@ squit2goprod.gemeentehw.nl
 squit2gotest-backoffice.enschede.nl
 squit2gotest.enschede.nl
 squit2gotest.gemeentehw.nl
+squitpub-prod.haarlem.nl
 squitxo-prd.gemeentewestland.nl
 squitxo-tst.gemeentewestland.nl
 squitxo.goirle.nl
@@ -5012,6 +5068,7 @@ ssdacc.drimmelen.nl
 ssdtest.brunssum.nl
 sslvpn.arnhem.nl
 sslvpn.denhaag.nl
+sslvpn.haarlem.nl
 sslvpn2.ede.nl
 sso-sharefile.ede.nl
 sso-test.groningen.nl
@@ -5449,6 +5506,7 @@ vdi8.amersfoort.nl
 veenkolonien.groningen.nl
 veiligdelen.alkmaar.nl
 veiligdelen.derondevenen.nl
+veiligdelen.haarlem.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
@@ -5490,6 +5548,7 @@ versterkenenvernieuwen.groningen.nl
 vga.amsterdam.nl
 via.geertruidenberg.nl
 victor.amsterdam.nl
+videogesprek.haarlem.nl
 viertfietsen.deventer.nl
 view.brunssum.nl
 view.nieuwsbrief.amsterdam.nl
@@ -5535,6 +5594,7 @@ vsp.denhelder.nl
 vth.brievenbus.amsterdam.nl
 vth.deventer.nl
 vth.gemeente-oldambt.nl
+vth.haarlem.nl
 vveacc.amsterdam.nl
 vvetest.amsterdam.nl
 w2008bag.gemeentesluis.nl
@@ -5559,6 +5619,7 @@ waarmerk.gemeentesluis.nl
 waarmerk.gemeentewestland.nl
 waarmerk.groningen.nl
 waarmerk.haaksbergen.nl
+waarmerk.haarlem.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
 wachtwoord.alkmaar.nl
@@ -5600,6 +5661,7 @@ webdav.gemeentesluis.nl
 webdav.goeree-overflakkee.nl
 webformulieren.doetinchem.nl
 webgba.gouda.nl
+webmail-test.haarlem.nl
 webmail.alkmaar.nl
 webmail.amersfoort.nl
 webmail.bergen-nh.nl
@@ -5639,6 +5701,7 @@ webmail.gemeentewestland.nl
 webmail.gemert-bakel.nl
 webmail.goirle.nl
 webmail.gooisemeren.nl
+webmail.haarlem.nl
 webmail.iba.amsterdam.nl
 webmail.ivv.amsterdam.nl
 webmail.nieuwwest.amsterdam.nl
@@ -5676,6 +5739,7 @@ welbotest.alphenaandenrijn.nl
 welkom.ede.nl
 werk.arnhem.nl
 werkaandewijk.denhaag.nl
+werkenbij-ict.haarlem.nl
 werkenbij.alkmaar.nl
 werkenbij.ameland.nl
 werkenbij.amsterdam.nl
@@ -5759,6 +5823,7 @@ winter.groningen.nl
 wion.amersfoort.nl
 wion.gemeentestein.nl
 wion.goes.nl
+wkpb.haarlem.nl
 wlc.denhaag.nl
 wmo.bloemendaal.nl
 wmoauth.acceptatie.amsterdam.nl
@@ -5940,6 +6005,7 @@ www.buurtbudgetzuid.amsterdam.nl
 www.buurtbudgetzuidoost.amsterdam.nl
 www.byod.groningen.nl
 www.cag.gemeentemaasgouw.nl
+www.campagne.haarlem.nl
 www.campus.groningen.nl
 www.capelleaandenijssel.nl
 www.castricum.nl
@@ -6019,6 +6085,7 @@ www.duurzamestad-acc.denhaag.nl
 www.duurzamestad.denhaag.nl
 www.dwh-test.groningen.nl
 www.dwh.groningen.nl
+www.e-diensten001.haarlem.nl
 www.e-facturen-prod.gemert-bakel.nl
 www.echt-susteren.nl
 www.economie.groningen.nl
@@ -6053,6 +6120,7 @@ www.erfpacht.amsterdam.nl
 www.ermelo.nl
 www.esb-prod.groningen.nl
 www.esb-test.groningen.nl
+www.esedge.haarlem.nl
 www.etten-leur.nl
 www.evenementen.assen.nl
 www.extern.emmen.nl
@@ -6125,6 +6193,7 @@ www.grnwi520.groningen.nl
 www.groningen.nl
 www.gulpen-wittem.nl
 www.haaksbergen.nl
+www.haarlem.nl
 www.handhavingsacademie.amsterdam.nl
 www.havenkwartieraanzet.denhaag.nl
 www.hh2015.groningen.nl
@@ -6168,6 +6237,7 @@ www.leidschenveenaanzet.denhaag.nl
 www.live.groningen.nl
 www.login.gemeentebeek.nl
 www.loket.amsterdam.nl
+www.loketacpt.haarlem.nl
 www.mail.gemeentemaasgouw.nl
 www.mail.noord.amsterdam.nl
 www.mariahoeveaanzet.denhaag.nl
@@ -6175,6 +6245,7 @@ www.marketingtools.goeree-overflakkee.nl
 www.mas.groningen.nl
 www.matenpark.apeldoorn.nl
 www.mdm.gemeentewestland.nl
+www.mdm.haarlem.nl
 www.medezeggenschap.groningen.nl
 www.meedenken.arnhem.nl
 www.merk.denhaag.nl
