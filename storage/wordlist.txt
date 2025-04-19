@@ -22,9 +22,9 @@ digikoppeling
 data
 test
 preproductie
+acc
 mijnzorg
 portal
-acc
 loket.acceptatie
 pv
 parkeren
@@ -32,6 +32,7 @@ eloket
 formulieren
 gemeenteraad
 enterpriseenrollment
+afspraak
 adfs
 meldingen-acc
 acceptatie
@@ -44,7 +45,6 @@ werkplek
 kaart
 snelbalie
 duurzaam
-afspraak
 api.meldingen-acc
 remote
 _autodiscover._tcp
@@ -72,6 +72,7 @@ zaaksysteem-accept
 flowmailer-tracking
 hybrid
 mijninkomen
+omgevingsvisie
 belastingen
 evenementen
 maps
@@ -111,6 +112,8 @@ simform
 test-ipa
 college
 gisib
+praatmee
+www.praatmee
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -123,7 +126,6 @@ autorisatie
 izaaksuite
 osbacc
 www.werkenbij
-omgevingsvisie
 parkeren-test
 piwik
 start
@@ -139,11 +141,13 @@ preprod-mijninkomen
 stadsarchief
 thuiswerken
 digitaalnachtregister
+afvalkalender
 centrumbegroot
 cms
 exchange
 gemeentearchief
 kinderburgemeester
+mailing
 msoid
 ro-online
 rpl3
@@ -210,9 +214,7 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
-praatmee
 web
-www.praatmee
 a2b-rtr
 aanvragen
 aeos
@@ -378,7 +380,6 @@ wachtwoordreset
 wifiguestportal
 wijkteams
 website
-afvalkalender
 alleplannen.centrumbegroot
 api.openstad
 begroten.centrumbegroot
@@ -393,7 +394,6 @@ dkd-test
 email.samenveiligwerken
 exchange2
 images.openstad
-mailing
 mijnoverzicht
 oauth.openstad
 onlineregelen
@@ -1933,3 +1933,9 @@ voormeldingen
 wim2-acc
 xential
 zaalhuur
+brsoribi01
+brsoribi02
+grmks06
+jcccloud
+jongin
+www.jongin
