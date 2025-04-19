@@ -71,6 +71,7 @@ http://buurthuisvandetoekomst.denhaag.nl
 http://centrumimpuls.geldrop-mierlo.nl
 http://cms-binnenshuis.bergen.nl
 http://cmsintranet.etten-leur.nl
+http://connect.acceptatie.goirle.nl
 http://crl.denhaag.nl
 http://data.breda.nl
 http://data.delft.nl
@@ -135,6 +136,8 @@ http://simcms.bladel.nl
 http://simcms.bunschoten.nl
 http://simsite.bergen.nl
 http://simsite.eersel.nl
+http://squitxo.goirle.nl
+http://squitxotest.goirle.nl
 http://subsites.amsterdam.nl
 http://test-binnenshuis.bergen.nl
 http://test-cmshofnet.coevorden.nl
@@ -197,6 +200,7 @@ https://aanmelder.delft.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
 https://academie.drimmelen.nl
+https://academie.goirle.nl
 https://acc-afvalkalender.goes.nl
 https://acc-broker.assen.nl
 https://acc-broker.borger-odoorn.nl
@@ -343,7 +347,9 @@ https://acceptatie.dongen.nl
 https://acceptatie.eemsdelta.nl
 https://acceptatie.gemeentesluis.nl
 https://acceptatie.gilzerijen.nl
+https://acceptatie.goirle.nl
 https://acceptatie.intranet.debilt.nl
+https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
 https://acceptatiebelastingen.duiven.nl
@@ -408,6 +414,7 @@ https://afspraken.ermelo.nl
 https://afspraken.gemeente-oldambt.nl
 https://afspraken.gemeente-steenbergen.nl
 https://afspraken.goes.nl
+https://afspraken.goirle.nl
 https://afval.assen.nl
 https://afval.diemen.nl
 https://afval.geertruidenberg.nl
@@ -617,11 +624,13 @@ https://bedrijfslocaties.coevorden.nl
 https://bedrijvenregister.gemeentewestland.nl
 https://beekdaelen.nl
 https://beeldbank-bo.baarn.nl
+https://beeldbank-bo.goirle.nl
 https://beeldbank.amstelveen.nl
 https://beeldbank.baarn.nl
 https://beeldbank.breda.nl
 https://beeldbank.ede.nl
 https://beeldbank.gemeentebest.nl
+https://beeldbank.goirle.nl
 https://beeldbankbeheer.gemeentebest.nl
 https://beeldmateriaal.eindhoven.nl
 https://beesel.nl
@@ -668,6 +677,7 @@ https://belastingportaal.acc.assen.nl
 https://belastingportaal.assen.nl
 https://belastingportaal.boxtel.nl
 https://belastingportaal.dinkelland.nl
+https://belastingportaal.goirle.nl
 https://bereikbaarheid.amsterdam.nl
 https://bereikbarestad.denhaag.nl
 https://bergen-nh.nl
@@ -847,6 +857,7 @@ https://college.alblasserdam.nl
 https://college.albrandswaard.nl
 https://college.dordrecht.nl
 https://connect-preprod.almere.nl
+https://connect.goirle.nl
 https://consent.sarphati.amsterdam.nl
 https://contact.antwoord.amsterdam.nl
 https://contact.gemeente-oldambt.nl
@@ -1460,6 +1471,7 @@ https://geoportaaltest.enschede.nl
 https://geoserver-signalen.almere.nl
 https://geoservices.denhaag.nl
 https://geotest.arnhem.nl
+https://geotest.goirle.nl
 https://geovisiaonline.gemert-bakel.nl
 https://geuzenstatenkwartierfietst.denhaag.nl
 https://gezinscoach.deventer.nl
@@ -1488,6 +1500,7 @@ https://gitops.test.denhaag.nl
 https://glanerbrug.openstad.enschede.nl
 https://goes.nl
 https://gogo.denhaag.nl
+https://goirle.nl
 https://googleauth.gemeentemaastricht.nl
 https://goud.almere.nl
 https://gp.deventer.nl
@@ -1606,6 +1619,7 @@ https://iburgerzaken.gemert-bakel.nl
 https://iburgerzaken.gennep.nl
 https://iburgerzaken.gilzerijen.nl
 https://iburgerzaken.goes.nl
+https://iburgerzaken.goirle.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -1737,6 +1751,7 @@ https://jongerenraad.barneveld.nl
 https://joost.beuningen.nl
 https://jvs-prod.gemeente-steenbergen.nl
 https://jvs-test.gemeente-steenbergen.nl
+https://jvs.goirle.nl
 https://jvvs.amsterdam.nl
 https://kaart.amersfoort.nl
 https://kaart.amsterdam.nl
@@ -2254,6 +2269,7 @@ https://opname.eindhoven.nl
 https://or.delft.nl
 https://oracbloemenbuurt.denhaag.nl
 https://oranjekwartier.deventer.nl
+https://oranjeplein.goirle.nl
 https://organisatie.gemeente-steenbergen.nl
 https://otp.gemeenteberkelland.nl
 https://oudewebsite.gemeentewestland.nl
@@ -2363,6 +2379,7 @@ https://praatmee.boxtel.nl
 https://praatmee.goeree-overflakkee.nl
 https://prd.afs.amsterdam.nl
 https://pre-gemeenteloket.gemeentemaastricht.nl
+https://preprod-belastingportaal.goirle.nl
 https://preprod-broker.buren.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-ediensten-sociaaldomein.denhelder.nl
@@ -2458,6 +2475,7 @@ https://raad.brummen.nl
 https://raad.dordrecht.nl
 https://raad.gemeente-steenbergen.nl
 https://raad.gemeentemaastricht.nl
+https://raad.goirle.nl
 https://raadplegen.denhaag.nl
 https://rap.gemeentesluis.nl
 https://redactie-extern.denhaag.nl
@@ -2825,6 +2843,7 @@ https://veiligdelen.alkmaar.nl
 https://veiligdelen.derondevenen.nl
 https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
+https://vergaderingen.goirle.nl
 https://vergunningen.dronten.nl
 https://vergunningen.duiven.nl
 https://vergunningintaker-preprod.aalten.nl
@@ -3149,6 +3168,7 @@ https://www.ggd.amsterdam.nl
 https://www.gilzerijen.nl
 https://www.goes.nl
 https://www.gogo.denhaag.nl
+https://www.goirle.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl
