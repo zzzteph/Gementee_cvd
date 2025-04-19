@@ -14,11 +14,11 @@ mail
 probeer
 webmail
 loket
+digikoppeling
+test
 felix
 mijn
-digikoppeling
 meldingen
-test
 preproductie
 data
 acc
@@ -93,6 +93,7 @@ maps
 stadsarchief
 thuiswerken
 berichten
+siam
 ns
 onderzoek
 atlas
@@ -167,7 +168,8 @@ msoid
 ro-online
 rpl3
 www.centrumbegroot
-siam
+mozard
+mozardtest
 belastingbalie
 bewustwording
 financien
@@ -430,8 +432,6 @@ www.alleplannen.centrumbegroot
 www.uwdorpofwijk
 www.zwammerdamdorpskern
 zwammerdamdorpskern
-mozard
-mozardtest
 test-zaakloket
 testsiam
 zaakloket
@@ -2070,3 +2070,5 @@ webmeeting
 womserver-test
 womserver
 zwembaddebronspot
+mzdtest
+siamtest
