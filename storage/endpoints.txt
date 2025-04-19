@@ -26,6 +26,7 @@ http://autodiscover.bodegraven-reeuwijk.nl
 http://autodiscover.borger-odoorn.nl
 http://autodiscover.borne.nl
 http://autodiscover.brielle.nl
+http://autodiscover.brummen.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://cms-binnenshuis.bergen.nl
@@ -57,6 +58,8 @@ http://simcms.bladel.nl
 http://simsite.bergen.nl
 http://subsites.amsterdam.nl
 http://test-binnenshuis.bergen.nl
+http://tve-acc.brummen.nl
+http://tve.brummen.nl
 http://vergunningintaker.bernheze.org
 http://wij.bergen-nh.nl
 http://wob.arnhem.nl
@@ -168,6 +171,7 @@ https://acceptatie.baarle-nassau.nl
 https://accisdtalentcenter.bergenopzoom.nl
 https://activiteiten.amsterdam.nl
 https://adfs.beekdaelen.nl
+https://adfs.brummen.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.schoolwijzer.amsterdam.nl
 https://adus.amsterdam.nl
@@ -390,6 +394,7 @@ https://broker.assen.nl
 https://broker.bernheze.org
 https://broker.borger-odoorn.nl
 https://bronckhorst.nl
+https://brummen.nl
 https://burgerzaken.amsterdam.nl
 https://buurtbudget.amsterdam.nl
 https://buurtbudgetnoord.amsterdam.nl
@@ -972,6 +977,7 @@ https://mks.amsterdam.nl
 https://mks.test.amsterdam.nl
 https://mks01.amsterdam.nl
 https://mmc.formulieren.amsterdam.nl
+https://mobiel.brummen.nl
 https://mobile.ggd.amsterdam.nl
 https://monumenten.acc.amsterdam.nl
 https://monumenten.amsterdam.nl
@@ -1093,6 +1099,7 @@ https://patternlab.barneveld.nl
 https://pb-yutpa.rnd.amsterdam.nl
 https://pdc.alkmaar.nl
 https://personeelsplanning.beekdaelen.nl
+https://petear.brummen.nl
 https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pilot-digitaleplannen.apeldoorn.nl
 https://planningsmanagement.amsterdam.nl
@@ -1159,6 +1166,7 @@ https://raad.albrandswaard.nl
 https://raad.arnhem.nl
 https://raad.asten.nl
 https://raad.bergendal.nl
+https://raad.brummen.nl
 https://redactie.amersfoort.nl
 https://redactie.antwoord.amsterdam.nl
 https://regio.almere.nl
@@ -1453,6 +1461,7 @@ https://www.boxtel.nl
 https://www.breda.nl
 https://www.brielle.nl
 https://www.bronckhorst.nl
+https://www.brummen.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl

@@ -214,6 +214,7 @@ adfs.bernheze.org
 adfs.beverwijk.nl
 adfs.bodegraven-reeuwijk.nl
 adfs.bronckhorst.nl
+adfs.brummen.nl
 adfs.ggd.amsterdam.nl
 adiko.apeldoorn.nl
 admin-acc.datapunt.amsterdam.nl
@@ -253,6 +254,7 @@ afspraken.beverwijk.nl
 afspraken.bladel.nl
 afspraken.borne.nl
 afspraken.bronckhorst.nl
+afspraken.brummen.nl
 afval.assen.nl
 afvalkalender.alphenaandenrijn.nl
 afvalkalender.borsele.nl
@@ -435,6 +437,7 @@ autodiscover.bodegraven-reeuwijk.nl
 autodiscover.borger-odoorn.nl
 autodiscover.borne.nl
 autodiscover.brielle.nl
+autodiscover.brummen.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -539,6 +542,7 @@ bgnvsv002.bergen.nl
 bgnvsv003.bergen.nl
 bgt.assen.nl
 bgt.baarn.nl
+bgt.brummen.nl
 bgtt.bergenopzoom.nl
 bhg.bba.amsterdam.nl
 bhgtest.bba.amsterdam.nl
@@ -586,6 +590,7 @@ broker.borger-odoorn.nl
 bronckhorst.nl
 brsoribi01.borsele.nl
 brsoribi02.borsele.nl
+brummen.nl
 buikslotermeerplein.amsterdam.nl
 burgerzaken.amsterdam.nl
 buurtbudget.amsterdam.nl
@@ -1521,6 +1526,7 @@ mail.bergenopzoom.nl
 mail.bernheze.org
 mail.bloemendaal.nl
 mail.borne.nl
+mail.brummen.nl
 mail.dmb.amsterdam.nl
 mail.noord.amsterdam.nl
 mail01.bodegraven-reeuwijk.nl
@@ -1558,6 +1564,7 @@ mbg1.beverwijk.nl
 mdm-sentry.bronckhorst.nl
 mdm.borne.nl
 mdm.bronckhorst.nl
+mdm.brummen.nl
 mdr.beverwijk.nl
 me-api.acc.amsterdam.nl
 me-api.amsterdam.nl
@@ -1670,6 +1677,7 @@ mksacc.breda.nl
 mksp01bkl.boekel.nl
 mmc.formulieren.amsterdam.nl
 mo.apeldoorn.nl
+mobiel.brummen.nl
 mobile.borne.nl
 mobile.ggd.amsterdam.nl
 moh-acc.arnhem.nl
@@ -1711,6 +1719,8 @@ nieuwsbrief.amsterdam.nl
 nieuwsbrief.arnhem.nl
 nieuwsbrieven.amsterdam.nl
 nieuwwest.amsterdam.nl
+nip.brummen.nl
+niptest.brummen.nl
 nlgembrc.blaricum.nl
 nlgembrl.brielle.nl
 nlgembrn.borne.nl
@@ -1889,6 +1899,7 @@ pdc.alkmaar.nl
 personeelshandboek.bronckhorst.nl
 personeelsplanning.beekdaelen.nl
 persoonlijk.breda.nl
+petear.brummen.nl
 pfsense.secure.amsterdam.nl
 phpmyadmin.bodegraven-reeuwijk.nl
 pilot-digitaleplannen.apeldoorn.nl
@@ -1932,6 +1943,7 @@ portal.bergenopzoom.nl
 portal.beverwijk.nl
 portal.borne.nl
 portal.brandweer.amsterdam.nl
+portal.brummen.nl
 portal.dab.amsterdam.nl
 portal.data.alkmaar.nl
 portal.dro.amsterdam.nl
@@ -2014,6 +2026,7 @@ raad.albrandswaard.nl
 raad.arnhem.nl
 raad.asten.nl
 raad.bergendal.nl
+raad.brummen.nl
 raadsnet.aalten.nl
 raadsnet.bernheze.org
 rabbitmq.datapunt.amsterdam.nl
@@ -2061,6 +2074,7 @@ ruimtelijkeplannen.alkmaar.nl
 ruimtelijkeplannen.almelo.nl
 ruimtelijkeplannen.bodegraven-reeuwijk.nl
 ruimtelijkeplannen.borne.nl
+ruimtelijkeplannen.brummen.nl
 rx-mission-publiceren.borne.nl
 s4baccess.acc.amsterdam.nl
 s4bwebcon.acc.amsterdam.nl
@@ -2392,6 +2406,8 @@ tracking.amersfoort.nl
 tradities.doemee.bloemendaal.nl
 transform.oa.amsterdam.nl
 tst-ubor.amsterdam.nl
+tve-acc.brummen.nl
+tve.brummen.nl
 typo3.borger-odoorn.nl
 ubor.amsterdam.nl
 uc.beverwijk.nl
@@ -2632,6 +2648,7 @@ www.boxtel.nl
 www.breda.nl
 www.brielle.nl
 www.bronckhorst.nl
+www.brummen.nl
 www.buikslotermeerplein.amsterdam.nl
 www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
