@@ -92,6 +92,7 @@ http://simcms.bergendal.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
 http://simsite.bergen.nl
+http://simsite.eersel.nl
 http://subsites.amsterdam.nl
 http://test-binnenshuis.bergen.nl
 http://test-cmshofnet.coevorden.nl
@@ -1028,6 +1029,7 @@ https://felix.bergen.nl
 https://felix.beuningen.nl
 https://felix.bronckhorst.nl
 https://felix.bunschoten.nl
+https://felix.eersel.nl
 https://fgt.amstelveen.nl
 https://filecap.breda.nl
 https://filecap.drimmelen.nl
@@ -1250,6 +1252,7 @@ https://iburgerzaken.edam-volendam.nl
 https://iburgerzaken.ede.nl
 https://iburgerzaken.eemnes.nl
 https://iburgerzaken.eemsdelta.nl
+https://iburgerzaken.eersel.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -1346,6 +1349,7 @@ https://jbt.test.denhaag.nl
 https://jcc.bergenopzoom.nl
 https://jccapi.bergeijk.nl
 https://jccapi.bladel.nl
+https://jccapi.eersel.nl
 https://jcccloud.borsele.nl
 https://jcctest.bergenopzoom.nl
 https://jeugdombudsman.denhaag.nl
@@ -2031,6 +2035,7 @@ https://simcms.beuningen.nl
 https://simcms.bronckhorst.nl
 https://simcms.deurne.nl
 https://simcms.echt-susteren.nl
+https://simcms.eersel.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simsite.beekdaelen.nl
 https://simsite.bergeijk.nl
@@ -2354,6 +2359,7 @@ https://woningbouwkaart.assen.nl
 https://woningbouwkaart.borger-odoorn.nl
 https://woningbouwkaart.coevorden.nl
 https://woningbouwkaart.dewolden.nl
+https://woningbouwkaart.eersel.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
 https://woo.denhaag.nl
