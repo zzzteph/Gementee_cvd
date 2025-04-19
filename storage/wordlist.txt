@@ -3,8 +3,8 @@ www
 autodiscover
 iburgerzaken
 ibzpink
-intranet
 edienstenburgerzaken
+intranet
 secure
 afspraken
 simcms
@@ -21,16 +21,16 @@ webmail
 acceptatie
 test
 dkd
+acc
 formulieren
 meldingen
 portal
-acc
 adfs
 data
+gemeenteraad
 afspraak
 pv
 eloket
-gemeenteraad
 enterpriseenrollment
 api.meldingen
 loket.acceptatie
@@ -47,6 +47,7 @@ werkplek
 omgevingsvisie
 kaart
 waarmerk
+open
 remote
 _autodiscover._tcp
 iparticipatie
@@ -54,13 +55,14 @@ zaken
 openpub
 snelbalie
 digikoppeling-test
-open
 testeloket
 cmsoo
 dacceptatieloket
 dacceptatiemidoffice
 dloket
 dmidoffice
+cloudadapter-test
+cloudadapter
 meldingen-acc
 mijnzorg-acc
 test-ipa
@@ -79,9 +81,8 @@ formulier
 gemeente
 nieuwsbrief
 bgt
-cloudadapter-test
-cloudadapter
 api.meldingen-acc
+belastingportaal
 loket.test
 www.acceptatie
 denkmee
@@ -96,6 +97,7 @@ afvalkalender
 www.duurzaam
 siam
 ns
+qr
 mks
 parkeren-acc
 acc-broker
@@ -103,7 +105,6 @@ test-digikoppeling
 woningbouwkaart
 klantcontact
 mdm
-belastingportaal
 midoffice
 praatmee
 preprod-mijn
@@ -119,7 +120,6 @@ exchange
 mailing
 belastingbalie
 onderzoek
-qr
 vdi
 atlas
 beeldbank
@@ -147,6 +147,7 @@ gasten
 govroam
 simcms-preproductie
 formulieren-test
+acceptatieloket
 uca
 intranet-acc
 doemee
@@ -274,7 +275,6 @@ publicroam
 gisibonline
 sentry
 jccapi
-acceptatieloket
 klimaatplein
 mijnsociaalplein
 mijnsociaalportaal-acc
@@ -297,6 +297,7 @@ dtestloket
 wozloket-acc
 gp
 www.jongin
+belastingportaal-test
 projecten
 filecap
 dtestmidoffice
@@ -1966,7 +1967,6 @@ grmks06
 jcccloud
 jongin
 Belastingportaal-test
-belastingportaal-test
 netwerk
 preprod-mijnoverzicht
 woww
@@ -2788,3 +2788,8 @@ parkeren-siam-test
 parkeren-siam
 site
 training
+acceptatie-open
+preprod-sociaalportaal
+serverruimte
+sociaalportaal
+testloket
