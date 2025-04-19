@@ -19,28 +19,28 @@ acceptatie
 loket
 probeer
 test
+formulieren
 felix
 acc
-formulieren
 werkplek
 waarmerk
 afspraak
 broker
-portal
 dkd
+portal
 adfs
 eloket
 gemeenteraad
 betalen
 open
+geo
 meldingen
 pv
-geo
 data
 vpn
+zaaksysteem-accept
 omgevingsvisie
 raad
-zaaksysteem-accept
 parkeren
 enterpriseenrollment
 dacceptatieloket
@@ -159,6 +159,7 @@ test-digikoppeling
 belastingloket
 byod
 samen
+uca
 uc
 www.webmail
 mobile
@@ -188,6 +189,7 @@ maps
 thuiswerken
 cms
 www.duurzaam
+vdi
 www.test
 atlas
 werkenvoor
@@ -206,7 +208,6 @@ meedoen
 gasten
 iarchief
 formulieren-test
-uca
 www.doemee
 www.gemeenteraad
 acc.piwik
@@ -237,8 +238,8 @@ ro-online
 mozard
 bewustwording
 magazine
-vdi
 wion
+api
 ftp
 parkeervergunningen
 top
@@ -384,7 +385,6 @@ mail1
 mail2
 jcc
 aanmeldenparkeren
-api
 autodiscover.ggd
 beheer
 bouwdossiers
@@ -410,6 +410,7 @@ sportverhuur
 www.ggd
 www.onderzoek
 www.ruimtelijkeplannen
+digitaleplannen
 gpa
 ndes
 parkeerapp
@@ -487,6 +488,7 @@ download
 squit2go-backoffice
 connect.test
 contentbeheer.test
+woz-loket
 zaken.test
 ris
 bor
@@ -503,6 +505,7 @@ huisvuilkalender
 kennisportaal
 mfa
 smartdocuments
+sport
 www.cjg
 test.digikoppeling
 mijnzaken
@@ -544,6 +547,7 @@ www.belastingbalie
 zaaksysteem
 aeolus
 antispam
+burgerportaal
 mijnsubsidie
 cmsoo.gemeente
 flex
@@ -565,6 +569,7 @@ www.djuma
 pip
 www.werkplek
 authenticatie
+acceptatie-intranet
 berichtenverkeer
 gateway
 www.kaarten
@@ -1823,7 +1828,6 @@ crypt
 cryptacc
 csp-report
 dagbesteding
-digitaleplannen
 diko
 energiepunt
 financials-acc
@@ -2243,7 +2247,6 @@ test-hofnet
 wijzer.acceptatie
 wijzer
 wijzer.test
-woz-loket
 www.doe-mee
 www.woz-loket
 VRiSeLoket
@@ -2591,7 +2594,6 @@ smtprelay
 smtprelay1
 snowagent
 splunk-controlroom
-sport
 stadskrant-acc
 stadskrant
 status-paginas-zgw.acc
@@ -3002,7 +3004,6 @@ kansshop
 medewerkersportaal
 test-kansshop
 bestplan1
-burgerportaal
 emma
 gemnps01
 gemnps01.intern
@@ -3407,7 +3408,6 @@ digikoppelingjnet-test
 digikoppelingjnet
 misentry
 preproductiebroker
-acceptatie-intranet
 apigateway
 apigateway2
 basisregistraties
@@ -4057,3 +4057,10 @@ halbox
 halnet
 ons
 samenwijzer
+preprod-burgerportaal
+sera
+tunnel
+vdi-uitwijk
+woz-loket-accept
+zwembaden
+zwemles
