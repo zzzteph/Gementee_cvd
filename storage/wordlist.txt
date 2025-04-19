@@ -20,9 +20,9 @@ probeer
 loket
 test
 felix
+acc
 formulieren
 broker
-acc
 afspraak
 dkd
 werkplek
@@ -43,6 +43,7 @@ dacceptatieloket
 dacceptatiemidoffice
 raad
 openpdc
+parkeren
 digikoppeling-test
 testeloket
 dloket
@@ -53,7 +54,6 @@ remote
 ruimtelijkeplannen
 vpn
 zaaksysteem-accept
-parkeren
 login
 formulier
 cmsoo
@@ -108,9 +108,12 @@ www.acceptatie
 vergunningintaker
 kennisbank
 osbacc
+flowmailer-tracking
 subsidies
 evenementen
+afvalkalender
 duurzaam
+gemeentearchief
 mailing
 ns
 qr
@@ -154,14 +157,11 @@ gisib
 praatmee
 izaaksuite
 wachtwoord
-flowmailer-tracking
 parkeren-test
 subsidies-backend
 thuiswerken
-afvalkalender
 api.openstad
 cms
-gemeentearchief
 www.duurzaam
 onderzoek
 api.betalen
@@ -176,6 +176,7 @@ acc-contact
 acc-keycloak
 acc-notificaties
 acc-openzaak
+afval
 bag
 openformulieren
 openklant
@@ -188,6 +189,7 @@ uca
 www.doemee
 jaarstukken
 inloggen
+squit2go
 inproces.acceptatie
 inproces
 cmsintranet
@@ -205,7 +207,9 @@ exchange
 preprod
 ro-online
 bewustwording
+magazine
 vdi
+wion
 www.test
 atlas
 werkenvoor
@@ -222,7 +226,6 @@ opendata
 woo
 www.raad
 acc-keycloak-admin
-afval
 bastion365
 bis
 media
@@ -260,7 +263,6 @@ rap
 omgevingswet
 mobiel
 ro
-squit2go
 klantportaal
 outlook
 burgerloket
@@ -339,8 +341,6 @@ www.centrumbegroot
 mozard
 mozardtest
 crl
-magazine
-wion
 jcc
 aanmeldenparkeren
 api
@@ -3475,3 +3475,9 @@ ucc01
 ucconf01
 ucweb01-ext
 www.marketingtools
+acc-afvalkalender
+grmks01
+rostar
+samenspel
+snelbalievergunningen
+testparkeren
