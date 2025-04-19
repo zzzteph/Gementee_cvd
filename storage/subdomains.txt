@@ -658,6 +658,7 @@ api.meldingen-acc.assen.nl
 api.meldingen-acc.bernheze.org
 api.meldingen-acc.enschede.nl
 api.meldingen-acc.gemeente-oldambt.nl
+api.meldingen-acc.hattem.nl
 api.meldingen.aaenhunze.nl
 api.meldingen.acceptatie.eindhoven.nl
 api.meldingen.almere.nl
@@ -669,6 +670,7 @@ api.meldingen.bergenopzoom.nl
 api.meldingen.bernheze.org
 api.meldingen.eindhoven.nl
 api.meldingen.gemeente-oldambt.nl
+api.meldingen.hattem.nl
 api.openstad.alphenaandenrijn.nl
 api.openstad.deventer.nl
 api.openstad.enschede.nl
@@ -871,6 +873,7 @@ autodiscover.haarlemmermeer.nl
 autodiscover.hap.haarlemmermeer.nl
 autodiscover.hardenberg.nl
 autodiscover.hardinxveld-giessendam.nl
+autodiscover.hattem.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.leefbaar.haarlemmermeer.nl
 autodiscover.noord.amsterdam.nl
@@ -1058,6 +1061,7 @@ belastingloket.echt-susteren.nl
 belastingloket.edam-volendam.nl
 belastingloket.elburg.nl
 belastingloket.emmen.nl
+belastingloket.hattem.nl
 belastingloketacc.emmen.nl
 belastingportaal-test.boxtel.nl
 belastingportaal-test.dinkelland.nl
@@ -1704,6 +1708,7 @@ digikoppeling.gorinchem.nl
 digikoppeling.gulpen-wittem.nl
 digikoppeling.haarlemmermeer.nl
 digikoppeling.halderberge.nl
+digikoppeling.hattem.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -2774,6 +2779,7 @@ hardinxveld-giessendam-checker-preprod.hardinxveld-giessendam.nl
 hardinxveld-giessendam-checker.hardinxveld-giessendam.nl
 hardinxveld-giessendam.nl
 harlingen.nl
+hattem.nl
 haven.deventer.nl
 havenkwartieraanzet.denhaag.nl
 hba.dpg.amsterdam.nl
@@ -2824,6 +2830,7 @@ huishoudboekje.amersfoort.nl
 huisvuilkalender.acc.denhaag.nl
 huisvuilkalender.denhaag.nl
 huisvuilkalender.gemeentewestland.nl
+hulpwijzer.hattem.nl
 hupextern.acc.denhaag.nl
 hvd.groningen.nl
 hwok-test.gemeentehw.nl
@@ -2937,6 +2944,7 @@ iburgerzaken.groningen.nl
 iburgerzaken.haaksbergen.nl
 iburgerzaken.haarlemmermeer.nl
 iburgerzaken.hardenberg.nl
+iburgerzaken.hattem.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -3003,6 +3011,7 @@ ibzpink.gooisemeren.nl
 ibzpink.groningen.nl
 ibzpink.haaksbergen.nl
 ibzpink.hardenberg.nl
+ibzpink.hattem.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -3115,6 +3124,7 @@ intern.formulieren.acc.amsterdam.nl
 intern.formulieren.amsterdam.nl
 internetafspraken.diemen.nl
 internetafspraken.gemeentebeek.nl
+internetafspraken.hattem.nl
 intra.deventer.nl
 intra.dordrecht.nl
 intra.gooisemeren.nl
@@ -3192,6 +3202,7 @@ iparticipatie.edam-volendam.nl
 iparticipatie.eijsden-margraten.nl
 iparticipatie.emmen.nl
 iparticipatie.haarlemmermeer.nl
+iparticipatie.hattem.nl
 ipp.haarlem.nl
 iris.acc.denhaag.nl
 iris.data.amsterdam.nl
@@ -3496,6 +3507,7 @@ loket.gemeentewestland.nl
 loket.haarlem.nl
 loket.haarlemmermeer.nl
 loket.hardinxveld-giessendam.nl
+loket.hattem.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
@@ -3690,6 +3702,7 @@ meldingen-acc.assen.nl
 meldingen-acc.bernheze.org
 meldingen-acc.enschede.nl
 meldingen-acc.gemeente-oldambt.nl
+meldingen-acc.hattem.nl
 meldingen.aaenhunze.nl
 meldingen.acc.almelo.nl
 meldingen.acc.denhaag.nl
@@ -3708,6 +3721,7 @@ meldingen.eindhoven.nl
 meldingen.enschede.nl
 meldingen.gemeente-oldambt.nl
 meldingen.groningen.nl
+meldingen.hattem.nl
 meldingenamsterdamsebos.amsterdam.nl
 meldingenkust.acc.denhaag.nl
 meldingenkust.denhaag.nl
@@ -4612,6 +4626,7 @@ preprod.alphenaandenrijn.nl
 preprod.clo.gemeentehulst.nl
 preprod.drimmelen.nl
 preprod.enkhuizen.nl
+preprod.hattem.nl
 preprod.vergunningintaker.bernheze.org
 preprodbroker.aalten.nl
 preprodbroker.bernheze.org
@@ -4767,6 +4782,7 @@ raad.gemeentemaastricht.nl
 raad.goirle.nl
 raad.gulpen-wittem.nl
 raad.hardinxveld-giessendam.nl
+raad.hattem.nl
 raadplegen.denhaag.nl
 raadsinformatie.eindhoven.nl
 raadsleden.eijsden-margraten.nl
@@ -4869,6 +4885,7 @@ ruimtelijkeplannen.deventer.nl
 ruimtelijkeplannen.dronten.nl
 ruimtelijkeplannen.gemert-bakel.nl
 ruimtelijkeplannen.gorinchem.nl
+ruimtelijkeplannen.hattem.nl
 ruimtevoorjou.groningen.nl
 rx-mission-publiceren.borne.nl
 rxlaunch-signicat-preprod.hardinxveld-giessendam.nl
@@ -5504,6 +5521,7 @@ test-ipa.edam-volendam.nl
 test-ipa.eijsden-margraten.nl
 test-ipa.emmen.nl
 test-ipa.haarlemmermeer.nl
+test-ipa.hattem.nl
 test-kaart.almere.nl
 test-kaarten.haarlemmermeer.nl
 test-kansshop.eemsdelta.nl
@@ -5588,6 +5606,7 @@ testafspraken.gemeentehw.nl
 testapps.haarlemmermeer.nl
 testbelastingloket.edam-volendam.nl
 testbelastingloket.elburg.nl
+testbelastingloket.hattem.nl
 testberichten.bergendal.nl
 testcms-binnenshuis.bergen.nl
 testcms-intranet.beuningen.nl
@@ -5614,6 +5633,7 @@ testinloggen.haarlemmermeer.nl
 testkaart.alphenaandenrijn.nl
 testloket.dinkelland.nl
 testloket.groningen.nl
+testloket.hattem.nl
 testmeldingen.asten.nl
 testmijn.haarlemmermeer.nl
 testmijnzaken.derondevenen.nl
@@ -5819,6 +5839,7 @@ volg.amsterdam.nl
 voorjaarsrapportage.haarlemmermeer.nl
 voormelding.groningen.nl
 voormeldingen.borne.nl
+voormeldingen.hattem.nl
 voorraad.top.amsterdam.nl
 voorschool.almere.nl
 vp.denhaag.nl
@@ -5906,6 +5927,7 @@ web.alblasserdam.nl
 web.dordrecht.nl
 web.gorinchem.nl
 web.haarlemmermeer.nl
+web.hattem.nl
 web01.deventer.nl
 web02.deventer.nl
 web2print.assen.nl
@@ -6505,6 +6527,7 @@ www.hardenberg.nl
 www.harderwijk.nl
 www.hardinxveld-giessendam.nl
 www.harlingen.nl
+www.hattem.nl
 www.havenkwartieraanzet.denhaag.nl
 www.hh2015.groningen.nl
 www.hier.groningen.nl

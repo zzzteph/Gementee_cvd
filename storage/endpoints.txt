@@ -72,6 +72,7 @@ http://autodiscover.haaksbergen.nl
 http://autodiscover.haarlemmermeer.nl
 http://autodiscover.hardenberg.nl
 http://autodiscover.hardinxveld-giessendam.nl
+http://autodiscover.hattem.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
 http://bouwdossiers.stadsarchief.breda.nl
@@ -580,6 +581,7 @@ https://api.meldingen-acc.assen.nl
 https://api.meldingen-acc.bernheze.org
 https://api.meldingen-acc.enschede.nl
 https://api.meldingen-acc.gemeente-oldambt.nl
+https://api.meldingen-acc.hattem.nl
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.acceptatie.eindhoven.nl
 https://api.meldingen.almere.nl
@@ -591,6 +593,7 @@ https://api.meldingen.bergenopzoom.nl
 https://api.meldingen.bernheze.org
 https://api.meldingen.eindhoven.nl
 https://api.meldingen.gemeente-oldambt.nl
+https://api.meldingen.hattem.nl
 https://api.openstad.alphenaandenrijn.nl
 https://api.openstad.deventer.nl
 https://api.openstad.enschede.nl
@@ -759,6 +762,7 @@ https://belastingloket.barneveld.nl
 https://belastingloket.edam-volendam.nl
 https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
+https://belastingloket.hattem.nl
 https://belastingportaal-test.boxtel.nl
 https://belastingportaal-test.dinkelland.nl
 https://belastingportaal.aaenhunze.nl
@@ -1718,6 +1722,7 @@ https://harderwijk.nl
 https://hardinxveld-giessendam-checker-preprod.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam-checker.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam.nl
+https://hattem.nl
 https://haven.deventer.nl
 https://havenkwartieraanzet.denhaag.nl
 https://heiligen.deventer.nl
@@ -1751,6 +1756,7 @@ https://htb-prod.gemeente-steenbergen.nl
 https://hub.gemeentemaastricht.nl
 https://huishoudboekje.amersfoort.nl
 https://huisvuilkalender.denhaag.nl
+https://hulpwijzer.hattem.nl
 https://hwok-test.gemeentehw.nl
 https://hwok.gemeentehw.nl
 https://hybrid.almere.nl
@@ -1829,6 +1835,7 @@ https://iburgerzaken.gooisemeren.nl
 https://iburgerzaken.groningen.nl
 https://iburgerzaken.haaksbergen.nl
 https://iburgerzaken.hardenberg.nl
+https://iburgerzaken.hattem.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -1898,6 +1905,7 @@ https://intens.enschede.nl
 https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
+https://internetafspraken.hattem.nl
 https://intra.deventer.nl
 https://intra.dordrecht.nl
 https://intra.gooisemeren.nl
@@ -2087,6 +2095,7 @@ https://loket.duiven.nl
 https://loket.geertruidenberg.nl
 https://loket.gemeentewesterveld.nl
 https://loket.hardinxveld-giessendam.nl
+https://loket.hattem.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lyncdiscover.diemen.nl
@@ -2147,6 +2156,7 @@ https://meldingen-acc.assen.nl
 https://meldingen-acc.bernheze.org
 https://meldingen-acc.enschede.nl
 https://meldingen-acc.gemeente-oldambt.nl
+https://meldingen-acc.hattem.nl
 https://meldingen.aaenhunze.nl
 https://meldingen.acc.almelo.nl
 https://meldingen.acc.denhaag.nl
@@ -2165,6 +2175,7 @@ https://meldingen.eindhoven.nl
 https://meldingen.enschede.nl
 https://meldingen.gemeente-oldambt.nl
 https://meldingen.groningen.nl
+https://meldingen.hattem.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenkust.acc.denhaag.nl
 https://meldingenkust.denhaag.nl
@@ -2711,6 +2722,7 @@ https://preprod-mijnsociaalplein.gemeentemaashorst.nl
 https://preprod-mijnzorg.denhelder.nl
 https://preprod-sociaalportaal.dinkelland.nl
 https://preprod.drimmelen.nl
+https://preprod.hattem.nl
 https://preprod.vergunningintaker.bernheze.org
 https://preprodbroker.aalten.nl
 https://preprodbroker.bernheze.org
@@ -2790,6 +2802,7 @@ https://raad.gemeente-steenbergen.nl
 https://raad.gemeentemaastricht.nl
 https://raad.goirle.nl
 https://raad.hardinxveld-giessendam.nl
+https://raad.hattem.nl
 https://raadplegen.denhaag.nl
 https://rap.gemeentesluis.nl
 https://redactie-extern.denhaag.nl
@@ -3117,6 +3130,7 @@ https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
 https://testbelastingloket.edam-volendam.nl
 https://testbelastingloket.elburg.nl
+https://testbelastingloket.hattem.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
 https://testdigikoppeling.haarlemmermeer.nl
@@ -3136,6 +3150,7 @@ https://testeloket.harlingen.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testinloggen.haarlemmermeer.nl
+https://testloket.hattem.nl
 https://testmeldingen.asten.nl
 https://testmijnzaken.derondevenen.nl
 https://testportaal.almelo.nl
@@ -3280,6 +3295,7 @@ https://wdm01.gooisemeren.nl
 https://web.alblasserdam.nl
 https://web.dordrecht.nl
 https://web.gorinchem.nl
+https://web.hattem.nl
 https://web01.deventer.nl
 https://web02.deventer.nl
 https://webcams.gouda.nl
@@ -3596,6 +3612,7 @@ https://www.halderberge.nl
 https://www.hardenberg.nl
 https://www.harderwijk.nl
 https://www.hardinxveld-giessendam.nl
+https://www.hattem.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl
