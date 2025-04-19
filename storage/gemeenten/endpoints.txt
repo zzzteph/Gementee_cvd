@@ -31,6 +31,7 @@ http://autodiscover.coevorden.nl
 http://autodiscover.cranendonck.nl
 http://autodiscover.dalfsen.nl
 http://autodiscover.dantumadiel.frl
+http://autodiscover.debilt.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://cms-binnenshuis.bergen.nl
@@ -183,6 +184,7 @@ https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.asten.nl
 https://acceptatie.baarle-nassau.nl
+https://acceptatie.intranet.debilt.nl
 https://accisdtalentcenter.bergenopzoom.nl
 https://activiteiten.amsterdam.nl
 https://adfs.beekdaelen.nl
@@ -501,6 +503,7 @@ https://dataacc.breda.nl
 https://datalab.alkmaar.nl
 https://dataportaal.apeldoorn.nl
 https://debelastingbalie.amersfoort.nl
+https://debilt.nl
 https://deboswinkel.amsterdam.nl
 https://declaratieformulier.dwi.amsterdam.nl
 https://decosafs.amsterdam.nl
@@ -902,6 +905,7 @@ https://intranet.amsterdam.nl
 https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
 https://intranet.bernheze.org
+https://intranet.debilt.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms.bergendal.nl
 https://intunecollector.amsterdam.nl
@@ -928,6 +932,7 @@ https://jvvs.amsterdam.nl
 https://kaart.amersfoort.nl
 https://kaart.amsterdam.nl
 https://kaart.bergendal.nl
+https://kaart.debilt.nl
 https://kaarten.boxtel.nl
 https://kaarten.buren.nl
 https://kaartviewer.barneveld.nl
@@ -1030,6 +1035,7 @@ https://mijn.baarn.nl
 https://mijn.beuningen.nl
 https://mijn.bronckhorst.nl
 https://mijn.buren.nl
+https://mijn.debilt.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -1405,9 +1411,15 @@ https://subsidie.almelo.nl
 https://subsidiebeheer.alkmaar.nl
 https://subsidieloket.alkmaar.nl
 https://subsidies-backend.acceptatie.almelo.nl
+https://subsidies-backend.acceptatie.debilt.nl
 https://subsidies-backend.almelo.nl
+https://subsidies-backend.debilt.nl
+https://subsidies-login.acceptatie.debilt.nl
+https://subsidies-login.debilt.nl
 https://subsidies.acceptatie.almelo.nl
+https://subsidies.acceptatie.debilt.nl
 https://subsidies.almelo.nl
+https://subsidies.debilt.nl
 https://summit-ft.amsterdam.nl
 https://summit.tst.amsterdam.nl
 https://surveys3.ggd.amsterdam.nl
@@ -1612,6 +1624,7 @@ https://www.cranendonck.nl
 https://www.crk.amsterdam.nl
 https://www.culemborg.nl
 https://www.dantumadiel.frl
+https://www.debilt.nl
 https://www.doemee.bloemendaal.nl
 https://www.duurzaam.alphenaandenrijn.nl
 https://www.duurzaam.barneveld.nl
@@ -1669,6 +1682,7 @@ https://zaakloket.ameland.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
 https://zaaksysteem-accept.beuningen.nl
+https://zaaksysteem-accept.debilt.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl
 https://zec.acc.amsterdam.nl
