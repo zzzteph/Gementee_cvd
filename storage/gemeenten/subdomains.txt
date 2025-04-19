@@ -569,6 +569,7 @@ autodiscover.derondevenen.nl
 autodiscover.deventer.nl
 autodiscover.dewolden.nl
 autodiscover.dongen.nl
+autodiscover.dordrecht.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -677,6 +678,7 @@ berichten.alphen-chaam.nl
 berichten.baarle-nassau.nl
 berichten.bergendal.nl
 berichten.cranendonck.nl
+berichten.dordrecht.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtverkeer.acc.amsterdam.nl
 berichtverkeer.amsterdam.nl
@@ -854,6 +856,7 @@ cms-binnenshuis.bergen.nl
 cms-joost.beuningen.nl
 cms.alphenaandenrijn.nl
 cms.bernheze.org
+cms.dordrecht.nl
 cms.openstad.deventer.nl
 cmsbink.beverwijk.nl
 cmsdieuwke.defryskemarren.nl
@@ -870,6 +873,7 @@ cognos.brunssum.nl
 collecties.dantumadiel.frl
 college.alblasserdam.nl
 college.albrandswaard.nl
+college.dordrecht.nl
 communication.denhelder.nl
 comoverheidacc.breda.nl
 conference.assen.nl
@@ -1158,6 +1162,7 @@ doesburg.nl
 doetinchem.nl
 doewatmoet-acc.denhaag.nl
 dongen.nl
+dordrecht.nl
 download.castricum.nl
 drc.data.amsterdam.nl
 druktebeeld.amsterdam.nl
@@ -1211,6 +1216,7 @@ e-loket.bergen.nl
 e-loketstaging.bergen.nl
 e-net.amsterdam.nl
 e-net.intranet.amsterdam.nl
+e-tstsys.dordrecht.nl
 e.achtkarspelen.nl
 e.almelo.nl
 e.borger-odoorn.nl
@@ -1256,6 +1262,7 @@ edienstenburgerzaken-test.dinkelland.nl
 edienstenburgerzaken-test.doesburg.nl
 edienstenburgerzaken-test.doetinchem.nl
 edienstenburgerzaken-test.dongen.nl
+edienstenburgerzaken-test.dordrecht.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -1284,6 +1291,7 @@ edienstenburgerzaken.dinkelland.nl
 edienstenburgerzaken.doesburg.nl
 edienstenburgerzaken.doetinchem.nl
 edienstenburgerzaken.dongen.nl
+edienstenburgerzaken.dordrecht.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1623,16 +1631,22 @@ gis.apeldoorn.nl
 gis.assen.nl
 gis.breda.nl
 gisib-test.alblasserdam.nl
+gisib-test.dordrecht.nl
 gisib.acc.amsterdam.nl
 gisib.acc.meldingen.amsterdam.nl
 gisib.alblasserdam.nl
 gisib.amsterdam.nl
+gisib.dordrecht.nl
 gisib.meldingen.amsterdam.nl
 gisib.tst.amsterdam.nl
 gisibapi-test.alblasserdam.nl
+gisibapi-test.dordrecht.nl
 gisibapi.alblasserdam.nl
+gisibapi.dordrecht.nl
 gisibgeoserver-test.alblasserdam.nl
+gisibgeoserver-test.dordrecht.nl
 gisibgeoserver.alblasserdam.nl
+gisibgeoserver.dordrecht.nl
 gisibonline.beesel.nl
 gisibonline.denhelder.nl
 gisweb.dijkenwaard.nl
@@ -1890,6 +1904,7 @@ intern.formulieren.acc.amsterdam.nl
 intern.formulieren.amsterdam.nl
 internetafspraken.diemen.nl
 intra.deventer.nl
+intra.dordrecht.nl
 intranet-acc.bergendal.nl
 intranet-acc.borne.nl
 intranet-acc.delft.nl
@@ -2107,6 +2122,7 @@ loket.acceptatie.amstelveen.nl
 loket.acceptatie.barendrecht.nl
 loket.acceptatie.coevorden.nl
 loket.acceptatie.dantumadiel.frl
+loket.acceptatie.dordrecht.nl
 loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
@@ -2120,6 +2136,7 @@ loket.bunnik.nl
 loket.coevorden.nl
 loket.dantumadiel.frl
 loket.diemen.nl
+loket.dordrecht.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
@@ -2922,6 +2939,7 @@ raad.asten.nl
 raad.bergendal.nl
 raad.brummen.nl
 raad.delft.nl
+raad.dordrecht.nl
 raadplegen.denhaag.nl
 raadsnet.aalten.nl
 raadsnet.bernheze.org
@@ -2978,6 +2996,7 @@ rom.authenticatie.alkmaar.nl
 rooster.arnhem.nl
 rooster.denhelder.nl
 rooster.top.amsterdam.nl
+router.dordrecht.nl
 rp.beverwijk.nl
 rpl3.alphenaandenrijn.nl
 rpl3.amsterdam.nl
@@ -3317,8 +3336,12 @@ stuf-hermes-integratie.amsterdam.nl
 su044v123.amsterdam.nl
 su044v125.amsterdam.nl
 subsidie-feiten.amsterdam.nl
+subsidie.acceptatie.dordrecht.nl
 subsidie.almelo.nl
 subsidie.delft.nl
+subsidie.dordrecht.nl
+subsidiebackoffice.acceptatie.dordrecht.nl
+subsidiebackoffice.dordrecht.nl
 subsidiebeheer.alkmaar.nl
 subsidiebeheer.delft.nl
 subsidieloket.alkmaar.nl
@@ -3604,6 +3627,7 @@ wbs003.assen.nl
 wbs004.assen.nl
 wcs.amersfoort.nl
 web.alblasserdam.nl
+web.dordrecht.nl
 web01.deventer.nl
 web02.deventer.nl
 web2print.assen.nl
@@ -3703,6 +3727,7 @@ wijkbudgetleidschenveen.denhaag.nl
 wijkbudgetvruchtenbuurt.denhaag.nl
 wijkbudgetwaldeck.denhaag.nl
 wijkbudgetypenburg.denhaag.nl
+wijken.dordrecht.nl
 wijkteams.almere.nl
 wijzer.acceptatie.coevorden.nl
 wijzer.coevorden.nl
@@ -3895,6 +3920,7 @@ www.doesburg.nl
 www.doetinchem.nl
 www.doewatmoet-acc.denhaag.nl
 www.dongen.nl
+www.dordrecht.nl
 www.dro.amsterdam.nl
 www.duinoordfietst.denhaag.nl
 www.duurzaam.alphenaandenrijn.nl

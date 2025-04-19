@@ -39,6 +39,7 @@ http://autodiscover.derondevenen.nl
 http://autodiscover.deventer.nl
 http://autodiscover.dewolden.nl
 http://autodiscover.dongen.nl
+http://autodiscover.dordrecht.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
 http://bouwdossiers.stadsarchief.breda.nl
@@ -487,6 +488,7 @@ https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
 https://berichten.cranendonck.nl
+https://berichten.dordrecht.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -592,6 +594,7 @@ https://clicksfm.capelleaandenijssel.nl
 https://cloudrecorder.denhaag.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
+https://cms.dordrecht.nl
 https://cms.openstad.deventer.nl
 https://cmsbink.beverwijk.nl
 https://cmsdieuwke.defryskemarren.nl
@@ -606,6 +609,7 @@ https://coevorden.nl
 https://collecties.dantumadiel.frl
 https://college.alblasserdam.nl
 https://college.albrandswaard.nl
+https://college.dordrecht.nl
 https://connect-preprod.almere.nl
 https://consent.sarphati.amsterdam.nl
 https://contact.antwoord.amsterdam.nl
@@ -736,6 +740,7 @@ https://doemee.bloemendaal.nl
 https://doemee.denhaag.nl
 https://doemee.deventer.nl
 https://dongen.nl
+https://dordrecht.nl
 https://druktebeeld.amsterdam.nl
 https://dso.data.amsterdam.nl
 https://duinoordfietst.denhaag.nl
@@ -767,6 +772,7 @@ https://e-file-p-08.adds.amsterdam.nl
 https://e-loket.apeldoorn.nl
 https://e-loket.bergen.nl
 https://e-loketstaging.bergen.nl
+https://e-tstsys.dordrecht.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
 https://e.borger-odoorn.nl
@@ -809,6 +815,7 @@ https://edienstenburgerzaken-test.dinkelland.nl
 https://edienstenburgerzaken-test.doesburg.nl
 https://edienstenburgerzaken-test.doetinchem.nl
 https://edienstenburgerzaken-test.dongen.nl
+https://edienstenburgerzaken-test.dordrecht.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -837,6 +844,7 @@ https://edienstenburgerzaken.dinkelland.nl
 https://edienstenburgerzaken.doesburg.nl
 https://edienstenburgerzaken.doetinchem.nl
 https://edienstenburgerzaken.dongen.nl
+https://edienstenburgerzaken.dordrecht.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1040,13 +1048,19 @@ https://ggd.amsterdam.nl
 https://gis.assen.nl
 https://gis.breda.nl
 https://gisib-test.alblasserdam.nl
+https://gisib-test.dordrecht.nl
 https://gisib.acc.meldingen.amsterdam.nl
 https://gisib.alblasserdam.nl
+https://gisib.dordrecht.nl
 https://gisib.meldingen.amsterdam.nl
 https://gisibapi-test.alblasserdam.nl
+https://gisibapi-test.dordrecht.nl
 https://gisibapi.alblasserdam.nl
+https://gisibapi.dordrecht.nl
 https://gisibgeoserver-test.alblasserdam.nl
+https://gisibgeoserver-test.dordrecht.nl
 https://gisibgeoserver.alblasserdam.nl
+https://gisibgeoserver.dordrecht.nl
 https://gisibonline.beesel.nl
 https://gitops.acc.denhaag.nl
 https://gitops.dev.denhaag.nl
@@ -1190,6 +1204,7 @@ https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
 https://intra.deventer.nl
+https://intra.dordrecht.nl
 https://intranet-acc.borne.nl
 https://intranet-acc.delft.nl
 https://intranet-cms.bernheze.org
@@ -1306,6 +1321,7 @@ https://loket.acceptatie.albrandswaard.nl
 https://loket.acceptatie.amstelveen.nl
 https://loket.acceptatie.barendrecht.nl
 https://loket.acceptatie.dantumadiel.frl
+https://loket.acceptatie.dordrecht.nl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.amstelveen.nl
@@ -1313,6 +1329,7 @@ https://loket.barendrecht.nl
 https://loket.bunnik.nl
 https://loket.dantumadiel.frl
 https://loket.diemen.nl
+https://loket.dordrecht.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lyncdiscover.diemen.nl
@@ -1776,6 +1793,7 @@ https://raad.arnhem.nl
 https://raad.asten.nl
 https://raad.bergendal.nl
 https://raad.brummen.nl
+https://raad.dordrecht.nl
 https://raadplegen.denhaag.nl
 https://redactie-extern.denhaag.nl
 https://redactie.amersfoort.nl
@@ -1953,8 +1971,12 @@ https://stroomlijntest.derondevenen.nl
 https://stroomt.deventer.nl
 https://sts.assen.nl
 https://sts.delft.nl
+https://subsidie.acceptatie.dordrecht.nl
 https://subsidie.almelo.nl
 https://subsidie.delft.nl
+https://subsidie.dordrecht.nl
+https://subsidiebackoffice.acceptatie.dordrecht.nl
+https://subsidiebackoffice.dordrecht.nl
 https://subsidiebeheer.alkmaar.nl
 https://subsidiebeheer.delft.nl
 https://subsidieloket.alkmaar.nl
@@ -2094,6 +2116,7 @@ https://wachtwoordreset.almere.nl
 https://wachtwoordvergeten.amsterdam.nl
 https://water.deventer.nl
 https://web.alblasserdam.nl
+https://web.dordrecht.nl
 https://web01.deventer.nl
 https://web02.deventer.nl
 https://webcamslingerweg.breda.nl
@@ -2145,6 +2168,7 @@ https://wijkbudgetleidschenveen.denhaag.nl
 https://wijkbudgetvruchtenbuurt.denhaag.nl
 https://wijkbudgetwaldeck.denhaag.nl
 https://wijkbudgetypenburg.denhaag.nl
+https://wijken.dordrecht.nl
 https://wijkteams.almere.nl
 https://winkelen.deventer.nl
 https://wmoportaal.ot.amsterdam.nl
@@ -2262,6 +2286,7 @@ https://www.doemee.denhaag.nl
 https://www.doemee.deventer.nl
 https://www.doetinchem.nl
 https://www.dongen.nl
+https://www.dordrecht.nl
 https://www.duinoordfietst.denhaag.nl
 https://www.duurzaam.alphenaandenrijn.nl
 https://www.duurzaam.barneveld.nl
