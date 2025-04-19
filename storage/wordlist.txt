@@ -12,12 +12,12 @@ afspraken
 webmail
 secure
 simcms
-digikoppeling
 mijn
 preproductie
+digikoppeling
 acceptatie
-loket
 probeer
+loket
 test
 felix
 formulieren
@@ -64,9 +64,10 @@ openpub
 osb
 werkenbij
 hybrid
-test-ipa
 mijninkomen
+test-ipa
 piwik
+preprod-mijninkomen
 berichten
 acc-broker
 woningbouwkaart
@@ -77,9 +78,10 @@ meldingen-acc
 _autodiscover._tcp
 belastingen
 kaart
-preprod-mijninkomen
+snelbalie
 enterpriseregistration
 belastingbalie
+nieuwsbrief
 test-intranet
 filecap
 api.meldingen-acc
@@ -87,13 +89,12 @@ mijnzorg-acc
 preprodbroker
 portaal
 verkiezingen
-snelbalie
+snelbaliepp
 siam
 financien
 beeldbank
 gemeente
 mks
-nieuwsbrief
 acc-podiumd-logs
 keycloak
 podiumd-logs
@@ -111,7 +112,6 @@ subsidies
 evenementen
 duurzaam
 mailing
-snelbaliepp
 ns
 qr
 digikoppeling.test
@@ -132,6 +132,7 @@ sts
 belastingloket
 govroam
 simcms-open
+uc
 www.webmail
 mobile
 smtp
@@ -150,6 +151,7 @@ denkmee
 e
 simform
 gisib
+praatmee
 izaaksuite
 wachtwoord
 flowmailer-tracking
@@ -179,10 +181,10 @@ openformulieren
 openklant
 test-digikoppeling
 klantcontact
+meedoen
 samen
 formulieren-test
 uca
-uc
 www.doemee
 jaarstukken
 inloggen
@@ -192,7 +194,6 @@ cmsintranet
 documenten
 geovisia
 college
-praatmee
 preprod-mijn
 www.werkenbij
 subsidie
@@ -237,7 +238,6 @@ test-openzaak
 test-podiumd-logs
 test-zac
 obsurv
-meedoen
 publicaties
 byod
 fmreturn
@@ -269,6 +269,7 @@ admin.openstad
 auth.openstad
 img.openstad
 openformulieren-test
+webdav
 squit2020.acceptatie
 squit2020
 afspraakmaken
@@ -465,7 +466,6 @@ parkeren-siam
 centric
 belastingbalie-test
 eformulieren
-webdav
 router
 klantportaal.acc
 prod
@@ -3465,3 +3465,13 @@ mijntalent-acc
 mijntalent
 spam
 belastingen-test
+clicksfm.nieuwsbrief
+dashboard-iav-api
+dashboard-iav
+marketingtools
+test-meedoen
+ucaccess01
+ucc01
+ucconf01
+ucweb01-ext
+www.marketingtools
