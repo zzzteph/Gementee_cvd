@@ -334,6 +334,7 @@ https://bikecity.amsterdam.nl
 https://bink.beverwijk.nl
 https://binnenshuis.bergen.nl
 https://bladel.nl
+https://blaricum.nl
 https://bmidms.amsterdam.nl
 https://bomen.amsterdam.nl
 https://bomen.ont.amsterdam.nl
@@ -678,6 +679,7 @@ https://iburgerzaken.bergenopzoom.nl
 https://iburgerzaken.bernheze.org
 https://iburgerzaken.beuningen.nl
 https://iburgerzaken.bladel.nl
+https://iburgerzaken.blaricum.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -1270,6 +1272,7 @@ https://www.beesel.nl
 https://www.bergen-nh.nl
 https://www.bernheze.org
 https://www.bikecity.amsterdam.nl
+https://www.blaricum.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl

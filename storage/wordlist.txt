@@ -17,9 +17,9 @@ felix
 mijn
 loket
 api.meldingen
+digikoppeling
 data
 preproductie
-digikoppeling
 test
 loket.acceptatie
 mijnzorg
@@ -76,6 +76,7 @@ login
 formulier
 ns
 atlas
+digikoppeling.test
 open
 obsurv
 klantcontact
@@ -140,7 +141,6 @@ financien
 onderzoek
 qr
 beeldbank
-digikoppeling.test
 jcc
 aanmeldenparkeren
 dataportaal
@@ -1869,3 +1869,5 @@ test-bink
 test-cmsbink
 uc
 pki
+NLGEMBRC
+nlgembrc
