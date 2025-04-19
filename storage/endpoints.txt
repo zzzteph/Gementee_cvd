@@ -1243,6 +1243,7 @@ https://edienstenburgerzaken-test.goeree-overflakkee.nl
 https://edienstenburgerzaken-test.gorinchem.nl
 https://edienstenburgerzaken-test.gouda.nl
 https://edienstenburgerzaken-test.gulpen-wittem.nl
+https://edienstenburgerzaken-test.halderberge.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1290,6 +1291,7 @@ https://edienstenburgerzaken.goeree-overflakkee.nl
 https://edienstenburgerzaken.gorinchem.nl
 https://edienstenburgerzaken.gouda.nl
 https://edienstenburgerzaken.gulpen-wittem.nl
+https://edienstenburgerzaken.halderberge.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1445,6 +1447,7 @@ https://felix.bronckhorst.nl
 https://felix.bunschoten.nl
 https://felix.eersel.nl
 https://felix.geldrop-mierlo.nl
+https://felix.halderberge.nl
 https://fgt.amstelveen.nl
 https://filecap.breda.nl
 https://filecap.drimmelen.nl
@@ -1461,6 +1464,7 @@ https://financials.apeldoorn.nl
 https://financialstest.derondevenen.nl
 https://financieel.delft.nl
 https://financieelportaal.etten-leur.nl
+https://financieelportaal.halderberge.nl
 https://financielestukken.diemen.nl
 https://financien.amersfoort.nl
 https://financien.arnhem.nl
@@ -1535,6 +1539,7 @@ https://frontoffice-parkeervergunningen-acc.beverwijk.nl
 https://frontoffice-parkeervergunningen.beverwijk.nl
 https://fs.beverwijk.nl
 https://fs.haarlem.nl
+https://fs.halderberge.nl
 https://ftp.afs.acc.amsterdam.nl
 https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
@@ -1585,6 +1590,7 @@ https://gemeenteraad.etten-leur.nl
 https://gemeenteraad.gemeentemaashorst.nl
 https://gemeenteraad.groningen.nl
 https://gemeenteraad.haarlemmermeer.nl
+https://gemeenteraad.halderberge.nl
 https://gemeentesluis.nl
 https://gemeentestein.nl
 https://gemeentewesterveld.nl
@@ -1674,6 +1680,8 @@ https://haal-centraal.api.data.amsterdam.nl
 https://haarlem.nl
 https://haarlemmerliederaad.haarlemmermeer.nl
 https://haarlemmermeer.nl
+https://halbox.halderberge.nl
+https://halnet.halderberge.nl
 https://handboekdibor.ede.nl
 https://haven.deventer.nl
 https://havenkwartieraanzet.denhaag.nl
@@ -2222,6 +2230,7 @@ https://mijnwiz.geertruidenberg.nl
 https://mijnwoonomgeving.deventer.nl
 https://mijnws.amsterdam.nl
 https://mijnzaken.derondevenen.nl
+https://mijnzaken.halderberge.nl
 https://mijnzi.beuningen.nl
 https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
@@ -2401,6 +2410,7 @@ https://online.gooisemeren.nl
 https://onlinedorpsgesprek.ermelo.nl
 https://onlineregelen.alphenaandenrijn.nl
 https://onlineregelenstaging.alphenaandenrijn.nl
+https://ons.halderberge.nl
 https://ont.api.amsterdam.nl
 https://ont.bp.data.amsterdam.nl
 https://ont.io.amsterdam.nl
@@ -2423,6 +2433,7 @@ https://open.epe.nl
 https://open.gemeentestein.nl
 https://open.gooisemeren.nl
 https://open.gorinchem.nl
+https://open.halderberge.nl
 https://openbareruimte.deventer.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
@@ -2672,6 +2683,7 @@ https://preproductiebroker.gemeentewesterveld.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://privacybewustzijn.bergendal.nl
 https://private.delft.nl
+https://probeer.halderberge.nl
 https://programmabegroting.bronckhorst.nl
 https://programmabegroting.gemeente-steenbergen.nl
 https://programmabegroting.haarlemmermeer.nl
@@ -2758,6 +2770,7 @@ https://rnd.amsterdam.nl
 https://ro-online.alphenaandenrijn.nl
 https://ro.emmen.nl
 https://ro.gemeenteberkelland.nl
+https://ro.halderberge.nl
 https://rooster.arnhem.nl
 https://rooster.denhelder.nl
 https://roplan.haarlemmermeer.nl
@@ -2857,6 +2870,7 @@ https://simcms.bronckhorst.nl
 https://simcms.deurne.nl
 https://simcms.echt-susteren.nl
 https://simcms.eersel.nl
+https://simcms.halderberge.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform.gemeentehw.nl
 https://simform.gemeentemaasgouw.nl
@@ -3235,6 +3249,7 @@ https://webmail.gemeentestein.nl
 https://webmail.gemert-bakel.nl
 https://webmail.haarlem.nl
 https://webmail.haarlemmermeer.nl
+https://webmail.halderberge.nl
 https://webmeeting.brunssum.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
@@ -3278,6 +3293,7 @@ https://werkplek.gemeenteberkelland.nl
 https://werkplek.gemeentehw.nl
 https://werkplek.gooisemeren.nl
 https://werkplek.haarlemmermeer.nl
+https://werkplek.halderberge.nl
 https://werkplek01.derondevenen.nl
 https://werkplek02.derondevenen.nl
 https://werving.amsterdam.nl
@@ -3519,6 +3535,7 @@ https://www.gulpen-wittem.nl
 https://www.haaksbergen.nl
 https://www.haarlem.nl
 https://www.haarlemmermeer.nl
+https://www.halderberge.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl
@@ -3658,6 +3675,7 @@ https://zaaksysteem-accept.etten-leur.nl
 https://zaaksysteem-accept.gemeenteberkelland.nl
 https://zaaksysteem-accept.gooisemeren.nl
 https://zaaksysteem-accept.gouda.nl
+https://zaaksysteem-accept.halderberge.nl
 https://zaaksysteem.ede.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl
