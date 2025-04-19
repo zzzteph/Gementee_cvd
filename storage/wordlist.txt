@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 secure
 intranet
 simcms
-afspraken
 simsite
+afspraken
 mijn
 mail
 preproductie
@@ -22,13 +22,13 @@ acceptatie
 test
 dkd
 acc
-portal
 formulieren
+portal
 adfs
 meldingen
+data
 gemeenteraad
 afspraak
-data
 eloket
 enterpriseenrollment
 loket.acceptatie
@@ -38,6 +38,7 @@ vpn
 betalen
 api.meldingen
 geo
+remote
 mijnzorg
 raad
 werkplek
@@ -45,7 +46,6 @@ omgevingsvisie
 parkeren
 waarmerk
 open
-remote
 broker
 zaken
 openpdc
@@ -163,11 +163,13 @@ simcms-preproductie
 formulieren-test
 acceptatieloket
 uca
+data-test
 intranet-acc
 simcms-open
 doemee
 www.doemee
 wozloket
+www.jongin
 kaarten
 filecap
 connect.acceptatie
@@ -301,7 +303,6 @@ mijnsociaalportaal-acc
 mijnsociaalportaal
 preprod-mijnsociaalplein
 wij
-data-test
 data.gemnet
 intranetcms
 esb
@@ -318,7 +319,7 @@ dtestloket
 wozloket-acc
 gp
 mobile
-www.jongin
+jongin
 belastingportaal-test
 projecten
 dtestmidoffice
@@ -344,6 +345,7 @@ transfer
 burgerloket
 filr
 ondernemersloket
+forms
 intra
 openformulieren-test
 centric
@@ -1975,7 +1977,6 @@ brsoribi01
 brsoribi02
 grmks06
 jcccloud
-jongin
 Belastingportaal-test
 netwerk
 preprod-mijnoverzicht
@@ -2708,7 +2709,6 @@ durplandelijkevoorziening
 e.mailings
 eaptls
 fba
-forms
 gezinscoach
 haven
 heiligen
@@ -2864,3 +2864,9 @@ test-dok
 test.afspraakmaken
 test.services
 vergunningen
+forms-test
+kcv
+www.remote
+www.zorgloket
+zmm
+zorgloket
