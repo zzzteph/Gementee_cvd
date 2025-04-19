@@ -77,12 +77,14 @@ financien
 formulier
 gemeente
 nieuwsbrief
+bgt
 cloudadapter-test
 cloudadapter
 api.meldingen-acc
 loket.test
 www.acceptatie
 denkmee
+e
 kennisbank
 zaaksysteem-accept
 hybrid
@@ -93,15 +95,15 @@ afvalkalender
 www.duurzaam
 siam
 ns
+mks
 parkeren-acc
 acc-broker
-bgt
 test-digikoppeling
+woningbouwkaart
 klantcontact
 mdm
 belastingportaal
 midoffice
-e
 portaal
 praatmee
 preprod-mijn
@@ -124,7 +126,6 @@ digikoppeling.test
 email
 ftp
 legacy
-mks
 parkeervergunningen
 wob
 www.acc
@@ -136,7 +137,6 @@ opendata
 www.raad
 bag
 media
-woningbouwkaart
 obsurv
 extranet
 gasten
@@ -150,6 +150,7 @@ wozloket
 smtp
 kaarten
 AutoDiscover
+outlook
 belastingportaal.acc
 fs
 inloggen.belastingportaal
@@ -255,6 +256,7 @@ acc-podiumd-logs
 bastion365
 bis
 keycloak
+openformulieren
 podiumd-logs
 sip
 sts
@@ -313,7 +315,6 @@ zaken.test
 ris
 archief
 kennisportaal
-outlook
 webapps
 email.mail.participatie
 participatie
@@ -1715,7 +1716,6 @@ mijnplein
 notificaties
 objecten
 objecttypen
-openformulieren
 openklant
 organisatieontwikkeling
 owa
@@ -2758,3 +2758,5 @@ www.openstad
 www.staging
 www.vvv
 zorgaanbieders
+begraven
+openformulieren-test
