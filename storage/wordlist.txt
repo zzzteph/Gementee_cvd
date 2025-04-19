@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 intranet
 secure
-afspraken
 simcms
+afspraken
 edienstenburgerzaken-test
 simsite
 mijn
@@ -53,6 +53,7 @@ _autodiscover._tcp
 iparticipatie
 zaken
 openpub
+mijninkomen
 snelbalie
 digikoppeling-test
 testeloket
@@ -70,8 +71,8 @@ openpdc
 verkiezingen
 osb
 zaaksysteem-accept
-mijninkomen
 evenementen
+preprod-mijninkomen
 duurzaam
 enterpriseregistration
 login
@@ -90,7 +91,6 @@ e
 kennisbank
 portaal
 hybrid
-preprod-mijninkomen
 thuiswerken
 berichten
 afvalkalender
@@ -136,6 +136,7 @@ gis
 mijngeldzaken
 ns1
 opendata
+woo
 www.raad
 bag
 bastion365
@@ -156,6 +157,7 @@ wozloket
 smtp
 kaarten
 AutoDiscover
+connect
 outlook
 belastingportaal.acc
 fs
@@ -256,7 +258,6 @@ ns2
 rooster
 sslvpn
 testdigid
-woo
 acc-podiumd-logs
 afval
 bis
@@ -309,7 +310,6 @@ logilink
 mbg
 medewerkers
 connect.acceptatie
-connect
 connect.test
 contentbeheer.acceptatie
 contentbeheer
@@ -2793,3 +2793,12 @@ preprod-sociaalportaal
 serverruimte
 sociaalportaal
 testloket
+centric
+efactuur
+felixpdc
+menscentraal
+sim-prefill
+sim-preproductie
+simcms-woo
+vraagbaak
+www.vraagbaak
