@@ -37,6 +37,7 @@ http://woz.amsterdam.nl
 http://www.baarn.nl
 http://www.bba.amsterdam.nl
 http://www.beekdaelen.nl
+http://www.bergeijk.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
 http://www.nieuwwest.amsterdam.nl
@@ -501,6 +502,7 @@ https://evenementen.almere.nl
 https://fblocatielijst.amsterdam.nl
 https://fbtools.amsterdam.nl
 https://felix.achtkarspelen.nl
+https://felix.bergeijk.nl
 https://fgt.amstelveen.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -592,6 +594,7 @@ https://iburgerzaken.assen.nl
 https://iburgerzaken.asten.nl
 https://iburgerzaken.baarle-nassau.nl
 https://iburgerzaken.beekdaelen.nl
+https://iburgerzaken.bergeijk.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -634,6 +637,7 @@ https://intunecollector.amsterdam.nl
 https://iovi.amsterdam.nl
 https://jaarrekening.arnhem.nl
 https://jaarverslag.arnhem.nl
+https://jccapi.bergeijk.nl
 https://join-edu.bijzondereprojecten.amsterdam.nl
 https://jongerenraad.barneveld.nl
 https://jvvs.amsterdam.nl
@@ -866,6 +870,7 @@ https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
 https://preprod-mijninkomen.almere.nl
 https://preprodbroker.aalten.nl
+https://preproductie.bergeijk.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
@@ -938,8 +943,10 @@ https://siam.ameland.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms.baarn.nl
 https://simcms.beekdaelen.nl
+https://simcms.bergeijk.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simsite.beekdaelen.nl
+https://simsite.bergeijk.nl
 https://sip.ggd.amsterdam.nl
 https://smap.almere.nl
 https://smartdoc.apeldoorn.nl
