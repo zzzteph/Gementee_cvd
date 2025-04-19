@@ -4,13 +4,13 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
+intranet
 simcms
 edienstenburgerzaken-test
-intranet
-afspraken
-mail
 secure
 simsite
+afspraken
+mail
 probeer
 meldingen
 felix
@@ -20,13 +20,13 @@ api.meldingen
 digikoppeling
 data
 preproductie
-test
 webmail
+test
+acc
 loket.acceptatie
 mijnzorg
 portal
 pv
-acc
 parkeren
 eloket
 formulieren
@@ -43,6 +43,7 @@ gemeenteraad
 kaart
 snelbalie
 duurzaam
+afspraak
 api.meldingen-acc
 _autodiscover._tcp
 denkmee
@@ -54,9 +55,9 @@ werkenbij
 betalen
 waarmerk
 enterpriseregistration
+login
 snelbaliepp
 www.duurzaam
-afspraak
 testeloket
 remote
 loket.test
@@ -74,7 +75,6 @@ evenementen
 maps
 berichten
 digikoppeling-test
-login
 formulier
 ns
 atlas
@@ -1900,3 +1900,6 @@ o1.ptr1802
 oud
 phpmyadmin
 testformulieren
+gms
+mksp01bkl
+www.webmail
