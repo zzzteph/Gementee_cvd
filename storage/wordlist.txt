@@ -31,20 +31,21 @@ waarmerk
 meldingen
 pv
 betalen
+eloket
 gemeenteraad
 adfs
 geo
-eloket
 data
 enterpriseenrollment
 open
+raad
 openpdc
 omgevingsvisie
 digikoppeling-test
 api.meldingen
-raad
 zaaksysteem-accept
 parkeren
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -58,7 +59,6 @@ vpn
 werkenbij
 hybrid
 formulier
-testeloket
 cmsoo
 remote
 mijnzorg
@@ -133,6 +133,7 @@ izaaksuite
 wachtwoord
 flowmailer-tracking
 parkeren-test
+subsidies
 thuiswerken
 afvalkalender
 gemeentearchief
@@ -177,7 +178,6 @@ preprod-mijn
 www.werkenbij
 subsidie
 subsidies-backend
-subsidies
 english
 maps
 stadsarchief
@@ -358,6 +358,7 @@ test-openklant
 test-openzaak
 test-podiumd-logs
 test-zac
+vastgoed
 loket-acc
 meedoen
 accdrop
@@ -1823,7 +1824,6 @@ point
 scorpio
 slimbereikbaar
 test-objecten
-vastgoed
 wbs003
 wbs004
 web2print
@@ -3367,3 +3367,10 @@ downloaddomain
 edienstensociaal
 edienstensociaalpp
 prtg
+beh-gemeenteloket
+form-gemeenteloket
+googleauth
+hub
+mijn-gemeenteloket
+pre-gemeenteloket
+webteam
