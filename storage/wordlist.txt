@@ -15,8 +15,8 @@ simcms
 digikoppeling
 mijn
 preproductie
-loket
 acceptatie
+loket
 probeer
 test
 felix
@@ -39,12 +39,12 @@ open
 data
 omgevingsvisie
 enterpriseenrollment
+dacceptatieloket
+dacceptatiemidoffice
 raad
 openpdc
 digikoppeling-test
 testeloket
-dacceptatieloket
-dacceptatiemidoffice
 dloket
 dmidoffice
 api.meldingen
@@ -67,6 +67,7 @@ hybrid
 test-ipa
 mijninkomen
 piwik
+berichten
 acc-broker
 woningbouwkaart
 cloudadapter-test
@@ -74,9 +75,9 @@ cloudadapter
 connect
 meldingen-acc
 _autodiscover._tcp
+belastingen
 kaart
 preprod-mijninkomen
-berichten
 enterpriseregistration
 belastingbalie
 test-intranet
@@ -86,7 +87,6 @@ mijnzorg-acc
 preprodbroker
 portaal
 verkiezingen
-belastingen
 snelbalie
 siam
 financien
@@ -112,6 +112,7 @@ evenementen
 duurzaam
 mailing
 snelbaliepp
+ns
 qr
 digikoppeling.test
 openzaak
@@ -132,6 +133,7 @@ belastingloket
 govroam
 simcms-open
 www.webmail
+mobile
 smtp
 AutoDiscover
 dtestmidoffice
@@ -159,7 +161,6 @@ api.openstad
 cms
 gemeentearchief
 www.duurzaam
-ns
 onderzoek
 api.betalen
 email
@@ -183,7 +184,6 @@ formulieren-test
 uca
 uc
 www.doemee
-mobile
 jaarstukken
 inloggen
 inproces.acceptatie
@@ -199,6 +199,7 @@ subsidie
 english
 maps
 stadsarchief
+digitaalnachtregister
 exchange
 preprod
 ro-online
@@ -324,7 +325,7 @@ melddesk
 panel
 planon
 secure-test
-digitaalnachtregister
+website
 centrumbegroot
 dali
 digikoppeling-prod
@@ -405,6 +406,7 @@ auth.doemee
 img.doemee
 ondernemers
 www.gemeenteraad
+gms
 localhost
 wozloket-acc
 mam
@@ -486,6 +488,7 @@ e.openstad
 www.mobile
 squit2gotest
 test-contact
+zoek
 en
 contact
 liquit
@@ -639,7 +642,6 @@ voorschool
 wachtwoordreset
 wifiguestportal
 wijkteams
-website
 alleplannen.centrumbegroot
 begroten.centrumbegroot
 begroten.zwammerdamdorpskern
@@ -2027,7 +2029,6 @@ o1.ptr1802
 oud
 phpmyadmin
 testformulieren
-gms
 mksp01bkl
 ibo
 meedoen-acc
@@ -3105,7 +3106,6 @@ dktstdn
 sstpvpn
 whatsepe
 www.filecap
-zoek
 geo-secure
 onlinedorpsgesprek
 Edienstenburgerzaken-test
@@ -3464,3 +3464,4 @@ meldpunt
 mijntalent-acc
 mijntalent
 spam
+belastingen-test
