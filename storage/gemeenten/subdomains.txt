@@ -67,37 +67,48 @@ acc-broker.borger-odoorn.nl
 acc-broker.coevorden.nl
 acc-broker.deventer.nl
 acc-broker.emmen.nl
+acc-broker.gemeente-oldambt.nl
 acc-contact.assen.nl
 acc-contact.dev.assen.nl
+acc-contact.gemeente-oldambt.nl
 acc-formulier.assen.nl
 acc-formulier.dev.assen.nl
 acc-formulier.enschede.nl
+acc-formulier.gemeente-oldambt.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.enschede.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
+acc-keycloak.gemeente-oldambt.nl
 acc-maps.almere.nl
+acc-midoffice.gemeente-oldambt.nl
 acc-mijn.assen.nl
 acc-mijn.dev.assen.nl
 acc-mijn.enschede.nl
+acc-mijn.gemeente-oldambt.nl
 acc-nieuwsbrief.amsterdam.nl
 acc-notificaties.assen.nl
 acc-notificaties.dev.assen.nl
+acc-notificaties.gemeente-oldambt.nl
 acc-objecten.assen.nl
 acc-objecten.dev.assen.nl
 acc-objecten.enschede.nl
+acc-objecten.gemeente-oldambt.nl
 acc-objecttypen.assen.nl
 acc-objecttypen.dev.assen.nl
 acc-objecttypen.enschede.nl
+acc-objecttypen.gemeente-oldambt.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
 acc-openklant.assen.nl
 acc-openklant.dev.assen.nl
 acc-openklant.enschede.nl
+acc-openklant.gemeente-oldambt.nl
 acc-openwave.beverwijk.nl
 acc-openzaak.assen.nl
 acc-openzaak.dev.assen.nl
+acc-openzaak.gemeente-oldambt.nl
 acc-podiumd-contact.deventer.nl
 acc-podiumd-formulier.deventer.nl
 acc-podiumd-keycloak.deventer.nl
@@ -105,6 +116,7 @@ acc-podiumd-logs.assen.nl
 acc-podiumd-logs.dev.assen.nl
 acc-podiumd-logs.deventer.nl
 acc-podiumd-logs.enschede.nl
+acc-podiumd-logs.gemeente-oldambt.nl
 acc-podiumd-mijn.deventer.nl
 acc-podiumd-notificaties.deventer.nl
 acc-podiumd-objecten.deventer.nl
@@ -385,6 +397,7 @@ afspraken.eersel.nl
 afspraken.eijsden-margraten.nl
 afspraken.emmen.nl
 afspraken.ermelo.nl
+afspraken.gemeente-oldambt.nl
 afval.acc.denhaag.nl
 afval.assen.nl
 afval.diemen.nl
@@ -511,6 +524,7 @@ api.meldingen-acc.almere.nl
 api.meldingen-acc.assen.nl
 api.meldingen-acc.bernheze.org
 api.meldingen-acc.enschede.nl
+api.meldingen-acc.gemeente-oldambt.nl
 api.meldingen.aaenhunze.nl
 api.meldingen.acceptatie.eindhoven.nl
 api.meldingen.almere.nl
@@ -521,6 +535,7 @@ api.meldingen.assen.nl
 api.meldingen.bergenopzoom.nl
 api.meldingen.bernheze.org
 api.meldingen.eindhoven.nl
+api.meldingen.gemeente-oldambt.nl
 api.openstad.alphenaandenrijn.nl
 api.openstad.deventer.nl
 api.openstad.enschede.nl
@@ -661,6 +676,7 @@ autodiscover.enschede.nl
 autodiscover.epe.nl
 autodiscover.etten-leur.nl
 autodiscover.geertruidenberg.nl
+autodiscover.gemeente-oldambt.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -689,6 +705,7 @@ backup.bergen-nh.nl
 backuplijn.doetinchem.nl
 bag-acc.etten-leur.nl
 bag-kastlijst.acc.denhaag.nl
+bag-vold91.gemeente-oldambt.nl
 bag.acc.denhaag.nl
 bag.assen.nl
 bag.denhaag.nl
@@ -757,6 +774,7 @@ belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
 belastingen.arnhem.nl
 belastingen.duiven.nl
+belastingen.gemeente-oldambt.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
@@ -785,6 +803,7 @@ berichten.baarle-nassau.nl
 berichten.bergendal.nl
 berichten.cranendonck.nl
 berichten.dordrecht.nl
+berichten.gemeente-oldambt.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtverkeer.acc.amsterdam.nl
 berichtverkeer.amsterdam.nl
@@ -905,6 +924,7 @@ broker.eemsdelta.nl
 broker.elburg.nl
 broker.emmen.nl
 broker.enschede.nl
+broker.gemeente-oldambt.nl
 bronckhorst.nl
 bros-academie.deurne.nl
 brsoribi01.borsele.nl
@@ -952,6 +972,8 @@ castricum.nl
 catalogus.data.amsterdam.nl
 cba.ede.nl
 cc.apeldoorn.nl
+cca-acc.gemeente-oldambt.nl
+cca.gemeente-oldambt.nl
 cctst.apeldoorn.nl
 centric.doesburg.nl
 centric.doetinchem.nl
@@ -1006,6 +1028,7 @@ cmsoo.coevorden.nl
 cmsoo.culemborg.nl
 cmsoo.duiven.nl
 cmsoo.enschede.nl
+cmsoo.gemeente-oldambt.nl
 cmsoo.gemeente.emmen.nl
 cmswhatsepe.epe.nl
 coevorden.nl
@@ -1032,6 +1055,7 @@ connect.test.coevorden.nl
 connect.test.dantumadiel.frl
 consent.sarphati.amsterdam.nl
 contact.antwoord.amsterdam.nl
+contact.gemeente-oldambt.nl
 contactregistratie-fa.amsterdam.nl
 contactregistratie-ft.amsterdam.nl
 contactregistratie.acc.amsterdam.nl
@@ -1084,6 +1108,7 @@ dacceptatieloket.coevorden.nl
 dacceptatieloket.deventer.nl
 dacceptatieloket.emmen.nl
 dacceptatieloket.enschede.nl
+dacceptatieloket.gemeente-oldambt.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -1092,6 +1117,7 @@ dacceptatiemidoffice.coevorden.nl
 dacceptatiemidoffice.deventer.nl
 dacceptatiemidoffice.emmen.nl
 dacceptatiemidoffice.enschede.nl
+dacceptatiemidoffice.gemeente-oldambt.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -1134,6 +1160,7 @@ dcagast2.assen.nl
 dcatd-admin.amsterdam.nl
 ddi.vga.amsterdam.nl
 dditest.vga.amsterdam.nl
+dds-vold21.gemeente-oldambt.nl
 ddsp.services.debilt.nl
 ddst.services.debilt.nl
 debelastingbalie.amersfoort.nl
@@ -1292,6 +1319,7 @@ dkd.denhelder.nl
 dkd.deventer.nl
 dkd.doesburg.nl
 dkd.dronten.nl
+dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdtest.brunssum.nl
 dkdtest.deventer.nl
@@ -1307,6 +1335,7 @@ dloket.coevorden.nl
 dloket.deventer.nl
 dloket.emmen.nl
 dloket.enschede.nl
+dloket.gemeente-oldambt.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
@@ -1317,6 +1346,7 @@ dmidoffice.coevorden.nl
 dmidoffice.deventer.nl
 dmidoffice.emmen.nl
 dmidoffice.enschede.nl
+dmidoffice.gemeente-oldambt.nl
 dmpfunc002.amsterdam.nl
 dmz-websrv.achtkarspelen.nl
 dns-cache.denhaag.nl
@@ -1371,6 +1401,7 @@ duiven-checker-preprod.duiven.nl
 duiven-checker.duiven.nl
 duiven.nl
 duo.emmen.nl
+duo.gemeente-oldambt.nl
 durp.drechterland.nl
 durplandelijkevoorziening.deventer.nl
 dusk-acc-openwave.beverwijk.nl
@@ -1790,6 +1821,7 @@ formulier.breda.nl
 formulier.denhaag.nl
 formulier.ede.nl
 formulier.enschede.nl
+formulier.gemeente-oldambt.nl
 formulieracc.breda.nl
 formulieren-g4-acc.amsterdam.nl
 formulieren-test.beesel.nl
@@ -1866,6 +1898,7 @@ geertruidenberg.nl
 geldloket.emmen.nl
 geldrop-mierlo.nl
 gemberichten.geertruidenberg.nl
+gemeente-oldambt.nl
 gemeente.amsterdam.nl
 gemeente.baarle-nassau.nl
 gemeente.bodegraven-reeuwijk.nl
@@ -1908,6 +1941,7 @@ geo.echt-susteren.nl
 geo.ede.nl
 geo.emmen.nl
 geo.ermelo.nl
+geo.gemeente-oldambt.nl
 geo1.arnhem.nl
 geobrowser.enschede.nl
 geodata-acc.dijkenwaard.nl
@@ -1929,6 +1963,7 @@ geotest.arnhem.nl
 geotest.emmen.nl
 geovisia.achtkarspelen.nl
 geovisia.amersfoort.nl
+geovisia.gemeente-oldambt.nl
 geuzenstatenkwartierfietst.denhaag.nl
 gezinscoach.deventer.nl
 ggd.amsterdam.nl
@@ -1996,6 +2031,7 @@ grooster.dalfsen.nl
 growinggreencities.almere.nl
 gsmpt.stadstoezicht.amsterdam.nl
 gt-loket.edam-volendam.nl
+gtbag-va01.gemeente-oldambt.nl
 guest.beekdaelen.nl
 guest.brunssum.nl
 guido.asten.nl
@@ -2077,6 +2113,8 @@ iarchief.borne.nl
 iarchief.eemsdelta.nl
 iarchief.werkeninkomen.amsterdam.nl
 iba.amsterdam.nl
+ibabs-acc.gemeente-oldambt.nl
+ibabs.gemeente-oldambt.nl
 ibo.borger-odoorn.nl
 ibor.delft.nl
 iburgerzaken.aaenhunze.nl
@@ -2130,6 +2168,7 @@ iburgerzaken.enschede.nl
 iburgerzaken.epe.nl
 iburgerzaken.etten-leur.nl
 iburgerzaken.geldrop-mierlo.nl
+iburgerzaken.gemeente-oldambt.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -2181,6 +2220,7 @@ ibzpink.enschede.nl
 ibzpink.epe.nl
 ibzpink.etten-leur.nl
 ibzpink.geldrop-mierlo.nl
+ibzpink.gemeente-oldambt.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -2211,11 +2251,15 @@ ife.delft.nl
 ig.breda.nl
 iga.amsterdam.nl
 iga.denhaag.nl
+igo-acc.gemeente-oldambt.nl
+igo.gemeente-oldambt.nl
 ihc-extern-vth.acc.denhaag.nl
 ihc-extern.acc.denhaag.nl
 ihc-extern.denhaag.nl
 ihp-acc.denhaag.nl
 ihp.denhaag.nl
+iis-vold01.gemeente-oldambt.nl
+iis-vold21.gemeente-oldambt.nl
 ikbouwin-acc.denhaag.nl
 ikbouwin.denhaag.nl
 ikbouwmijnhuisin.almere.nl
@@ -2435,6 +2479,7 @@ keycloak.assen.nl
 keycloak.denhaag.nl
 keycloak.dev.denhaag.nl
 keycloak.enschede.nl
+keycloak.gemeente-oldambt.nl
 keycloak.test.denhaag.nl
 kibana.parkeren.data.amsterdam.nl
 kiesjekraam.amsterdam.nl
@@ -2691,6 +2736,7 @@ meldingen-acc.apeldoorn.nl
 meldingen-acc.assen.nl
 meldingen-acc.bernheze.org
 meldingen-acc.enschede.nl
+meldingen-acc.gemeente-oldambt.nl
 meldingen.aaenhunze.nl
 meldingen.acc.almelo.nl
 meldingen.acc.denhaag.nl
@@ -2707,6 +2753,7 @@ meldingen.bernheze.org
 meldingen.denhaag.nl
 meldingen.eindhoven.nl
 meldingen.enschede.nl
+meldingen.gemeente-oldambt.nl
 meldingenamsterdamsebos.amsterdam.nl
 meldingenkust.acc.denhaag.nl
 meldingenkust.denhaag.nl
@@ -2730,6 +2777,7 @@ micstz.almelo.nl
 midoffice.aalsmeer.nl
 midoffice.amstelveen.nl
 midoffice.coevorden.nl
+midoffice.gemeente-oldambt.nl
 mijn-acceptatie.enschede.nl
 mijn-o.ot.denhaag.nl
 mijn-t.ot.denhaag.nl
@@ -2758,6 +2806,7 @@ mijn.dronten.nl
 mijn.enschede.nl
 mijn.epe.nl
 mijn.etten-leur.nl
+mijn.gemeente-oldambt.nl
 mijnaanvraagzi.beuningen.nl
 mijnbelastingen.amsterdam.nl
 mijnerfpacht.acc.amsterdam.nl
@@ -2908,6 +2957,7 @@ nha-acc.amsterdam.nl
 nha-tst.amsterdam.nl
 nha.amsterdam.nl
 nhr.barneveld.nl
+nhr.gemeente-oldambt.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 nieuweburgemeester.deventer.nl
 nieuwkomers.arnhem.nl
@@ -2934,6 +2984,7 @@ noord.amsterdam.nl
 noorderparkbad.amsterdam.nl
 notificaties.assen.nl
 notificaties.enschede.nl
+notificaties.gemeente-oldambt.nl
 notificaties.openzaak-acc.amsterdam.nl
 notificaties.openzaak-tst.amsterdam.nl
 notificaties.wonenportaal.amsterdam.nl
@@ -2963,6 +3014,7 @@ objecten-zgw.denhaag.nl
 objecten-zgw.test.denhaag.nl
 objecten.assen.nl
 objecten.enschede.nl
+objecten.gemeente-oldambt.nl
 objectenregistratie-api.almelo.nl
 objectenregistratie.almelo.nl
 objects-api.wonenportaal.amsterdam.nl
@@ -2974,6 +3026,7 @@ objecttypen-zgw.denhaag.nl
 objecttypen-zgw.test.denhaag.nl
 objecttypen.assen.nl
 objecttypen.enschede.nl
+objecttypen.gemeente-oldambt.nl
 objecttypes-api.wonenportaal.amsterdam.nl
 obsurv.asten.nl
 obsurv.bergenopzoom.nl
@@ -3098,6 +3151,7 @@ openklant-zgw.acc.denhaag.nl
 openklant-zgw.denhaag.nl
 openklant-zgw.test.denhaag.nl
 openklant.assen.nl
+openklant.gemeente-oldambt.nl
 opennotificaties-zgw.acc.denhaag.nl
 opennotificaties-zgw.denhaag.nl
 opennotificaties-zgw.test.denhaag.nl
@@ -3129,6 +3183,7 @@ openzaak-zgw.denhaag.nl
 openzaak-zgw.test.denhaag.nl
 openzaak.amsterdam.nl
 openzaak.assen.nl
+openzaak.gemeente-oldambt.nl
 openzaak.t.ssv.amsterdam.nl
 openzaak.wonenportaal.amsterdam.nl
 openzaakbrug-zgw.acc.denhaag.nl
@@ -3261,6 +3316,7 @@ piwik.duiven.nl
 piwik.echt-susteren.nl
 piwik.ede.nl
 piwik.emmen.nl
+piwik.gemeente-oldambt.nl
 piwikacc.breda.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
@@ -3293,6 +3349,7 @@ podiumd-keycloak.deventer.nl
 podiumd-logs.assen.nl
 podiumd-logs.deventer.nl
 podiumd-logs.enschede.nl
+podiumd-logs.gemeente-oldambt.nl
 podiumd-mijn.deventer.nl
 podiumd-notificaties.deventer.nl
 podiumd-objecten.deventer.nl
@@ -3331,6 +3388,7 @@ portal.dijkenwaard.nl
 portal.drechterland.nl
 portal.dro.amsterdam.nl
 portal.enkhuizen.nl
+portal.gemeente-oldambt.nl
 portal.ggd.amsterdam.nl
 portal.iba.amsterdam.nl
 portal.pmb.amsterdam.nl
@@ -4248,6 +4306,7 @@ vergunningintaker.preprod.echt-susteren.nl
 vergunningschecker.amsterdam.nl
 verhuisformulieren.amsterdam.nl
 verhuisportaal.amsterdam.nl
+verhuur.gemeente-oldambt.nl
 verkeer.amsterdam.nl
 verkeersbesluiten.denhaag.nl
 verkiezingen.acc.topdesk.denhaag.nl
@@ -4291,9 +4350,11 @@ vraagbaak.doesburg.nl
 vragenlijst.eindhoven.nl
 vriseloket.cranendonck.nl
 vrm.acc.amsterdam.nl
+vrs.gemeente-oldambt.nl
 vsp.denhelder.nl
 vth.brievenbus.amsterdam.nl
 vth.deventer.nl
+vth.gemeente-oldambt.nl
 vveacc.amsterdam.nl
 vvetest.amsterdam.nl
 waarderingsprijs.emmen.nl
@@ -4307,6 +4368,7 @@ waarmerk.castricum.nl
 waarmerk.drechterland.nl
 waarmerk.emmen.nl
 waarmerk.enkhuizen.nl
+waarmerk.gemeente-oldambt.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
 wachtwoord.alkmaar.nl
@@ -4516,6 +4578,7 @@ wsgateway-extern.ot.denhaag.nl
 wsgateway-extern2.acc.denhaag.nl
 wsgateway.ot.denhaag.nl
 wsgateway1-extern.ot.denhaag.nl
+www-wim.gemeente-oldambt.nl
 www.aaenhunze.nl
 www.aalsmeer.nl
 www.aalten.nl
@@ -4699,6 +4762,7 @@ www.gebouwdin.amsterdam.nl
 www.geertruidenberg.nl
 www.geldloket.emmen.nl
 www.geldrop-mierlo.nl
+www.gemeente-oldambt.nl
 www.gemeente.emmen.nl
 www.gemeenteraad.bloemendaal.nl
 www.gemeenteraad.etten-leur.nl
@@ -4716,6 +4780,8 @@ www.handhavingsacademie.amsterdam.nl
 www.havenkwartieraanzet.denhaag.nl
 www.hildebrandplein.denhaag.nl
 www.houtwijkbegroot.denhaag.nl
+www.ibabs-acc.gemeente-oldambt.nl
+www.ibabs.gemeente-oldambt.nl
 www.ibo.borger-odoorn.nl
 www.iedereenwerktmee.amsterdam.nl
 www.ihp-acc.denhaag.nl
@@ -4877,7 +4943,10 @@ wzs.brievenbus.amsterdam.nl
 xelion.deurne.nl
 xencor.bergenopzoom.nl
 xencort.bergenopzoom.nl
+xential-vold01.gemeente-oldambt.nl
+xential-vold92.gemeente-oldambt.nl
 xential.borne.nl
+xential.gemeente-oldambt.nl
 xerox.brievenbus.amsterdam.nl
 youpp.baarn.nl
 ypenburgaanzet.denhaag.nl
