@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-afspraken
 mail
+afspraken
 simsite
 webmail
 secure
@@ -22,12 +22,12 @@ test
 felix
 formulieren
 acc
+dkd
 werkplek
 afspraak
-dkd
+broker
 portal
 waarmerk
-broker
 pv
 eloket
 geo
@@ -43,6 +43,7 @@ openpdc
 omgevingsvisie
 digikoppeling-test
 api.meldingen
+loket.acceptatie
 vpn
 zaaksysteem-accept
 parkeren
@@ -51,7 +52,6 @@ dacceptatieloket
 dacceptatiemidoffice
 dloket
 dmidoffice
-loket.acceptatie
 remote
 iparticipatie
 ruimtelijkeplannen
@@ -67,6 +67,7 @@ zaken
 mijninkomen
 piwik
 login
+woningbouwkaart
 cloudadapter-test
 cloudadapter
 meldingen-acc
@@ -76,8 +77,8 @@ preprod-mijninkomen
 berichten
 enterpriseregistration
 acc-broker
-woningbouwkaart
 test-intranet
+connect
 api.meldingen-acc
 portaal
 verkiezingen
@@ -91,7 +92,6 @@ nieuwsbrief
 extranet
 pki
 filecap
-connect
 mijnzorg-acc
 preprodbroker
 vergunningintaker
@@ -241,6 +241,7 @@ mobile
 www.jongin
 rap
 omgevingswet
+mobiel
 ro
 squit2go
 inproces.acceptatie
@@ -399,7 +400,6 @@ projecten
 citrix
 mycorsanxt
 programmabegroting
-mobiel
 dkdtest
 key2gbav
 logilink
@@ -408,6 +408,7 @@ ssd
 mbg
 medewerkers
 preprod-formulieren
+servicebus
 download
 squit2go-backoffice
 www.afspraak
@@ -2160,7 +2161,6 @@ lvgeo.acc
 lvgeo
 osbtest
 qr-acc
-servicebus
 esp
 makelaar-01
 nlgemctc
@@ -3392,3 +3392,7 @@ www-cache
 www.eformulieren
 authenticatie
 e.bewustwording
+digikoppelingjnet-test
+digikoppelingjnet
+misentry
+preproductiebroker
