@@ -11,8 +11,8 @@ afspraken
 simcms
 simsite
 mail
-webmail
 digikoppeling
+webmail
 mijn
 probeer
 preproductie
@@ -28,16 +28,16 @@ adfs
 meldingen
 data
 portal
-gemeenteraad
 betalen
+gemeenteraad
+eloket
 enterpriseenrollment
 geo
+broker
 pv
 werkplek
-eloket
 api.meldingen
 loket.acceptatie
-broker
 ruimtelijkeplannen
 vpn
 omgevingsvisie
@@ -49,6 +49,8 @@ iparticipatie
 raad
 werkenbij
 waarmerk
+digikoppeling-test
+testeloket
 test-ipa
 zaken
 openpdc
@@ -56,8 +58,6 @@ openpub
 zaaksysteem-accept
 mijninkomen
 kaart
-digikoppeling-test
-testeloket
 cmsoo
 _autodiscover._tcp
 verkiezingen
@@ -96,11 +96,13 @@ parkeren-acc
 bgt
 pki
 mdm
+filecap
 connect
 api.meldingen-acc
 belastingportaal
 loket.test
 www.acceptatie
+preprodbroker
 vergunningintaker
 denkmee
 e
@@ -121,15 +123,14 @@ sts
 test-digikoppeling
 extranet
 klantcontact
+belastingloket
 govroam
 formulieren-test
 test-intranet
 smtp
 kaarten
-filecap
 AutoDiscover
 midoffice
-preprodbroker
 college
 gisib
 praatmee
@@ -169,7 +170,6 @@ media
 openformulieren
 sip
 obsurv
-belastingloket
 publicaties
 fmreturn
 gasten
@@ -376,6 +376,7 @@ test-cmsintranet
 vergunningen
 www.socialekaart
 socialekaart
+testbelastingloket
 zaaksysteem
 webapps
 email.mail.participatie
@@ -2911,7 +2912,6 @@ kop-pub-tmp-joi
 kop-pub-woz
 praathuis
 rmts
-testbelastingloket
 78852ffdb030c56.infra
 acceptatie.subsidies-backend
 acceptatie.subsidies
@@ -3007,3 +3007,4 @@ uitelkaarmetkinderen
 uitkeringen
 vragenlijst
 www.oco
+mx
