@@ -261,6 +261,7 @@ afspraken.borne.nl
 afspraken.bronckhorst.nl
 afspraken.brummen.nl
 afspraken.brunssum.nl
+afspraken.buren.nl
 afval.assen.nl
 afvalkalender.alphenaandenrijn.nl
 afvalkalender.borsele.nl
@@ -595,6 +596,7 @@ broker.aalten.nl
 broker.assen.nl
 broker.bernheze.org
 broker.borger-odoorn.nl
+broker.buren.nl
 bronckhorst.nl
 brsoribi01.borsele.nl
 brsoribi02.borsele.nl
@@ -605,6 +607,7 @@ bsmpkitest.brunssum.nl
 buikslotermeerplein.amsterdam.nl
 bunnik.nl
 bunschoten.nl
+buren.nl
 burgerzaken.amsterdam.nl
 buurtbudget.amsterdam.nl
 buurtbudgetnoord.amsterdam.nl
@@ -633,6 +636,7 @@ cios.acam.amsterdam.nl
 cis.barneveld.nl
 citrix.brielle.nl
 cloud.beverwijk.nl
+cloud.buren.nl
 cloudadapter-test.baarn.nl
 cloudadapter-test.bronckhorst.nl
 cloudadapter-test.brunssum.nl
@@ -1116,6 +1120,7 @@ formulieren.assen.nl
 formulieren.beesel.nl
 formulieren.bodegraven-reeuwijk.nl
 formulieren.bronckhorst.nl
+formulieren.buren.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -1171,6 +1176,7 @@ geo.aaenhunze.nl
 geo.arnhem.nl
 geo.breda.nl
 geo.brunssum.nl
+geo.buren.nl
 geo1.arnhem.nl
 geodata.almelo.nl
 geografie.bronckhorst.nl
@@ -1311,6 +1317,7 @@ iburgerzaken.borsele.nl
 iburgerzaken.breda.nl
 iburgerzaken.brielle.nl
 iburgerzaken.bronckhorst.nl
+iburgerzaken.buren.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1338,6 +1345,7 @@ ibzpink.borsele.nl
 ibzpink.breda.nl
 ibzpink.brielle.nl
 ibzpink.bronckhorst.nl
+ibzpink.buren.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1464,6 +1472,7 @@ kaart.amersfoort.nl
 kaart.amsterdam.nl
 kaart.bergendal.nl
 kaarten.boxtel.nl
+kaarten.buren.nl
 kaartviewer.barneveld.nl
 kassaservice.brunssum.nl
 kavels.almere.nl
@@ -1611,6 +1620,7 @@ matchpointbhr.dmo.acc.amsterdam.nl
 matchpointkp.dmo.acc.amsterdam.nl
 matenpark.apeldoorn.nl
 matomo.breda.nl
+mbg.buren.nl
 mbg1.beverwijk.nl
 mdm-sentry.bronckhorst.nl
 mdm.borne.nl
@@ -1620,6 +1630,7 @@ mdr.beverwijk.nl
 me-api.acc.amsterdam.nl
 me-api.amsterdam.nl
 medeleven.apeldoorn.nl
+medewerkers.buren.nl
 media.assen.nl
 meedenken.arnhem.nl
 meedoen-acc.borger-odoorn.nl
@@ -1672,6 +1683,7 @@ mijn.baarn.nl
 mijn.beekdaelen.nl
 mijn.beuningen.nl
 mijn.bronckhorst.nl
+mijn.buren.nl
 mijn.data.amsterdam.nl
 mijnaanvraagzi.beuningen.nl
 mijnbelastingen.amsterdam.nl
@@ -1787,6 +1799,7 @@ nlgembrc.blaricum.nl
 nlgembrl.brielle.nl
 nlgembrn.borne.nl
 nlx.amsterdam.nl
+nlx.buren.nl
 noord.amsterdam.nl
 noorderparkbad.amsterdam.nl
 notificaties.assen.nl
@@ -1891,6 +1904,7 @@ openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.arnhem.nl
 openpub.barendrecht.nl
+openpub.buren.nl
 openstad.apeldoorn.nl
 openvas.datapunt.amsterdam.nl
 openwave.beverwijk.nl
@@ -1961,6 +1975,7 @@ passwordreset.almere.nl
 patternlab.barneveld.nl
 pb-yutpa.rnd.amsterdam.nl
 pdc.alkmaar.nl
+pdc.buren.nl
 personeelshandboek.bronckhorst.nl
 personeelsplanning.beekdaelen.nl
 persoonlijk.breda.nl
@@ -2020,6 +2035,8 @@ praatmee.alblasserdam.nl
 praatmee.borsele.nl
 praatmee.boxtel.nl
 prd.afs.amsterdam.nl
+preprod-broker.buren.nl
+preprod-formulieren.buren.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
 preprod-mijngeldzaken.arnhem.nl
@@ -2331,6 +2348,7 @@ sportparken.datapunt.amsterdam.nl
 sportsupport.almere.nl
 sportverhuur.amsterdam.nl
 spyke-stw.alkmaar.nl
+srvmksbur.buren.nl
 sscict.intranet.amsterdam.nl
 ssd.brunssum.nl
 ssdtest.brunssum.nl
@@ -2590,6 +2608,7 @@ webmail.boxtel.nl
 webmail.breda.nl
 webmail.brielle.nl
 webmail.brunssum.nl
+webmail.buren.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -2621,6 +2640,7 @@ werkenbij.alkmaar.nl
 werkenbij.ameland.nl
 werkenbij.amsterdam.nl
 werkenbij.barneveld.nl
+werkenbij.buren.nl
 werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
 werknemersportaal.assen.nl
@@ -2630,6 +2650,7 @@ werkplek.almere.nl
 werkplek.amersfoort.nl
 werkplek.arnhem.nl
 werkplek.bodegraven-reeuwijk.nl
+werkplek.buren.nl
 werkplek.gslb.alkmaar.nl
 werving.amsterdam.nl
 westbegroot.amsterdam.nl
@@ -2654,6 +2675,7 @@ wmoportaal.acc.amsterdam.nl
 wmoportaal.amsterdam.nl
 wmoportaal.ot.amsterdam.nl
 wmoportaal.wzs.amsterdam.nl
+wmoservice.buren.nl
 wob.amsterdam.nl
 wob.arnhem.nl
 womserver-test.brunssum.nl
@@ -2746,6 +2768,7 @@ www.brunssum.nl
 www.buikslotermeerplein.amsterdam.nl
 www.bunnik.nl
 www.bunschoten.nl
+www.buren.nl
 www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
 www.buurtbudgetzuid.amsterdam.nl
@@ -2787,6 +2810,7 @@ www.iedereenwerktmee.amsterdam.nl
 www.inspraakmaatregel15.amsterdam.nl
 www.intranet.nieuwsbrief.amsterdam.nl
 www.jongin.borsele.nl
+www.jongin.buren.nl
 www.loket.amsterdam.nl
 www.mail.noord.amsterdam.nl
 www.matenpark.apeldoorn.nl
