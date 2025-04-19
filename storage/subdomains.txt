@@ -278,6 +278,7 @@ adfs.brunssum.nl
 adfs.bunschoten.nl
 adfs.denhelder.nl
 adfs.doetinchem.nl
+adfs.edam-volendam.nl
 adfs.ggd.amsterdam.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
@@ -315,6 +316,7 @@ afspraak.defryskemarren.nl
 afspraak.dijkenwaard.nl
 afspraak.drimmelen.nl
 afspraak.echt-susteren.nl
+afspraak.edam-volendam.nl
 afspraakmaken.dronten.nl
 afspraken-test.brunssum.nl
 afspraken.alkmaar.nl
@@ -593,6 +595,7 @@ autodiscover.dronten.nl
 autodiscover.druten.nl
 autodiscover.duiven.nl
 autodiscover.echt-susteren.nl
+autodiscover.edam-volendam.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -683,6 +686,7 @@ belastingen.arnhem.nl
 belastingen.duiven.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
+belastingloket.edam-volendam.nl
 belastingportaal-test.boxtel.nl
 belastingportaal-test.dinkelland.nl
 belastingportaal.aaenhunze.nl
@@ -778,6 +782,7 @@ bomen.ont.amsterdam.nl
 boostjebuurt.amsterdam.nl
 bor-acc.dantumadiel.frl
 bor.dantumadiel.frl
+bor.edam-volendam.nl
 borger-odoorn.nl
 borne.nl
 borsele.nl
@@ -890,6 +895,7 @@ cmsbink.beverwijk.nl
 cmsdieuwke.defryskemarren.nl
 cmsdok.dronten.nl
 cmshofnet.coevorden.nl
+cmsintranet.edam-volendam.nl
 cmsoo.assen.nl
 cmsoo.bodegraven-reeuwijk.nl
 cmsoo.borger-odoorn.nl
@@ -1285,6 +1291,7 @@ ebsfin.topdesk.denhaag.nl
 echt-susteren-checker-preprod.echt-susteren.nl
 echt-susteren-checker.echt-susteren.nl
 echt-susteren.nl
+edam-volendam.nl
 edge.echt-susteren.nl
 edienstaanvragensd.defryskemarren.nl
 ediensten-sociaaldomein.denhelder.nl
@@ -1400,6 +1407,7 @@ email.capelleaandenijssel.nl
 email.mail.denkmee.amstelveen.nl
 email.mail.participatie.aalsmeer.nl
 email.samenveiligwerken.alphenaandenrijn.nl
+email.veiligwerken.edam-volendam.nl
 email.wijkteam-bewustwording.amersfoort.nl
 ems.amstelveen.nl
 enepmx01.amsterdam.nl
@@ -1420,6 +1428,7 @@ enterpriseenrollment.bronckhorst.nl
 enterpriseenrollment.dalfsen.nl
 enterpriseenrollment.dantumadiel.frl
 enterpriseenrollment.doetinchem.nl
+enterpriseenrollment.edam-volendam.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone.almere.nl
@@ -1608,6 +1617,7 @@ formulieren.defryskemarren.nl
 formulieren.denhaag.nl
 formulieren.druten.nl
 formulieren.duiven.nl
+formulieren.edam-volendam.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -1671,6 +1681,7 @@ gemeenteraad.diemen.nl
 gemeenteraad.dinkelland.nl
 gemeenteraad.dronten.nl
 gen1.alkmaar.nl
+gen1.edam-volendam.nl
 gen2.alkmaar.nl
 geo.aaenhunze.nl
 geo.arnhem.nl
@@ -1748,8 +1759,10 @@ govroam.dronten.nl
 gp-test.borne.nl
 gp.borne.nl
 gp.deventer.nl
+gp.edam-volendam.nl
 gp.ggd.amsterdam.nl
 gpa.apeldoorn.nl
+gpa.edam-volendam.nl
 gpg.apeldoorn.nl
 gpt.apeldoorn.nl
 grip.denhaag.nl
@@ -1760,6 +1773,7 @@ grondwater.dronten.nl
 grooster.dalfsen.nl
 growinggreencities.almere.nl
 gsmpt.stadstoezicht.amsterdam.nl
+gt-loket.edam-volendam.nl
 guest.beekdaelen.nl
 guest.brunssum.nl
 guido.asten.nl
@@ -1814,6 +1828,7 @@ hybrid.almere.nl
 hybrid.beverwijk.nl
 hybrid.dalfsen.nl
 hybrid.dongen.nl
+hybrid.edam-volendam.nl
 hybridmail.amersfoort.nl
 iam-acc.almere.nl
 iam-forms.denhaag.nl
@@ -1880,6 +1895,7 @@ iburgerzaken.diemen.nl
 iburgerzaken.dijkenwaard.nl
 iburgerzaken.drimmelen.nl
 iburgerzaken.druten.nl
+iburgerzaken.edam-volendam.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1920,6 +1936,7 @@ ibzpink.diemen.nl
 ibzpink.dijkenwaard.nl
 ibzpink.drimmelen.nl
 ibzpink.druten.nl
+ibzpink.edam-volendam.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1979,6 +1996,7 @@ inloggen.belastingportaal.acc.aaenhunze.nl
 inloggen.belastingportaal.acc.assen.nl
 inloggen.belastingportaal.assen.nl
 inloggen.castricum.nl
+inloggen.edam-volendam.nl
 inproces.acceptatie.dantumadiel.frl
 inproces.acceptatie.drechterland.nl
 inproces.dantumadiel.frl
@@ -2025,6 +2043,7 @@ intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.drimmelen.nl
 intranet.echt-susteren.nl
+intranet.edam-volendam.nl
 intranet.geuzenveld.amsterdam.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
@@ -2040,6 +2059,7 @@ iparticipatie.bronckhorst.nl
 iparticipatie.coevorden.nl
 iparticipatie.derondevenen.nl
 iparticipatie.deventer.nl
+iparticipatie.edam-volendam.nl
 iris.acc.denhaag.nl
 iris.data.amsterdam.nl
 iris.denhaag.nl
@@ -2112,6 +2132,7 @@ kadernota2022.financielestukken.diemen.nl
 kassaservice.brunssum.nl
 kavels.almere.nl
 kavelwinkel.almere.nl
+kcc.edam-volendam.nl
 kcv.druten.nl
 kei.deventer.nl
 kenneth.delft.nl
@@ -2165,6 +2186,18 @@ klantportaal.drechterland.nl
 klimaatplein.bergen-nh.nl
 klimaatplein.castricum.nl
 knp.breda.nl
+kop-pub-erp-mks-tst.edam-volendam.nl
+kop-pub-erp-mks.edam-volendam.nl
+kop-pub-hta-mks.edam-volendam.nl
+kop-pub-hta.edam-volendam.nl
+kop-pub-iba.edam-volendam.nl
+kop-pub-jcc-api.edam-volendam.nl
+kop-pub-ris.edam-volendam.nl
+kop-pub-rx.edam-volendam.nl
+kop-pub-squ-acc.edam-volendam.nl
+kop-pub-squ.edam-volendam.nl
+kop-pub-tmp-joi.edam-volendam.nl
+kop-pub-woz.edam-volendam.nl
 koppeling-belastingbalie.doetinchem.nl
 koppelpoort.amersfoort.nl
 koppelvlak.bergen-nh.nl
@@ -2435,6 +2468,7 @@ mijninkomen.doesburg.nl
 mijninkomen.dronten.nl
 mijnkaart.deurne.nl
 mijnloket.deventer.nl
+mijnloket.edam-volendam.nl
 mijnmobiel.oa.amsterdam.nl
 mijnoverzicht.alphenaandenrijn.nl
 mijnoverzicht.boxtel.nl
@@ -2497,6 +2531,7 @@ moh.arnhem.nl
 monumenten.acc.amsterdam.nl
 monumenten.amsterdam.nl
 mor.brunssum.nl
+mor.edam-volendam.nl
 mozard.ameland.nl
 mozard.bunnik.nl
 mozardtest.ameland.nl
@@ -2656,6 +2691,7 @@ omgevingsvisie.denhaag.nl
 omgevingsvisie.dijkenwaard.nl
 omgevingsvisie.doemee.bloemendaal.nl
 omgevingsvisie.drimmelen.nl
+omgevingsvisie.edam-volendam.nl
 omgevingswet.bronckhorst.nl
 omgevingswet.deventer.nl
 omslagroute.amsterdam.nl
@@ -2936,6 +2972,7 @@ positioning-acc.denhaag.nl
 positioning.denhaag.nl
 postionering.denhaag.nl
 powerbi.beesel.nl
+praathuis.edam-volendam.nl
 praatmee.alblasserdam.nl
 praatmee.borsele.nl
 praatmee.boxtel.nl
@@ -3116,6 +3153,7 @@ ris.dalfsen.nl
 ris.delft.nl
 riv.apeldoorn.nl
 riviewer.apeldoorn.nl
+rmts.edam-volendam.nl
 rnd.amsterdam.nl
 ro-online.alphenaandenrijn.nl
 ro-online.bergen-nh.nl
@@ -3242,6 +3280,7 @@ sentry1.denhelder.nl
 serverruimte.dinkelland.nl
 servicebus.capelleaandenijssel.nl
 servicedesk.almelo.nl
+servicedesk.edam-volendam.nl
 services.acc.amsterdam.nl
 services.amsterdam.nl
 services.dronten.nl
@@ -3343,6 +3382,7 @@ simsite.doesburg.nl
 simsite.doetinchem.nl
 simsite.dronten.nl
 simsite.druten.nl
+simsite.edam-volendam.nl
 sip.assen.nl
 sip.castricum.nl
 sip.diemen.nl
@@ -3549,6 +3589,7 @@ test-cmsdieuwke.defryskemarren.nl
 test-cmsdok.dronten.nl
 test-cmshofnet.coevorden.nl
 test-cmsintranet.drimmelen.nl
+test-cmsintranet.edam-volendam.nl
 test-dieuwke.defryskemarren.nl
 test-digikoppeling.assen.nl
 test-digikoppeling.beesel.nl
@@ -3562,11 +3603,13 @@ test-formulier.assen.nl
 test-hofnet.coevorden.nl
 test-intranet.beuningen.nl
 test-intranet.drimmelen.nl
+test-intranet.edam-volendam.nl
 test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
 test-ipa.coevorden.nl
 test-ipa.derondevenen.nl
 test-ipa.deventer.nl
+test-ipa.edam-volendam.nl
 test-kaart.almere.nl
 test-kennisbank.almelo.nl
 test-keycloak-admin.assen.nl
@@ -3613,6 +3656,7 @@ test.io.amsterdam.nl
 test.mijnzorg.beekdaelen.nl
 test.services.dronten.nl
 testafspraken.alkmaar.nl
+testbelastingloket.edam-volendam.nl
 testberichten.bergendal.nl
 testcms-binnenshuis.bergen.nl
 testcms-intranet.beuningen.nl
@@ -3870,6 +3914,7 @@ werkenbij.barneveld.nl
 werkenbij.buren.nl
 werkenbij.dantumadiel.frl
 werkenbij.defryskemarren.nl
+werkenbij.edam-volendam.nl
 werkenvoor-acc.denhaag.nl
 werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
@@ -4116,6 +4161,7 @@ www.duurzaamheidscentrum.assen.nl
 www.duurzamestad-acc.denhaag.nl
 www.duurzamestad.denhaag.nl
 www.echt-susteren.nl
+www.edam-volendam.nl
 www.eengoedideevoorocw-acc.denhaag.nl
 www.eengoedideevoorocw.denhaag.nl
 www.elkk.amsterdam.nl
