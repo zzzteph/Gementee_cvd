@@ -3,21 +3,21 @@ www
 autodiscover
 iburgerzaken
 ibzpink
-edienstenburgerzaken
 intranet
-secure
+edienstenburgerzaken
 simcms
 afspraken
+secure
 edienstenburgerzaken-test
 simsite
-mail
-webmail
-loket
 felix
+mail
 probeer
+webmail
 digikoppeling
-mijn
+loket
 preproductie
+mijn
 test
 meldingen
 adfs
@@ -46,6 +46,7 @@ werkplek
 betalen
 gemeenteraad
 snelbalie
+digikoppeling-test
 open
 meldingen-acc
 mijnzorg-acc
@@ -54,7 +55,6 @@ osb
 vpn
 werkenbij
 kaart
-digikoppeling-test
 duurzaam
 login
 snelbaliepp
@@ -72,6 +72,7 @@ openpdc
 omgevingsvisie
 evenementen
 thuiswerken
+berichten
 enterpriseregistration
 www.duurzaam
 formulier
@@ -96,7 +97,7 @@ piwik
 belastingen
 maps
 stadsarchief
-berichten
+afvalkalender
 siam
 belastingbalie
 financien
@@ -164,7 +165,6 @@ panel
 planon
 preprod-mijninkomen
 digitaalnachtregister
-afvalkalender
 centrumbegroot
 cms
 dali
@@ -2126,3 +2126,7 @@ www.doe-mee
 www.woz-loket
 zaken.acceptatie
 zaken.test
+VRiSeLoket
+pkio1
+ptr
+vriseloket
