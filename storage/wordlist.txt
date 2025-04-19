@@ -37,10 +37,10 @@ meldingen
 open
 pv
 raad
+omgevingsvisie
 data
 vpn
 zaaksysteem-accept
-omgevingsvisie
 parkeren
 enterpriseenrollment
 dacceptatieloket
@@ -73,6 +73,7 @@ preprod-mijninkomen
 acc-broker
 connect
 meldingen-acc
+flowmailer-tracking
 belastingen
 kaart
 snelbalie
@@ -82,12 +83,12 @@ beeldbank
 woningbouwkaart
 cloudadapter
 test-intranet
+doemee
 kaarten
 filecap
 api.meldingen-acc
 _autodiscover._tcp
 portaal
-flowmailer-tracking
 duurzaam
 enterpriseregistration
 siam
@@ -97,7 +98,6 @@ mks
 nieuwsbrief
 acc-podiumd-logs
 govroam
-doemee
 dtestloket
 mdm
 test-cmsintranet
@@ -108,6 +108,7 @@ kennisbank
 gisib
 verkiezingen
 osbacc
+parkeren-test
 snelbaliepp
 qr
 apps
@@ -130,6 +131,7 @@ belastingloket
 samen
 simcms-open
 pki
+smtp
 dtestmidoffice
 jaarstukken
 connect.acceptatie
@@ -138,7 +140,6 @@ belastingportaal
 www.acceptatie
 e
 web
-parkeren-test
 subsidies
 evenementen
 afvalkalender
@@ -164,7 +165,6 @@ uca
 uc
 www.webmail
 mobile
-smtp
 xential
 AutoDiscover
 inloggen
@@ -203,6 +203,7 @@ parkeervergunningen
 telewerken
 desktop
 mijngeldzaken
+opendata
 afval
 openformulieren
 openklant
@@ -235,6 +236,7 @@ gisibapi
 gisibgeoserver-test
 gisibgeoserver
 preprod-mijn
+autorisatie
 veiligdelen
 www.werkenbij
 zoeken
@@ -250,6 +252,7 @@ bewustwording
 magazine
 wion
 api
+bouwdossiers
 ftp
 top
 wob
@@ -257,7 +260,6 @@ e-loket
 gbi
 geotest
 ns1
-opendata
 rooster
 sslvpn
 woo
@@ -346,7 +348,6 @@ edienstenmijninkomen
 edienstverlening-preprod
 edienstverlening
 aanvragen
-autorisatie
 gen1
 ldap
 notubiz
@@ -391,7 +392,6 @@ jcc
 aanmeldenparkeren
 autodiscover.ggd
 beheer
-bouwdossiers
 dataportaal
 docgen
 edison
@@ -466,9 +466,12 @@ mbg1
 admin.doemee
 api.doemee
 auth.doemee
+autorisatietest
 begraafplaatsen
+elokettest
 img.doemee
 ondernemers
+zonneparking.doemee
 testformulieren
 gms
 localhost
@@ -583,6 +586,7 @@ aaa
 sbc01
 trobit
 cloudadapter-prod
+gemeentebestuur
 lynccon
 lyncweb
 webapps
@@ -2069,11 +2073,9 @@ test-cmsbink
 NLGEMBRC
 nlgembrc
 Autorisatietest
-autorisatietest
 bekslaan-leidsevaartweg.doemee
 deelscooters.doemee
 demo.doemee
-elokettest
 gbkz-mks
 nieuwauthentiekbloemendaal.doemee
 oldenhove.doemee
@@ -2081,7 +2083,6 @@ omgevingsvisie.doemee
 tradities.doemee
 wmo
 www.nieuwauthentiekbloemendaal.doemee
-zonneparking.doemee
 mail01
 o1.ptr1802
 oud
@@ -3876,7 +3877,6 @@ e-diensten001
 esedge
 esrce
 gba-v
-gemeentebestuur
 horizonvdi
 hybridexo
 ipp
@@ -4085,3 +4085,11 @@ eikenhof
 klanten
 uitkeringprod
 uitkeringtest
+begraafplaats
+bouwtekeningen
+grootklooster.doemee
+jf.doemee
+johanwagenaarlaan-cesarfrancklaan-old.doemee
+johanwagenaarlaan-cesarfrancklaan.doemee
+plein1
+tradities
