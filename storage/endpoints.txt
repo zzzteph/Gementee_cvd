@@ -140,6 +140,7 @@ http://vergunningintaker.bernheze.org
 http://verkiezingen.dalfsen.nl
 http://welkom.ede.nl
 http://wij.bergen-nh.nl
+http://wion.gemeentestein.nl
 http://wob.arnhem.nl
 http://woz.amsterdam.nl
 http://www.baarn.nl
@@ -520,6 +521,7 @@ https://auth.apeldoorn.nl
 https://auth.denhaag.nl
 https://auth.doemee.bloemendaal.nl
 https://auth.gemeentehw.nl
+https://auth.gemeentestein.nl
 https://auth.openstad.deventer.nl
 https://auth.openstad.enschede.nl
 https://auth1.denhaag.nl
@@ -528,6 +530,7 @@ https://auth3.denhaag.nl
 https://auth4.denhaag.nl
 https://auth5.denhaag.nl
 https://auth7.denhaag.nl
+https://authenticatie.gemeentestein.nl
 https://authenticatiedienst.echt-susteren.nl
 https://authenticatiedienst.gemeentemaasgouw.nl
 https://authenticatiedienst.preprod.echt-susteren.nl
@@ -771,6 +774,7 @@ https://cmsdok.dronten.nl
 https://cmshofnet.coevorden.nl
 https://cmsintranet.edam-volendam.nl
 https://cmsintranet.gemeentebeek.nl
+https://cmsintranet.gemeentestein.nl
 https://cmsoo.assen.nl
 https://cmsoo.bodegraven-reeuwijk.nl
 https://cmsoo.borger-odoorn.nl
@@ -879,6 +883,7 @@ https://denkmee.bodegraven-reeuwijk.nl
 https://derondevenen.nl
 https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
+https://desktop.gemeentestein.nl
 https://desktop5.denhaag.nl
 https://deurne.nl
 https://dev01.deventer.nl
@@ -982,6 +987,7 @@ https://e-loketstaging.bergen.nl
 https://e-tstsys.dordrecht.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
+https://e.bewustwording.gemeentestein.nl
 https://e.borger-odoorn.nl
 https://e.dewolden.nl
 https://e.mailings.deventer.nl
@@ -1351,6 +1357,7 @@ https://gemeenteraad.dronten.nl
 https://gemeenteraad.etten-leur.nl
 https://gemeenteraad.gemeentemaashorst.nl
 https://gemeentesluis.nl
+https://gemeentestein.nl
 https://gemeentewinkel.gemeente-steenbergen.nl
 https://geo-secure.ermelo.nl
 https://geo.arnhem.nl
@@ -1509,6 +1516,7 @@ https://iburgerzaken.gemeente-steenbergen.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://iburgerzaken.gemeentemaashorst.nl
+https://iburgerzaken.gemeentestein.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -1594,6 +1602,7 @@ https://intranet.gemeente-steenbergen.nl
 https://intranet.gemeentebeek.nl
 https://intranet.gemeenteberkelland.nl
 https://intranet.gemeentesluis.nl
+https://intranet.gemeentestein.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms.bergendal.nl
 https://intranetcms.drimmelen.nl
@@ -2064,6 +2073,7 @@ https://open.dinkelland.nl
 https://open.doetinchem.nl
 https://open.ede.nl
 https://open.epe.nl
+https://open.gemeentestein.nl
 https://openbareruimte.deventer.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
@@ -2526,6 +2536,7 @@ https://sts.assen.nl
 https://sts.delft.nl
 https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
+https://sts.gemeentestein.nl
 https://subsidie.acceptatie.dordrecht.nl
 https://subsidie.almelo.nl
 https://subsidie.delft.nl
@@ -2574,6 +2585,7 @@ https://test-belastingbalie.eindhoven.nl
 https://test-cmsdok.dronten.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
+https://test-cmsintranet.gemeentestein.nl
 https://test-digikoppeling.brielle.nl
 https://test-e-loket.apeldoorn.nl
 https://test-eloket.brunssum.nl
@@ -2705,6 +2717,7 @@ https://voorschool.almere.nl
 https://vpn.almere.nl
 https://vpn.bergenopzoom.nl
 https://vpn.denhaag.nl
+https://vpn.gemeentestein.nl
 https://vpn02.denhaag.nl
 https://vpn365.denhelder.nl
 https://vraagbaak.doesburg.nl
@@ -2746,6 +2759,7 @@ https://webmail.dronten.nl
 https://webmail.ede.nl
 https://webmail.eemsdelta.nl
 https://webmail.geertruidenberg.nl
+https://webmail.gemeentestein.nl
 https://webmeeting.brunssum.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
@@ -2768,6 +2782,7 @@ https://werkenbij.enschede.nl
 https://werkenvoor.acceptatie.amstelveen.nl
 https://werkenvoor.amstelveen.nl
 https://werkenvoor.denhaag.nl
+https://werkenvoor.gemeentestein.nl
 https://werkomgeving.beesel.nl
 https://werkpakt.enschede.nl
 https://werkplek.almere.nl
@@ -2977,6 +2992,7 @@ https://www.gemeentenoordenveld.nl
 https://www.gemeenteraad.bloemendaal.nl
 https://www.gemeenteraad.etten-leur.nl
 https://www.gemeentesluis.nl
+https://www.gemeentestein.nl
 https://www.geo.arnhem.nl
 https://www.geobrowser.enschede.nl
 https://www.geuzenstatenkwartierfietst.denhaag.nl
