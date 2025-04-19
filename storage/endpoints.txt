@@ -37,6 +37,7 @@ http://autodiscover.delft.nl
 http://autodiscover.denhelder.nl
 http://autodiscover.derondevenen.nl
 http://begraafplaatsduinrust.beverwijk.nl
+http://beheer-test-trefpunt.deurne.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://cms-binnenshuis.bergen.nl
@@ -70,6 +71,7 @@ http://participatieprikbord.denhaag.nl
 http://plannen.asten.nl
 http://preproductie.beuningen.nl
 http://preproductie.dalfsen.nl
+http://preproductie.deurne.nl
 http://redirector.alkmaar.nl
 http://ro.brunssum.nl
 http://secure.dalfsen.nl
@@ -289,6 +291,7 @@ https://andreas2.amsterdam.nl
 https://andreas2.ont.amsterdam.nl
 https://andreas2.opl.amsterdam.nl
 https://andreas2.tst.amsterdam.nl
+https://any2info.deurne.nl
 https://aovpn.bergen.nl
 https://apeldoorn.nl
 https://apex.almere.nl
@@ -414,6 +417,7 @@ https://begraafplaatsreservering.bronckhorst.nl
 https://begroten.centrumbegroot.alphenaandenrijn.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 https://begroting.delft.nl
+https://beheer-trefpunt.deurne.nl
 https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
 https://beheerbeeldbank.breda.nl
@@ -503,6 +507,7 @@ https://broker.borger-odoorn.nl
 https://broker.buren.nl
 https://broker.coevorden.nl
 https://bronckhorst.nl
+https://bros-academie.deurne.nl
 https://brummen.nl
 https://brunssum.nl
 https://buitenoporde.defryskemarren.nl
@@ -627,6 +632,7 @@ https://derondevenen.nl
 https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
 https://desktop5.denhaag.nl
+https://deurne.nl
 https://deventit.breda.nl
 https://devportal.api.amsterdam.nl
 https://dex.meldingen.alphenaandenrijn.nl
@@ -770,6 +776,7 @@ https://eloket.bergendal.nl
 https://eloket.bloemendaal.nl
 https://eloket.brunssum.nl
 https://eloket.culemborg.nl
+https://eloket.deurne.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
 https://email.capelleaandenijssel.nl
@@ -1020,6 +1027,7 @@ https://iburgerzaken.cranendonck.nl
 https://iburgerzaken.culemborg.nl
 https://iburgerzaken.dalfsen.nl
 https://iburgerzaken.derondevenen.nl
+https://iburgerzaken.deurne.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -1145,6 +1153,7 @@ https://klachten.amsterdam.nl
 https://klantcontact.baarn.nl
 https://klantcontact.bergendal.nl
 https://klantcontact.beuningen.nl
+https://klantcontact.deurne.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
 https://klantportaal.denhaag.nl
@@ -1252,6 +1261,7 @@ https://mijn.debilt.nl
 https://mijn.defryskemarren.nl
 https://mijn.denhaag.nl
 https://mijn.denhelder.nl
+https://mijn.deurne.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -1265,6 +1275,7 @@ https://mijninkomen.almere.nl
 https://mijninkomen.beverwijk.nl
 https://mijninkomen.defryskemarren.nl
 https://mijninkomen.denhelder.nl
+https://mijnkaart.deurne.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnportaal.defryskemarren.nl
@@ -1675,6 +1686,7 @@ https://simcms.beekdaelen.nl
 https://simcms.bergeijk.nl
 https://simcms.beuningen.nl
 https://simcms.bronckhorst.nl
+https://simcms.deurne.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simsite.beekdaelen.nl
 https://simsite.bergeijk.nl
@@ -1788,6 +1800,7 @@ https://test-intranet.beuningen.nl
 https://test-subsidiebeheer.alkmaar.nl
 https://test-subsidieloket.alkmaar.nl
 https://test-topvorm.apeldoorn.nl
+https://test-trefpunt.deurne.nl
 https://test-zaakloket.ameland.nl
 https://test.app.amsterdam.nl
 https://test.beverwijk.nl
@@ -1804,6 +1817,7 @@ https://testeloket.asten.nl
 https://testeloket.beesel.nl
 https://testeloket.bergendal.nl
 https://testeloket.culemborg.nl
+https://testeloket.deurne.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testmeldingen.asten.nl
 https://testmijnzaken.derondevenen.nl
@@ -1823,6 +1837,7 @@ https://tourbuzz.amsterdam.nl
 https://tr.barneveld.nl
 https://tracking.amersfoort.nl
 https://tradities.doemee.bloemendaal.nl
+https://trefpunt.deurne.nl
 https://tst-ubor.amsterdam.nl
 https://ubor.amsterdam.nl
 https://uc.beverwijk.nl
@@ -2120,6 +2135,7 @@ https://www.ypenburgaanzet.denhaag.nl
 https://www.zkd.denhaag.nl
 https://www.zomerprogramma070.denhaag.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
+https://xelion.deurne.nl
 https://xencor.bergenopzoom.nl
 https://xencort.bergenopzoom.nl
 https://ypenburgaanzet.denhaag.nl
