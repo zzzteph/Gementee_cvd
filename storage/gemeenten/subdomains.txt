@@ -170,6 +170,7 @@ acceptatie-vaarvergunningen.amsterdam.nl
 acceptatie.aalsmeer.nl
 acceptatie.alphen-chaam.nl
 acceptatie.amstelveen.nl
+acceptatie.asten.nl
 access.oa.amsterdam.nl
 achtkarspelen.nl
 activesync.amersfoort.nl
@@ -197,6 +198,7 @@ afspraken.alkmaar.nl
 afspraken.amersfoort.nl
 afspraken.apeldoorn.nl
 afspraken.assen.nl
+afspraken.asten.nl
 afval.assen.nl
 afvalkalender.alphenaandenrijn.nl
 agbi.apeldoorn.nl
@@ -331,6 +333,7 @@ asp4all-1.amsterdam.nl
 assen.nl
 assengast1.assen.nl
 assengast2.assen.nl
+asten.nl
 ata.acc.amsterdam.nl
 atijdschrijven.apeldoorn.nl
 atlas.amstelveen.nl
@@ -352,6 +355,7 @@ autodiscover.amersfoort.nl
 autodiscover.amstelveen.nl
 autodiscover.amsterdam.nl
 autodiscover.arnhem.nl
+autodiscover.asten.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -363,10 +367,12 @@ av.alkmaar.nl
 avproxy.vga.amsterdam.nl
 awm.acc.amsterdam.nl
 awm.amsterdam.nl
+awmag.asten.nl
 bag.assen.nl
 basis.werkeninkomen.amsterdam.nl
 basisstatistiek.amsterdam.nl
 bastion365.assen.nl
+bastion365.asten.nl
 bc.amsterdam.nl
 bda-bi-01.bda.amsterdam.nl
 bda-mcafee-01.dba.amsterdam.nl
@@ -527,6 +533,8 @@ demo-onderwijsloket.amsterdam.nl
 demo.onderwijssubsidies.amsterdam.nl
 denkmee.achtkarspelen.nl
 denkmee.amstelveen.nl
+deschop.acceptatie.asten.nl
+deschop.asten.nl
 desktop.apeldoorn.nl
 deurwaardersloket.amersfoort.nl
 dev.rnd.amsterdam.nl
@@ -561,12 +569,14 @@ digitaleplannen.apeldoorn.nl
 digitaletweeling.alkmaar.nl
 diko.apeldoorn.nl
 directadmin.almelo.nl
+dk.asten.nl
 dkd-prod.alphenaandenrijn.nl
 dkd-test.alphenaandenrijn.nl
 dkd.aalten.nl
 dkd.almelo.nl
 dkd.amersfoort.nl
 dkd.arnhem.nl
+dktest.asten.nl
 dloket.assen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -655,6 +665,7 @@ egress-repro.alkmaar.nl
 elkk.amsterdam.nl
 eloket.almere.nl
 eloket.arnhem.nl
+eloket.asten.nl
 eloketstaging.almere.nl
 email.amsterdam.nl
 email.mail.denkmee.amstelveen.nl
@@ -845,6 +856,7 @@ groenengezond.almere.nl
 grondbank-click.amsterdam.nl
 growinggreencities.almere.nl
 gsmpt.stadstoezicht.amsterdam.nl
+guido.asten.nl
 gviservices.intranet.amsterdam.nl
 gviservicestest.intranet.amsterdam.nl
 gvz2digikoppeling.acc.amsterdam.nl
@@ -902,6 +914,7 @@ iburgerzaken.alphen-chaam.nl
 iburgerzaken.amersfoort.nl
 iburgerzaken.apeldoorn.nl
 iburgerzaken.assen.nl
+iburgerzaken.asten.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -909,6 +922,8 @@ ibzpink.alphen-chaam.nl
 ibzpink.amersfoort.nl
 ibzpink.apeldoorn.nl
 ibzpink.assen.nl
+ibzpink.asten.nl
+icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
 id-beheer-erfpacht-ont.amsterdam.nl
@@ -1021,6 +1036,7 @@ les-acc.amsterdam.nl
 listen2.dro.amsterdam.nl
 logilink.gbamailbox.amersfoort.nl
 login.alphenaandenrijn.nl
+loket-acc.asten.nl
 loket.aaenhunze.nl
 loket.aalsmeer.nl
 loket.acceptatie.aaenhunze.nl
@@ -1032,6 +1048,7 @@ loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
 loket.amsterdam.nl
+loket.asten.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
@@ -1052,6 +1069,7 @@ mail.amersfoort.nl
 mail.amsterdam.nl
 mail.apeldoorn.nl
 mail.arnhem.nl
+mail.asten.nl
 mail.dmb.amsterdam.nl
 mail.noord.amsterdam.nl
 mail1.amersfoort.nl
@@ -1102,6 +1120,7 @@ meldingen.alphenaandenrijn.nl
 meldingen.amsterdam.nl
 meldingen.apeldoorn.nl
 meldingen.assen.nl
+meldingen.asten.nl
 meldingenamsterdamsebos.amsterdam.nl
 meldingenweesp.amsterdam.nl
 mfa-rooster.arnhem.nl
@@ -1219,6 +1238,7 @@ objecttype-beheer-erfpacht-ont.amsterdam.nl
 objecttype-beheer-erfpacht.amsterdam.nl
 objecttypen.assen.nl
 objecttypes-api.wonenportaal.amsterdam.nl
+obsurv.asten.nl
 octobox.apeldoorn.nl
 octopus-portaal.amsterdam.nl
 octopus-webdav.acc.amsterdam.nl
@@ -1338,6 +1358,7 @@ piwik.datapunt.amsterdam.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
 planmonitor.acc.amsterdam.nl
+plannen.asten.nl
 planningsassistent.stadswerken.amsterdam.nl
 planningsmanagement.amsterdam.nl
 planon-acc.almere.nl
@@ -1393,9 +1414,11 @@ qr.amersfoort.nl
 qr.arnhem.nl
 qr.digitaalgemeenteloket.alphenaandenrijn.nl
 qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
+raad.acceptatie.asten.nl
 raad.alblasserdam.nl
 raad.albrandswaard.nl
 raad.arnhem.nl
+raad.asten.nl
 raadsnet.aalten.nl
 rabbitmq.datapunt.amsterdam.nl
 rds.vga.amsterdam.nl
@@ -1458,6 +1481,8 @@ schemas.data.amsterdam.nl
 schoolwijzer.amsterdam.nl
 schulddossier.amsterdam.nl
 scorpio.assen.nl
+sd.asten.nl
+sdtest.asten.nl
 se.vga.amsterdam.nl
 search.amsterdam.nl
 search.data.amsterdam.nl
@@ -1539,6 +1564,9 @@ spa4d.amsterdam.nl
 spa4dweb.amsterdam.nl
 speleninoost.amsterdam.nl
 speleninzuid.amsterdam.nl
+spf-ogone01.asten.nl
+spf-ogone02.asten.nl
+spf-wind.asten.nl
 sportencultuur.almere.nl
 sportparken.datapunt.amsterdam.nl
 sportsupport.almere.nl
@@ -1635,7 +1663,9 @@ testafspraken.alkmaar.nl
 testdigid.arnhem.nl
 testdigitaalgemeenteloket.alphenaandenrijn.nl
 testeloket.arnhem.nl
+testeloket.asten.nl
 testkaart.alphenaandenrijn.nl
+testmeldingen.asten.nl
 testportaal.almelo.nl
 testsiam.ameland.nl
 thuiswerken.almere.nl
@@ -1815,6 +1845,7 @@ www.amsterdam.nl
 www.apeldoorn.nl
 www.arnhem.nl
 www.assen.nl
+www.asten.nl
 www.ateliers.amsterdam.nl
 www.atlas.amsterdam.nl
 www.baarsjes.amsterdam.nl
