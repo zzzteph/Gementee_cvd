@@ -269,6 +269,7 @@ afspraken.brummen.nl
 afspraken.brunssum.nl
 afspraken.buren.nl
 afspraken.cranendonck.nl
+afspraken.dalfsen.nl
 afval.assen.nl
 afvalkalender.alphenaandenrijn.nl
 afvalkalender.borsele.nl
@@ -455,6 +456,7 @@ autodiscover.brielle.nl
 autodiscover.brummen.nl
 autodiscover.coevorden.nl
 autodiscover.cranendonck.nl
+autodiscover.dalfsen.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -727,6 +729,7 @@ dacceptatiemidoffice.borne.nl
 dacceptatiemidoffice.brielle.nl
 dacceptatiemidoffice.coevorden.nl
 dagbesteding.apeldoorn.nl
+dalfsen.nl
 dali.alphenaandenrijn.nl
 dali.brielle.nl
 dap.amsterdam.nl
@@ -858,6 +861,7 @@ dkd.beverwijk.nl
 dkd.boxtel.nl
 dkd.brunssum.nl
 dkd.culemborg.nl
+dkd.dalfsen.nl
 dkdtest.brunssum.nl
 dkp.barneveld.nl
 dkt.barneveld.nl
@@ -1033,6 +1037,7 @@ enterpriseenrollment.arnhem.nl
 enterpriseenrollment.bergenopzoom.nl
 enterpriseenrollment.bladel.nl
 enterpriseenrollment.bronckhorst.nl
+enterpriseenrollment.dalfsen.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone.almere.nl
@@ -1107,6 +1112,7 @@ felix.bronckhorst.nl
 felix.bunschoten.nl
 felix.capelleaandenijssel.nl
 felix.cranendonck.nl
+felix.dalfsen.nl
 fgt.amstelveen.nl
 fibu.amsterdam.nl
 fibu.dwiweb.amsterdam.nl
@@ -1121,6 +1127,7 @@ financials.apeldoorn.nl
 financien.amersfoort.nl
 financien.arnhem.nl
 financien.coevorden.nl
+financien.dalfsen.nl
 firewall.servers1.bergen-nh.nl
 fise02.oudzuid.amsterdam.nl
 fixxx10.amsterdam.nl
@@ -1175,6 +1182,7 @@ formulieren.bodegraven-reeuwijk.nl
 formulieren.bronckhorst.nl
 formulieren.buren.nl
 formulieren.culemborg.nl
+formulieren.dalfsen.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -1233,6 +1241,7 @@ geo.breda.nl
 geo.brunssum.nl
 geo.buren.nl
 geo.capelleaandenijssel.nl
+geo.dalfsen.nl
 geo1.arnhem.nl
 geodata.almelo.nl
 geografie.bronckhorst.nl
@@ -1284,6 +1293,7 @@ gpt.apeldoorn.nl
 grmks06.borsele.nl
 groenengezond.almere.nl
 grondbank-click.amsterdam.nl
+grooster.dalfsen.nl
 growinggreencities.almere.nl
 gsmpt.stadstoezicht.amsterdam.nl
 guest.beekdaelen.nl
@@ -1324,6 +1334,7 @@ huishoudboekje.amersfoort.nl
 hybrid.almelo.nl
 hybrid.almere.nl
 hybrid.beverwijk.nl
+hybrid.dalfsen.nl
 hybridmail.amersfoort.nl
 iam-acc.almere.nl
 iam.almere.nl
@@ -1378,6 +1389,7 @@ iburgerzaken.buren.nl
 iburgerzaken.coevorden.nl
 iburgerzaken.cranendonck.nl
 iburgerzaken.culemborg.nl
+iburgerzaken.dalfsen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1409,6 +1421,7 @@ ibzpink.buren.nl
 ibzpink.coevorden.nl
 ibzpink.cranendonck.nl
 ibzpink.culemborg.nl
+ibzpink.dalfsen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1421,10 +1434,12 @@ id-erfpacht-ont.amsterdam.nl
 id-erfpacht-tst.amsterdam.nl
 id-erfpacht.amsterdam.nl
 id.amsterdam.nl
+id.dalfsen.nl
 identity.bergenopzoom.nl
 identityota.bergenopzoom.nl
 idp.ggd.amsterdam.nl
 ids.almelo.nl
+idtst.dalfsen.nl
 iedereenwerktmee.aisa.amsterdam.nl
 iedereenwerktmee.amsterdam.nl
 iedereenwerktmee.cisa.amsterdam.nl
@@ -1526,6 +1541,7 @@ join-test.almelo.nl
 join.almelo.nl
 join.bijzondereprojecten.acc.amsterdam.nl
 join.bijzondereprojecten.amsterdam.nl
+joinconnect.dalfsen.nl
 jongerenraad.barneveld.nl
 jongin.borsele.nl
 joost.beuningen.nl
@@ -1567,6 +1583,7 @@ kimgoa.acc.amsterdam.nl
 kimgoa.amsterdam.nl
 kinderburgemeester.alphenaandenrijn.nl
 kinderburgemeester.apeldoorn.nl
+kindregeling.dalfsen.nl
 klachten.amsterdam.nl
 klantcontact.baarn.nl
 klantcontact.bergendal.nl
@@ -1952,6 +1969,8 @@ onderwijssubsidies.amsterdam.nl
 onderzoek.amersfoort.nl
 onderzoek.amsterdam.nl
 onderzoek.breda.nl
+online-aanvraag-test.dalfsen.nl
+online-aanvraag.dalfsen.nl
 onlineregelen.alphenaandenrijn.nl
 onlineregelenstaging.alphenaandenrijn.nl
 ont.api.amsterdam.nl
@@ -2113,6 +2132,7 @@ portal.borne.nl
 portal.brandweer.amsterdam.nl
 portal.brummen.nl
 portal.dab.amsterdam.nl
+portal.dalfsen.nl
 portal.data.alkmaar.nl
 portal.dro.amsterdam.nl
 portal.ggd.amsterdam.nl
@@ -2152,6 +2172,7 @@ preproductie.bunschoten.nl
 preproductie.castricum.nl
 preproductie.cranendonck.nl
 preproductie.culemborg.nl
+preproductie.dalfsen.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
 probeer-energiek.beuningen.nl
@@ -2169,6 +2190,7 @@ probeer.bladel.nl
 probeer.brielle.nl
 probeer.bronckhorst.nl
 probeer.cranendonck.nl
+probeer.dalfsen.nl
 programmabegroting.bronckhorst.nl
 programmabegroting2022.bronckhorst.nl
 programmabegroting2023.bronckhorst.nl
@@ -2194,6 +2216,7 @@ pv.beesel.nl
 pv.bergen-nh.nl
 pv.bodegraven-reeuwijk.nl
 pv.castricum.nl
+pv.dalfsen.nl
 pv.diensten.almere.nl
 pwa.barendrecht.nl
 qr-acc.capelleaandenijssel.nl
@@ -2239,6 +2262,7 @@ remote.castricum.nl
 remote.centrum.amsterdam.nl
 rep.bronckhorst.nl
 reserveren.coevorden.nl
+ris.dalfsen.nl
 riv.apeldoorn.nl
 riviewer.apeldoorn.nl
 rnd.amsterdam.nl
@@ -2317,6 +2341,7 @@ secure.brunssum.nl
 secure.capelleaandenijssel.nl
 secure.castricum.nl
 secure.culemborg.nl
+secure.dalfsen.nl
 securegw.bunschoten.nl
 securemail.borne.nl
 selfservice.ggd.amsterdam.nl
@@ -2335,6 +2360,7 @@ sfte.amsterdam.nl
 sharefile.acc.amsterdam.nl
 sharefile.amsterdam.nl
 sharefile.borne.nl
+sharepoint.dalfsen.nl
 sharepoint.pbbodem.amsterdam.nl
 sherlock-fa.amsterdam.nl
 sherlock-ft.amsterdam.nl
@@ -2380,6 +2406,7 @@ simcms.bronckhorst.nl
 simcms.bunschoten.nl
 simcms.capelleaandenijssel.nl
 simcms.cranendonck.nl
+simcms.dalfsen.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -2668,6 +2695,7 @@ verhuisportaal.amsterdam.nl
 verkeer.amsterdam.nl
 verkiezingen.albrandswaard.nl
 verkiezingen.barendrecht.nl
+verkiezingen.dalfsen.nl
 vga.amsterdam.nl
 victor.amsterdam.nl
 view.brunssum.nl
@@ -2822,6 +2850,7 @@ wozloket-acc.borger-odoorn.nl
 wozloket-acc.coevorden.nl
 wozloket.borger-odoorn.nl
 wozloket.coevorden.nl
+wozloket.dalfsen.nl
 wpdagast1.assen.nl
 wpdagast2.assen.nl
 wpi.amsterdam.nl
@@ -2914,6 +2943,7 @@ www.containersweesperbuurt.amsterdam.nl
 www.cranendonck.nl
 www.crk.amsterdam.nl
 www.culemborg.nl
+www.dalfsen.nl
 www.data.amsterdam.nl
 www.dmo.amsterdam.nl
 www.dmo2.amsterdam.nl
