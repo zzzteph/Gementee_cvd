@@ -29,6 +29,7 @@ aanmeldenparkeren.beverwijk.nl
 aanpakvolkshuisvesting.amsterdam.nl
 aanvragen.alkmaar.nl
 acc-broker.assen.nl
+acc-broker.borger-odoorn.nl
 acc-contact.assen.nl
 acc-contact.dev.assen.nl
 acc-formulier.assen.nl
@@ -409,6 +410,7 @@ autodiscover.beuningen.nl
 autodiscover.beverwijk.nl
 autodiscover.bloemendaal.nl
 autodiscover.bodegraven-reeuwijk.nl
+autodiscover.borger-odoorn.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -532,6 +534,7 @@ boekel.nl
 bomen.amsterdam.nl
 bomen.ont.amsterdam.nl
 boostjebuurt.amsterdam.nl
+borger-odoorn.nl
 bounces-eps.amsterdam.nl
 bouwdossiers.amsterdam.nl
 bp.data.amsterdam.nl
@@ -540,6 +543,7 @@ brediusbad.amsterdam.nl
 broker.aalten.nl
 broker.assen.nl
 broker.bernheze.org
+broker.borger-odoorn.nl
 buikslotermeerplein.amsterdam.nl
 burgerzaken.amsterdam.nl
 buurtbudget.amsterdam.nl
@@ -575,6 +579,7 @@ cms.bernheze.org
 cmsbink.beverwijk.nl
 cmsoo.assen.nl
 cmsoo.bodegraven-reeuwijk.nl
+cmsoo.borger-odoorn.nl
 college.alblasserdam.nl
 college.albrandswaard.nl
 conference.assen.nl
@@ -604,7 +609,9 @@ cuup-web.amsterdam.nl
 daalder-dash.makkelijkemarkt.amsterdam.nl
 daalder.makkelijkemarkt.amsterdam.nl
 dacceptatieloket.assen.nl
+dacceptatieloket.borger-odoorn.nl
 dacceptatiemidoffice.assen.nl
+dacceptatiemidoffice.borger-odoorn.nl
 dagbesteding.apeldoorn.nl
 dali.alphenaandenrijn.nl
 dap.amsterdam.nl
@@ -722,9 +729,11 @@ dkp.barneveld.nl
 dkt.barneveld.nl
 dktest.asten.nl
 dloket.assen.nl
+dloket.borger-odoorn.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
+dmidoffice.borger-odoorn.nl
 dmpfunc002.amsterdam.nl
 dmz-websrv.achtkarspelen.nl
 dns1.arnhem.nl
@@ -745,6 +754,7 @@ druktebeeld.amsterdam.nl
 drupalintranet.bergeijk.nl
 dso.data.amsterdam.nl
 dsr.maps.amsterdam.nl
+dtestloket.borger-odoorn.nl
 dusk-acc-openwave.beverwijk.nl
 dusk-openwave.beverwijk.nl
 duurzaam.alphenaandenrijn.nl
@@ -784,6 +794,7 @@ e-net.amsterdam.nl
 e-net.intranet.amsterdam.nl
 e.achtkarspelen.nl
 e.almelo.nl
+e.borger-odoorn.nl
 ebms.achtkarspelen.nl
 edienstenaanvragensd-acceptatie.albrandswaard.nl
 edienstenaanvragensd-acceptatie.barendrecht.nl
@@ -907,6 +918,7 @@ evenementen.assen.nl
 exchange.alphenaandenrijn.nl
 exchange.assen.nl
 exchange2.alphenaandenrijn.nl
+extern.borger-odoorn.nl
 extern.oa.amsterdam.nl
 extranet.baarn.nl
 extranet.vga.amsterdam.nl
@@ -1129,6 +1141,7 @@ iamwwextern.amsterdam.nl
 iarchief.beekdaelen.nl
 iarchief.werkeninkomen.amsterdam.nl
 iba.amsterdam.nl
+ibo.borger-odoorn.nl
 iburgerzaken.aaenhunze.nl
 iburgerzaken.achtkarspelen.nl
 iburgerzaken.almelo.nl
@@ -1150,6 +1163,7 @@ iburgerzaken.blaricum.nl
 iburgerzaken.bloemendaal.nl
 iburgerzaken.bodegraven-reeuwijk.nl
 iburgerzaken.boekel.nl
+iburgerzaken.borger-odoorn.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1171,6 +1185,7 @@ ibzpink.blaricum.nl
 ibzpink.bloemendaal.nl
 ibzpink.bodegraven-reeuwijk.nl
 ibzpink.boekel.nl
+ibzpink.borger-odoorn.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1233,6 +1248,7 @@ intranet.bergendal.nl
 intranet.bernheze.org
 intranet.beverwijk.nl
 intranet.boekel.nl
+intranet.borger-odoorn.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.geuzenveld.amsterdam.nl
@@ -1322,6 +1338,7 @@ lerenloont.almere.nl
 les-acc.amsterdam.nl
 listen2.dro.amsterdam.nl
 live.bergen-nh.nl
+localhost.borger-odoorn.nl
 logilink.gbamailbox.amersfoort.nl
 login.alphenaandenrijn.nl
 login.bergen.nl
@@ -1406,7 +1423,9 @@ me-api.amsterdam.nl
 medeleven.apeldoorn.nl
 media.assen.nl
 meedenken.arnhem.nl
+meedoen-acc.borger-odoorn.nl
 meedoen.baarn.nl
+meedoen.borger-odoorn.nl
 meent.alkmaar.nl
 meet.acc.amsterdam.nl
 meet.assen.nl
@@ -1597,6 +1616,7 @@ old.arnhem.nl
 oldenhove.doemee.bloemendaal.nl
 ombudsman.amsterdam.nl
 omgevingsvisie.almelo.nl
+omgevingsvisie.borger-odoorn.nl
 omgevingsvisie.doemee.bloemendaal.nl
 omslagroute.amsterdam.nl
 onderhoudspagina.amsterdam.nl
@@ -1718,6 +1738,7 @@ piwik.datapunt.amsterdam.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
 pki.bladel.nl
+pki.borger-odoorn.nl
 planmonitor.acc.amsterdam.nl
 plannen.asten.nl
 planningsassistent.stadswerken.amsterdam.nl
@@ -2137,6 +2158,7 @@ testkaart.alphenaandenrijn.nl
 testmeldingen.asten.nl
 testportaal.almelo.nl
 testsiam.ameland.nl
+testwozloket.borger-odoorn.nl
 thuiswerken.almere.nl
 thuiswerken.bergen-nh.nl
 thuiswerken.dwi.amsterdam.nl
@@ -2162,6 +2184,7 @@ tracking.amersfoort.nl
 tradities.doemee.bloemendaal.nl
 transform.oa.amsterdam.nl
 tst-ubor.amsterdam.nl
+typo3.borger-odoorn.nl
 ubor.amsterdam.nl
 uc.beverwijk.nl
 uca.bergen-nh.nl
@@ -2306,6 +2329,7 @@ wob.amsterdam.nl
 wob.arnhem.nl
 wonenportaal.amsterdam.nl
 woningbouwkaart.assen.nl
+woningbouwkaart.borger-odoorn.nl
 woningdossier.assen.nl
 woo.arnhem.nl
 wooloket.bernheze.org
@@ -2313,6 +2337,8 @@ wooninstrumenten.almelo.nl
 workspace365.almelo.nl
 woz-portaal-eemnes.baarn.nl
 woz.amsterdam.nl
+wozloket-acc.borger-odoorn.nl
+wozloket.borger-odoorn.nl
 wpdagast1.assen.nl
 wpdagast2.assen.nl
 wpi.amsterdam.nl
@@ -2376,6 +2402,7 @@ www.bma.amsterdam.nl
 www.bodegraven-reeuwijk.nl
 www.boekel.nl
 www.bolwerken.amsterdam.nl
+www.borger-odoorn.nl
 www.buikslotermeerplein.amsterdam.nl
 www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
@@ -2413,6 +2440,7 @@ www.ggd.amsterdam.nl
 www.glazenstad.amsterdam.nl
 www.gpi.amsterdam.nl
 www.handhavingsacademie.amsterdam.nl
+www.ibo.borger-odoorn.nl
 www.iedereenwerktmee.amsterdam.nl
 www.inspraakmaatregel15.amsterdam.nl
 www.intranet.nieuwsbrief.amsterdam.nl

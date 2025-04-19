@@ -22,6 +22,7 @@ http://autodiscover.bergenopzoom.nl
 http://autodiscover.beuningen.nl
 http://autodiscover.bloemendaal.nl
 http://autodiscover.bodegraven-reeuwijk.nl
+http://autodiscover.borger-odoorn.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://cms-binnenshuis.bergen.nl
 http://digitaalnachtregister.alphen-chaam.nl
@@ -84,6 +85,7 @@ https://aanmeldenparkeren-acc.beverwijk.nl
 https://aanmeldenparkeren.amsterdam.nl
 https://aanmeldenparkeren.beverwijk.nl
 https://acc-broker.assen.nl
+https://acc-broker.borger-odoorn.nl
 https://acc-contact.assen.nl
 https://acc-contact.dev.assen.nl
 https://acc-formulier.assen.nl
@@ -349,6 +351,7 @@ https://bodegraven-reeuwijk.nl
 https://boekel.nl
 https://bomen.amsterdam.nl
 https://bomen.ont.amsterdam.nl
+https://borger-odoorn.nl
 https://bounces-eps.amsterdam.nl
 https://bouwdossiers.amsterdam.nl
 https://bp.data.amsterdam.nl
@@ -356,6 +359,7 @@ https://brediusbad.amsterdam.nl
 https://broker.aalten.nl
 https://broker.assen.nl
 https://broker.bernheze.org
+https://broker.borger-odoorn.nl
 https://burgerzaken.amsterdam.nl
 https://buurtbudget.amsterdam.nl
 https://buurtbudgetnoord.amsterdam.nl
@@ -375,6 +379,7 @@ https://cms.bernheze.org
 https://cmsbink.beverwijk.nl
 https://cmsoo.assen.nl
 https://cmsoo.bodegraven-reeuwijk.nl
+https://cmsoo.borger-odoorn.nl
 https://college.alblasserdam.nl
 https://college.albrandswaard.nl
 https://connect-preprod.almere.nl
@@ -396,6 +401,7 @@ https://cuup-web.amsterdam.nl
 https://daalder-dash.makkelijkemarkt.amsterdam.nl
 https://daalder.makkelijkemarkt.amsterdam.nl
 https://dacceptatieloket.assen.nl
+https://dacceptatieloket.borger-odoorn.nl
 https://dagbesteding.apeldoorn.nl
 https://dali.alphenaandenrijn.nl
 https://dap.amsterdam.nl
@@ -448,6 +454,7 @@ https://digitaalgemeenteloket.alphenaandenrijn.nl
 https://digitaleplannen.apeldoorn.nl
 https://directadmin.almelo.nl
 https://dloket.assen.nl
+https://dloket.borger-odoorn.nl
 https://dmafunc002.amsterdam.nl
 https://dmpfunc002.amsterdam.nl
 https://documenten.acceptatie.amstelveen.nl
@@ -484,6 +491,7 @@ https://e-loket.bergen.nl
 https://e-loketstaging.bergen.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
+https://e.borger-odoorn.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
 https://edienstenaanvragensd-acceptatie.barendrecht.nl
 https://edienstenaanvragensd.albrandswaard.nl
@@ -706,6 +714,7 @@ https://iburgerzaken.blaricum.nl
 https://iburgerzaken.bloemendaal.nl
 https://iburgerzaken.bodegraven-reeuwijk.nl
 https://iburgerzaken.boekel.nl
+https://iburgerzaken.borger-odoorn.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -820,7 +829,9 @@ https://maps.bodegraven-reeuwijk.nl
 https://matenpark.apeldoorn.nl
 https://mbg1.beverwijk.nl
 https://meedenken.arnhem.nl
+https://meedoen-acc.borger-odoorn.nl
 https://meedoen.baarn.nl
+https://meedoen.borger-odoorn.nl
 https://meet.ggd.amsterdam.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen-acc.almere.nl
@@ -938,6 +949,7 @@ https://oidc.erfpachtzakelijk-dev.amsterdam.nl
 https://oidc.erfpachtzakelijk-ont.amsterdam.nl
 https://oldenhove.doemee.bloemendaal.nl
 https://omgevingsvisie.almelo.nl
+https://omgevingsvisie.borger-odoorn.nl
 https://omgevingsvisie.doemee.bloemendaal.nl
 https://omslagroute.amsterdam.nl
 https://ondernemers.bloemendaal.nl
@@ -1207,6 +1219,7 @@ https://testformulieren.bodegraven-reeuwijk.nl
 https://testmeldingen.asten.nl
 https://testportaal.almelo.nl
 https://testsiam.ameland.nl
+https://testwozloket.borger-odoorn.nl
 https://thuiswerken.almere.nl
 https://tijdschrijven.apeldoorn.nl
 https://tma.acc.amsterdam.nl
@@ -1281,10 +1294,13 @@ https://wmoportaal.wzs.amsterdam.nl
 https://wob.amsterdam.nl
 https://wonenportaal.amsterdam.nl
 https://woningbouwkaart.assen.nl
+https://woningbouwkaart.borger-odoorn.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
 https://wooloket.bernheze.org
 https://workspace365.almelo.nl
+https://wozloket-acc.borger-odoorn.nl
+https://wozloket.borger-odoorn.nl
 https://wppbeheer.acc.amsterdam.nl
 https://wppbeheer.amsterdam.nl
 https://www.aaenhunze.nl
@@ -1320,6 +1336,7 @@ https://www.blaricum.nl
 https://www.bloemendaal.nl
 https://www.bodegraven-reeuwijk.nl
 https://www.boekel.nl
+https://www.borger-odoorn.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl

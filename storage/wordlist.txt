@@ -46,6 +46,7 @@ duurzaam
 afspraak
 api.meldingen-acc
 _autodiscover._tcp
+broker
 denkmee
 ruimtelijkeplannen
 openpdc
@@ -61,7 +62,7 @@ www.duurzaam
 testeloket
 remote
 loket.test
-broker
+e
 kennisbank
 portaal
 zaken
@@ -83,6 +84,7 @@ gemeente
 parkeren-acc
 open
 opendata
+cmsoo
 obsurv
 klantcontact
 simcms-preproductie
@@ -99,7 +101,6 @@ documenten
 preprodbroker
 raadsnet
 vergunningintaker
-e
 geovisia
 iparticipatie
 simform
@@ -118,6 +119,7 @@ autorisatie
 izaaksuite
 osbacc
 www.werkenbij
+omgevingsvisie
 parkeren-test
 piwik
 start
@@ -167,16 +169,23 @@ gis
 mijngeldzaken
 ndes
 www.raad
+acc-broker
 bastion365
 bgt
 bis
-cmsoo
+dacceptatieloket
+dacceptatiemidoffice
+dloket
+dmidoffice
 test-digikoppeling
+woningbouwkaart
+meedoen
 fmreturn
 jccapi
 uca
 data-test
 data.gemnet
+pki
 webapps
 email.mail.participatie
 participatie
@@ -284,7 +293,6 @@ nac
 netwerkstad
 objectenregistratie-api
 objectenregistratie
-omgevingsvisie
 servicedesk
 smoelennet
 subsidie
@@ -1597,7 +1605,6 @@ www.meedenken
 www.mijn
 www.old
 www.vastgoedbedrijf
-acc-broker
 acc-contact
 acc-contact.dev
 acc-formulier
@@ -1628,15 +1635,11 @@ assengast2
 bag
 bedrijfsafval
 conference
-dacceptatieloket
-dacceptatiemidoffice
 dcagast1
 dcagast2
 dialin
 digikoppeling-mks-test
 digikoppeling-mks
-dloket
-dmidoffice
 geohr
 keycloak
 lyncdiscover
@@ -1674,7 +1677,6 @@ web2print
 webconf
 werknemersportaal
 widocmksp001
-woningbouwkaart
 woningdossier
 wpdagast1
 wpdagast2
@@ -1709,7 +1711,6 @@ cloudadapter
 extranet
 geoserver-test
 geoserver
-meedoen
 neuron.prod
 neuron.test
 preprod-woz-portaal-eemnes
@@ -1868,7 +1869,6 @@ sophos
 test-bink
 test-cmsbink
 uc
-pki
 NLGEMBRC
 nlgembrc
 Autorisatietest
@@ -1903,3 +1903,13 @@ testformulieren
 gms
 mksp01bkl
 www.webmail
+dtestloket
+extern
+ibo
+localhost
+meedoen-acc
+testwozloket
+typo3
+wozloket-acc
+wozloket
+www.ibo
