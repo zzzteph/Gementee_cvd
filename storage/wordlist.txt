@@ -33,10 +33,11 @@ broker
 gemeenteraad
 geo
 pv
+werkplek
 eloket
 enterpriseenrollment
-werkplek
 waarmerk
+open
 api.meldingen
 loket.acceptatie
 iparticipatie
@@ -45,12 +46,13 @@ vpn
 werkenbij
 omgevingsvisie
 parkeren
-open
 remote
 mijnzorg
 test-ipa
 raad
 openpdc
+osb
+zaaksysteem-accept
 digikoppeling-test
 testeloket
 cmsoo
@@ -60,8 +62,6 @@ dloket
 dmidoffice
 zaken
 openpub
-osb
-zaaksysteem-accept
 mijninkomen
 piwik
 kaart
@@ -82,6 +82,7 @@ nieuwsbrief
 cloudadapter-test
 cloudadapter
 pki
+filecap
 api.meldingen-acc
 mijnzorg-acc
 kennisbank
@@ -99,7 +100,6 @@ acc-broker
 bgt
 belastingloket
 mdm
-filecap
 AutoDiscover
 connect
 belastingportaal
@@ -194,6 +194,7 @@ uca
 data-test
 intranet-acc
 simcms-open
+uc
 www.doemee
 acc.piwik
 www.webmail
@@ -322,6 +323,7 @@ meet
 notificaties
 objecten
 objecttypen
+owa
 test-formulier
 test-keycloak-admin
 test-keycloak
@@ -355,7 +357,6 @@ csc
 digid-parkeervergunningen
 mbg1
 micollab
-uc
 extern
 localhost
 wozloket-acc
@@ -1783,7 +1784,6 @@ geohr
 mijnplein
 openklant
 organisatieontwikkeling
-owa
 point
 scorpio
 slimbereikbaar
@@ -3096,3 +3096,10 @@ www.nieuwsbrief
 www.toegankelijk
 www.werkpakt
 zwik.openstad
+cmswhatsepe
+dkdn
+dktstdn
+sstpvpn
+whatsepe
+www.filecap
+zoek
