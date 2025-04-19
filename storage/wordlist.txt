@@ -24,10 +24,10 @@ formulieren
 acc
 broker
 werkplek
+waarmerk
 afspraak
 dkd
 portal
-waarmerk
 adfs
 eloket
 betalen
@@ -156,6 +156,7 @@ mobile
 smtp
 AutoDiscover
 jaarstukken
+squit2go
 contentbeheer.acceptatie
 contentbeheer
 zaken.acceptatie
@@ -203,7 +204,6 @@ www.doemee
 xential
 mobiel
 inloggen
-squit2go
 inproces.acceptatie
 inproces
 toegang
@@ -214,7 +214,9 @@ preprod-mijn
 www.werkenbij
 makelaar
 subsidie
+veiligmailen
 english
+melddesk
 stadsarchief
 digitaalnachtregister
 exchange
@@ -338,12 +340,10 @@ servicedesk
 start
 subsidies-backend.acceptatie
 subsidies.acceptatie
-veiligmailen
 3d
 belastingen-acc
 iam
 ingesprek
-melddesk
 panel
 planon
 secure-test
@@ -3860,3 +3860,6 @@ tjooner
 validsign
 warp
 xentialtest
+mail.mailing
+mijnintranet
+server-appl13
