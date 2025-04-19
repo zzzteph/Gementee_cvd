@@ -15,6 +15,8 @@ http://autodiscover.asten.nl
 http://autodiscover.baarn.nl
 http://autodiscover.barneveld.nl
 http://autodiscover.bergen-nh.nl
+http://autodiscover.bergen.nl
+http://cms-binnenshuis.bergen.nl
 http://digitaalnachtregister.alphen-chaam.nl
 http://digitaalnachtregister.baarle-nassau.nl
 http://dmb.amsterdam.nl
@@ -32,7 +34,9 @@ http://parkeervergunningen.amsterdam.nl
 http://plannen.asten.nl
 http://redirector.alkmaar.nl
 http://simcms.aalten.nl
+http://simsite.bergen.nl
 http://subsites.amsterdam.nl
+http://test-binnenshuis.bergen.nl
 http://wij.bergen-nh.nl
 http://wob.arnhem.nl
 http://woz.amsterdam.nl
@@ -40,6 +44,7 @@ http://www.baarn.nl
 http://www.bba.amsterdam.nl
 http://www.beekdaelen.nl
 http://www.bergeijk.nl
+http://www.bergen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
 http://www.nieuwwest.amsterdam.nl
@@ -186,6 +191,7 @@ https://andreas2.amsterdam.nl
 https://andreas2.ont.amsterdam.nl
 https://andreas2.opl.amsterdam.nl
 https://andreas2.tst.amsterdam.nl
+https://aovpn.bergen.nl
 https://apeldoorn.nl
 https://apex.almere.nl
 https://api-meldingen.acc.almelo.nl
@@ -294,6 +300,7 @@ https://bi-sociaal.fa.amsterdam.nl
 https://bi-sociaal.fo.amsterdam.nl
 https://bi-sociaal.ft.amsterdam.nl
 https://bikecity.amsterdam.nl
+https://binnenshuis.bergen.nl
 https://bmidms.amsterdam.nl
 https://bomen.amsterdam.nl
 https://bomen.ont.amsterdam.nl
@@ -408,6 +415,8 @@ https://e-file-p-06.adds.amsterdam.nl
 https://e-file-p-07.adds.amsterdam.nl
 https://e-file-p-08.adds.amsterdam.nl
 https://e-loket.apeldoorn.nl
+https://e-loket.bergen.nl
+https://e-loketstaging.bergen.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
@@ -509,6 +518,7 @@ https://fblocatielijst.amsterdam.nl
 https://fbtools.amsterdam.nl
 https://felix.achtkarspelen.nl
 https://felix.bergeijk.nl
+https://felix.bergen.nl
 https://fgt.amstelveen.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -601,6 +611,7 @@ https://iburgerzaken.asten.nl
 https://iburgerzaken.baarle-nassau.nl
 https://iburgerzaken.beekdaelen.nl
 https://iburgerzaken.bergeijk.nl
+https://iburgerzaken.bergen.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl

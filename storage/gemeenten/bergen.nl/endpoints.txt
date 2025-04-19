@@ -1,0 +1,11 @@
+http://autodiscover.bergen.nl
+http://cms-binnenshuis.bergen.nl
+http://simsite.bergen.nl
+http://test-binnenshuis.bergen.nl
+http://www.bergen.nl
+https://aovpn.bergen.nl
+https://binnenshuis.bergen.nl
+https://e-loket.bergen.nl
+https://e-loketstaging.bergen.nl
+https://felix.bergen.nl
+https://iburgerzaken.bergen.nl
