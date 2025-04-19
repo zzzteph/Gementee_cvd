@@ -7,6 +7,7 @@
 2securecloudacc.breda.nl
 3d.almere.nl
 3d.amsterdam.nl
+AutoDiscover.brielle.nl
 Autorisatietest.bloemendaal.nl
 BGNVSV002.bergen.nl
 Belastingportaal-test.boxtel.nl
@@ -430,6 +431,7 @@ autodiscover.bloemendaal.nl
 autodiscover.bodegraven-reeuwijk.nl
 autodiscover.borger-odoorn.nl
 autodiscover.borne.nl
+autodiscover.brielle.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -528,6 +530,7 @@ beverwijk.nl
 bewegen.apeldoorn.nl
 bewonersbrieven.amsterdam.nl
 bewustwording.amersfoort.nl
+bewustwording.brielle.nl
 bgnvsv002.bergen.nl
 bgnvsv003.bergen.nl
 bgt.assen.nl
@@ -570,6 +573,8 @@ bp.data.amsterdam.nl
 brandweer.almelo.nl
 breda.nl
 brediusbad.amsterdam.nl
+brielle.nl
+brlcmg.brielle.nl
 broker.aalten.nl
 broker.assen.nl
 broker.bernheze.org
@@ -601,6 +606,7 @@ centrumbegroot.amsterdam.nl
 cimot.almelo.nl
 cios.acam.amsterdam.nl
 cis.barneveld.nl
+citrix.brielle.nl
 cloud.beverwijk.nl
 cloudadapter-test.baarn.nl
 cloudadapter.baarn.nl
@@ -646,11 +652,14 @@ daalder.makkelijkemarkt.amsterdam.nl
 dacceptatieloket.assen.nl
 dacceptatieloket.borger-odoorn.nl
 dacceptatieloket.borne.nl
+dacceptatieloket.brielle.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
+dacceptatiemidoffice.brielle.nl
 dagbesteding.apeldoorn.nl
 dali.alphenaandenrijn.nl
+dali.brielle.nl
 dap.amsterdam.nl
 dashboard.makkelijkemarkt.amsterdam.nl
 data-test.bergendal.nl
@@ -741,6 +750,7 @@ digikoppeling.beesel.nl
 digikoppeling.bernheze.org
 digikoppeling.beverwijk.nl
 digikoppeling.blaricum.nl
+digikoppeling.brielle.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -773,11 +783,13 @@ dktest.asten.nl
 dloket.assen.nl
 dloket.borger-odoorn.nl
 dloket.borne.nl
+dloket.brielle.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
 dmidoffice.borger-odoorn.nl
 dmidoffice.borne.nl
+dmidoffice.brielle.nl
 dmpfunc002.amsterdam.nl
 dmz-websrv.achtkarspelen.nl
 dns1.arnhem.nl
@@ -799,6 +811,8 @@ drupalintranet.bergeijk.nl
 dso.data.amsterdam.nl
 dsr.maps.amsterdam.nl
 dtestloket.borger-odoorn.nl
+dtestloket.brielle.nl
+dtestmidoffice.brielle.nl
 dusk-acc-openwave.beverwijk.nl
 dusk-openwave.beverwijk.nl
 duurzaam.alphenaandenrijn.nl
@@ -961,6 +975,7 @@ esb.bergenopzoom.nl
 esb.breda.nl
 esbacc.breda.nl
 esbt.bergenopzoom.nl
+esuitenotubiz-test.brielle.nl
 evenementen.almere.nl
 evenementen.amsterdam.nl
 evenementen.assen.nl
@@ -971,6 +986,7 @@ exchange2.alphenaandenrijn.nl
 extern.borger-odoorn.nl
 extern.oa.amsterdam.nl
 extranet.baarn.nl
+extranet.brielle.nl
 extranet.vga.amsterdam.nl
 extranettest.vga.amsterdam.nl
 fblocatielijst.amsterdam.nl
@@ -1232,6 +1248,7 @@ iburgerzaken.borger-odoorn.nl
 iburgerzaken.borne.nl
 iburgerzaken.borsele.nl
 iburgerzaken.breda.nl
+iburgerzaken.brielle.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -1257,6 +1274,7 @@ ibzpink.borger-odoorn.nl
 ibzpink.borne.nl
 ibzpink.borsele.nl
 ibzpink.breda.nl
+ibzpink.brielle.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1325,6 +1343,7 @@ intranet.beverwijk.nl
 intranet.boekel.nl
 intranet.borger-odoorn.nl
 intranet.borne.nl
+intranet.brielle.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.geuzenveld.amsterdam.nl
@@ -1338,6 +1357,7 @@ iovi.amsterdam.nl
 iparticipatie.achtkarspelen.nl
 iparticipatie.beesel.nl
 iris.data.amsterdam.nl
+ironport.brielle.nl
 is2.acc.amsterdam.nl
 is2.amsterdam.nl
 isd.bergenopzoom.nl
@@ -1487,6 +1507,7 @@ mailing.alphenaandenrijn.nl
 mailing.borsele.nl
 makelaar-test.almelo.nl
 makelaar.almelo.nl
+makelaar.brielle.nl
 makkelijkemarkt-api.amsterdam.nl
 makkelijkemarkt-dashboard.amsterdam.nl
 makkelijkemarkt.amsterdam.nl
@@ -1633,6 +1654,7 @@ msoid.alphenaandenrijn.nl
 msoid.arnhem.nl
 mta.nieuwsbrief.amsterdam.nl
 mv1.amsterdam.nl
+mycorsanxt.brielle.nl
 myexports.bernheze.org
 nac.almelo.nl
 naheffingsaanslag-acc.amsterdam.nl
@@ -1661,6 +1683,7 @@ nieuwsbrief.arnhem.nl
 nieuwsbrieven.amsterdam.nl
 nieuwwest.amsterdam.nl
 nlgembrc.blaricum.nl
+nlgembrl.brielle.nl
 nlgembrn.borne.nl
 nlx.amsterdam.nl
 noord.amsterdam.nl
@@ -1908,6 +1931,7 @@ preproductie.bergendal.nl
 preproductie.beuningen.nl
 preproductie.beverwijk.nl
 preproductie.bladel.nl
+preproductie.brielle.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
 probeer-energiek.beuningen.nl
@@ -1922,6 +1946,7 @@ probeer.bergen.nl
 probeer.bergendal.nl
 probeer.beverwijk.nl
 probeer.bladel.nl
+probeer.brielle.nl
 programmavan.bergendal.nl
 projectarchief-vor.amsterdam.nl
 projecten.boxtel.nl
@@ -1982,6 +2007,7 @@ rnd.amsterdam.nl
 ro-online.alphenaandenrijn.nl
 ro-online.bergen-nh.nl
 ro-online1.amersfoort.nl
+ro-onlineprod.brielle.nl
 rokinintranet.amsterdam.nl
 roles.datapunt.amsterdam.nl
 rom.authenticatie.alkmaar.nl
@@ -2045,6 +2071,7 @@ secure.beverwijk.nl
 secure.bloemendaal.nl
 secure.boekel.nl
 secure.breda.nl
+secure.brielle.nl
 securemail.borne.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
@@ -2097,6 +2124,7 @@ simcms.bergenopzoom.nl
 simcms.beuningen.nl
 simcms.beverwijk.nl
 simcms.bladel.nl
+simcms.brielle.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -2115,14 +2143,19 @@ simsite.bernheze.org
 simsite.beverwijk.nl
 simsite.bladel.nl
 simsite.boekel.nl
+simsite.brielle.nl
 sip.assen.nl
 sip.ggd.amsterdam.nl
 sip.oa.amsterdam.nl
 slimbereikbaar.assen.nl
 slimmeapparaten.amsterdam.nl
 smap.almere.nl
+smartdoc-brl.brielle.nl
+smartdoc-brlacc.brielle.nl
 smartdoc.apeldoorn.nl
 smartdocacc.apeldoorn.nl
+smartdocbrl.brielle.nl
+smartdocbrlacc.brielle.nl
 smoelennet.almelo.nl
 sms.ggd.amsterdam.nl
 smtp.borne.nl
@@ -2232,6 +2265,7 @@ test-binnenshuis.bergen.nl
 test-cmsbink.beverwijk.nl
 test-digikoppeling.assen.nl
 test-digikoppeling.beesel.nl
+test-digikoppeling.brielle.nl
 test-e-loket.apeldoorn.nl
 test-formulier.assen.nl
 test-intranet.beuningen.nl
@@ -2372,6 +2406,7 @@ waarmerk.alphen-chaam.nl
 waarmerk.assen.nl
 waarmerk.baarle-nassau.nl
 waarmerk.beuningen.nl
+waarmerk.brielle.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
 wachtwoord.alkmaar.nl
@@ -2401,6 +2436,7 @@ webmail.boekel.nl
 webmail.borne.nl
 webmail.boxtel.nl
 webmail.breda.nl
+webmail.brielle.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -2547,6 +2583,7 @@ www.borne.nl
 www.borsele.nl
 www.boxtel.nl
 www.breda.nl
+www.brielle.nl
 www.buikslotermeerplein.amsterdam.nl
 www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
