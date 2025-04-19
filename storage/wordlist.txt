@@ -12,8 +12,8 @@ afspraken
 webmail
 secure
 simcms
-mijn
 digikoppeling
+mijn
 preproductie
 loket
 acceptatie
@@ -29,19 +29,20 @@ werkplek
 waarmerk
 portal
 betalen
-pv
 eloket
+pv
 adfs
 geo
 meldingen
 gemeenteraad
 open
 data
+omgevingsvisie
 enterpriseenrollment
 raad
 openpdc
-omgevingsvisie
 digikoppeling-test
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -55,15 +56,14 @@ zaaksysteem-accept
 parkeren
 login
 formulier
-testeloket
 cmsoo
+mijnzorg
 iparticipatie
 zaken
 openpub
 osb
 werkenbij
 hybrid
-mijnzorg
 test-ipa
 mijninkomen
 piwik
@@ -82,6 +82,7 @@ belastingbalie
 test-intranet
 filecap
 api.meldingen-acc
+mijnzorg-acc
 preprodbroker
 portaal
 verkiezingen
@@ -102,7 +103,6 @@ doemee
 dtestloket
 mdm
 kaarten
-mijnzorg-acc
 www.acceptatie
 vergunningintaker
 kennisbank
@@ -201,6 +201,7 @@ maps
 stadsarchief
 exchange
 preprod
+ro-online
 bewustwording
 vdi
 www.test
@@ -331,7 +332,6 @@ dkd-test
 kinderburgemeester
 mijnoverzicht
 msoid
-ro-online
 rpl3
 www.centrumbegroot
 mozard
@@ -441,11 +441,13 @@ subsidies-login.acceptatie
 subsidies-login
 archief
 begroting
+cryptshare
 storefront
 huisvuilkalender
 kennisportaal
 mfa
 smartdocuments
+test.digikoppeling
 ondernemersloket
 forms
 intra
@@ -455,6 +457,7 @@ www.openstad
 zorgaanbieders
 internetafspraken
 bestuur
+filetransfer
 parkeren-siam-test
 parkeren-siam
 centric
@@ -466,6 +469,7 @@ klantportaal.acc
 prod
 woz-portaal
 vergunningen
+mta-sts
 www.socialekaart
 attachments
 authenticatiedienst
@@ -2241,7 +2245,6 @@ acc-subsidie
 acc-subsidiebeheer
 axians.lev
 cppm
-cryptshare
 cryptsharetest
 datatest
 feedback
@@ -2694,7 +2697,6 @@ ediensten-sociaaldomein
 preprod-ediensten-sociaaldomein
 preprod-mijnzorg
 sentry1
-test.digikoppeling
 vpn365
 vsp
 www.ingesprek
@@ -2812,7 +2814,6 @@ vogelweide
 www.financielestukken
 apps-fat
 apps-vdi
-filetransfer
 geodata-acc
 gisweb
 hetsociaalplein-acc
@@ -2896,7 +2897,6 @@ acceptatiebelastingen
 acceptatievergunningen
 duiven-checker-preprod
 duiven-checker
-mta-sts
 mta-sts.raad
 clv
 echt-susteren-checker-preprod
@@ -3459,3 +3459,8 @@ www.en.cmsoo
 www.en
 www.gb-wls-04
 www.gb-wls-05
+erfgoedmaasenniers
+meldpunt
+mijntalent-acc
+mijntalent
+spam
