@@ -215,6 +215,7 @@ media
 openklant
 sip
 obsurv
+meedoen
 publicaties
 byod
 fmreturn
@@ -360,7 +361,6 @@ test-podiumd-logs
 test-zac
 vastgoed
 loket-acc
-meedoen
 accdrop
 kaartviewer
 nhr
@@ -3374,3 +3374,4 @@ hub
 mijn-gemeenteloket
 pre-gemeenteloket
 webteam
+tekst
