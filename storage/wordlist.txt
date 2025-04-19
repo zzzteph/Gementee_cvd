@@ -20,18 +20,18 @@ acceptatie
 probeer
 test
 felix
-formulieren
 acc
+formulieren
+afspraak
 werkplek
 waarmerk
-afspraak
 portal
 broker
 dkd
 eloket
+gemeenteraad
 adfs
 betalen
-gemeenteraad
 geo
 meldingen
 open
@@ -47,6 +47,8 @@ dacceptatieloket
 dacceptatiemidoffice
 ruimtelijkeplannen
 openpdc
+werkenbij
+hybrid
 login
 testeloket
 dloket
@@ -57,19 +59,17 @@ remote
 iparticipatie
 zaken
 osb
-werkenbij
-hybrid
 digikoppeling-test
 formulier
 test-ipa
 openpub
 mijninkomen
+berichten
 cmsoo
 cloudadapter-test
 mijnzorg
 piwik
 preprod-mijninkomen
-berichten
 acc-broker
 connect
 meldingen-acc
@@ -88,6 +88,7 @@ api.meldingen-acc
 _autodiscover._tcp
 portaal
 flowmailer-tracking
+duurzaam
 enterpriseregistration
 siam
 digikoppeling.test
@@ -107,9 +108,9 @@ kennisbank
 gisib
 verkiezingen
 osbacc
-duurzaam
 snelbaliepp
 qr
+apps
 openzaak
 parkeren-acc
 auth
@@ -146,7 +147,6 @@ gemeentearchief
 mailing
 ns
 onderzoek
-apps
 email
 sharefile
 www.acc
@@ -217,6 +217,7 @@ www.doemee
 www.gemeenteraad
 acc.piwik
 rap
+omgevingswet
 mobiel
 ro
 inproces.acceptatie
@@ -301,7 +302,6 @@ www.jongin
 erfgoed
 matomo
 citrix
-omgevingswet
 programmabegroting
 key2gbav
 www.afspraak
@@ -456,6 +456,7 @@ data.gemnet
 intranetcms
 esb
 wifi
+digikoppelingtest
 testcms-intranet
 cloud
 corona
@@ -513,6 +514,7 @@ smartdocuments
 sport
 www.cjg
 test.digikoppeling
+vsp
 mijnzaken
 ondernemersloket
 forms
@@ -2024,7 +2026,6 @@ jcctest
 xencor
 xencort
 zorgmail
-digikoppelingtest
 gymzaalhuren
 intranet-cms
 intranet-stats
@@ -2742,7 +2743,6 @@ preprod-ediensten-sociaaldomein
 preprod-mijnzorg
 sentry1
 vpn365
-vsp
 www.ingesprek
 alwaysonvpn
 burgerloket.acceptatie
@@ -4081,3 +4081,7 @@ tbt
 testtsjinstbus
 tsjinstbus
 hulpwijzer
+eikenhof
+klanten
+uitkeringprod
+uitkeringtest
