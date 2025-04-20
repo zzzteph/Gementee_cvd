@@ -25,8 +25,8 @@ test
 dkd
 werkplek
 meldingen
-afspraak
 acc
+afspraak
 waarmerk
 adfs
 open
@@ -49,10 +49,10 @@ data
 ruimtelijkeplannen
 test-ipa
 osb
+omgevingsvisie
 belastingen
 login
 meldingen-acc
-omgevingsvisie
 belastingbalie
 dacceptatieloket
 dacceptatiemidoffice
@@ -101,9 +101,11 @@ filecap
 connect
 test-cmsintranet
 _autodiscover._tcp
+denkmee
 portaal
 verkiezingen
 preprod-mijninkomen
+mailing
 apps
 parkeren-acc
 belastingloket
@@ -117,9 +119,7 @@ transfer
 cmsintranet
 preprodbroker
 vergunningintaker
-denkmee
 e
-mailing
 snelbaliepp
 siam
 qr
@@ -401,6 +401,7 @@ mbg1
 localhost
 wozloket
 mam
+jcccloud
 jongin
 2secure
 matomo
@@ -473,6 +474,7 @@ testdigikoppeling
 sera
 teleweb
 vacatures
+www.denkmee
 access
 digitaalloket
 www.samen
@@ -629,7 +631,6 @@ automator
 mijnzorg-test
 rx-mission-publiceren
 voormeldingen
-jcccloud
 belastingportaal-test
 inkomensondersteuning
 ro-onlineprod
@@ -704,6 +705,7 @@ authenticatiedienst
 authenticatiedienst.preprod
 edge
 vergunningintaker.preprod
+gt-loket
 kcc
 ondernemen
 redirect
@@ -808,7 +810,6 @@ mobiliteitsplan
 website.acceptatie
 testwerkplek
 wijkteam
-www.denkmee
 open-formulieren-test
 insite
 test-insite
@@ -3073,7 +3074,6 @@ www.acc.piwik
 www.connect
 www.piwik
 email.veiligwerken
-gt-loket
 kop-pub-erp-mks-tst
 kop-pub-erp-mks
 kop-pub-hta-mks
@@ -5076,3 +5076,4 @@ testwizraapl
 valuecare
 workforce
 lv-brk
+grmks05
