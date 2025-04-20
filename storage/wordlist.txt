@@ -9,8 +9,8 @@ intranet
 webmail
 mail
 simsite
-mijn
 afspraken
+mijn
 digikoppeling
 secure
 acceptatie
@@ -47,24 +47,24 @@ test-ipa
 enterpriseenrollment
 testeloket
 meldingen-acc
+osb
 omgevingsvisie
 api.meldingen-acc
 data
 openpdc
-osb
 belastingen
+belastingbalie
 dacceptatieloket
 dacceptatiemidoffice
 remote
 ruimtelijkeplannen
 login
-belastingbalie
 dloket
 dmidoffice
 openpub
 flowmailer-tracking
-zaken
 hybrid
+zaken
 kaart
 berichten
 digikoppeling-test
@@ -78,6 +78,7 @@ woningbouwkaart
 cloudadapter
 govroam
 test-intranet
+osbacc
 parkeren-test
 piwik
 duurzaam
@@ -86,7 +87,6 @@ digikoppeling.test
 mks
 extranet
 mijnzorg
-osbacc
 mijninkomen
 financien
 gemeente
@@ -350,6 +350,7 @@ wob
 woz
 e-loket
 geotest
+werk
 www.mijn
 www.raad
 acc-keycloak-admin
@@ -546,7 +547,6 @@ digid
 ns2
 old
 testdigid
-werk
 www.old
 acc-contact.dev
 acc-formulier.dev
@@ -782,6 +782,7 @@ website.acceptatie
 testwerkplek
 wijkteam
 open-formulieren-test
+hybrid1
 brk
 liber
 pcorsa
@@ -4396,7 +4397,6 @@ trainingsformulier
 gijs-acc
 gijscms-acc
 gijscms
-hybrid1
 ijsaeo1
 sociaaldomein-acc
 Preprod
@@ -4891,3 +4891,5 @@ w2kmks
 w2kzmm
 xworks-acc
 xworks
+hybrid2
+mijnacc
