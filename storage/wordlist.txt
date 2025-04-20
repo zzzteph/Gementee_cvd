@@ -7,14 +7,14 @@ edienstenburgerzaken
 intranet
 edienstenburgerzaken-test
 webmail
-afspraken
 simsite
+afspraken
 mijn
 mail
 digikoppeling
+preproductie
 secure
 acceptatie
-preproductie
 simcms
 probeer
 felix
@@ -25,9 +25,9 @@ dkd
 meldingen
 test
 werkplek
+portal
 waarmerk
 afspraak
-portal
 adfs
 broker
 acc
@@ -168,6 +168,7 @@ bastion365
 objecten
 objecttypen
 gasten
+jccapi
 micollab
 uc
 contentbeheer.acceptatie
@@ -192,7 +193,6 @@ sts
 test-digikoppeling
 meedoen
 iarchief
-jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
