@@ -132,6 +132,7 @@ http://autodiscover.nieuwkoop.nl
 http://autodiscover.nijmegen.nl
 http://autodiscover.nijmegennu.nijmegen.nl
 http://autodiscover.nissewaard.nl
+http://autodiscover.noardeast-fryslan.nl
 http://autodiscover.partijvoordedieren.nijmegen.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.pvda.nijmegen.nl
@@ -1241,6 +1242,7 @@ https://bomen.amsterdam.nl
 https://bomen.ont.amsterdam.nl
 https://bor.dantumadiel.frl
 https://bor.hilvarenbeek.nl
+https://bor.noardeast-fryslan.nl
 https://borger-odoorn.nl
 https://borne.nl
 https://boronline.haarlem.nl
@@ -1435,6 +1437,7 @@ https://cryptsharetest.delft.nl
 https://csam.deventer.nl
 https://csc.beverwijk.nl
 https://csc.dantumadiel.frl
+https://csc.noardeast-fryslan.nl
 https://css.denhaag.nl
 https://css.openstad.alphenaandenrijn.nl
 https://css.v2.openstad.haarlemmermeer.nl
@@ -1980,6 +1983,7 @@ https://enterpriseenrollment.lochem.nl
 https://enterpriseenrollment.meierijstad.nl
 https://enterpriseenrollment.nederweert.nl
 https://enterpriseenrollment.nieuwkoop.nl
+https://enterpriseenrollment.noardeast-fryslan.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone.almere.nl
@@ -3001,6 +3005,7 @@ https://loket.acceptatie.dordrecht.nl
 https://loket.acceptatie.gemeentewesterveld.nl
 https://loket.acceptatie.hardinxveld-giessendam.nl
 https://loket.acceptatie.hellendoorn.nl
+https://loket.acceptatie.noardeast-fryslan.nl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.amstelveen.nl
@@ -3020,6 +3025,7 @@ https://loket.katwijk.nl
 https://loket.leeuwarden.nl
 https://loket.leidschendam-voorburg.nl
 https://loket.leusden.nl
+https://loket.noardeast-fryslan.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://loonopzand.nl
@@ -3082,7 +3088,9 @@ https://matomo.breda.nl
 https://matomo.haarlem.nl
 https://mbg1.beverwijk.nl
 https://mbg1.dantumadiel.frl
+https://mbg1.noardeast-fryslan.nl
 https://mbg2.dantumadiel.frl
+https://mbg2.noardeast-fryslan.nl
 https://md02.middendrenthe.nl
 https://md04.middendrenthe.nl
 https://mdliquit.middendrenthe.nl
@@ -3428,6 +3436,7 @@ https://nijmegen.nl
 https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
 https://nlgembrl.brielle.nl
+https://noardeast-fryslan.nl
 https://nogknapper.deventer.nl
 https://noorderparkbad.amsterdam.nl
 https://notificaties.assen.nl
@@ -4642,6 +4651,7 @@ https://uc.beverwijk.nl
 https://uc.dantumadiel.frl
 https://uc.epe.nl
 https://uc.hellevoetsluis.nl
+https://uc.noardeast-fryslan.nl
 https://uca.geertruidenberg.nl
 https://ucaccess1.hellevoetsluis.nl
 https://ucav1.hellevoetsluis.nl
@@ -4879,6 +4889,7 @@ https://werkenbij.maassluis.nl
 https://werkenbij.medemblik.nl
 https://werkenbij.midden-groningen.nl
 https://werkenbij.moerdijk.nl
+https://werkenbij.noardeast-fryslan.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -5296,6 +5307,7 @@ https://www.nijkerk.eu
 https://www.nijmegen.nl
 https://www.nimmaleert.nijmegen.nl
 https://www.nissewaard.nl
+https://www.noardeast-fryslan.nl
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.old.landvancuijk.nl

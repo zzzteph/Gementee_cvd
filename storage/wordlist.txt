@@ -22,12 +22,12 @@ loket
 formulieren
 eloket
 test
+dkd
 werkplek
 meldingen
-dkd
 afspraak
-waarmerk
 acc
+waarmerk
 adfs
 open
 api.meldingen
@@ -36,9 +36,9 @@ broker
 portal
 vpn
 pv
+werkenbij
 parkeren
 betalen
-werkenbij
 gemeenteraad
 enterpriseenrollment
 testeloket
@@ -46,12 +46,12 @@ iparticipatie
 raad
 zaaksysteem-accept
 data
+ruimtelijkeplannen
 test-ipa
 osb
 belastingen
 login
 meldingen-acc
-ruimtelijkeplannen
 omgevingsvisie
 belastingbalie
 dacceptatieloket
@@ -71,9 +71,9 @@ zaken
 berichten
 digikoppeling-test
 cmsoo
+loket.acceptatie
 enterpriseregistration
 beeldbank
-loket.acceptatie
 osbacc
 mks
 acc-broker
@@ -163,6 +163,7 @@ sip
 sts
 meedoen
 micollab
+uc
 mobile
 connect.acceptatie
 contentbeheer
@@ -197,7 +198,6 @@ publicroam
 mijnsociaalplein
 preprod-mijnsociaalplein
 data-test
-uc
 xential
 mobiel
 ro
@@ -250,6 +250,7 @@ citrix
 omgevingswet
 key2gbav
 test-secure
+bor
 _dmarc
 admin.openstad
 auth.openstad
@@ -305,7 +306,6 @@ programmabegroting
 dkdtest
 medewerkers
 woz-loket
-bor
 subsidies-login.acceptatie
 subsidies-login
 archief
@@ -396,6 +396,8 @@ wij
 zorg
 digikoppelingtest
 testcms-intranet
+csc
+mbg1
 localhost
 wozloket
 mam
@@ -608,9 +610,7 @@ preprod.vergunningintaker
 wwwtest
 acc-openwave
 corona
-csc
 digid-parkeervergunningen
-mbg1
 admin.doemee
 api.doemee
 auth.doemee
@@ -656,8 +656,10 @@ webcon
 pkio1
 grooster
 idtst
+bor-acc
 collecties
 inproces.test
+mbg2
 suite4burgerzaken-prod
 acceptatie.intranet
 efacturen
@@ -2423,8 +2425,6 @@ kindregeling
 online-aanvraag-test
 online-aanvraag
 sharepoint
-bor-acc
-mbg2
 ddsp.services
 ddst.services
 geokoppeling-t
@@ -5075,3 +5075,4 @@ testwizaccept
 testwizraapl
 valuecare
 workforce
+lv-brk
