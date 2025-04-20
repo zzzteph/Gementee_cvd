@@ -21,11 +21,11 @@ loket
 formulieren
 test
 felix
+eloket
 waarmerk
 meldingen
 portal
 acc
-eloket
 afspraak
 dkd
 werkplek
@@ -42,10 +42,10 @@ parkeren
 pv
 data
 raad
+osb
 werkenbij
 ruimtelijkeplannen
 openpdc
-osb
 zaaksysteem-accept
 testeloket
 iparticipatie
@@ -75,6 +75,7 @@ flowmailer-tracking
 mijninkomen
 belastingbalie
 extranet
+osbacc
 piwik
 preprod-mijninkomen
 snelbalie
@@ -90,7 +91,6 @@ kaarten
 connect
 _autodiscover._tcp
 vergunningintaker
-osbacc
 parkeren-test
 kaart
 enterpriseregistration
@@ -216,11 +216,13 @@ makelaar
 subsidie
 maps
 melddesk
+sociaaldomein
 cms
 ro-online
 vdi
 www.test
 atlas
+jcc
 werkenvoor
 api
 api.betalen
@@ -285,7 +287,6 @@ geodata
 servicedesk
 veiligmailen
 english
-sociaaldomein
 stadsarchief
 digitaalnachtregister
 website
@@ -296,7 +297,6 @@ bewustwording
 magazine
 mail2
 wion
-jcc
 bouwdossiers
 ftp
 hor
@@ -4373,3 +4373,9 @@ testcms-inhuiz
 testinhuiz
 trainersportaal
 trainingsformulier
+gijs-acc
+gijscms-acc
+gijscms
+hybrid1
+ijsaeo1
+sociaaldomein-acc
