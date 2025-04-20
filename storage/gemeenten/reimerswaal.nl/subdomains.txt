@@ -1,0 +1,13 @@
+_autodiscover._tcp.reimerswaal.nl
+acc.reimerswaal.nl
+acceptatie.reimerswaal.nl
+afspraken.reimerswaal.nl
+grmks03.reimerswaal.nl
+grooster.reimerswaal.nl
+iburgerzaken.reimerswaal.nl
+ibzpink.reimerswaal.nl
+jcccloud.reimerswaal.nl
+jongin.reimerswaal.nl
+reimerswaal.nl
+www.jongin.reimerswaal.nl
+www.reimerswaal.nl

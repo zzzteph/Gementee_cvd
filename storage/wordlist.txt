@@ -12,8 +12,8 @@ simsite
 mijn
 mail
 digikoppeling
-secure
 acceptatie
+secure
 preproductie
 simcms
 probeer
@@ -30,9 +30,9 @@ afspraak
 portal
 adfs
 broker
+acc
 open
 api.meldingen
-acc
 vpn
 geo
 pv
@@ -95,6 +95,7 @@ doemee
 www.webmail
 dtestloket
 kaarten
+_autodiscover._tcp
 vergunningintaker
 denkmee
 verkiezingen
@@ -108,7 +109,6 @@ samen
 filecap
 jaarstukken
 mijnzorg
-_autodiscover._tcp
 preprod-mijninkomen
 mailing
 preprod
@@ -265,6 +265,7 @@ intranetcms
 www.gemeenteraad
 extern
 mam
+www.jongin
 rap
 omgevingswet
 programmabegroting
@@ -328,7 +329,8 @@ www.doemee
 acc.piwik
 localhost
 gp
-www.jongin
+jcccloud
+jongin
 projecten
 erfgoed
 nieuws
@@ -338,6 +340,7 @@ connect.test
 contentbeheer.test
 woz-loket
 zaken.test
+grooster
 subsidies-login.acceptatie
 sport
 filr
@@ -425,8 +428,6 @@ testcms-intranet
 csc
 mbg1
 wozloket
-jcccloud
-jongin
 2secure
 matomo
 sportaccommodaties
@@ -446,7 +447,6 @@ test-eloket
 preprod-formulieren
 download
 www.afspraak
-grooster
 ris
 inproces.test
 buitenoporde
@@ -5365,3 +5365,4 @@ dgpt
 historischbeeldarchief
 jccafsprakencloud
 oudebeeldbank
+grmks03
