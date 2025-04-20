@@ -17,8 +17,8 @@ secure
 acceptatie
 simcms
 probeer
-felix
 loket
+felix
 formulieren
 eloket
 dkd
@@ -28,39 +28,39 @@ werkplek
 portal
 waarmerk
 afspraak
-adfs
-broker
 acc
 open
+adfs
+broker
 api.meldingen
 geo
 vpn
 pv
 ruimtelijkeplannen
 iparticipatie
+betalen
 test-ipa
 raad
-betalen
 gemeenteraad
 enterpriseenrollment
 werkenbij
 parkeren
 zaaksysteem-accept
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 meldingen-acc
-testeloket
+belastingen
 dloket
 dmidoffice
 api.meldingen-acc
 osb
 omgevingsvisie
-belastingen
 data
 openpdc
+belastingbalie
 remote
 login
-belastingbalie
 loket.acceptatie
 zaken
 openpub
@@ -77,10 +77,10 @@ cloudadapter-test
 mks
 acc-broker
 financien
+digikoppeling.test
 belastingloket
 osbacc
 duurzaam
-digikoppeling.test
 woningbouwkaart
 cloudadapter
 extranet
@@ -89,6 +89,7 @@ connect
 portaal
 piwik
 gemeente
+samen
 test-intranet
 pki
 doemee
@@ -107,7 +108,6 @@ snelbalie
 preprod
 auth
 klantcontact
-samen
 jaarstukken
 mijnzorg
 preprod-mijninkomen
@@ -129,6 +129,7 @@ test-cmsintranet
 cmsintranet
 preprodbroker
 e
+siam
 apps
 openzaak
 parkeren-acc
@@ -154,7 +155,6 @@ izaaksuite
 subsidies-backend
 dali
 snelbaliepp
-siam
 jcc
 email
 ftp
@@ -363,6 +363,7 @@ acceptatie-intranet
 sbc01
 cloudadapter-prod
 www.afspraken
+www.samen
 simform-preproductie
 autorisatie
 testafspraken
@@ -381,6 +382,7 @@ mozard
 bewustwording
 crl
 app
+belastingbalie.acc
 bouwdossiers
 hor
 id
@@ -415,6 +417,7 @@ loket-acc
 plannen
 beeldbank-bo
 geoserver
+nhr
 personeelsplanning
 djuma
 eforms
@@ -475,6 +478,7 @@ relay
 webdav
 webformulieren
 webservices
+digitalebalie
 mobility
 grondwater
 vergunningen
@@ -482,6 +486,7 @@ mta-sts
 socialekaart
 mx2
 ondernemen
+www.belastingbalie
 aeolus
 burgerportaal
 raadsinformatie
@@ -522,7 +527,6 @@ digitaalloket
 hta
 mijnsociaaldomein-acc
 www.belastingloket
-www.samen
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -576,6 +580,7 @@ samenveiligwerken
 testdigitaalgemeenteloket
 www.centrumbegroot
 mozardtest
+activesync
 mail1
 redactie
 aanmeldenparkeren
@@ -584,7 +589,7 @@ api.acc.meldingen
 api.data
 autodiscover.ggd
 belastingbalie-acc
-belastingbalie.acc
+bi
 centrum
 dataportaal
 docgen
@@ -607,6 +612,7 @@ wachtwoordvergeten
 www.ggd
 www.loket
 www.onderzoek
+www.open
 www.ruimtelijkeplannen
 www.sport
 cc
@@ -641,7 +647,6 @@ vastgoed
 awmag
 bestemmingsplannen
 accdrop
-nhr
 solliciterenbij
 gisibonline
 sentry
@@ -677,6 +682,7 @@ rx-mission-publiceren
 voormeldingen
 wim2-acc
 belastingportaal-test
+netwerk
 preprod-mijnoverzicht
 inkomensondersteuning
 ro-onlineprod
@@ -748,10 +754,10 @@ centric
 test-digikoppelingadapter
 geoinformatie
 router
-digitalebalie
 klantportaal.acc
 prod
 www.zorgloket
+zmm
 zorgloket
 www.socialekaart
 attachments
@@ -761,9 +767,9 @@ edge
 vergunningintaker.preprod
 www.piwik
 gt-loket
+betaal
 redirect
 welkom
-www.belastingbalie
 antispam
 mijnsubsidie
 mx
@@ -793,8 +799,10 @@ www.mijnmobiel
 liquitsatellite
 tim
 www.djuma
+www.eloket
 ediensten
 pip
+www.mail
 mylex
 preprod-mijnsociaaldomein
 rds
@@ -919,6 +927,7 @@ helpmij
 smtp10
 smtp20
 www.afspraakmaken
+mijndesktop
 webapps
 email.mail.participatie
 aalten-checker-preprod
@@ -1074,7 +1083,6 @@ test-zaakloket
 testsiam
 zaakloket
 a-digikoppeling
-activesync
 bestandversturen
 debelastingbalie
 deurwaardersloket
@@ -1341,7 +1349,6 @@ bi-sociaal
 bi-sociaal.fa
 bi-sociaal.fo
 bi-sociaal.ft
-bi
 bibob.brievenbus
 bikecity
 bl-vms0021.ggd
@@ -2068,7 +2075,6 @@ www.onderwijssubsidies
 www.onderzoek-en-statistiek
 www.ontwikkelstrategie
 www.oostbegroot
-www.open
 www.osdorp
 www.oudwest
 www.oudzuid
@@ -2368,7 +2374,6 @@ brsoribi01
 brsoribi02
 grmks06
 Belastingportaal-test
-netwerk
 woww
 2secureacc
 2securecloud
@@ -3106,7 +3111,6 @@ test.services
 forms-test
 kcv
 www.remote
-zmm
 acceptatiebelastingen
 acceptatievergunningen
 duiven-checker-preprod
@@ -3140,7 +3144,6 @@ acceptatie.subsidies
 admin.open
 asde
 begraaftijd
-betaal
 binnenstebuiten-acc
 binnenstebuiten
 cba
@@ -3481,7 +3484,6 @@ webvpn
 www.clo
 www.digikoppeling-test
 www.digikoppeling
-www.eloket
 www.ghtsv2-092
 www.ghtsv2-093
 www.ghtsv2-094
@@ -3521,7 +3523,6 @@ maasgouw-checker
 mm
 sec
 www.cag
-www.mail
 www.mm
 www.sec
 downloaddomain
@@ -5369,7 +5370,6 @@ grmks03
 intercontent
 mdesk
 melddesk-test
-mijndesktop
 gplan
 mijncultuurdocument
 mobilemail
@@ -5378,3 +5378,24 @@ mobilitytest
 s2go
 s2gotest
 werkplek-test
+baliealarm
+bestemmingsplan
+cpanel.samen
+cpcalendars.samen
+cpcontacts.samen
+mail.samen
+rhn-batch
+scans
+testeformulieren
+vibe
+webdisk.samen
+webmail.samen
+www.activesync
+www.belastingbalie.acc
+www.bi
+www.mijndesktop
+www.netwerk
+www.siam
+www.testeloket
+www.vibe
+www.zmm
