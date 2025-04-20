@@ -12,10 +12,10 @@ simsite
 mijn
 afspraken
 digikoppeling
-acceptatie
 preproductie
 secure
 simcms
+acceptatie
 probeer
 loket
 felix
@@ -41,8 +41,8 @@ gemeenteraad
 pv
 werkenbij
 iparticipatie
-test-ipa
 zaaksysteem-accept
+test-ipa
 enterpriseenrollment
 testeloket
 meldingen-acc
@@ -164,6 +164,7 @@ gisib
 web
 subsidie
 evenementen
+thuiswerken
 ftp
 legacy
 telewerken
@@ -205,7 +206,6 @@ servicedesk
 subsidies-backend.acceptatie
 subsidies.acceptatie
 melddesk
-thuiswerken
 website
 afvalkalender
 api.openstad
@@ -301,6 +301,7 @@ admin.openstad
 auth.openstad
 img.openstad
 openformulieren-test
+filetransfer
 belastingbalie-test
 squit2020.acceptatie
 woz-portaal
@@ -312,6 +313,7 @@ en
 ibabs
 liquit
 www.portal
+gateway
 sbc01
 m
 toegang
@@ -412,7 +414,6 @@ intra
 winkelen
 www.openstad
 bestuur
-filetransfer
 acceptatie-open
 eformulieren
 webdav
@@ -430,11 +431,11 @@ gemeentewinkel
 www.login
 beeldbankbeheer
 www.werkplek
-gateway
 de
 cloudadapter-prod
 gemeentebestuur
 lyncweb
+testdigikoppeling
 sera
 teleweb
 access
@@ -716,6 +717,8 @@ wmoloket
 authenticatie
 digikoppelingjnet
 acceptatie-intranet
+apigateway
+apigateway2
 berichtenverkeer
 www.kaarten
 www.mdm
@@ -744,7 +747,6 @@ gisservices
 jccbetalen
 officewebapps
 portaltest
-testdigikoppeling
 testmijn
 testzaken
 www.vpn
@@ -3480,8 +3482,6 @@ e.bewustwording
 digikoppelingjnet-test
 misentry
 preproductiebroker
-apigateway
-apigateway2
 basisregistraties
 bavak
 bedrijvenregister
@@ -4833,3 +4833,22 @@ subsidieloket-login-acc
 subsidieloket-login
 www.acc.mijngkb
 www.mijngkb
+MD-APP-P-01
+brp
+cmssocialintranet
+gwm-orawls-01
+gwm-orawls-02
+gwm-orawls-p1
+gwm-orawls-t1
+jimintranet
+md-app-p-01
+remotewerken
+socialintranet
+srv-dmz-01
+test-cmssocialintranet
+test-socialintranet
+weblogic-prod
+weblogic-test
+weblogic
+www.bag
+www.remotewerken
