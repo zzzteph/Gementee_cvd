@@ -22,8 +22,8 @@ felix
 formulieren
 werkplek
 meldingen
-eloket
 test
+eloket
 waarmerk
 dkd
 broker
@@ -43,13 +43,13 @@ parkeren
 test-ipa
 raad
 werkenbij
+zaaksysteem-accept
 omgevingsvisie
 enterpriseenrollment
 meldingen-acc
 data
 openpdc
 osb
-zaaksysteem-accept
 dacceptatieloket
 dacceptatiemidoffice
 api.meldingen-acc
@@ -76,6 +76,7 @@ loket.acceptatie
 acc-broker
 woningbouwkaart
 piwik
+digikoppeling.test
 cloudadapter
 govroam
 mijnzorg
@@ -83,7 +84,6 @@ osbacc
 mijninkomen
 duurzaam
 enterpriseregistration
-digikoppeling.test
 gemeente
 mks
 extranet
