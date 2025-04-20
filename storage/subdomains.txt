@@ -474,6 +474,7 @@ afspraak.gooisemeren.nl
 afspraak.haarlemmermeer.nl
 afspraak.halderberge.nl
 afspraak.heemskerk.nl
+afspraak.heerenveen.nl
 afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
 afspraakmaken.gemert-bakel.nl
@@ -1066,6 +1067,7 @@ belastingen.gemeente-oldambt.nl
 belastingen.gemeentewestland.nl
 belastingen.gilzerijen.nl
 belastingen.goirle.nl
+belastingen.heerenveen.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
@@ -1157,6 +1159,7 @@ bewonersbrieven.amsterdam.nl
 bewustwording.amersfoort.nl
 bewustwording.brielle.nl
 bewustwording.gemeentestein.nl
+bezoekersparkeren.heerenveen.nl
 bezwaar.acc.denhaag.nl
 bezwaar.denhaag.nl
 bgnvsv002.bergen.nl
@@ -1793,6 +1796,7 @@ dkd.gemeentesluis.nl
 dkd.gemeentewesterveld.nl
 dkd.gooisemeren.nl
 dkd.hardenberg.nl
+dkd.heerenveen.nl
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdtest.brunssum.nl
@@ -2097,6 +2101,7 @@ edienstenmijninkomen-acceptatie.barendrecht.nl
 edienstenmijninkomen.albrandswaard.nl
 edienstenmijninkomen.barendrecht.nl
 edienstensociaal.gemeentemaashorst.nl
+edienstensociaaldomein.heerenveen.nl
 edienstensociaalpp.gemeentemaashorst.nl
 edienstenweni-test.arnhem.nl
 edienstenweni.arnhem.nl
@@ -2453,6 +2458,7 @@ formulieren.gooisemeren.nl
 formulieren.gorinchem.nl
 formulieren.haarlemmermeer.nl
 formulieren.hardenberg.nl
+formulieren.heerenveen.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -2497,6 +2503,7 @@ gasten.derondevenen.nl
 gasten.gulpen-wittem.nl
 gateway.gemeentewestland.nl
 gateway.groningen.nl
+gateway.heerenveen.nl
 gb-app05.gemeenteberkelland.nl
 gb-servers.intra.gemert-bakel.nl
 gb-wls-04.gemert-bakel.nl
@@ -2606,6 +2613,7 @@ geo.gemeente-oldambt.nl
 geo.gemeentestein.nl
 geo.hardenberg.nl
 geo.harderwijk.nl
+geo.heerenveen.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobrowser.enschede.nl
@@ -2814,6 +2822,7 @@ heelenschoon.amsterdam.nl
 heemskerk.nl
 heemstede.nl
 heerde.nl
+heerenveen.nl
 heiligen.deventer.nl
 helloid.bergenopzoom.nl
 helpdesk.gemeentesluis.nl
@@ -3639,6 +3648,7 @@ mail.halderberge.nl
 mail.hardenberg.nl
 mail.heemskerk.nl
 mail.heemstede.nl
+mail.heerenveen.nl
 mail.mailing.haaksbergen.nl
 mail.noord.amsterdam.nl
 mail01.bodegraven-reeuwijk.nl
@@ -3646,6 +3656,7 @@ mail1.amersfoort.nl
 mail1.groningen.nl
 mail2.amersfoort.nl
 mail2.groningen.nl
+mail2.heerenveen.nl
 mailexo.acc.amsterdam.nl
 mailexo.amsterdam.nl
 mailgate.gemeentewestland.nl
@@ -3801,6 +3812,7 @@ mijn-acc.groningen.nl
 mijn-acceptatie.enschede.nl
 mijn-gemeenteloket.gemeentemaastricht.nl
 mijn-o.ot.denhaag.nl
+mijn-preproductie.heerenveen.nl
 mijn-t.ot.denhaag.nl
 mijn.aalten.nl
 mijn.alkmaar.nl
@@ -3840,6 +3852,7 @@ mijn.haaksbergen.nl
 mijn.haarlem.nl
 mijn.haarlemmermeer.nl
 mijn.hardenberg.nl
+mijn.heerenveen.nl
 mijnaanvraagzi.beuningen.nl
 mijnacpt.haarlem.nl
 mijnbelastingen.amsterdam.nl
@@ -3891,6 +3904,7 @@ mijnsbl.amsterdam.nl
 mijnsdv.emmen.nl
 mijnshv.coevorden.nl
 mijnsociaaldomein.gemeentesluis.nl
+mijnsociaaldomein.heerenveen.nl
 mijnsociaalplein.bergen-nh.nl
 mijnsociaalplein.castricum.nl
 mijnsociaalplein.gemeentemaashorst.nl
@@ -4366,12 +4380,14 @@ osb.epe.nl
 osb.geertruidenberg.nl
 osb.gooisemeren.nl
 osb.halderberge.nl
+osb.heerenveen.nl
 osbacc.alkmaar.nl
 osbacc.almere.nl
 osbacc.drechterland.nl
 osbacc.enkhuizen.nl
 osbacc.geertruidenberg.nl
 osbacc.halderberge.nl
+osbacc.heerenveen.nl
 osbtest.capelleaandenijssel.nl
 osdorp.amsterdam.nl
 ot.denhaag.nl
@@ -4453,6 +4469,7 @@ parkeren-test.dijkenwaard.nl
 parkeren-test.gemeentehulst.nl
 parkeren-test.haarlemmermeer.nl
 parkeren-test.heemstede.nl
+parkeren-test.heerenveen.nl
 parkeren-tst.amsterdam.nl
 parkeren.almelo.nl
 parkeren.amsterdam.nl
@@ -4469,6 +4486,7 @@ parkeren.goes.nl
 parkeren.haarlem.nl
 parkeren.haarlemmermeer.nl
 parkeren.heemstede.nl
+parkeren.heerenveen.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
 parkerendenhaag.denhaag.nl
@@ -4612,6 +4630,7 @@ portal.gooisemeren.nl
 portal.groningen.nl
 portal.haarlemmermeer.nl
 portal.harlingen.nl
+portal.heerenveen.nl
 portal.iba.amsterdam.nl
 portal.pmb.amsterdam.nl
 portal1.denhaag.nl
@@ -4652,6 +4671,7 @@ preprod-broker.buren.nl
 preprod-burgerportaal.hardenberg.nl
 preprod-edienstaanvragensd.defryskemarren.nl
 preprod-ediensten-sociaaldomein.denhelder.nl
+preprod-edienstensociaaldomein.heerenveen.nl
 preprod-formulieren.buren.nl
 preprod-formulieren.gemeentehw.nl
 preprod-mijn.albrandswaard.nl
@@ -4672,6 +4692,7 @@ preprod-mijnplan.gemeenteberkelland.nl
 preprod-mijnportaal.defryskemarren.nl
 preprod-mijnportaal.gouda.nl
 preprod-mijnsociaaldomein.gemeentesluis.nl
+preprod-mijnsociaaldomein.heerenveen.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 preprod-mijnsociaalplein.castricum.nl
 preprod-mijnsociaalplein.gemeentemaashorst.nl
@@ -4726,6 +4747,7 @@ preproductie.goeree-overflakkee.nl
 preproductie.gorinchem.nl
 preproductie.gulpen-wittem.nl
 preproductie.harlingen.nl
+preproductie.heerenveen.nl
 preproductiebroker.gemeentewesterveld.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
@@ -4778,6 +4800,7 @@ proto.apeldoorn.nl
 prtg.gemeentemaashorst.nl
 ptr.cranendonck.nl
 pub.alkmaar.nl
+pubgov.heerenveen.nl
 publicatie-test.castricum.nl
 publicatie.castricum.nl
 publicaties.barneveld.nl
@@ -5183,10 +5206,12 @@ simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
 simform-preproductie.gemeentehw.nl
+simform-preproductie.heerenveen.nl
 simform.achtkarspelen.nl
 simform.beuningen.nl
 simform.gemeentehw.nl
 simform.gemeentemaasgouw.nl
+simform.heerenveen.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
 simsite.alphen-chaam.nl
@@ -5404,6 +5429,7 @@ staging.microservices.schoolwijzer.amsterdam.nl
 staging.onderwijssubsidies.amsterdam.nl
 staging.schoolwijzer.amsterdam.nl
 staging.stemvan.groningen.nl
+standplaatsen.heerenveen.nl
 start.almelo.nl
 start.beverwijk.nl
 static.amsterdam.nl
@@ -5461,16 +5487,20 @@ subsidieloket.alkmaar.nl
 subsidieregister.denhaag.nl
 subsidies-acceptatie.gemeentewestland.nl
 subsidies-backend-acceptatie.gemeentewestland.nl
+subsidies-backend-test.heerenveen.nl
 subsidies-backend.acceptatie.almelo.nl
 subsidies-backend.acceptatie.debilt.nl
 subsidies-backend.almelo.nl
 subsidies-backend.debilt.nl
 subsidies-backend.ede.nl
 subsidies-backend.gemeentewestland.nl
+subsidies-backend.heerenveen.nl
+subsidies-login-test.heerenveen.nl
 subsidies-login.acceptatie.debilt.nl
 subsidies-login.acceptatie.ede.nl
 subsidies-login.debilt.nl
 subsidies-login.ede.nl
+subsidies-test.heerenveen.nl
 subsidies.acceptatie.almelo.nl
 subsidies.acceptatie.debilt.nl
 subsidies.almelo.nl
@@ -5478,6 +5508,7 @@ subsidies.debilt.nl
 subsidies.ede.nl
 subsidies.gemeentemaastricht.nl
 subsidies.gemeentewestland.nl
+subsidies.heerenveen.nl
 subsites.amsterdam.nl
 suikerkwartier.groningen.nl
 suikerzijde.groningen.nl
@@ -6602,6 +6633,7 @@ www.havenkwartieraanzet.denhaag.nl
 www.heemskerk.nl
 www.heemstede.nl
 www.heerde.nl
+www.heerenveen.nl
 www.hh2015.groningen.nl
 www.hier.groningen.nl
 www.hildebrandplein.denhaag.nl

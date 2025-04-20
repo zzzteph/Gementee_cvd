@@ -104,6 +104,7 @@ http://felix.capelleaandenijssel.nl
 http://felix.dalfsen.nl
 http://felix.gemeentemaasgouw.nl
 http://form-gemeenteloket.gemeentemaastricht.nl
+http://formulieren.heerenveen.nl
 http://goeree-overflakkee.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://harlingen.nl
@@ -158,6 +159,7 @@ http://simcms.aalten.nl
 http://simcms.bergendal.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
+http://simform-preproductie.heerenveen.nl
 http://simsite.bergen.nl
 http://simsite.eersel.nl
 http://squitxo.goirle.nl
@@ -459,6 +461,7 @@ https://afspraak.gemeentewestland.nl
 https://afspraak.gooisemeren.nl
 https://afspraak.haarlemmermeer.nl
 https://afspraak.heemskerk.nl
+https://afspraak.heerenveen.nl
 https://afspraakmaken.dronten.nl
 https://afspraakmaken.enschede.nl
 https://afspraakmakentest.enschede.nl
@@ -766,6 +769,7 @@ https://belastingen.arnhem.nl
 https://belastingen.duiven.nl
 https://belastingen.gemeente-oldambt.nl
 https://belastingen.gilzerijen.nl
+https://belastingen.heerenveen.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.edam-volendam.nl
 https://belastingloket.elburg.nl
@@ -833,6 +837,7 @@ https://bewegen.apeldoorn.nl
 https://bewonersbrieven.amsterdam.nl
 https://bewustwording.amersfoort.nl
 https://bewustwording.brielle.nl
+https://bezoekersparkeren.heerenveen.nl
 https://bezwaar.acc.denhaag.nl
 https://bezwaar.denhaag.nl
 https://bgtt.bergenopzoom.nl
@@ -1335,6 +1340,7 @@ https://edienstenmijninkomen-acceptatie.barendrecht.nl
 https://edienstenmijninkomen.albrandswaard.nl
 https://edienstenmijninkomen.barendrecht.nl
 https://edienstensociaal.gemeentemaashorst.nl
+https://edienstensociaaldomein.heerenveen.nl
 https://edienstensociaalpp.gemeentemaashorst.nl
 https://edienstenweni-test.arnhem.nl
 https://edienstenweni.arnhem.nl
@@ -1587,6 +1593,7 @@ https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
 https://ftp.castricum.nl
 https://g-rooster.bronckhorst.nl
+https://gateway.heerenveen.nl
 https://gbi.apeldoorn.nl
 https://gbi.gemeentemaashorst.nl
 https://gbionline.enschede.nl
@@ -1653,6 +1660,7 @@ https://geo.doetinchem.nl
 https://geo.ermelo.nl
 https://geo.gemeente-oldambt.nl
 https://geo.harderwijk.nl
+https://geo.heerenveen.nl
 https://geobrowser.enschede.nl
 https://geodata-acc.dijkenwaard.nl
 https://geodata.dijkenwaard.nl
@@ -1748,6 +1756,7 @@ https://havenkwartieraanzet.denhaag.nl
 https://heemskerk.nl
 https://heemstede.nl
 https://heerde.nl
+https://heerenveen.nl
 https://heiligen.deventer.nl
 https://helloid.bergenopzoom.nl
 https://helpdesk.gemeentesluis.nl
@@ -2224,6 +2233,7 @@ https://mheenpark.apeldoorn.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://mijn-acc.groningen.nl
 https://mijn-acceptatie.enschede.nl
+https://mijn-preproductie.heerenveen.nl
 https://mijn.alkmaar.nl
 https://mijn.amersfoort.nl
 https://mijn.amsterdam.nl
@@ -2255,6 +2265,7 @@ https://mijn.gouda.nl
 https://mijn.haaksbergen.nl
 https://mijn.haarlem.nl
 https://mijn.hardenberg.nl
+https://mijn.heerenveen.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -2293,6 +2304,7 @@ https://mijnsbl.amsterdam.nl
 https://mijnsdv.emmen.nl
 https://mijnshv.coevorden.nl
 https://mijnsociaaldomein.gemeentesluis.nl
+https://mijnsociaaldomein.heerenveen.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
 https://mijnsociaalplein.gemeentemaashorst.nl
@@ -2642,6 +2654,7 @@ https://parkeren.goes.nl
 https://parkeren.haarlem.nl
 https://parkeren.haarlemmermeer.nl
 https://parkeren.heemstede.nl
+https://parkeren.heerenveen.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
 https://parkerendenhaag.ot.denhaag.nl
@@ -2718,6 +2731,7 @@ https://portal.ggd.amsterdam.nl
 https://portal.gooisemeren.nl
 https://portal.groningen.nl
 https://portal.harlingen.nl
+https://portal.heerenveen.nl
 https://portal1.denhaag.nl
 https://positionering.denhaag.nl
 https://powerbrowser-esb.gorinchem.nl
@@ -2739,6 +2753,7 @@ https://preprod-broker.buren.nl
 https://preprod-burgerportaal.hardenberg.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-ediensten-sociaaldomein.denhelder.nl
+https://preprod-edienstensociaaldomein.heerenveen.nl
 https://preprod-formulieren.buren.nl
 https://preprod-formulieren.gemeentehw.nl
 https://preprod-mijn.albrandswaard.nl
@@ -2795,6 +2810,7 @@ https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
 https://prtg.gemeentemaashorst.nl
 https://pub.alkmaar.nl
+https://pubgov.heerenveen.nl
 https://publicaties.barneveld.nl
 https://publicaties.delft.nl
 https://publicaties.eindhoven.nl
@@ -2978,6 +2994,7 @@ https://simcms.harlingen.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform.gemeentehw.nl
 https://simform.gemeentemaasgouw.nl
+https://simform.heerenveen.nl
 https://simsite.beekdaelen.nl
 https://simsite.bergeijk.nl
 https://simsite.beverwijk.nl
@@ -3063,6 +3080,7 @@ https://staging.microservices.schoolwijzer.amsterdam.nl
 https://staging.onderwijssubsidies.amsterdam.nl
 https://staging.schoolwijzer.amsterdam.nl
 https://staging.stemvan.groningen.nl
+https://standplaatsen.heerenveen.nl
 https://start.almelo.nl
 https://start.beverwijk.nl
 https://statistiek.amsterdam.nl
@@ -3099,16 +3117,20 @@ https://subsidieloket.alkmaar.nl
 https://subsidieregister.denhaag.nl
 https://subsidies-acceptatie.gemeentewestland.nl
 https://subsidies-backend-acceptatie.gemeentewestland.nl
+https://subsidies-backend-test.heerenveen.nl
 https://subsidies-backend.acceptatie.almelo.nl
 https://subsidies-backend.acceptatie.debilt.nl
 https://subsidies-backend.almelo.nl
 https://subsidies-backend.debilt.nl
 https://subsidies-backend.ede.nl
 https://subsidies-backend.gemeentewestland.nl
+https://subsidies-backend.heerenveen.nl
+https://subsidies-login-test.heerenveen.nl
 https://subsidies-login.acceptatie.debilt.nl
 https://subsidies-login.acceptatie.ede.nl
 https://subsidies-login.debilt.nl
 https://subsidies-login.ede.nl
+https://subsidies-test.heerenveen.nl
 https://subsidies.acceptatie.almelo.nl
 https://subsidies.acceptatie.debilt.nl
 https://subsidies.almelo.nl
@@ -3116,6 +3138,7 @@ https://subsidies.debilt.nl
 https://subsidies.ede.nl
 https://subsidies.gemeentemaastricht.nl
 https://subsidies.gemeentewestland.nl
+https://subsidies.heerenveen.nl
 https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
 https://summit-ft.amsterdam.nl
@@ -3665,6 +3688,7 @@ https://www.havenkwartieraanzet.denhaag.nl
 https://www.heemskerk.nl
 https://www.heemstede.nl
 https://www.heerde.nl
+https://www.heerenveen.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl
 https://www.iedereenwerktmee.amsterdam.nl
