@@ -21,8 +21,8 @@ felix
 loket
 formulieren
 eloket
-test
 dkd
+test
 meldingen
 werkplek
 waarmerk
@@ -71,9 +71,9 @@ flowmailer-tracking
 hybrid
 berichten
 loket.acceptatie
+enterpriseregistration
 beeldbank
 cloudadapter-test
-enterpriseregistration
 acc-broker
 osbacc
 digikoppeling.test
@@ -88,6 +88,7 @@ financien
 cloudadapter
 test-intranet
 pki
+doemee
 www.webmail
 dtestloket
 connect
@@ -98,7 +99,6 @@ subsidies
 snelbalie
 gemeente
 klantcontact
-doemee
 kaarten
 filecap
 mijnzorg
@@ -120,6 +120,7 @@ jaarstukken
 inloggen
 internetafspraken
 test-cmsintranet
+cmsintranet
 preprodbroker
 e
 apps
@@ -142,8 +143,8 @@ contentbeheer
 begroting
 transfer
 testloket
-cmsintranet
 belastingportaal
+gisib
 subsidies-backend
 dali
 snelbaliepp
@@ -162,6 +163,7 @@ bgt
 objecten
 objecttypen
 gasten
+mobiel
 contentbeheer.acceptatie
 zaken.acceptatie
 bor
@@ -170,11 +172,11 @@ inproces
 squit2020
 kennisbank
 simform
-gisib
 web
 izaaksuite
 wachtwoord
 evenementen
+legacy
 telewerken
 openstad
 woo
@@ -189,7 +191,6 @@ jccapi
 micollab
 uc
 mobile
-mobiel
 ro
 www.portal
 midoffice
@@ -201,11 +202,11 @@ subsidie
 melddesk
 thuiswerken
 website
+afvalkalender
 api.openstad
 onderzoek
 werkenvoor
 api.betalen
-legacy
 sharefile
 gis
 bag
@@ -238,7 +239,6 @@ geodata
 subsidies-backend.acceptatie
 subsidies.acceptatie
 maps
-afvalkalender
 gemeentearchief
 ro-online
 www.duurzaam
@@ -406,6 +406,7 @@ geoserver
 kaartviewer
 personeelsplanning
 djuma
+eforms
 acceptatieloket
 klimaatplein
 live
@@ -466,6 +467,7 @@ webformulieren
 webservices
 grondwater
 vergunningen
+mta-sts
 socialekaart
 mx2
 ondernemen
@@ -625,9 +627,9 @@ bestemmingsplannen
 accdrop
 nhr
 solliciterenbij
-eforms
 gisibonline
 sentry
+koppelvlak
 aovpn
 data.gemnet
 intranetcms-acc
@@ -736,7 +738,6 @@ prod
 mobility
 www.zorgloket
 zorgloket
-mta-sts
 www.socialekaart
 attachments
 authenticatiedienst
@@ -814,6 +815,7 @@ autodiscover.d66
 autodiscover.sp
 fortinet
 geoweb
+gisibtest
 gisservices
 jccbetalen
 officewebapps
@@ -886,6 +888,7 @@ www.belastingloket
 testwebsite
 decos
 smtp01
+stuf
 regieportaal
 zorg-acc
 login-pre
@@ -2254,7 +2257,6 @@ dell2.servers1
 dell3
 firewall.servers1
 gw.servers1
-koppelvlak
 lrdstufxml
 rdwproxy
 tabsign-koppelvlak
@@ -4042,7 +4044,6 @@ geowebint
 geowebinttest
 geowebtest
 gis-analytics
-gisibtest
 gisservicestest
 gouwbag-test
 gouwbag
@@ -4797,7 +4798,6 @@ mijnafval
 mks01msn
 mstat
 ned03msn
-stuf
 www.gs01msn
 link.socialewegwijzer
 mx11
@@ -5304,3 +5304,7 @@ zaken.staging
 collegeprogramma
 papendrecht-checker-preprod
 papendrecht-checker
+koppelvlaktest
+mijnwerkplek
+stuftest
+testeforms
