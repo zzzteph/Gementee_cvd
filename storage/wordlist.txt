@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-mail
 webmail
+mail
 simsite
 afspraken
 mijn
@@ -21,9 +21,9 @@ loket
 felix
 formulieren
 werkplek
+eloket
 meldingen
 test
-eloket
 waarmerk
 dkd
 afspraak
@@ -32,8 +32,8 @@ portal
 adfs
 api.meldingen
 acc
-geo
 open
+geo
 vpn
 gemeenteraad
 betalen
@@ -50,17 +50,17 @@ meldingen-acc
 data
 openpdc
 osb
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 api.meldingen-acc
 ruimtelijkeplannen
-testeloket
+login
 dloket
 dmidoffice
 remote
 openpub
 belastingen
-login
 hybrid
 kaart
 berichten
@@ -75,10 +75,10 @@ cloudadapter-test
 loket.acceptatie
 acc-broker
 woningbouwkaart
+govroam
 piwik
 digikoppeling.test
 cloudadapter
-govroam
 mijnzorg
 osbacc
 mijninkomen
@@ -90,6 +90,7 @@ extranet
 test-intranet
 pki
 dtestloket
+filecap
 connect
 _autodiscover._tcp
 verkiezingen
@@ -100,8 +101,9 @@ snelbalie
 financien
 klantcontact
 doemee
+www.webmail
 kaarten
-filecap
+transfer
 test-cmsintranet
 preprodbroker
 vergunningintaker
@@ -117,11 +119,10 @@ bgt
 belastingloket
 gasten
 samen
-www.webmail
+simcms-open
 smtp
 dtestmidoffice
 jaarstukken
-transfer
 cmsintranet
 denkmee
 simform
@@ -144,7 +145,7 @@ podiumd-logs
 sip
 sts
 meedoen
-simcms-open
+micollab
 mdm
 mobile
 AutoDiscover
@@ -161,6 +162,7 @@ web
 subsidie
 evenementen
 qr
+ftp
 legacy
 telewerken
 openstad
@@ -179,7 +181,6 @@ iarchief
 publicroam
 mijnsociaalplein
 preprod-mijnsociaalplein
-micollab
 uc
 mobiel
 ro
@@ -189,6 +190,7 @@ inproces.acceptatie
 inproces
 begroting
 cryptshare
+outlook
 vth
 testloket
 fs
@@ -214,7 +216,6 @@ vdi
 www.test
 werkenvoor
 api.betalen
-ftp
 sharefile
 www.acc
 desktop
@@ -235,7 +236,6 @@ intranet-acc
 xential
 citrix
 key2gbav
-outlook
 internetafspraken
 bestanden
 squit2020
@@ -421,6 +421,8 @@ duo
 e.openstad
 gbionline
 contact
+gemeentewinkel
+www.login
 liquit
 beeldbankbeheer
 www.werkplek
@@ -584,6 +586,7 @@ gms
 wozloket-acc
 automator
 mijnzorg-test
+rx-mission-publiceren
 voormeldingen
 jcccloud
 belastingportaal-test
@@ -692,12 +695,10 @@ geo-secure
 financieelportaal
 corsa-prod
 corsa-test
-gemeentewinkel
 organisatie
 director
 mijnmobiel
 support
-www.login
 www.mijnmobiel
 radius
 tim
@@ -761,6 +762,7 @@ website.acceptatie
 wijkteam
 access
 open-formulieren-test
+brk
 liber
 pcorsa
 pkoppelcorsa
@@ -2235,7 +2237,6 @@ www.ibo
 gp-test
 invmid
 nlgembrn
-rx-mission-publiceren
 securemail
 testportal
 vmapp002
@@ -4410,7 +4411,6 @@ www.itstore
 www.ssp
 belasting-test
 belasting
-brk
 escaperoom
 huursportzaal
 ib
@@ -4778,3 +4778,15 @@ ibabs-prod
 ibabs-test
 sociaalloket
 www.sociaalloket
+BRK
+digi01
+djumamks
+gs01msn
+mform
+mijnafval
+mks01msn
+mstat
+ned03msn
+smtp01
+stuf
+www.gs01msn
