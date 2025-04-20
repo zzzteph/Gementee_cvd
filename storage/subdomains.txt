@@ -46,6 +46,7 @@ _autodiscover._tcp.bergeijk.nl
 _autodiscover._tcp.boxtel.nl
 _autodiscover._tcp.brunssum.nl
 _autodiscover._tcp.gemeentestein.nl
+_autodiscover._tcp.hethogeland.nl
 _dmarc.delft.nl
 _dmarc.helmond.nl
 a-consent.sarphati.amsterdam.nl
@@ -381,6 +382,7 @@ acceptatie.gulpen-wittem.nl
 acceptatie.hardenberg.nl
 acceptatie.heerlen.nl
 acceptatie.hellendoorn.nl
+acceptatie.hethogeland.nl
 acceptatie.intranet.debilt.nl
 acceptatie.intranet.gemeentewestland.nl
 acceptatie.oranjeplein.goirle.nl
@@ -1434,6 +1436,7 @@ cloudrecorder.denhaag.nl
 cluster-cg.test.denhaag.nl
 clv.echt-susteren.nl
 cms-binnenshuis.bergen.nl
+cms-extranet.hethogeland.nl
 cms-intranet.eemsdelta.nl
 cms-joost.beuningen.nl
 cms.alphenaandenrijn.nl
@@ -2393,6 +2396,7 @@ extranet.gemeentebeek.nl
 extranet.gemeentemaasgouw.nl
 extranet.heeze-leende.nl
 extranet.hengelo.nl
+extranet.hethogeland.nl
 extranet.vga.amsterdam.nl
 extranetcms-acc.eemsdelta.nl
 extranetcms.eemsdelta.nl
@@ -2526,6 +2530,7 @@ forms.druten.nl
 forms.vga.amsterdam.nl
 formulier-acc.ede.nl
 formulier-test.almere.nl
+formulier-test.hethogeland.nl
 formulier.amersfoort.nl
 formulier.amsterdam.nl
 formulier.assen.nl
@@ -2537,6 +2542,7 @@ formulier.gemeente-oldambt.nl
 formulier.gemeentemaashorst.nl
 formulier.gemert-bakel.nl
 formulier.groningen.nl
+formulier.hethogeland.nl
 formulieracc.breda.nl
 formulieren-g4-acc.amsterdam.nl
 formulieren-test.beesel.nl
@@ -2568,6 +2574,7 @@ formulieren.gorinchem.nl
 formulieren.haarlemmermeer.nl
 formulieren.hardenberg.nl
 formulieren.heerenveen.nl
+formulieren.hethogeland.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -2963,6 +2970,7 @@ herber-web.acc.amsterdam.nl
 herber-web.amsterdam.nl
 herber-web.tst.amsterdam.nl
 hetgeldvan.deventer.nl
+hethogeland.nl
 hetsociaalplein-acc.dijkenwaard.nl
 hetsociaalplein.dijkenwaard.nl
 hh2015.groningen.nl
@@ -3126,6 +3134,7 @@ iburgerzaken.heerlen.nl
 iburgerzaken.heeze-leende.nl
 iburgerzaken.hellevoetsluis.nl
 iburgerzaken.helmond.nl
+iburgerzaken.hethogeland.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -3200,6 +3209,7 @@ ibzpink.heerlen.nl
 ibzpink.heeze-leende.nl
 ibzpink.hellevoetsluis.nl
 ibzpink.helmond.nl
+ibzpink.hethogeland.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -3484,6 +3494,8 @@ jvs-prod.gemeente-steenbergen.nl
 jvs-test.gemeente-steenbergen.nl
 jvs.goirle.nl
 jvvs.amsterdam.nl
+jzd-test.hethogeland.nl
+jzd.hethogeland.nl
 k1._domainkey.bergendal.nl
 k2bg.barneveld.nl
 k2fin.barneveld.nl
@@ -3599,6 +3611,7 @@ kliconline.haarlemmermeer.nl
 klimaatplein.bergen-nh.nl
 klimaatplein.castricum.nl
 klimaatplein.heiloo.nl
+kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
 knp.breda.nl
 koningsdag.groningen.nl
@@ -3922,6 +3935,7 @@ meet.assen.nl
 meet.ede.nl
 meet.ggd.amsterdam.nl
 meet.haarlem.nl
+meet.hethogeland.nl
 meldcode.denhaag.nl
 melddesk.almere.nl
 melddesk.bodegraven-reeuwijk.nl
@@ -4159,6 +4173,7 @@ mks.dewolden.nl
 mks.eijsden-margraten.nl
 mks.gemeentebest.nl
 mks.haarlemmermeer.nl
+mks.hethogeland.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
 mksacc.breda.nl
@@ -5023,6 +5038,7 @@ projecten.boxtel.nl
 projecten.denhaag.nl
 protectus.ggd.amsterdam.nl
 proto.apeldoorn.nl
+provconnect.hethogeland.nl
 prtg.gemeentemaashorst.nl
 psmartdoc.heerlen.nl
 ptr.cranendonck.nl
@@ -5153,6 +5169,7 @@ remote.druten.nl
 remote.gemeentesluis.nl
 remote.gemeentewestland.nl
 remote.gorinchem.nl
+remote.hethogeland.nl
 rep.bronckhorst.nl
 reserveren.coevorden.nl
 ris.dalfsen.nl
@@ -5171,6 +5188,7 @@ ro.brunssum.nl
 ro.emmen.nl
 ro.gemeenteberkelland.nl
 ro.halderberge.nl
+roemte.hethogeland.nl
 rokinintranet.amsterdam.nl
 roles.datapunt.amsterdam.nl
 rom.authenticatie.alkmaar.nl
@@ -5333,6 +5351,7 @@ secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
 securemail.borne.nl
+securewifi.hethogeland.nl
 selector1._domainkey.derondevenen.nl
 selfservice.ggd.amsterdam.nl
 sem.delft.nl
@@ -5352,6 +5371,7 @@ servicebus.capelleaandenijssel.nl
 servicebus.gemeentewesterveld.nl
 servicedesk.almelo.nl
 servicedesk.edam-volendam.nl
+servicedesk.hethogeland.nl
 servicegateway.haarlem.nl
 services.acc.amsterdam.nl
 services.amsterdam.nl
@@ -5393,6 +5413,8 @@ siam.doetinchem.nl
 siam.drimmelen.nl
 siam.gooisemeren.nl
 siamtest.bunnik.nl
+siem.hethogeland.nl
+siem2.hethogeland.nl
 signaal.amsterdam.nl
 sim-prefill.doesburg.nl
 sim-preproductie.doesburg.nl
@@ -5828,6 +5850,7 @@ test-binnenshuis.bergen.nl
 test-cmsbink.beverwijk.nl
 test-cmsdieuwke.defryskemarren.nl
 test-cmsdok.dronten.nl
+test-cmsextranet.hethogeland.nl
 test-cmshofnet.coevorden.nl
 test-cmsintranet.drimmelen.nl
 test-cmsintranet.edam-volendam.nl
@@ -5849,6 +5872,7 @@ test-dok.dronten.nl
 test-e-loket.apeldoorn.nl
 test-eformulier.heerlen.nl
 test-eloket.brunssum.nl
+test-extranet.hethogeland.nl
 test-formulier.assen.nl
 test-formulier.enschede.nl
 test-formulier.gemert-bakel.nl
@@ -6945,6 +6969,7 @@ www.hellevoetsluis.nl
 www.helmond.nl
 www.hendrik-ido-ambacht.nl
 www.hengelo.nl
+www.hethogeland.nl
 www.hh2015.groningen.nl
 www.hier.groningen.nl
 www.hildebrandplein.denhaag.nl
