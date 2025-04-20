@@ -3,15 +3,15 @@ www
 autodiscover
 iburgerzaken
 ibzpink
-intranet
 edienstenburgerzaken
+intranet
 edienstenburgerzaken-test
 webmail
 simsite
-afspraken
 mijn
-mail
+afspraken
 digikoppeling
+mail
 preproductie
 secure
 acceptatie
@@ -26,9 +26,9 @@ meldingen
 test
 werkplek
 waarmerk
-acc
 afspraak
 open
+acc
 broker
 portal
 adfs
@@ -43,11 +43,11 @@ gemeenteraad
 enterpriseenrollment
 test-ipa
 werkenbij
-betalen
 zaaksysteem-accept
+betalen
+raad
 testeloket
 meldingen-acc
-raad
 omgevingsvisie
 dacceptatieloket
 dacceptatiemidoffice
@@ -63,12 +63,12 @@ remote
 belastingbalie
 openpub
 kaart
+digikoppeling-test
 formulier
 cmsoo
 flowmailer-tracking
 hybrid
 berichten
-digikoppeling-test
 zaken
 beeldbank
 cloudadapter-test
@@ -93,12 +93,14 @@ parkeren-test
 subsidies
 gemeente
 klantcontact
+belastingloket
 doemee
 www.webmail
 kaarten
 filecap
 connect
 mijnzorg
+_autodiscover._tcp
 vergunningintaker
 verkiezingen
 preprod-mijninkomen
@@ -107,7 +109,6 @@ mailing
 auth
 acc-formulier
 acc-podiumd-logs
-belastingloket
 samen
 simcms-open
 smtp
@@ -115,7 +116,6 @@ dtestmidoffice
 jaarstukken
 inloggen
 test-cmsintranet
-_autodiscover._tcp
 preprodbroker
 denkmee
 e
@@ -271,6 +271,7 @@ archief
 admin.openstad
 auth.openstad
 img.openstad
+acceptatie-open
 bestanden
 squit2020.acceptatie
 woz-portaal
@@ -327,7 +328,6 @@ mijnzaken
 www.openstad
 openformulieren-test
 filetransfer
-acceptatie-open
 belastingbalie-test
 eformulieren
 academie
@@ -454,6 +454,7 @@ intra
 mijnloket
 winkelen
 bestuur
+efactuur
 webdav
 webformulieren
 webservices
@@ -461,6 +462,7 @@ grondwater
 vergunningen
 socialekaart
 mx2
+ondernemen
 aeolus
 burgerportaal
 raadsinformatie
@@ -715,8 +717,8 @@ begraven
 parkeren-siam-test
 parkeren-siam
 centric
-efactuur
 relay
+test-digikoppelingadapter
 geoinformatie
 router
 digitalebalie
@@ -734,7 +736,6 @@ edge
 vergunningintaker.preprod
 www.piwik
 gt-loket
-ondernemen
 redirect
 welkom
 www.belastingbalie
@@ -3049,7 +3050,6 @@ eformulieren.preprod
 koppeling-belastingbalie
 mijngeldzaken-acceptatie
 smtptls
-test-digikoppelingadapter
 visvijver
 web4biz251
 webscada-rps
@@ -5242,3 +5242,8 @@ test.loket
 uem
 uem.test
 vpntunnel
+belastingloket.test
+cdn
+server02
+toekomstvisie
+websitestatistiek
