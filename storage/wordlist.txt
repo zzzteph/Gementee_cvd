@@ -24,11 +24,11 @@ formulieren
 acc
 afspraak
 portal
+eloket
 waarmerk
 meldingen
 dkd
 werkplek
-eloket
 adfs
 broker
 betalen
@@ -45,11 +45,11 @@ ruimtelijkeplannen
 vpn
 zaaksysteem-accept
 enterpriseenrollment
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 openpdc
 werkenbij
-testeloket
 dloket
 dmidoffice
 loket.acceptatie
@@ -90,6 +90,7 @@ belastingbalie
 mks
 govroam
 test-intranet
+pki
 doemee
 dtestloket
 filecap
@@ -107,7 +108,6 @@ gemeente
 nieuwsbrief
 acc-podiumd-logs
 belastingloket
-pki
 mdm
 dtestmidoffice
 jaarstukken
@@ -228,10 +228,12 @@ formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
+data-test
 micollab
 www.doemee
 www.gemeenteraad
 acc.piwik
+www.jongin
 rap
 omgevingswet
 mobiel
@@ -310,14 +312,13 @@ klimaatplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
 wij
-data-test
 intranet-acc
 digikoppelingtest
 extern
 wozloket
 gp
 mam
-www.jongin
+jongin
 2secure
 erfgoed
 matomo
@@ -495,7 +496,6 @@ localhost
 wozloket-acc
 automator
 voormeldingen
-jongin
 belastingportaal-test
 projecten
 sportaccommodaties
@@ -4229,3 +4229,5 @@ siem
 siem2
 test-cmsextranet
 test-extranet
+email.privacy
+geoloket
