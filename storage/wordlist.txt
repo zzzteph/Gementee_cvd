@@ -114,6 +114,7 @@ smtp
 dtestmidoffice
 jaarstukken
 cmsintranet
+belastingportaal
 mijnzorg-acc
 preprodbroker
 kennisbank
@@ -145,7 +146,6 @@ www.webmail
 squit2go
 connect.acceptatie
 begroting
-belastingportaal
 midoffice
 www.acceptatie
 e
@@ -242,6 +242,7 @@ omgevingswet
 key2gbav
 ro
 woz-loket
+bor
 inproces.acceptatie
 inproces
 cryptshare
@@ -335,7 +336,6 @@ djumaproxy
 dkdtest
 medewerkers
 www.afspraak
-bor
 archief
 storefront
 klantportaal
@@ -620,6 +620,7 @@ www.kaarten
 www.mdm
 de
 aaa
+preprod-belastingportaal
 sbc01
 trobit
 cloudadapter-prod
@@ -3505,7 +3506,6 @@ testparkeren
 acceptatie.oranjeplein
 jvs
 oranjeplein
-preprod-belastingportaal
 squitxo
 squitxotest
 vergaderingen.acceptatie
@@ -4274,3 +4274,5 @@ hillegom-checker
 mobiliteitsplan
 website.acceptatie
 www.thuiswerken
+acceptatie.hilvernet
+hilvernet
