@@ -25,9 +25,9 @@ portal
 waarmerk
 meldingen
 werkplek
+acc
 eloket
 dkd
-acc
 afspraak
 gemeenteraad
 adfs
@@ -104,6 +104,7 @@ e
 portaal
 simform
 verkiezingen
+mailing
 preprod
 snelbaliepp
 siam
@@ -129,7 +130,6 @@ denkmee
 kennisbank
 gisib
 subsidies
-mailing
 qr
 legacy
 openzaak
@@ -526,6 +526,7 @@ wozloket-acc
 automator
 mijnzorg-test
 voormeldingen
+jcccloud
 belastingportaal-test
 projecten
 nieuws
@@ -2177,7 +2178,6 @@ zaalhuur
 brsoribi01
 brsoribi02
 grmks06
-jcccloud
 Belastingportaal-test
 netwerk
 preprod-mijnoverzicht
@@ -4412,3 +4412,4 @@ vm-cs
 werkplekcb
 www.stad
 www.woz
+grmks02
