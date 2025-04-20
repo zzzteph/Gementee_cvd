@@ -101,6 +101,7 @@ http://autodiscover.lansingerland.nl
 http://autodiscover.leeuwarden.nl
 http://autodiscover.leiden.nl
 http://autodiscover.leiderdorp.nl
+http://autodiscover.leidschendam-voorburg.nl
 http://beeldbank.hellendoorn.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
@@ -1870,6 +1871,7 @@ https://flowmailer-tracking.heemstede.nl
 https://flowmailer-tracking.helmond.nl
 https://flowmailer-tracking.kampen.nl
 https://flowmailer-tracking.katwijk.nl
+https://flowmailer-tracking.leidschendam-voorburg.nl
 https://flowmailer-tracking.parkeervergunning.leeuwarden.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
@@ -2613,6 +2615,7 @@ https://leerpleinburgerzaken.amsterdam.nl
 https://leeuwarden.nl
 https://leiden.nl
 https://leiderdorp.nl
+https://leidschendam-voorburg.nl
 https://leidschenveenaanzet.denhaag.nl
 https://lerenbij.groningen.nl
 https://lerenloont.almere.nl
@@ -2628,6 +2631,7 @@ https://live.landvancuijk.nl
 https://liveblog.ede.nl
 https://login.alphenaandenrijn.nl
 https://login.subsidie.leiden.nl
+https://loket-acc.leidschendam-voorburg.nl
 https://loket.aaenhunze.nl
 https://loket.aalsmeer.nl
 https://loket.acceptatie.aaenhunze.nl
@@ -2658,6 +2662,7 @@ https://loket.heerde.nl
 https://loket.hellendoorn.nl
 https://loket.katwijk.nl
 https://loket.leeuwarden.nl
+https://loket.leidschendam-voorburg.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lvs.hellendoorn.nl
@@ -3491,6 +3496,7 @@ https://programmabegroting2024.financielestukken.diemen.nl
 https://programmavan.bergendal.nl
 https://projecten.denhaag.nl
 https://projecten.lansingerland.nl
+https://projectenboek.leidschendam-voorburg.nl
 https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
 https://provconnect.hethogeland.nl
@@ -4613,6 +4619,7 @@ https://www.laren.nl
 https://www.leeuwarden.nl
 https://www.leiden.nl
 https://www.leiderdorp.nl
+https://www.leidschendam-voorburg.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
