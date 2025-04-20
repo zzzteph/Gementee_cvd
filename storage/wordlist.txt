@@ -1,5 +1,5 @@
-
 www
+
 autodiscover
 iburgerzaken
 ibzpink
@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 webmail
 mail
-simsite
 mijn
+simsite
 afspraken
 digikoppeling
 acceptatie
@@ -22,24 +22,24 @@ felix
 formulieren
 eloket
 werkplek
-meldingen
 test
+meldingen
 dkd
 waarmerk
-adfs
 afspraak
+adfs
+open
 api.meldingen
 broker
 portal
 acc
-open
 geo
 vpn
+werkenbij
 parkeren
 betalen
 gemeenteraad
 pv
-werkenbij
 iparticipatie
 zaaksysteem-accept
 test-ipa
@@ -106,6 +106,7 @@ klantcontact
 samen
 doemee
 www.webmail
+smtp
 kaarten
 jaarstukken
 transfer
@@ -122,12 +123,12 @@ bgt
 belastingloket
 gasten
 simcms-open
-smtp
 dtestmidoffice
 inloggen
 belastingportaal
 denkmee
 simform
+web
 subsidies-backend
 dali
 mailing
@@ -162,10 +163,10 @@ midoffice
 mijnzorg-acc
 kennisbank
 gisib
-web
 subsidie
 evenementen
 thuiswerken
+werkenvoor
 ftp
 legacy
 telewerken
@@ -206,6 +207,7 @@ www.werkenbij
 servicedesk
 subsidies-backend.acceptatie
 subsidies.acceptatie
+maps
 melddesk
 website
 afvalkalender
@@ -218,7 +220,6 @@ ns
 onderzoek
 vdi
 www.test
-werkenvoor
 api.betalen
 sharefile
 www.acc
@@ -256,7 +257,6 @@ preprod-mijn
 izaaksuite
 zoeken
 makelaar
-maps
 sociaaldomein
 cms
 atlas
@@ -302,6 +302,7 @@ auth.openstad
 img.openstad
 openformulieren-test
 filetransfer
+acceptatie-open
 belastingbalie-test
 squit2020.acceptatie
 woz-portaal
@@ -414,7 +415,6 @@ intra
 winkelen
 www.openstad
 bestuur
-acceptatie-open
 eformulieren
 webdav
 webservices
@@ -476,6 +476,7 @@ formulier-test
 iam
 ingesprek
 kavels
+leef
 panel
 planon
 regio
@@ -784,6 +785,7 @@ hta
 mijnsociaaldomein-acc
 geocortex
 tickets
+huisstijl
 ews
 bestuursrapportage
 nieuw
@@ -903,7 +905,6 @@ indienst
 inkoopplein
 kavelwinkel
 leef-acc
-leef
 leefbuiten
 lerenloont
 mijnict
@@ -4565,7 +4566,6 @@ grave
 groeningen
 haps
 holthees
-huisstijl
 katwijk
 klimaat
 landhorst
@@ -4870,3 +4870,4 @@ roel
 sportief
 test-witgoed
 witgoed
+leef-test
