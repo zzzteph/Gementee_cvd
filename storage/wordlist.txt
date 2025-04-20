@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mail
-webmail
 simsite
+webmail
 afspraken
 mijn
 digikoppeling
@@ -30,8 +30,8 @@ acc
 afspraak
 dkd
 adfs
-gemeenteraad
 geo
+gemeenteraad
 broker
 open
 api.meldingen
@@ -40,9 +40,9 @@ parkeren
 betalen
 vpn
 omgevingsvisie
+raad
 osb
 data
-raad
 werkenbij
 iparticipatie
 ruimtelijkeplannen
@@ -53,6 +53,8 @@ dacceptatieloket
 dacceptatiemidoffice
 remote
 test-ipa
+belastingen
+berichten
 enterpriseenrollment
 login
 dloket
@@ -60,8 +62,6 @@ dmidoffice
 meldingen-acc
 openpub
 hybrid
-belastingen
-berichten
 api.meldingen-acc
 loket.acceptatie
 zaken
@@ -123,6 +123,7 @@ smtp
 dtestmidoffice
 jaarstukken
 connect.acceptatie
+transfer
 cmsintranet
 belastingportaal
 mijnzorg-acc
@@ -147,6 +148,7 @@ keycloak
 notificaties
 podiumd-logs
 sts
+klantcontact
 meedoen
 byod
 gasten
@@ -156,6 +158,7 @@ preprod-mijnsociaalplein
 simcms-open
 uc
 mobile
+AutoDiscover
 mobiel
 inloggen
 squit2go
@@ -164,10 +167,10 @@ contentbeheer
 zaken.acceptatie
 begroting
 cryptshare
-transfer
 vth
 midoffice
 www.acceptatie
+college
 web
 wachtwoord
 www.werkenbij
@@ -201,14 +204,12 @@ openformulieren
 owa
 test-digikoppeling
 obsurv
-klantcontact
 guest
 iarchief
 publicroam
 uca
 micollab
 xential
-AutoDiscover
 citrix
 inproces.acceptatie
 inproces
@@ -223,7 +224,6 @@ documenten
 raadsnet
 vergunningintaker-preprod
 geovisia
-college
 praatmee
 preprod-mijn
 izaaksuite
@@ -277,6 +277,7 @@ img.openstad
 openformulieren-test
 squit2020.acceptatie
 squit2020
+woz-portaal
 testbelastingloket
 geoportaal
 en
@@ -373,7 +374,6 @@ eformulieren
 webdav
 bestanden
 webservices
-woz-portaal
 afspraakmaken
 mx1
 zaaksysteem
@@ -382,6 +382,7 @@ duo
 e.openstad
 ibabs
 www.werkplek
+mijnsociaaldomein
 gateway
 de
 sbc01
@@ -653,7 +654,6 @@ beeldbankbeheer
 www.djuma
 ediensten
 pip
-mijnsociaaldomein
 preprod-mijnsociaaldomein
 rds
 wmoloket
@@ -691,6 +691,7 @@ bzg1-acc
 digitaal
 teleweb
 preprod-meedoen
+cars
 wijkteam
 digitaalloket
 webapps
@@ -4248,7 +4249,6 @@ wozportaal
 zsaccept
 apv-broker
 apv-broker.preprod
-cars
 dms
 iverblijf
 mgapp
@@ -4468,3 +4468,20 @@ tcorsa
 tkoppelcorsa
 tmakelaar
 waarstemjijvoor
+HTA
+belastingen.acc
+goprod
+gotest
+hta
+ik-acc
+ik
+inloggen.belastingen.acc
+inloggen.belastingen
+jboss
+lvolo-prod
+lvolo-test
+mijnsociaaldomein-acc
+mohis
+mohistest
+prefill
+validsign-prod

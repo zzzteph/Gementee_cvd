@@ -20,6 +20,7 @@ AutoDiscover.denhaag.nl
 AutoDiscover.derondevenen.nl
 AutoDiscover.drechterland.nl
 AutoDiscover.enkhuizen.nl
+AutoDiscover.koggenland.nl
 AutoDiscover.uitwijk.denhaag.nl
 Autodiscover.hilversum.nl
 Autorisatietest.bloemendaal.nl
@@ -34,6 +35,7 @@ G0498.drechterland.nl
 GBAV.emmen.nl
 GBAVT.emmen.nl
 GouwBAG-test.haarlemmermeer.nl
+HTA.koggenland.nl
 Infra-summit.acc.amsterdam.nl
 Infra-summit.tst.amsterdam.nl
 Inkomensbalie.eindhoven.nl
@@ -979,6 +981,7 @@ autodiscover.iba.amsterdam.nl
 autodiscover.ijsselstein.nl
 autodiscover.kampen.nl
 autodiscover.katwijk.nl
+autodiscover.koggenland.nl
 autodiscover.leefbaar.haarlemmermeer.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
@@ -1187,6 +1190,7 @@ belastingbalietest.capelleaandenijssel.nl
 belastingen-acc.almere.nl
 belastingen-acc.arnhem.nl
 belastingen-test.gilzerijen.nl
+belastingen.acc.koggenland.nl
 belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
 belastingen.arnhem.nl
@@ -1200,6 +1204,7 @@ belastingen.hellendoorn.nl
 belastingen.hofvantwente.nl
 belastingen.horstaandemaas.nl
 belastingen.kaagenbraassem.nl
+belastingen.koggenland.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
@@ -1243,6 +1248,7 @@ berichten.heemskerk.nl
 berichten.heeze-leende.nl
 berichten.helmond.nl
 berichten.huizen.nl
+berichten.koggenland.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtenverkeer.gemeentewestland.nl
 berichtenverkeer.gouda.nl
@@ -1480,6 +1486,7 @@ carel.brunssum.nl
 carel.heerlen.nl
 carel.kerkrade.nl
 cars.heuvelrug.nl
+cars.koggenland.nl
 casa.acc.topdesk.denhaag.nl
 casa.topdesk.denhaag.nl
 casarray.heerlen.nl
@@ -1601,6 +1608,7 @@ college.alblasserdam.nl
 college.albrandswaard.nl
 college.dordrecht.nl
 college.hardinxveld-giessendam.nl
+college.koggenland.nl
 communicatie.hollandskroon.nl
 communication.denhelder.nl
 comoverheidacc.breda.nl
@@ -2629,6 +2637,7 @@ felix.heerlen.nl
 felix.heeze-leende.nl
 felix.heuvelrug.nl
 felix.kerkrade.nl
+felix.koggenland.nl
 felixpdc.doesburg.nl
 fgt.amstelveen.nl
 fibu.amsterdam.nl
@@ -2951,6 +2960,7 @@ geo.heerenveen.nl
 geo.hilversum.nl
 geo.horstaandemaas.nl
 geo.huizen.nl
+geo.koggenland.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobrowser.enschede.nl
@@ -3081,7 +3091,9 @@ gogo.denhaag.nl
 goirle.nl
 googleauth.gemeentemaastricht.nl
 gooisemeren.nl
+goprod.koggenland.nl
 gorinchem.nl
+gotest.koggenland.nl
 goud.almere.nl
 gouda.nl
 gouwbag-test.haarlemmermeer.nl
@@ -3252,6 +3264,7 @@ houten.nl
 houtwijkbegroot.denhaag.nl
 hpdm.gooisemeren.nl
 hsdjbappdb01.heusden.nl
+hta.koggenland.nl
 htb-prod.gemeente-steenbergen.nl
 htb-test.gemeente-steenbergen.nl
 hth-vpn.denhaag.nl
@@ -3404,6 +3417,7 @@ iburgerzaken.huizen.nl
 iburgerzaken.kampen.nl
 iburgerzaken.kapelle.nl
 iburgerzaken.kerkrade.nl
+iburgerzaken.koggenland.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -3491,6 +3505,7 @@ ibzpink.huizen.nl
 ibzpink.kampen.nl
 ibzpink.kapelle.nl
 ibzpink.kerkrade.nl
+ibzpink.koggenland.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -3549,6 +3564,8 @@ iis2.gemeentemaasgouw.nl
 iis3.gemeentemaasgouw.nl
 ijsaeo1.ijsselstein.nl
 ijsselstein.nl
+ik-acc.koggenland.nl
+ik.koggenland.nl
 ikbouwin-acc.denhaag.nl
 ikbouwin.denhaag.nl
 ikbouwmijnhuisin.almere.nl
@@ -3584,6 +3601,8 @@ inkoopplein.almere.nl
 inle.denhaag.nl
 inloggen-acc.hoorn.nl
 inloggen-preprod.geertruidenberg.nl
+inloggen.belastingen.acc.koggenland.nl
+inloggen.belastingen.koggenland.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
 inloggen.belastingportaal.acc.assen.nl
@@ -3764,6 +3783,7 @@ jaarverslag2021.groningen.nl
 jacot.lev.delft.nl
 janvanzanen-acc.denhaag.nl
 janvanzanen.denhaag.nl
+jboss.koggenland.nl
 jbt.denhaag.nl
 jbt.dev.denhaag.nl
 jbt.test.denhaag.nl
@@ -3934,6 +3954,7 @@ klantcontact.bergendal.nl
 klantcontact.beuningen.nl
 klantcontact.deurne.nl
 klantcontact.kerkrade.nl
+klantcontact.koggenland.nl
 klanten.heemskerk.nl
 klantgeleiding.gorinchem.nl
 klantportaal-zgw.acc.denhaag.nl
@@ -3950,6 +3971,7 @@ klimaatplein.heiloo.nl
 kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
 knp.breda.nl
+koggenland.nl
 koningsdag.groningen.nl
 kop-pub-erp-mks-tst.edam-volendam.nl
 kop-pub-erp-mks.edam-volendam.nl
@@ -4104,6 +4126,8 @@ lv.eindhoven.nl
 lv.test.eindhoven.nl
 lvgeo.acc.capelleaandenijssel.nl
 lvgeo.capelleaandenijssel.nl
+lvolo-prod.koggenland.nl
+lvolo-test.koggenland.nl
 lvs.denhaag.nl
 lvs.hellendoorn.nl
 lvs.horstaandemaas.nl
@@ -4488,8 +4512,10 @@ mijnsbl-test.amsterdam.nl
 mijnsbl.amsterdam.nl
 mijnsdv.emmen.nl
 mijnshv.coevorden.nl
+mijnsociaaldomein-acc.koggenland.nl
 mijnsociaaldomein.gemeentesluis.nl
 mijnsociaaldomein.heerenveen.nl
+mijnsociaaldomein.koggenland.nl
 mijnsociaalplein-acc.hilversum.nl
 mijnsociaalplein.bergen-nh.nl
 mijnsociaalplein.castricum.nl
@@ -4595,6 +4621,8 @@ mobility.drimmelen.nl
 mobility.groningen.nl
 moh-acc.arnhem.nl
 moh.arnhem.nl
+mohis.koggenland.nl
+mohistest.koggenland.nl
 mom-test.groningen.nl
 mom.groningen.nl
 monitoring.hellendoorn.nl
@@ -5363,6 +5391,7 @@ pre-ows-mss-test.groningen.nl
 pre-ows-websrvc-test.groningen.nl
 pre-ows-websrvc.groningen.nl
 pre-simform.houten.nl
+prefill.koggenland.nl
 preprod-belastingen.horstaandemaas.nl
 preprod-belastingportaal.goirle.nl
 preprod-belastingportaal.hilvarenbeek.nl
@@ -5463,6 +5492,7 @@ preproductie.heumen.nl
 preproductie.heuvelrug.nl
 preproductie.huizen.nl
 preproductie.kerkrade.nl
+preproductie.koggenland.nl
 preproductiebroker.gemeentewesterveld.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
@@ -5502,6 +5532,7 @@ probeer.heumen.nl
 probeer.heuvelrug.nl
 probeer.huizen.nl
 probeer.kerkrade.nl
+probeer.koggenland.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 productie.postex.heusden.nl
@@ -5600,6 +5631,7 @@ raad.gulpen-wittem.nl
 raad.hardinxveld-giessendam.nl
 raad.hattem.nl
 raad.hellendoorn.nl
+raad.koggenland.nl
 raadplegen.denhaag.nl
 raadsinformatie.eindhoven.nl
 raadsinformatie.kerkrade.nl
@@ -5856,6 +5888,7 @@ secure.heuvelrug.nl
 secure.hollandskroon.nl
 secure.kaagenbraassem.nl
 secure.kerkrade.nl
+secure.koggenland.nl
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
@@ -5993,6 +6026,7 @@ simcms.heumen.nl
 simcms.heuvelrug.nl
 simcms.huizen.nl
 simcms.kerkrade.nl
+simcms.koggenland.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -6053,6 +6087,7 @@ simsite.hilvarenbeek.nl
 simsite.huizen.nl
 simsite.kaagenbraassem.nl
 simsite.kerkrade.nl
+simsite.koggenland.nl
 singlegateway.haarlem.nl
 sinterklaas.groningen.nl
 sip.assen.nl
@@ -6678,6 +6713,7 @@ transfer.eemsdelta.nl
 transfer.enkhuizen.nl
 transfer.gemeentehulst.nl
 transfer.katwijk.nl
+transfer.koggenland.nl
 transform.deventer.nl
 transform.oa.amsterdam.nl
 traveler.hellevoetsluis.nl
@@ -6774,6 +6810,7 @@ v2.openstad.haarlemmermeer.nl
 vaarkaart.bba.amsterdam.nl
 vaarvergunningen.amsterdam.nl
 vacatures.heerlen.nl
+validsign-prod.koggenland.nl
 validsign.gulpen-wittem.nl
 varen.groningen.nl
 vasd-acc.groningen.nl
@@ -7260,6 +7297,7 @@ woz-portaal-test.gemeente-steenbergen.nl
 woz-portaal.drimmelen.nl
 woz-portaal.gemeente-steenbergen.nl
 woz-portaal.huizen.nl
+woz-portaal.koggenland.nl
 woz.amsterdam.nl
 woz.kampen.nl
 wozloket-acc.borger-odoorn.nl
@@ -7701,6 +7739,7 @@ www.katwijk.nl
 www.kerkrade.nl
 www.kindpakket.groningen.nl
 www.kmdn.gemeentehulst.nl
+www.koggenland.nl
 www.koningsdag.groningen.nl
 www.laakhavensbepaalt.denhaag.nl
 www.lauwersmeer.groningen.nl
