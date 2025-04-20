@@ -1003,6 +1003,8 @@ apv-broker.preprod.heuvelrug.nl
 arcgis.groningen.nl
 archeologie-acc.denhaag.nl
 archeologie.denhaag.nl
+archie.oss.nl
+archie.test.oss.nl
 archief-yell-cms.etten-leur.nl
 archief-yell.etten-leur.nl
 archief.afs.amsterdam.nl
@@ -1253,6 +1255,7 @@ autodiscover.opmeer.nl
 autodiscover.opsb.groningen.nl
 autodiscover.opsterland.nl
 autodiscover.os.groningen.nl
+autodiscover.oss.nl
 autodiscover.ovh.gemeentebeek.nl
 autodiscover.partijvoordedieren.nijmegen.nl
 autodiscover.pmb.amsterdam.nl
@@ -1321,6 +1324,8 @@ baglv.kerkrade.nl
 barendrecht.nl
 barneveld.nl
 bars.emmen.nl
+bas.oss.nl
+bas.test.oss.nl
 basis.werkeninkomen.amsterdam.nl
 basisregistraties.gemeentewestland.nl
 basisstatistiek.amsterdam.nl
@@ -1610,6 +1615,7 @@ bestuursinformatie.beesel.nl
 bestuursrapportage.leiden.nl
 bestuursrapportage.middelburg.nl
 betaal.ede.nl
+betaallink.oss.nl
 betalen.almere.nl
 betalen.amsterdam.nl
 betalen.bergen-nh.nl
@@ -1959,6 +1965,9 @@ cms-archief.leiden.nl
 cms-binnenshuis.bergen.nl
 cms-extranet.hethogeland.nl
 cms-insite.nijmegen.nl
+cms-internoss-test.oss.nl
+cms-internoss.oss.nl
+cms-internoss.test.oss.nl
 cms-intranet.eemsdelta.nl
 cms-joost.beuningen.nl
 cms.alphenaandenrijn.nl
@@ -2077,6 +2086,7 @@ contactregistratie.amsterdam.nl
 contactregistratie.tst.amsterdam.nl
 containers.amsterdam.nl
 containersweesperbuurt.amsterdam.nl
+content.oss.nl
 contentbeheer.acceptatie.coevorden.nl
 contentbeheer.acceptatie.dantumadiel.frl
 contentbeheer.acceptatie.drechterland.nl
@@ -2240,6 +2250,7 @@ data.hilversum.nl
 data.landvancuijk.nl
 data.mookenmiddelaar.nl
 data.nijmegen.nl
+data.oss.nl
 dataacc.breda.nl
 datab.drechterland.nl
 databeheer.gouda.nl
@@ -2470,6 +2481,7 @@ digikoppeling.nunspeet.nl
 digikoppeling.oegstgeest.nl
 digikoppeling.oldebroek.nl
 digikoppeling.oostzaan.nl
+digikoppeling.oss.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -2482,6 +2494,7 @@ digikoppeling.test.leiden.nl
 digikoppeling.test.leiderdorp.nl
 digikoppeling.test.maasdriel.nl
 digikoppeling.test.oegstgeest.nl
+digikoppeling.test.oss.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingjnet-test.gemeentewesterveld.nl
 digikoppelingjnet.gemeentewesterveld.nl
@@ -2578,6 +2591,7 @@ dkd.nissewaard.nl
 dkd.noardeast-fryslan.nl
 dkd.noordoostpolder.nl
 dkd.ommen.nl
+dkd.oss.nl
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdservice-test.meppel.nl
@@ -2805,6 +2819,7 @@ e.openstad.emmen.nl
 e.openstad.gemeentewestland.nl
 e.openstad.haarlemmermeer.nl
 e.openstad.nijmegen.nl
+e.oss.nl
 e2s-connector-prd.heerlen.nl
 e2s-connector-tst.heerlen.nl
 e2s-test.molenlanden.nl
@@ -2918,6 +2933,7 @@ edienstenburgerzaken-test.nissewaard.nl
 edienstenburgerzaken-test.oegstgeest.nl
 edienstenburgerzaken-test.oldenzaal.nl
 edienstenburgerzaken-test.oostzaan.nl
+edienstenburgerzaken-test.oss.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2998,6 +3014,7 @@ edienstenburgerzaken.nissewaard.nl
 edienstenburgerzaken.oegstgeest.nl
 edienstenburgerzaken.oldenzaal.nl
 edienstenburgerzaken.oostzaan.nl
+edienstenburgerzaken.oss.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -3123,6 +3140,7 @@ en.gemert-bakel.nl
 en.heerlen.nl
 en.kerkrade.nl
 en.nuenen.nl
+endpoint.oss.nl
 enepmx01.amsterdam.nl
 enepmx02.amsterdam.nl
 energieloket.hilversum.nl
@@ -3161,6 +3179,7 @@ enterpriseenrollment.nederweert.nl
 enterpriseenrollment.nieuwkoop.nl
 enterpriseenrollment.noardeast-fryslan.nl
 enterpriseenrollment.opsterland.nl
+enterpriseenrollment.oss.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone.almere.nl
@@ -3387,6 +3406,7 @@ financien.groningen.nl
 financien.hengelo.nl
 financien.middelburg.nl
 financien.ooststellingwerf.nl
+financien.oss.nl
 firewall.lopik.nl
 firewall.servers1.bergen-nh.nl
 fise02.oudzuid.amsterdam.nl
@@ -3526,6 +3546,8 @@ formulieren.nunspeet.nl
 formulieren.olst-wijhe.nl
 formulieren.oostzaan.nl
 formulieren.opsterland.nl
+formulieren.oss.nl
+formulieren.test.oss.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -3763,6 +3785,8 @@ geoportaal.enschede.nl
 geoportaal.gorinchem.nl
 geoportaal.haarlemmermeer.nl
 geoportaal.katwijk.nl
+geoportaal.oss.nl
+geoportaal.test.oss.nl
 geoportaaltest.enschede.nl
 geoportaaltest.haarlemmermeer.nl
 geoprdb.stadstoezicht.amsterdam.nl
@@ -3786,6 +3810,8 @@ geovisia.gemeente-oldambt.nl
 geovisia.harlingen.nl
 geovisiaonline.gemert-bakel.nl
 geoweb.haarlemmermeer.nl
+geoweb.oss.nl
+geoweb.test.oss.nl
 geowebint.haarlemmermeer.nl
 geowebinttest.haarlemmermeer.nl
 geowebtest.haarlemmermeer.nl
@@ -4096,6 +4122,7 @@ hout.almere.nl
 houten.nl
 houtwijkbegroot.denhaag.nl
 hpdm.gooisemeren.nl
+hpdm.oss.nl
 hsdjbappdb01.heusden.nl
 hta-stuf.medemblik.nl
 hta.koggenland.nl
@@ -4598,6 +4625,10 @@ internetafspraken.heerde.nl
 internetafspraken.heerlen.nl
 internetafspraken.nunspeet.nl
 internetafspraken.oldebroek.nl
+internetafspraken.oss.nl
+internoss-test.oss.nl
+internoss.oss.nl
+internoss.test.oss.nl
 internwifi.hellevoetsluis.nl
 intra.deventer.nl
 intra.dordrecht.nl
@@ -4791,6 +4822,7 @@ jaarverslag2018.groningen.nl
 jaarverslag2019.groningen.nl
 jaarverslag2020.groningen.nl
 jaarverslag2021.groningen.nl
+jaarverslag2023.oss.nl
 jacot.lev.delft.nl
 janvanzanen-acc.denhaag.nl
 janvanzanen.denhaag.nl
@@ -4901,6 +4933,7 @@ kadbrkwkpd.deventer.nl
 kaderbrief.leiden.nl
 kadernota.middelburg.nl
 kadernota2022.financielestukken.diemen.nl
+kadernota2025.oss.nl
 kampen.nl
 kansshop.eemsdelta.nl
 kantoor.opsterland.nl
@@ -5257,6 +5290,7 @@ loket.middendrenthe.nl
 loket.mookenmiddelaar.nl
 loket.noardeast-fryslan.nl
 loket.oldebroek.nl
+loket.oss.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
@@ -5418,6 +5452,7 @@ mailing.kaagenbraassem.nl
 mailing.kapelle.nl
 mailing.nieuwegein.nl
 mailing.noord-beveland.nl
+mailing.oss.nl
 mailrelay.helmond.nl
 mailsig.lansingerland.nl
 maisflexis.heusden.nl
@@ -5719,6 +5754,8 @@ mijn.ommen.nl
 mijn.oostgelre.nl
 mijn.ooststellingwerf.nl
 mijn.opsterland.nl
+mijn.oss.nl
+mijn.test.oss.nl
 mijnaanvraagzi.beuningen.nl
 mijnacc.montfoort.nl
 mijnacpt.haarlem.nl
@@ -5753,6 +5790,7 @@ mijninkomen.dronten.nl
 mijninkomen.gemeentehw.nl
 mijninkomen.goeree-overflakkee.nl
 mijninkomen.gouda.nl
+mijninkomen.oss.nl
 mijnintranet.haaksbergen.nl
 mijnintranet.heerlen.nl
 mijnjgz.ggd.groningen.nl
@@ -5949,6 +5987,7 @@ mta-sts.raad.duiven.nl
 mta.nieuwsbrief.amsterdam.nl
 mv1.amsterdam.nl
 mx.elburg.nl
+mx.oss.nl
 mx01.haarlem.nl
 mx1.ede.nl
 mx1.groningen.nl
@@ -6178,6 +6217,7 @@ obsurv.heerde.nl
 obsurv.loonopzand.nl
 obsurv.middendrenthe.nl
 obsurv.montferland.info
+obsurv.oss.nl
 oco.eindhoven.nl
 octobox.apeldoorn.nl
 octopus-acc-doc.denhaag.nl
@@ -6518,6 +6558,7 @@ osbacc.montfoort.nl
 osbacc.nederweert.nl
 osbtest.capelleaandenijssel.nl
 osdorp.amsterdam.nl
+oss.nl
 ot.denhaag.nl
 ota.mijn.almere.nl
 otp.gemeenteberkelland.nl
@@ -6857,7 +6898,9 @@ portal.kampen.nl
 portal.noordoostpolder.nl
 portal.olst-wijhe.nl
 portal.ooststellingwerf.nl
+portal.oss.nl
 portal.pmb.amsterdam.nl
+portal.test.oss.nl
 portal1.denhaag.nl
 portaltest.haarlemmermeer.nl
 portaltest.helmond.nl
@@ -6929,6 +6972,7 @@ preprod-mijninkomen.dronten.nl
 preprod-mijninkomen.gemeentehw.nl
 preprod-mijninkomen.goeree-overflakkee.nl
 preprod-mijninkomen.gouda.nl
+preprod-mijninkomen.oss.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnplan.gemeenteberkelland.nl
 preprod-mijnportaal.defryskemarren.nl
@@ -7426,6 +7470,7 @@ samenwerkingbelastingen-test.middelburg.nl
 samenwerkingbelastingen.middelburg.nl
 samenwij.groningen.nl
 samenwijzer.halderberge.nl
+samenwijzer.oss.nl
 sammy-acc.derondevenen.nl
 sammy.derondevenen.nl
 sammycms-acc.derondevenen.nl
@@ -8470,6 +8515,7 @@ test.hoorn.nl
 test.io.amsterdam.nl
 test.kampen.nl
 test.lab.tod.leiden.nl
+test.loket.oss.nl
 test.maasdriel.nl
 test.middendrenthe.nl
 test.mijnzorg.beekdaelen.nl
@@ -8477,6 +8523,7 @@ test.moerdijk.nl
 test.nissewaard.nl
 test.nuenen.nl
 test.open-formulieren.noordoostpolder.nl
+test.oss.nl
 test.services.dronten.nl
 test.subsites.leiden.nl
 test.website.westland.gemeentewestland.nl
@@ -8731,6 +8778,8 @@ udp-rspackage-acc.denhaag.nl
 udp-rspackage.denhaag.nl
 udp-rstudio-acc.denhaag.nl
 udp-rstudio.denhaag.nl
+uem.oss.nl
+uem.test.oss.nl
 uipath-orchestrator.heerlen.nl
 uit.groningen.nl
 uitelkaarmetkinderen.eindhoven.nl
@@ -8914,9 +8963,11 @@ vpn.maassluis.nl
 vpn.meerssen.nl
 vpn.nieuwegein.nl
 vpn.oostgelre.nl
+vpn.oss.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
+vpntunnel.oss.nl
 vraagbaak.doesburg.nl
 vraaghulp.acc.nijmegen.nl
 vraagwijzer.gemeente-steenbergen.nl
@@ -10035,6 +10086,7 @@ www.opsterland.nl
 www.oracbloemenbuurt.denhaag.nl
 www.organisatieontwikkeling.assen.nl
 www.osdorp.amsterdam.nl
+www.oss.nl
 www.oudwest.amsterdam.nl
 www.oudzuid.amsterdam.nl
 www.ows-test.groningen.nl
