@@ -31,13 +31,13 @@ broker
 eloket
 adfs
 meldingen
+betalen
 gemeenteraad
 geo
-betalen
+pv
 omgevingsvisie
 parkeren
 open
-pv
 raad
 data
 ruimtelijkeplannen
@@ -73,13 +73,13 @@ flowmailer-tracking
 piwik
 belastingen
 preprod-mijninkomen
+snelbalie
 acc-broker
 woningbouwkaart
 connect
 api.meldingen-acc
 parkeren-test
 kaart
-snelbalie
 belastingbalie
 financien
 beeldbank
@@ -95,6 +95,7 @@ verkiezingen
 osbacc
 duurzaam
 enterpriseregistration
+snelbaliepp
 siam
 digikoppeling.test
 gemeente
@@ -103,6 +104,7 @@ nieuwsbrief
 acc-podiumd-logs
 extranet
 belastingloket
+pki
 dtestloket
 mdm
 test-cmsintranet
@@ -113,7 +115,6 @@ kennisbank
 simform
 gisib
 subsidies
-snelbaliepp
 qr
 apps
 email
@@ -134,7 +135,6 @@ sts
 byod
 samen
 simcms-open
-pki
 smtp
 dtestmidoffice
 jaarstukken
@@ -209,6 +209,7 @@ desktop
 mijngeldzaken
 opendata
 afval
+bis
 openformulieren
 openklant
 sip
@@ -218,6 +219,8 @@ guest
 iarchief
 publicroam
 formulieren-test
+mijnsociaalplein
+preprod-mijnsociaalplein
 www.doemee
 www.gemeenteraad
 acc.piwik
@@ -279,7 +282,6 @@ woo
 www.raad
 acc-keycloak-admin
 bastion365
-bis
 lyncdiscover
 media
 meet
@@ -300,8 +302,9 @@ simcms-preproductie
 djuma
 jccapi
 acceptatieloket
-mijnsociaalplein
-preprod-mijnsociaalplein
+klimaatplein
+mijnsociaalportaal-acc
+mijnsociaalportaal
 wij
 data-test
 intranet-acc
@@ -455,10 +458,7 @@ kaartviewer
 nhr
 gisibonline
 sentry
-klimaatplein
 live
-mijnsociaalportaal-acc
-mijnsociaalportaal
 aovpn
 data.gemnet
 intranetcms
@@ -512,6 +512,7 @@ preprod-formulieren
 qr-acc
 servicebus
 download
+publicatie
 squit2go-backoffice
 connect.test
 contentbeheer.test
@@ -2239,7 +2240,6 @@ esp
 makelaar-01
 nlgemctc
 publicatie-test
-publicatie
 webcon
 www.squit2go-backoffice
 acceptatiemidoffice
@@ -4175,3 +4175,4 @@ vf.heitje
 www.heitje
 WOZ-loket
 vris-brk
+werken
