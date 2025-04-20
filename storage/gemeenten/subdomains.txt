@@ -1186,6 +1186,7 @@ belastingbalie.gemeentewestland.nl
 belastingbalie.gooisemeren.nl
 belastingbalie.hilversum.nl
 belastingbalie.hoorn.nl
+belastingbalie.krimpenaandenijssel.nl
 belastingbalietest.capelleaandenijssel.nl
 belastingen-acc.almere.nl
 belastingen-acc.arnhem.nl
@@ -3972,6 +3973,7 @@ kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
 knp.breda.nl
 koggenland.nl
+komverder.krimpenaandenijssel.nl
 koningsdag.groningen.nl
 kop-pub-erp-mks-tst.edam-volendam.nl
 kop-pub-erp-mks.edam-volendam.nl
@@ -3991,6 +3993,7 @@ koppelvlak.bergen-nh.nl
 kredietbankwestbrabant.breda.nl
 krefia-acceptatie.amsterdam.nl
 krefia.amsterdam.nl
+krimpenaandenijssel.nl
 krm.brievenbus.amsterdam.nl
 krmacc.brievenbus.amsterdam.nl
 laakhavensbepaalt.denhaag.nl
@@ -4495,6 +4498,7 @@ mijnintranet.heerlen.nl
 mijnjgz.ggd.groningen.nl
 mijnkaart.deurne.nl
 mijnkaarten.ovh.gemeentebeek.nl
+mijnkrimpenwijzer.krimpenaandenijssel.nl
 mijnloket.deventer.nl
 mijnloket.edam-volendam.nl
 mijnmobiel.gemeentebeek.nl
@@ -5555,6 +5559,7 @@ prtg.gemeentemaashorst.nl
 psmartdoc.heerlen.nl
 ptr.cranendonck.nl
 pub.alkmaar.nl
+pub.krimpenaandenijssel.nl
 pubgov.heerenveen.nl
 publicatie-test.castricum.nl
 publicatie.castricum.nl
@@ -5594,6 +5599,7 @@ pv.heiloo.nl
 pv.helmond.nl
 pv.kaagenbraassem.nl
 pv.kampen.nl
+pv.krimpenaandenijssel.nl
 pveopenbareruimte.deventer.nl
 pvh.hoorn.nl
 pvsor.gemeentewestland.nl
@@ -6519,6 +6525,7 @@ test-mijn.assen.nl
 test-mijn.enschede.nl
 test-mijn.gemert-bakel.nl
 test-mijn.hoorn.nl
+test-mijnkrimpenwijzer.krimpenaandenijssel.nl
 test-mijnoverzicht.alphenaandenrijn.nl
 test-mijnzi.beuningen.nl
 test-notificaties.assen.nl
@@ -6977,6 +6984,7 @@ waarmerk.hillegom.nl
 waarmerk.huizen.nl
 waarmerk.kampen.nl
 waarmerk.kerkrade.nl
+waarmerk.krimpenaandenijssel.nl
 waarstemjijvoor.kerkrade.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
@@ -7740,7 +7748,9 @@ www.kerkrade.nl
 www.kindpakket.groningen.nl
 www.kmdn.gemeentehulst.nl
 www.koggenland.nl
+www.komverder.krimpenaandenijssel.nl
 www.koningsdag.groningen.nl
+www.krimpenaandenijssel.nl
 www.laakhavensbepaalt.denhaag.nl
 www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl

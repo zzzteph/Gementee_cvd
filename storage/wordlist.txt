@@ -33,9 +33,9 @@ adfs
 geo
 gemeenteraad
 broker
+pv
 open
 api.meldingen
-pv
 parkeren
 betalen
 vpn
@@ -70,13 +70,13 @@ digikoppeling-test
 formulier
 cmsoo
 kaart
+belastingbalie
 woningbouwkaart
 cloudadapter-test
 mijnzorg
 osbacc
 mijninkomen
 piwik
-belastingbalie
 mks
 acc-broker
 extranet
@@ -405,6 +405,7 @@ gen1
 ldap
 notubiz
 pdc
+pub
 subsidiebeheer
 testafspraken
 api-meldingen.acc
@@ -741,7 +742,6 @@ nsx02
 pix-ia-sth
 pix-ia-stk
 portal.data
-pub
 rdw-test.authenticatie
 rdw.authenticatie
 redirector
@@ -4485,3 +4485,7 @@ mohis
 mohistest
 prefill
 validsign-prod
+komverder
+mijnkrimpenwijzer
+test-mijnkrimpenwijzer
+www.komverder
