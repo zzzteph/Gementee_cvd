@@ -4,21 +4,21 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-edienstenburgerzaken-test
 intranet
+edienstenburgerzaken-test
 webmail
 afspraken
 simsite
 mijn
 mail
 digikoppeling
-acceptatie
 secure
+acceptatie
 preproductie
 simcms
 probeer
-loket
 felix
+loket
 formulieren
 eloket
 dkd
@@ -95,6 +95,7 @@ doemee
 www.webmail
 dtestloket
 kaarten
+filecap
 _autodiscover._tcp
 vergunningintaker
 denkmee
@@ -106,7 +107,6 @@ snelbalie
 auth
 klantcontact
 samen
-filecap
 jaarstukken
 mijnzorg
 preprod-mijninkomen
@@ -149,6 +149,7 @@ transfer
 testloket
 belastingportaal
 gisib
+web
 izaaksuite
 subsidies-backend
 dali
@@ -176,7 +177,6 @@ inproces.acceptatie
 squit2020
 kennisbank
 simform
-web
 wachtwoord
 evenementen
 melddesk
@@ -5369,3 +5369,4 @@ grmks03
 intercontent
 mdesk
 melddesk-test
+mijndesktop

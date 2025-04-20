@@ -151,6 +151,7 @@ http://autodiscover.putten.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.pvda.nijmegen.nl
 http://autodiscover.renkum.nl
+http://autodiscover.renswoude.nl
 http://autodiscover.sp.nijmegen.nl
 http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
@@ -2303,6 +2304,7 @@ https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.ooststellingwerf.nl
 https://felix.opmeer.nl
+https://felix.renswoude.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
 https://fgt.amstelveen.nl
@@ -5377,6 +5379,7 @@ https://web.dordrecht.nl
 https://web.gorinchem.nl
 https://web.hattem.nl
 https://web.moerdijk.nl
+https://web.renswoude.nl
 https://web01.deventer.nl
 https://web02.deventer.nl
 https://webcams.gouda.nl
