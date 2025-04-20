@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mail
-afspraken
 webmail
+afspraken
 simsite
 mijn
 digikoppeling
@@ -21,24 +21,24 @@ loket
 formulieren
 felix
 test
+eloket
 waarmerk
 meldingen
 dkd
-eloket
 werkplek
 portal
 acc
 afspraak
 adfs
+broker
 api.meldingen
 geo
-broker
 gemeenteraad
-betalen
 open
+betalen
 pv
-parkeren
 vpn
+parkeren
 iparticipatie
 raad
 omgevingsvisie
@@ -63,6 +63,7 @@ api.meldingen-acc
 remote
 kaart
 berichten
+zaken
 flowmailer-tracking
 hybrid
 belastingbalie
@@ -70,7 +71,6 @@ formulier
 cmsoo
 cloudadapter-test
 loket.acceptatie
-zaken
 digikoppeling-test
 beeldbank
 woningbouwkaart
@@ -98,6 +98,7 @@ financien
 gemeente
 doemee
 kaarten
+filecap
 test-cmsintranet
 _autodiscover._tcp
 vergunningintaker
@@ -110,7 +111,6 @@ auth
 acc-podiumd-logs
 gasten
 www.webmail
-filecap
 dtestmidoffice
 jaarstukken
 cmsintranet
@@ -136,10 +136,12 @@ podiumd-logs
 sip
 klantcontact
 belastingloket
+simcms-open
 mdm
 smtp
 inloggen
 connect.acceptatie
+contentbeheer
 transfer
 belastingportaal
 midoffice
@@ -169,7 +171,6 @@ samen
 mijnsociaalplein
 preprod-mijnsociaalplein
 micollab
-simcms-open
 uc
 mobile
 AutoDiscover
@@ -177,7 +178,6 @@ mobiel
 ro
 squit2go
 contentbeheer.acceptatie
-contentbeheer
 zaken.acceptatie
 begroting
 cryptshare
@@ -200,6 +200,7 @@ ns
 onderzoek
 vdi
 www.test
+jcc
 werkenvoor
 api.betalen
 sharefile
@@ -228,6 +229,7 @@ inproces
 outlook
 internetafspraken
 testloket
+squit2020
 www.intranet
 handhaving
 fs
@@ -251,7 +253,6 @@ sociaaldomein
 website
 cms
 atlas
-jcc
 api
 ftp
 parkeervergunning
@@ -290,7 +291,6 @@ img.openstad
 openformulieren-test
 bestanden
 squit2020.acceptatie
-squit2020
 woz-portaal
 testbelastingloket
 mx1
@@ -4712,3 +4712,13 @@ koptst
 livestream
 sibp01
 sibt01
+broker.preprod
+eloket.preprod
+fs001
+ldlmks01
+leudal-checker-preprod
+leudal-checker
+pcmonitor
+seg
+voice
+wionklic

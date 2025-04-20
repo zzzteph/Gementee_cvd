@@ -155,6 +155,7 @@ http://inloggen.belastingen.koggenland.nl
 http://insite.houten.nl
 http://intranet-acc.bergendal.nl
 http://intranet-acc.landvancuijk.nl
+http://intranet.leudal.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://koggenland.nl
@@ -547,6 +548,7 @@ https://adfs.gooisemeren.nl
 https://adfs.gorinchem.nl
 https://adfs.kerkrade.nl
 https://adfs.landgraaf.nl
+https://adfs.leudal.nl
 https://adfslogin.defryskemarren.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.doemee.gemeentewestland.nl
@@ -858,6 +860,7 @@ https://autodiscover.ggd.groningen.nl
 https://autodiscover.groningen.nl
 https://autodiscover.haarlem.nl
 https://autodiscover.hap.haarlemmermeer.nl
+https://autodiscover.leudal.nl
 https://autodiscover.ombudsman.groningen.nl
 https://autodiscover.os.groningen.nl
 https://autodiscover.wij.groningen.nl
@@ -1138,6 +1141,8 @@ https://broker.groningen.nl
 https://broker.kampen.nl
 https://broker.laarbeek.nl
 https://broker.leeuwarden.nl
+https://broker.leudal.nl
+https://broker.preprod.leudal.nl
 https://bronckhorst.nl
 https://bros-academie.deurne.nl
 https://brummen.nl
@@ -1707,6 +1712,8 @@ https://eloket.horstaandemaas.nl
 https://eloket.ijsselstein.nl
 https://eloket.krimpenerwaard.nl
 https://eloket.lelystad.nl
+https://eloket.leudal.nl
+https://eloket.preprod.leudal.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
 https://elokettest.heemstede.nl
@@ -1846,6 +1853,7 @@ https://filecap.eemsdelta.nl
 https://filecap.epe.nl
 https://filecap.gemert-bakel.nl
 https://filecap.haarlem.nl
+https://filecap.leudal.nl
 https://filecapacc.breda.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -1953,6 +1961,7 @@ https://frontoffice-parkeervergunningen.beverwijk.nl
 https://fs.beverwijk.nl
 https://fs.haarlem.nl
 https://fs.halderberge.nl
+https://fs001.leudal.nl
 https://ftp.afs.acc.amsterdam.nl
 https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
@@ -2311,6 +2320,7 @@ https://iburgerzaken.laarbeek.nl
 https://iburgerzaken.landsmeer.nl
 https://iburgerzaken.laren.nl
 https://iburgerzaken.lelystad.nl
+https://iburgerzaken.leudal.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2479,6 +2489,7 @@ https://jbt.dev.denhaag.nl
 https://jbt.test.denhaag.nl
 https://jcc.bergenopzoom.nl
 https://jcc.heerlen.nl
+https://jcc.leudal.nl
 https://jccapi.bergeijk.nl
 https://jccapi.bladel.nl
 https://jccapi.eersel.nl
@@ -2630,6 +2641,8 @@ https://lelystad.nl
 https://lerenbij.groningen.nl
 https://lerenloont.almere.nl
 https://les-acc.amsterdam.nl
+https://leudal-checker-preprod.leudal.nl
+https://leudal-checker.leudal.nl
 https://leverancier.gemeenteberkelland.nl
 https://life.landvancuijk.nl
 https://lifecoolsquare.groningen.nl
@@ -3176,6 +3189,7 @@ https://open.hilversum.nl
 https://open.hofvantwente.nl
 https://open.katwijk.nl
 https://open.krimpenerwaard.nl
+https://open.leudal.nl
 https://openbareruimte.deventer.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
@@ -3336,6 +3350,7 @@ https://password.almere.nl
 https://passwordreset.almere.nl
 https://patternlab.barneveld.nl
 https://pb-yutpa.rnd.amsterdam.nl
+https://pcmonitor.leudal.nl
 https://pdc.alkmaar.nl
 https://pdc.buren.nl
 https://pencportaal.gemeentehw.nl
@@ -3488,6 +3503,7 @@ https://preproductie.goeree-overflakkee.nl
 https://preproductie.heeze-leende.nl
 https://preproductie.heuvelrug.nl
 https://preproductie.landgraaf.nl
+https://preproductie.leudal.nl
 https://preproductiebroker.gemeentewesterveld.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://privacybewustzijn.bergendal.nl
@@ -3680,6 +3696,7 @@ https://secure-test.almere.nl
 https://secure.acc.denhaag.nl
 https://secure.almere.nl
 https://secure.denhaag.nl
+https://seg.leudal.nl
 https://selfservice.ggd.amsterdam.nl
 https://sensorenregister.amsterdam.nl
 https://sera.hardenberg.nl
@@ -3747,6 +3764,7 @@ https://simsite.heumen.nl
 https://simsite.heuvelrug.nl
 https://simsite.kerkrade.nl
 https://simsite.landgraaf.nl
+https://simsite.leudal.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
@@ -4161,6 +4179,7 @@ https://view.nieuwsbrief.amsterdam.nl
 https://vinden.heuvelrug.nl
 https://visvijver.doetinchem.nl
 https://vogelweide.diemen.nl
+https://voice.leudal.nl
 https://volg.amsterdam.nl
 https://voorjaarsrapportage.haarlemmermeer.nl
 https://voorschool.almere.nl
@@ -4243,6 +4262,7 @@ https://webmail.halderberge.nl
 https://webmail.heemstede.nl
 https://webmail.hellevoetsluis.nl
 https://webmail.krimpenerwaard.nl
+https://webmail.leudal.nl
 https://webmeeting.brunssum.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
@@ -4309,6 +4329,7 @@ https://werkplek.halderberge.nl
 https://werkplek.hilversum.nl
 https://werkplek.landvancuijk.nl
 https://werkplek.lelystad.nl
+https://werkplek.leudal.nl
 https://werkplek01.derondevenen.nl
 https://werkplek02.derondevenen.nl
 https://werving.amsterdam.nl
