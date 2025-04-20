@@ -1730,6 +1730,7 @@ https://edienstenburgerzaken-test.meierijstad.nl
 https://edienstenburgerzaken-test.meppel.nl
 https://edienstenburgerzaken-test.nederweert.nl
 https://edienstenburgerzaken-test.nieuwegein.nl
+https://edienstenburgerzaken-test.nijkerk.eu
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1802,6 +1803,7 @@ https://edienstenburgerzaken.lopik.nl
 https://edienstenburgerzaken.meierijstad.nl
 https://edienstenburgerzaken.meppel.nl
 https://edienstenburgerzaken.nederweert.nl
+https://edienstenburgerzaken.nijkerk.eu
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1872,6 +1874,7 @@ https://eloket.leusden.nl
 https://eloket.meerssen.nl
 https://eloket.middelburg.nl
 https://eloket.midden-groningen.nl
+https://eloket.nijkerk.eu
 https://eloket.preprod.leudal.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
@@ -2678,6 +2681,7 @@ https://intranet.meppel.nl
 https://intranet.middelburg.nl
 https://intranet.midden-groningen.nl
 https://intranet.middendelfland.nl
+https://intranet.nijkerk.eu
 https://intranet2.gulpen-wittem.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.landvancuijk.nl
@@ -2904,8 +2908,10 @@ https://live.landvancuijk.nl
 https://liveblog.ede.nl
 https://lochem.nl
 https://login-pre.mookenmiddelaar.nl
+https://login-pre.nijkerk.eu
 https://login.alphenaandenrijn.nl
 https://login.mookenmiddelaar.nl
+https://login.nijkerk.eu
 https://login.subsidie.leiden.nl
 https://lois-acc.losser.nl
 https://lois.losser.nl
@@ -4053,6 +4059,7 @@ https://secure-test.almere.nl
 https://secure.acc.denhaag.nl
 https://secure.almere.nl
 https://secure.denhaag.nl
+https://securenetwork.nijkerk.eu
 https://seg.leudal.nl
 https://selfservice.ggd.amsterdam.nl
 https://sensorenregister.amsterdam.nl
@@ -4132,6 +4139,7 @@ https://simsite.leudal.nl
 https://simsite.lopik.nl
 https://simsite.middendelfland.nl
 https://simsite.montferland.info
+https://simsite.nijkerk.eu
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
@@ -4429,6 +4437,7 @@ https://testeloket.horstaandemaas.nl
 https://testeloket.lelystad.nl
 https://testeloket.meerssen.nl
 https://testeloket.midden-groningen.nl
+https://testeloket.nijkerk.eu
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testinloggen.haarlemmermeer.nl
@@ -5138,6 +5147,7 @@ https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
+https://www.nijkerk.eu
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.old.landvancuijk.nl
