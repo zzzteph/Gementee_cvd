@@ -4,8 +4,8 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-intranet
 edienstenburgerzaken-test
+intranet
 webmail
 simsite
 afspraken
@@ -14,8 +14,8 @@ mail
 digikoppeling
 preproductie
 secure
-acceptatie
 simcms
+acceptatie
 probeer
 loket
 felix
@@ -34,13 +34,13 @@ adfs
 broker
 api.meldingen
 geo
-vpn
 pv
+vpn
 ruimtelijkeplannen
 iparticipatie
+raad
 betalen
 test-ipa
-raad
 gemeenteraad
 enterpriseenrollment
 werkenbij
@@ -54,16 +54,16 @@ belastingen
 dloket
 dmidoffice
 api.meldingen-acc
+openpdc
 osb
 omgevingsvisie
 data
-openpdc
 belastingbalie
-remote
-login
 loket.acceptatie
-zaken
+remote
 openpub
+login
+zaken
 digikoppeling-test
 cmsoo
 hybrid
@@ -87,6 +87,7 @@ extranet
 govroam
 connect
 portaal
+verkiezingen
 piwik
 gemeente
 samen
@@ -100,7 +101,6 @@ filecap
 _autodiscover._tcp
 vergunningintaker
 denkmee
-verkiezingen
 mijninkomen
 parkeren-test
 subsidies
@@ -178,6 +178,7 @@ inproces.acceptatie
 squit2020
 kennisbank
 simform
+college
 wachtwoord
 evenementen
 melddesk
@@ -201,7 +202,7 @@ afspraakmaken
 www.portal
 midoffice
 mijnzorg-acc
-college
+preprod-mijn
 veiligdelen
 servicedesk
 subsidie
@@ -235,7 +236,6 @@ participatie
 www.acceptatie
 documenten
 vergunningintaker-preprod
-preprod-mijn
 www.werkenbij
 zoeken
 geodata
@@ -365,6 +365,12 @@ cloudadapter-prod
 www.afspraken
 www.samen
 simform-preproductie
+edienstenaanvragensd-acceptatie
+edienstenaanvragensd
+edienstenmijninkomen-acceptatie
+edienstenmijninkomen
+edienstverlening-preprod
+edienstverlening
 autorisatie
 testafspraken
 veiligmailen
@@ -532,12 +538,6 @@ inloggen.belastingportaal
 inloggen.belastingportaal.acc
 edienstenburgerzaken.test
 www.praatmee
-edienstenaanvragensd-acceptatie
-edienstenaanvragensd
-edienstenmijninkomen-acceptatie
-edienstenmijninkomen
-edienstverlening-preprod
-edienstverlening
 aanvragen
 datalab
 gen1
@@ -646,6 +646,7 @@ test-objecten
 vastgoed
 awmag
 bestemmingsplannen
+pwa
 accdrop
 solliciterenbij
 gisibonline
@@ -2242,7 +2243,6 @@ www.preprod-woz-portaal-eemnes
 www.woz-portaal-eemnes
 www.woz-portaal
 youpp
-pwa
 adc
 cis
 cscp
@@ -5399,3 +5399,4 @@ www.siam
 www.testeloket
 www.vibe
 www.zmm
+openagenda
