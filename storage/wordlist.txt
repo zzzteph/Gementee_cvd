@@ -13,8 +13,8 @@ webmail
 mijn
 digikoppeling
 preproductie
-simcms
 secure
+simcms
 loket
 acceptatie
 probeer
@@ -23,10 +23,10 @@ test
 formulieren
 acc
 afspraak
+waarmerk
 dkd
 portal
 werkplek
-waarmerk
 meldingen
 broker
 eloket
@@ -45,9 +45,11 @@ ruimtelijkeplannen
 vpn
 zaaksysteem-accept
 enterpriseenrollment
-openpdc
 dacceptatieloket
 dacceptatiemidoffice
+openpdc
+dloket
+dmidoffice
 loket.acceptatie
 iparticipatie
 osb
@@ -56,8 +58,6 @@ hybrid
 digikoppeling-test
 login
 testeloket
-dloket
-dmidoffice
 remote
 test-ipa
 zaken
@@ -87,6 +87,7 @@ financien
 govroam
 test-intranet
 doemee
+dtestloket
 kaarten
 filecap
 _autodiscover._tcp
@@ -99,6 +100,7 @@ enterpriseregistration
 snelbaliepp
 siam
 digikoppeling.test
+email
 gemeente
 mks
 nieuwsbrief
@@ -106,8 +108,8 @@ acc-podiumd-logs
 extranet
 belastingloket
 pki
-dtestloket
 mdm
+dtestmidoffice
 test-cmsintranet
 mijnzorg-acc
 preprodbroker
@@ -117,7 +119,6 @@ gisib
 subsidies
 qr
 apps
-email
 openzaak
 parkeren-acc
 auth
@@ -135,8 +136,9 @@ sts
 byod
 samen
 simcms-open
+uc
+www.webmail
 smtp
-dtestmidoffice
 jaarstukken
 connect.acceptatie
 cmsintranet
@@ -155,6 +157,7 @@ preprod
 ns
 onderzoek
 sharefile
+telewerken
 www.acc
 gis
 acc-contact
@@ -164,13 +167,12 @@ acc-openzaak
 bag
 objecten
 objecttypen
+sip
 test-digikoppeling
 obsurv
 meedoen
 gasten
 uca
-uc
-www.webmail
 mobile
 xential
 AutoDiscover
@@ -205,15 +207,14 @@ werkenvoor
 api.betalen
 legacy
 parkeervergunningen
-telewerken
 desktop
 mijngeldzaken
 opendata
 afval
 bis
+lyncdiscover
 openformulieren
 openklant
-sip
 klantcontact
 guest
 iarchief
@@ -284,7 +285,6 @@ woo
 www.raad
 acc-keycloak-admin
 bastion365
-lyncdiscover
 media
 meet
 owa
@@ -428,6 +428,7 @@ www.onderzoek
 www.ruimtelijkeplannen
 digitaleplannen
 gpa
+mo
 ndes
 parkeerapp
 digid
@@ -615,6 +616,7 @@ gemeentebestuur
 lynccon
 lyncweb
 sera
+bzg1-acc
 webapps
 email.mail.participatie
 aalten-checker-preprod
@@ -1875,7 +1877,6 @@ matenpark
 medeleven
 mheenpark
 mijngeldzakenacc
-mo
 ndesapeldoorn
 nedbrw
 nedbrwacc
@@ -4111,7 +4112,6 @@ acc-tripleforms
 api.heitje
 api.melding.acc
 api.melding
-bzg1-acc
 bzg1
 camera-mkr
 casarray
@@ -4183,3 +4183,18 @@ inloggenapv-preprod
 inloggenapv
 monitoring
 preprod-meedoen
+esb-nhr
+internwifi
+ld-01
+mk01
+traveler
+trefnet
+ucaccess1
+ucav1
+ucweb1-ext
+ucwebcon1
+www.internwifi
+www.ld-01
+www.sip
+www.telewerken
+www.trefnet
