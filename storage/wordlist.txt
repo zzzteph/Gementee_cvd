@@ -6,15 +6,15 @@ ibzpink
 edienstenburgerzaken
 intranet
 edienstenburgerzaken-test
-webmail
 simsite
+webmail
 afspraken
 mail
 mijn
 digikoppeling
 secure
-acceptatie
 preproductie
+acceptatie
 simcms
 probeer
 felix
@@ -27,8 +27,8 @@ werkplek
 meldingen
 acc
 afspraak
-waarmerk
 open
+waarmerk
 adfs
 broker
 portal
@@ -74,12 +74,12 @@ zaken
 beeldbank
 loket.acceptatie
 enterpriseregistration
+woningbouwkaart
 govroam
 osbacc
 digikoppeling.test
 mks
 acc-broker
-woningbouwkaart
 cloudadapter
 extranet
 test-intranet
@@ -99,6 +99,7 @@ financien
 auth
 klantcontact
 samen
+simcms-open
 doemee
 kaarten
 jaarstukken
@@ -114,7 +115,6 @@ mailing
 apps
 parkeren-acc
 belastingloket
-simcms-open
 www.webmail
 smtp
 dtestmidoffice
@@ -195,6 +195,7 @@ fmreturn
 guest
 iarchief
 publicroam
+jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 data-test
@@ -221,6 +222,7 @@ www.acceptatie
 documenten
 college
 preprod-mijn
+izaaksuite
 www.werkenbij
 geodata
 subsidies-backend.acceptatie
@@ -249,7 +251,6 @@ lyncdiscover
 meet
 openformulieren
 openklant
-jccapi
 uca
 intranet-acc
 intranetcms
@@ -276,7 +277,6 @@ toegang
 vergunningintaker-preprod
 geovisia
 praatmee
-izaaksuite
 zoeken
 makelaar
 sociaaldomein
@@ -582,6 +582,7 @@ parkeerapp
 smartdoc
 tijdschrijven
 digid
+leerplein
 ns2
 old
 testdigid
@@ -2105,7 +2106,6 @@ inkomen-test.mijn
 inkomen.mijn
 jaarrekening
 jaarverslag
-leerplein
 loketacc
 meedenken
 mfa-rooster
@@ -5120,3 +5120,5 @@ lior
 regelingen
 www.digitaalfotoarchief
 www.sociaalteam
+betalenaan
+raadsagenda
