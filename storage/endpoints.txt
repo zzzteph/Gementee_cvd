@@ -110,6 +110,7 @@ http://autodiscover.maasdriel.nl
 http://autodiscover.medemblik.nl
 http://autodiscover.meppel.nl
 http://autodiscover.middelburg.nl
+http://autodiscover.midden-groningen.nl
 http://beeldbank.hellendoorn.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
@@ -250,9 +251,11 @@ http://test-insite.houten.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
 http://test-intranet.lansingerland.nl
+http://test-intranet.midden-groningen.nl
 http://test-jip.hofvantwente.nl
 http://test-meedoenregeling.dongen.nl
 http://test.website.westland.gemeentewestland.nl
+http://testcms-intranet.midden-groningen.nl
 http://testcms-jip.hofvantwente.nl
 http://testeloket.meppel.nl
 http://tickets.krimpenerwaard.nl
@@ -284,6 +287,7 @@ http://www.koggenland.nl
 http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijn.groningen.nl
+http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
@@ -506,6 +510,7 @@ https://acc.meldingen.kampen.nl
 https://acc.meldingenamsterdamsebos.amsterdam.nl
 https://acc.meldingenweesp.amsterdam.nl
 https://acc.microservices.schoolwijzer.amsterdam.nl
+https://acc.midden-groningen.nl
 https://acc.mijn.leeuwarden.nl
 https://acc.omslagroute.amsterdam.nl
 https://acc.onderwijssubsidies.amsterdam.nl
@@ -556,6 +561,7 @@ https://acceptatie.leiderdorp.nl
 https://acceptatie.leusden.nl
 https://acceptatie.lisse.nl
 https://acceptatie.loonopzand.nl
+https://acceptatie.midden-groningen.nl
 https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
@@ -1044,6 +1050,7 @@ https://belastingportaal.boxtel.nl
 https://belastingportaal.dinkelland.nl
 https://belastingportaal.goirle.nl
 https://belastingportaal.hilvarenbeek.nl
+https://belastingportaal.midden-groningen.nl
 https://belevingsroute.gooisemeren.nl
 https://bereikbaarheid.amsterdam.nl
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
@@ -1306,6 +1313,7 @@ https://communicatie.hollandskroon.nl
 https://connect-preprod.almere.nl
 https://connect.goirle.nl
 https://consent.sarphati.amsterdam.nl
+https://consul.midden-groningen.nl
 https://contact.antwoord.amsterdam.nl
 https://contact.gemeente-oldambt.nl
 https://contact.gemert-bakel.nl
@@ -1805,6 +1813,7 @@ https://eloket.leudal.nl
 https://eloket.leusden.nl
 https://eloket.meerssen.nl
 https://eloket.middelburg.nl
+https://eloket.midden-groningen.nl
 https://eloket.preprod.leudal.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
@@ -2310,6 +2319,7 @@ https://histor-web-fa.amsterdam.nl
 https://histor-web.acc.amsterdam.nl
 https://histor-web.amsterdam.nl
 https://histor-web.tst.amsterdam.nl
+https://historischarchief.midden-groningen.nl
 https://hnw.delft.nl
 https://hofnet.coevorden.nl
 https://hofvantwente.nl
@@ -2447,6 +2457,7 @@ https://iburgerzaken.maassluis.nl
 https://iburgerzaken.medemblik.nl
 https://iburgerzaken.meerssen.nl
 https://iburgerzaken.middelburg.nl
+https://iburgerzaken.midden-groningen.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2578,12 +2589,14 @@ https://intranet.loonopzand.nl
 https://intranet.meierijstad.nl
 https://intranet.meppel.nl
 https://intranet.middelburg.nl
+https://intranet.midden-groningen.nl
 https://intranet2.gulpen-wittem.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.landvancuijk.nl
 https://intranetcms.bergendal.nl
 https://intranetcms.drimmelen.nl
 https://intranetcms.landvancuijk.nl
+https://intranetcms.midden-groningen.nl
 https://intranettest.krimpenerwaard.nl
 https://intunecollector.amsterdam.nl
 https://intunevpn.meppel.nl
@@ -2988,6 +3001,7 @@ https://micollab.huizen.nl
 https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://middelburg.nl
+https://midden-groningen.nl
 https://mijn-acc.groningen.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-preproductie.heerenveen.nl
@@ -3052,6 +3066,7 @@ https://mijngeldzaken.arnhem.nl
 https://mijngeldzaken.denhaag.nl
 https://mijngeldzaken.doetinchem.nl
 https://mijngkb.groningen.nl
+https://mijngkb.midden-groningen.nl
 https://mijnict.almere.nl
 https://mijninkomen-test.almelo.nl
 https://mijninkomen.almelo.nl
@@ -3860,6 +3875,7 @@ https://samen.groningen.nl
 https://samen.harlingen.nl
 https://samen.lingewaard.nl
 https://samen.medemblik.nl
+https://samen.midden-groningen.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
@@ -4084,6 +4100,7 @@ https://status-paginas-zgw.test.denhaag.nl
 https://status.landvancuijk.nl
 https://stemmen.amsterdam.nl
 https://stemvan.groningen.nl
+https://stemvan.midden-groningen.nl
 https://stevensbeek.landvancuijk.nl
 https://stoepvrij.groningen.nl
 https://storing.acc.denhaag.nl
@@ -4112,7 +4129,13 @@ https://subsidiebackoffice.acceptatie.dordrecht.nl
 https://subsidiebackoffice.dordrecht.nl
 https://subsidiebeheer.alkmaar.nl
 https://subsidiebeheer.delft.nl
+https://subsidieloket-acc.midden-groningen.nl
+https://subsidieloket-backend-acc.midden-groningen.nl
+https://subsidieloket-backend.midden-groningen.nl
+https://subsidieloket-login-acc.midden-groningen.nl
+https://subsidieloket-login.midden-groningen.nl
 https://subsidieloket.alkmaar.nl
+https://subsidieloket.midden-groningen.nl
 https://subsidieregister.denhaag.nl
 https://subsidies-acceptatie.gemeentewestland.nl
 https://subsidies-backend-acceptatie.gemeentewestland.nl
@@ -4254,6 +4277,7 @@ https://testeloket.heumen.nl
 https://testeloket.horstaandemaas.nl
 https://testeloket.lelystad.nl
 https://testeloket.meerssen.nl
+https://testeloket.midden-groningen.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testinloggen.haarlemmermeer.nl
@@ -4542,6 +4566,7 @@ https://werkenbij.leeuwarden.nl
 https://werkenbij.lingewaard.nl
 https://werkenbij.maassluis.nl
 https://werkenbij.medemblik.nl
+https://werkenbij.midden-groningen.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -4926,6 +4951,7 @@ https://www.meerssen.nl
 https://www.meierijstad.nl
 https://www.meppel.nl
 https://www.merk.denhaag.nl
+https://www.midden-groningen.nl
 https://www.mijn.arnhem.nl
 https://www.mijn.heuvelrug.nl
 https://www.mijnuitkering.emmen.nl
@@ -4965,6 +4991,7 @@ https://www.rondleidingen.landvancuijk.nl
 https://www.ruimtelijkeplannen.dronten.nl
 https://www.ruimtevoorjou.groningen.nl
 https://www.samen.lingewaard.nl
+https://www.samen.midden-groningen.nl
 https://www.samenmet.beesel.nl
 https://www.samenwij.groningen.nl
 https://www.schoolwijzer.amsterdam.nl
