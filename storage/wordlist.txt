@@ -12,9 +12,9 @@ afspraken
 mijn
 mail
 digikoppeling
-acceptatie
 preproductie
 secure
+acceptatie
 simcms
 probeer
 loket
@@ -25,9 +25,9 @@ eloket
 test
 meldingen
 werkplek
-afspraak
 portal
 waarmerk
+afspraak
 adfs
 acc
 open
@@ -52,12 +52,12 @@ dacceptatieloket
 dacceptatiemidoffice
 meldingen-acc
 openpdc
+belastingbalie
 dloket
 dmidoffice
 api.meldingen-acc
 osb
 omgevingsvisie
-belastingbalie
 data
 openpub
 loket.acceptatie
@@ -86,8 +86,10 @@ cloudadapter
 extranet
 govroam
 samen
+www.webmail
 kaarten
 connect
+vergunningintaker
 portaal
 verkiezingen
 parkeren-test
@@ -96,12 +98,10 @@ gemeente
 test-intranet
 pki
 doemee
-www.webmail
 dtestloket
 filecap
 jaarstukken
 _autodiscover._tcp
-vergunningintaker
 denkmee
 mijninkomen
 subsidies
@@ -199,6 +199,7 @@ preprod-mijnsociaalplein
 mobile
 ro
 cryptshare
+outlook
 afspraakmaken
 www.portal
 midoffice
@@ -225,7 +226,6 @@ data-test
 intranet-acc
 xential
 citrix
-outlook
 vth
 www.intranet
 zaaksysteem
@@ -342,6 +342,7 @@ erfgoed
 nieuws
 aanmelden
 dkdtest
+download
 connect.test
 contentbeheer.test
 woz-loket
@@ -458,7 +459,6 @@ suite4burgerzaken-test
 sync
 test-eloket
 preprod-formulieren
-download
 www.afspraak
 ris
 inproces.test
@@ -491,7 +491,12 @@ mobility
 grondwater
 vergunningen
 mta-sts
+attachments
+authenticatiedienst
+authenticatiedienst.preprod
+edge
 socialekaart
+vergunningintaker.preprod
 mx2
 ondernemen
 www.belastingbalie
@@ -697,6 +702,7 @@ kassaservice
 navigus
 ssdtest
 suite4burgerzaken
+view
 womserver-test
 womserver
 uitwijk
@@ -766,11 +772,6 @@ www.zorgloket
 zmm
 zorgloket
 www.socialekaart
-attachments
-authenticatiedienst
-authenticatiedienst.preprod
-edge
-vergunningintaker.preprod
 www.piwik
 gt-loket
 betaal
@@ -2458,7 +2459,6 @@ nedgeoservices
 nedmagazijn
 ngdw
 scan
-view
 webmeeting
 zwembaddebronspot
 mzdtest
@@ -5423,3 +5423,9 @@ mor-test
 simform-test
 test.mijnhulpvraag
 voorjaarsnota
+krachtigedorpen
+roerdalen-checker-preprod
+roerdalen-checker
+service
+ws013
+ws018
