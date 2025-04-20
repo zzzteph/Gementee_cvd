@@ -13,9 +13,9 @@ simsite
 mijn
 digikoppeling
 secure
+acceptatie
 preproductie
 simcms
-acceptatie
 probeer
 loket
 formulieren
@@ -32,9 +32,9 @@ broker
 acc
 afspraak
 geo
+open
 api.meldingen
 gemeenteraad
-open
 betalen
 pv
 vpn
@@ -89,6 +89,7 @@ test-intranet
 pki
 dtestloket
 connect
+_autodiscover._tcp
 verkiezingen
 parkeren-test
 preprod-mijninkomen
@@ -100,7 +101,6 @@ doemee
 kaarten
 filecap
 test-cmsintranet
-_autodiscover._tcp
 preprodbroker
 vergunningintaker
 e
@@ -152,6 +152,7 @@ kennisbank
 gisib
 web
 evenementen
+dali
 qr
 jcc
 legacy
@@ -191,9 +192,9 @@ wachtwoord
 www.werkenbij
 subsidie
 thuiswerken
+website
 afvalkalender
 api.openstad
-dali
 gemeentearchief
 ro-online
 www.duurzaam
@@ -251,7 +252,6 @@ subsidies.acceptatie
 maps
 melddesk
 sociaaldomein
-website
 cms
 atlas
 api
@@ -742,6 +742,13 @@ ubwtest
 vacatures
 preprod-meedoen
 cars
+aanvragenpreprod
+aanvragenprod
+acceptatie-mobiliteitsplan
+bouwarchief
+edienstenpreprod
+mobiliteitsplan
+website.acceptatie
 wijkteam
 access
 open-formulieren-test
@@ -4276,15 +4283,8 @@ vicrea
 vinden
 www.cars
 www.wmoloket
-aanvragenpreprod
-aanvragenprod
-acceptatie-mobiliteitsplan
-bouwarchief
-edienstenpreprod
 hillegom-checker-preprod
 hillegom-checker
-mobiliteitsplan
-website.acceptatie
 www.thuiswerken
 acceptatie.hilvernet
 hilvernet
@@ -4735,3 +4735,4 @@ simcms-klimaatbestendig
 vlindernet
 www.belastingloket
 www.samen
+lisse-checker-preprod
