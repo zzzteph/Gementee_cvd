@@ -13,8 +13,8 @@ mail
 mijn
 digikoppeling
 secure
-preproductie
 acceptatie
+preproductie
 simcms
 probeer
 felix
@@ -34,8 +34,8 @@ broker
 portal
 api.meldingen
 geo
-vpn
 pv
+vpn
 werkenbij
 parkeren
 betalen
@@ -46,10 +46,10 @@ raad
 zaaksysteem-accept
 iparticipatie
 ruimtelijkeplannen
+omgevingsvisie
 data
 test-ipa
 osb
-omgevingsvisie
 belastingen
 login
 meldingen-acc
@@ -120,6 +120,7 @@ smtp
 dtestmidoffice
 transfer
 cmsintranet
+belastingportaal
 e
 dali
 preprod
@@ -140,7 +141,6 @@ inloggen
 squit2go
 begroting
 testloket
-belastingportaal
 kennisbank
 simform
 web
@@ -169,6 +169,7 @@ uc
 mobile
 connect.acceptatie
 contentbeheer
+bor
 midoffice
 mijnzorg-acc
 gisib
@@ -177,6 +178,7 @@ wachtwoord
 servicedesk
 subsidie
 thuiswerken
+website
 api.openstad
 onderzoek
 werkenvoor
@@ -205,7 +207,6 @@ mobiel
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
-bor
 inproces.acceptatie
 inproces
 cryptshare
@@ -229,7 +230,6 @@ subsidies-backend.acceptatie
 subsidies.acceptatie
 maps
 melddesk
-website
 afvalkalender
 gemeentearchief
 ro-online
@@ -266,6 +266,7 @@ auth.openstad
 img.openstad
 bestanden
 squit2020
+woz-portaal
 en
 ibabs
 mijnsociaaldomein
@@ -322,7 +323,6 @@ belastingbalie-test
 eformulieren
 squit2020.acceptatie
 academie
-woz-portaal
 afspraakmaken
 kcc
 testbelastingloket
@@ -467,6 +467,7 @@ www.werkplek
 authenticatie
 acceptatie-intranet
 de
+preprod-belastingportaal
 online
 neuron
 validsign
@@ -483,6 +484,7 @@ teleweb
 vacatures
 www.denkmee
 access
+insite
 digitaalloket
 www.samen
 belastingportaal.acc
@@ -762,7 +764,6 @@ belastingen-test
 ucconf01
 ucweb01-ext
 aaa
-preprod-belastingportaal
 trobit
 aov
 begroting2018
@@ -813,7 +814,6 @@ website.acceptatie
 testwerkplek
 wijkteam
 open-formulieren-test
-insite
 test-insite
 hybrid1
 www.afspraken
@@ -5122,3 +5122,6 @@ www.digitaalfotoarchief
 www.sociaalteam
 betalenaan
 raadsagenda
+acceptatie.insite
+haarendossiers
+test.haarendossiers
