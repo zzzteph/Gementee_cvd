@@ -102,6 +102,7 @@ http://autodiscover.leeuwarden.nl
 http://autodiscover.leiden.nl
 http://autodiscover.leiderdorp.nl
 http://autodiscover.leidschendam-voorburg.nl
+http://autodiscover.lingewaard.nl
 http://beeldbank.hellendoorn.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
@@ -634,6 +635,7 @@ https://afvalkalender.cranendonck.nl
 https://afvalkalender.defryskemarren.nl
 https://afvalkalender.goes.nl
 https://afvalmelding.denhaag.nl
+https://afvalwijzer.lingewaard.nl
 https://agbi.apeldoorn.nl
 https://agenda.landvancuijk.nl
 https://agrifoodtech.landvancuijk.nl
@@ -983,6 +985,7 @@ https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
 https://belastingloket.hattem.nl
 https://belastingloket.heerde.nl
+https://belastingloket.lingewaard.nl
 https://belastingportaal-test.boxtel.nl
 https://belastingportaal-test.dinkelland.nl
 https://belastingportaal.aaenhunze.nl
@@ -1769,6 +1772,7 @@ https://enterpriseenrollment.etten-leur.nl
 https://enterpriseenrollment.heerlen.nl
 https://enterpriseenrollment.landsmeer.nl
 https://enterpriseenrollment.leeuwarden.nl
+https://enterpriseenrollment.lingewaard.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone.almere.nl
@@ -1851,6 +1855,7 @@ https://felix.eersel.nl
 https://felix.geldrop-mierlo.nl
 https://felix.halderberge.nl
 https://felix.landgraaf.nl
+https://felix.lingewaard.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
 https://fgt.amstelveen.nl
@@ -2330,6 +2335,7 @@ https://iburgerzaken.landsmeer.nl
 https://iburgerzaken.laren.nl
 https://iburgerzaken.lelystad.nl
 https://iburgerzaken.leudal.nl
+https://iburgerzaken.lingewaard.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2606,6 +2612,7 @@ https://klantcontact.deurne.nl
 https://klantcontact.kerkrade.nl
 https://klantcontact.koggenland.nl
 https://klantcontact.landgraaf.nl
+https://klantcontact.lingewaard.nl
 https://klantgeleiding.gorinchem.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
@@ -2658,6 +2665,7 @@ https://leverancier.gemeenteberkelland.nl
 https://life.landvancuijk.nl
 https://lifecoolsquare.groningen.nl
 https://linden.landvancuijk.nl
+https://lingewaard.nl
 https://link.capelleaandenijssel.nl
 https://liquit.gemeentebest.nl
 https://live.bergen-nh.nl
@@ -2879,6 +2887,7 @@ https://mijn.hoorn.nl
 https://mijn.houten.nl
 https://mijn.laarbeek.nl
 https://mijn.lansingerland.nl
+https://mijn.lingewaard.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -3671,6 +3680,7 @@ https://samen.drechterland.nl
 https://samen.enkhuizen.nl
 https://samen.groningen.nl
 https://samen.harlingen.nl
+https://samen.lingewaard.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
@@ -4313,6 +4323,7 @@ https://werkenbij.hilversum.nl
 https://werkenbij.hollandskroon.nl
 https://werkenbij.hoorn.nl
 https://werkenbij.leeuwarden.nl
+https://werkenbij.lingewaard.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -4470,6 +4481,7 @@ https://www.barneveld.nl
 https://www.beeldbank.landvancuijk.nl
 https://www.beesel.nl
 https://www.belastingbalie.ede.nl
+https://www.belastingloket.lingewaard.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergen-nh.nl
 https://www.bernheze.org
@@ -4678,6 +4690,7 @@ https://www.leidschendam-voorburg.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.lelystad.nl
 https://www.leusden.nl
+https://www.lingewaard.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.meedenken.arnhem.nl
@@ -4720,6 +4733,7 @@ https://www.rekenkamer.amsterdam.nl
 https://www.rondleidingen.landvancuijk.nl
 https://www.ruimtelijkeplannen.dronten.nl
 https://www.ruimtevoorjou.groningen.nl
+https://www.samen.lingewaard.nl
 https://www.samenmet.beesel.nl
 https://www.samenwij.groningen.nl
 https://www.schoolwijzer.amsterdam.nl
@@ -4820,6 +4834,7 @@ https://zaaksysteem-accept.halderberge.nl
 https://zaaksysteem-accept.hardenberg.nl
 https://zaaksysteem-accept.hofvantwente.nl
 https://zaaksysteem-accept.lansingerland.nl
+https://zaaksysteem-accept.lingewaard.nl
 https://zaaksysteem.ede.nl
 https://zaaksysteem.hilversum.nl
 https://zaken.alblasserdam.nl
