@@ -44,8 +44,8 @@ parkeren
 betalen
 enterpriseenrollment
 test-ipa
-zaaksysteem-accept
 raad
+zaaksysteem-accept
 testeloket
 meldingen-acc
 omgevingsvisie
@@ -61,18 +61,18 @@ belastingen
 login
 remote
 belastingbalie
+zaken
 openpub
 kaart
 digikoppeling-test
 formulier
 cmsoo
-zaken
 flowmailer-tracking
 hybrid
 berichten
+loket.acceptatie
 beeldbank
 cloudadapter-test
-loket.acceptatie
 enterpriseregistration
 acc-broker
 osbacc
@@ -91,6 +91,7 @@ pki
 www.webmail
 dtestloket
 connect
+vergunningintaker
 mijninkomen
 parkeren-test
 subsidies
@@ -102,7 +103,6 @@ kaarten
 filecap
 mijnzorg
 _autodiscover._tcp
-vergunningintaker
 denkmee
 portaal
 verkiezingen
@@ -170,6 +170,7 @@ inproces
 squit2020
 kennisbank
 simform
+gisib
 web
 izaaksuite
 wachtwoord
@@ -193,7 +194,7 @@ ro
 www.portal
 midoffice
 mijnzorg-acc
-gisib
+college
 veiligdelen
 servicedesk
 subsidie
@@ -229,7 +230,7 @@ fs
 participatie
 www.acceptatie
 documenten
-college
+vergunningintaker-preprod
 preprod-mijn
 www.werkenbij
 zoeken
@@ -289,8 +290,12 @@ m
 loket.test
 raadsnet
 toegang
-vergunningintaker-preprod
 geovisia
+gisib-test
+gisibapi-test
+gisibapi
+gisibgeoserver-test
+gisibgeoserver
 praatmee
 makelaar
 sociaaldomein
@@ -351,11 +356,6 @@ acceptatie-intranet
 sbc01
 cloudadapter-prod
 simform-preproductie
-gisib-test
-gisibapi-test
-gisibapi
-gisibgeoserver-test
-gisibgeoserver
 autorisatie
 testafspraken
 veiligmailen
@@ -826,6 +826,8 @@ samenwijzer
 preprod-burgerportaal
 zwemles
 webkassa
+rxlaunch-signicat-preprod
+vthbroker
 bezoekersparkeren
 mijn-preproductie
 subsidies-backend-test
@@ -4148,8 +4150,6 @@ scoremodule
 www.onlinestadsgesprek
 hardinxveld-giessendam-checker-preprod
 hardinxveld-giessendam-checker
-rxlaunch-signicat-preprod
-vthbroker
 acc.woz-loket
 groen
 parkeervergunningenacc
@@ -5301,3 +5301,6 @@ www.preprod-belastingloket
 www.radius
 www.sap01.gem
 zaken.staging
+collegeprogramma
+papendrecht-checker-preprod
+papendrecht-checker
