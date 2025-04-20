@@ -104,6 +104,7 @@ http://autodiscover.leiderdorp.nl
 http://autodiscover.leidschendam-voorburg.nl
 http://autodiscover.lingewaard.nl
 http://autodiscover.lisse.nl
+http://autodiscover.lochem.nl
 http://beeldbank.hellendoorn.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
@@ -299,6 +300,7 @@ https://Infra-summit.acc.amsterdam.nl
 https://Infra-summit.tst.amsterdam.nl
 https://VRiSeLoket.cranendonck.nl
 https://WOZ-loket.heeze-leende.nl
+https://Www.lochem.nl
 https://a-consent.sarphati.amsterdam.nl
 https://a-surveys3.ggd.amsterdam.nl
 https://aaenhunze.nl
@@ -1783,6 +1785,7 @@ https://enterpriseenrollment.heerlen.nl
 https://enterpriseenrollment.landsmeer.nl
 https://enterpriseenrollment.leeuwarden.nl
 https://enterpriseenrollment.lingewaard.nl
+https://enterpriseenrollment.lochem.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone.almere.nl
@@ -1795,6 +1798,7 @@ https://enterpriseregistration.doetinchem.nl
 https://enterpriseregistration.etten-leur.nl
 https://enterpriseregistration.huizen.nl
 https://enterpriseregistration.landsmeer.nl
+https://enterpriseregistration.lochem.nl
 https://eopenstad.gemeentewestland.nl
 https://epe.nl
 https://epp.denhaag.nl
@@ -2011,6 +2015,7 @@ https://gemeente.emmen.nl
 https://gemeente.groningen.nl
 https://gemeente.kampen.nl
 https://gemeente.leiden.nl
+https://gemeente.lochem.nl
 https://gemeentearchief.alphenaandenrijn.nl
 https://gemeentearchief.barneveld.nl
 https://gemeentearchief.ede.nl
@@ -2346,6 +2351,7 @@ https://iburgerzaken.laren.nl
 https://iburgerzaken.lelystad.nl
 https://iburgerzaken.leudal.nl
 https://iburgerzaken.lingewaard.nl
+https://iburgerzaken.lochem.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2683,6 +2689,7 @@ https://lisse.nl
 https://live.bergen-nh.nl
 https://live.landvancuijk.nl
 https://liveblog.ede.nl
+https://lochem.nl
 https://login.alphenaandenrijn.nl
 https://login.subsidie.leiden.nl
 https://loket-acc.leidschendam-voorburg.nl
@@ -2726,6 +2733,7 @@ https://lyncdiscover.diemen.nl
 https://lyncdiscover.ggd.amsterdam.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
+https://m.lochem.nl
 https://maasgouw-checker-preprod.gemeentemaasgouw.nl
 https://maasgouw-checker.gemeentemaasgouw.nl
 https://maashees.landvancuijk.nl
@@ -2900,6 +2908,7 @@ https://mijn.houten.nl
 https://mijn.laarbeek.nl
 https://mijn.lansingerland.nl
 https://mijn.lingewaard.nl
+https://mijn.lochem.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -3648,6 +3657,7 @@ https://remote.beverwijk.nl
 https://remote.gemeentesluis.nl
 https://remote.gorinchem.nl
 https://remote.hethogeland.nl
+https://remote.lochem.nl
 https://return.heuvelrug.nl
 https://rijkevoort.landvancuijk.nl
 https://ris.dalfsen.nl
@@ -3675,6 +3685,7 @@ https://ruimtelijkeplannen.deventer.nl
 https://ruimtelijkeplannen.dronten.nl
 https://ruimtelijkeplannen.gemert-bakel.nl
 https://ruimtelijkeplannen.gorinchem.nl
+https://ruimtelijkeplannen.lochem.nl
 https://ruimtevoorjou.groningen.nl
 https://rxlaunch-signicat-preprod.hardinxveld-giessendam.nl
 https://rxlaunchbroker-preprod.heuvelrug.nl
@@ -4075,6 +4086,7 @@ https://testloket.heerde.nl
 https://testloket.katwijk.nl
 https://testloket.leusden.nl
 https://testmeldingen.asten.nl
+https://testmijn.lochem.nl
 https://testmijnzaken.derondevenen.nl
 https://testportaal.almelo.nl
 https://testsiam.ameland.nl
@@ -4708,6 +4720,7 @@ https://www.lelystad.nl
 https://www.leusden.nl
 https://www.lingewaard.nl
 https://www.lisse.nl
+https://www.lochem.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.meedenken.arnhem.nl
