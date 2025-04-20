@@ -5,6 +5,7 @@ http://AutoDiscover.enkhuizen.nl
 http://AutoDiscover.koggenland.nl
 http://AutoDiscover.medemblik.nl
 http://AutoDiscover.nissewaard.nl
+http://AutoDiscover.opmeer.nl
 http://Autodiscover.hilversum.nl
 http://afspraak.bergendal.nl
 http://ameland.nl
@@ -138,6 +139,7 @@ http://autodiscover.oegstgeest.nl
 http://autodiscover.oldebroek.nl
 http://autodiscover.oostgelre.nl
 http://autodiscover.ooststellingwerf.nl
+http://autodiscover.opmeer.nl
 http://autodiscover.partijvoordedieren.nijmegen.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.pvda.nijmegen.nl
@@ -256,6 +258,7 @@ http://preproductie.beuningen.nl
 http://preproductie.dalfsen.nl
 http://preproductie.deurne.nl
 http://preproductie.gemeentebeek.nl
+http://preproductie.opmeer.nl
 http://pv.gemeentesluis.nl
 http://raadsagenda.oirschot.nl
 http://redirector.alkmaar.nl
@@ -2027,6 +2030,7 @@ https://eloket.nijkerk.eu
 https://eloket.nissewaard.nl
 https://eloket.nuenen.nl
 https://eloket.nunspeet.nl
+https://eloket.opmeer.nl
 https://eloket.preprod.leudal.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
@@ -2182,6 +2186,7 @@ https://felix.nissewaard.nl
 https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.ooststellingwerf.nl
+https://felix.opmeer.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
 https://fgt.amstelveen.nl
@@ -2740,6 +2745,7 @@ https://iburgerzaken.ommen.nl
 https://iburgerzaken.oosterhout.nl
 https://iburgerzaken.oostgelre.nl
 https://iburgerzaken.ooststellingwerf.nl
+https://iburgerzaken.opmeer.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2788,6 +2794,7 @@ https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
 https://ikzoek.huizen.nl
 https://ikzoekeenhuis.almere.nl
+https://im.opmeer.nl
 https://image.nieuwsbrief.amsterdam.nl
 https://images.openstad.alphenaandenrijn.nl
 https://img.doemee.bloemendaal.nl
@@ -3072,6 +3079,7 @@ https://klantcontact.landgraaf.nl
 https://klantcontact.lingewaard.nl
 https://klantcontact.loonopzand.nl
 https://klantcontact.nissewaard.nl
+https://klantcontact.opmeer.nl
 https://klantgeleiding.gorinchem.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
@@ -3472,6 +3480,7 @@ https://mijnsdv.emmen.nl
 https://mijnshv.coevorden.nl
 https://mijnsociaaldomein-acc.koggenland.nl
 https://mijnsociaaldomein-acc.meierijstad.nl
+https://mijnsociaaldomein-acc.opmeer.nl
 https://mijnsociaaldomein-test.losser.nl
 https://mijnsociaaldomein.gemeentesluis.nl
 https://mijnsociaaldomein.heerenveen.nl
@@ -3783,6 +3792,7 @@ https://ont.management.api.amsterdam.nl
 https://ontheffingen-acc.amsterdam.nl
 https://ontheffingen-mz.denhaag.nl
 https://ontheffingen.amsterdam.nl
+https://ontmoetingscentra.opmeer.nl
 https://ontmoetingskaart.landvancuijk.nl
 https://ontw.app.amsterdam.nl
 https://onzestad.nijmegen.nl
@@ -4484,6 +4494,7 @@ https://simcms.maassluis.nl
 https://simcms.middendelfland.nl
 https://simcms.mookenmiddelaar.nl
 https://simcms.oirschot.nl
+https://simcms.opmeer.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform.gemeentehw.nl
 https://simform.gemeentemaasgouw.nl
@@ -5225,6 +5236,8 @@ https://wijkteam.katwijk.nl
 https://wijkteams.almere.nl
 https://wijkvernieuwing.groningen.nl
 https://wijsamen.groningen.nl
+https://wijzer-acc.opmeer.nl
+https://wijzer.opmeer.nl
 https://wilbertoord.landvancuijk.nl
 https://willkommen.groningen.nl
 https://windopland.haarlemmermeer.nl
@@ -5624,6 +5637,7 @@ https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
 https://www.openstad.nijmegen.nl
 https://www.operatiebomenbuurt.denhaag.nl
+https://www.opmeer.nl
 https://www.oracbloemenbuurt.denhaag.nl
 https://www.platform.culemborg.nl
 https://www.portal.groningen.nl
