@@ -13,8 +13,8 @@ mail
 mijn
 digikoppeling
 secure
-preproductie
 acceptatie
+preproductie
 simcms
 probeer
 loket
@@ -59,18 +59,18 @@ dacceptatieloket
 dacceptatiemidoffice
 remote
 ruimtelijkeplannen
+hybrid
 dloket
 dmidoffice
 openpub
 flowmailer-tracking
-hybrid
+cloudadapter-test
 zaken
 kaart
 berichten
 digikoppeling-test
 formulier
 cmsoo
-cloudadapter-test
 beeldbank
 loket.acceptatie
 acc-broker
@@ -143,6 +143,7 @@ qr
 jcc
 email
 openzaak
+telewerken
 acc-mijn
 acc-objecten
 acc-objecttypen
@@ -164,6 +165,7 @@ mijnzorg-acc
 kennisbank
 gisib
 veiligdelen
+wachtwoord
 servicedesk
 subsidie
 evenementen
@@ -171,7 +173,6 @@ thuiswerken
 werkenvoor
 ftp
 legacy
-telewerken
 gis
 openstad
 woo
@@ -202,10 +203,10 @@ cryptshare
 outlook
 vth
 fs
+participatie
 www.acceptatie
 documenten
 college
-wachtwoord
 www.werkenbij
 subsidies-backend.acceptatie
 subsidies.acceptatie
@@ -252,7 +253,6 @@ liquit
 mijnsociaaldomein
 handhaving
 loket.test
-participatie
 raadsnet
 vergunningintaker-preprod
 geovisia
@@ -287,6 +287,7 @@ acc.piwik
 extern
 gp
 www.jongin
+projecten
 erfgoed
 nieuws
 aanmelden
@@ -308,6 +309,7 @@ filetransfer
 acceptatie-open
 belastingbalie-test
 squit2020.acceptatie
+academie
 woz-portaal
 afspraakmaken
 testbelastingloket
@@ -317,6 +319,7 @@ en
 www.portal
 gateway
 sbc01
+cloudadapter-prod
 m
 toegang
 simform-preproductie
@@ -385,7 +388,6 @@ localhost
 wozloket
 mam
 jongin
-projecten
 2secure
 matomo
 autorisatiebeheer-test
@@ -398,6 +400,7 @@ key2datadistributie-test
 key2gbavtest
 ssd
 suite4burgerzaken-test
+sync
 download
 www.afspraak
 connect.test
@@ -422,9 +425,9 @@ eformulieren
 webdav
 webformulieren
 webservices
-academie
 vergunningen
 mx2
+aeolus
 squit2020publiceren
 duo
 e.openstad
@@ -435,8 +438,8 @@ gemeentewinkel
 www.login
 beeldbankbeheer
 www.werkplek
+acceptatie-intranet
 de
-cloudadapter-prod
 validsign
 gemeentebestuur
 lyncweb
@@ -531,6 +534,7 @@ social
 sportverhuur
 subsites
 vergunning
+wachtwoordvergeten
 www.ggd
 www.onderzoek
 www.ruimtelijkeplannen
@@ -614,7 +618,6 @@ mor
 navigus
 ssdtest
 suite4burgerzaken
-sync
 test-eloket
 womserver-test
 womserver
@@ -685,7 +688,6 @@ ondernemen
 redirect
 welkom
 www.belastingbalie
-aeolus
 antispam
 burgerportaal
 mijnsubsidie
@@ -710,6 +712,7 @@ organisatie
 director
 mijnmobiel
 nedplan
+secudoc
 support
 www.mijnmobiel
 radius
@@ -722,7 +725,6 @@ rds
 wmoloket
 authenticatie
 digikoppelingjnet
-acceptatie-intranet
 apigateway
 apigateway2
 berichtenverkeer
@@ -773,6 +775,7 @@ key2datadistributie
 ubwprod
 ubwtest
 vacatures
+monitoring
 preprod-meedoen
 e2s
 cars
@@ -804,6 +807,7 @@ nieuw
 werkeninkomen-test
 werkeninkomen
 testwebsite
+decos
 zorg-acc
 webapps
 email.mail.participatie
@@ -1875,7 +1879,6 @@ vvetest
 wacfarm.acc
 wachtwoord.acc
 wachtwoordvergeten.acc
-wachtwoordvergeten
 wbakaart
 webmail.centrum
 webmail.dbga
@@ -3369,7 +3372,6 @@ nas-productie.ovh
 nasbackup.ovh
 nlgembek
 ovh
-secudoc
 srmvaprd.ovh
 srmvauitwijk.ovh
 storefront.ovh
@@ -4216,7 +4218,6 @@ hellendoorn-checker-preprod
 hellendoorn-checker
 inloggenapv-preprod
 inloggenapv
-monitoring
 esb-nhr
 internwifi
 ld-01
@@ -4773,7 +4774,6 @@ uitvaart
 HTA-stuf
 blik-acc
 blik
-decos
 hta-stuf
 ibabs-prod
 ibabs-test
@@ -4900,3 +4900,5 @@ login-pre
 mintra
 natuurlijkgroen
 services-test
+intraweb
+telewerkentest
