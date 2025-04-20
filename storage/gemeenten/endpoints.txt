@@ -137,6 +137,7 @@ http://autodiscover.noordoostpolder.nl
 http://autodiscover.oegstgeest.nl
 http://autodiscover.oldebroek.nl
 http://autodiscover.oostgelre.nl
+http://autodiscover.ooststellingwerf.nl
 http://autodiscover.partijvoordedieren.nijmegen.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.pvda.nijmegen.nl
@@ -164,6 +165,7 @@ http://crl.denhaag.nl
 http://data.breda.nl
 http://data.delft.nl
 http://digid-subsidies-login.ede.nl
+http://digid.ooststellingwerf.nl
 http://digitaalnachtregister.alphen-chaam.nl
 http://digitaalnachtregister.baarle-nassau.nl
 http://digitaalnachtregister.gilzerijen.nl
@@ -1105,6 +1107,7 @@ https://begroting.gorinchem.nl
 https://begroting.hengelo.nl
 https://begroting.middelburg.nl
 https://begroting.montferland.info
+https://begroting.ooststellingwerf.nl
 https://begroting2016.kerkrade.nl
 https://begroting2018.hoorn.nl
 https://begroting2019.financien.gouda.nl
@@ -2175,6 +2178,7 @@ https://felix.nederweert.nl
 https://felix.nissewaard.nl
 https://felix.nuenen.nl
 https://felix.oirschot.nl
+https://felix.ooststellingwerf.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
 https://fgt.amstelveen.nl
@@ -2208,6 +2212,7 @@ https://financien.gemeentemaashorst.nl
 https://financien.groningen.nl
 https://financien.hengelo.nl
 https://financien.middelburg.nl
+https://financien.ooststellingwerf.nl
 https://flevoparkbad.amsterdam.nl
 https://floriade.almere.nl
 https://flowise.montferland.info
@@ -2730,6 +2735,7 @@ https://iburgerzaken.olst-wijhe.nl
 https://iburgerzaken.ommen.nl
 https://iburgerzaken.oosterhout.nl
 https://iburgerzaken.oostgelre.nl
+https://iburgerzaken.ooststellingwerf.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2994,6 +3000,7 @@ https://kaarten.gooisemeren.nl
 https://kaarten.haarlemmermeer.nl
 https://kaarten.helmond.nl
 https://kaarten.molenlanden.nl
+https://kaarten.ooststellingwerf.nl
 https://kaartviewer.barneveld.nl
 https://kaartviewer.hoorn.nl
 https://kadbrkwkpd.deventer.nl
@@ -3778,6 +3785,7 @@ https://oorlogenvrede.landvancuijk.nl
 https://oostbegroot.amsterdam.nl
 https://oosterhout.nl
 https://oostgelre.nl
+https://ooststellingwerf.nl
 https://open-formulieren-test.horstaandemaas.nl
 https://open-formulieren-test.leeuwarden.nl
 https://open-formulieren.groningen.nl

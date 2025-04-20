@@ -25,8 +25,8 @@ meldingen
 dkd
 test
 werkplek
-acc
 waarmerk
+acc
 afspraak
 open
 broker
@@ -39,14 +39,14 @@ vpn
 ruimtelijkeplannen
 parkeren
 gemeenteraad
+iparticipatie
 werkenbij
 betalen
-iparticipatie
+test-ipa
 zaaksysteem-accept
 enterpriseenrollment
 testeloket
 meldingen-acc
-test-ipa
 raad
 omgevingsvisie
 dacceptatieloket
@@ -89,9 +89,11 @@ pki
 dtestloket
 parkeren-test
 subsidies
+financien
 gemeente
 doemee
 www.webmail
+kaarten
 filecap
 connect
 mijnzorg
@@ -99,7 +101,6 @@ vergunningintaker
 verkiezingen
 mijninkomen
 snelbalie
-financien
 auth
 acc-formulier
 acc-podiumd-logs
@@ -107,7 +108,6 @@ klantcontact
 belastingloket
 samen
 simcms-open
-kaarten
 dtestmidoffice
 jaarstukken
 inloggen
@@ -131,6 +131,7 @@ notificaties
 podiumd-logs
 smtp
 squit2go
+begroting
 transfer
 testloket
 cmsintranet
@@ -158,7 +159,6 @@ AutoDiscover
 connect.acceptatie
 contentbeheer
 bor
-begroting
 kennisbank
 simform
 web
@@ -175,6 +175,7 @@ sip
 sts
 test-digikoppeling
 meedoen
+iarchief
 micollab
 uc
 mobile
@@ -184,9 +185,11 @@ zaken.acceptatie
 inproces.acceptatie
 inproces
 internetafspraken
+squit2020
 midoffice
 mijnzorg-acc
 gisib
+izaaksuite
 veiligdelen
 servicedesk
 subsidie
@@ -202,7 +205,6 @@ bag
 byod
 fmreturn
 guest
-iarchief
 publicroam
 jccapi
 mijnsociaalplein
@@ -214,10 +216,10 @@ mobiel
 cryptshare
 outlook
 vth
-squit2020
 www.intranet
 zaaksysteem
 liquit
+www.portal
 handhaving
 fs
 participatie
@@ -225,7 +227,6 @@ www.acceptatie
 documenten
 college
 preprod-mijn
-izaaksuite
 www.werkenbij
 zoeken
 geodata
@@ -272,11 +273,11 @@ img.openstad
 bestanden
 squit2020.acceptatie
 woz-portaal
+afspraakmaken
 testbelastingloket
 en
 contact
 ibabs
-www.portal
 mijnsociaaldomein
 gateway
 m
@@ -328,7 +329,6 @@ acceptatie-open
 belastingbalie-test
 eformulieren
 academie
-afspraakmaken
 kcc
 mx1
 squit2020publiceren
@@ -371,6 +371,7 @@ top
 wob
 digitaleplannen
 e-loket
+digid
 geotest
 werk
 www.mijn
@@ -591,7 +592,6 @@ ndes
 parkeerapp
 smartdoc
 tijdschrijven
-digid
 leerplein
 ns2
 old
@@ -806,6 +806,7 @@ preprod-burgerportaal
 zwemles
 webkassa
 bezoekersparkeren
+mijn-preproductie
 subsidies-backend-test
 subsidies-test
 bzg1-acc
@@ -4163,7 +4164,6 @@ tradities
 samenwerkenaan
 zorgvraag
 edienstensociaaldomein
-mijn-preproductie
 preprod-edienstensociaaldomein
 pubgov
 standplaatsen
@@ -5187,3 +5187,17 @@ uag1
 vrijwilligerswerk-oostgelre
 wabo
 www.mob
+iobjects
+nlwmoosw
+smtp10
+smtp20
+stempasfonds
+stwapp02
+stwidocosw02
+stwmksoost01
+talentenbank
+www.afspraakmaken
+www.iarchief
+www.stempasfonds
+www.stwidocosw02
+www.talentenbank
