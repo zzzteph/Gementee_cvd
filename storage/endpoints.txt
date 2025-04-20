@@ -109,6 +109,7 @@ http://autodiscover.lochem.nl
 http://autodiscover.maasdriel.nl
 http://autodiscover.medemblik.nl
 http://autodiscover.meppel.nl
+http://autodiscover.middelburg.nl
 http://beeldbank.hellendoorn.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
@@ -228,6 +229,7 @@ http://simcms.bunschoten.nl
 http://simcms.heerlen.nl
 http://simcms.heumen.nl
 http://simcms.koggenland.nl
+http://simcms.middelburg.nl
 http://simform-preproductie.heerenveen.nl
 http://simsite.bergen.nl
 http://simsite.eersel.nl
@@ -973,6 +975,7 @@ https://begroting.gemeentehw.nl
 https://begroting.gooisemeren.nl
 https://begroting.gorinchem.nl
 https://begroting.hengelo.nl
+https://begroting.middelburg.nl
 https://begroting2016.kerkrade.nl
 https://begroting2018.hoorn.nl
 https://begroting2019.financien.gouda.nl
@@ -1076,6 +1079,7 @@ https://bestuur.dijkenwaard.nl
 https://bestuur.gemeente-steenbergen.nl
 https://bestuur.gooisemeren.nl
 https://bestuursrapportage.leiden.nl
+https://bestuursrapportage.middelburg.nl
 https://betaal.ede.nl
 https://betalen.almere.nl
 https://betalen.amsterdam.nl
@@ -1800,6 +1804,7 @@ https://eloket.lelystad.nl
 https://eloket.leudal.nl
 https://eloket.leusden.nl
 https://eloket.meerssen.nl
+https://eloket.middelburg.nl
 https://eloket.preprod.leudal.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
@@ -1972,6 +1977,7 @@ https://financien.denhaag.nl
 https://financien.gemeentemaashorst.nl
 https://financien.groningen.nl
 https://financien.hengelo.nl
+https://financien.middelburg.nl
 https://flevoparkbad.amsterdam.nl
 https://floriade.almere.nl
 https://flowmailer-tracking.almelo.nl
@@ -1986,6 +1992,7 @@ https://flowmailer-tracking.kampen.nl
 https://flowmailer-tracking.katwijk.nl
 https://flowmailer-tracking.leidschendam-voorburg.nl
 https://flowmailer-tracking.meppel.nl
+https://flowmailer-tracking.middelburg.nl
 https://flowmailer-tracking.parkeervergunning.leeuwarden.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
@@ -2439,6 +2446,7 @@ https://iburgerzaken.maasdriel.nl
 https://iburgerzaken.maassluis.nl
 https://iburgerzaken.medemblik.nl
 https://iburgerzaken.meerssen.nl
+https://iburgerzaken.middelburg.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2569,6 +2577,7 @@ https://intranet.leusden.nl
 https://intranet.loonopzand.nl
 https://intranet.meierijstad.nl
 https://intranet.meppel.nl
+https://intranet.middelburg.nl
 https://intranet2.gulpen-wittem.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.landvancuijk.nl
@@ -2599,6 +2608,7 @@ https://jaarstukken.gorinchem.nl
 https://jaarstukken.haarlemmermeer.nl
 https://jaarstukken.hengelo.nl
 https://jaarstukken.leiden.nl
+https://jaarstukken.middelburg.nl
 https://jaarstukken2020.bronckhorst.nl
 https://jaarstukken2021.bronckhorst.nl
 https://jaarstukken2021.financien.gouda.nl
@@ -2667,6 +2677,7 @@ https://kaartviewer.barneveld.nl
 https://kaartviewer.hoorn.nl
 https://kadbrkwkpd.deventer.nl
 https://kaderbrief.leiden.nl
+https://kadernota.middelburg.nl
 https://kadernota2022.financielestukken.diemen.nl
 https://kampen.nl
 https://kansshop.eemsdelta.nl
@@ -2976,6 +2987,7 @@ https://micollab.hellendoorn.nl
 https://micollab.huizen.nl
 https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
+https://middelburg.nl
 https://mijn-acc.groningen.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-preproductie.heerenveen.nl
@@ -3165,6 +3177,7 @@ https://mycorsanxt.derondevenen.nl
 https://mylex.gemeentesluis.nl
 https://mzdtest.bunnik.nl
 https://naheffingsaanslag.amsterdam.nl
+https://najaarsbrief.middelburg.nl
 https://najaarsrapportage.haarlemmermeer.nl
 https://natuur.leiden.nl
 https://ndes.apeldoorn.nl
@@ -3512,6 +3525,7 @@ https://parkeren.hoorn.nl
 https://parkeren.katwijk.nl
 https://parkeren.leiden.nl
 https://parkeren.meppel.nl
+https://parkeren.middelburg.nl
 https://parkeren.reserveren.leiden.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
@@ -3781,6 +3795,8 @@ https://redactie.antwoord.amsterdam.nl
 https://redirect.leeuwarden.nl
 https://regelen.haarlem.nl
 https://regentesseplein.denhaag.nl
+https://regieportaal-test.middelburg.nl
+https://regieportaal.middelburg.nl
 https://regio.almere.nl
 https://regio.landvancuijk.nl
 https://regiocheckervth-acc.denhaag.nl
@@ -3851,6 +3867,8 @@ https://samenveiligwerken.alphenaandenrijn.nl
 https://samenveiligwerken.kaagenbraassem.nl
 https://samenwerken.groningen.nl
 https://samenwerkenaan.heerde.nl
+https://samenwerkingbelastingen-test.middelburg.nl
+https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
 https://sammy.derondevenen.nl
 https://sammycms.derondevenen.nl
@@ -4243,6 +4261,7 @@ https://testloket.hattem.nl
 https://testloket.heerde.nl
 https://testloket.katwijk.nl
 https://testloket.leusden.nl
+https://testloket.middelburg.nl
 https://testmeldingen.asten.nl
 https://testmijn.lochem.nl
 https://testmijnzaken.derondevenen.nl
@@ -5074,6 +5093,8 @@ https://zoekengemeentearchief.gemeentehulst.nl
 https://zomerprogramma070.denhaag.nl
 https://zonneparking.doemee.bloemendaal.nl
 https://zonneparking.doemee.heemstede.nl
+https://zorg-acc.middelburg.nl
+https://zorg.middelburg.nl
 https://zorgaanbieders.deventer.nl
 https://zorgaanbieders.eindhoven.nl
 https://zorgned-prod.gemeente-steenbergen.nl
