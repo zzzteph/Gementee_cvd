@@ -13,8 +13,8 @@ mail
 mijn
 digikoppeling
 secure
-preproductie
 acceptatie
+preproductie
 simcms
 probeer
 felix
@@ -59,11 +59,11 @@ belastingbalie
 dacceptatieloket
 dacceptatiemidoffice
 api.meldingen-acc
+kaart
 dloket
 dmidoffice
 openpub
 hybrid
-kaart
 flowmailer-tracking
 berichten
 digikoppeling-test
@@ -71,11 +71,12 @@ formulier
 cmsoo
 cloudadapter-test
 zaken
+beeldbank
 loket.acceptatie
 enterpriseregistration
-beeldbank
 govroam
 osbacc
+digikoppeling.test
 mks
 acc-broker
 woningbouwkaart
@@ -85,7 +86,6 @@ test-intranet
 parkeren-test
 piwik
 duurzaam
-digikoppeling.test
 gemeente
 pki
 dtestloket
@@ -99,7 +99,9 @@ financien
 auth
 klantcontact
 samen
+doemee
 kaarten
+jaarstukken
 connect
 test-cmsintranet
 _autodiscover._tcp
@@ -113,11 +115,9 @@ apps
 parkeren-acc
 belastingloket
 simcms-open
-doemee
 www.webmail
 smtp
 dtestmidoffice
-jaarstukken
 transfer
 cmsintranet
 e
@@ -211,8 +211,10 @@ cryptshare
 outlook
 vth
 internetafspraken
+www.intranet
 zaaksysteem
 liquit
+handhaving
 fs
 participatie
 www.acceptatie
@@ -251,8 +253,10 @@ jccapi
 uca
 intranet-acc
 intranetcms
+www.gemeenteraad
 rap
 omgevingswet
+programmabegroting
 key2gbav
 test-secure
 _dmarc
@@ -261,12 +265,10 @@ auth.openstad
 img.openstad
 bestanden
 squit2020
-www.intranet
 en
 ibabs
 mijnsociaaldomein
 gateway
-handhaving
 m
 loket.test
 raadsnet
@@ -295,7 +297,6 @@ formulieren-test
 wifi
 cloud
 www.doemee
-www.gemeenteraad
 acc.piwik
 extern
 gp
@@ -304,7 +305,6 @@ projecten
 erfgoed
 nieuws
 aanmelden
-programmabegroting
 dkdtest
 medewerkers
 woz-loket
@@ -324,6 +324,7 @@ squit2020.acceptatie
 academie
 woz-portaal
 afspraakmaken
+kcc
 testbelastingloket
 mx1
 e.openstad
@@ -450,10 +451,10 @@ webservices
 grondwater
 vergunningen
 socialekaart
-kcc
 mx2
 aeolus
 squit2020publiceren
+raadsinformatie
 duo
 stemvan
 gbionline
@@ -717,7 +718,6 @@ www.belastingbalie
 antispam
 burgerportaal
 mijnsubsidie
-raadsinformatie
 cmsoo.gemeente
 flex
 mijnuitkering
@@ -815,6 +815,7 @@ open-formulieren-test
 insite
 test-insite
 hybrid1
+www.afspraken
 brk
 liber
 pcorsa
@@ -4420,7 +4421,6 @@ outlook2
 spf
 test-digitaalgemeenteloket
 testservices
-www.afspraken
 www.cryptshare
 www.iobjecten-acc
 www.itstore
@@ -5115,3 +5115,8 @@ testembrace
 testmarkt1
 www.zorgwijzer
 zorgwijzer
+bisgemeenteraad
+lior
+regelingen
+www.digitaalfotoarchief
+www.sociaalteam
