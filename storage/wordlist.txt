@@ -10,11 +10,11 @@ mail
 simsite
 afspraken
 webmail
-mijn
 digikoppeling
+mijn
 preproductie
-secure
 simcms
+secure
 loket
 acceptatie
 probeer
@@ -52,6 +52,7 @@ openpdc
 osb
 werkenbij
 hybrid
+digikoppeling-test
 login
 testeloket
 dloket
@@ -60,11 +61,10 @@ loket.acceptatie
 remote
 test-ipa
 zaken
-digikoppeling-test
+berichten
 formulier
 openpub
 mijninkomen
-berichten
 cmsoo
 cloudadapter-test
 meldingen-acc
@@ -74,6 +74,7 @@ piwik
 belastingen
 preprod-mijninkomen
 acc-broker
+woningbouwkaart
 connect
 api.meldingen-acc
 parkeren-test
@@ -82,7 +83,6 @@ snelbalie
 belastingbalie
 financien
 beeldbank
-woningbouwkaart
 cloudadapter
 govroam
 test-intranet
@@ -101,6 +101,7 @@ gemeente
 mks
 nieuwsbrief
 acc-podiumd-logs
+extranet
 belastingloket
 dtestloket
 mdm
@@ -115,6 +116,7 @@ subsidies
 snelbaliepp
 qr
 apps
+email
 openzaak
 parkeren-acc
 auth
@@ -129,7 +131,6 @@ keycloak
 notificaties
 podiumd-logs
 sts
-extranet
 byod
 samen
 simcms-open
@@ -153,7 +154,6 @@ mailing
 preprod
 ns
 onderzoek
-email
 sharefile
 www.acc
 gis
@@ -184,6 +184,7 @@ internetafspraken
 fs
 loket.test
 documenten
+raadsnet
 denkmee
 geovisia
 college
@@ -225,6 +226,7 @@ omgevingswet
 mobiel
 key2gbav
 ro
+woz-loket
 inproces.acceptatie
 inproces
 cryptshare
@@ -234,7 +236,6 @@ img.openstad
 testloket
 testbelastingloket
 handhaving
-raadsnet
 toegang
 vergunningintaker-preprod
 simform-preproductie
@@ -317,7 +318,6 @@ citrix
 programmabegroting
 dkdtest
 www.afspraak
-woz-loket
 storefront
 klantportaal
 outlook
@@ -516,6 +516,7 @@ squit2go-backoffice
 connect.test
 contentbeheer.test
 zaken.test
+pkio1
 ris
 bor
 suite4burgerzaken-prod
@@ -549,6 +550,7 @@ belastingbalie-test
 eformulieren
 bestanden
 router
+digitalebalie
 klantportaal.acc
 prod
 academie
@@ -2258,7 +2260,6 @@ wijzer.test
 www.doe-mee
 www.woz-loket
 VRiSeLoket
-pkio1
 ptr
 vriseloket
 dvg
@@ -2911,7 +2912,6 @@ subsidiebackoffice
 wijken
 G0498
 datab
-digitalebalie
 durp
 g0498
 sb
@@ -4173,3 +4173,5 @@ uipath-orchestrator
 vacatures
 vf.heitje
 www.heitje
+WOZ-loket
+vris-brk
