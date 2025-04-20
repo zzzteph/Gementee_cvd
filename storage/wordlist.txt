@@ -9,8 +9,8 @@ intranet
 mail
 simsite
 afspraken
-webmail
 mijn
+webmail
 digikoppeling
 preproductie
 secure
@@ -25,9 +25,9 @@ acc
 afspraak
 portal
 waarmerk
+meldingen
 dkd
 werkplek
-meldingen
 eloket
 adfs
 broker
@@ -35,11 +35,11 @@ betalen
 gemeenteraad
 geo
 pv
+parkeren
+api.meldingen
 raad
 omgevingsvisie
-parkeren
 open
-api.meldingen
 data
 ruimtelijkeplannen
 vpn
@@ -76,6 +76,7 @@ mijnzorg
 piwik
 preprod-mijninkomen
 snelbalie
+financien
 beeldbank
 acc-broker
 cloudadapter
@@ -84,7 +85,7 @@ connect
 parkeren-test
 kaart
 belastingbalie
-financien
+extranet
 govroam
 test-intranet
 doemee
@@ -105,11 +106,11 @@ gemeente
 mks
 nieuwsbrief
 acc-podiumd-logs
-extranet
 belastingloket
 pki
 mdm
 dtestmidoffice
+jaarstukken
 test-cmsintranet
 mijnzorg-acc
 preprodbroker
@@ -139,8 +140,8 @@ simcms-open
 uc
 www.webmail
 smtp
-jaarstukken
 connect.acceptatie
+begroting
 cmsintranet
 belastingportaal
 midoffice
@@ -181,7 +182,6 @@ squit2go
 contentbeheer.acceptatie
 contentbeheer
 zaken.acceptatie
-begroting
 transfer
 internetafspraken
 fs
@@ -194,6 +194,7 @@ college
 praatmee
 izaaksuite
 wachtwoord
+zoeken
 subsidie
 maps
 thuiswerken
@@ -239,6 +240,7 @@ woz-loket
 inproces.acceptatie
 inproces
 cryptshare
+mijnzaken
 admin.openstad
 auth.openstad
 img.openstad
@@ -257,7 +259,6 @@ preprod-mijn
 autorisatie
 veiligdelen
 www.werkenbij
-zoeken
 makelaar
 veiligmailen
 english
@@ -276,6 +277,7 @@ api
 bouwdossiers
 ftp
 hor
+nieuwsbrieven
 top
 wob
 e-loket
@@ -319,23 +321,26 @@ www.jongin
 erfgoed
 matomo
 citrix
+aanmelden
 programmabegroting
 djumaproxy
 dkdtest
 medewerkers
 www.afspraak
+bor
+archief
 storefront
 klantportaal
 outlook
 burgerloket
 filr
-mijnzaken
 intra
 vth
 www.openstad
 openformulieren-test
 bestuur
 webdav
+bestanden
 webservices
 squit2020.acceptatie
 squit2020
@@ -415,7 +420,6 @@ iga
 magazines
 mas
 melding
-nieuwsbrieven
 nlx
 octopus-portaal
 octopus
@@ -495,7 +499,6 @@ belastingportaal-test
 projecten
 sportaccommodaties
 mycorsanxt
-aanmelden
 g-rooster
 adsync
 autorisatiebeheer-test
@@ -522,7 +525,6 @@ contentbeheer.test
 zaken.test
 pkio1
 ris
-bor
 suite4burgerzaken-prod
 acceptatie.intranet
 efacturen
@@ -530,7 +532,6 @@ subsidies-login.acceptatie
 subsidies-login
 preprod-mijnportaal
 _dmarc
-archief
 datatest
 geoservices
 huisvuilkalender
@@ -556,7 +557,6 @@ acceptatie-open
 centric
 belastingbalie-test
 eformulieren
-bestanden
 router
 digitalebalie
 klantportaal.acc
@@ -4215,3 +4215,6 @@ uaghelm01
 uaghelm02
 welkombij
 wootest
+es
+mijnzaken-test
+tra
