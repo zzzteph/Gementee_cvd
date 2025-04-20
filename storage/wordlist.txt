@@ -51,14 +51,14 @@ meldingen-acc
 data
 omgevingsvisie
 belastingen
-api.meldingen-acc
-openpdc
 login
+api.meldingen-acc
+remote
+ruimtelijkeplannen
+openpdc
 belastingbalie
 dacceptatieloket
 dacceptatiemidoffice
-remote
-ruimtelijkeplannen
 hybrid
 dloket
 dmidoffice
@@ -115,6 +115,7 @@ cmsintranet
 preprodbroker
 vergunningintaker
 e
+mailing
 apps
 nieuwsbrief
 parkeren-acc
@@ -135,7 +136,6 @@ simform
 web
 subsidies-backend
 dali
-mailing
 preprod
 snelbaliepp
 siam
@@ -151,6 +151,7 @@ acc-openklant
 bastion365
 keycloak
 notificaties
+owa
 podiumd-logs
 sip
 sts
@@ -171,6 +172,7 @@ servicedesk
 subsidie
 evenementen
 thuiswerken
+onderzoek
 werkenvoor
 ftp
 legacy
@@ -184,7 +186,6 @@ acc-openzaak
 bag
 objecten
 objecttypen
-owa
 byod
 fmreturn
 guest
@@ -221,7 +222,6 @@ ro-online
 www.duurzaam
 magazine
 ns
-onderzoek
 vdi
 www.test
 api.betalen
@@ -244,6 +244,7 @@ citrix
 omgevingswet
 key2gbav
 test-secure
+_dmarc
 internetafspraken
 bestanden
 squit2020
@@ -299,7 +300,6 @@ woz-loket
 bor
 subsidies-login.acceptatie
 subsidies-login
-_dmarc
 archief
 filr
 mijnzaken
@@ -371,6 +371,7 @@ test-zac
 loket-acc
 plannen
 beeldbank-bo
+geoserver
 kaartviewer
 publicaties
 personeelsplanning
@@ -407,12 +408,15 @@ www.afspraak
 connect.test
 contentbeheer.test
 zaken.test
+ris
 preprod-mijnportaal
 storefront
 topdesk
 geoservices
 klantportaal
 lvs
+smtp1
+smtp2
 sport
 cloudadapter-t
 burgerloket
@@ -426,6 +430,7 @@ webdav
 webformulieren
 webservices
 vergunningen
+socialekaart
 mx2
 aeolus
 squit2020publiceren
@@ -435,6 +440,7 @@ stemvan
 gbionline
 contact
 gemeentewinkel
+support
 www.login
 beeldbankbeheer
 www.werkplek
@@ -568,7 +574,6 @@ test-objecten
 vastgoed
 awmag
 bestemmingsplannen
-geoserver
 accdrop
 nhr
 solliciterenbij
@@ -634,7 +639,6 @@ webcon
 pkio1
 grooster
 idtst
-ris
 collecties
 inproces.test
 suite4burgerzaken-prod
@@ -648,8 +652,6 @@ huisvuilkalender
 kennisportaal
 mfa
 smartdocuments
-smtp1
-smtp2
 www.cjg
 www.omgevingsvisie
 cloudadapter-p
@@ -666,6 +668,7 @@ begraven
 parkeren-siam-test
 parkeren-siam
 centric
+efactuur
 relay
 geoinformatie
 router
@@ -682,7 +685,6 @@ attachments
 authenticatiedienst
 authenticatiedienst.preprod
 edge
-socialekaart
 vergunningintaker.preprod
 kcc
 ondernemen
@@ -714,7 +716,6 @@ director
 mijnmobiel
 nedplan
 secudoc
-support
 www.mijnmobiel
 radius
 tim
@@ -773,6 +774,7 @@ bezoekersparkeren
 bzg1-acc
 digitaal
 key2datadistributie
+tripleforms
 ubwprod
 ubwtest
 vacatures
@@ -810,6 +812,7 @@ werkeninkomen
 testwebsite
 decos
 zorg-acc
+huisnet
 webapps
 email.mail.participatie
 aalten-checker-preprod
@@ -2990,7 +2993,6 @@ training
 preprod-sociaalportaal
 serverruimte
 sociaalportaal
-efactuur
 felixpdc
 menscentraal
 sim-prefill
@@ -4200,7 +4202,6 @@ test-eformulier
 tgws4allsuite4werk
 tgws4allsuite4zorg
 tripleacceptatie
-tripleforms
 tripleproductie
 tripletest
 tsmartdoc
@@ -4905,4 +4906,20 @@ telewerkentest
 awmail
 awtunnel
 exch
-huisnet
+cmshuisnet
+cmshuisnettest
+ddrouter-p
+ddrouter-t
+digikoppeling-p
+digikoppeling-t
+huisnettest
+klooster
+n8n
+payt
+quarantine.dmarc
+raadzaam
+services-p
+services-t
+sportlocaties
+tripleformst
+wlan
