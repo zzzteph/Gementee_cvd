@@ -31,10 +31,10 @@ acc
 waarmerk
 afspraak
 geo
+raad
 vpn
 adfs
 broker
-raad
 api.meldingen
 betalen
 pv
@@ -47,12 +47,12 @@ zaaksysteem-accept
 belastingen
 gemeenteraad
 test-ipa
-openpdc
 testeloket
+openpdc
 openpub
+osb
 dacceptatieloket
 dacceptatiemidoffice
-osb
 dloket
 dmidoffice
 meldingen-acc
@@ -69,17 +69,17 @@ flowmailer-tracking
 enterpriseregistration
 formulier
 beeldbank
+cmsoo
 hybrid
 kaart
 berichten
-cmsoo
 cloudadapter-test
+osbacc
 mks
 acc-broker
 samen
 kaarten
 connect
-osbacc
 financien
 cloudadapter
 belastingloket
@@ -239,8 +239,10 @@ afval
 bis
 openformulieren
 fmreturn
+formulieren-test
 data-test
 xential
+www.jongin
 citrix
 key2gbav
 archief
@@ -293,7 +295,6 @@ ns1
 rooster
 meet
 publicaties
-formulieren-test
 uca
 intranetcms
 www.doemee
@@ -302,7 +303,7 @@ acc.piwik
 extern
 localhost
 mam
-www.jongin
+jongin
 rap
 omgevingswet
 programmabegroting
@@ -370,7 +371,6 @@ digikoppelingtest
 cloud
 gp
 jcccloud
-jongin
 projecten
 erfgoed
 matomo
@@ -787,6 +787,7 @@ squit2go-backoffice
 webcon
 wijzer
 pkio1
+dvg
 idtst
 bor-acc
 mbg2
@@ -2552,7 +2553,6 @@ www.woz-loket
 VRiSeLoket
 ptr
 vriseloket
-dvg
 platform
 www.platform
 joinconnect
@@ -6009,3 +6009,5 @@ subsidiebeleidskaart
 teylingen-checker-preprod
 qmatic
 ucserver
+prp
+wonenwelzijnenzorg
