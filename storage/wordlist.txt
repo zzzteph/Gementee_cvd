@@ -30,9 +30,9 @@ meldingen
 afspraak
 open
 raad
+waarmerk
 geo
 betalen
-waarmerk
 vpn
 api.meldingen
 ruimtelijkeplannen
@@ -40,10 +40,10 @@ parkeren
 adfs
 broker
 pv
-iparticipatie
 enterpriseenrollment
-test-ipa
+iparticipatie
 werkenbij
+test-ipa
 zaaksysteem-accept
 testeloket
 belastingen
@@ -55,9 +55,9 @@ dloket
 dmidoffice
 data
 openpdc
+belastingbalie
 openpub
 osb
-belastingbalie
 meldingen-acc
 login
 api.meldingen-acc
@@ -99,6 +99,7 @@ verkiezingen
 parkeren-test
 piwik
 snelbalie
+siam
 woningbouwkaart
 www.webmail
 squit2go
@@ -108,12 +109,12 @@ portaal
 mijninkomen
 duurzaam
 preprod
-siam
 auth
 bastion365
 obsurv
 filecap
 begroting
+_autodiscover._tcp
 e
 web
 subsidies
@@ -129,7 +130,6 @@ dtestmidoffice
 jaarstukken
 contentbeheer
 belastingportaal
-_autodiscover._tcp
 gisib
 snelbaliepp
 api.betalen
@@ -206,6 +206,7 @@ ro
 bor
 inproces.acceptatie
 outlook
+bestuur
 belastingbalie-test
 bestanden
 squit2020
@@ -233,7 +234,6 @@ intranet-acc
 xential
 archief
 vth
-bestuur
 acceptatie-open
 contact
 mijnsociaaldomein
@@ -248,6 +248,7 @@ belastingen-acc
 cms
 exchange
 gemeentearchief
+mozard
 magazine
 ns
 www.test
@@ -299,7 +300,7 @@ subsidies.acceptatie
 dkd-test
 ro-online
 www.duurzaam
-mozard
+mozardtest
 wion
 api
 app
@@ -357,12 +358,15 @@ stadsarchief
 mijnoverzicht
 msoid
 rpl3
-mozardtest
+test-zaakloket
+testsiam
+zaakloket
 mail1
 atlas
 magazines
 nieuwsbrieven
 octopus
+regelgeving
 geotest
 moh-acc
 moh
@@ -458,9 +462,6 @@ planon
 digitaalnachtregister
 css.openstad
 ssp
-test-zaakloket
-testsiam
-zaakloket
 activesync
 bewustwording
 crl
@@ -475,7 +476,6 @@ melding
 ombudsman
 parkeervergunningen-acc
 parkeervergunningen.acc
-regelgeving
 rekenkamer
 stswigo4it-acc
 stswigo4it
@@ -655,6 +655,7 @@ ews
 www.belastingloket
 awmail
 awtunnel
+digitalebelastingbalie
 edienstenburgerzaken.test
 www.praatmee
 aanvragen
@@ -1097,7 +1098,6 @@ www.iarchief
 www.jcc
 mijnwerkplek
 mijnpost
-digitalebelastingbalie
 service
 bibliotheek
 edison-opl
@@ -1108,6 +1108,7 @@ camera
 qmanage
 pdc.test
 mijnhr
+digitalebelastingbalie-test
 qmatic
 webapps
 email.mail.participatie
@@ -6001,7 +6002,6 @@ tnz-park-01
 tnz-park-02
 tnz-rad-01
 co2monitor
-digitalebelastingbalie-test
 mail.digikoppeling
 mijntexeltest
 mozardproductie

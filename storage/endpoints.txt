@@ -184,6 +184,7 @@ http://autodiscover.veenendaal.nl
 http://autodiscover.venlo.nl
 http://autodiscover.venray.nl
 http://autodiscover.vijfheerenlanden.nl
+http://autodiscover.vlieland.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
@@ -232,6 +233,7 @@ http://felix.kerkrade.nl
 http://felix.loonopzand.nl
 http://felix.staphorst.nl
 http://felix.twenterand.nl
+http://felix.vlieland.nl
 http://flash.scherpenzeel.nl
 http://fm.krimpenerwaard.nl
 http://form-gemeenteloket.gemeentemaastricht.nl
@@ -352,6 +354,7 @@ http://simcms.overbetuwe.nl
 http://simcms.simpelveld.nl
 http://simcms.sonenbreugel.nl
 http://simcms.twenterand.nl
+http://simcms.vlieland.nl
 http://simform-preproductie.heerenveen.nl
 http://simform-preproductie.vlaardingen.nl
 http://simpelveld.nl
@@ -451,6 +454,7 @@ http://www.stadspas.venlo.nl
 http://www.stadstoezicht.amsterdam.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
+http://www.vlieland.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
 http://www.zorgloket.druten.nl
@@ -2137,7 +2141,9 @@ https://digitaalgemeenteloket.kaagenbraassem.nl
 https://digitaalvergaderen.soest.nl
 https://digitalebalie.rotterdam.nl
 https://digitalebelastingbalie-test.texel.nl
+https://digitalebelastingbalie-test.vlieland.nl
 https://digitalebelastingbalie.texel.nl
+https://digitalebelastingbalie.vlieland.nl
 https://digitaleplannen.apeldoorn.nl
 https://digiwap.rotterdam.nl
 https://dijkenwaard.nl
@@ -2688,6 +2694,7 @@ https://enterpriseenrollment.terschelling.nl
 https://enterpriseenrollment.tholen.nl
 https://enterpriseenrollment.veenendaal.nl
 https://enterpriseenrollment.vijfheerenlanden.nl
+https://enterpriseenrollment.vlieland.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone.almere.nl
@@ -4600,11 +4607,13 @@ https://mozard.bunnik.nl
 https://mozard.gooisemeren.nl
 https://mozard.schiermonnikoog.nl
 https://mozard.terschelling.nl
+https://mozard.vlieland.nl
 https://mozardproductie.texel.nl
 https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
 https://mozardtest.schiermonnikoog.nl
 https://mozardtest.terschelling.nl
+https://mozardtest.vlieland.nl
 https://mpinajaar.haarlemmermeer.nl
 https://mpivoorjaar.haarlemmermeer.nl
 https://msm.almelo.nl
@@ -5835,6 +5844,7 @@ https://siam.bunnik.nl
 https://siam.rhenen.nl
 https://siam.schiermonnikoog.nl
 https://siam.terschelling.nl
+https://siam.vlieland.nl
 https://siamtest.bunnik.nl
 https://sibp01.lelystad.nl
 https://sibt01.lelystad.nl
@@ -6290,6 +6300,7 @@ https://test-witgoed.middendrenthe.nl
 https://test-zaakloket.ameland.nl
 https://test-zaakloket.schiermonnikoog.nl
 https://test-zaakloket.terschelling.nl
+https://test-zaakloket.vlieland.nl
 https://test.3d.utrecht.nl
 https://test.api.tod.leiden.nl
 https://test.app.amsterdam.nl
@@ -6380,6 +6391,7 @@ https://testportaal.almelo.nl
 https://testsiam.ameland.nl
 https://testsiam.schiermonnikoog.nl
 https://testsiam.terschelling.nl
+https://testsiam.vlieland.nl
 https://testwebsite.losser.nl
 https://testwozloket.borger-odoorn.nl
 https://testwww.rucphen.nl
@@ -6628,6 +6640,7 @@ https://vinden.heuvelrug.nl
 https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://vlaardingen.nl
+https://vlieland.nl
 https://vogelweide.diemen.nl
 https://voice.leudal.nl
 https://volg.amsterdam.nl
@@ -6824,6 +6837,7 @@ https://werkenbij.scherpenzeel.nl
 https://werkenbij.schiermonnikoog.nl
 https://werkenbij.schouwen-duiveland.nl
 https://werkenbij.sudwestfryslan.nl
+https://werkenbij.vlieland.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -7549,6 +7563,7 @@ https://zaak.tynaarlo.nl
 https://zaakloket.ameland.nl
 https://zaakloket.schiermonnikoog.nl
 https://zaakloket.terschelling.nl
+https://zaakloket.vlieland.nl
 https://zaaksysteem-acc.meppel.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
