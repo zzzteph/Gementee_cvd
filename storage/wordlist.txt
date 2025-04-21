@@ -12,9 +12,9 @@ simsite
 afspraken
 mail
 digikoppeling
+preproductie
 secure
 acceptatie
-preproductie
 simcms
 probeer
 loket
@@ -38,13 +38,13 @@ vpn
 pv
 raad
 ruimtelijkeplannen
+betalen
 iparticipatie
 parkeren
-betalen
 test-ipa
+werkenbij
 gemeenteraad
 enterpriseenrollment
-werkenbij
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
@@ -53,12 +53,12 @@ zaaksysteem-accept
 dloket
 dmidoffice
 meldingen-acc
+omgevingsvisie
 testeloket
 api.meldingen-acc
 data
 openpub
 osb
-omgevingsvisie
 belastingbalie
 remote
 login
@@ -234,6 +234,7 @@ intranet-acc
 xential
 citrix
 vth
+filetransfer
 acceptatie-open
 bestanden
 www.intranet
@@ -294,7 +295,6 @@ ondernemersloket
 admin.openstad
 auth.openstad
 img.openstad
-filetransfer
 belastingbalie-test
 squit2020.acceptatie
 woz-portaal
@@ -433,6 +433,7 @@ awmag
 loket-acc
 plannen
 geoserver
+accdrop
 nhr
 personeelsplanning
 djuma
@@ -473,6 +474,7 @@ buitenoporde
 preprod-mijnportaal
 storefront
 topdesk
+cjg
 geoservices
 klantportaal
 lvs
@@ -496,6 +498,7 @@ mobility
 grondwater
 vergunningen
 mta-sts
+www.socialekaart
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -551,6 +554,7 @@ digitaalloket
 hta
 mijnsociaaldomein-acc
 www.belastingloket
+mijndesktop
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -668,7 +672,6 @@ bedrijfsafval
 vastgoed
 bestemmingsplannen
 pwa
-accdrop
 solliciterenbij
 gisibonline
 sentry
@@ -748,7 +751,6 @@ m1
 m2
 sem
 stats.intranet
-cjg
 huisvuilkalender
 kennisportaal
 mfa
@@ -792,7 +794,6 @@ dok
 www.zorgloket
 zmm
 zorgloket
-www.socialekaart
 www.acc.piwik
 gt-loket
 betaal
@@ -963,7 +964,6 @@ smtp10
 smtp20
 www.afspraakmaken
 mijnwerkplek
-mijndesktop
 webapps
 email.mail.participatie
 aalten-checker-preprod
@@ -5729,3 +5729,10 @@ preprod-mijnwijkteam
 profilemanager
 rdweb01
 squitxo-test
+cmsflash
+flash
+mijnafspraak
+probeer-cjg
+simcms-cjg
+test-cmsflash
+test-flash
