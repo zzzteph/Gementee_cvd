@@ -1381,6 +1381,7 @@ autodiscover.s-hertogenbosch.nl
 autodiscover.schagen.nl
 autodiscover.scherpenzeel.nl
 autodiscover.schiedam.nl
+autodiscover.schiermonnikoog.nl
 autodiscover.sp.haarlemmermeer.nl
 autodiscover.sp.nijmegen.nl
 autodiscover.srh.haarlemmermeer.nl
@@ -3573,6 +3574,7 @@ enterpriseenrollment.opsterland.nl
 enterpriseenrollment.oss.nl
 enterpriseenrollment.rheden.nl
 enterpriseenrollment.roosendaal.nl
+enterpriseenrollment.schiermonnikoog.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone.almere.nl
@@ -3770,6 +3772,7 @@ felix.overbetuwe.nl
 felix.renswoude.nl
 felix.reuseldemierden.nl
 felix.scherpenzeel.nl
+felix.schiermonnikoog.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -6719,8 +6722,10 @@ move010.rotterdam.nl
 mozard.ameland.nl
 mozard.bunnik.nl
 mozard.gooisemeren.nl
+mozard.schiermonnikoog.nl
 mozardtest.ameland.nl
 mozardtest.bunnik.nl
+mozardtest.schiermonnikoog.nl
 mp1.s-hertogenbosch.nl
 mpinajaar.haarlemmermeer.nl
 mpivoorjaar.haarlemmermeer.nl
@@ -8250,6 +8255,7 @@ reflex.s-hertogenbosch.nl
 regelen-acc.haarlem.nl
 regelen.haarlem.nl
 regelgeving.amsterdam.nl
+regelgeving.schiermonnikoog.nl
 regelingen.oegstgeest.nl
 regenboograad.acc.nijmegen.nl
 regentesseplein.denhaag.nl
@@ -8509,6 +8515,7 @@ scheveningen-acc.denhaag.nl
 scheveningen.denhaag.nl
 schiedam.nl
 schiedata.schiedam.nl
+schiermonnikoog.nl
 scholenwijzer-acc.denhaag.nl
 scholenwijzer.denhaag.nl
 school.bibliotheek.rotterdam.nl
@@ -8706,6 +8713,7 @@ siam.gooisemeren.nl
 siam.nijkerk.eu
 siam.rhenen.nl
 siam.s-hertogenbosch.nl
+siam.schiermonnikoog.nl
 siamtest.bunnik.nl
 sibp01.lelystad.nl
 sibt01.lelystad.nl
@@ -8806,6 +8814,7 @@ simcms.reuseldemierden.nl
 simcms.ridderkerk.nl
 simcms.roerdalen.nl
 simcms.scherpenzeel.nl
+simcms.schiermonnikoog.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -8896,6 +8905,7 @@ simsite.reuseldemierden.nl
 simsite.rhenen.nl
 simsite.roerdalen.nl
 simsite.scherpenzeel.nl
+simsite.schiermonnikoog.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -9575,6 +9585,7 @@ test-vergoedingen.nijmegen.nl
 test-website-westland.gemeentewestland.nl
 test-witgoed.middendrenthe.nl
 test-zaakloket.ameland.nl
+test-zaakloket.schiermonnikoog.nl
 test-zac.assen.nl
 test-zac.enschede.nl
 test-zac.gemert-bakel.nl
@@ -9719,6 +9730,7 @@ testportal.borne.nl
 testsecure.lansingerland.nl
 testservices.kaagenbraassem.nl
 testsiam.ameland.nl
+testsiam.schiermonnikoog.nl
 testsuitewiz.nissewaard.nl
 testtsjinstbus.harlingen.nl
 testverseon.haarlemmermeer.nl
@@ -10468,6 +10480,7 @@ werkenbij.noardeast-fryslan.nl
 werkenbij.oudewater.nl
 werkenbij.schagen.nl
 werkenbij.scherpenzeel.nl
+werkenbij.schiermonnikoog.nl
 werkeninkomen-test.leiden.nl
 werkeninkomen-test.leiderdorp.nl
 werkeninkomen.leiden.nl
@@ -11453,6 +11466,7 @@ www.schagen.nl
 www.scherpenzeel.nl
 www.scheveningen.denhaag.nl
 www.schiedam.nl
+www.schiermonnikoog.nl
 www.schoolwijzer.amsterdam.nl
 www.sec.gemeentemaasgouw.nl
 www.sharefile.gemeentewestland.nl
@@ -11676,6 +11690,7 @@ zaak-acc.barneveld.nl
 zaak-dev.barneveld.nl
 zaak.barneveld.nl
 zaakloket.ameland.nl
+zaakloket.schiermonnikoog.nl
 zaaksysteem-acc.meppel.nl
 zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl

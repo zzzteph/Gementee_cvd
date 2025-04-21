@@ -14,8 +14,8 @@ mail
 digikoppeling
 preproductie
 secure
-acceptatie
 simcms
+acceptatie
 probeer
 loket
 felix
@@ -40,11 +40,11 @@ raad
 ruimtelijkeplannen
 betalen
 iparticipatie
-parkeren
-test-ipa
 werkenbij
-gemeenteraad
+parkeren
 enterpriseenrollment
+test-ipa
+gemeenteraad
 zaaksysteem-accept
 belastingen
 dacceptatieloket
@@ -110,6 +110,7 @@ mijninkomen
 subsidies
 snelbalie
 preprod
+siam
 qr
 openzaak
 auth
@@ -126,7 +127,6 @@ squit2go
 begroting
 preprod-mijninkomen
 mailing
-siam
 parkeren-acc
 acc-notificaties
 acc-openklant
@@ -322,6 +322,7 @@ sociaaldomein
 stadsarchief
 exchange
 rpl3
+mozard
 mail2
 wion
 atlas
@@ -399,7 +400,7 @@ digitaalnachtregister
 mijnoverzicht
 msoid
 ssp
-mozard
+mozardtest
 bewustwording
 crl
 app
@@ -602,7 +603,9 @@ qr.testdigitaalgemeenteloket
 samenveiligwerken
 testdigitaalgemeenteloket
 www.centrumbegroot
-mozardtest
+test-zaakloket
+testsiam
+zaakloket
 activesync
 mail1
 redactie
@@ -627,6 +630,7 @@ octopus-portaal
 octopus
 ois
 parkeervergunningen.acc
+regelgeving
 rekenkamer
 social
 sportverhuur
@@ -1117,9 +1121,6 @@ www.alleplannen.centrumbegroot
 www.uwdorpofwijk
 www.zwammerdamdorpskern
 zwammerdamdorpskern
-test-zaakloket
-testsiam
-zaakloket
 a-digikoppeling
 bestandversturen
 debelastingbalie
@@ -1866,7 +1867,6 @@ publiek
 rabbitmq.datapunt
 rds.vga
 redactie.antwoord
-regelgeving
 registraties
 reinigingsrecht-acc
 reinigingsrecht-online
