@@ -19,20 +19,20 @@ simcms
 probeer
 felix
 loket
-test
 formulieren
+test
 eloket
 dkd
 werkplek
 portal
-meldingen
 acc
+meldingen
 open
 afspraak
 geo
+betalen
 waarmerk
 raad
-betalen
 api.meldingen
 vpn
 adfs
@@ -56,17 +56,17 @@ dmidoffice
 openpub
 osb
 omgevingsvisie
+belastingbalie
 meldingen-acc
 data
 login
-belastingbalie
 api.meldingen-acc
 loket.acceptatie
 remote
 digikoppeling-test
+beeldbank
 zaken
 enterpriseregistration
-beeldbank
 cloudadapter-test
 flowmailer-tracking
 kaart
@@ -74,8 +74,8 @@ berichten
 formulier
 cmsoo
 hybrid
-cloudadapter
 kaarten
+cloudadapter
 connect
 denkmee
 osbacc
@@ -128,6 +128,7 @@ _autodiscover._tcp
 e
 web
 preprod-mijninkomen
+afvalkalender
 snelbaliepp
 api.betalen
 apps
@@ -150,13 +151,13 @@ internetafspraken
 preprodbroker
 gisib
 izaaksuite
-afvalkalender
 dali
 mailing
 ftp
 legacy
 acc-notificaties
 acc-openklant
+bgt
 objecten
 objecttypen
 uc
@@ -173,7 +174,6 @@ jcc
 acc-contact
 acc-keycloak
 acc-openzaak
-bgt
 lyncdiscover
 openklant
 gasten
@@ -201,6 +201,7 @@ ro
 bor
 inproces.acceptatie
 outlook
+belastingbalie-test
 squit2020
 afspraakmaken
 www.portal
@@ -228,7 +229,6 @@ xential
 vth
 bestuur
 acceptatie-open
-belastingbalie-test
 bestanden
 contact
 handhaving
@@ -240,6 +240,7 @@ geodata
 servicedesk
 belastingen-acc
 cms
+exchange
 gemeentearchief
 magazine
 www.test
@@ -290,7 +291,6 @@ makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
 dkd-test
-exchange
 ro-online
 www.duurzaam
 mozard
@@ -338,6 +338,7 @@ woz-portaal
 testbelastingloket
 geoportaal
 ibabs
+beeldbankbeheer
 gateway
 cloudadapter-prod
 m
@@ -377,6 +378,7 @@ kaartviewer
 nhr
 personeelsplanning
 simcms-preproductie
+djuma
 klimaatplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
@@ -418,7 +420,6 @@ stemvan
 gemeentewinkel
 support
 radius
-beeldbankbeheer
 tim
 www.werkplek
 acceptatie-intranet
@@ -492,7 +493,6 @@ test-zac
 loket-acc
 plannen
 accdrop
-djuma
 eforms
 sentry
 acceptatieloket
@@ -508,6 +508,7 @@ digid-parkeervergunningen
 mbg1
 elokettest
 wmo
+testformulieren
 automator
 preprod-mijnoverzicht
 2secure
@@ -792,7 +793,6 @@ img.doemee
 ondernemers
 zonneparking.doemee
 oud
-testformulieren
 gms
 wozloket-acc
 mijnzorg-test
@@ -968,6 +968,7 @@ lynccon
 wkpb
 autodiscover.d66
 autodiscover.sp
+email.security
 fortinet
 gisibtest
 gisservices
@@ -1055,6 +1056,7 @@ regieportaal
 zorg-acc
 lokettest
 portaaltest
+mymeeting
 login-pre
 services-test
 awmail
@@ -4087,7 +4089,6 @@ cust-ata01
 dev-apps
 dev-formulieren
 dns
-email.security
 etl
 fortigate
 geoanalytics
@@ -4911,7 +4912,6 @@ datamask
 filter
 flowise
 ggs2-adapter
-mymeeting
 orbit
 scep
 squitxo-server-service
@@ -6376,3 +6376,12 @@ srv4587
 testmks
 tim-app
 vpsweb
+Fmiskoppeling-prod
+Fmiskoppeling-test
+fmiskoppeling-prod
+fmiskoppeling-test
+pdk
+tdk
+vicky-stats
+vicky-tv
+vicky2
