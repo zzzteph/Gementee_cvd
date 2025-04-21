@@ -39,14 +39,14 @@ betalen
 api.meldingen
 broker
 ruimtelijkeplannen
+iparticipatie
 gemeenteraad
 enterpriseenrollment
-iparticipatie
 pv
-werkenbij
 test-ipa
-zaaksysteem-accept
+werkenbij
 testeloket
+zaaksysteem-accept
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
@@ -99,6 +99,7 @@ piwik
 siam
 gemeente
 pki
+filecap
 mijnzorg
 parkeren-test
 snelbalie
@@ -106,8 +107,8 @@ afvalkalender
 duurzaam
 bastion365
 woningbouwkaart
+klantcontact
 www.webmail
-filecap
 dtestmidoffice
 squit2go
 _autodiscover._tcp
@@ -121,8 +122,8 @@ auth
 bgt
 sts
 obsurv
-klantcontact
 micollab
+simcms-open
 begroting
 e
 web
@@ -132,7 +133,6 @@ preprod-mijninkomen
 qr
 acc-formulier
 acc-podiumd-logs
-simcms-open
 mdm
 jaarstukken
 contentbeheer
@@ -202,6 +202,7 @@ preprod-mijn
 wachtwoord
 subsidies-backend
 website
+gemeentearchief
 mail2
 telewerken
 e-loket
@@ -222,6 +223,8 @@ inproces.acceptatie
 belastingbalie-test
 bestanden
 mta-sts
+mx1
+mx2
 www.portal
 mijnzorg-acc
 kennisbank
@@ -231,7 +234,6 @@ subsidie
 melddesk
 thuiswerken
 api.openstad
-gemeentearchief
 werkenvoor
 parkeervergunningen
 woz
@@ -248,8 +250,7 @@ archief
 vth
 filetransfer
 acceptatie-open
-mx1
-mx2
+woz-portaal
 geoportaal
 contact
 mijnsociaaldomein
@@ -287,7 +288,6 @@ ondernemersloket
 admin.openstad
 eformulieren
 academie
-woz-portaal
 www.intranet
 kcc
 en
@@ -418,6 +418,7 @@ autorisatiebeheer-test
 djumaproxy
 logilink
 suite4burgerzaken-test
+sync
 preprod-formulieren
 download
 connect.test
@@ -556,7 +557,6 @@ kassaservice
 mor
 ssd
 suite4burgerzaken
-sync
 test-eloket
 uitwijk
 mbg
@@ -6624,3 +6624,6 @@ smartdoc-wvnacc
 smartdocwvn
 smartdocwvnacc
 wvncmg
+dmz003024
+restore
+wrd131001
