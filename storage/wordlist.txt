@@ -25,8 +25,8 @@ eloket
 test
 werkplek
 portal
-meldingen
 open
+meldingen
 acc
 geo
 waarmerk
@@ -71,17 +71,17 @@ kaart
 enterpriseregistration
 formulier
 cmsoo
+cloudadapter-test
 hybrid
 berichten
-cloudadapter-test
 osbacc
 mks
 acc-broker
+cloudadapter
 samen
 kaarten
 connect
 financien
-cloudadapter
 belastingloket
 govroam
 test-intranet
@@ -112,6 +112,7 @@ mijninkomen
 parkeren-test
 subsidies
 siam
+qr
 acc-formulier
 acc-podiumd-logs
 bastion365
@@ -121,7 +122,6 @@ begroting
 _autodiscover._tcp
 e
 preprod-mijninkomen
-qr
 apps
 openzaak
 acc-mijn
@@ -137,6 +137,7 @@ dtestmidoffice
 squit2go
 contentbeheer
 transfer
+belastingportaal
 preprodbroker
 web
 afvalkalender
@@ -157,7 +158,6 @@ AutoDiscover
 inloggen
 connect.acceptatie
 internetafspraken
-belastingportaal
 simform
 college
 gisib
@@ -219,6 +219,7 @@ preprod-mijnsociaalplein
 intranet-acc
 mobile
 ro
+acceptatie-open
 contact
 www.portal
 midoffice
@@ -250,8 +251,8 @@ key2gbav
 archief
 sport
 vth
+bestuur
 filetransfer
-acceptatie-open
 belastingbalie-test
 bestanden
 www.intranet
@@ -321,7 +322,6 @@ admin.openstad
 auth.openstad
 img.openstad
 openformulieren-test
-bestuur
 eformulieren
 webservices
 squit2020.acceptatie
@@ -374,6 +374,7 @@ wifi
 digikoppelingtest
 cloud
 jcccloud
+belastingportaal-test
 projecten
 erfgoed
 matomo
@@ -482,7 +483,6 @@ csc
 mbg1
 elokettest
 wozloket
-belastingportaal-test
 preprod-mijnoverzicht
 2secure
 sportaccommodaties
@@ -520,6 +520,8 @@ allegroweb
 intra
 mijnloket
 winkelen
+preprod-sociaalportaal
+sociaalportaal
 efactuur
 relay
 webdav
@@ -762,6 +764,7 @@ mijnzorg-test
 rx-mission-publiceren
 voormeldingen
 wim2-acc
+Belastingportaal-test
 netwerk
 beheerbeeldbank
 ig
@@ -840,8 +843,7 @@ gisweb
 parkeren-siam-test
 parkeren-siam
 site
-preprod-sociaalportaal
-sociaalportaal
+serverruimte
 centric
 test-digikoppelingadapter
 dkd.berichtenverkeer
@@ -2451,7 +2453,6 @@ zaalhuur
 brsoribi01
 brsoribi02
 grmks06
-Belastingportaal-test
 woww
 2secureacc
 2securecloud
@@ -3116,7 +3117,6 @@ micc
 parkeeracties-test
 parkeeracties
 training
-serverruimte
 felixpdc
 menscentraal
 sim-prefill
