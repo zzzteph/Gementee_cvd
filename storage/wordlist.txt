@@ -14,21 +14,21 @@ afspraken
 digikoppeling
 acceptatie
 secure
-preproductie
 simcms
+preproductie
 probeer
 loket
 felix
 formulieren
 eloket
-dkd
 test
+dkd
 werkplek
 meldingen
 portal
+open
 acc
 waarmerk
-open
 afspraak
 adfs
 api.meldingen
@@ -38,8 +38,8 @@ raad
 vpn
 pv
 parkeren
-betalen
 ruimtelijkeplannen
+betalen
 werkenbij
 iparticipatie
 gemeenteraad
@@ -86,6 +86,7 @@ dtestloket
 kaarten
 connect
 vergunningintaker
+verkiezingen
 osbacc
 piwik
 duurzaam
@@ -101,7 +102,6 @@ filecap
 mijnzorg
 denkmee
 portaal
-verkiezingen
 parkeren-test
 preprod
 acc-formulier
@@ -125,6 +125,7 @@ keycloak
 notificaties
 podiumd-logs
 klantcontact
+simcms-open
 dtestmidoffice
 squit2go
 test-cmsintranet
@@ -137,7 +138,6 @@ acc-openklant
 objecten
 objecttypen
 micollab
-simcms-open
 mdm
 smtp
 inloggen
@@ -248,6 +248,7 @@ bestanden
 www.intranet
 kcc
 mx1
+en
 liquit
 mijnsociaaldomein
 handhaving
@@ -311,7 +312,6 @@ woz-portaal
 testbelastingloket
 mx2
 geoportaal
-en
 ibabs
 gateway
 cloudadapter-prod

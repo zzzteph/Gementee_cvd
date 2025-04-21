@@ -325,6 +325,7 @@ http://simcms.nederweert.nl
 http://simcms.nieuwkoop.nl
 http://simcms.overbetuwe.nl
 http://simcms.simpelveld.nl
+http://simcms.sonenbreugel.nl
 http://simform-preproductie.heerenveen.nl
 http://simpelveld.nl
 http://simsite.bergen.nl
@@ -2369,6 +2370,7 @@ https://eloket.rhenen.nl
 https://eloket.rucphen.nl
 https://eloket.simpelveld.nl
 https://eloket.someren.nl
+https://eloket.sonenbreugel.nl
 https://eloketstaging.almere.nl
 https://eloketstaging.putten.nl
 https://elokettest.bloemendaal.nl
@@ -2395,6 +2397,7 @@ https://en.gemert-bakel.nl
 https://en.heerlen.nl
 https://en.kerkrade.nl
 https://en.nuenen.nl
+https://en.sonenbreugel.nl
 https://energiebespaaradvies.overbetuwe.nl
 https://energieklussers.rotterdam.nl
 https://energieloket.hilversum.nl
@@ -3193,6 +3196,7 @@ https://iburgerzaken.s-hertogenbosch.nl
 https://iburgerzaken.schagen.nl
 https://iburgerzaken.smallingerland.nl
 https://iburgerzaken.someren.nl
+https://iburgerzaken.sonenbreugel.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -5269,6 +5273,7 @@ https://simcms-open.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.geldrop-mierlo.nl
 https://simcms-open.nuenen.nl
+https://simcms-open.sonenbreugel.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.bladel.nl
 https://simcms-preproductie.kerkrade.nl
@@ -5706,6 +5711,7 @@ https://testeloket.nuenen.nl
 https://testeloket.rhenen.nl
 https://testeloket.simpelveld.nl
 https://testeloket.someren.nl
+https://testeloket.sonenbreugel.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testinloggen.haarlemmermeer.nl
