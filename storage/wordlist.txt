@@ -13,9 +13,9 @@ simsite
 afspraken
 digikoppeling
 secure
-acceptatie
 preproductie
 simcms
+acceptatie
 felix
 probeer
 loket
@@ -62,8 +62,8 @@ cmsoo
 loket.acceptatie
 osb
 meldingen-acc
-api.meldingen-acc
 remote
+api.meldingen-acc
 flowmailer-tracking
 digikoppeling-test
 enterpriseregistration
@@ -71,11 +71,11 @@ beeldbank
 cloudadapter-test
 kaart
 zaken
+hybrid
 berichten
 formulier
 cloudadapter
 kaarten
-hybrid
 parkeren-acc
 mks
 test-intranet
@@ -120,6 +120,7 @@ auth
 bgt
 sts
 obsurv
+klantcontact
 micollab
 dtestmidoffice
 begroting
@@ -130,7 +131,6 @@ preprod-mijninkomen
 qr
 acc-formulier
 acc-podiumd-logs
-klantcontact
 simcms-open
 mdm
 jaarstukken
@@ -151,14 +151,17 @@ notificaties
 owa
 podiumd-logs
 sip
+gasten
 uc
 smtp
 mobiel
 inloggen
+cryptshare
 transfer
 internetafspraken
 maps
 mailing
+vdi
 ftp
 legacy
 acc-notificaties
@@ -166,11 +169,9 @@ acc-openklant
 objecten
 objecttypen
 meedoen
-gasten
 AutoDiscover
 connect.acceptatie
 inproces
-cryptshare
 bestuur
 zaaksysteem
 fs
@@ -178,7 +179,6 @@ college
 veiligdelen
 evenementen
 onderzoek
-vdi
 jcc
 sharefile
 gis
@@ -275,6 +275,7 @@ data-test
 intranetcms
 acc.piwik
 localhost
+jongin
 www.jongin
 test-secure
 woz-loket
@@ -307,6 +308,7 @@ zoeken
 makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
+diensten
 dkd-test
 ro-online
 www.duurzaam
@@ -332,7 +334,6 @@ www.doemee
 extern
 gp
 mam
-jongin
 erfgoed
 rap
 omgevingswet
@@ -364,7 +365,6 @@ bezoekersparkeren
 www.afspraken
 loket.test
 raadsnet
-diensten
 secure-test
 sociaaldomein
 stadsarchief
@@ -453,6 +453,7 @@ radius
 tim
 pip
 www.werkplek
+authenticatie
 acceptatie-intranet
 hpdm
 sso
@@ -623,7 +624,6 @@ www.parkeren
 prtg
 preprod-mijnsociaaldomein
 wmoloket
-authenticatie
 berichtenverkeer
 www.kaarten
 www.mdm
@@ -967,6 +967,7 @@ www.eloket
 ediensten
 pip-preproductie
 telefoon
+mm
 www.mail
 mylex
 rds
@@ -1047,6 +1048,7 @@ parkeerproducten
 siem
 wozportaal
 return
+gvonline
 testwerkplek
 Cloudadapter-test
 cmsjip
@@ -1061,6 +1063,7 @@ bekendmakingen
 test-insite
 veilig
 hybrid1
+www.cryptshare
 brk
 www.woz
 parkeernormen
@@ -1129,6 +1132,7 @@ www.iarchief
 www.jcc
 mijnwerkplek
 mijnpost
+analytics
 bibliotheek
 edison-opl
 www.bibliotheek
@@ -1147,6 +1151,7 @@ videobellen
 nwro
 zwemmen
 wsn-mail
+spamfilter
 webapps
 email.mail.participatie
 aalten-checker-preprod
@@ -3621,7 +3626,6 @@ iis2
 iis3
 maasgouw-checker-preprod
 maasgouw-checker
-mm
 sec
 www.cag
 www.mm
@@ -4406,7 +4410,6 @@ bgthvs
 bgtwdm
 data-acc
 energieloket
-gvonline
 mijnsociaalplein-acc
 vrijwilliger
 vrijwilligerin
@@ -4493,7 +4496,6 @@ outlook2
 spf
 test-digitaalgemeenteloket
 testservices
-www.cryptshare
 www.iobjecten-acc
 www.itstore
 www.ssp
@@ -5431,7 +5433,6 @@ squit2go-test
 taxivooriedereen
 timetell
 afspraak-test
-analytics
 berichten-test
 cloudconnector-test
 cloudconnector
@@ -6576,7 +6577,6 @@ simcms-data
 simcms-subsite8
 simcms-werkenvoor
 simcms-wonen
-spamfilter
 test-potjeswijzer
 wozbezwaar
 ambacht
@@ -6598,3 +6598,13 @@ post
 prefill.test
 testintranet
 wes-x-iis-01
+e-formulieren
+ftpes
+office
+planning
+portal.office.com
+secure2
+testsim
+westmaasenwaal007.simgroephosting04.nl
+wmw-vvc02
+www.wmw-vvc02
