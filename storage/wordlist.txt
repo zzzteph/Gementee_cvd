@@ -10,8 +10,8 @@ mijn
 webmail
 simsite
 mail
-digikoppeling
 afspraken
+digikoppeling
 acceptatie
 secure
 preproductie
@@ -34,9 +34,9 @@ adfs
 api.meldingen
 broker
 geo
+raad
 vpn
 pv
-raad
 parkeren
 betalen
 ruimtelijkeplannen
@@ -47,10 +47,10 @@ enterpriseenrollment
 test-ipa
 zaaksysteem-accept
 belastingen
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 openpdc
-testeloket
 dloket
 dmidoffice
 meldingen-acc
@@ -92,6 +92,7 @@ duurzaam
 gemeente
 parkeren-acc
 woningbouwkaart
+obsurv
 extranet
 test-intranet
 pki
@@ -105,7 +106,6 @@ parkeren-test
 preprod
 acc-formulier
 acc-podiumd-logs
-obsurv
 doemee
 jaarstukken
 begroting
@@ -120,6 +120,7 @@ auth
 acc-mijn
 acc-objecten
 acc-objecttypen
+bastion365
 keycloak
 notificaties
 podiumd-logs
@@ -133,7 +134,6 @@ preprod-mijninkomen
 mailing
 acc-notificaties
 acc-openklant
-bastion365
 objecten
 objecttypen
 micollab
@@ -345,6 +345,7 @@ test-mijn
 test-notificaties
 test-objecttypen
 test-podiumd-logs
+awmag
 beeldbank-bo
 geoserver
 kaartviewer
@@ -446,7 +447,6 @@ test-objecten
 test-openklant
 test-openzaak
 test-zac
-awmag
 loket-acc
 plannen
 accdrop
@@ -460,6 +460,7 @@ live
 mijnsociaalportaal-acc
 mijnsociaalportaal
 zorg
+esb
 zorgmail
 preprod.vergunningintaker
 testcms-intranet
@@ -687,6 +688,14 @@ acc-podiumd-logs.dev
 acc-zac
 bedrijfsafval
 vastgoed
+dk
+dktest
+raad.acceptatie
+sd
+sdtest
+spf-ogone01
+spf-ogone02
+spf-wind
 bestemmingsplannen
 geoserver-test
 pwa
@@ -699,7 +708,6 @@ aovpn
 data.gemnet
 intranetcms-acc
 testberichten
-esb
 helloid
 identity
 wwwtest
@@ -2267,16 +2275,8 @@ www.slimbereikbaar
 www.vastgoed
 deschop.acceptatie
 deschop
-dk
-dktest
 guido
 icm-ast
-raad.acceptatie
-sd
-sdtest
-spf-ogone01
-spf-ogone02
-spf-wind
 testmeldingen
 neuron.prod
 neuron.test
@@ -5818,3 +5818,4 @@ snelbaliebbsuo
 snelbalietestbbsuo
 test-mijnbbsuo
 zorgzaam
+awvpn
