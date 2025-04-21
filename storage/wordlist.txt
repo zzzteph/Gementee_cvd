@@ -226,6 +226,7 @@ mobile
 xential
 ro
 vth
+bestuur
 acceptatie-open
 contact
 midoffice
@@ -259,7 +260,6 @@ sport
 burgerloket
 ondernemersloket
 admin.openstad
-bestuur
 filetransfer
 belastingbalie-test
 bestanden
@@ -333,6 +333,7 @@ webservices
 squit2020.acceptatie
 academie
 woz-portaal
+mta-sts
 testbelastingloket
 mx2
 geoportaal
@@ -407,7 +408,6 @@ test.digikoppeling
 filr
 www.openstad
 digitalebalie
-mta-sts
 squit2020publiceren
 raadsinformatie
 e.openstad
@@ -685,6 +685,7 @@ redactie
 aanmeldenparkeren
 acc-nieuwsbrief
 acc.meldingen
+afs
 algoritmeregister
 api.acc.meldingen
 api.data
@@ -981,6 +982,7 @@ tsjinstbus
 mijn-preproductie
 subsidies-backend-test
 subsidies-test
+bzg1
 key2datadistributie
 tripleforms
 ubwprod
@@ -1368,7 +1370,6 @@ admin.schoolwijzer
 adus
 aeos.acc
 afs.acc
-afs
 afs.ont
 afs.opl
 afs.tst
@@ -4225,7 +4226,6 @@ acc-tripleforms
 api.heitje
 api.melding.acc
 api.melding
-bzg1
 camera-mkr
 casarray
 digitaal-test
@@ -6329,3 +6329,9 @@ zac.cg-intern.acc
 zac.cg-intern.ont
 zac.cg-intern
 zorgprofessionals
+digid-prod
+digilevering
+hcs01
+hcs02
+kgs01
+webpublishing
