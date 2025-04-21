@@ -9,9 +9,9 @@ intranet
 webmail
 mijn
 simsite
+mail
 afspraken
 digikoppeling
-mail
 secure
 acceptatie
 preproductie
@@ -29,9 +29,9 @@ portal
 meldingen
 afspraak
 open
+geo
 raad
 waarmerk
-geo
 vpn
 betalen
 adfs
@@ -44,8 +44,8 @@ enterpriseenrollment
 iparticipatie
 werkenbij
 zaaksysteem-accept
-test-ipa
 gemeenteraad
+test-ipa
 testeloket
 belastingen
 dacceptatieloket
@@ -63,11 +63,11 @@ meldingen-acc
 api.meldingen-acc
 loket.acceptatie
 digikoppeling-test
+cmsoo
 remote
 flowmailer-tracking
 enterpriseregistration
 beeldbank
-cmsoo
 cloudadapter-test
 zaken
 kaart
@@ -192,6 +192,7 @@ preprod-mijn
 wachtwoord
 subsidies-backend
 website
+mail2
 vdi
 email
 sharefile
@@ -222,7 +223,6 @@ subsidie
 melddesk
 thuiswerken
 api.openstad
-mail2
 www.acc
 e-loket
 openstad
@@ -238,6 +238,7 @@ key2gbav
 archief
 vth
 acceptatie-open
+mta-sts
 contact
 mijnsociaaldomein
 handhaving
@@ -264,6 +265,7 @@ meet
 openformulieren
 publicaties
 data-test
+www.gemeenteraad
 acc.piwik
 localhost
 www.jongin
@@ -276,7 +278,6 @@ burgerloket
 ondernemersloket
 admin.openstad
 filetransfer
-mta-sts
 www.intranet
 kcc
 mx1
@@ -320,7 +321,6 @@ intranetcms
 wifi
 digikoppelingtest
 www.doemee
-www.gemeenteraad
 extern
 gp
 mam
@@ -441,6 +441,7 @@ www.werkplek
 acceptatie-intranet
 hpdm
 sso
+geoweb
 testdigikoppeling
 bezoekersparkeren
 digitaal
@@ -630,7 +631,6 @@ autodiscover.cda
 autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
-geoweb
 www2
 ons
 sera
@@ -732,6 +732,7 @@ image.acc-nieuwsbrief
 image.nieuwsbrief
 mas
 mft
+mijnbelastingen
 nlx
 octopus-portaal
 octopus-webdav
@@ -803,6 +804,7 @@ joost
 wwwtest
 acc-openwave
 corona
+key2financien-prod
 key2financien-test
 admin.doemee
 api.doemee
@@ -1063,7 +1065,9 @@ winkel
 wonen
 clicksfm.persberichten
 persberichten
+gisportal
 parkeervergunning-test
+anyconnect
 bestuursrapportage
 nieuw
 parkeren.reserveren
@@ -1095,6 +1099,7 @@ duoloket
 eformulieren-test
 helpmij
 telefonie
+test.open-formulieren
 dev
 smtp10
 smtp20
@@ -1867,7 +1872,6 @@ meldingenweesp
 mft-fa
 microservices.schoolwijzer
 mijn.data
-mijnbelastingen
 mijnerfpacht.acc
 mijnerfpacht
 mijnerfpacht.tst
@@ -2469,7 +2473,6 @@ dusk-acc-openwave
 dusk-openwave
 frontoffice-parkeervergunningen-acc
 frontoffice-parkeervergunningen
-key2financien-prod
 mdr
 openwave
 rp
@@ -4711,7 +4714,6 @@ diogenes
 ediensten-aanvragen
 flowmailer-tracking.parkeervergunning
 fortiguard
-gisportal
 gisportalnew
 goedterechtin
 meldingen-a
@@ -4731,7 +4733,6 @@ acc.easyfunders
 acc.login.subsidie
 acc.subsidie
 accept.subsites
-anyconnect
 api-dev.data
 api-portal-dev.data
 api-portal.data
@@ -5122,7 +5123,6 @@ pm
 sharenet
 test-cmsnopnet
 test-nopnet
-test.open-formulieren
 tportal
 zs
 zst
@@ -6494,3 +6494,10 @@ sl
 sltest
 smartdoctest
 zsnl
+cmsoo.wegwijsplus
+geodb
+mailptr
+preprod-mijnbelastingen
+saas
+wegwijsplus
+www.wegwijsplus
