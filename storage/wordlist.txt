@@ -19,8 +19,8 @@ simcms
 felix
 probeer
 loket
-test
 formulieren
+test
 eloket
 dkd
 werkplek
@@ -30,15 +30,15 @@ meldingen
 afspraak
 open
 geo
+raad
 vpn
 parkeren
 waarmerk
 adfs
-raad
 betalen
 api.meldingen
-ruimtelijkeplannen
 broker
+ruimtelijkeplannen
 enterpriseenrollment
 pv
 gemeenteraad
@@ -58,9 +58,9 @@ openpub
 omgevingsvisie
 login
 belastingbalie
+cmsoo
 loket.acceptatie
 osb
-cmsoo
 meldingen-acc
 api.meldingen-acc
 remote
@@ -74,9 +74,9 @@ zaken
 berichten
 formulier
 cloudadapter
+kaarten
 hybrid
 parkeren-acc
-kaarten
 mks
 test-intranet
 digikoppeling.test
@@ -94,13 +94,13 @@ dtestloket
 test-cmsintranet
 cmsintranet
 portaal
+piwik
 siam
 gemeente
 pki
 mijnzorg
 verkiezingen
 parkeren-test
-piwik
 snelbalie
 afvalkalender
 duurzaam
@@ -136,6 +136,7 @@ mdm
 jaarstukken
 contentbeheer
 belastingportaal
+preprodbroker
 gisib
 izaaksuite
 snelbaliepp
@@ -156,7 +157,6 @@ mobiel
 inloggen
 transfer
 internetafspraken
-preprodbroker
 maps
 mailing
 ftp
@@ -187,6 +187,7 @@ acc-keycloak
 acc-openzaak
 lyncdiscover
 openklant
+formulieren-test
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
@@ -208,7 +209,6 @@ byod
 guest
 iarchief
 publicroam
-formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -220,6 +220,7 @@ belastingbalie-test
 bestanden
 squit2020
 afspraakmaken
+mta-sts
 www.portal
 mijnzorg-acc
 kennisbank
@@ -247,7 +248,6 @@ archief
 vth
 filetransfer
 acceptatie-open
-mta-sts
 mx1
 mx2
 geoportaal
@@ -435,6 +435,7 @@ mijnloket
 www.openstad
 digitalebalie
 mobility
+vergunningen
 www.socialekaart
 gt-loket
 ondernemen
@@ -595,7 +596,7 @@ router
 klantportaal.acc
 prod
 grondwater
-vergunningen
+mta-sts.raad
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -930,7 +931,8 @@ dok
 www.zorgloket
 zmm
 zorgloket
-mta-sts.raad
+acceptatiebelastingen
+acceptatievergunningen
 www.acc.piwik
 betaal
 mx3
@@ -3221,8 +3223,6 @@ test.services
 forms-test
 kcv
 www.remote
-acceptatiebelastingen
-acceptatievergunningen
 duiven-checker-preprod
 duiven-checker
 clv
@@ -6579,3 +6579,10 @@ simcms-wonen
 spamfilter
 test-potjeswijzer
 wozbezwaar
+ambacht
+beekenoord
+geerken
+hamersestraat
+rosmolen
+westervoort-checker-preprod
+westervoort-checker
