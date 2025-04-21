@@ -16,8 +16,8 @@ secure
 acceptatie
 preproductie
 simcms
-probeer
 felix
+probeer
 loket
 formulieren
 test
@@ -32,9 +32,9 @@ open
 raad
 waarmerk
 geo
+vpn
 betalen
 ruimtelijkeplannen
-vpn
 parkeren
 adfs
 api.meldingen
@@ -95,6 +95,7 @@ pki
 dtestloket
 test-cmsintranet
 cmsintranet
+portaal
 verkiezingen
 parkeren-test
 piwik
@@ -105,8 +106,8 @@ www.webmail
 squit2go
 mijnzorg
 vergunningintaker
-portaal
 mijninkomen
+afvalkalender
 duurzaam
 preprod
 auth
@@ -116,10 +117,10 @@ filecap
 begroting
 _autodiscover._tcp
 e
+simform
 web
 subsidies
 preprod-mijninkomen
-afvalkalender
 qr
 acc-formulier
 acc-podiumd-logs
@@ -130,8 +131,8 @@ dtestmidoffice
 jaarstukken
 contentbeheer
 belastingportaal
-simform
 gisib
+dali
 snelbaliepp
 api.betalen
 apps
@@ -153,7 +154,6 @@ transfer
 internetafspraken
 preprodbroker
 izaaksuite
-dali
 mailing
 ftp
 legacy
@@ -243,6 +243,7 @@ handhaving
 midoffice
 vergunningintaker-preprod
 geovisia
+simform-preproductie
 praatmee
 geodata
 servicedesk
@@ -287,7 +288,6 @@ participatie
 www.acceptatie
 documenten
 toegang
-simform-preproductie
 gisib-test
 gisibapi-test
 gisibapi
@@ -545,6 +545,7 @@ storefront
 cjg
 geoservices
 lvs
+mfa
 octopus-acc
 smartdocuments
 smtp1
@@ -875,7 +876,6 @@ fo-parkeervergunningen
 form
 huisvuilkalender
 kennisportaal
-mfa
 parkeerapp.acc
 www.ombudsman
 www.omgevingsvisie
@@ -1098,6 +1098,7 @@ smtp10
 smtp20
 www.afspraakmaken
 www.iarchief
+content
 www.jcc
 mijnwerkplek
 mijnpost
@@ -5245,7 +5246,6 @@ betaallink
 cms-internoss-test
 cms-internoss
 cms-internoss.test
-content
 endpoint
 formulieren.test
 geoportaal.test
@@ -6480,3 +6480,4 @@ camerabuitendienst
 key2financien
 notubiz-recorder
 vdlpki
+wsn-mail
