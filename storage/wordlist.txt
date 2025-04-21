@@ -12,8 +12,8 @@ simsite
 mail
 afspraken
 digikoppeling
-secure
 acceptatie
+secure
 preproductie
 simcms
 probeer
@@ -26,8 +26,8 @@ dkd
 werkplek
 portal
 meldingen
-acc
 open
+acc
 waarmerk
 afspraak
 geo
@@ -138,6 +138,7 @@ transfer
 preprodbroker
 web
 afvalkalender
+dali
 mailing
 snelbaliepp
 api.betalen
@@ -160,9 +161,9 @@ simform
 college
 gisib
 veiligdelen
-dali
 jcc
 ftp
+legacy
 acc-contact
 acc-keycloak
 acc-openzaak
@@ -183,7 +184,6 @@ subsidies-backend
 evenementen
 vdi
 email
-legacy
 telewerken
 owa
 test-digikoppeling
@@ -198,6 +198,7 @@ mijnzorg-acc
 kennisbank
 melddesk
 thuiswerken
+website
 onderzoek
 sharefile
 gis
@@ -226,7 +227,6 @@ servicedesk
 subsidie
 belastingen-acc
 maps
-website
 api.openstad
 cms
 magazine
@@ -584,6 +584,13 @@ digitaal
 teleweb
 vacatures
 monitoring
+aanvragenpreprod
+aanvragenprod
+acceptatie-mobiliteitsplan
+bouwarchief
+edienstenpreprod
+mobiliteitsplan
+website.acceptatie
 wijkteam
 access
 bezoekersparkeren-acc
@@ -955,13 +962,6 @@ parkeerproducten
 siem
 wozportaal
 return
-aanvragenpreprod
-aanvragenprod
-acceptatie-mobiliteitsplan
-bouwarchief
-edienstenpreprod
-mobiliteitsplan
-website.acceptatie
 testwerkplek
 Cloudadapter-test
 communicatie
@@ -6006,3 +6006,4 @@ mijntexeltest
 mozardproductie
 pbx
 subsidiebeleidskaart
+teylingen-checker-preprod
