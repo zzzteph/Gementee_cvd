@@ -12,8 +12,8 @@ simsite
 afspraken
 digikoppeling
 mail
-secure
 acceptatie
+secure
 preproductie
 simcms
 probeer
@@ -21,8 +21,8 @@ felix
 loket
 formulieren
 eloket
-dkd
 test
+dkd
 werkplek
 portal
 acc
@@ -33,9 +33,9 @@ raad
 waarmerk
 afspraak
 vpn
+betalen
 adfs
 broker
-betalen
 api.meldingen
 pv
 ruimtelijkeplannen
@@ -153,6 +153,7 @@ acc-notificaties
 acc-openklant
 objecten
 objecttypen
+sip
 micollab
 uc
 AutoDiscover
@@ -170,7 +171,6 @@ acc-keycloak
 acc-openzaak
 bgt
 openklant
-sip
 gasten
 mobiel
 contentbeheer.acceptatie
@@ -187,6 +187,7 @@ email
 sharefile
 telewerken
 gis
+lyncdiscover
 owa
 test-digikoppeling
 meedoen
@@ -214,7 +215,6 @@ openstad
 woo
 bag
 bis
-lyncdiscover
 byod
 guest
 publicroam
@@ -236,6 +236,7 @@ cms
 magazine
 www.test
 werkenvoor
+woz
 www.acc
 desktop
 opendata
@@ -251,6 +252,8 @@ citrix
 key2gbav
 archief
 sport
+burgerloket
+ondernemersloket
 bestuur
 filetransfer
 belastingbalie-test
@@ -292,7 +295,6 @@ beheer
 parkeervergunning
 parkeervergunningen
 services
-woz
 e-loket
 gbi
 mijngeldzaken
@@ -319,9 +321,7 @@ woz-loket
 subsidies-login
 _dmarc
 topdesk
-burgerloket
 mijnzaken
-ondernemersloket
 admin.openstad
 auth.openstad
 img.openstad
@@ -377,6 +377,7 @@ mijnsociaalportaal
 wij
 digikoppelingtest
 cloud
+wozloket
 jcccloud
 belastingportaal-test
 projecten
@@ -428,6 +429,7 @@ edienstenmijninkomen
 edienstverlening-preprod
 edienstverlening
 autorisatie
+pub
 testafspraken
 veiligmailen
 english
@@ -485,7 +487,6 @@ testcms-intranet
 csc
 mbg1
 elokettest
-wozloket
 automator
 preprod-mijnoverzicht
 2secure
@@ -524,6 +525,12 @@ allegroweb
 intra
 mijnloket
 winkelen
+financielestukken
+gdintaker
+preprodgdintaker
+preprodscbroker
+scbroker
+www.financielestukken
 preprod-sociaalportaal
 sociaalportaal
 efactuur
@@ -620,7 +627,6 @@ datalab
 gen1
 ldap
 notubiz
-pub
 subsidiebeheer
 subsidieloket
 api-meldingen.acc
@@ -836,13 +842,7 @@ staging
 www.staging
 zorgaanbieders
 begraven
-financielestukken
-gdintaker
-preprodgdintaker
-preprodscbroker
 programmabegroting2024.financielestukken
-scbroker
-www.financielestukken
 gisweb
 parkeren-siam-test
 parkeren-siam
