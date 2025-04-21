@@ -33,20 +33,20 @@ afspraak
 adfs
 api.meldingen
 broker
-geo
 raad
+geo
 vpn
 pv
 parkeren
-ruimtelijkeplannen
 betalen
+ruimtelijkeplannen
 werkenbij
-iparticipatie
 gemeenteraad
+iparticipatie
+belastingen
 enterpriseenrollment
 test-ipa
 zaaksysteem-accept
-belastingen
 testeloket
 dacceptatieloket
 dacceptatiemidoffice
@@ -176,6 +176,7 @@ evenementen
 snelbaliepp
 vdi
 jcc
+api.betalen
 email
 ftp
 legacy
@@ -194,7 +195,6 @@ mijnzorg-acc
 kennisbank
 melddesk
 onderzoek
-api.betalen
 telewerken
 gis
 openstad
@@ -213,6 +213,7 @@ cryptshare
 zaaksysteem
 contact
 www.portal
+fs
 midoffice
 vergunningintaker-preprod
 praatmee
@@ -252,7 +253,6 @@ en
 liquit
 mijnsociaaldomein
 handhaving
-fs
 participatie
 www.acceptatie
 documenten
@@ -283,6 +283,7 @@ mijngeldzaken
 ns1
 meet
 openformulieren
+publicaties
 formulieren-test
 uca
 intranetcms
@@ -349,7 +350,6 @@ awmag
 beeldbank-bo
 geoserver
 kaartviewer
-publicaties
 simcms-preproductie
 wij
 wifi
@@ -554,6 +554,7 @@ autodiscover.cda
 autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
+geoweb
 testdigikoppeling
 www2
 sera
@@ -877,6 +878,7 @@ ucweb01-ext
 aaa
 vergaderingen
 trobit
+xential-test
 stats
 verhuursport
 begroting2018
@@ -900,7 +902,6 @@ wkpb
 autodiscover.d66
 autodiscover.sp
 fortinet
-geoweb
 gisibtest
 gisservices
 jccbetalen
@@ -990,6 +991,7 @@ huisnet
 raadzaam
 formulier.accp
 helpmij
+telefonie
 smtp10
 smtp20
 www.afspraakmaken
@@ -3659,7 +3661,6 @@ test-intra
 thuiswerken-uitwijk
 vpn-extern
 wdm01
-xential-test
 afspraken2
 bliek-acc
 bliek
@@ -5099,7 +5100,6 @@ lvbgt
 nopnet
 pm
 sharenet
-telefonie
 test-cmsnopnet
 test-nopnet
 test.open-formulieren
@@ -5819,3 +5819,12 @@ snelbalietestbbsuo
 test-mijnbbsuo
 zorgzaam
 awvpn
+belastingen-preprod
+bombay
+delhi
+raadsarchief
+shantou
+stan-acc
+stan
+wenen
+xential-prod
