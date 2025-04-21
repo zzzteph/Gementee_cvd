@@ -33,16 +33,16 @@ geo
 raad
 waarmerk
 vpn
+parkeren
 betalen
 adfs
-ruimtelijkeplannen
-parkeren
 api.meldingen
+ruimtelijkeplannen
 broker
 pv
 enterpriseenrollment
-iparticipatie
 werkenbij
+iparticipatie
 zaaksysteem-accept
 gemeenteraad
 test-ipa
@@ -59,9 +59,9 @@ belastingbalie
 openpub
 osb
 login
+loket.acceptatie
 meldingen-acc
 api.meldingen-acc
-loket.acceptatie
 digikoppeling-test
 cmsoo
 remote
@@ -77,6 +77,7 @@ hybrid
 cloudadapter
 kaarten
 mks
+parkeren-acc
 extranet
 govroam
 test-intranet
@@ -85,7 +86,6 @@ denkmee
 osbacc
 financien
 digikoppeling.test
-parkeren-acc
 acc-broker
 belastingloket
 samen
@@ -148,6 +148,7 @@ owa
 podiumd-logs
 sip
 micollab
+uc
 mdm
 smtp
 mobiel
@@ -163,7 +164,6 @@ acc-openklant
 objecten
 objecttypen
 gasten
-uc
 AutoDiscover
 inloggen
 connect.acceptatie
@@ -223,6 +223,7 @@ subsidie
 melddesk
 thuiswerken
 api.openstad
+parkeervergunningen
 www.acc
 e-loket
 openstad
@@ -257,7 +258,6 @@ magazine
 ns
 www.test
 werkenvoor
-parkeervergunningen
 woz
 desktop
 ns1
@@ -397,6 +397,8 @@ mijnsociaalportaal
 wij
 zorg
 cloud
+csc
+mbg1
 elokettest
 wozloket
 jcccloud
@@ -520,9 +522,7 @@ identity
 zorgmail
 preprod.vergunningintaker
 testcms-intranet
-csc
 digid-parkeervergunningen
-mbg1
 wmo
 testformulieren
 automator
@@ -538,11 +538,13 @@ suite4burgerzaken
 sync
 test-eloket
 uitwijk
+mbg
 preprod-formulieren
 clicksfm
 www.afspraak
 pkio1
 inproces.test
+mbg2
 buitenoporde
 preprod-mijnportaal
 storefront
@@ -604,6 +606,7 @@ corsa-test
 mijnmobiel
 www.login
 liquitsatellite
+www.parkeren
 prtg
 preprod-mijnsociaaldomein
 wmoloket
@@ -777,6 +780,7 @@ acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
 acc-zac
+werknemersportaal
 www.vastgoed
 dk
 dktest
@@ -844,7 +848,6 @@ view
 womserver-test
 womserver
 siamtest
-mbg
 link
 osbtest
 qr-acc
@@ -857,7 +860,6 @@ wijzer
 dvg
 idtst
 bor-acc
-mbg2
 suite4burgerzaken-prod
 acceptatie.intranet
 efacturen
@@ -945,7 +947,6 @@ secudoc
 www.mijnmobiel
 www.djuma
 www.eloket
-www.parkeren
 ediensten
 pip-preproductie
 telefoon
@@ -1065,7 +1066,9 @@ winkel
 wonen
 clicksfm.persberichten
 persberichten
+api.meldingen-a
 gisportal
+meldingen-a
 parkeervergunning-test
 anyconnect
 bestuursrapportage
@@ -1122,6 +1125,7 @@ pdc.test
 mijnhr
 digitalebelastingbalie-test
 qmatic
+videobellen
 nwro
 webapps
 email.mail.participatie
@@ -2366,7 +2370,6 @@ wbs003
 wbs004
 web2print
 webconf
-werknemersportaal
 widocmksp001
 woningdossier
 wpdagast1
@@ -4706,7 +4709,6 @@ acc.open-formulieren
 acc.opennotificaties
 acc.openzaak
 afscheidcrone
-api.meldingen-a
 bestandverzenden
 democritus
 deurwaarderportaal
@@ -4716,7 +4718,6 @@ flowmailer-tracking.parkeervergunning
 fortiguard
 gisportalnew
 goedterechtin
-meldingen-a
 nllwd-spider
 ondernemend
 ows-webapi-test
@@ -6311,7 +6312,6 @@ uren
 urenapp
 vastgoedaanbod
 vault.cg-intern.acc
-videobellen
 videobellenwsd
 webmailacc
 werkregelingen-acc
@@ -6501,3 +6501,7 @@ preprod-mijnbelastingen
 saas
 wegwijsplus
 www.wegwijsplus
+e.videobellen
+gebiedsteam
+squit2go-acc
+squit2go-beheer-acc
