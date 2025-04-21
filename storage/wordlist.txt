@@ -28,8 +28,8 @@ portal
 meldingen
 acc
 open
-afspraak
 geo
+afspraak
 raad
 betalen
 waarmerk
@@ -38,8 +38,8 @@ vpn
 adfs
 broker
 pv
-ruimtelijkeplannen
 parkeren
+ruimtelijkeplannen
 iparticipatie
 werkenbij
 test-ipa
@@ -69,22 +69,22 @@ cloudadapter-test
 zaken
 flowmailer-tracking
 kaart
+berichten
 enterpriseregistration
 formulier
 cmsoo
 hybrid
-berichten
 cloudadapter
 denkmee
 osbacc
 mks
 acc-broker
+extranet
 govroam
 samen
 kaarten
 connect
 financien
-extranet
 belastingloket
 test-intranet
 dtestloket
@@ -99,6 +99,7 @@ doemee
 www.webmail
 mijnzorg
 vergunningintaker
+parkeren-test
 piwik
 duurzaam
 preprod
@@ -110,7 +111,6 @@ test-cmsintranet
 cmsintranet
 portaal
 mijninkomen
-parkeren-test
 subsidies
 siam
 qr
@@ -256,6 +256,7 @@ data-test
 www.jongin
 citrix
 key2gbav
+woz-loket
 archief
 sport
 burgerloket
@@ -321,7 +322,6 @@ omgevingswet
 programmabegroting
 test-secure
 medewerkers
-woz-loket
 subsidies-login
 _dmarc
 topdesk
@@ -408,6 +408,7 @@ test.digikoppeling
 filr
 www.openstad
 digitalebalie
+socialekaart
 squit2020publiceren
 raadsinformatie
 e.openstad
@@ -519,6 +520,7 @@ uitwijk
 preprod-formulieren
 clicksfm
 www.afspraak
+pkio1
 ris
 collecties
 inproces.test
@@ -546,6 +548,8 @@ preprodgdintaker
 preprodscbroker
 scbroker
 www.financielestukken
+parkeren-siam-test
+parkeren-siam
 preprod-sociaalportaal
 sociaalportaal
 efactuur
@@ -562,7 +566,6 @@ attachments
 authenticatiedienst
 authenticatiedienst.preprod
 edge
-socialekaart
 vergunningintaker.preprod
 www.piwik
 ondernemen
@@ -612,6 +615,7 @@ autodiscover.vvd
 geoweb
 testdigikoppeling
 www2
+ons
 sera
 rxlaunch-signicat-preprod
 vthbroker
@@ -823,7 +827,6 @@ publicatie
 squit2go-backoffice
 webcon
 wijzer
-pkio1
 dvg
 idtst
 bor-acc
@@ -871,8 +874,7 @@ zorgaanbieders
 begraven
 programmabegroting2024.financielestukken
 gisweb
-parkeren-siam-test
-parkeren-siam
+parkeeracties
 site
 serverruimte
 centric
@@ -933,6 +935,7 @@ clicksfm.nieuwsbrief
 test-meedoen
 ucconf01
 ucweb01-ext
+snelbalievergunningen
 vergaderingen
 webservices-ot
 trobit
@@ -972,7 +975,6 @@ testmijn
 testzaken
 www.sts
 www.vpn
-ons
 samenwijzer
 preprod-burgerportaal
 tunnel
@@ -991,6 +993,8 @@ key2datadistributie
 tripleforms
 ubwprod
 ubwtest
+WOZ-loket
+vris-brk
 werken
 preprod-meedoen
 e2s
@@ -3128,7 +3132,6 @@ hetsociaalplein
 kijk
 micc
 parkeeracties-test
-parkeeracties
 training
 felixpdc
 menscentraal
@@ -3679,7 +3682,6 @@ acc-afvalkalender
 grmks01
 rostar
 samenspel
-snelbalievergunningen
 testparkeren
 acceptatie.oranjeplein
 jvs
@@ -4281,8 +4283,6 @@ tubweau
 uipath-orchestrator
 vf.heitje
 www.heitje
-WOZ-loket
-vris-brk
 api-hetravijn
 hellendoorn-checker-preprod
 hellendoorn-checker
@@ -6337,3 +6337,6 @@ kgs01
 webpublishing
 as
 valk99
+parkeernorm
+snelbalievergunningen-test
+waterberging
