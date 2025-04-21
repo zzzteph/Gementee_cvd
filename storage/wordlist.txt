@@ -21,8 +21,8 @@ felix
 loket
 formulieren
 eloket
-dkd
 test
+dkd
 werkplek
 portal
 meldingen
@@ -30,16 +30,16 @@ acc
 open
 waarmerk
 afspraak
+geo
 vpn
 adfs
-geo
 broker
 raad
 api.meldingen
+betalen
 pv
 ruimtelijkeplannen
 parkeren
-betalen
 werkenbij
 iparticipatie
 belastingen
@@ -47,11 +47,11 @@ gemeenteraad
 enterpriseenrollment
 test-ipa
 zaaksysteem-accept
-testeloket
 openpdc
+testeloket
+openpub
 dacceptatieloket
 dacceptatiemidoffice
-openpub
 osb
 dloket
 dmidoffice
@@ -78,13 +78,13 @@ mks
 acc-broker
 samen
 kaarten
+connect
 osbacc
 financien
 cloudadapter
 belastingloket
 govroam
 test-intranet
-connect
 verkiezingen
 digikoppeling.test
 parkeren-acc
@@ -140,6 +140,7 @@ web
 afvalkalender
 mailing
 snelbaliepp
+api.betalen
 apps
 nieuwsbrief
 acc-notificaties
@@ -161,7 +162,6 @@ gisib
 veiligdelen
 dali
 jcc
-api.betalen
 ftp
 acc-contact
 acc-keycloak
@@ -176,6 +176,7 @@ zaken.acceptatie
 inproces
 cryptshare
 testloket
+preprod-mijn
 izaaksuite
 wachtwoord
 subsidies-backend
@@ -195,7 +196,6 @@ squit2020
 afspraakmaken
 mijnzorg-acc
 kennisbank
-preprod-mijn
 melddesk
 thuiswerken
 onderzoek
@@ -274,6 +274,7 @@ makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
 dkd-test
+exchange
 gemeentearchief
 ro-online
 www.duurzaam
@@ -334,7 +335,6 @@ diensten
 secure-test
 sociaaldomein
 stadsarchief
-exchange
 mijnoverzicht
 rpl3
 mozardtest
@@ -948,6 +948,7 @@ key2datadistributie
 tripleforms
 ubwprod
 ubwtest
+werken
 preprod-meedoen
 e2s
 parkeerproducten
@@ -1006,6 +1007,7 @@ stuf
 kadernota
 regieportaal
 zorg-acc
+lokettest
 portaaltest
 login-pre
 services-test
@@ -1025,6 +1027,7 @@ smtp20
 www.afspraakmaken
 www.jcc
 mijnwerkplek
+digitalebelastingbalie
 camera
 pdc.test
 webapps
@@ -4270,7 +4273,6 @@ vf.heitje
 www.heitje
 WOZ-loket
 vris-brk
-werken
 api-hetravijn
 hellendoorn-checker-preprod
 hellendoorn-checker
@@ -4877,7 +4879,6 @@ www.remotewerken
 belastingtest
 burgerpanel
 link.burgerpanel
-lokettest
 md02
 md04
 mdfg01
@@ -5417,7 +5418,6 @@ analytics
 berichten-test
 cloudconnector-test
 cloudconnector
-digitalebelastingbalie
 foto-bo
 keerpunt
 mijnhulpvraag
@@ -6000,3 +6000,9 @@ tnz-park-01
 tnz-park-02
 tnz-rad-01
 co2monitor
+digitalebelastingbalie-test
+mail.digikoppeling
+mijntexeltest
+mozardproductie
+pbx
+subsidiebeleidskaart
