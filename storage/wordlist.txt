@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-mijn
 webmail
+mijn
 simsite
 afspraken
 digikoppeling
@@ -25,13 +25,13 @@ dkd
 test
 werkplek
 portal
+acc
 open
 meldingen
-acc
 geo
+raad
 waarmerk
 afspraak
-raad
 vpn
 adfs
 broker
@@ -56,13 +56,13 @@ osb
 dloket
 dmidoffice
 meldingen-acc
+data
 omgevingsvisie
+login
 belastingbalie
 api.meldingen-acc
 loket.acceptatie
 remote
-data
-login
 digikoppeling-test
 beeldbank
 zaken
@@ -90,6 +90,7 @@ dtestloket
 verkiezingen
 digikoppeling.test
 parkeren-acc
+woningbouwkaart
 extranet
 www.webmail
 vergunningintaker
@@ -99,7 +100,6 @@ duurzaam
 preprod
 gemeente
 auth
-woningbouwkaart
 obsurv
 pki
 doemee
@@ -121,6 +121,7 @@ dtestmidoffice
 jaarstukken
 squit2go
 begroting
+belastingportaal
 _autodiscover._tcp
 e
 preprod-mijninkomen
@@ -132,13 +133,13 @@ acc-objecttypen
 keycloak
 notificaties
 podiumd-logs
+sts
 klantcontact
 mdm
 smtp
 contentbeheer
 transfer
 internetafspraken
-belastingportaal
 preprodbroker
 web
 afvalkalender
@@ -152,7 +153,6 @@ acc-notificaties
 acc-openklant
 objecten
 objecttypen
-sts
 micollab
 uc
 AutoDiscover
@@ -202,6 +202,7 @@ www.portal
 fs
 mijnzorg-acc
 kennisbank
+maps
 melddesk
 thuiswerken
 website
@@ -230,7 +231,6 @@ praatmee
 servicedesk
 subsidie
 belastingen-acc
-maps
 api.openstad
 cms
 magazine
@@ -415,6 +415,9 @@ cars
 www.denkmee
 www.afspraken
 www.samen
+belastingportaal.acc
+inloggen.belastingportaal
+inloggen.belastingportaal.acc
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -610,9 +613,6 @@ prefill
 huisstijl
 www.belastingloket
 mijndesktop
-belastingportaal.acc
-inloggen.belastingportaal
-inloggen.belastingportaal.acc
 edienstenburgerzaken.test
 www.praatmee
 aanvragen
@@ -736,6 +736,7 @@ geoserver-test
 pwa
 k2fin
 solliciterenbij
+zaak
 gisibonline
 werkomgeving
 koppelvlak
@@ -2343,7 +2344,6 @@ patternlab
 tr
 zaak-acc
 zaak-dev
-zaak
 alarm
 baglevering
 simcms2
@@ -6070,3 +6070,8 @@ webmail3
 www.automator2
 www.iarchieftest
 www.kofax
+ontdek
+trouwen
+tyn-makelaar
+webreserveren
+zaaktest
