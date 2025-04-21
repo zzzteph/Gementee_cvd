@@ -17,8 +17,8 @@ acceptatie
 preproductie
 simcms
 probeer
-felix
 loket
+felix
 formulieren
 eloket
 test
@@ -62,13 +62,13 @@ osb
 login
 belastingbalie
 remote
+loket.acceptatie
 digikoppeling-test
 formulier
-loket.acceptatie
+zaken
 flowmailer-tracking
 hybrid
 cmsoo
-zaken
 kaart
 enterpriseregistration
 beeldbank
@@ -84,6 +84,7 @@ cloudadapter
 govroam
 dtestloket
 kaarten
+vergunningintaker
 osbacc
 piwik
 duurzaam
@@ -96,7 +97,6 @@ www.webmail
 filecap
 connect
 mijnzorg
-vergunningintaker
 denkmee
 portaal
 verkiezingen
@@ -128,6 +128,7 @@ squit2go
 begroting
 test-cmsintranet
 cmsintranet
+web
 preprod-mijninkomen
 mailing
 acc-notificaties
@@ -146,7 +147,8 @@ internetafspraken
 belastingportaal
 preprodbroker
 e
-web
+gisib
+afvalkalender
 dali
 apps
 nieuwsbrief
@@ -165,13 +167,12 @@ connect.acceptatie
 inproces
 testloket
 simform
-gisib
+college
 izaaksuite
 veiligdelen
 wachtwoord
 subsidies-backend
 evenementen
-afvalkalender
 snelbaliepp
 vdi
 jcc
@@ -190,7 +191,6 @@ outlook
 squit2020
 mijnzorg-acc
 kennisbank
-college
 melddesk
 onderzoek
 telewerken
@@ -211,6 +211,7 @@ afspraakmaken
 contact
 www.portal
 midoffice
+vergunningintaker-preprod
 praatmee
 preprod-mijn
 servicedesk
@@ -252,7 +253,11 @@ participatie
 www.acceptatie
 documenten
 toegang
-vergunningintaker-preprod
+gisib-test
+gisibapi-test
+gisibapi
+gisibgeoserver-test
+gisibgeoserver
 www.werkenbij
 zoeken
 geodata
@@ -312,11 +317,6 @@ m
 loket.test
 raadsnet
 geovisia
-gisib-test
-gisibapi-test
-gisibapi
-gisibgeoserver-test
-gisibgeoserver
 diensten
 secure-test
 sociaaldomein
@@ -553,6 +553,8 @@ autodiscover.vvd
 testdigikoppeling
 www2
 sera
+rxlaunch-signicat-preprod
+vthbroker
 teleweb
 vacatures
 monitoring
@@ -897,8 +899,6 @@ samenwijzer
 preprod-burgerportaal
 zwemles
 webkassa
-rxlaunch-signicat-preprod
-vthbroker
 mijn-preproductie
 subsidies-backend-test
 subsidies-test
@@ -5796,3 +5796,7 @@ quarantaine
 secure-t
 test-internetafspraken
 uitvaartplanner
+camera
+sliedrecht-checker-preprod
+sliedrecht-checker
+vvb
