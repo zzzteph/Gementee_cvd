@@ -1,0 +1,9 @@
+http://felix.staphorst.nl
+https://aaa.staphorst.nl
+https://epos.staphorst.nl
+https://iburgerzaken.staphorst.nl
+https://intranet.staphorst.nl
+https://mijn.staphorst.nl
+https://simcms.staphorst.nl
+https://sso.staphorst.nl
+https://staphorst.nl

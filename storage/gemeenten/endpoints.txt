@@ -215,6 +215,7 @@ http://felix.gemeentemaasgouw.nl
 http://felix.heerlen.nl
 http://felix.kerkrade.nl
 http://felix.loonopzand.nl
+http://felix.staphorst.nl
 http://flash.scherpenzeel.nl
 http://fm.krimpenerwaard.nl
 http://form-gemeenteloket.gemeentemaastricht.nl
@@ -438,6 +439,7 @@ https://WOZ-loket.heeze-leende.nl
 https://Www.lochem.nl
 https://a-consent.sarphati.amsterdam.nl
 https://a-surveys3.ggd.amsterdam.nl
+https://aaa.staphorst.nl
 https://aaenhunze.nl
 https://aalsmeer.nl
 https://aalten-checker-preprod.aalten.nl
@@ -2467,6 +2469,7 @@ https://enterpriseregistration.rheden.nl
 https://enterpriseregistration.roosendaal.nl
 https://eopenstad.gemeentewestland.nl
 https://epe.nl
+https://epos.staphorst.nl
 https://epp.denhaag.nl
 https://erfgoed.breda.nl
 https://erfgoed.gemert-bakel.nl
@@ -3206,6 +3209,7 @@ https://iburgerzaken.schagen.nl
 https://iburgerzaken.smallingerland.nl
 https://iburgerzaken.someren.nl
 https://iburgerzaken.sonenbreugel.nl
+https://iburgerzaken.staphorst.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3382,6 +3386,7 @@ https://intranet.peelenmaas.nl
 https://intranet.rucphen.nl
 https://intranet.schouwen-duiveland.nl
 https://intranet.sittard-geleen.nl
+https://intranet.staphorst.nl
 https://intranet2.gulpen-wittem.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.landvancuijk.nl
@@ -4014,6 +4019,7 @@ https://mijn.schiedam.nl
 https://mijn.schouwen-duiveland.nl
 https://mijn.sittard-geleen.nl
 https://mijn.soest.nl
+https://mijn.staphorst.nl
 https://mijn.test.oss.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnacc.montfoort.nl
@@ -5313,6 +5319,7 @@ https://simcms.opmeer.nl
 https://simcms.opsterland.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
+https://simcms.staphorst.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-test.rijswijk.nl
 https://simform.gemeentehw.nl
@@ -5447,6 +5454,7 @@ https://squitxo.rijssen-holten.nl
 https://squitxo.schagen.nl
 https://ssl.roermond.nl
 https://sso.ir.rotterdam.nl
+https://sso.staphorst.nl
 https://ssorad.rotterdam.nl
 https://ssp-acc.purmerend.nl
 https://ssp.purmerend.nl
@@ -5479,6 +5487,7 @@ https://staging.stemvan.groningen.nl
 https://stan-acc.stadskanaal.nl
 https://stan.stadskanaal.nl
 https://standplaatsen.heerenveen.nl
+https://staphorst.nl
 https://stappenteller.rotterdam.nl
 https://start.almelo.nl
 https://start.beverwijk.nl

@@ -7,18 +7,18 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mijn
-webmail
 simsite
+webmail
 mail
 afspraken
 digikoppeling
 acceptatie
-secure
 simcms
 preproductie
+secure
 probeer
-loket
 felix
+loket
 formulieren
 eloket
 test
@@ -32,9 +32,9 @@ waarmerk
 afspraak
 adfs
 api.meldingen
+geo
 broker
 raad
-geo
 vpn
 pv
 parkeren
@@ -106,6 +106,7 @@ parkeren-test
 preprod
 acc-formulier
 acc-podiumd-logs
+simcms-open
 doemee
 jaarstukken
 begroting
@@ -125,7 +126,7 @@ keycloak
 notificaties
 podiumd-logs
 klantcontact
-simcms-open
+mdm
 dtestmidoffice
 squit2go
 test-cmsintranet
@@ -138,7 +139,6 @@ acc-openklant
 objecten
 objecttypen
 micollab
-mdm
 smtp
 inloggen
 contentbeheer
@@ -194,6 +194,7 @@ afspraakmaken
 mijnzorg-acc
 kennisbank
 melddesk
+thuiswerken
 onderzoek
 telewerken
 gis
@@ -222,7 +223,6 @@ servicedesk
 subsidie
 belastingen-acc
 maps
-thuiswerken
 website
 api.openstad
 cms
@@ -539,6 +539,7 @@ wmoloket
 authenticatie
 berichtenverkeer
 de
+aaa
 preprod-belastingportaal
 squitxo
 hpdm
@@ -546,6 +547,7 @@ online
 neuron
 aov
 mijn-acc
+sso
 validsign
 gemeentebestuur
 lyncweb
@@ -860,6 +862,7 @@ www.djuma
 www.eloket
 ediensten
 pip
+telefoon
 www.mail
 prtg
 mylex
@@ -875,7 +878,6 @@ belastingen-test
 test-meedoen
 ucconf01
 ucweb01-ext
-aaa
 vergaderingen
 trobit
 xential-test
@@ -891,7 +893,6 @@ mijngkb
 open-formulieren
 ows-app
 rekentool
-sso
 www.begroting
 www.stemvan
 corsanxt
@@ -3532,7 +3533,6 @@ pencportaal
 pip-preproductie
 pv.gevondenvoorwerpen
 squit2goprod
-telefoon
 zuil
 bag1
 bestplan
@@ -5828,3 +5828,6 @@ stan-acc
 stan
 wenen
 xential-prod
+epos
+probeer-epos
+simcms-epos
