@@ -37,8 +37,8 @@ api.meldingen
 vpn
 adfs
 broker
-pv
 parkeren
+pv
 ruimtelijkeplannen
 iparticipatie
 werkenbij
@@ -58,10 +58,10 @@ osb
 omgevingsvisie
 meldingen-acc
 data
+login
 belastingbalie
 api.meldingen-acc
 loket.acceptatie
-login
 remote
 digikoppeling-test
 zaken
@@ -87,16 +87,17 @@ samen
 financien
 digikoppeling.test
 gemeente
+parkeren-acc
 belastingloket
 test-intranet
+doemee
 dtestloket
 verkiezingen
 snelbalie
-parkeren-acc
 woningbouwkaart
 pki
-doemee
 www.webmail
+squit2go
 mijnzorg
 vergunningintaker
 portaal
@@ -108,7 +109,6 @@ siam
 auth
 obsurv
 filecap
-squit2go
 test-cmsintranet
 cmsintranet
 mijninkomen
@@ -117,6 +117,7 @@ qr
 acc-formulier
 acc-podiumd-logs
 bastion365
+klantcontact
 simcms-open
 dtestmidoffice
 jaarstukken
@@ -137,16 +138,18 @@ acc-objecten
 acc-objecttypen
 keycloak
 notificaties
+owa
 podiumd-logs
 sip
 sts
-klantcontact
+micollab
 mdm
 smtp
 transfer
 internetafspraken
 preprodbroker
 gisib
+izaaksuite
 afvalkalender
 dali
 mailing
@@ -156,8 +159,6 @@ acc-notificaties
 acc-openklant
 objecten
 objecttypen
-owa
-micollab
 uc
 AutoDiscover
 inloggen
@@ -166,7 +167,6 @@ inproces
 cryptshare
 simform
 college
-izaaksuite
 veiligdelen
 onderzoek
 jcc
@@ -229,6 +229,7 @@ vth
 bestuur
 acceptatie-open
 belastingbalie-test
+bestanden
 contact
 handhaving
 midoffice
@@ -265,7 +266,6 @@ burgerloket
 ondernemersloket
 admin.openstad
 filetransfer
-bestanden
 mta-sts
 www.intranet
 kcc
@@ -416,6 +416,7 @@ duo
 e.openstad
 stemvan
 gemeentewinkel
+support
 radius
 beeldbankbeheer
 tim
@@ -588,7 +589,6 @@ cca
 corsa-prod
 corsa-test
 mijnmobiel
-support
 www.login
 liquitsatellite
 pip
@@ -862,6 +862,7 @@ www.omgevingsvisie
 www.werkenvoor
 accept-zaaksysteem
 cloudadapter-p
+alwaysonvpn
 testmijnzaken
 rdweb
 sbc
@@ -1077,6 +1078,7 @@ mijnwerkplek
 mijnpost
 digitalebelastingbalie
 edison-opl
+oig
 secure-t
 camera
 pdc.test
@@ -3038,7 +3040,6 @@ preprod-mijnzorg
 sentry1
 vpn365
 www.ingesprek
-alwaysonvpn
 financialstest
 sammy-acc
 sammy
@@ -5682,7 +5683,6 @@ xmstoreacc
 bijlage
 datadis
 datadis.test
-oig
 testwww
 workdrive
 accp
@@ -6364,3 +6364,15 @@ vdtm
 wmonedtest
 wmonedversie
 www.raadsakkoord
+brokersignicat-preprod-x509
+brokersignicat-preprod
+brokersignicat-x509
+brokersignicat
+formulieren-preprod
+ftrust
+gplan-app
+lms
+srv4587
+testmks
+tim-app
+vpsweb
