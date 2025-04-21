@@ -22,8 +22,8 @@ felix
 formulieren
 eloket
 dkd
-meldingen
 test
+meldingen
 werkplek
 portal
 acc
@@ -45,11 +45,11 @@ test-ipa
 werkenbij
 gemeenteraad
 enterpriseenrollment
+zaaksysteem-accept
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
 openpdc
-zaaksysteem-accept
 dloket
 dmidoffice
 meldingen-acc
@@ -62,17 +62,17 @@ osb
 belastingbalie
 remote
 login
+digikoppeling-test
 formulier
 loket.acceptatie
-digikoppeling-test
 cmsoo
 zaken
 flowmailer-tracking
 hybrid
 enterpriseregistration
+beeldbank
 kaart
 berichten
-beeldbank
 cloudadapter-test
 mks
 acc-broker
@@ -146,6 +146,7 @@ cmsintranet
 preprodbroker
 e
 web
+dali
 apps
 acc-contact
 acc-keycloak
@@ -167,7 +168,6 @@ veiligdelen
 wachtwoord
 subsidies-backend
 evenementen
-dali
 snelbaliepp
 vdi
 jcc
@@ -233,6 +233,7 @@ data-test
 intranet-acc
 xential
 citrix
+archief
 vth
 filetransfer
 acceptatie-open
@@ -249,6 +250,7 @@ www.acceptatie
 documenten
 toegang
 vergunningintaker-preprod
+praatmee
 www.werkenbij
 zoeken
 geodata
@@ -287,7 +289,6 @@ test-secure
 medewerkers
 subsidies-login
 _dmarc
-archief
 sport
 burgerloket
 mijnzaken
@@ -315,7 +316,6 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
-praatmee
 diensten
 secure-test
 sociaaldomein
@@ -365,6 +365,7 @@ woz-loket
 zaken.test
 grooster
 subsidies-login.acceptatie
+test.digikoppeling
 filr
 www.openstad
 openformulieren-test
@@ -469,6 +470,7 @@ test-eloket
 preprod-formulieren
 www.afspraak
 ris
+collecties
 inproces.test
 buitenoporde
 preprod-mijnportaal
@@ -483,7 +485,6 @@ smtp1
 smtp2
 www.cjg
 cloudadapter-t
-test.digikoppeling
 burgerloket.acceptatie
 allegroweb
 intra
@@ -718,6 +719,7 @@ g-rooster
 jaarstukken2020
 adsync
 afspraken-test
+edienstenburgerzaken-prod
 ggk
 kassaservice
 navigus
@@ -739,7 +741,6 @@ wijzer
 pkio1
 idtst
 bor-acc
-collecties
 mbg2
 suite4burgerzaken-prod
 acceptatie.intranet
@@ -840,6 +841,7 @@ apigateway2
 berichtenverkeer
 www.kaarten
 www.mdm
+geovisiaonline
 belastingen-test
 test-meedoen
 ucconf01
@@ -2462,7 +2464,6 @@ bsmpkitest
 cognos-test
 databridge-tst
 databridge
-edienstenburgerzaken-prod
 jcc-afspraken
 key2bag-test
 key2datadistributie-prod
@@ -3608,7 +3609,6 @@ gb-wls-04
 gb-wls-05
 gemgbl-wls-gb-1
 gemgbl-wls-gb-2
-geovisiaonline
 malengo-cms
 malengo-test
 malengo-testcms
@@ -5736,3 +5736,24 @@ probeer-cjg
 simcms-cjg
 test-cmsflash
 test-flash
+aform
+appl03
+boeken
+brz1-sm100
+geovisiaonlinetest
+jnetcc01p
+jnetcc01t
+ns1.webserver
+ns2.webserver
+parkeren-prod
+parkeren-siam-prod
+parkerenapp-prod
+pform
+prod.digikoppeling
+schiedata
+sgen
+sm1-sec
+webserver
+websrv01
+websrv03
+zendto
