@@ -9,9 +9,9 @@ intranet
 webmail
 mijn
 simsite
-afspraken
 digikoppeling
 mail
+afspraken
 secure
 acceptatie
 preproductie
@@ -44,8 +44,8 @@ iparticipatie
 enterpriseenrollment
 test-ipa
 werkenbij
-testeloket
 zaaksysteem-accept
+testeloket
 belastingen
 gemeenteraad
 dacceptatieloket
@@ -82,12 +82,12 @@ connect
 denkmee
 osbacc
 financien
+digikoppeling.test
 acc-broker
 extranet
 belastingloket
 govroam
 samen
-digikoppeling.test
 gemeente
 parkeren-acc
 pki
@@ -115,6 +115,7 @@ obsurv
 filecap
 begroting
 e
+web
 subsidies
 preprod-mijninkomen
 afvalkalender
@@ -130,7 +131,6 @@ contentbeheer
 belastingportaal
 _autodiscover._tcp
 gisib
-web
 snelbaliepp
 api.betalen
 apps
@@ -147,9 +147,11 @@ sip
 micollab
 mdm
 smtp
+mobiel
 transfer
 internetafspraken
 preprodbroker
+simform
 izaaksuite
 dali
 mailing
@@ -162,15 +164,14 @@ objecten
 objecttypen
 uc
 AutoDiscover
-mobiel
 inloggen
 connect.acceptatie
 inproces
 cryptshare
 zaaksysteem
-simform
 college
 veiligdelen
+maps
 onderzoek
 jcc
 gis
@@ -189,7 +190,6 @@ preprod-mijn
 wachtwoord
 subsidies-backend
 evenementen
-maps
 website
 vdi
 email
@@ -249,6 +249,7 @@ cms
 exchange
 gemeentearchief
 magazine
+ns
 www.test
 werkenvoor
 parkeervergunningen
@@ -283,6 +284,7 @@ participatie
 www.acceptatie
 documenten
 toegang
+simform-preproductie
 gisib-test
 gisibapi-test
 gisibapi
@@ -298,7 +300,6 @@ dkd-test
 ro-online
 www.duurzaam
 mozard
-ns
 wion
 api
 app
@@ -349,7 +350,6 @@ m
 www.afspraken
 loket.test
 raadsnet
-simform-preproductie
 diensten
 secure-test
 sociaaldomein
@@ -412,6 +412,7 @@ subsidies-login.acceptatie
 klantportaal
 test.digikoppeling
 filr
+mijnloket
 www.openstad
 digitalebalie
 socialekaart
@@ -427,6 +428,7 @@ gemeentewinkel
 support
 radius
 tim
+pip
 www.werkplek
 acceptatie-intranet
 sso
@@ -550,7 +552,6 @@ vsp
 burgerloket.acceptatie
 allegroweb
 intra
-mijnloket
 winkelen
 financielestukken
 gdintaker
@@ -595,7 +596,6 @@ corsa-test
 mijnmobiel
 www.login
 liquitsatellite
-pip
 preprod-mijnsociaaldomein
 wmoloket
 authenticatie
@@ -716,6 +716,7 @@ bi
 buurtbudget
 centrum
 docgen
+erfpacht
 formulieren-g4-acc
 formulieren.acc
 gvz2digikoppeling
@@ -724,6 +725,7 @@ iga
 image.acc-nieuwsbrief
 image.nieuwsbrief
 mas
+mft
 nlx
 octopus-portaal
 octopus-webdav
@@ -937,6 +939,7 @@ www.djuma
 www.eloket
 www.parkeren
 ediensten
+pip-preproductie
 telefoon
 www.mail
 prtg
@@ -1095,7 +1098,10 @@ www.jcc
 mijnwerkplek
 mijnpost
 digitalebelastingbalie
+service
+bibliotheek
 edison-opl
+www.bibliotheek
 oig
 secure-t
 camera
@@ -1642,7 +1648,6 @@ erfpacht-gwextern-dev
 erfpacht-gwextern-ont
 erfpacht-gwextern-tst
 erfpacht-gwextern
-erfpacht
 erfpachtmedewerkers-acc
 erfpachtmedewerkers-dev
 erfpachtmedewerkers-ont
@@ -1851,7 +1856,6 @@ meet.ggd
 meldingenamsterdamsebos
 meldingenweesp
 mft-fa
-mft
 microservices.schoolwijzer
 mijn.data
 mijnbelastingen
@@ -3585,7 +3589,6 @@ hwok-test
 hwok
 mediabank
 pencportaal
-pip-preproductie
 pv.gevondenvoorwerpen
 squit2goprod
 zuil
@@ -5434,7 +5437,6 @@ voorjaarsnota
 krachtigedorpen
 roerdalen-checker-preprod
 roerdalen-checker
-service
 ws013
 ws018
 awseg
@@ -5475,7 +5477,6 @@ betaaltoolsorga
 bezettinggebouwen
 bezoek
 bezoekv2
-bibliotheek
 bodemvondsten
 cairo
 checklist
@@ -5665,7 +5666,6 @@ wise-web.bibliotheek
 wsone
 wsone2
 www.backup.crp
-www.bibliotheek
 www.bis
 www.crp
 www.gis
@@ -6456,3 +6456,15 @@ cpanel
 pki-test
 test-cmsjip
 zaaksysteem-ontwikkeling
+aselect.bibliotheek
+bagonline
+balie2
+balietest2
+formulieren-preproductie
+mail.tbv
+mailarchief
+mailbackup
+minimi
+test.mijnloket
+woningzoeken
+zoekpersoon
