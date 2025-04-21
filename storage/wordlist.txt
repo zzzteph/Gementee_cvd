@@ -17,15 +17,15 @@ preproductie
 secure
 simcms
 probeer
-loket
 felix
+loket
 formulieren
 eloket
 test
 dkd
 werkplek
-meldingen
 portal
+meldingen
 acc
 open
 waarmerk
@@ -33,20 +33,20 @@ afspraak
 adfs
 geo
 broker
+raad
 vpn
 api.meldingen
-raad
 ruimtelijkeplannen
 parkeren
 betalen
 pv
 werkenbij
+iparticipatie
 belastingen
 gemeenteraad
-iparticipatie
+test-ipa
 zaaksysteem-accept
 enterpriseenrollment
-test-ipa
 testeloket
 openpdc
 dacceptatieloket
@@ -90,6 +90,7 @@ digikoppeling.test
 parkeren-acc
 dtestloket
 vergunningintaker
+denkmee
 piwik
 duurzaam
 gemeente
@@ -103,7 +104,6 @@ filecap
 test-cmsintranet
 cmsintranet
 mijnzorg
-denkmee
 portaal
 parkeren-test
 subsidies
@@ -116,6 +116,7 @@ doemee
 jaarstukken
 begroting
 _autodiscover._tcp
+e
 mijninkomen
 siam
 qr
@@ -134,7 +135,6 @@ squit2go
 contentbeheer
 transfer
 preprodbroker
-e
 web
 preprod-mijninkomen
 afvalkalender
@@ -154,6 +154,7 @@ inloggen
 connect.acceptatie
 internetafspraken
 belastingportaal
+simform
 college
 gisib
 veiligdelen
@@ -174,7 +175,6 @@ contentbeheer.acceptatie
 zaken.acceptatie
 inproces
 testloket
-simform
 izaaksuite
 wachtwoord
 subsidies-backend
@@ -219,6 +219,7 @@ www.portal
 fs
 midoffice
 vergunningintaker-preprod
+geovisia
 praatmee
 servicedesk
 subsidie
@@ -260,7 +261,6 @@ participatie
 www.acceptatie
 documenten
 toegang
-geovisia
 gisib-test
 gisibapi-test
 gisibapi
@@ -326,6 +326,7 @@ cloudadapter-prod
 m
 loket.test
 raadsnet
+simform-preproductie
 diensten
 secure-test
 sociaaldomein
@@ -405,9 +406,9 @@ acceptatie-intranet
 sbc01
 bezoekersparkeren
 cars
+www.denkmee
 www.afspraken
 www.samen
-simform-preproductie
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -577,7 +578,6 @@ teleweb
 vacatures
 monitoring
 wijkteam
-www.denkmee
 access
 bezoekersparkeren-acc
 preprod-belastingen
@@ -5985,3 +5985,9 @@ www.zorgaanbod
 youp
 zepcam
 zorgaanbod
+afvalris
+ried
+simcms-werkenbij
+taskflow
+webshop
+wsdl
