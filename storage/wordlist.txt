@@ -6,36 +6,36 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-mijn
 webmail
-simsite
+mijn
 mail
+simsite
 afspraken
 digikoppeling
 secure
 acceptatie
-simcms
 preproductie
+simcms
 felix
 probeer
 loket
 test
 formulieren
-dkd
 eloket
+dkd
 werkplek
 acc
 portal
 meldingen
 afspraak
 open
+geo
 vpn
 parkeren
 waarmerk
-geo
 raad
-betalen
 adfs
+betalen
 api.meldingen
 ruimtelijkeplannen
 broker
@@ -44,10 +44,10 @@ pv
 iparticipatie
 werkenbij
 zaaksysteem-accept
-test-ipa
 gemeenteraad
-belastingen
+test-ipa
 testeloket
+belastingen
 dacceptatieloket
 dacceptatiemidoffice
 openpdc
@@ -64,11 +64,11 @@ meldingen-acc
 cmsoo
 api.meldingen-acc
 remote
+flowmailer-tracking
 digikoppeling-test
 enterpriseregistration
 beeldbank
 cloudadapter-test
-flowmailer-tracking
 zaken
 kaart
 berichten
@@ -104,6 +104,7 @@ piwik
 snelbalie
 afvalkalender
 duurzaam
+bastion365
 woningbouwkaart
 www.webmail
 filecap
@@ -115,9 +116,9 @@ dali
 preprod
 apps
 auth
-bastion365
 sts
 obsurv
+micollab
 dtestmidoffice
 begroting
 _autodiscover._tcp
@@ -130,7 +131,6 @@ acc-formulier
 acc-podiumd-logs
 bgt
 klantcontact
-micollab
 simcms-open
 mdm
 jaarstukken
@@ -189,6 +189,7 @@ ro
 contentbeheer.acceptatie
 zaken.acceptatie
 outlook
+bestuur
 testloket
 preprod-mijn
 wachtwoord
@@ -199,6 +200,7 @@ vdi
 email
 telewerken
 e-loket
+bag
 bis
 test-digikoppeling
 byod
@@ -212,7 +214,6 @@ intranet-acc
 mobile
 bor
 inproces.acceptatie
-bestuur
 belastingbalie-test
 bestanden
 squit2020
@@ -234,7 +235,6 @@ openstad
 opendata
 woo
 afval
-bag
 fmreturn
 formulieren-test
 xential
@@ -268,6 +268,7 @@ desktop
 ns1
 meet
 openformulieren
+awmag
 publicaties
 data-test
 intranetcms
@@ -319,7 +320,6 @@ services
 gbi
 mijngeldzaken
 rooster
-awmag
 geoserver
 uca
 wifi
@@ -429,6 +429,7 @@ klantportaal
 mfa
 test.digikoppeling
 filr
+intra
 mijnloket
 www.openstad
 digitalebalie
@@ -460,6 +461,8 @@ bezoekersparkeren-acc
 hta
 huisstijl
 www.samen
+awmail
+awtunnel
 mijndesktop
 belastingportaal.acc
 inloggen.belastingportaal
@@ -504,6 +507,7 @@ www.ruimtelijkeplannen
 digitaleplannen
 parkeerapp
 smartdoc
+stadspas
 digid
 werk
 www.mijn
@@ -567,7 +571,6 @@ vsp
 burgerloket.acceptatie
 allegroweb
 haven
-intra
 winkelen
 financielestukken
 gdintaker
@@ -667,8 +670,6 @@ mijnsociaaldomein-acc
 prefill
 ews
 www.belastingloket
-awmail
-awtunnel
 content
 digitalebelastingbalie
 service
@@ -765,9 +766,9 @@ www.sport
 cc
 fm
 gpa
+intranetacc
 mo
 ndes
-stadspas
 tijdschrijven
 www.stadspas
 digikoppelingtst
@@ -993,6 +994,7 @@ www.stemvan
 www.toerisme
 corsanxt
 intranet2
+secure1
 mijnintranet
 lynccon
 wkpb
@@ -1126,6 +1128,7 @@ www.bibliotheek
 oig
 webserver
 dis4fin
+parkeerloket
 secure-t
 camera
 qmanage
@@ -2317,7 +2320,6 @@ gn2connect-acc
 gn2connect
 gpg
 gpt
-intranetacc
 matenpark
 medeleven
 mheenpark
@@ -4050,7 +4052,6 @@ gwmor009
 gwmwb012
 mymeeting-ris
 mymeeting20
-secure1
 streetsmart
 test-2secure
 tjooner
@@ -5800,7 +5801,6 @@ octopus-acc-docs
 octopus-docs
 octopus-vm
 openkaarten
-parkeerloket
 pda
 portal2
 quarantaine
@@ -6557,3 +6557,9 @@ www.ansvwl2016
 www.ansvwl2903
 www.anwebintwl2008
 www.mis
+adproxy
+geoportal
+klicwion
+parkeerlokettest
+secure1ev
+secure1t

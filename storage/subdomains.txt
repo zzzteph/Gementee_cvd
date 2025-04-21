@@ -685,6 +685,7 @@ adfs.rijssen-holten.nl
 adfs.simpelveld.nl
 adfs.voerendaal.nl
 adfs.voorst.nl
+adfs.weert.nl
 adfs01.sudwestfryslan.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
@@ -715,6 +716,7 @@ admsecaz.acc.denhaag.nl
 adobeupdates.sudwestfryslan.nl
 adp.apeldoorn.nl
 adpa.apeldoorn.nl
+adproxy.weert.nl
 adpt.apeldoorn.nl
 adsync.brunssum.nl
 adsync.heerlen.nl
@@ -886,6 +888,7 @@ afspraken.velsen.nl
 afspraken.vlissingen.nl
 afspraken.voerendaal.nl
 afspraken.waterland.nl
+afspraken.weert.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -1619,6 +1622,7 @@ autodiscover.waalre.nl
 autodiscover.waalwijk.nl
 autodiscover.wageningen.nl
 autodiscover.wassenaar.nl
+autodiscover.weert.nl
 autodiscover.wij.groningen.nl
 automator.borne.nl
 automator.haarlemmermeer.nl
@@ -1653,13 +1657,16 @@ awmag.nederweert.nl
 awmag.roermond.nl
 awmag.someren.nl
 awmag.venlo.nl
+awmag.weert.nl
 awmail.nederweert.nl
 awmail.roermond.nl
 awmail.venlo.nl
+awmail.weert.nl
 awseg.roermond.nl
 awtunnel.nederweert.nl
 awtunnel.roermond.nl
 awtunnel.venlo.nl
+awtunnel.weert.nl
 awvpn.someren.nl
 axians.lev.delft.nl
 b2b.oso.s-hertogenbosch.nl
@@ -1686,6 +1693,7 @@ bag.etten-leur.nl
 bag.haarlemmermeer.nl
 bag.montferland.info
 bag.soest.nl
+bag.weert.nl
 bag1.gemeentemaasgouw.nl
 baglevering.beekdaelen.nl
 baglv.kerkrade.nl
@@ -1714,6 +1722,7 @@ bastion365.rozendaal.nl
 bastion365.someren.nl
 bastion365.tilburg.nl
 bastion365.venlo.nl
+bastion365.weert.nl
 batched.opsterland.nl
 bavak.gemeentewestland.nl
 bb1051246.kerkrade.nl
@@ -2081,6 +2090,7 @@ bestuur.tholen.nl
 bestuur.tubbergen.nl
 bestuur.vaals.nl
 bestuur.vlieland.nl
+bestuur.weert.nl
 bestuursakkoord.s-hertogenbosch.nl
 bestuursinformatie.beesel.nl
 bestuursrapportage.leiden.nl
@@ -4153,6 +4163,7 @@ eloket.uitgeest.nl
 eloket.velsen.nl
 eloket.venray.nl
 eloket.vlissingen.nl
+eloket.weert.nl
 eloketstaging.almere.nl
 eloketstaging.putten.nl
 elokettest.bloemendaal.nl
@@ -4599,6 +4610,7 @@ flowmailer-tracking.schouwen-duiveland.nl
 flowmailer-tracking.smallingerland.nl
 flowmailer-tracking.venlo.nl
 flowmailer-tracking.vlissingen.nl
+flowmailer-tracking.weert.nl
 fm.apeldoorn.nl
 fm.krimpenerwaard.nl
 fm01.apeldoorn.nl
@@ -4944,6 +4956,7 @@ gemeenteraad.stadskanaal.nl
 gemeenteraad.venlo.nl
 gemeenteraad.vlissingen.nl
 gemeenteraad.vught.nl
+gemeenteraad.weert.nl
 gemeentesluis.nl
 gemeentestein.nl
 gemeentewesterveld.nl
@@ -5011,6 +5024,7 @@ geo.texel.nl
 geo.tilburg.nl
 geo.valkenswaard.nl
 geo.vught.nl
+geo.weert.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobeheer.voorst.nl
@@ -5049,6 +5063,7 @@ geoportaal.waalwijk.nl
 geoportaal.wageningen.nl
 geoportaaltest.enschede.nl
 geoportaaltest.haarlemmermeer.nl
+geoportal.weert.nl
 geoprdb.stadstoezicht.amsterdam.nl
 geoproxy.s-hertogenbosch.nl
 geoserver-signalen.almere.nl
@@ -5747,6 +5762,7 @@ iburgerzaken.waalwijk.nl
 iburgerzaken.waddinxveen.nl
 iburgerzaken.wageningen.nl
 iburgerzaken.wassenaar.nl
+iburgerzaken.weert.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5911,6 +5927,7 @@ ibzpink.waalwijk.nl
 ibzpink.waddinxveen.nl
 ibzpink.wageningen.nl
 ibzpink.wassenaar.nl
+ibzpink.weert.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -6149,6 +6166,7 @@ internwifi.hellevoetsluis.nl
 intra.deventer.nl
 intra.dordrecht.nl
 intra.gooisemeren.nl
+intra.weert.nl
 intranet-acc.bergendal.nl
 intranet-acc.borne.nl
 intranet-acc.delft.nl
@@ -6274,9 +6292,11 @@ intranet.waalwijk.nl
 intranet.waddinxveen.nl
 intranet.wageningen.nl
 intranet.waterland.nl
+intranet.weert.nl
 intranet2.gulpen-wittem.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
+intranetacc.weert.nl
 intranetacceptatie.kampen.nl
 intranetcms-acc.bergendal.nl
 intranetcms-acc.landvancuijk.nl
@@ -6717,6 +6737,7 @@ klantportaal.stedebroec.nl
 klemmi.rotterdam.nl
 klickwion.oostgelre.nl
 kliconline.haarlemmermeer.nl
+klicwion.weert.nl
 klimaat.landvancuijk.nl
 klimaatbestendig.lingewaard.nl
 klimaatplein.bergen-nh.nl
@@ -7216,6 +7237,7 @@ mail.waalre.nl
 mail.waalwijk.nl
 mail.wageningen.nl
 mail.wassenaar.nl
+mail.weert.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -7527,6 +7549,7 @@ micollab.roermond.nl
 micollab.rucphen.nl
 micollab.veere.nl
 micollab.waalwijk.nl
+micollab.weert.nl
 micontentstore.lansingerland.nl
 microservices.schoolwijzer.amsterdam.nl
 micstz.almelo.nl
@@ -8845,6 +8868,8 @@ parkeerkaart-acc.amsterdam.nl
 parkeerkaart-tst.amsterdam.nl
 parkeerkaart.amsterdam.nl
 parkeerloket.sittard-geleen.nl
+parkeerloket.weert.nl
+parkeerlokettest.weert.nl
 parkeernorm.valkenswaard.nl
 parkeernormen.katwijk.nl
 parkeernormen.utrecht.nl
@@ -9481,6 +9506,7 @@ preproductie.valkenswaard.nl
 preproductie.voorschoten.nl
 preproductie.waddinxveen.nl
 preproductie.wassenaar.nl
+preproductie.weert.nl
 preproductiebroker.gemeentewesterveld.nl
 pric.rotterdam.nl
 prifill-test.sudwestfryslan.nl
@@ -10229,7 +10255,11 @@ secure.vlaardingen.nl
 secure.vlieland.nl
 secure.voerendaal.nl
 secure.waalre.nl
+secure.weert.nl
 secure1.gulpen-wittem.nl
+secure1.weert.nl
+secure1ev.weert.nl
+secure1t.weert.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
 securemail.borne.nl
@@ -10912,6 +10942,7 @@ stadskrant.denhaag.nl
 stadspark.apeldoorn.nl
 stadspas.apeldoorn.nl
 stadspas.venlo.nl
+stadspas.weert.nl
 stadsportal.leiden.nl
 stadsveld.openstad.enschede.nl
 stadswerken.amsterdam.nl
@@ -11560,6 +11591,7 @@ testeloket.tiel.nl
 testeloket.twenterand.nl
 testeloket.velsen.nl
 testeloket.venray.nl
+testeloket.weert.nl
 testembrace.nunspeet.nl
 testextsec.purmerend.nl
 testformulieren.bodegraven-reeuwijk.nl
@@ -12437,6 +12469,7 @@ webmail.voorst.nl
 webmail.waalwijk.nl
 webmail.wageningen.nl
 webmail.waterland.nl
+webmail.weert.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
 webmail2.heusden.nl
@@ -12489,6 +12522,7 @@ webvpn.gemeentehulst.nl
 webwerken.deventer.nl
 webwinkel.landvancuijk.nl
 weer.landvancuijk.nl
+weert.nl
 weesp.acc.meldingen.amsterdam.nl
 weesp.amsterdam.nl
 weespbegroot.amsterdam.nl
@@ -13858,6 +13892,7 @@ www.webmail.roerdalen.nl
 www.webmail.twenterand.nl
 www.webvpn.gemeentehulst.nl
 www.webwinkel.landvancuijk.nl
+www.weert.nl
 www.weespbegroot.amsterdam.nl
 www.wegwijsplus.vught.nl
 www.wegwijzer.nijkerk.eu
