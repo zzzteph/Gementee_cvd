@@ -20,8 +20,8 @@ probeer
 loket
 felix
 formulieren
-dkd
 eloket
+dkd
 test
 meldingen
 werkplek
@@ -34,8 +34,8 @@ adfs
 broker
 api.meldingen
 geo
-pv
 vpn
+pv
 raad
 ruimtelijkeplannen
 betalen
@@ -57,9 +57,9 @@ testeloket
 api.meldingen-acc
 data
 osb
+omgevingsvisie
 belastingbalie
 openpub
-omgevingsvisie
 remote
 login
 loket.acceptatie
@@ -83,6 +83,7 @@ dtestloket
 osbacc
 piwik
 duurzaam
+gemeente
 woningbouwkaart
 cloudadapter
 extranet
@@ -97,7 +98,6 @@ vergunningintaker
 portaal
 verkiezingen
 parkeren-test
-gemeente
 acc-formulier
 acc-podiumd-logs
 test-intranet
@@ -132,6 +132,7 @@ acc-openklant
 bastion365
 objecten
 objecttypen
+micollab
 simcms-open
 mdm
 smtp
@@ -151,7 +152,6 @@ acc-openzaak
 bgt
 openklant
 sip
-micollab
 AutoDiscover
 mobiel
 connect.acceptatie
@@ -298,6 +298,7 @@ squit2020.acceptatie
 woz-portaal
 kcc
 testbelastingloket
+mx1
 geoportaal
 en
 ibabs
@@ -370,7 +371,7 @@ eformulieren
 webservices
 digitalebalie
 academie
-mx1
+mx2
 squit2020publiceren
 e.openstad
 stemvan
@@ -502,7 +503,6 @@ edge
 socialekaart
 vergunningintaker.preprod
 www.piwik
-mx2
 ondernemen
 www.belastingbalie
 aeolus
@@ -5674,3 +5674,9 @@ xmlgw.preprod
 xmlgw
 xmstore
 xmstoreacc
+bijlage
+datadis
+datadis.test
+oig
+testwww
+workdrive
