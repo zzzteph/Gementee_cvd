@@ -41,12 +41,12 @@ ruimtelijkeplannen
 broker
 enterpriseenrollment
 pv
+gemeenteraad
 iparticipatie
 werkenbij
 zaaksysteem-accept
-gemeenteraad
-test-ipa
 testeloket
+test-ipa
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
@@ -60,8 +60,8 @@ login
 belastingbalie
 loket.acceptatie
 osb
-meldingen-acc
 cmsoo
+meldingen-acc
 api.meldingen-acc
 remote
 flowmailer-tracking
@@ -109,6 +109,7 @@ woningbouwkaart
 www.webmail
 filecap
 squit2go
+_autodiscover._tcp
 vergunningintaker
 simform
 mijninkomen
@@ -121,7 +122,6 @@ obsurv
 micollab
 dtestmidoffice
 begroting
-_autodiscover._tcp
 e
 web
 subsidies
@@ -171,6 +171,7 @@ AutoDiscover
 connect.acceptatie
 inproces
 cryptshare
+bestuur
 zaaksysteem
 fs
 college
@@ -189,7 +190,6 @@ ro
 contentbeheer.acceptatie
 zaken.acceptatie
 outlook
-bestuur
 testloket
 preprod-mijn
 wachtwoord
@@ -207,6 +207,7 @@ byod
 guest
 iarchief
 publicroam
+formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -236,7 +237,7 @@ opendata
 woo
 afval
 fmreturn
-formulieren-test
+www.gemeenteraad
 xential
 citrix
 key2gbav
@@ -272,7 +273,6 @@ awmag
 publicaties
 data-test
 intranetcms
-www.gemeenteraad
 acc.piwik
 localhost
 www.jongin
@@ -351,6 +351,7 @@ webservices
 squit2020.acceptatie
 academie
 woz-portaal
+socialekaart
 testbelastingloket
 squit2020publiceren
 stemvan
@@ -434,7 +435,7 @@ mijnloket
 www.openstad
 digitalebalie
 mobility
-socialekaart
+www.socialekaart
 gt-loket
 ondernemen
 raadsinformatie
@@ -553,6 +554,7 @@ mbg
 clicksfm
 www.afspraak
 pkio1
+dvg
 inproces.test
 mbg2
 buitenoporde
@@ -592,7 +594,6 @@ klantportaal.acc
 prod
 grondwater
 vergunningen
-www.socialekaart
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -866,7 +867,6 @@ squit2go-backoffice
 webcon
 reserveren
 wijzer
-dvg
 idtst
 bor-acc
 suite4burgerzaken-prod
@@ -6563,3 +6563,5 @@ klicwion
 parkeerlokettest
 secure1ev
 secure1t
+adviesraad
+www.adviesraad
