@@ -28,12 +28,12 @@ acc
 portal
 meldingen
 afspraak
+waarmerk
 open
 geo
 raad
 vpn
 parkeren
-waarmerk
 adfs
 betalen
 api.meldingen
@@ -85,6 +85,7 @@ extranet
 belastingloket
 govroam
 connect
+cmsintranet
 denkmee
 osbacc
 financien
@@ -92,7 +93,6 @@ samen
 doemee
 dtestloket
 test-cmsintranet
-cmsintranet
 portaal
 piwik
 siam
@@ -117,6 +117,7 @@ dali
 preprod
 apps
 auth
+bgt
 sts
 obsurv
 micollab
@@ -129,7 +130,6 @@ preprod-mijninkomen
 qr
 acc-formulier
 acc-podiumd-logs
-bgt
 klantcontact
 simcms-open
 mdm
@@ -206,6 +206,7 @@ bag
 bis
 test-digikoppeling
 byod
+fmreturn
 guest
 iarchief
 publicroam
@@ -239,7 +240,6 @@ desktop
 openstad
 opendata
 afval
-fmreturn
 www.gemeenteraad
 xential
 citrix
@@ -284,6 +284,7 @@ burgerloket
 ondernemersloket
 admin.openstad
 eformulieren
+woz-portaal
 www.intranet
 kcc
 en
@@ -310,6 +311,7 @@ dkd-test
 ro-online
 www.duurzaam
 mozardtest
+bewustwording
 wion
 api
 app
@@ -351,7 +353,6 @@ openformulieren-test
 webservices
 squit2020.acceptatie
 academie
-woz-portaal
 socialekaart
 testbelastingloket
 squit2020publiceren
@@ -373,7 +374,6 @@ rpl3
 test-zaakloket
 testsiam
 zaakloket
-bewustwording
 mail1
 atlas
 magazines
@@ -445,6 +445,8 @@ duo
 e.openstad
 mijnuitkering
 gbionline
+cca-acc
+cca
 gemeentewinkel
 support
 radius
@@ -463,6 +465,7 @@ www.denkmee
 bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
+prefill
 huisstijl
 www.samen
 awmail
@@ -611,8 +614,6 @@ pip-test
 www.gemeente
 gbionlinetest
 squit2gotest
-cca-acc
-cca
 corsa-prod
 corsa-test
 mijnmobiel
@@ -670,10 +671,10 @@ open-formulieren-test
 preprod-belastingen
 insite
 digitaalloket
-prefill
 wonen
 ews
 www.belastingloket
+duoloket
 content
 digitalebelastingbalie
 service
@@ -806,6 +807,7 @@ spf-ogone02
 spf-wind
 bestemmingsplannen
 geoserver-test
+youpp
 pwa
 k2fin
 solliciterenbij
@@ -968,6 +970,7 @@ telefoon
 www.mail
 mylex
 rds
+e.bewustwording
 digikoppelingjnet
 apigateway
 apigateway2
@@ -1114,7 +1117,6 @@ wlan
 domain-admin
 formulier.accp
 Snelbalie
-duoloket
 eformulieren-test
 helpmij
 telefonie
@@ -2408,7 +2410,6 @@ woz-portaal-eemnes
 www.preprod-woz-portaal-eemnes
 www.woz-portaal-eemnes
 www.woz-portaal
-youpp
 adc
 cis
 cscp
@@ -3646,7 +3647,6 @@ w2008stuf
 workspace-rds
 www-cache
 www.eformulieren
-e.bewustwording
 digikoppelingjnet-test
 misentry
 preproductiebroker
@@ -6586,3 +6586,15 @@ hamersestraat
 rosmolen
 westervoort-checker-preprod
 westervoort-checker
+bag-vwes11
+cmstestintranet
+dds-vwes21
+dkde-vwes11
+iis-vwes11
+iis-vwes21
+meldweb
+mh-vwes21
+post
+prefill.test
+testintranet
+wes-x-iis-01
