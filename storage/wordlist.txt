@@ -9,8 +9,8 @@ intranet
 mijn
 webmail
 simsite
-mail
 afspraken
+mail
 digikoppeling
 acceptatie
 secure
@@ -20,9 +20,9 @@ probeer
 felix
 loket
 formulieren
+dkd
 eloket
 test
-dkd
 werkplek
 portal
 meldingen
@@ -41,12 +41,12 @@ pv
 ruimtelijkeplannen
 parkeren
 werkenbij
+enterpriseenrollment
 iparticipatie
+zaaksysteem-accept
 belastingen
 gemeenteraad
-enterpriseenrollment
 test-ipa
-zaaksysteem-accept
 openpdc
 testeloket
 openpub
@@ -66,12 +66,12 @@ login
 digikoppeling-test
 zaken
 flowmailer-tracking
+enterpriseregistration
 formulier
 beeldbank
 hybrid
 kaart
 berichten
-enterpriseregistration
 cmsoo
 cloudadapter-test
 mks
@@ -88,6 +88,7 @@ test-intranet
 verkiezingen
 digikoppeling.test
 parkeren-acc
+extranet
 dtestloket
 vergunningintaker
 denkmee
@@ -99,7 +100,6 @@ gemeente
 auth
 woningbouwkaart
 obsurv
-extranet
 pki
 doemee
 www.webmail
@@ -131,6 +131,7 @@ notificaties
 podiumd-logs
 klantcontact
 mdm
+smtp
 dtestmidoffice
 squit2go
 contentbeheer
@@ -151,7 +152,6 @@ objecttypen
 sts
 micollab
 uc
-smtp
 AutoDiscover
 inloggen
 connect.acceptatie
@@ -290,6 +290,7 @@ desktop
 gbi
 mijngeldzaken
 ns1
+rooster
 meet
 publicaties
 formulieren-test
@@ -317,6 +318,7 @@ admin.openstad
 auth.openstad
 img.openstad
 openformulieren-test
+bestuur
 eformulieren
 squit2020.acceptatie
 academie
@@ -348,7 +350,6 @@ e-loket
 geotest
 moh-acc
 moh
-rooster
 sslvpn
 media
 test-formulier
@@ -394,7 +395,6 @@ klantportaal
 test.digikoppeling
 filr
 www.openstad
-bestuur
 webservices
 digitalebalie
 mta-sts
@@ -6007,3 +6007,5 @@ mozardproductie
 pbx
 subsidiebeleidskaart
 teylingen-checker-preprod
+qmatic
+ucserver
