@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-mijn
 webmail
+mijn
 simsite
 mail
 afspraken
@@ -39,20 +39,20 @@ betalen
 api.meldingen
 broker
 ruimtelijkeplannen
+gemeenteraad
 enterpriseenrollment
 iparticipatie
 pv
 werkenbij
-gemeenteraad
 test-ipa
 zaaksysteem-accept
 testeloket
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
-openpdc
 dloket
 dmidoffice
+openpdc
 data
 openpub
 omgevingsvisie
@@ -60,9 +60,9 @@ login
 belastingbalie
 cmsoo
 loket.acceptatie
+remote
 osb
 meldingen-acc
-remote
 api.meldingen-acc
 flowmailer-tracking
 digikoppeling-test
@@ -84,6 +84,7 @@ acc-broker
 extranet
 belastingloket
 govroam
+dtestloket
 connect
 cmsintranet
 denkmee
@@ -91,15 +92,14 @@ osbacc
 financien
 samen
 doemee
-dtestloket
 test-cmsintranet
 portaal
+verkiezingen
 piwik
 siam
 gemeente
 pki
 mijnzorg
-verkiezingen
 parkeren-test
 snelbalie
 afvalkalender
@@ -108,6 +108,7 @@ bastion365
 woningbouwkaart
 www.webmail
 filecap
+dtestmidoffice
 squit2go
 _autodiscover._tcp
 vergunningintaker
@@ -122,7 +123,6 @@ sts
 obsurv
 klantcontact
 micollab
-dtestmidoffice
 begroting
 e
 web
@@ -154,6 +154,7 @@ sip
 gasten
 uc
 smtp
+AutoDiscover
 mobiel
 inloggen
 cryptshare
@@ -169,7 +170,6 @@ acc-openklant
 objecten
 objecttypen
 meedoen
-AutoDiscover
 connect.acceptatie
 inproces
 bestuur
@@ -180,6 +180,7 @@ veiligdelen
 evenementen
 onderzoek
 jcc
+email
 sharefile
 gis
 acc-contact
@@ -187,6 +188,7 @@ acc-keycloak
 acc-openzaak
 lyncdiscover
 openklant
+test-digikoppeling
 iarchief
 formulieren-test
 ro
@@ -201,13 +203,11 @@ wachtwoord
 subsidies-backend
 website
 mail2
-email
 telewerken
 e-loket
 woo
 bag
 bis
-test-digikoppeling
 byod
 fmreturn
 guest
@@ -263,6 +263,7 @@ belastingen-acc
 cms
 exchange
 mozard
+bewustwording
 magazine
 ns
 www.test
@@ -314,7 +315,6 @@ dkd-test
 ro-online
 www.duurzaam
 mozardtest
-bewustwording
 wion
 api
 app
@@ -357,6 +357,7 @@ squit2020.acceptatie
 socialekaart
 testbelastingloket
 squit2020publiceren
+mijnuitkering
 stemvan
 ibabs
 gateway
@@ -443,7 +444,6 @@ aeolus
 raadsinformatie
 duo
 e.openstad
-mijnuitkering
 gbionline
 cca-acc
 cca
@@ -550,6 +550,7 @@ preprod-mijnoverzicht
 2secure
 sportaccommodaties
 mycorsanxt
+ro-onlineprod
 adsync
 kassaservice
 mor
@@ -851,8 +852,8 @@ beheerbeeldbank
 ig
 inkomensondersteuning
 www.stadsarchief
+esuitenotubiz-test
 ironport
-ro-onlineprod
 g-rooster
 jaarstukken2020
 afspraken-test
@@ -932,6 +933,7 @@ test-digikoppelingadapter
 dkd.berichtenverkeer
 geoinformatie
 dok
+www.remote
 www.zorgloket
 zmm
 zorgloket
@@ -1122,6 +1124,7 @@ wlan
 domain-admin
 formulier.accp
 Snelbalie
+preprod-mijnuitkering
 eformulieren-test
 helpmij
 telefonie
@@ -1152,6 +1155,7 @@ pdc.test
 mijnhr
 digitalebelastingbalie-test
 qmatic
+egemeente
 videobellen
 nwro
 zwemmen
@@ -2569,7 +2573,6 @@ webcamspinveld
 websiteacc
 webtoegang
 brlcmg
-esuitenotubiz-test
 nlgembrl
 smartdoc-brl
 smartdoc-brlacc
@@ -3233,7 +3236,6 @@ test.afspraakmaken
 test.services
 forms-test
 kcv
-www.remote
 duiven-checker-preprod
 duiven-checker
 clv
@@ -5105,7 +5107,6 @@ parkeervergunning-siam-test
 parkeervergunning-siam
 planonacceptatie
 planontest
-preprod-mijnuitkering
 preproddigidmachtigen
 prodsuitewiz
 prodwizraapl
@@ -6083,7 +6084,6 @@ zaaktest
 av2
 bedrijfsgrond
 cmsurknet
-egemeente
 gov
 idocumenten
 oos
@@ -6616,3 +6616,11 @@ www.academie
 www.iobjects
 www.kantoor
 www.stwidocwsw02
+grofvuil
+nedwion
+roonline
+smartdoc-wvn
+smartdoc-wvnacc
+smartdocwvn
+smartdocwvnacc
+wvncmg
