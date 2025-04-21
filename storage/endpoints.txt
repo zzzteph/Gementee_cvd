@@ -184,6 +184,7 @@ http://cms-binnenshuis.bergen.nl
 http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
+http://cmsids-test.smallingerland.nl
 http://cmsinsite.houten.nl
 http://cmsintranet.etten-leur.nl
 http://cmssocialintranet.middendelfland.nl
@@ -460,6 +461,7 @@ https://academie.drimmelen.nl
 https://academie.goirle.nl
 https://academie.landgraaf.nl
 https://academie.nederbetuwe.nl
+https://academie.smallingerland.nl
 https://acc-afvalkalender.goes.nl
 https://acc-beeldbank.leiden.nl
 https://acc-broker.assen.nl
@@ -938,6 +940,7 @@ https://anyconnect.leiden.nl
 https://anyware.pijnacker-nootdorp.nl
 https://aov.groningen.nl
 https://aov.helmond.nl
+https://aov.smallingerland.nl
 https://aovpn.bergen.nl
 https://apeldoorn.nl
 https://apex.almere.nl
@@ -958,6 +961,7 @@ https://api.betalen.eemsdelta.nl
 https://api.betalen.gemert-bakel.nl
 https://api.betalen.laarbeek.nl
 https://api.betalen.nissewaard.nl
+https://api.betalen.smallingerland.nl
 https://api.data.amsterdam.nl
 https://api.dataportaal.amsterdam.nl
 https://api.denhaag.nl
@@ -1289,6 +1293,7 @@ https://belastingbalie-test.gemeentewestland.nl
 https://belastingbalie-test.leeuwarden.nl
 https://belastingbalie-test.meppel.nl
 https://belastingbalie-test.rijswijk.nl
+https://belastingbalie-test.smallingerland.nl
 https://belastingbalie.acc.nissewaard.nl
 https://belastingbalie.acc.rhenen.nl
 https://belastingbalie.amersfoort.nl
@@ -1311,6 +1316,7 @@ https://belastingbalie.nissewaard.nl
 https://belastingbalie.pijnacker-nootdorp.nl
 https://belastingbalie.rhenen.nl
 https://belastingbalie.rijswijk.nl
+https://belastingbalie.smallingerland.nl
 https://belastingbalietest.capelleaandenijssel.nl
 https://belastingen-acc.arnhem.nl
 https://belastingen-acc.nijmegen.nl
@@ -1440,6 +1446,7 @@ https://betalen.pijnacker-nootdorp.nl
 https://betalen.rhenen.nl
 https://betalen.rijswijk.nl
 https://betalen.scherpenzeel.nl
+https://betalen.smallingerland.nl
 https://betalenaan.oirschot.nl
 https://betalingen.amsterdam.nl
 https://beugen.landvancuijk.nl
@@ -1647,6 +1654,7 @@ https://cmsdok.dronten.nl
 https://cmshofnet.coevorden.nl
 https://cmshuisnet.nieuwegein.nl
 https://cmshuisnettest.nieuwegein.nl
+https://cmsids.smallingerland.nl
 https://cmsinhuiz.huizen.nl
 https://cmsintranet.edam-volendam.nl
 https://cmsintranet.gemeentebeek.nl
@@ -2586,6 +2594,7 @@ https://flowmailer-tracking.parkeervergunning.leeuwarden.nl
 https://flowmailer-tracking.rijswijk.nl
 https://flowmailer-tracking.roermond.nl
 https://flowmailer-tracking.schouwen-duiveland.nl
+https://flowmailer-tracking.smallingerland.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
 https://fmreturn.echt-susteren.nl
@@ -3165,6 +3174,7 @@ https://iburgerzaken.roosendaal.nl
 https://iburgerzaken.rozendaal.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://iburgerzaken.schagen.nl
+https://iburgerzaken.smallingerland.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3189,6 +3199,8 @@ https://idiensten-contract.rotterdam.nl
 https://idinloggen.oosterhout.nl
 https://idinloggenpre.oosterhout.nl
 https://idp.ggd.amsterdam.nl
+https://ids-test.smallingerland.nl
+https://ids.smallingerland.nl
 https://idselect.accp.s-hertogenbosch.nl
 https://idselect.hollandskroon.nl
 https://idselect.s-hertogenbosch.nl
@@ -3655,6 +3667,7 @@ https://loket.acceptatie.renkum.nl
 https://loket.acceptatie.rheden.nl
 https://loket.acceptatie.ridderkerk.nl
 https://loket.acceptatie.sliedrecht.nl
+https://loket.acceptatie.smallingerland.nl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.amstelveen.nl
@@ -3687,6 +3700,7 @@ https://loket.rhenen.nl
 https://loket.ridderkerk.nl
 https://loket.rijssen-holten.nl
 https://loket.sliedrecht.nl
+https://loket.smallingerland.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://loonopzand.nl
@@ -4645,6 +4659,7 @@ https://parkeren.roermond.nl
 https://parkeren.s-hertogenbosch.nl
 https://parkeren.schouwen-duiveland.nl
 https://parkeren.sittard-geleen.nl
+https://parkeren.smallingerland.nl
 https://parkerenapp-prod.schiedam.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
@@ -4844,6 +4859,7 @@ https://preprod.inloggen.meierijstad.nl
 https://preprod.noordwijk.nl
 https://preprod.oldebroek.nl
 https://preprod.rheden.nl
+https://preprod.smallingerland.nl
 https://preprod.vergunningintaker.bernheze.org
 https://preprod.vergunningintaker.hellendoorn.nl
 https://preprod.vergunningintaker.nunspeet.nl
@@ -5296,6 +5312,7 @@ https://sittard-geleen.nl
 https://sliedrecht-checker-preprod.sliedrecht.nl
 https://sliedrecht-checker.sliedrecht.nl
 https://sliedrecht.nl
+https://smallingerland.nl
 https://smap.almere.nl
 https://smartaim-test.haarlemmermeer.nl
 https://smartaim.haarlemmermeer.nl
@@ -6085,6 +6102,7 @@ https://werkplek.moerdijk.nl
 https://werkplek.roosendaal.nl
 https://werkplek.rucphen.nl
 https://werkplek.schagen.nl
+https://werkplek.smallingerland.nl
 https://werkplek01.derondevenen.nl
 https://werkplek02.derondevenen.nl
 https://werving.amsterdam.nl
@@ -6592,6 +6610,7 @@ https://www.sinterklaas.groningen.nl
 https://www.sisa.rotterdam.nl
 https://www.sittard-geleen.nl
 https://www.sliedrecht.nl
+https://www.smallingerland.nl
 https://www.smartatsea.denhaag.nl
 https://www.smartcity.denhaag.nl
 https://www.sociaalloket.medemblik.nl

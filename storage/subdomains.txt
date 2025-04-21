@@ -125,6 +125,7 @@ academie.drimmelen.nl
 academie.goirle.nl
 academie.landgraaf.nl
 academie.nederbetuwe.nl
+academie.smallingerland.nl
 acc-afvalkalender.goes.nl
 acc-beeldbank.leiden.nl
 acc-broker.assen.nl
@@ -559,6 +560,7 @@ acceptatie.rijswijk.nl
 acceptatie.schagen.nl
 acceptatie.simpelveld.nl
 acceptatie.sint-michielsgestel.nl
+acceptatie.smallingerland.nl
 acceptatie.subsidies-backend.ede.nl
 acceptatie.subsidies.ede.nl
 acceptatiebelastingen.duiven.nl
@@ -920,6 +922,7 @@ anyconnect.leiden.nl
 anyware.pijnacker-nootdorp.nl
 aov.groningen.nl
 aov.helmond.nl
+aov.smallingerland.nl
 aovpn.bergen.nl
 aovpn.gulpen-wittem.nl
 ap01.alkmaar.nl
@@ -950,6 +953,7 @@ api.betalen.eemsdelta.nl
 api.betalen.gemert-bakel.nl
 api.betalen.laarbeek.nl
 api.betalen.nissewaard.nl
+api.betalen.smallingerland.nl
 api.data.amsterdam.nl
 api.data.leiden.nl
 api.dataportaal.amsterdam.nl
@@ -1647,6 +1651,7 @@ belastingbalie-test.gemeentewestland.nl
 belastingbalie-test.leeuwarden.nl
 belastingbalie-test.meppel.nl
 belastingbalie-test.rijswijk.nl
+belastingbalie-test.smallingerland.nl
 belastingbalie.acc.amsterdam.nl
 belastingbalie.acc.nissewaard.nl
 belastingbalie.acc.rhenen.nl
@@ -1672,6 +1677,7 @@ belastingbalie.pijnacker-nootdorp.nl
 belastingbalie.rhenen.nl
 belastingbalie.rijswijk.nl
 belastingbalie.roerdalen.nl
+belastingbalie.smallingerland.nl
 belastingbalietest.capelleaandenijssel.nl
 belastingen-acc.almere.nl
 belastingen-acc.arnhem.nl
@@ -1774,6 +1780,7 @@ berichten.rijswijk.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtenverkeer.gemeentewestland.nl
 berichtenverkeer.gouda.nl
+berichtenverkeer.smallingerland.nl
 berichtverkeer.acc.amsterdam.nl
 berichtverkeer.amsterdam.nl
 bermod-fa.amsterdam.nl
@@ -1839,6 +1846,7 @@ betalen.pijnacker-nootdorp.nl
 betalen.rhenen.nl
 betalen.rijswijk.nl
 betalen.scherpenzeel.nl
+betalen.smallingerland.nl
 betalenaan.oirschot.nl
 betalingen.amsterdam.nl
 beugen.landvancuijk.nl
@@ -2239,6 +2247,8 @@ cmsflash.scherpenzeel.nl
 cmshofnet.coevorden.nl
 cmshuisnet.nieuwegein.nl
 cmshuisnettest.nieuwegein.nl
+cmsids-test.smallingerland.nl
+cmsids.smallingerland.nl
 cmsinhuiz.huizen.nl
 cmsinsite.houten.nl
 cmsintranet.edam-volendam.nl
@@ -2337,6 +2347,7 @@ connect.kerkrade.nl
 connect.oldenzaal.nl
 connect.overbetuwe.nl
 connect.pekela.nl
+connect.smallingerland.nl
 connect.staging.overbetuwe.nl
 connect.test.coevorden.nl
 connect.test.dantumadiel.frl
@@ -2822,6 +2833,7 @@ digikoppeling.scherpenzeel.nl
 digikoppeling.schiedam.nl
 digikoppeling.schouwen-duiveland.nl
 digikoppeling.sint-michielsgestel.nl
+digikoppeling.smallingerland.nl
 digikoppeling.ta-twd.rotterdam.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
@@ -2844,6 +2856,7 @@ digikoppelingjnet.leeuwarden.nl
 digikoppelingtest.bernheze.org
 digikoppelingtest.heemskerk.nl
 digikoppelingtest.helmond.nl
+digikoppelingtest.smallingerland.nl
 digikoppelingtst.arnhem.nl
 digikoppelingtst.rheden.nl
 digikoppelingwoz.schouwen-duiveland.nl
@@ -3936,6 +3949,7 @@ flowmailer-tracking.parkeervergunning.leeuwarden.nl
 flowmailer-tracking.rijswijk.nl
 flowmailer-tracking.roermond.nl
 flowmailer-tracking.schouwen-duiveland.nl
+flowmailer-tracking.smallingerland.nl
 fm.apeldoorn.nl
 fm.krimpenerwaard.nl
 fm01.apeldoorn.nl
@@ -4163,6 +4177,7 @@ geldloket.emmen.nl
 geldrop-mierlo.nl
 geldzaken.loonopzand.nl
 gem.overbetuwe.nl
+gemalen.smallingerland.nl
 gemberichten.geertruidenberg.nl
 gemeente-oldambt.nl
 gemeente-steenbergen.nl
@@ -4914,6 +4929,7 @@ iburgerzaken.roosendaal.nl
 iburgerzaken.rozendaal.nl
 iburgerzaken.s-hertogenbosch.nl
 iburgerzaken.schagen.nl
+iburgerzaken.smallingerland.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5052,6 +5068,7 @@ ibzpink.roermond.nl
 ibzpink.roosendaal.nl
 ibzpink.rozendaal.nl
 ibzpink.schagen.nl
+ibzpink.smallingerland.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -5092,7 +5109,9 @@ idrac6.ovh.gemeentebeek.nl
 idrac7.ovh.gemeentebeek.nl
 idrac8.ovh.gemeentebeek.nl
 idrac9.ovh.gemeentebeek.nl
+ids-test.smallingerland.nl
 ids.almelo.nl
+ids.smallingerland.nl
 idselect.accp.s-hertogenbosch.nl
 idselect.hollandskroon.nl
 idselect.s-hertogenbosch.nl
@@ -5897,6 +5916,7 @@ localhost.borger-odoorn.nl
 localhost.ede.nl
 localhost.hillegom.nl
 localhost.opsterland.nl
+localhost.smallingerland.nl
 lochem.nl
 logilink.brunssum.nl
 logilink.debilt.nl
@@ -5964,6 +5984,7 @@ loket.acceptatie.renkum.nl
 loket.acceptatie.rheden.nl
 loket.acceptatie.ridderkerk.nl
 loket.acceptatie.sliedrecht.nl
+loket.acceptatie.smallingerland.nl
 loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
@@ -6012,6 +6033,7 @@ loket.rhenen.nl
 loket.ridderkerk.nl
 loket.rijssen-holten.nl
 loket.sliedrecht.nl
+loket.smallingerland.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
@@ -6171,14 +6193,20 @@ mail.s-hertogenbosch.nl
 mail.samen.rhenen.nl
 mail.schouwen-duiveland.nl
 mail.sittard-geleen.nl
+mail.smallingerland.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
+mail1.smallingerland.nl
 mail2.amersfoort.nl
 mail2.groningen.nl
 mail2.heerenveen.nl
 mail2.oostgelre.nl
 mail2.sittard-geleen.nl
+mail2.smallingerland.nl
+mail3.smallingerland.nl
+mail4.smallingerland.nl
+mail5.smallingerland.nl
 mailct.nijmegen.nl
 mailexo.acc.amsterdam.nl
 mailexo.amsterdam.nl
@@ -7609,6 +7637,7 @@ parkeren-acc.nissewaard.nl
 parkeren-acc.roermond.nl
 parkeren-acc.schouwen-duiveland.nl
 parkeren-acc.sittard-geleen.nl
+parkeren-acc.smallingerland.nl
 parkeren-edu.amsterdam.nl
 parkeren-prod.schiedam.nl
 parkeren-siam-prod.schiedam.nl
@@ -7661,6 +7690,7 @@ parkeren.roermond.nl
 parkeren.s-hertogenbosch.nl
 parkeren.schouwen-duiveland.nl
 parkeren.sittard-geleen.nl
+parkeren.smallingerland.nl
 parkerenapp-prod.schiedam.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
@@ -8014,6 +8044,7 @@ preprod.noordwijk.nl
 preprod.oldebroek.nl
 preprod.overbetuwe.nl
 preprod.rheden.nl
+preprod.smallingerland.nl
 preprod.vergunningintaker.bernheze.org
 preprod.vergunningintaker.hellendoorn.nl
 preprod.vergunningintaker.nunspeet.nl
@@ -8273,6 +8304,7 @@ pwa.ridderkerk.nl
 pzr.rotterdam.nl
 qcalendar.deventer.nl
 qfact.hofvantwente.nl
+qmanage.smallingerland.nl
 qr-acc.capelleaandenijssel.nl
 qr-acc.gooisemeren.nl
 qr-test.meierijstad.nl
@@ -9066,6 +9098,7 @@ sliedrecht.nl
 slimbereikbaar.assen.nl
 slimmeapparaten.amsterdam.nl
 sm1-sec.schiedam.nl
+smallingerland.nl
 smap.almere.nl
 smartaim-test.haarlemmermeer.nl
 smartaim.haarlemmermeer.nl
@@ -9268,6 +9301,7 @@ squitxo.schagen.nl
 squitxotest.goirle.nl
 srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
+srv-app52.smallingerland.nl
 srv-dmz-01.middendelfland.nl
 srvmksbur.buren.nl
 sscict.intranet.amsterdam.nl
@@ -10701,6 +10735,7 @@ werkplek.rheden.nl
 werkplek.roosendaal.nl
 werkplek.rucphen.nl
 werkplek.schagen.nl
+werkplek.smallingerland.nl
 werkplek01.derondevenen.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
@@ -11648,6 +11683,7 @@ www.sittard-geleen.nl
 www.sliedrecht.nl
 www.slimbereikbaar.assen.nl
 www.slotervaart.amsterdam.nl
+www.smallingerland.nl
 www.smartatsea.denhaag.nl
 www.smartcity.denhaag.nl
 www.sociaalloket.medemblik.nl
