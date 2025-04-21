@@ -35,8 +35,8 @@ afspraak
 vpn
 adfs
 broker
-api.meldingen
 betalen
+api.meldingen
 pv
 ruimtelijkeplannen
 parkeren
@@ -88,6 +88,7 @@ belastingloket
 test-intranet
 dtestloket
 verkiezingen
+snelbalie
 digikoppeling.test
 parkeren-acc
 woningbouwkaart
@@ -95,7 +96,6 @@ extranet
 www.webmail
 vergunningintaker
 piwik
-snelbalie
 duurzaam
 preprod
 gemeente
@@ -125,6 +125,7 @@ belastingportaal
 _autodiscover._tcp
 e
 preprod-mijninkomen
+snelbaliepp
 apps
 openzaak
 acc-mijn
@@ -145,7 +146,6 @@ web
 afvalkalender
 dali
 mailing
-snelbaliepp
 api.betalen
 ftp
 nieuwsbrief
@@ -192,6 +192,8 @@ test-digikoppeling
 meedoen
 iarchief
 jccapi
+mijnsociaalplein
+preprod-mijnsociaalplein
 bor
 inproces.acceptatie
 outlook
@@ -216,8 +218,6 @@ lyncdiscover
 byod
 guest
 publicroam
-mijnsociaalplein
-preprod-mijnsociaalplein
 intranet-acc
 mobile
 ro
@@ -293,6 +293,7 @@ parkeervergunning
 parkeervergunningen
 services
 woz
+e-loket
 gbi
 mijngeldzaken
 ns1
@@ -314,6 +315,7 @@ omgevingswet
 programmabegroting
 test-secure
 medewerkers
+woz-loket
 subsidies-login
 _dmarc
 topdesk
@@ -352,7 +354,6 @@ atlas
 edison
 magazines
 octopus
-e-loket
 geotest
 moh-acc
 moh
@@ -370,6 +371,9 @@ kaartviewer
 nhr
 personeelsplanning
 simcms-preproductie
+klimaatplein
+mijnsociaalportaal-acc
+mijnsociaalportaal
 wij
 digikoppelingtest
 cloud
@@ -391,7 +395,6 @@ logilink
 download
 connect.test
 contentbeheer.test
-woz-loket
 zaken.test
 grooster
 subsidies-login.acceptatie
@@ -472,10 +475,7 @@ djuma
 eforms
 sentry
 acceptatieloket
-klimaatplein
 live
-mijnsociaalportaal-acc
-mijnsociaalportaal
 zorg
 esb
 identity
