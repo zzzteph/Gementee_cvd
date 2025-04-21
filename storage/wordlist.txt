@@ -20,8 +20,8 @@ probeer
 loket
 felix
 formulieren
-eloket
 dkd
+eloket
 test
 meldingen
 werkplek
@@ -34,18 +34,18 @@ adfs
 api.meldingen
 broker
 geo
-vpn
 pv
+vpn
 raad
 ruimtelijkeplannen
-betalen
-iparticipatie
 werkenbij
 parkeren
+betalen
+iparticipatie
 enterpriseenrollment
 test-ipa
-gemeenteraad
 zaaksysteem-accept
+gemeenteraad
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
@@ -65,9 +65,9 @@ login
 digikoppeling-test
 formulier
 loket.acceptatie
+flowmailer-tracking
 cmsoo
 zaken
-flowmailer-tracking
 hybrid
 enterpriseregistration
 beeldbank
@@ -96,6 +96,7 @@ filecap
 connect
 mijnzorg
 vergunningintaker
+denkmee
 portaal
 verkiezingen
 parkeren-test
@@ -105,7 +106,6 @@ test-intranet
 doemee
 jaarstukken
 _autodiscover._tcp
-denkmee
 mijninkomen
 subsidies
 snelbalie
@@ -113,6 +113,7 @@ preprod
 siam
 qr
 openzaak
+parkeren-acc
 auth
 acc-mijn
 acc-objecten
@@ -127,7 +128,6 @@ squit2go
 begroting
 preprod-mijninkomen
 mailing
-parkeren-acc
 acc-notificaties
 acc-openklant
 bastion365
@@ -168,6 +168,7 @@ veiligdelen
 wachtwoord
 subsidies-backend
 evenementen
+afvalkalender
 snelbaliepp
 vdi
 jcc
@@ -189,7 +190,6 @@ mijnzorg-acc
 kennisbank
 college
 melddesk
-afvalkalender
 onderzoek
 telewerken
 gis
@@ -446,6 +446,7 @@ live
 mijnsociaalportaal-acc
 mijnsociaalportaal
 zorg
+zorgmail
 digikoppelingtest
 preprod.vergunningintaker
 testcms-intranet
@@ -688,7 +689,6 @@ intranetcms-acc
 testberichten
 esb
 identity
-zorgmail
 wwwtest
 acc-openwave
 corona
@@ -735,6 +735,7 @@ womserver
 uitwijk
 mbg
 clicksfm
+link
 osbtest
 qr-acc
 servicebus
@@ -2484,7 +2485,6 @@ preprod-broker
 srvmksbur
 wmoservice
 belastingbalietest
-link
 lvgeo.acc
 lvgeo
 esp
@@ -5757,3 +5757,14 @@ webserver
 websrv01
 websrv03
 zendto
+digikoppelingwoz
+gast
+ijz
+ijz2
+solliciteren
+stuf3gbavzstest
+stuf3zstest
+stufddsprod
+stufddstest
+wup
+wup2
