@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 mijn
+webmail
 simsite
 mail
 afspraken
@@ -31,8 +31,8 @@ afspraak
 open
 geo
 raad
-waarmerk
 vpn
+waarmerk
 parkeren
 betalen
 adfs
@@ -42,8 +42,8 @@ broker
 pv
 enterpriseenrollment
 werkenbij
-iparticipatie
 zaaksysteem-accept
+iparticipatie
 gemeenteraad
 test-ipa
 testeloket
@@ -100,6 +100,7 @@ verkiezingen
 parkeren-test
 piwik
 snelbalie
+afvalkalender
 siam
 woningbouwkaart
 www.webmail
@@ -108,11 +109,11 @@ squit2go
 mijnzorg
 vergunningintaker
 mijninkomen
-afvalkalender
 duurzaam
 preprod
 auth
 bastion365
+sts
 obsurv
 begroting
 _autodiscover._tcp
@@ -122,9 +123,9 @@ web
 subsidies
 preprod-mijninkomen
 qr
+apps
 acc-formulier
 acc-podiumd-logs
-sts
 klantcontact
 simcms-open
 dtestmidoffice
@@ -135,7 +136,6 @@ gisib
 dali
 snelbaliepp
 api.betalen
-apps
 nieuwsbrief
 openzaak
 acc-mijn
@@ -366,6 +366,7 @@ rpl3
 test-zaakloket
 testsiam
 zaakloket
+bewustwording
 mail1
 atlas
 magazines
@@ -425,6 +426,7 @@ filr
 mijnloket
 www.openstad
 digitalebalie
+mobility
 socialekaart
 gt-loket
 ondernemen
@@ -474,7 +476,6 @@ digitaalnachtregister
 css.openstad
 ssp
 activesync
-bewustwording
 crl
 belastingbalie.acc
 bouwdossiers
@@ -577,9 +578,9 @@ efactuur
 relay
 webdav
 webformulieren
+router
 klantportaal.acc
 prod
-mobility
 grondwater
 vergunningen
 www.socialekaart
@@ -914,7 +915,6 @@ besluitvorming
 test-digikoppelingadapter
 dkd.berichtenverkeer
 geoinformatie
-router
 dok
 www.zorgloket
 zmm
@@ -1117,6 +1117,7 @@ bibliotheek
 edison-opl
 www.bibliotheek
 oig
+webserver
 dis4fin
 secure-t
 camera
@@ -5763,7 +5764,6 @@ prod.digikoppeling
 schiedata
 sgen
 sm1-sec
-webserver
 websrv01
 websrv03
 zendto
@@ -6505,3 +6505,8 @@ e.videobellen
 gebiedsteam
 squit2go-acc
 squit2go-beheer-acc
+key2
+key2dd-test
+key2dd
+opvangvluchtelingen
+straling
