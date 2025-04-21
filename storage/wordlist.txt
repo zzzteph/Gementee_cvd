@@ -12,9 +12,9 @@ simsite
 mail
 afspraken
 digikoppeling
+secure
 acceptatie
 preproductie
-secure
 simcms
 probeer
 felix
@@ -44,9 +44,9 @@ werkenbij
 iparticipatie
 belastingen
 gemeenteraad
+enterpriseenrollment
 test-ipa
 zaaksysteem-accept
-enterpriseenrollment
 testeloket
 openpdc
 dacceptatieloket
@@ -111,6 +111,7 @@ portaal
 mijninkomen
 parkeren-test
 subsidies
+siam
 acc-formulier
 acc-podiumd-logs
 simcms-open
@@ -119,7 +120,6 @@ begroting
 _autodiscover._tcp
 e
 preprod-mijninkomen
-siam
 qr
 openzaak
 acc-mijn
@@ -277,6 +277,7 @@ dkd-test
 gemeentearchief
 ro-online
 www.duurzaam
+mozard
 ns
 app
 beheer
@@ -336,7 +337,7 @@ stadsarchief
 exchange
 mijnoverzicht
 rpl3
-mozard
+mozardtest
 wion
 atlas
 api
@@ -393,6 +394,7 @@ klantportaal
 test.digikoppeling
 filr
 www.openstad
+bestuur
 webservices
 digitalebalie
 mta-sts
@@ -424,7 +426,9 @@ planon
 digitaalnachtregister
 msoid
 ssp
-mozardtest
+test-zaakloket
+testsiam
+zaakloket
 activesync
 bewustwording
 crl
@@ -438,6 +442,7 @@ melding
 nieuwsbrieven
 ombudsman
 parkeervergunningen-acc
+regelgeving
 top
 wob
 www.ruimtelijkeplannen
@@ -514,7 +519,6 @@ allegroweb
 intra
 mijnloket
 winkelen
-bestuur
 efactuur
 relay
 webdav
@@ -547,6 +551,7 @@ gemeentewinkel
 mijnmobiel
 support
 www.login
+tim
 wmoloket
 authenticatie
 berichtenverkeer
@@ -636,9 +641,6 @@ qr.testdigitaalgemeenteloket
 samenveiligwerken
 testdigitaalgemeenteloket
 www.centrumbegroot
-test-zaakloket
-testsiam
-zaakloket
 redactie
 aanmeldenparkeren
 acc.meldingen
@@ -662,7 +664,6 @@ octopus-portaal
 octopus-webdav
 ois
 parkeervergunningen.acc
-regelgeving
 rekenkamer
 social
 sportverhuur
@@ -869,7 +870,6 @@ nedplan
 secudoc
 www.mijnmobiel
 liquitsatellite
-tim
 www.djuma
 www.eloket
 www.parkeren
@@ -5999,3 +5999,4 @@ tijdregistratie
 tnz-park-01
 tnz-park-02
 tnz-rad-01
+co2monitor

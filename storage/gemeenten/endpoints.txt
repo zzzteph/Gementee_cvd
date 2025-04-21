@@ -172,6 +172,7 @@ http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
 http://autodiscover.stedebroec.nl
 http://autodiscover.terneuzen.nl
+http://autodiscover.terschelling.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
@@ -1742,6 +1743,7 @@ https://cmssocial.montferland.info
 https://cmstest-insite.nijmegen.nl
 https://cmswhatsepe.epe.nl
 https://cnoops.gemeentemaasgouw.nl
+https://co2monitor.terschelling.nl
 https://coevorden.nl
 https://cognos-oth.oosterhout.nl
 https://collecties.dantumadiel.frl
@@ -2495,6 +2497,7 @@ https://enterpriseenrollment.oss.nl
 https://enterpriseenrollment.rheden.nl
 https://enterpriseenrollment.roosendaal.nl
 https://enterpriseenrollment.schiermonnikoog.nl
+https://enterpriseenrollment.terschelling.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone.almere.nl
@@ -4254,9 +4257,11 @@ https://mozard.ameland.nl
 https://mozard.bunnik.nl
 https://mozard.gooisemeren.nl
 https://mozard.schiermonnikoog.nl
+https://mozard.terschelling.nl
 https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
 https://mozardtest.schiermonnikoog.nl
+https://mozardtest.terschelling.nl
 https://mpinajaar.haarlemmermeer.nl
 https://mpivoorjaar.haarlemmermeer.nl
 https://msm.almelo.nl
@@ -5391,6 +5396,7 @@ https://siam.ameland.nl
 https://siam.bunnik.nl
 https://siam.rhenen.nl
 https://siam.schiermonnikoog.nl
+https://siam.terschelling.nl
 https://siamtest.bunnik.nl
 https://sibp01.lelystad.nl
 https://sibt01.lelystad.nl
@@ -5435,6 +5441,7 @@ https://simcms.opsterland.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.staphorst.nl
+https://simcms.terschelling.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.t-diel.nl
 https://simform-test.rijswijk.nl
@@ -5758,6 +5765,7 @@ https://telewerken.hellevoetsluis.nl
 https://telewerken.nederbetuwe.nl
 https://telewerken.stichtsevecht.nl
 https://terneuzen.nl
+https://terschelling.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingloket.purmerend.nl
 https://test-cmsdok.dronten.nl
@@ -5805,6 +5813,7 @@ https://test-website-westland.gemeentewestland.nl
 https://test-witgoed.middendrenthe.nl
 https://test-zaakloket.ameland.nl
 https://test-zaakloket.schiermonnikoog.nl
+https://test-zaakloket.terschelling.nl
 https://test.api.tod.leiden.nl
 https://test.app.amsterdam.nl
 https://test.beverwijk.nl
@@ -5887,6 +5896,7 @@ https://testmijnzaken.schagen.nl
 https://testportaal.almelo.nl
 https://testsiam.ameland.nl
 https://testsiam.schiermonnikoog.nl
+https://testsiam.terschelling.nl
 https://testwebsite.losser.nl
 https://testwozloket.borger-odoorn.nl
 https://testwww.rucphen.nl
@@ -6938,6 +6948,7 @@ https://zaak-dev.barneveld.nl
 https://zaak.barneveld.nl
 https://zaakloket.ameland.nl
 https://zaakloket.schiermonnikoog.nl
+https://zaakloket.terschelling.nl
 https://zaaksysteem-acc.meppel.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
