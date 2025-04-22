@@ -13,8 +13,8 @@ simsite
 digikoppeling
 afspraken
 preproductie
-secure
 simcms
+secure
 acceptatie
 felix
 probeer
@@ -29,10 +29,10 @@ portal
 waarmerk
 afspraak
 meldingen
-parkeren
-geo
 raad
+parkeren
 open
+geo
 vpn
 betalen
 adfs
@@ -42,10 +42,10 @@ gemeenteraad
 iparticipatie
 ruimtelijkeplannen
 werkenbij
+belastingen
 pv
 test-ipa
 zaaksysteem-accept
-belastingen
 enterpriseenrollment
 testeloket
 dacceptatieloket
@@ -53,17 +53,17 @@ dacceptatiemidoffice
 openpdc
 dloket
 dmidoffice
+remote
 data
 openpub
-remote
 omgevingsvisie
 belastingbalie
 cmsoo
+loket.acceptatie
 meldingen-acc
 osb
 login
 api.meldingen-acc
-loket.acceptatie
 digikoppeling-test
 beeldbank
 cloudadapter-test
@@ -90,12 +90,12 @@ financien
 acc-broker
 extranet
 govroam
+doemee
 dtestloket
 test-cmsintranet
 parkeren-test
 siam
 samen
-doemee
 portaal
 verkiezingen
 duurzaam
@@ -112,6 +112,7 @@ afvalkalender
 qr
 bastion365
 woningbouwkaart
+simcms-open
 dtestmidoffice
 preprodbroker
 vergunningintaker
@@ -126,7 +127,6 @@ sip
 sts
 obsurv
 micollab
-simcms-open
 mdm
 contentbeheer
 begroting
@@ -169,6 +169,7 @@ mailing
 vdi
 ftp
 legacy
+gis
 acc-notificaties
 acc-openklant
 objecten
@@ -181,6 +182,7 @@ contentbeheer.acceptatie
 zaken.acceptatie
 bestuur
 squit2020
+afspraakmaken
 mta-sts
 zaaksysteem
 fs
@@ -192,7 +194,6 @@ jcc
 email
 sharefile
 telewerken
-gis
 acc-contact
 acc-keycloak
 acc-openzaak
@@ -200,11 +201,12 @@ openklant
 fmreturn
 iarchief
 intranet-acc
+mobile
 bor
 inproces.acceptatie
 outlook
 testloket
-afspraakmaken
+geoportaal
 kennisbank
 preprod-mijn
 wachtwoord
@@ -214,6 +216,7 @@ website
 gemeentearchief
 desktop
 e-loket
+opendata
 woo
 bag
 bis
@@ -223,14 +226,12 @@ publicroam
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
-mobile
 archief
 vth
 belastingbalie-test
 bestanden
 mx1
 mx2
-geoportaal
 www.portal
 handhaving
 mijnzorg-acc
@@ -246,7 +247,6 @@ parkeervergunningen
 woz
 www.acc
 openstad
-opendata
 afval
 data-test
 www.gemeenteraad
@@ -256,6 +256,8 @@ key2gbav
 filetransfer
 acceptatie-open
 woz-portaal
+kcc
+en
 contact
 mijnsociaaldomein
 cloudadapter-prod
@@ -301,9 +303,7 @@ eformulieren
 squit2020.acceptatie
 academie
 www.intranet
-kcc
 squit2020publiceren
-en
 liquit
 beeldbankbeheer
 sbc01
@@ -337,6 +337,7 @@ rooster
 geoserver
 simcms-preproductie
 uca
+esb
 wifi
 cloud
 www.doemee
@@ -414,7 +415,6 @@ mijnsociaalportaal-acc
 mijnsociaalportaal
 wij
 zorg
-esb
 csc
 mbg1
 elokettest
@@ -495,6 +495,7 @@ edienstenmijninkomen-acceptatie
 edienstenmijninkomen
 edienstverlening-preprod
 edienstverlening
+aanvragen
 autorisatie
 ldap
 pub
@@ -511,6 +512,7 @@ crl
 belastingbalie-acc
 belastingbalie.acc
 bouwdossiers
+centrum
 dataportaal
 edison-acc
 ggd
@@ -694,7 +696,6 @@ service
 qmanage
 edienstenburgerzaken.test
 www.praatmee
-aanvragen
 av
 datalab
 gen1
@@ -751,7 +752,6 @@ berichtverkeer
 bi
 burgerzaken
 buurtbudget
-centrum
 docgen
 erfpacht
 fileshare
@@ -902,6 +902,8 @@ lev
 m1
 m2
 sem
+sng
+sngtest
 stats.intranet
 www.archief
 bo-parkeervergunningen.acc
@@ -1187,6 +1189,7 @@ zwemmen
 wsn-mail
 autodiscover.raad
 spamfilter
+testbelastingen
 webapps
 email.mail.participatie
 aalten-checker-preprod
@@ -2712,8 +2715,6 @@ publiekwifi
 sbir1.lev
 sbir2.lev
 siraskalot
-sng
-sngtest
 storefronttest
 sv11961
 sv12701
@@ -6700,7 +6701,6 @@ remotevoice
 test-cmszaanzoeker
 test-wiz
 test-zaanzoeker
-testbelastingen
 tiles
 viewer-acc
 viewer
@@ -6740,3 +6740,21 @@ www.owncloud
 www.thuis
 acctest
 zs-accept
+aiz
+beeldbellen
+buytenweghdeleyens
+enzo
+enzobeheer
+horizon
+inwonerportaal-test
+inwonerportaal
+lliam-test
+lliam
+meerzicht
+noordhoveseghwaert
+oosterheem
+opendata-contrast
+rokkeveen
+simcms-raad
+stadsatlas-contrast
+stadsatlas
