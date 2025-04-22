@@ -45,8 +45,8 @@ gemeenteraad
 enterpriseenrollment
 pv
 werkenbij
-testeloket
 zaaksysteem-accept
+testeloket
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
@@ -102,6 +102,7 @@ pki
 filecap
 squit2go
 mijnzorg
+_autodiscover._tcp
 parkeren-test
 snelbalie
 afvalkalender
@@ -111,7 +112,6 @@ woningbouwkaart
 klantcontact
 www.webmail
 dtestmidoffice
-_autodiscover._tcp
 vergunningintaker
 simform
 mijninkomen
@@ -260,10 +260,12 @@ midoffice
 vergunningintaker-preprod
 geovisia
 praatmee
+makelaar
 servicedesk
 belastingen-acc
 cms
 exchange
+ro-online
 mozard
 bewustwording
 magazine
@@ -308,12 +310,10 @@ gisibgeoserver
 pdc
 www.werkenbij
 zoeken
-makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
 diensten
 dkd-test
-ro-online
 www.duurzaam
 mozardtest
 wion
@@ -742,6 +742,7 @@ applicaties
 autodiscover.ggd
 berichtverkeer
 bi
+burgerzaken
 buurtbudget
 centrum
 docgen
@@ -1585,7 +1586,6 @@ bounces-eps
 bp.data
 brediusbad
 buikslotermeerplein
-burgerzaken
 buurtbudgetnoord
 buurtbudgetzuid
 buurtbudgetzuidoost
@@ -6634,3 +6634,5 @@ mailings
 owas
 skype
 wdm-fepoolweb-ext
+plek
+vmjboss01.gem-dom
