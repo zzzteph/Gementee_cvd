@@ -18,8 +18,8 @@ secure
 acceptatie
 felix
 probeer
-formulieren
 loket
+formulieren
 test
 eloket
 dkd
@@ -29,9 +29,9 @@ portal
 waarmerk
 afspraak
 meldingen
-open
 raad
 parkeren
+open
 geo
 vpn
 api.meldingen
@@ -58,19 +58,19 @@ remote
 data
 openpub
 api.meldingen-acc
+loket.acceptatie
 omgevingsvisie
 login
 belastingbalie
 cmsoo
 cloudadapter-test
-loket.acceptatie
 osb
 digikoppeling-test
 enterpriseregistration
 beeldbank
 flowmailer-tracking
-kaart
 zaken
+kaart
 berichten
 cloudadapter
 kaarten
@@ -81,11 +81,11 @@ digikoppeling.test
 test-intranet
 cmsintranet
 denkmee
+parkeren-test
 mks
 belastingloket
 connect
 osbacc
-parkeren-test
 piwik
 siam
 financien
@@ -108,6 +108,7 @@ filecap
 squit2go
 mijnzorg
 _autodiscover._tcp
+vergunningintaker
 snelbalie
 afvalkalender
 dali
@@ -120,8 +121,8 @@ obsurv
 dtestmidoffice
 begroting
 preprodbroker
-vergunningintaker
 simform
+web
 mijninkomen
 preprod
 auth
@@ -131,7 +132,7 @@ micollab
 mdm
 contentbeheer
 e
-web
+gisib
 izaaksuite
 subsidies
 preprod-mijninkomen
@@ -142,7 +143,6 @@ acc-podiumd-logs
 jaarstukken
 connect.acceptatie
 belastingportaal
-gisib
 maps
 nieuwsbrief
 openzaak
@@ -164,6 +164,7 @@ inproces
 cryptshare
 transfer
 internetafspraken
+college
 veiligdelen
 mailing
 vdi
@@ -189,7 +190,6 @@ afspraakmaken
 mta-sts
 zaaksysteem
 fs
-college
 evenementen
 mail2
 onderzoek
@@ -239,6 +239,7 @@ www.portal
 cloudadapter-prod
 handhaving
 mijnzorg-acc
+vergunningintaker-preprod
 simform-preproductie
 praatmee
 subsidie
@@ -263,8 +264,12 @@ en
 contact
 mijnsociaaldomein
 midoffice
-vergunningintaker-preprod
 geovisia
+gisib-test
+gisibapi-test
+gisibapi
+gisibgeoserver-test
+gisibgeoserver
 www.werkenbij
 makelaar
 servicedesk
@@ -313,11 +318,6 @@ participatie
 www.acceptatie
 documenten
 toegang
-gisib-test
-gisibapi-test
-gisibapi
-gisibgeoserver-test
-gisibgeoserver
 pdc
 zoeken
 subsidies-backend.acceptatie
@@ -447,6 +447,9 @@ filr
 intra
 mijnloket
 www.openstad
+parkeeracties
+parkeren-siam-test
+parkeren-siam
 relay
 router
 digitalebalie
@@ -474,6 +477,8 @@ sso
 gemeentebestuur
 geoweb
 testdigikoppeling
+rxlaunch-signicat-preprod
+vthbroker
 digitaal
 teleweb
 cars
@@ -607,9 +612,7 @@ scbroker
 www.financielestukken
 geodata-acc
 micc
-parkeeracties
-parkeren-siam-test
-parkeren-siam
+parkeeracties-test
 preprod-sociaalportaal
 sociaalportaal
 efactuur
@@ -669,8 +672,6 @@ autodiscover.vvd
 www2
 ons
 sera
-rxlaunch-signicat-preprod
-vthbroker
 bzg1-acc
 key2datadistributie
 vacatures
@@ -941,7 +942,6 @@ zorgaanbieders
 begraven
 programmabegroting2024.financielestukken
 gisweb
-parkeeracties-test
 site
 serverruimte
 centric
@@ -6784,3 +6784,5 @@ sigmax-acc
 sjaak.test
 sjaak
 digik
+zwijndrecht-checker-preprod
+zwijndrecht-checker
