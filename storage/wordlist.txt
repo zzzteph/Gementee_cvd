@@ -29,14 +29,14 @@ acc
 waarmerk
 afspraak
 meldingen
+geo
 parkeren
 open
-geo
 raad
 vpn
+betalen
 adfs
 api.meldingen
-betalen
 gemeenteraad
 broker
 iparticipatie
@@ -628,6 +628,7 @@ pip-test
 www.gemeente
 gbionlinetest
 squit2gotest
+geo-secure
 www.login
 liquitsatellite
 www.parkeren
@@ -966,7 +967,6 @@ mijn-acceptatie
 parkeervergunningtest
 test-contact
 zoek
-geo-secure
 financieelportaal
 intake
 organisatie
