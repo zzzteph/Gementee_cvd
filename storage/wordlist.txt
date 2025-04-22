@@ -64,9 +64,9 @@ cmsoo
 loket.acceptatie
 meldingen-acc
 api.meldingen-acc
+digikoppeling-test
 cloudadapter-test
 flowmailer-tracking
-digikoppeling-test
 enterpriseregistration
 beeldbank
 zaken
@@ -77,12 +77,12 @@ formulier
 cloudadapter
 kaarten
 parkeren-acc
+denkmee
 mks
 belastingloket
 test-intranet
 connect
 cmsintranet
-denkmee
 osbacc
 digikoppeling.test
 acc-broker
@@ -121,6 +121,7 @@ qr
 apps
 auth
 bgt
+sip
 sts
 obsurv
 micollab
@@ -137,7 +138,6 @@ preprod-mijninkomen
 api.betalen
 acc-formulier
 acc-podiumd-logs
-sip
 jaarstukken
 belastingportaal
 gisib
@@ -148,6 +148,7 @@ acc-mijn
 acc-objecten
 acc-objecttypen
 keycloak
+lyncdiscover
 notificaties
 owa
 podiumd-logs
@@ -169,7 +170,6 @@ ftp
 legacy
 acc-notificaties
 acc-openklant
-lyncdiscover
 objecten
 objecttypen
 meedoen
@@ -1123,6 +1123,7 @@ kadernota
 regieportaal
 zorg-acc
 lokettest
+opentunnel
 portaaltest
 mymeeting
 scep
@@ -1147,6 +1148,9 @@ smtp20
 stwapp02
 talentenbank
 www.talentenbank
+psiam
+tloket
+tsiam
 kantoor
 www.jcc
 mijnwerkplek
@@ -4923,7 +4927,6 @@ mdjcc
 mdliquit
 mdmks
 mdtel01
-opentunnel
 opentunnel.test
 roel
 sportief
@@ -5232,9 +5235,6 @@ stwidocosw02
 stwmksoost01
 www.stempasfonds
 www.stwidocosw02
-psiam
-tloket
-tsiam
 LVOLO-PROD
 LVOLO-TEST
 im
