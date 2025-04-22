@@ -12,8 +12,8 @@ mail
 simsite
 afspraken
 digikoppeling
-secure
 preproductie
+secure
 simcms
 acceptatie
 felix
@@ -27,8 +27,8 @@ werkplek
 portal
 acc
 waarmerk
-afspraak
 meldingen
+afspraak
 open
 geo
 raad
@@ -36,8 +36,8 @@ vpn
 parkeren
 adfs
 betalen
-broker
 api.meldingen
+broker
 iparticipatie
 ruimtelijkeplannen
 test-ipa
@@ -61,10 +61,10 @@ remote
 login
 cmsoo
 loket.acceptatie
-osb
 meldingen-acc
-cloudadapter-test
+osb
 api.meldingen-acc
+cloudadapter-test
 flowmailer-tracking
 digikoppeling-test
 enterpriseregistration
@@ -96,8 +96,10 @@ test-cmsintranet
 portaal
 verkiezingen
 piwik
+duurzaam
 siam
 gemeente
+klantcontact
 pki
 filecap
 squit2go
@@ -106,10 +108,8 @@ _autodiscover._tcp
 parkeren-test
 snelbalie
 afvalkalender
-duurzaam
 bastion365
 woningbouwkaart
-klantcontact
 www.webmail
 dtestmidoffice
 vergunningintaker
@@ -197,6 +197,7 @@ test-digikoppeling
 iarchief
 formulieren-test
 intranet-acc
+bor
 inproces.acceptatie
 outlook
 testloket
@@ -221,7 +222,6 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
-bor
 belastingbalie-test
 bestanden
 mta-sts
@@ -270,6 +270,7 @@ mozard
 bewustwording
 magazine
 ns
+wion
 www.test
 ns1
 sslvpn
@@ -319,7 +320,6 @@ diensten
 dkd-test
 www.duurzaam
 mozardtest
-wion
 api
 app
 beheer
@@ -330,6 +330,7 @@ gbi
 mijngeldzaken
 rooster
 geoserver
+simcms-preproductie
 uca
 wifi
 digikoppelingtest
@@ -366,6 +367,7 @@ mijnuitkering
 stemvan
 ibabs
 support
+tim
 gateway
 bezoekersparkeren
 www.afspraken
@@ -401,7 +403,6 @@ beeldbank-bo
 kaartviewer
 nhr
 personeelsplanning
-simcms-preproductie
 djuma
 klimaatplein
 mijnsociaalportaal-acc
@@ -451,9 +452,10 @@ e.openstad
 gbionline
 cca-acc
 cca
+corsa-prod
+corsa-test
 gemeentewinkel
 radius
-tim
 pip
 www.werkplek
 authenticatie
@@ -547,6 +549,7 @@ zorgmail
 preprod.vergunningintaker
 testcms-intranet
 digid-parkeervergunningen
+simcms-duurzaam
 wmo
 testformulieren
 automator
@@ -620,8 +623,6 @@ pip-test
 www.gemeente
 gbionlinetest
 squit2gotest
-corsa-prod
-corsa-test
 mijnmobiel
 www.login
 liquitsatellite
@@ -834,7 +835,6 @@ acc-openwave
 corona
 key2financien-prod
 key2financien-test
-simcms-duurzaam
 admin.doemee
 api.doemee
 auth.doemee
@@ -6650,3 +6650,6 @@ wwcs02.ad
 wwex02.ad
 wwfortimail01.ad
 wwng01
+PKIoverheid
+goedendag
+pkioverheid
