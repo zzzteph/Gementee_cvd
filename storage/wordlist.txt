@@ -10,8 +10,8 @@ webmail
 mijn
 mail
 simsite
-afspraken
 digikoppeling
+afspraken
 preproductie
 secure
 simcms
@@ -27,8 +27,8 @@ werkplek
 portal
 acc
 waarmerk
-meldingen
 afspraak
+meldingen
 open
 geo
 raad
@@ -202,6 +202,7 @@ inproces.acceptatie
 outlook
 testloket
 afspraakmaken
+mta-sts
 kennisbank
 preprod-mijn
 wachtwoord
@@ -224,7 +225,6 @@ preprod-mijnsociaalplein
 mobile
 belastingbalie-test
 bestanden
-mta-sts
 mx1
 mx2
 geoportaal
@@ -372,6 +372,7 @@ tim
 gateway
 bezoekersparkeren
 www.afspraken
+mijndesktop
 loket.test
 raadsnet
 secure-test
@@ -463,6 +464,7 @@ authenticatie
 acceptatie-intranet
 hpdm
 sso
+gemeentebestuur
 geoweb
 testdigikoppeling
 mijn-preproductie
@@ -479,7 +481,6 @@ huisstijl
 www.samen
 awmail
 awtunnel
-mijndesktop
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -648,7 +649,6 @@ mijn-acc
 open-formulieren
 validsign
 xentialtest
-gemeentebestuur
 lyncweb
 servicegateway
 autodiscover.cda
@@ -6656,3 +6656,5 @@ pkioverheid
 geoxchange-prod
 geoxchange-test
 relay2
+sat
+uat
