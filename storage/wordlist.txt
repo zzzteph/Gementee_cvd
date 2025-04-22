@@ -40,12 +40,12 @@ api.meldingen
 broker
 iparticipatie
 ruimtelijkeplannen
-test-ipa
 gemeenteraad
+test-ipa
+werkenbij
 enterpriseenrollment
 testeloket
 pv
-werkenbij
 zaaksysteem-accept
 belastingen
 dacceptatieloket
@@ -58,11 +58,11 @@ openpub
 omgevingsvisie
 belastingbalie
 remote
+osb
 login
 cmsoo
 loket.acceptatie
 meldingen-acc
-osb
 api.meldingen-acc
 cloudadapter-test
 flowmailer-tracking
@@ -78,17 +78,17 @@ cloudadapter
 kaarten
 parkeren-acc
 mks
+belastingloket
 test-intranet
 connect
 cmsintranet
+denkmee
+osbacc
 digikoppeling.test
 acc-broker
 extranet
-belastingloket
 govroam
 dtestloket
-denkmee
-osbacc
 financien
 samen
 doemee
@@ -117,6 +117,7 @@ simform
 mijninkomen
 dali
 preprod
+qr
 apps
 auth
 bgt
@@ -133,7 +134,6 @@ web
 izaaksuite
 subsidies
 preprod-mijninkomen
-qr
 api.betalen
 acc-formulier
 acc-podiumd-logs
@@ -227,6 +227,7 @@ bestanden
 mta-sts
 mx1
 mx2
+geoportaal
 www.portal
 mijnzorg-acc
 simform-preproductie
@@ -252,7 +253,6 @@ vth
 filetransfer
 acceptatie-open
 woz-portaal
-geoportaal
 contact
 mijnsociaaldomein
 handhaving
@@ -367,6 +367,7 @@ mijnuitkering
 stemvan
 ibabs
 support
+radius
 tim
 gateway
 bezoekersparkeren
@@ -438,6 +439,7 @@ filr
 intra
 mijnloket
 www.openstad
+relay
 router
 digitalebalie
 mobility
@@ -455,7 +457,6 @@ cca
 corsa-prod
 corsa-test
 gemeentewinkel
-radius
 pip
 www.werkplek
 authenticatie
@@ -469,6 +470,7 @@ digitaal
 teleweb
 cars
 www.denkmee
+access
 bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
@@ -601,7 +603,6 @@ parkeren-siam
 preprod-sociaalportaal
 sociaalportaal
 efactuur
-relay
 webdav
 webformulieren
 klantportaal.acc
@@ -671,7 +672,6 @@ edienstenpreprod
 mobiliteitsplan
 website.acceptatie
 wijkteam
-access
 open-formulieren-test
 preprod-belastingen
 insite
@@ -6653,3 +6653,6 @@ wwng01
 PKIoverheid
 goedendag
 pkioverheid
+geoxchange-prod
+geoxchange-test
+relay2
