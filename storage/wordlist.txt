@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 webmail
 mijn
-simsite
 mail
+simsite
 digikoppeling
 afspraken
 preproductie
@@ -18,8 +18,8 @@ secure
 acceptatie
 felix
 probeer
-loket
 formulieren
+loket
 test
 eloket
 dkd
@@ -42,10 +42,10 @@ gemeenteraad
 iparticipatie
 ruimtelijkeplannen
 werkenbij
+zaaksysteem-accept
 belastingen
 pv
 test-ipa
-zaaksysteem-accept
 enterpriseenrollment
 testeloket
 dacceptatieloket
@@ -62,9 +62,9 @@ omgevingsvisie
 login
 belastingbalie
 cmsoo
+cloudadapter-test
 loket.acceptatie
 osb
-cloudadapter-test
 digikoppeling-test
 enterpriseregistration
 beeldbank
@@ -85,6 +85,7 @@ mks
 belastingloket
 connect
 osbacc
+parkeren-test
 piwik
 financien
 acc-broker
@@ -95,7 +96,6 @@ doemee
 dtestloket
 test-cmsintranet
 portaal
-parkeren-test
 siam
 samen
 pki
@@ -114,6 +114,7 @@ dali
 qr
 apps
 bastion365
+bgt
 woningbouwkaart
 obsurv
 dtestmidoffice
@@ -124,7 +125,6 @@ simform
 mijninkomen
 preprod
 auth
-bgt
 sip
 sts
 micollab
@@ -140,6 +140,7 @@ api.betalen
 acc-formulier
 acc-podiumd-logs
 jaarstukken
+connect.acceptatie
 belastingportaal
 gisib
 maps
@@ -159,7 +160,6 @@ smtp
 AutoDiscover
 mobiel
 inloggen
-connect.acceptatie
 inproces
 cryptshare
 transfer
@@ -177,6 +177,7 @@ objecttypen
 test-digikoppeling
 meedoen
 fmreturn
+iarchief
 formulieren-test
 ro
 contentbeheer.acceptatie
@@ -200,7 +201,6 @@ acc-contact
 acc-keycloak
 acc-openzaak
 openklant
-iarchief
 intranet-acc
 mobile
 inproces.acceptatie
@@ -210,6 +210,7 @@ geoportaal
 kennisbank
 preprod-mijn
 wachtwoord
+geodata
 subsidies-backend
 melddesk
 thuiswerken
@@ -229,16 +230,17 @@ mijnsociaalplein
 preprod-mijnsociaalplein
 archief
 vth
+acceptatie-open
 belastingbalie-test
 bestanden
 mx1
 mx2
 www.portal
+cloudadapter-prod
 handhaving
 mijnzorg-acc
 simform-preproductie
 praatmee
-geodata
 subsidie
 api.openstad
 cms
@@ -250,17 +252,16 @@ openstad
 afval
 data-test
 www.gemeenteraad
+localhost
 xential
 citrix
 key2gbav
 filetransfer
-acceptatie-open
 woz-portaal
 kcc
 en
 contact
 mijnsociaaldomein
-cloudadapter-prod
 midoffice
 vergunningintaker-preprod
 geovisia
@@ -286,7 +287,6 @@ publicaties
 intranetcms
 digikoppelingtest
 acc.piwik
-localhost
 jongin
 www.jongin
 erfgoed
@@ -597,6 +597,7 @@ burgerloket.acceptatie
 allegroweb
 forms
 haven
+staging
 winkelen
 financielestukken
 gdintaker
@@ -604,6 +605,7 @@ preprodgdintaker
 preprodscbroker
 scbroker
 www.financielestukken
+geodata-acc
 micc
 parkeeracties
 parkeren-siam-test
@@ -696,6 +698,7 @@ content
 digitalebelastingbalie
 service
 qmanage
+autodiscover.raad
 edienstenburgerzaken.test
 www.praatmee
 av
@@ -932,12 +935,10 @@ cms.openstad
 devapps3
 jongerenloket
 pop
-staging
 www.staging
 zorgaanbieders
 begraven
 programmabegroting2024.financielestukken
-geodata-acc
 gisweb
 parkeeracties-test
 site
@@ -1031,6 +1032,7 @@ squitpub-prod
 wkpb
 autodiscover.d66
 autodiscover.sp
+autodiscover.test
 email.security
 fortinet
 gisibtest
@@ -1120,6 +1122,7 @@ nieuw
 parkeren.reserveren
 werkeninkomen-test
 werkeninkomen
+voice
 alwayson
 testwebsite
 uitvaart
@@ -1186,9 +1189,9 @@ kofax
 egemeente
 videobellen
 nwro
+szc
 zwemmen
 wsn-mail
-autodiscover.raad
 spamfilter
 testbelastingen
 webapps
@@ -4139,7 +4142,6 @@ autodiscover.gl
 autodiscover.hap
 autodiscover.leefbaar
 autodiscover.srh
-autodiscover.test
 bereikbaarnieuwvennep
 css.v2.openstad
 cust-ata01
@@ -4804,7 +4806,6 @@ leudal-checker-preprod
 leudal-checker
 pcmonitor
 seg
-voice
 wionklic
 acceptatie.eloket
 leusden-checker-preprod
@@ -6397,7 +6398,6 @@ midofficeacc
 midofficeprd
 midofficetst
 nwro2
-szc
 telewerk
 tijd
 vlspmks
@@ -6766,3 +6766,20 @@ mmiprod
 mmitest
 mobielapp
 zpljcc
+Parkeren
+clearpass
+dgk-prd
+dgk-tst
+flowmailer-tracking.parkeren
+leestenschouwbroek
+mdx
+mijnaanvraag-test
+mijnaanvraag
+mijntoegang
+openbaartoilet
+overleg
+plo
+preprod-mijntoegang
+sigmax-acc
+sjaak.test
+sjaak
