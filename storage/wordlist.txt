@@ -33,8 +33,8 @@ open
 raad
 parkeren
 geo
-vpn
 api.meldingen
+vpn
 betalen
 adfs
 broker
@@ -53,17 +53,17 @@ dacceptatiemidoffice
 openpdc
 dloket
 dmidoffice
+meldingen-acc
 remote
 data
 openpub
-meldingen-acc
+api.meldingen-acc
 omgevingsvisie
+login
 belastingbalie
 cmsoo
-api.meldingen-acc
 loket.acceptatie
 osb
-login
 cloudadapter-test
 digikoppeling-test
 enterpriseregistration
@@ -89,6 +89,7 @@ piwik
 financien
 acc-broker
 extranet
+klantcontact
 govroam
 doemee
 dtestloket
@@ -96,7 +97,6 @@ test-cmsintranet
 portaal
 parkeren-test
 siam
-klantcontact
 samen
 pki
 verkiezingen
@@ -176,10 +176,12 @@ objecten
 objecttypen
 test-digikoppeling
 meedoen
+fmreturn
 formulieren-test
 ro
 contentbeheer.acceptatie
 zaken.acceptatie
+bor
 bestuur
 squit2020
 afspraakmaken
@@ -198,11 +200,9 @@ acc-contact
 acc-keycloak
 acc-openzaak
 openklant
-fmreturn
 iarchief
 intranet-acc
 mobile
-bor
 inproces.acceptatie
 outlook
 testloket
@@ -357,6 +357,7 @@ preprod-formulieren
 connect.test
 contentbeheer.test
 zaken.test
+ris
 subsidies-login
 mijnzaken
 auth.openstad
@@ -369,6 +370,8 @@ ondernemen
 mijnuitkering
 stemvan
 ibabs
+corsa-prod
+corsa-test
 support
 radius
 tim
@@ -434,7 +437,6 @@ sync
 download
 www.afspraak
 grooster
-ris
 collecties
 inproces.test
 subsidies-login.acceptatie
@@ -460,8 +462,6 @@ e.openstad
 gbionline
 cca-acc
 cca
-corsa-prod
-corsa-test
 gemeentewinkel
 mijnmobiel
 pip
