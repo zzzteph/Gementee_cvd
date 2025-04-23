@@ -3,7 +3,6 @@ https://edienstenaanvragensd-acceptatie.barendrecht.nl
 https://edienstenaanvragensd.barendrecht.nl
 https://edienstenburgerzaken-test.barendrecht.nl
 https://edienstenburgerzaken.barendrecht.nl
-https://edienstenmijninkomen-acceptatie.barendrecht.nl
 https://edienstenmijninkomen.barendrecht.nl
 https://edienstverlening-preprod.barendrecht.nl
 https://edienstverlening.barendrecht.nl

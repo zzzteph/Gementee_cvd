@@ -2825,7 +2825,6 @@ https://edienstenburgerzaken.zevenaar.nl
 https://edienstenburgerzaken.zoeterwoude.nl
 https://edienstenburgerzaken.zwijndrecht.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
-https://edienstenmijninkomen-acceptatie.barendrecht.nl
 https://edienstenmijninkomen.albrandswaard.nl
 https://edienstenmijninkomen.barendrecht.nl
 https://edienstenmijninkomen.ridderkerk.nl

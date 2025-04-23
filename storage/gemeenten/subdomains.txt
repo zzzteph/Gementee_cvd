@@ -80,6 +80,7 @@ WOZ-loket.valkenswaard.nl
 Www.lochem.nl
 _autodiscover._tcp.aalten.nl
 _autodiscover._tcp.ameland.nl
+_autodiscover._tcp.barendrecht.nl
 _autodiscover._tcp.beekdaelen.nl
 _autodiscover._tcp.bergeijk.nl
 _autodiscover._tcp.boxtel.nl

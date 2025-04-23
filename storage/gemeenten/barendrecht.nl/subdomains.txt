@@ -1,3 +1,4 @@
+_autodiscover._tcp.barendrecht.nl
 barendrecht.nl
 edienstenaanvragensd-acceptatie.barendrecht.nl
 edienstenaanvragensd.barendrecht.nl

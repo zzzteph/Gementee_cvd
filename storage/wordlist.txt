@@ -99,6 +99,7 @@ pki
 test-cmsintranet
 portaal
 samen
+_autodiscover._tcp
 verkiezingen
 duurzaam
 gemeente
@@ -108,7 +109,6 @@ filecap
 dtestmidoffice
 squit2go
 mijnzorg
-_autodiscover._tcp
 vergunningintaker
 snelbalie
 afvalkalender
