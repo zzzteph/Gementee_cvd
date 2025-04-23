@@ -391,6 +391,7 @@ http://simcms-open.zoetermeer.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-wonen.westerkwartier.nl
+http://simcms.ameland.nl
 http://simcms.bergendal.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
@@ -7825,7 +7826,6 @@ https://www.almelo.nl
 https://www.almere.nl
 https://www.alphen-chaam.nl
 https://www.alphenaandenrijn.nl
-https://www.ameland.nl
 https://www.amersfoort.nl
 https://www.amstelveen.nl
 https://www.amsterdam.nl
