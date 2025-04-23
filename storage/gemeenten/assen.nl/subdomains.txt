@@ -71,6 +71,7 @@ meldingen-acc.assen.nl
 meldingen.assen.nl
 mijn.assen.nl
 mijnplein.assen.nl
+nieuwsbrief.assen.nl
 notificaties.assen.nl
 objecten.assen.nl
 objecttypen.assen.nl

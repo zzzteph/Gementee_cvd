@@ -8748,6 +8748,7 @@ nieuws.landvancuijk.nl
 nieuws.lansingerland.nl
 nieuwsbrief.amsterdam.nl
 nieuwsbrief.arnhem.nl
+nieuwsbrief.assen.nl
 nieuwsbrief.capelleaandenijssel.nl
 nieuwsbrief.delft.nl
 nieuwsbrief.denhaag.nl

@@ -140,6 +140,7 @@ subsidies
 preprod-mijninkomen
 snelbaliepp
 api.betalen
+nieuwsbrief
 openzaak
 acc-mijn
 acc-objecten
@@ -154,7 +155,6 @@ cryptshare
 belastingportaal
 ftp
 maps
-nieuwsbrief
 acc-notificaties
 acc-openklant
 lyncdiscover
