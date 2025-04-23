@@ -25,6 +25,7 @@ test-ipa.beesel.nl
 test.beesel.nl
 testeloket.beesel.nl
 werkomgeving.beesel.nl
+werkplek.beesel.nl
 www.beesel.nl
 www.duurzaam.beesel.nl
 www.samenmet.beesel.nl

@@ -7640,6 +7640,7 @@ https://werkomgeving.rotterdam.nl
 https://werkpakt.enschede.nl
 https://werkplek.almere.nl
 https://werkplek.amersfoort.nl
+https://werkplek.beesel.nl
 https://werkplek.bodegraven-reeuwijk.nl
 https://werkplek.buren.nl
 https://werkplek.derondevenen.nl
