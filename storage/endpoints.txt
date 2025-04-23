@@ -9,6 +9,7 @@ http://AutoDiscover.opmeer.nl
 http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
+http://aalten.nl
 http://acc-zaanlink.zaanstad.nl
 http://acc-zaanlinkcms.zaanstad.nl
 http://afspraak.bergendal.nl
@@ -389,7 +390,6 @@ http://simcms-open.zoetermeer.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-wonen.westerkwartier.nl
-http://simcms.aalten.nl
 http://simcms.bergendal.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
@@ -555,7 +555,6 @@ https://aaenhunze.nl
 https://aalsmeer.nl
 https://aalten-checker-preprod.aalten.nl
 https://aalten-checker.aalten.nl
-https://aalten.nl
 https://aanmelden.gorinchem.nl
 https://aanmelden.hengelo.nl
 https://aanmelden.krimpenerwaard.nl
@@ -4853,6 +4852,7 @@ https://mijn-preproductie.heerenveen.nl
 https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
 https://mijn-test.veenendaal.nl
+https://mijn.aalten.nl
 https://mijn.accp.nijmegen.nl
 https://mijn.alkmaar.nl
 https://mijn.amersfoort.nl
