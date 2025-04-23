@@ -1,12 +1,15 @@
+http://test-topvorm.apeldoorn.nl
 http://www.stadspas.apeldoorn.nl
 https://afspraken.apeldoorn.nl
 https://agbi.apeldoorn.nl
 https://apeldoorn.nl
+https://api.meldingen-acc.apeldoorn.nl
 https://api.meldingen.apeldoorn.nl
 https://atijdschrijven.apeldoorn.nl
 https://atlas.apeldoorn.nl
 https://atlasacc.apeldoorn.nl
 https://auth.apeldoorn.nl
+https://autodiscover.apeldoorn.nl
 https://bewegen.apeldoorn.nl
 https://crypt.apeldoorn.nl
 https://cryptacc.apeldoorn.nl
@@ -52,9 +55,7 @@ https://snelbaliepp.apeldoorn.nl
 https://stadspark.apeldoorn.nl
 https://stadspas.apeldoorn.nl
 https://talent.apeldoorn.nl
-https://telecom.apeldoorn.nl
 https://test-e-loket.apeldoorn.nl
-https://test-topvorm.apeldoorn.nl
 https://tijdschrijven.apeldoorn.nl
 https://topvorm.apeldoorn.nl
 https://uitvaartagenda-dev.apeldoorn.nl

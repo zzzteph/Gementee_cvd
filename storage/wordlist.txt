@@ -53,12 +53,12 @@ dacceptatiemidoffice
 dloket
 dmidoffice
 openpdc
+api.meldingen-acc
 meldingen-acc
 remote
 data
 openpub
 cmsoo
-api.meldingen-acc
 loket.acceptatie
 omgevingsvisie
 login
@@ -2411,7 +2411,6 @@ riviewer
 smartdocacc
 stadspark
 talent
-telecom
 test-e-loket
 test-topvorm
 topvorm

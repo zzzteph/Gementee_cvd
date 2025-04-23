@@ -1190,6 +1190,7 @@ api.meldingen-a.leeuwarden.nl
 api.meldingen-a.waadhoeke.nl
 api.meldingen-acc.aaenhunze.nl
 api.meldingen-acc.almere.nl
+api.meldingen-acc.apeldoorn.nl
 api.meldingen-acc.assen.nl
 api.meldingen-acc.bernheze.org
 api.meldingen-acc.enschede.nl
@@ -1473,6 +1474,7 @@ autodiscover.ameland.nl
 autodiscover.amersfoort.nl
 autodiscover.amstelveen.nl
 autodiscover.amsterdam.nl
+autodiscover.apeldoorn.nl
 autodiscover.arnhem.nl
 autodiscover.asten.nl
 autodiscover.baarn.nl
@@ -12075,7 +12077,6 @@ teams.zwolle.nl
 teamurenplanninggezondheidmilieu.rotterdam.nl
 techniek.landvancuijk.nl
 tekst.gemeentenoordenveld.nl
-telecom.apeldoorn.nl
 telefonie.noordoostpolder.nl
 telefonie.stadskanaal.nl
 telefoon.gemeentehw.nl

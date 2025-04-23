@@ -11,11 +11,13 @@ agbi.apeldoorn.nl
 agis.apeldoorn.nl
 amo.apeldoorn.nl
 apeldoorn.nl
+api.meldingen-acc.apeldoorn.nl
 api.meldingen.apeldoorn.nl
 atijdschrijven.apeldoorn.nl
 atlas.apeldoorn.nl
 atlasacc.apeldoorn.nl
 auth.apeldoorn.nl
+autodiscover.apeldoorn.nl
 bewegen.apeldoorn.nl
 cc.apeldoorn.nl
 cctst.apeldoorn.nl
@@ -81,7 +83,6 @@ snelbaliepp.apeldoorn.nl
 stadspark.apeldoorn.nl
 stadspas.apeldoorn.nl
 talent.apeldoorn.nl
-telecom.apeldoorn.nl
 test-e-loket.apeldoorn.nl
 test-topvorm.apeldoorn.nl
 tijdschrijven.apeldoorn.nl

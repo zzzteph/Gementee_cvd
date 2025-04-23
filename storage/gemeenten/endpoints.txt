@@ -453,6 +453,7 @@ http://test-jip.hofvantwente.nl
 http://test-meedoenregeling.dongen.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
+http://test-topvorm.apeldoorn.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-intranet.midden-groningen.nl
 http://testcms-jip.hofvantwente.nl
@@ -1203,6 +1204,7 @@ https://api.meldingen-a.leeuwarden.nl
 https://api.meldingen-a.waadhoeke.nl
 https://api.meldingen-acc.aaenhunze.nl
 https://api.meldingen-acc.almere.nl
+https://api.meldingen-acc.apeldoorn.nl
 https://api.meldingen-acc.assen.nl
 https://api.meldingen-acc.bernheze.org
 https://api.meldingen-acc.enschede.nl
@@ -1397,6 +1399,7 @@ https://authx30.denhaag.nl
 https://authx4.denhaag.nl
 https://authx5.denhaag.nl
 https://autodiscover.almere.nl
+https://autodiscover.apeldoorn.nl
 https://autodiscover.beverwijk.nl
 https://autodiscover.defryskemarren.nl
 https://autodiscover.dronten.nl
@@ -6936,7 +6939,6 @@ https://taxivooriedereen.rijssen-holten.nl
 https://teamplan.huizen.nl
 https://teamurenplanninggezondheidmilieu.rotterdam.nl
 https://techniek.landvancuijk.nl
-https://telecom.apeldoorn.nl
 https://telefonie.noordoostpolder.nl
 https://telewerken.gemeentemaashorst.nl
 https://telewerken.hellevoetsluis.nl
@@ -7001,7 +7003,6 @@ https://test-subsidiebeheer.zwolle.nl
 https://test-subsidieloket.alkmaar.nl
 https://test-subsidieloket.zwolle.nl
 https://test-topdesk.venlo.nl
-https://test-topvorm.apeldoorn.nl
 https://test-trefpunt.deurne.nl
 https://test-vergoedingen.nijmegen.nl
 https://test-website-westland.gemeentewestland.nl
