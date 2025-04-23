@@ -1,6 +1,7 @@
 3d.amsterdam.nl
 Infra-summit.acc.amsterdam.nl
 Infra-summit.tst.amsterdam.nl
+_dmarc.amsterdam.nl
 a-consent.sarphati.amsterdam.nl
 a-surveys3.ggd.amsterdam.nl
 aanbodvastgoed.amsterdam.nl
@@ -127,6 +128,7 @@ activiteiten.amsterdam.nl
 adam.amsterdam.nl
 adfs.ggd.amsterdam.nl
 admin-acc.datapunt.amsterdam.nl
+admin.bereikbaarheid.amsterdam.nl
 admin.data.amsterdam.nl
 admin.schoolwijzer.amsterdam.nl
 adus.amsterdam.nl
@@ -266,12 +268,14 @@ bmidms.amsterdam.nl
 boa.amsterdam.nl
 bomen.amsterdam.nl
 bomen.ont.amsterdam.nl
+bomen.tst.amsterdam.nl
 boostjebuurt.amsterdam.nl
 bounces-eps.amsterdam.nl
 bouwdossiers.amsterdam.nl
 bp.data.amsterdam.nl
 brediusbad.amsterdam.nl
 buikslotermeerplein.amsterdam.nl
+bureaubroedplaatsen.amsterdam.nl
 burgerzaken.amsterdam.nl
 buurtbudget.amsterdam.nl
 buurtbudgetnoord.amsterdam.nl
@@ -343,6 +347,7 @@ digiform.amsterdam.nl
 digipost-acc.amsterdam.nl
 digipost.amsterdam.nl
 dmafunc002.amsterdam.nl
+dmarc-reject.amsterdam.nl
 dmb.amsterdam.nl
 dmpfunc002.amsterdam.nl
 docgen-acc.amsterdam.nl
@@ -580,6 +585,7 @@ join.bijzondereprojecten.acc.amsterdam.nl
 join.bijzondereprojecten.amsterdam.nl
 jvvs.amsterdam.nl
 kaart.amsterdam.nl
+kennisbank.amsterdam.nl
 keuzesinbeeld.amsterdam.nl
 kibana.parkeren.data.amsterdam.nl
 kiesjekraam.amsterdam.nl
@@ -658,6 +664,7 @@ mijnws.amsterdam.nl
 mks.acc.amsterdam.nl
 mks.amsterdam.nl
 mks.brievenbus.amsterdam.nl
+mks.preprod.amsterdam.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
 mmc.formulieren.amsterdam.nl
@@ -1023,6 +1030,7 @@ www.binnenwaterbeheer.amsterdam.nl
 www.bma.amsterdam.nl
 www.bolwerken.amsterdam.nl
 www.buikslotermeerplein.amsterdam.nl
+www.bureaubroedplaatsen.amsterdam.nl
 www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
 www.buurtbudgetzuid.amsterdam.nl

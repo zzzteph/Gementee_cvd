@@ -59,6 +59,7 @@ https://acc.vt.data.amsterdam.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://activiteiten.amsterdam.nl
+https://admin.bereikbaarheid.amsterdam.nl
 https://admin.schoolwijzer.amsterdam.nl
 https://adus.amsterdam.nl
 https://aeos.acc.amsterdam.nl
@@ -145,6 +146,7 @@ https://bikecity.amsterdam.nl
 https://bmidms.amsterdam.nl
 https://bomen.amsterdam.nl
 https://bomen.ont.amsterdam.nl
+https://bomen.tst.amsterdam.nl
 https://bounces-eps.amsterdam.nl
 https://bouwdossiers.amsterdam.nl
 https://bp.data.amsterdam.nl
@@ -317,6 +319,7 @@ https://iovi.amsterdam.nl
 https://join-edu.bijzondereprojecten.amsterdam.nl
 https://jvvs.amsterdam.nl
 https://kaart.amsterdam.nl
+https://kennisbank.amsterdam.nl
 https://keuzesinbeeld.amsterdam.nl
 https://kim3.amsterdam.nl
 https://klachten.amsterdam.nl
@@ -348,6 +351,7 @@ https://mijnsubsidies.tst.amsterdam.nl
 https://mijnws.amsterdam.nl
 https://mks.acc.amsterdam.nl
 https://mks.amsterdam.nl
+https://mks.preprod.amsterdam.nl
 https://mks.test.amsterdam.nl
 https://mks01.amsterdam.nl
 https://mmc.formulieren.amsterdam.nl

@@ -92,6 +92,7 @@ _autodiscover._tcp.reimerswaal.nl
 _autodiscover._tcp.vlieland.nl
 _autodiscover._tcp.westbetuwe.nl
 _autodiscover._tcp.wijkbijduurstede.nl
+_dmarc.amsterdam.nl
 _dmarc.delft.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl
@@ -731,6 +732,7 @@ adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 admanager.zaaksysteem.eindhoven.nl
 admin-acc.datapunt.amsterdam.nl
+admin.bereikbaarheid.amsterdam.nl
 admin.data.amsterdam.nl
 admin.doemee.bloemendaal.nl
 admin.doemee.gemeentewestland.nl
@@ -2395,6 +2397,7 @@ bolwerkcms.gemeentehulst.nl
 bombay.stadskanaal.nl
 bomen.amsterdam.nl
 bomen.ont.amsterdam.nl
+bomen.tst.amsterdam.nl
 boostjebuurt.amsterdam.nl
 bor-acc.dantumadiel.frl
 bor-acc.noardeast-fryslan.nl
@@ -2523,6 +2526,7 @@ buitenoporde.lansingerland.nl
 buitenoporde.pijnacker-nootdorp.nl
 bunnik.nl
 bunschoten.nl
+bureaubroedplaatsen.amsterdam.nl
 buren.nl
 burgerloket.acceptatie.derondevenen.nl
 burgerloket.acceptatie.ouder-amstel.nl
@@ -3769,6 +3773,7 @@ dloket.westvoorne.nl
 dloket.zwolle.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
+dmarc-reject.amsterdam.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
 dmidoffice.borger-odoorn.nl
@@ -7071,6 +7076,7 @@ kei.deventer.nl
 kenneth.delft.nl
 kennisbank.achtkarspelen.nl
 kennisbank.almelo.nl
+kennisbank.amsterdam.nl
 kennisbank.barneveld.nl
 kennisbank.bronckhorst.nl
 kennisbank.eindhoven.nl
@@ -8462,6 +8468,7 @@ mks.kerkrade.nl
 mks.midden-groningen.nl
 mks.nieuwkoop.nl
 mks.overbetuwe.nl
+mks.preprod.amsterdam.nl
 mks.putten.nl
 mks.rheden.nl
 mks.rozendaal.nl
@@ -13980,6 +13987,7 @@ www.brunssum.nl
 www.buikslotermeerplein.amsterdam.nl
 www.bunnik.nl
 www.bunschoten.nl
+www.bureaubroedplaatsen.amsterdam.nl
 www.buren.nl
 www.buurtbudget-centrumnoord.venlo.nl
 www.buurtbudget-klingerberg.venlo.nl
