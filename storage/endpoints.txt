@@ -483,7 +483,6 @@ http://wijkteam-acc.katwijk.nl
 http://wijkteam-cursus.katwijk.nl
 http://wijkteam-tst.katwijk.nl
 http://wion.gemeentestein.nl
-http://wob.arnhem.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.baarn.nl
@@ -7278,6 +7277,7 @@ https://vamos.rotterdam.nl
 https://vastgoed.gemeentemaastricht.nl
 https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
+https://vastgoedbedrijf.arnhem.nl
 https://vdi.delft.nl
 https://vdi.rijswijk.nl
 https://vdi.rotterdam.nl
@@ -7732,6 +7732,7 @@ https://wmoservice.buren.nl
 https://woa.geertruidenberg.nl
 https://woa2.geertruidenberg.nl
 https://wob.amsterdam.nl
+https://wob.arnhem.nl
 https://wob.denhaag.nl
 https://woerden.nl
 https://wonen.landvancuijk.nl

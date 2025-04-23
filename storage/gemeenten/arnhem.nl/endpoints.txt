@@ -1,5 +1,4 @@
 http://autodiscover.arnhem.nl
-http://wob.arnhem.nl
 https://afspraak.arnhem.nl
 https://arnhem.nl
 https://belastingen-acc.arnhem.nl
@@ -34,6 +33,8 @@ https://raad.arnhem.nl
 https://remote.arnhem.nl
 https://rooster.arnhem.nl
 https://testeloket.arnhem.nl
+https://vastgoedbedrijf.arnhem.nl
+https://wob.arnhem.nl
 https://woo.arnhem.nl
 https://www.arnhem.nl
 https://www.geo.arnhem.nl

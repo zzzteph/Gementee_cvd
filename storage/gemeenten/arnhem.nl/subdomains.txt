@@ -54,6 +54,7 @@ sslvpn.arnhem.nl
 test.arnhem.nl
 testdigid.arnhem.nl
 testeloket.arnhem.nl
+vastgoedbedrijf.arnhem.nl
 werk.arnhem.nl
 werkplek.arnhem.nl
 wob.arnhem.nl
