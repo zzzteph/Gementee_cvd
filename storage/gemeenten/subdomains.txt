@@ -1128,7 +1128,6 @@ api-gateway.tilburg.nl
 api-gemnet.losser.nl
 api-hetravijn.hellendoorn.nl
 api-jcc.gemeenteberkelland.nl
-api-meldingen.acc.almelo.nl
 api-meldingen.acc.denhaag.nl
 api-meldingen.almelo.nl
 api-meldingen.cg-intern.acc.utrecht.nl
@@ -2348,6 +2347,7 @@ binnenstadsplan2030.denhaag.nl
 binnenstebuiten-acc.ede.nl
 binnenstebuiten.ede.nl
 bis-test.tilburg.nl
+bis.almelo.nl
 bis.assen.nl
 bis.beesel.nl
 bis.gemert-bakel.nl
@@ -13970,6 +13970,7 @@ www.borne.nl
 www.borsele.nl
 www.boxtel.nl
 www.bptl.ot.denhaag.nl
+www.brandweer.almelo.nl
 www.breda.nl
 www.brielle.nl
 www.bronckhorst.nl

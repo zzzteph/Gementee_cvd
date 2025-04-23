@@ -172,6 +172,7 @@ transfer
 internetafspraken
 college
 veiligdelen
+bis
 mailing
 vdi
 legacy
@@ -205,7 +206,6 @@ email
 sharefile
 telewerken
 bag
-bis
 intranet-acc
 inproces.acceptatie
 outlook
@@ -720,7 +720,6 @@ gen1
 notubiz
 test-subsidiebeheer
 test-subsidieloket
-api-meldingen.acc
 api-meldingen
 enquete
 ids
@@ -1287,6 +1286,7 @@ test-kennisbank
 testportaal
 wooninstrumenten
 workspace365
+www.brandweer
 acc-kaart
 acc-maps
 acc.formulieren
@@ -2753,6 +2753,7 @@ alg-zgw
 alg-zgw.test
 alleplannen.laakhavensbepaalt
 alleplannen.mariahoeveaanzet
+api-meldingen.acc
 archeologie-acc
 archeologie
 aut.acc.topdesk
