@@ -18,6 +18,7 @@ jcc.amstelveen.nl
 loket.acceptatie.amstelveen.nl
 loket.amstelveen.nl
 loket.test.amstelveen.nl
+mail.denkmee.amstelveen.nl
 midoffice.amstelveen.nl
 mijnzorg-acc.amstelveen.nl
 mijnzorg.amstelveen.nl
