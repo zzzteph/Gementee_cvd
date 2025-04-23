@@ -152,6 +152,7 @@ jaarstukken
 connect.acceptatie
 cryptshare
 belastingportaal
+ftp
 maps
 nieuwsbrief
 acc-notificaties
@@ -173,7 +174,6 @@ college
 veiligdelen
 mailing
 vdi
-ftp
 legacy
 gis
 acc-contact

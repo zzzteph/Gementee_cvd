@@ -5,6 +5,7 @@ dmz-websrv.achtkarspelen.nl
 e.achtkarspelen.nl
 ebms.achtkarspelen.nl
 felix.achtkarspelen.nl
+ftp.achtkarspelen.nl
 geovisia.achtkarspelen.nl
 iburgerzaken.achtkarspelen.nl
 ibzpink.achtkarspelen.nl
