@@ -223,6 +223,7 @@ desktop
 e-loket
 opendata
 woo
+localhost
 byod
 guest
 publicroam
@@ -258,7 +259,6 @@ afval
 meet
 data-test
 www.gemeenteraad
-localhost
 xential
 erfgoed
 citrix

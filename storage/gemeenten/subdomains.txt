@@ -7394,6 +7394,7 @@ lliam-test.zoetermeer.nl
 lliam.zoetermeer.nl
 lms.veere.nl
 local.oostgelre.nl
+localhost.barneveld.nl
 localhost.borger-odoorn.nl
 localhost.ede.nl
 localhost.hillegom.nl
