@@ -254,7 +254,6 @@ http://ediensten.gemeentehw.nl
 http://eloket.meppel.nl
 http://embrace.laarbeek.nl
 http://felix.aalten.nl
-http://felix.baarn.nl
 http://felix.bergendal.nl
 http://felix.bladel.nl
 http://felix.capelleaandenijssel.nl
@@ -485,7 +484,6 @@ http://wijkteam-tst.katwijk.nl
 http://wion.gemeentestein.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
-http://www.baarn.nl
 http://www.bba.amsterdam.nl
 http://www.beekdaelen.nl
 http://www.bergeijk.nl
@@ -1441,6 +1439,7 @@ https://awtunnel.venlo.nl
 https://awtunnel.weert.nl
 https://awvpn.someren.nl
 https://baarle-nassau.nl
+https://baarn.nl
 https://backend-dvg.acc.rotterdam.nl
 https://backend-dvg.rotterdam.nl
 https://backoffice-parkeervergunningen-acc.beverwijk.nl
@@ -3108,6 +3107,7 @@ https://fd-zgw.acc.denhaag.nl
 https://fd-zgw.denhaag.nl
 https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
+https://felix.baarn.nl
 https://felix.bergeijk.nl
 https://felix.bergen.nl
 https://felix.beuningen.nl
@@ -7858,6 +7858,7 @@ https://www.assen.nl
 https://www.asten.nl
 https://www.ateliers.amsterdam.nl
 https://www.baarle-nassau.nl
+https://www.baarn.nl
 https://www.barendrecht.nl
 https://www.barneveld.nl
 https://www.beeldbank.landvancuijk.nl
