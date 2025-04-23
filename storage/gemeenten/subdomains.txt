@@ -783,7 +783,6 @@ afs.vaals.nl
 afscheidcrone.leeuwarden.nl
 afspraak-test.rijswijk.nl
 afspraak.acc.utrecht.nl
-afspraak.amersfoort.nl
 afspraak.arnhem.nl
 afspraak.barneveld.nl
 afspraak.bergendal.nl
@@ -1069,6 +1068,7 @@ am.rotterdam.nl
 ambacht.westervoort.nl
 ameland.nl
 amersfoort.nl
+amersfoortinbeeld.amersfoort.nl
 ami-acc.amsterdam.nl
 ami-dev.amsterdam.nl
 ami-tst.amsterdam.nl

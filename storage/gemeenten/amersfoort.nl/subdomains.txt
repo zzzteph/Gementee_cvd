@@ -1,9 +1,9 @@
 a-digikoppeling.amersfoort.nl
 acc.amersfoort.nl
 activesync.amersfoort.nl
-afspraak.amersfoort.nl
 afspraken.amersfoort.nl
 amersfoort.nl
+amersfoortinbeeld.amersfoort.nl
 autodiscover.amersfoort.nl
 belastingbalie.amersfoort.nl
 bestandversturen.amersfoort.nl

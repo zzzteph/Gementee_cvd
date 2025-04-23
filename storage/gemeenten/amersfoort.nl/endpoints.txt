@@ -1,7 +1,6 @@
 http://autodiscover.amersfoort.nl
 http://magazine.amersfoort.nl
 https://acc.amersfoort.nl
-https://afspraak.amersfoort.nl
 https://afspraken.amersfoort.nl
 https://amersfoort.nl
 https://belastingbalie.amersfoort.nl

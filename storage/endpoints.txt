@@ -966,7 +966,6 @@ https://afs.ont.amsterdam.nl
 https://afs.opl.amsterdam.nl
 https://afs.tst.amsterdam.nl
 https://afspraak-test.rijswijk.nl
-https://afspraak.amersfoort.nl
 https://afspraak.arnhem.nl
 https://afspraak.barneveld.nl
 https://afspraak.borsele.nl
