@@ -1,10 +1,12 @@
 http://autodiscover.bergenopzoom.nl
-http://www.bergenopzoom.nl
+http://simcms.bergenopzoom.nl
 https://accisdtalentcenter.bergenopzoom.nl
 https://api.meldingen.bergenopzoom.nl
+https://bergenopzoom.nl
 https://bgtt.bergenopzoom.nl
 https://data.bergenopzoom.nl
 https://enterpriseenrollment.bergenopzoom.nl
+https://enterpriseregistration.bergenopzoom.nl
 https://helloid.bergenopzoom.nl
 https://iburgerzaken.bergenopzoom.nl
 https://identity.bergenopzoom.nl

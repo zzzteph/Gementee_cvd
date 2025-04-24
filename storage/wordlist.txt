@@ -65,8 +65,8 @@ login
 belastingbalie
 cloudadapter-test
 osb
-digikoppeling-test
 enterpriseregistration
+digikoppeling-test
 beeldbank
 flowmailer-tracking
 zaken

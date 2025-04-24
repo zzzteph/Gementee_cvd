@@ -4560,6 +4560,7 @@ enterpriseone.almere.nl
 enterpriseregistration.alphenaandenrijn.nl
 enterpriseregistration.apeldoorn.nl
 enterpriseregistration.arnhem.nl
+enterpriseregistration.bergenopzoom.nl
 enterpriseregistration.bladel.nl
 enterpriseregistration.denhaag.nl
 enterpriseregistration.doetinchem.nl

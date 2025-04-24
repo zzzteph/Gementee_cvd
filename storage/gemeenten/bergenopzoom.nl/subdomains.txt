@@ -6,6 +6,7 @@ bergenopzoom.nl
 bgtt.bergenopzoom.nl
 data.bergenopzoom.nl
 enterpriseenrollment.bergenopzoom.nl
+enterpriseregistration.bergenopzoom.nl
 esb.bergenopzoom.nl
 esbt.bergenopzoom.nl
 helloid.bergenopzoom.nl
