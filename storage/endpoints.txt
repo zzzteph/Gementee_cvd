@@ -460,8 +460,6 @@ http://thuiswerk.rotterdam.nl
 http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
 http://ttgbav-test.gemeente-steenbergen.nl
-http://tve-acc.brummen.nl
-http://tve.brummen.nl
 http://vergunningintaker.bernheze.org
 http://verkiezingen.dalfsen.nl
 http://vsp.terneuzen.nl
@@ -5136,7 +5134,6 @@ https://mksora.rijssen-holten.nl
 https://mlo-ws.acc.rotterdam.nl
 https://mlo-ws.rotterdam.nl
 https://mmc.formulieren.amsterdam.nl
-https://mobiel.brummen.nl
 https://mobiel.vlaardingen.nl
 https://mobielapp.zuidplas.nl
 https://mobile.doetinchem.nl
@@ -5855,7 +5852,6 @@ https://personeelsplanning.kampen.nl
 https://personeelsvereniging.helmond.nl
 https://perspectiefnota.gemeente-steenbergen.nl
 https://persportaal.rijssen-holten.nl
-https://petear.brummen.nl
 https://pform.schiedam.nl
 https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pijnacker-nootdorp.nl
@@ -7232,6 +7228,8 @@ https://tubbergen.nl
 https://tuinen.groningen.nl
 https://tussenrapportage.gemeente-steenbergen.nl
 https://tv.gemeentebest.nl
+https://tve-acc.brummen.nl
+https://tve.brummen.nl
 https://twenterand.nl
 https://tynaarlo.nl
 https://uag1.oostgelre.nl

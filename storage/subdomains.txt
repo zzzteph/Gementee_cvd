@@ -7663,7 +7663,6 @@ mail.bergenopzoom.nl
 mail.bernheze.org
 mail.bloemendaal.nl
 mail.borne.nl
-mail.brummen.nl
 mail.delft.nl
 mail.denhelder.nl
 mail.denkmee.amstelveen.nl
@@ -7886,7 +7885,6 @@ mdliquit.middendrenthe.nl
 mdm-sentry.bronckhorst.nl
 mdm.borne.nl
 mdm.bronckhorst.nl
-mdm.brummen.nl
 mdm.denhaag.nl
 mdm.ede.nl
 mdm.gemeentewestland.nl
@@ -8505,7 +8503,6 @@ mmitest.zuidplas.nl
 mo.apeldoorn.nl
 mo.hellevoetsluis.nl
 mob.oostgelre.nl
-mobiel.brummen.nl
 mobiel.gemeentebeek.nl
 mobiel.gemeentewesterveld.nl
 mobiel.groningen.nl
@@ -9722,7 +9719,6 @@ personeelsvereniging.helmond.nl
 persoonlijk.breda.nl
 perspectiefnota.gemeente-steenbergen.nl
 persportaal.rijssen-holten.nl
-petear.brummen.nl
 pform.schiedam.nl
 pfsense.secure.amsterdam.nl
 pgws4allsuite4werk.heerlen.nl
@@ -10739,7 +10735,6 @@ ruimtelijkeplannen.alkmaar.nl
 ruimtelijkeplannen.almelo.nl
 ruimtelijkeplannen.bodegraven-reeuwijk.nl
 ruimtelijkeplannen.borne.nl
-ruimtelijkeplannen.brummen.nl
 ruimtelijkeplannen.denhelder.nl
 ruimtelijkeplannen.deventer.nl
 ruimtelijkeplannen.dronten.nl

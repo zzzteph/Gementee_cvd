@@ -41,10 +41,10 @@ adfs
 gemeenteraad
 iparticipatie
 pv
-ruimtelijkeplannen
 werkenbij
 zaaksysteem-accept
 belastingen
+ruimtelijkeplannen
 test-ipa
 enterpriseenrollment
 testeloket
@@ -131,7 +131,6 @@ acc-podiumd-logs
 sip
 sts
 micollab
-mdm
 contentbeheer
 e
 gisib
@@ -148,6 +147,7 @@ acc-objecttypen
 keycloak
 notificaties
 podiumd-logs
+mdm
 smtp
 jaarstukken
 connect.acceptatie
@@ -164,7 +164,6 @@ owa
 gasten
 uc
 AutoDiscover
-mobiel
 ro
 inloggen
 inproces
@@ -196,6 +195,7 @@ afspraakmaken
 mta-sts
 zaaksysteem
 geoportaal
+mobiel
 fs
 kennisbank
 preprod-mijn
@@ -2650,7 +2650,6 @@ taakveldenrekening2022
 thuiswerken2
 nip
 niptest
-petear
 tve-acc
 tve
 bsmpki
