@@ -30,6 +30,7 @@ fmreturn.beverwijk.nl
 frontoffice-parkeervergunningen-acc.beverwijk.nl
 frontoffice-parkeervergunningen.beverwijk.nl
 fs.beverwijk.nl
+geo.beverwijk.nl
 hybrid.beverwijk.nl
 intranet.beverwijk.nl
 key2financien-prod.beverwijk.nl

@@ -218,7 +218,6 @@ http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
 http://beeldbank.hellendoorn.nl
-http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
@@ -338,7 +337,6 @@ http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nuenen.nl
-http://open.beverwijk.nl
 http://open.gemeentebeek.nl
 http://open.wierden.nl
 http://open.zuidplas.nl
@@ -1774,6 +1772,7 @@ https://betalenaan.oirschot.nl
 https://betalingen.amsterdam.nl
 https://beugen.landvancuijk.nl
 https://beuningen.nl
+https://beverwijk.nl
 https://bewegen.apeldoorn.nl
 https://bewonersbrieven.amsterdam.nl
 https://bewustwording.amersfoort.nl
@@ -2489,6 +2488,7 @@ https://dusk-openwave.beverwijk.nl
 https://duurzaam.alphenaandenrijn.nl
 https://duurzaam.barneveld.nl
 https://duurzaam.beesel.nl
+https://duurzaam.beverwijk.nl
 https://duurzaam.gooisemeren.nl
 https://duurzaam.heemskerk.nl
 https://duurzaam.hollandskroon.nl
@@ -3112,6 +3112,7 @@ https://felix.baarn.nl
 https://felix.beekdaelen.nl
 https://felix.bergen.nl
 https://felix.beuningen.nl
+https://felix.beverwijk.nl
 https://felix.bronckhorst.nl
 https://felix.bunschoten.nl
 https://felix.eersel.nl
@@ -6521,10 +6522,10 @@ https://siem2.hethogeland.nl
 https://simcms-armoedepact.westerkwartier.nl
 https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-data.westerkwartier.nl
+https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.woensdrecht.nl
 https://simcms-gemeenteraad.vlissingen.nl
 https://simcms-omgevingswet.bronckhorst.nl
-https://simcms-open.beverwijk.nl
 https://simcms-open.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.geldrop-mierlo.nl
@@ -6545,6 +6546,7 @@ https://simcms.bergeijk.nl
 https://simcms.bergen.nl
 https://simcms.bergendal.nl
 https://simcms.beuningen.nl
+https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
 https://simcms.deurne.nl
 https://simcms.echt-susteren.nl
@@ -6584,7 +6586,6 @@ https://simform.t-diel.nl
 https://simform.vlaardingen.nl
 https://simform.voorschoten.nl
 https://simsite.bergen.nl
-https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
 https://simsite.doesburg.nl
 https://simsite.edam-volendam.nl
@@ -6953,7 +6954,9 @@ https://terschelling.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
+https://test-bink.beverwijk.nl
 https://test-binnenshuis.bergen.nl
+https://test-cmsbink.beverwijk.nl
 https://test-cmsdok.dronten.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
