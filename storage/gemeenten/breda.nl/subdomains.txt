@@ -7,6 +7,7 @@ api-acc.breda.nl
 api-dev.breda.nl
 api.betalen.breda.nl
 archieven.stadsarchief.breda.nl
+atlas.breda.nl
 beeldbank.breda.nl
 beheerbeeldbank.breda.nl
 betalen.breda.nl

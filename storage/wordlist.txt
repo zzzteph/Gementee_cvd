@@ -330,6 +330,7 @@ diensten
 dkd-test
 www.duurzaam
 mozardtest
+atlas
 api
 app
 beheer
@@ -401,7 +402,6 @@ test-zaakloket
 testsiam
 zaakloket
 mail1
-atlas
 magazines
 octopus
 regelgeving

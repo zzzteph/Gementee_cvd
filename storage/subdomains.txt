@@ -1400,6 +1400,7 @@ atijdschrijven.apeldoorn.nl
 atlas.amstelveen.nl
 atlas.amsterdam.nl
 atlas.apeldoorn.nl
+atlas.breda.nl
 atlas.dbi.amsterdam.nl
 atlas.gulpen-wittem.nl
 atlasacc.apeldoorn.nl
