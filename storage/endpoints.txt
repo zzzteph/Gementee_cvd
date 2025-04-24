@@ -222,6 +222,7 @@ http://begraafplaatsduinrust.beverwijk.nl
 http://beheer-test-trefpunt.deurne.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
+http://bergendal.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buurthuisvandetoekomst.denhaag.nl
@@ -253,7 +254,6 @@ http://ediensten.gemeentehw.nl
 http://eloket.meppel.nl
 http://embrace.laarbeek.nl
 http://felix.aalten.nl
-http://felix.bergendal.nl
 http://felix.bladel.nl
 http://felix.capelleaandenijssel.nl
 http://felix.dalfsen.nl
@@ -293,7 +293,6 @@ http://inloggen.belastingen.acc.koggenland.nl
 http://inloggen.belastingen.koggenland.nl
 http://insite.houten.nl
 http://internoss-test.oss.nl
-http://intranet-acc.bergendal.nl
 http://intranet-acc.landvancuijk.nl
 http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
@@ -390,7 +389,6 @@ http://simcms-preproductie.woensdrecht.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-wonen.westerkwartier.nl
 http://simcms.ameland.nl
-http://simcms.bergendal.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
 http://simcms.heerlen.nl
@@ -1685,7 +1683,6 @@ https://bereikbarestad.denhaag.nl
 https://bergeijk.nl
 https://bergen-nh.nl
 https://bergen.nl
-https://bergendal.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
@@ -4166,6 +4163,7 @@ https://intranet2.gulpen-wittem.nl
 https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
 https://intranetacc.weert.nl
+https://intranetcms-acc.bergendal.nl
 https://intranetcms-acc.landvancuijk.nl
 https://intranetcms-acc.waalwijk.nl
 https://intranetcms-test.nissewaard.nl
@@ -6539,6 +6537,7 @@ https://simcms.achtkarspelen.nl
 https://simcms.baarn.nl
 https://simcms.bergeijk.nl
 https://simcms.bergen.nl
+https://simcms.bergendal.nl
 https://simcms.beuningen.nl
 https://simcms.bronckhorst.nl
 https://simcms.deurne.nl
@@ -7872,6 +7871,7 @@ https://www.belastingloket.overbetuwe.nl
 https://www.belastingloket.purmerend.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergen-nh.nl
+https://www.bergendal.nl
 https://www.bernheze.org
 https://www.bibliotheek.rotterdam.nl
 https://www.bibliotheekbenoordenhout.denhaag.nl
