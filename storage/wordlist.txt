@@ -2542,8 +2542,10 @@ voip
 wooloket
 cms-joost
 data-test.gemnet
+energiek
 mijnaanvraagzi
 mijnzi
+preprod.mijnaanvraagzi
 probeer-energiek
 simcms-energiek
 test-mijnzi

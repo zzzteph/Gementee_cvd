@@ -4506,6 +4506,7 @@ endpoint.oss.nl
 enepmx01.amsterdam.nl
 enepmx02.amsterdam.nl
 energiebespaaradvies.overbetuwe.nl
+energiek.beuningen.nl
 energieklussers.rotterdam.nl
 energieloket.hilversum.nl
 energiepunt.apeldoorn.nl
@@ -10092,6 +10093,7 @@ preprod.heerde.nl
 preprod.heuvelrug.nl
 preprod.inloggen.meierijstad.nl
 preprod.kaagenbraassem.nl
+preprod.mijnaanvraagzi.beuningen.nl
 preprod.noordwijk.nl
 preprod.oldebroek.nl
 preprod.overbetuwe.nl

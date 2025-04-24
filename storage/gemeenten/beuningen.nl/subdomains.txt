@@ -5,6 +5,7 @@ data-test.beuningen.nl
 data-test.gemnet.beuningen.nl
 data.beuningen.nl
 data.gemnet.beuningen.nl
+energiek.beuningen.nl
 felix.beuningen.nl
 iburgerzaken.beuningen.nl
 ibzpink.beuningen.nl
@@ -14,6 +15,7 @@ mijn.beuningen.nl
 mijnaanvraagzi.beuningen.nl
 mijnzi.beuningen.nl
 osb.beuningen.nl
+preprod.mijnaanvraagzi.beuningen.nl
 preproductie.beuningen.nl
 probeer-energiek.beuningen.nl
 simcms-energiek.beuningen.nl
