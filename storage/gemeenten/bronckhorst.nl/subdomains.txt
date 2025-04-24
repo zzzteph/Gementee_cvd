@@ -23,6 +23,7 @@ jaarstukken.bronckhorst.nl
 jaarstukken2020.bronckhorst.nl
 jaarstukken2021.bronckhorst.nl
 jaarstukken2022.bronckhorst.nl
+jaarstukken2023.bronckhorst.nl
 kennisbank.bronckhorst.nl
 mdm-sentry.bronckhorst.nl
 mdm.bronckhorst.nl

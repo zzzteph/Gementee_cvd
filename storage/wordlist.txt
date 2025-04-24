@@ -2637,6 +2637,7 @@ geografie
 isamenlevingszaken
 jaarstukken2021
 jaarstukken2022
+jaarstukken2023
 mdm-sentry
 personeelshandboek
 programmabegroting2022
