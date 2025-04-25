@@ -378,6 +378,7 @@ http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://samenduurzaam.geldrop-mierlo.nl
 http://samenindebuurt.heerlen.nl
+http://sammy-acc.derondevenen.nl
 http://scherpenzeel.nl
 http://secure.dalfsen.nl
 http://sem.kampen.nl
@@ -6422,6 +6423,7 @@ https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
 https://samenwijzer.oss.nl
 https://sammy.derondevenen.nl
+https://sammycms-acc.derondevenen.nl
 https://sammycms.derondevenen.nl
 https://sbc01.gooisemeren.nl
 https://scan.afs.acc.amsterdam.nl
