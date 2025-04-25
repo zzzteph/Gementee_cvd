@@ -218,7 +218,6 @@ http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
 http://beeldbank.hellendoorn.nl
-http://beheer-test-trefpunt.deurne.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://bergendal.nl
@@ -255,6 +254,7 @@ http://eloket.meppel.nl
 http://embrace.laarbeek.nl
 http://felix.aalten.nl
 http://felix.dalfsen.nl
+http://felix.deurne.nl
 http://felix.gemeentemaasgouw.nl
 http://felix.heerlen.nl
 http://felix.kerkrade.nl
@@ -362,7 +362,6 @@ http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://preproductie.cranendonck.nl
-http://preproductie.deurne.nl
 http://preproductie.gemeentebeek.nl
 http://preproductie.opmeer.nl
 http://preproductie.simpelveld.nl
@@ -1553,6 +1552,7 @@ https://begroting2018.hoorn.nl
 https://begroting2019.financien.gouda.nl
 https://begroting2020.pijnacker-nootdorp.nl
 https://begroting2021.pijnacker-nootdorp.nl
+https://beheer-test-trefpunt.deurne.nl
 https://beheer-trefpunt.deurne.nl
 https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
@@ -4881,7 +4881,6 @@ https://mijn.debilt.nl
 https://mijn.defryskemarren.nl
 https://mijn.denhaag.nl
 https://mijn.denhelder.nl
-https://mijn.deurne.nl
 https://mijn.dev.nijmegen.nl
 https://mijn.deventer.nl
 https://mijn.dijkenwaard.nl
@@ -6592,6 +6591,7 @@ https://simform.t-diel.nl
 https://simform.vlaardingen.nl
 https://simform.voorschoten.nl
 https://simsite.bergen.nl
+https://simsite.deurne.nl
 https://simsite.doesburg.nl
 https://simsite.edam-volendam.nl
 https://simsite.heumen.nl
@@ -7945,6 +7945,7 @@ https://www.denhaagfietst.denhaag.nl
 https://www.denhelder.nl
 https://www.derondevenen.nl
 https://www.destemvan.groningen.nl
+https://www.deurne.nl
 https://www.deventer.nl
 https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
