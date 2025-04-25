@@ -16,6 +16,7 @@ eformulieren.preprod.doetinchem.nl
 enterpriseenrollment.doetinchem.nl
 enterpriseregistration.doetinchem.nl
 geo.doetinchem.nl
+jongin.doetinchem.nl
 koppeling-belastingbalie.doetinchem.nl
 mijngeldzaken-acceptatie.doetinchem.nl
 mijngeldzaken.doetinchem.nl
@@ -25,11 +26,13 @@ pki.doetinchem.nl
 probeer.doetinchem.nl
 relay.doetinchem.nl
 secure.doetinchem.nl
+servicestore.doetinchem.nl
 siam.doetinchem.nl
 simcms-open.doetinchem.nl
 simcms.doetinchem.nl
 simsite.doetinchem.nl
 smtptls.doetinchem.nl
+support.doetinchem.nl
 test-digikoppelingadapter.doetinchem.nl
 visvijver.doetinchem.nl
 web4biz251.doetinchem.nl
@@ -38,4 +41,5 @@ webformulieren.doetinchem.nl
 webscada-rps.doetinchem.nl
 webscada.doetinchem.nl
 www.doetinchem.nl
+www.jongin.doetinchem.nl
 zorgplein.doetinchem.nl

@@ -247,6 +247,7 @@ http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
+http://doetinchem.nl
 http://duurzaam.waalwijk.nl
 http://duurzaam.woensdrecht.nl
 http://ediensten.gemeentehw.nl
@@ -492,6 +493,7 @@ http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
+http://www.doetinchem.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.koggenland.nl
 http://www.landgraaf.nl
@@ -5503,7 +5505,6 @@ https://open.boxtel.nl
 https://open.breda.nl
 https://open.bronckhorst.nl
 https://open.dinkelland.nl
-https://open.doetinchem.nl
 https://open.ede.nl
 https://open.epe.nl
 https://open.gemeentestein.nl
@@ -6484,6 +6485,7 @@ https://servicedesk.montferland.info
 https://services-test.nijmegen.nl
 https://services.dronten.nl
 https://services.nijmegen.nl
+https://servicestore.doetinchem.nl
 https://sfb.ggd.amsterdam.nl
 https://sfbaccess.houten.nl
 https://sgen.schiedam.nl
@@ -6904,6 +6906,7 @@ https://summit-ft.amsterdam.nl
 https://summit.tst.amsterdam.nl
 https://suppliers.tilburg.nl
 https://support.bergen-nh.nl
+https://support.doetinchem.nl
 https://support.helmond.nl
 https://support.nieuwegein.nl
 https://support.veere.nl
@@ -7946,7 +7949,6 @@ https://www.doemee.deventer.nl
 https://www.doemee.gemeentewestland.nl
 https://www.doemee.terneuzen.nl
 https://www.doemee.zwolle.nl
-https://www.doetinchem.nl
 https://www.dongen.nl
 https://www.dordrecht.nl
 https://www.drechterland.nl
