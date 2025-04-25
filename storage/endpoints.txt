@@ -361,6 +361,7 @@ http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
+http://preproductie.cranendonck.nl
 http://preproductie.dalfsen.nl
 http://preproductie.deurne.nl
 http://preproductie.gemeentebeek.nl
@@ -390,6 +391,7 @@ http://simcms.ameland.nl
 http://simcms.bergenopzoom.nl
 http://simcms.bladel.nl
 http://simcms.capelleaandenijssel.nl
+http://simcms.cranendonck.nl
 http://simcms.heerlen.nl
 http://simcms.heumen.nl
 http://simcms.koggenland.nl
@@ -409,6 +411,7 @@ http://simform.vlissingen.nl
 http://simform.wassenaar.nl
 http://simpelveld.nl
 http://simsite.beekdaelen.nl
+http://simsite.cranendonck.nl
 http://simsite.eersel.nl
 http://simsite.nederweert.nl
 http://simsite.reuseldemierden.nl
@@ -2162,7 +2165,6 @@ https://corsa-test.gemeente-steenbergen.nl
 https://corsa-test.loonopzand.nl
 https://corsa-test.woensdrecht.nl
 https://corsa-test.zundert.nl
-https://cranendonck.nl
 https://crediteurenapp.rotterdam.nl
 https://crisis.hoorn.nl
 https://crk.amsterdam.nl
@@ -3113,6 +3115,7 @@ https://felix.beekdaelen.nl
 https://felix.bergen.nl
 https://felix.beuningen.nl
 https://felix.beverwijk.nl
+https://felix.cranendonck.nl
 https://felix.eersel.nl
 https://felix.geldrop-mierlo.nl
 https://felix.halderberge.nl
@@ -7920,7 +7923,6 @@ https://www.cjg.olst-wijhe.nl
 https://www.cmsoo.gemeente.groningen.nl
 https://www.coevorden.nl
 https://www.containers.amsterdam.nl
-https://www.cranendonck.nl
 https://www.crk.amsterdam.nl
 https://www.csam.deventer.nl
 https://www.culemborg.nl
