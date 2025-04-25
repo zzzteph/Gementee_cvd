@@ -1,5 +1,4 @@
 http://autodiscover.dongen.nl
-http://test-meedoenregeling.dongen.nl
 https://acceptatie.dongen.nl
 https://afspraken.dongen.nl
 https://bestanden.dongen.nl
@@ -10,4 +9,5 @@ https://geoinformatie.dongen.nl
 https://magazine.dongen.nl
 https://meedoenregeling.dongen.nl
 https://samen.dongen.nl
+https://test-meedoenregeling.dongen.nl
 https://www.dongen.nl
