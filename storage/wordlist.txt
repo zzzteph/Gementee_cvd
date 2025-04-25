@@ -18,10 +18,10 @@ secure
 acceptatie
 felix
 probeer
-loket
 formulieren
-test
+loket
 eloket
+test
 dkd
 werkplek
 portal
@@ -128,7 +128,6 @@ preprod
 auth
 acc-formulier
 acc-podiumd-logs
-sip
 sts
 micollab
 contentbeheer
@@ -147,6 +146,7 @@ acc-objecttypen
 keycloak
 notificaties
 podiumd-logs
+sip
 mdm
 smtp
 jaarstukken
@@ -168,7 +168,6 @@ ro
 inloggen
 inproces
 transfer
-internetafspraken
 college
 veiligdelen
 bis
@@ -195,6 +194,7 @@ afspraakmaken
 mta-sts
 zaaksysteem
 geoportaal
+internetafspraken
 mobiel
 fs
 kennisbank
@@ -255,7 +255,6 @@ parkeervergunningen
 woz
 www.acc
 openstad
-afval
 meet
 data-test
 www.gemeenteraad
@@ -288,6 +287,7 @@ wion
 www.test
 ns1
 sslvpn
+afval
 openformulieren
 awmag
 beeldbank-bo
@@ -304,8 +304,6 @@ dkdtest
 test-secure
 woz-loket
 sport
-burgerloket
-ondernemersloket
 admin.openstad
 eformulieren
 squit2020.acceptatie
@@ -370,7 +368,9 @@ contentbeheer.test
 zaken.test
 ris
 subsidies-login
+burgerloket
 mijnzaken
+ondernemersloket
 auth.openstad
 img.openstad
 openformulieren-test
@@ -616,10 +616,6 @@ staging
 winkelen
 financielestukken
 gdintaker
-preprodgdintaker
-preprodscbroker
-scbroker
-www.financielestukken
 geodata-acc
 micc
 parkeeracties-test
@@ -948,7 +944,6 @@ pop
 www.staging
 zorgaanbieders
 begraven
-programmabegroting2024.financielestukken
 gisweb
 site
 serverruimte
@@ -1183,6 +1178,10 @@ psiam
 tloket
 tsiam
 kantoor
+preprodgdintaker
+preprodscbroker
+scbroker
+www.financielestukken
 www.jcc
 mijnwerkplek
 mijnpost
@@ -3237,10 +3236,6 @@ wonenin
 www.csam
 www.devgovrs1
 www.vvv
-4dekwartaalbrief2019.financielestukken
-kadernota2022.financielestukken
-programmabegroting2021.financielestukken
-vogelweide
 apps-fat
 apps-vdi
 hetsociaalplein-acc
@@ -5299,6 +5294,7 @@ server02
 toekomstvisie
 websitestatistiek
 4enieuwsbrief2022.financielestukken
+programmabegroting2024.financielestukken
 verslag
 antix
 bronro
