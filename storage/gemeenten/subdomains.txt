@@ -84,6 +84,7 @@ _autodiscover._tcp.beekdaelen.nl
 _autodiscover._tcp.bergeijk.nl
 _autodiscover._tcp.boxtel.nl
 _autodiscover._tcp.brunssum.nl
+_autodiscover._tcp.dinkelland.nl
 _autodiscover._tcp.gemeentestein.nl
 _autodiscover._tcp.hethogeland.nl
 _autodiscover._tcp.lisse.nl
@@ -12775,6 +12776,7 @@ uitkeringprod.heemskerk.nl
 uitkeringtest.heemskerk.nl
 uitleg.sudwestfryslan.nl
 uitslagen.denhaag.nl
+uitslagen.dinkelland.nl
 uitvaart.maassluis.nl
 uitvaart.velsen.nl
 uitvaartagenda-dev.apeldoorn.nl

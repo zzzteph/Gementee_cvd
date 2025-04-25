@@ -97,9 +97,9 @@ klantcontact
 govroam
 pki
 test-cmsintranet
+_autodiscover._tcp
 portaal
 samen
-_autodiscover._tcp
 verkiezingen
 duurzaam
 gemeente
@@ -926,6 +926,7 @@ form
 huisvuilkalender
 kennisportaal
 parkeerapp.acc
+uitslagen
 www.ombudsman
 www.omgevingsvisie
 www.werkenvoor
@@ -3034,7 +3035,6 @@ udp-rspackage-acc
 udp-rspackage
 udp-rstudio-acc
 udp-rstudio
-uitslagen
 uwmening
 verkeersbesluiten
 verkiezingen.acc.topdesk

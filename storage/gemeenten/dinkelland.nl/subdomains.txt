@@ -1,3 +1,4 @@
+_autodiscover._tcp.dinkelland.nl
 acc.dinkelland.nl
 acceptatie-open.dinkelland.nl
 acceptatieloket.dinkelland.nl
@@ -16,4 +17,5 @@ serverruimte.dinkelland.nl
 sociaalportaal.dinkelland.nl
 test.dinkelland.nl
 testloket.dinkelland.nl
+uitslagen.dinkelland.nl
 www.dinkelland.nl
