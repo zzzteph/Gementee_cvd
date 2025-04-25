@@ -1,5 +1,4 @@
 http://autodiscover.coevorden.nl
-http://test-cmshofnet.coevorden.nl
 https://acc-broker.coevorden.nl
 https://bedrijfslocaties.coevorden.nl
 https://broker.coevorden.nl
@@ -14,6 +13,9 @@ https://financien.coevorden.nl
 https://hofnet.coevorden.nl
 https://iburgerzaken.coevorden.nl
 https://mijnshv.coevorden.nl
+https://reserveren.coevorden.nl
+https://test-cmshofnet.coevorden.nl
+https://test-hofnet.coevorden.nl
 https://woningbouwkaart.coevorden.nl
 https://woz-loket.coevorden.nl
 https://wozloket-acc.coevorden.nl

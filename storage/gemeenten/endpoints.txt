@@ -426,7 +426,6 @@ http://stadsatlas.zoetermeer.nl
 http://stadspas.weert.nl
 http://subsites.amsterdam.nl
 http://test-cmsflash.scherpenzeel.nl
-http://test-cmshofnet.coevorden.nl
 http://test-cmsinsite.houten.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
@@ -6308,6 +6307,7 @@ https://remote.westvoorne.nl
 https://remote.winterswijk.nl
 https://remote.zaanstad.nl
 https://renkum.nl
+https://reserveren.coevorden.nl
 https://reserveren.vijfheerenlanden.nl
 https://reserveringen.tilburg.nl
 https://restore.wierden.nl
@@ -6956,6 +6956,7 @@ https://test-bink.beverwijk.nl
 https://test-binnenshuis.bergen.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdok.dronten.nl
+https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
@@ -6983,6 +6984,7 @@ https://test-eloket.brunssum.nl
 https://test-eloket.krimpenerwaard.nl
 https://test-eloket.nunspeet.nl
 https://test-formulier.assen.nl
+https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.beuningen.nl
