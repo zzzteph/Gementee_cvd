@@ -237,6 +237,7 @@ http://cmsintranet.etten-leur.nl
 http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://crl.denhaag.nl
+http://dalfsen.nl
 http://data.delft.nl
 http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
@@ -362,7 +363,6 @@ http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://preproductie.cranendonck.nl
-http://preproductie.dalfsen.nl
 http://preproductie.deurne.nl
 http://preproductie.gemeentebeek.nl
 http://preproductie.opmeer.nl
@@ -392,6 +392,7 @@ http://simcms.bergenopzoom.nl
 http://simcms.bladel.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.cranendonck.nl
+http://simcms.dalfsen.nl
 http://simcms.heerlen.nl
 http://simcms.heumen.nl
 http://simcms.koggenland.nl
@@ -464,7 +465,6 @@ http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://vergunningintaker.bernheze.org
-http://verkiezingen.dalfsen.nl
 http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
 http://wadelse-acc.waddinxveen.nl
@@ -2219,7 +2219,6 @@ https://dacceptatieloket.veendam.nl
 https://dacceptatieloket.waterland.nl
 https://dacceptatieloket.zwolle.nl
 https://dagbesteding.apeldoorn.nl
-https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
 https://dali.brielle.nl
 https://dali.hillegom.nl
@@ -7366,6 +7365,7 @@ https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
 https://verkeersbesluiten.denhaag.nl
 https://verkiezingen.acc.topdesk.denhaag.nl
+https://verkiezingen.dalfsen.nl
 https://verkiezingen.denhelder.nl
 https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
