@@ -6957,6 +6957,7 @@ https://test-belastingloket.purmerend.nl
 https://test-bink.beverwijk.nl
 https://test-binnenshuis.bergen.nl
 https://test-cmsbink.beverwijk.nl
+https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
@@ -6978,6 +6979,7 @@ https://test-cmssamenatwork.stichtsevecht.nl
 https://test-cmssocial.montferland.info
 https://test-cmsurknet.urk.nl
 https://test-cmszaanzoeker.zaanstad.nl
+https://test-dieuwke.defryskemarren.nl
 https://test-digikoppeling.brielle.nl
 https://test-digikoppeling.sint-michielsgestel.nl
 https://test-digikoppeling.westvoorne.nl
