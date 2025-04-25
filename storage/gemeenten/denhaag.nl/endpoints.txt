@@ -41,6 +41,7 @@ https://authx30.denhaag.nl
 https://authx4.denhaag.nl
 https://authx5.denhaag.nl
 https://bag-kastlijst.acc.denhaag.nl
+https://bag-kastlijst.denhaag.nl
 https://bag.acc.denhaag.nl
 https://bag.denhaag.nl
 https://bec.acc.topdesk.denhaag.nl
@@ -101,7 +102,9 @@ https://form.denhaag.nl
 https://formulier.denhaag.nl
 https://formulieren.denhaag.nl
 https://formulierna.denhaag.nl
+https://geoinformatie.test.denhaag.nl
 https://geoservices.denhaag.nl
+https://geoservices.test.denhaag.nl
 https://geuzenstatenkwartierfietst.denhaag.nl
 https://gitops.acc.denhaag.nl
 https://gitops.dev.denhaag.nl

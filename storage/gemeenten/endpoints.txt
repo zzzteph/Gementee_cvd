@@ -1443,6 +1443,7 @@ https://backoffice-parkeervergunningen-acc.beverwijk.nl
 https://backoffice-parkeervergunningen.beverwijk.nl
 https://bag-acc.etten-leur.nl
 https://bag-kastlijst.acc.denhaag.nl
+https://bag-kastlijst.denhaag.nl
 https://bag-vpek21.pekela.nl
 https://bag-vvee21.veendam.nl
 https://bag-vwes11.westerwolde.nl
@@ -3504,6 +3505,7 @@ https://geodata.zutphen.nl
 https://geodb.vught.nl
 https://geografie.bronckhorst.nl
 https://geoinformatie.dongen.nl
+https://geoinformatie.test.denhaag.nl
 https://geoloket.heumen.nl
 https://geoplaza.noordoostpolder.nl
 https://geopoort.zwolle.nl
@@ -3525,6 +3527,7 @@ https://geoserver.waalwijk.nl
 https://geoservices.denhaag.nl
 https://geoservices.haarlemmermeer.nl
 https://geoservices.huizen.nl
+https://geoservices.test.denhaag.nl
 https://geotest.arnhem.nl
 https://geotest.goirle.nl
 https://geovisia.harlingen.nl

@@ -43,6 +43,7 @@ autodiscover.denhaag.nl
 autodiscover.riec.denhaag.nl
 autodiscover.uitwijk.denhaag.nl
 bag-kastlijst.acc.denhaag.nl
+bag-kastlijst.denhaag.nl
 bag.acc.denhaag.nl
 bag.denhaag.nl
 bec.acc.topdesk.denhaag.nl
@@ -126,7 +127,9 @@ formulier.denhaag.nl
 formulieren.denhaag.nl
 formulierna.denhaag.nl
 gebiedmaanweg.denhaag.nl
+geoinformatie.test.denhaag.nl
 geoservices.denhaag.nl
+geoservices.test.denhaag.nl
 geuzenstatenkwartierfietst.denhaag.nl
 gitops.acc.denhaag.nl
 gitops.dev.denhaag.nl
@@ -320,6 +323,7 @@ smtprelay1.denhaag.nl
 snowagent.denhaag.nl
 splunk-controlroom.denhaag.nl
 sport.denhaag.nl
+sport.in.denhaag.nl
 sslvpn.denhaag.nl
 stadskrant-acc.denhaag.nl
 stadskrant.denhaag.nl
@@ -397,6 +401,7 @@ www.duurzamestad.denhaag.nl
 www.eengoedideevoorocw-acc.denhaag.nl
 www.eengoedideevoorocw.denhaag.nl
 www.enquete.denhaag.nl
+www.evenementen.denhaag.nl
 www.followyourdreams-acc.denhaag.nl
 www.followyourdreams.denhaag.nl
 www.gebiedmaanweg.denhaag.nl

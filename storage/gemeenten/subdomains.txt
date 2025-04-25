@@ -1789,6 +1789,7 @@ backupstorage1.ovh.gemeentebeek.nl
 backupstorage2.ovh.gemeentebeek.nl
 bag-acc.etten-leur.nl
 bag-kastlijst.acc.denhaag.nl
+bag-kastlijst.denhaag.nl
 bag-vold91.gemeente-oldambt.nl
 bag-vpek21.pekela.nl
 bag-vvee21.veendam.nl
@@ -5417,6 +5418,7 @@ geografie.bronckhorst.nl
 geohr.assen.nl
 geoinformatie.dongen.nl
 geoinformatie.heuvelrug.nl
+geoinformatie.test.denhaag.nl
 geokoppeling-t.debilt.nl
 geokoppeling-t.soest.nl
 geokoppeling.debilt.nl
@@ -5452,6 +5454,7 @@ geoservertest.haarlemmermeer.nl
 geoservices.denhaag.nl
 geoservices.haarlemmermeer.nl
 geoservices.huizen.nl
+geoservices.test.denhaag.nl
 geoservicesint.haarlemmermeer.nl
 geoservicestest.haarlemmermeer.nl
 geotest.arnhem.nl
@@ -11636,6 +11639,7 @@ sporen.groningen.nl
 sport.acc.nijmegen.nl
 sport.denhaag.nl
 sport.hardenberg.nl
+sport.in.denhaag.nl
 sport.landvancuijk.nl
 sport.nijmegen.nl
 sport.roermond.nl
@@ -14159,6 +14163,7 @@ www.esedge.haarlem.nl
 www.etl.haarlemmermeer.nl
 www.etten-leur.nl
 www.evenementen.assen.nl
+www.evenementen.denhaag.nl
 www.evmail.sudwestfryslan.nl
 www.extern.emmen.nl
 www.ez.amsterdam.nl
