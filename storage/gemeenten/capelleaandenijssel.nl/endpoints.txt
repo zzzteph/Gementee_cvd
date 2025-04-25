@@ -1,4 +1,5 @@
-http://felix.capelleaandenijssel.nl
+http://capelleaandenijssel.nl
+http://simcms.capelleaandenijssel.nl
 https://belastingbalie.capelleaandenijssel.nl
 https://belastingbalietest.capelleaandenijssel.nl
 https://clicksfm.capelleaandenijssel.nl
