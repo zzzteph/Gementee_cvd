@@ -380,7 +380,6 @@ http://raadsagenda.oirschot.nl
 http://redirector.alkmaar.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
-http://samenduurzaam.geldrop-mierlo.nl
 http://samenindebuurt.heerlen.nl
 http://sammy-acc.derondevenen.nl
 http://scherpenzeel.nl
@@ -389,6 +388,7 @@ http://sem.kampen.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-open.zoetermeer.nl
 http://simcms-preproductie.woensdrecht.nl
+http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-wonen.westerkwartier.nl
 http://simcms.ameland.nl
@@ -3132,7 +3132,6 @@ https://felix.beuningen.nl
 https://felix.beverwijk.nl
 https://felix.cranendonck.nl
 https://felix.eersel.nl
-https://felix.geldrop-mierlo.nl
 https://felix.halderberge.nl
 https://felix.landgraaf.nl
 https://felix.lingewaard.nl
@@ -6529,6 +6528,7 @@ https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-armoedepact.westerkwartier.nl
 https://simcms-begraafplaatsduinrust.beverwijk.nl
+https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.woensdrecht.nl
@@ -6536,7 +6536,6 @@ https://simcms-gemeenteraad.vlissingen.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.bronckhorst.nl
 https://simcms-open.doetinchem.nl
-https://simcms-open.geldrop-mierlo.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.sonenbreugel.nl
 https://simcms-open.wierden.nl
@@ -6558,6 +6557,7 @@ https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
 https://simcms.deurne.nl
 https://simcms.doesburg.nl
+https://simcms.geldrop-mierlo.nl
 https://simcms.halderberge.nl
 https://simcms.harlingen.nl
 https://simcms.heuvelrug.nl
