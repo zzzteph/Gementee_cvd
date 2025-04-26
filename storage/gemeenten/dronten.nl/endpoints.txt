@@ -1,4 +1,3 @@
-http://test-dok.dronten.nl
 https://afspraakmaken.dronten.nl
 https://autodiscover.dronten.nl
 https://cmsdok.dronten.nl

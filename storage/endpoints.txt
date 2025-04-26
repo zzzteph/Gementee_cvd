@@ -438,7 +438,6 @@ http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsintranet.heuvelrug.nl
 http://test-cmsintranet.wageningen.nl
 http://test-cmssocialintranet.middendelfland.nl
-http://test-dok.dronten.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-insite.houten.nl
