@@ -1,3 +1,4 @@
+http://test-intranet.drimmelen.nl
 https://academie.drimmelen.nl
 https://drimmelen.nl
 https://filecap.drimmelen.nl

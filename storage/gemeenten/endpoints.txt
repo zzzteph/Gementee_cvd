@@ -442,6 +442,7 @@ http://test-dok.dronten.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-insite.houten.nl
+http://test-intranet.drimmelen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
 http://test-intranet.lansingerland.nl
