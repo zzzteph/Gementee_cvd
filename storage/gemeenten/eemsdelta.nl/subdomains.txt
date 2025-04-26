@@ -11,6 +11,7 @@ extranet-acc.eemsdelta.nl
 extranet.eemsdelta.nl
 extranetcms-acc.eemsdelta.nl
 extranetcms.eemsdelta.nl
+ez.eemsdelta.nl
 filecap.eemsdelta.nl
 fme.eemsdelta.nl
 iarchief.eemsdelta.nl
