@@ -269,6 +269,7 @@ http://fm.krimpenerwaard.nl
 http://form-gemeenteloket.gemeentemaastricht.nl
 http://formulieren-preproductie.vlaardingen.nl
 http://formulieren-test.rijswijk.nl
+http://formulieren.edam-volendam.nl
 http://formulieren.heerenveen.nl
 http://ftp.lopik.nl
 http://gdintaker.diemen.nl
@@ -471,6 +472,7 @@ http://vvb.sliedrecht.nl
 http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
 http://welkom.ede.nl
+http://werkenbij.edam-volendam.nl
 http://werkenbij.weststellingwerf.nl
 http://werkenvoor.westerkwartier.nl
 http://wierden.nl
@@ -3302,7 +3304,6 @@ https://formulieren.culemborg.nl
 https://formulieren.defryskemarren.nl
 https://formulieren.denhaag.nl
 https://formulieren.duiven.nl
-https://formulieren.edam-volendam.nl
 https://formulieren.geertruidenberg.nl
 https://formulieren.gemeentehw.nl
 https://formulieren.gemeentemaasgouw.nl
@@ -6953,7 +6954,6 @@ https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
-https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
@@ -7605,7 +7605,6 @@ https://werkenbij.amsterdam.nl
 https://werkenbij.barneveld.nl
 https://werkenbij.buren.nl
 https://werkenbij.defryskemarren.nl
-https://werkenbij.edam-volendam.nl
 https://werkenbij.enschede.nl
 https://werkenbij.gooisemeren.nl
 https://werkenbij.groningen.nl
