@@ -380,6 +380,7 @@ testbelastingloket
 ondernemen
 mijnuitkering
 stemvan
+www.samen
 ibabs
 corsa-prod
 corsa-test
@@ -494,7 +495,6 @@ bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
 wonen
-www.samen
 awmail
 awtunnel
 belastingportaal.acc

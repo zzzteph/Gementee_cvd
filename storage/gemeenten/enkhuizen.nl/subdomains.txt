@@ -23,3 +23,4 @@ transfer.enkhuizen.nl
 waarmerk.enkhuizen.nl
 webmail.enkhuizen.nl
 www.enkhuizen.nl
+www.samen.enkhuizen.nl
