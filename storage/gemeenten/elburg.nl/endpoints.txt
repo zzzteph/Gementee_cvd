@@ -5,6 +5,5 @@ https://elburg.nl
 https://eloket.elburg.nl
 https://iburgerzaken.elburg.nl
 https://preprodbroker.elburg.nl
+https://test.elburg.nl
 https://testbelastingloket.elburg.nl
-https://testeloket.elburg.nl
-https://www.elburg.nl
