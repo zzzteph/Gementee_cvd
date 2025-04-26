@@ -2,6 +2,7 @@ http://autodiscover.gemeente-oldambt.nl
 https://acc-broker.gemeente-oldambt.nl
 https://acc-contact.gemeente-oldambt.nl
 https://acc-formulier.gemeente-oldambt.nl
+https://acc-keycloak-admin.gemeente-oldambt.nl
 https://acc-keycloak.gemeente-oldambt.nl
 https://acc-mijn.gemeente-oldambt.nl
 https://acc-notificaties.gemeente-oldambt.nl
@@ -10,6 +11,7 @@ https://acc-objecttypen.gemeente-oldambt.nl
 https://acc-openklant.gemeente-oldambt.nl
 https://acc-openzaak.gemeente-oldambt.nl
 https://acc-podiumd-logs.gemeente-oldambt.nl
+https://acc-zac.gemeente-oldambt.nl
 https://afspraken.gemeente-oldambt.nl
 https://api.meldingen-acc.gemeente-oldambt.nl
 https://api.meldingen.gemeente-oldambt.nl

@@ -412,6 +412,8 @@ geotest
 moh-acc
 moh
 ns2
+acc-keycloak-admin
+acc-zac
 media
 kaartviewer
 nhr
@@ -551,8 +553,6 @@ digid
 werk
 www.mijn
 www.raad
-acc-keycloak-admin
-acc-zac
 bedrijfsafval
 test-keycloak-admin
 test-keycloak

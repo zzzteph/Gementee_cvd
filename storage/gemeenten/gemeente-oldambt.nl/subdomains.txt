@@ -1,6 +1,7 @@
 acc-broker.gemeente-oldambt.nl
 acc-contact.gemeente-oldambt.nl
 acc-formulier.gemeente-oldambt.nl
+acc-keycloak-admin.gemeente-oldambt.nl
 acc-keycloak.gemeente-oldambt.nl
 acc-midoffice.gemeente-oldambt.nl
 acc-mijn.gemeente-oldambt.nl
@@ -10,6 +11,7 @@ acc-objecttypen.gemeente-oldambt.nl
 acc-openklant.gemeente-oldambt.nl
 acc-openzaak.gemeente-oldambt.nl
 acc-podiumd-logs.gemeente-oldambt.nl
+acc-zac.gemeente-oldambt.nl
 afspraken.gemeente-oldambt.nl
 api.meldingen-acc.gemeente-oldambt.nl
 api.meldingen.gemeente-oldambt.nl
