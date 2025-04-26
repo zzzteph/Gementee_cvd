@@ -33,8 +33,8 @@ raad
 parkeren
 open
 geo
-vpn
 api.meldingen
+vpn
 broker
 betalen
 adfs
@@ -79,12 +79,12 @@ kaarten
 parkeren-acc
 digikoppeling.test
 mks
+acc-broker
 test-intranet
 cmsintranet
 denkmee
 parkeren-test
 piwik
-acc-broker
 belastingloket
 doemee
 dtestloket
@@ -112,6 +112,7 @@ vergunningintaker
 snelbalie
 afvalkalender
 dali
+preprod
 qr
 apps
 bastion365
@@ -124,7 +125,7 @@ preprodbroker
 simform
 web
 mijninkomen
-preprod
+openzaak
 auth
 acc-formulier
 acc-podiumd-logs
@@ -139,8 +140,8 @@ preprod-mijninkomen
 snelbaliepp
 api.betalen
 nieuwsbrief
-openzaak
 acc-mijn
+acc-notificaties
 acc-objecten
 acc-objecttypen
 keycloak
@@ -155,11 +156,14 @@ cryptshare
 belastingportaal
 ftp
 maps
-acc-notificaties
+acc-contact
+acc-keycloak
 acc-openklant
+acc-openzaak
 lyncdiscover
 objecten
 objecttypen
+openklant
 owa
 gasten
 uc
@@ -175,10 +179,6 @@ mailing
 vdi
 legacy
 gis
-acc-contact
-acc-keycloak
-acc-openzaak
-openklant
 test-digikoppeling
 meedoen
 fmreturn
@@ -212,6 +212,7 @@ inproces.acceptatie
 outlook
 vth
 testloket
+contact
 wachtwoord
 geodata
 subsidies-backend
@@ -237,7 +238,6 @@ bestanden
 kcc
 mx1
 mx2
-contact
 www.portal
 cloudadapter-prod
 handhaving
@@ -343,6 +343,7 @@ dialin
 test-formulier
 test-mijn
 test-notificaties
+test-objecten
 test-objecttypen
 test-podiumd-logs
 geoserver
@@ -378,6 +379,7 @@ webservices
 socialekaart
 testbelastingloket
 ondernemen
+e.openstad
 mijnuitkering
 stemvan
 www.samen
@@ -411,7 +413,6 @@ moh-acc
 moh
 ns2
 media
-test-objecten
 kaartviewer
 nhr
 personeelsplanning
@@ -465,7 +466,6 @@ gt-loket
 aeolus
 raadsinformatie
 duo
-e.openstad
 gbionline
 cca-acc
 cca
@@ -552,6 +552,7 @@ werk
 www.mijn
 www.raad
 acc-keycloak-admin
+acc-zac
 bedrijfsafval
 test-keycloak-admin
 test-keycloak
@@ -822,7 +823,6 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
-acc-zac
 webconf
 werknemersportaal
 www.evenementen
