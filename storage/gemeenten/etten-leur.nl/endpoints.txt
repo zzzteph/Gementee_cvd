@@ -5,7 +5,6 @@ http://cmsintranet.etten-leur.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-intranet.etten-leur.nl
 https://Edienstenburgerzaken-test.etten-leur.nl
-https://bag-acc.etten-leur.nl
 https://bag.etten-leur.nl
 https://edienstenburgerzaken-test.etten-leur.nl
 https://enterpriseenrollment.etten-leur.nl

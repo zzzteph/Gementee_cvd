@@ -1453,7 +1453,6 @@ https://backend-dvg.acc.rotterdam.nl
 https://backend-dvg.rotterdam.nl
 https://backoffice-parkeervergunningen-acc.beverwijk.nl
 https://backoffice-parkeervergunningen.beverwijk.nl
-https://bag-acc.etten-leur.nl
 https://bag-kastlijst.acc.denhaag.nl
 https://bag-kastlijst.denhaag.nl
 https://bag-vpek21.pekela.nl
