@@ -69,6 +69,7 @@ sportverhuur.emmen.nl
 stemvan.emmen.nl
 tabaco.emmen.nl
 taxatieverslagen-woz-loket.emmen.nl
+tekst.emmen.nl
 test-ipa.emmen.nl
 waarderingsprijs.emmen.nl
 waarmerk.emmen.nl

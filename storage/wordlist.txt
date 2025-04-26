@@ -971,6 +971,7 @@ allegro
 bijeenkomsten
 cmsoo.gemeente
 mijnsdv
+tekst
 afspraakmakentest
 geoportaaltest
 mijn-acceptatie
@@ -3693,7 +3694,6 @@ hub
 mijn-gemeenteloket
 pre-gemeenteloket
 webteam
-tekst
 accommodatieverhuur
 helpdesk
 ict

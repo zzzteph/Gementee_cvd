@@ -12075,6 +12075,7 @@ teams.nijkerk.eu
 teams.zwolle.nl
 teamurenplanninggezondheidmilieu.rotterdam.nl
 techniek.landvancuijk.nl
+tekst.emmen.nl
 tekst.gemeentenoordenveld.nl
 telefonie.noordoostpolder.nl
 telefonie.stadskanaal.nl
