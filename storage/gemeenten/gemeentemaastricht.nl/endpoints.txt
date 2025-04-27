@@ -1,9 +1,9 @@
-http://form-gemeenteloket.gemeentemaastricht.nl
+https://beh-gemeenteloket.gemeentemaastricht.nl
 https://eloket.gemeentemaastricht.nl
 https://gemeentemaastricht.nl
 https://googleauth.gemeentemaastricht.nl
 https://hub.gemeentemaastricht.nl
-https://pre-gemeenteloket.gemeentemaastricht.nl
+https://mijn-gemeenteloket.gemeentemaastricht.nl
 https://raad.gemeentemaastricht.nl
 https://subsidies.gemeentemaastricht.nl
 https://testeloket.gemeentemaastricht.nl
