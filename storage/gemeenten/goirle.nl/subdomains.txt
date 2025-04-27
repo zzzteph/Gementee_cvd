@@ -18,6 +18,7 @@ jvs.goirle.nl
 oranjeplein.goirle.nl
 preprod-belastingportaal.goirle.nl
 raad.goirle.nl
+ruimtelijkeplannen.goirle.nl
 squitxo.goirle.nl
 squitxotest.goirle.nl
 vergaderingen.acceptatie.goirle.nl

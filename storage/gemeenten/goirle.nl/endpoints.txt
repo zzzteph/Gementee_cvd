@@ -16,5 +16,6 @@ https://jvs.goirle.nl
 https://oranjeplein.goirle.nl
 https://preprod-belastingportaal.goirle.nl
 https://raad.goirle.nl
+https://ruimtelijkeplannen.goirle.nl
 https://vergaderingen.goirle.nl
 https://www.goirle.nl

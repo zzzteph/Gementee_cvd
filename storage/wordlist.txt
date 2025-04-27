@@ -41,10 +41,10 @@ adfs
 gemeenteraad
 iparticipatie
 pv
+ruimtelijkeplannen
 werkenbij
 zaaksysteem-accept
 belastingen
-ruimtelijkeplannen
 test-ipa
 enterpriseenrollment
 testeloket

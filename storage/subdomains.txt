@@ -10745,6 +10745,7 @@ ruimtelijkeplannen.denhelder.nl
 ruimtelijkeplannen.deventer.nl
 ruimtelijkeplannen.dronten.nl
 ruimtelijkeplannen.gemert-bakel.nl
+ruimtelijkeplannen.goirle.nl
 ruimtelijkeplannen.gorinchem.nl
 ruimtelijkeplannen.hattem.nl
 ruimtelijkeplannen.heerde.nl
