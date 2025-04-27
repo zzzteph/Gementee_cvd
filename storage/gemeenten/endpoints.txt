@@ -530,6 +530,7 @@ http://www.werkenbij.zaanstad.nl
 http://www.zorgloket.druten.nl
 http://www.zuidplas.nl
 http://www.zuidwestopznbest.denhaag.nl
+http://zoekengemeentearchief.gemeentehulst.nl
 http://zorgloket.druten.nl
 http://zuidplas.nl
 https://1221.hilversum.nl
@@ -8550,7 +8551,6 @@ https://zkd.denhaag.nl
 https://zoeken.alkmaar.nl
 https://zoeken.deventer.nl
 https://zoeken.olst-wijhe.nl
-https://zoekengemeentearchief.gemeentehulst.nl
 https://zoekpersoon.vlaardingen.nl
 https://zoetermeer.nl
 https://zoeterwoude.nl

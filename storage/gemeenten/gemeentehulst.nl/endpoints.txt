@@ -1,4 +1,5 @@
 http://autodiscover.gemeentehulst.nl
+http://zoekengemeentearchief.gemeentehulst.nl
 https://bolwerk.gemeentehulst.nl
 https://edienstenburgerzaken-test.gemeentehulst.nl
 https://edienstenburgerzaken.gemeentehulst.nl
@@ -12,4 +13,3 @@ https://parkeren.gemeentehulst.nl
 https://portaal.gemeentehulst.nl
 https://transfer.gemeentehulst.nl
 https://www.gemeentehulst.nl
-https://zoekengemeentearchief.gemeentehulst.nl
