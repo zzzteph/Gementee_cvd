@@ -323,6 +323,7 @@ http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
 http://meldpuntondermijning.rotterdam.nl
 http://middendelfland.nl
+http://mijn.goeree-overflakkee.nl
 http://mijn.groningen.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
@@ -507,6 +508,7 @@ http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
 http://www.pmb.amsterdam.nl
 http://www.praatmee.borsele.nl
+http://www.praatmee.goeree-overflakkee.nl
 http://www.regelgeving.amsterdam.nl
 http://www.remote.westvoorne.nl
 http://www.reuseldemierden.nl
@@ -4902,7 +4904,6 @@ https://mijn.gemeente-oldambt.nl
 https://mijn.gemeenteberkelland.nl
 https://mijn.gemeentemaashorst.nl
 https://mijn.gemert-bakel.nl
-https://mijn.goeree-overflakkee.nl
 https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
 https://mijn.haaksbergen.nl
@@ -6564,6 +6565,7 @@ https://simcms.deurne.nl
 https://simcms.doesburg.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
+https://simcms.goeree-overflakkee.nl
 https://simcms.halderberge.nl
 https://simcms.harlingen.nl
 https://simcms.heuvelrug.nl
@@ -6601,6 +6603,7 @@ https://simsite.bergen.nl
 https://simsite.deurne.nl
 https://simsite.edam-volendam.nl
 https://simsite.geertruidenberg.nl
+https://simsite.goeree-overflakkee.nl
 https://simsite.heumen.nl
 https://simsite.heuvelrug.nl
 https://simsite.kerkrade.nl

@@ -502,6 +502,7 @@ awtunnel
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
+www.praatmee
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -710,7 +711,6 @@ parkeerloket
 qmanage
 autodiscover.raad
 edienstenburgerzaken.test
-www.praatmee
 av
 datalab
 gen1
