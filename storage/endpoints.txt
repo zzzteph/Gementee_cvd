@@ -373,6 +373,7 @@ http://preproductie.zwartewaterland.nl
 http://pv.gemeentesluis.nl
 http://raadsagenda.oirschot.nl
 http://redirector.alkmaar.nl
+http://remote.gemeentesluis.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://samenindebuurt.heerlen.nl
@@ -6276,6 +6277,7 @@ https://rads.rotterdam.nl
 https://rap.gemeentesluis.nl
 https://raster.horstaandemaas.nl
 https://rbp.rotterdam.nl
+https://rds.gemeentesluis.nl
 https://rdweb.houten.nl
 https://rdweb01.schagen.nl
 https://reclame.nijmegen.nl
@@ -6305,7 +6307,6 @@ https://rekentool.helmond.nl
 https://religieuserfgoed.deventer.nl
 https://remote.arnhem.nl
 https://remote.beverwijk.nl
-https://remote.gemeentesluis.nl
 https://remote.gorinchem.nl
 https://remote.hethogeland.nl
 https://remote.lochem.nl
