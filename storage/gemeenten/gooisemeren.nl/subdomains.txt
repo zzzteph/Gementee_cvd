@@ -3,7 +3,6 @@ adfs.gooisemeren.nl
 afspraak.gooisemeren.nl
 autodiscover.gooisemeren.nl
 begraafplaatsen.gooisemeren.nl
-begroting.gooisemeren.nl
 belastingbalie-prepod.gooisemeren.nl
 belastingbalie.gooisemeren.nl
 belevingsroute.gooisemeren.nl
@@ -26,6 +25,7 @@ makelaar-d.gooisemeren.nl
 makelaar.gooisemeren.nl
 mijn.gooisemeren.nl
 mozard.gooisemeren.nl
+mozardtest.gooisemeren.nl
 omgevingsvisie.gooisemeren.nl
 online.gooisemeren.nl
 open.gooisemeren.nl

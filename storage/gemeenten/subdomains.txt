@@ -1975,7 +1975,6 @@ begroten.noordwestbegroot.utrecht.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 begroting.delft.nl
 begroting.gemeentehw.nl
-begroting.gooisemeren.nl
 begroting.gorinchem.nl
 begroting.groningen.nl
 begroting.hengelo.nl
@@ -8591,6 +8590,7 @@ mozard.vlieland.nl
 mozardproductie.texel.nl
 mozardtest.ameland.nl
 mozardtest.bunnik.nl
+mozardtest.gooisemeren.nl
 mozardtest.schiermonnikoog.nl
 mozardtest.terschelling.nl
 mozardtest.vlieland.nl

@@ -4,7 +4,6 @@ https://acceptatie-open.gooisemeren.nl
 https://adfs.gooisemeren.nl
 https://afspraak.gooisemeren.nl
 https://begraafplaatsen.gooisemeren.nl
-https://begroting.gooisemeren.nl
 https://belastingbalie-prepod.gooisemeren.nl
 https://belastingbalie.gooisemeren.nl
 https://belevingsroute.gooisemeren.nl
@@ -21,6 +20,7 @@ https://kaarten.gooisemeren.nl
 https://magazines.gooisemeren.nl
 https://mijn.gooisemeren.nl
 https://mozard.gooisemeren.nl
+https://mozardtest.gooisemeren.nl
 https://omgevingsvisie.gooisemeren.nl
 https://online.gooisemeren.nl
 https://open.gooisemeren.nl

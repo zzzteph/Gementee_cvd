@@ -1553,7 +1553,6 @@ https://begroten.noordwestbegroot.utrecht.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 https://begroting.delft.nl
 https://begroting.gemeentehw.nl
-https://begroting.gooisemeren.nl
 https://begroting.gorinchem.nl
 https://begroting.hengelo.nl
 https://begroting.middelburg.nl
@@ -5177,6 +5176,7 @@ https://mozard.vlieland.nl
 https://mozardproductie.texel.nl
 https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
+https://mozardtest.gooisemeren.nl
 https://mozardtest.schiermonnikoog.nl
 https://mozardtest.terschelling.nl
 https://mozardtest.vlieland.nl
