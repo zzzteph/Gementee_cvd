@@ -1,4 +1,5 @@
 http://autodiscover.gorinchem.nl
+http://simsite.gorinchem.nl
 https://aanmelden.gorinchem.nl
 https://acc.gorinchem.nl
 https://adfs.gorinchem.nl
