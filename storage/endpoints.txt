@@ -307,7 +307,6 @@ http://landgraaf.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://login.sittard-geleen.nl
-http://loket.gemeentewestland.nl
 http://lvs.denhaag.nl
 http://lyncdiscover.diemen.nl
 http://m.leiden.nl
@@ -324,7 +323,6 @@ http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
 http://meldpuntondermijning.rotterdam.nl
 http://middendelfland.nl
-http://mijn.gemeentewestland.nl
 http://mijn.groningen.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
@@ -6099,6 +6097,7 @@ https://preproductie.beuningen.nl
 https://preproductie.bladel.nl
 https://preproductie.bronckhorst.nl
 https://preproductie.gemeentewesterveld.nl
+https://preproductie.gemeentewestland.nl
 https://preproductie.goeree-overflakkee.nl
 https://preproductie.heeze-leende.nl
 https://preproductie.heuvelrug.nl

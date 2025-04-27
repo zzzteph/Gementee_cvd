@@ -1,5 +1,3 @@
-http://loket.gemeentewestland.nl
-http://mijn.gemeentewestland.nl
 http://test.website.westland.gemeentewestland.nl
 https://admin.doemee.gemeentewestland.nl
 https://admin.openstad.gemeentewestland.nl
@@ -28,6 +26,7 @@ https://kaarten.gemeentewestland.nl
 https://openstad.gemeentewestland.nl
 https://oudewebsite.gemeentewestland.nl
 https://preprodbroker.gemeentewestland.nl
+https://preproductie.gemeentewestland.nl
 https://pvsor.gemeentewestland.nl
 https://subsidies-acceptatie.gemeentewestland.nl
 https://subsidies-backend-acceptatie.gemeentewestland.nl

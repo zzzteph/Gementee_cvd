@@ -151,6 +151,7 @@ sip
 mdm
 smtp
 jaarstukken
+inloggen
 connect.acceptatie
 cryptshare
 belastingportaal
@@ -169,7 +170,6 @@ gasten
 uc
 AutoDiscover
 ro
-inloggen
 inproces
 transfer
 college
