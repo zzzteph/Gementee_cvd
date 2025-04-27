@@ -22,7 +22,6 @@ https://formulier.gemeentemaashorst.nl
 https://gbi.gemeentemaashorst.nl
 https://gemeentemaashorst.nl
 https://gemeenteraad.gemeentemaashorst.nl
-https://iburgerzaken.gemeentemaashorst.nl
 https://keycloak.gemeentemaashorst.nl
 https://mijn.gemeentemaashorst.nl
 https://mijnsociaalplein.gemeentemaashorst.nl
@@ -33,7 +32,6 @@ https://omgevingswet.gemeentemaashorst.nl
 https://openklant.gemeentemaashorst.nl
 https://openzaak.gemeentemaashorst.nl
 https://podiumd-logs.gemeentemaashorst.nl
-https://preprod-mijnsociaalplein.gemeentemaashorst.nl
 https://prtg.gemeentemaashorst.nl
 https://pv.gemeentemaashorst.nl
 https://telewerken.gemeentemaashorst.nl

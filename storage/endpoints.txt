@@ -3837,7 +3837,6 @@ https://iburgerzaken.gemeente-oldambt.nl
 https://iburgerzaken.gemeente-steenbergen.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
-https://iburgerzaken.gemeentemaashorst.nl
 https://iburgerzaken.gemeentestein.nl
 https://iburgerzaken.gemert-bakel.nl
 https://iburgerzaken.gennep.nl
@@ -6049,7 +6048,6 @@ https://preprod-mijnsociaaldomein.gemeentesluis.nl
 https://preprod-mijnsociaaldomein.venlo.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
-https://preprod-mijnsociaalplein.gemeentemaashorst.nl
 https://preprod-mijnsociaalplein.heiloo.nl
 https://preprod-mijnsociaalplein.hilversum.nl
 https://preprod-mijnsociaalplein.hofvantwente.nl
