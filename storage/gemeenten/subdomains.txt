@@ -7695,7 +7695,6 @@ mail.gemeentemaasgouw.nl
 mail.gemeentemaashorst.nl
 mail.gemeentesluis.nl
 mail.gemeentestein.nl
-mail.gemeentewesterveld.nl
 mail.gemeentewestland.nl
 mail.gemert-bakel.nl
 mail.gennep.nl
@@ -8464,7 +8463,6 @@ mintra.mookenmiddelaar.nl
 mis.waterland.nl
 misc-geo-01.barneveld.nl
 misc-geo-02.barneveld.nl
-misentry.gemeentewesterveld.nl
 mitel.voorst.nl
 mivbxsrvr.gorinchem.nl
 mk01.hellevoetsluis.nl
@@ -8514,7 +8512,6 @@ mo.apeldoorn.nl
 mo.hellevoetsluis.nl
 mob.oostgelre.nl
 mobiel.gemeentebeek.nl
-mobiel.gemeentewesterveld.nl
 mobiel.groningen.nl
 mobiel.hillegom.nl
 mobiel.hoogeveen.nl

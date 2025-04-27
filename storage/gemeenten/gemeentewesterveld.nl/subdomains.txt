@@ -8,9 +8,6 @@ dkd.gemeentewesterveld.nl
 gemeentewesterveld.nl
 loket.acceptatie.gemeentewesterveld.nl
 loket.gemeentewesterveld.nl
-mail.gemeentewesterveld.nl
-misentry.gemeentewesterveld.nl
-mobiel.gemeentewesterveld.nl
 preproductie.gemeentewesterveld.nl
 preproductiebroker.gemeentewesterveld.nl
 servicebus.gemeentewesterveld.nl

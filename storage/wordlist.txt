@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 mijn
 webmail
-mail
 simsite
+mail
 digikoppeling
 afspraken
 preproductie
@@ -195,7 +195,6 @@ mta-sts
 zaaksysteem
 geoportaal
 internetafspraken
-mobiel
 fs
 kennisbank
 preprod-mijn
@@ -213,6 +212,7 @@ outlook
 vth
 testloket
 contact
+mobiel
 wachtwoord
 geodata
 subsidies-backend
@@ -3706,7 +3706,6 @@ workspace-rds
 www-cache
 www.eformulieren
 digikoppelingjnet-test
-misentry
 preproductiebroker
 basisregistraties
 bavak
