@@ -10,7 +10,6 @@ https://mijninkomen.gouda.nl
 https://omgevingsvisie.gouda.nl
 https://openpdc.gouda.nl
 https://openpub.gouda.nl
-https://preprod-mijninkomen.gouda.nl
 https://preprod-mijnportaal.gouda.nl
 https://publiek-id-test.gouda.nl
 https://publiek-id.gouda.nl
