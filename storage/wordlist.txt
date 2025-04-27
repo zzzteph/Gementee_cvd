@@ -982,6 +982,7 @@ financieelportaal
 intake
 organisatie
 director
+exchangehybrid
 ketenportaal.acceptatie
 nedplan
 secudoc
@@ -6055,7 +6056,6 @@ darwin
 digikoppeling-ot
 dkd-ot.berichtenverkeer
 e.denkmee
-exchangehybrid
 fs-acct
 fs-test
 ftp-test

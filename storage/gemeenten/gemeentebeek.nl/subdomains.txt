@@ -57,6 +57,7 @@ dellmanage.ovh.gemeentebeek.nl
 digileveringportaal.gemeentebeek.nl
 director.gemeentebeek.nl
 esrs.ovh.gemeentebeek.nl
+exchangehybrid.gemeentebeek.nl
 extranet.gemeentebeek.nl
 felix.gemeentebeek.nl
 ftp-server.ovh.gemeentebeek.nl

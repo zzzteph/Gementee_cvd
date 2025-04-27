@@ -343,7 +343,6 @@ http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nuenen.nl
 http://omgevingswet.bronckhorst.nl
-http://open.gemeentebeek.nl
 http://open.wierden.nl
 http://open.zuidplas.nl
 http://overbetuwe.nl
@@ -397,6 +396,7 @@ http://simcms.bladel.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.cranendonck.nl
 http://simcms.dalfsen.nl
+http://simcms.gemeentebeek.nl
 http://simcms.heerlen.nl
 http://simcms.heumen.nl
 http://simcms.koggenland.nl
@@ -445,6 +445,7 @@ http://test-flash.scherpenzeel.nl
 http://test-insite.houten.nl
 http://test-intranet.drimmelen.nl
 http://test-intranet.etten-leur.nl
+http://test-intranet.gemeentebeek.nl
 http://test-intranet.groningen.nl
 http://test-intranet.lansingerland.nl
 http://test-intranet.midden-groningen.nl
@@ -3134,6 +3135,7 @@ https://felix.beuningen.nl
 https://felix.beverwijk.nl
 https://felix.cranendonck.nl
 https://felix.eersel.nl
+https://felix.gemeentebeek.nl
 https://felix.halderberge.nl
 https://felix.landgraaf.nl
 https://felix.lingewaard.nl
@@ -3422,6 +3424,7 @@ https://gemeentearchief.goes.nl
 https://gemeentearchief.veenendaal.nl
 https://gemeentearchief.wassenaar.nl
 https://gemeentearchief.wierden.nl
+https://gemeentebeek.nl
 https://gemeenteberkelland.nl
 https://gemeentebest.nl
 https://gemeentebestuur.haarlem.nl
@@ -5519,6 +5522,7 @@ https://open.bronckhorst.nl
 https://open.dinkelland.nl
 https://open.ede.nl
 https://open.epe.nl
+https://open.gemeentebeek.nl
 https://open.gemeentestein.nl
 https://open.gooisemeren.nl
 https://open.gorinchem.nl
@@ -8013,6 +8017,7 @@ https://www.gemeente-oldambt.nl
 https://www.gemeente-steenbergen.nl
 https://www.gemeente.emmen.nl
 https://www.gemeente.groningen.nl
+https://www.gemeentebeek.nl
 https://www.gemeenteberkelland.nl
 https://www.gemeentebest.nl
 https://www.gemeentehulst.nl

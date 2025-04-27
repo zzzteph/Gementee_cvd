@@ -4699,6 +4699,7 @@ exchange.texel.nl
 exchange.veldhoven.nl
 exchange.zwolle.nl
 exchange2.alphenaandenrijn.nl
+exchangehybrid.gemeentebeek.nl
 exchangehybrid.tilburg.nl
 exo-ews.rotterdam.nl
 exo-mrs01.rotterdam.nl
