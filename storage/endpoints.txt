@@ -445,6 +445,7 @@ http://test-insite.houten.nl
 http://test-intranet.drimmelen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
+http://test-intranet.gemeentestein.nl
 http://test-intranet.groningen.nl
 http://test-intranet.lansingerland.nl
 http://test-intranet.midden-groningen.nl
@@ -6471,6 +6472,7 @@ https://secure-test.almere.nl
 https://secure.acc.denhaag.nl
 https://secure.almere.nl
 https://secure.denhaag.nl
+https://secure.gemeentestein.nl
 https://secure.pekela.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl

@@ -1,3 +1,4 @@
+http://test-intranet.gemeentestein.nl
 http://wion.gemeentestein.nl
 https://auth.gemeentestein.nl
 https://authenticatie.gemeentestein.nl
@@ -8,6 +9,7 @@ https://gemeentestein.nl
 https://iburgerzaken.gemeentestein.nl
 https://intranet.gemeentestein.nl
 https://open.gemeentestein.nl
+https://secure.gemeentestein.nl
 https://sts.gemeentestein.nl
 https://test-cmsintranet.gemeentestein.nl
 https://vpn.gemeentestein.nl
