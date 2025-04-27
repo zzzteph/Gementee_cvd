@@ -1,5 +1,4 @@
 http://autodiscover.cbk.groningen.nl
-http://mijn.groningen.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -10,8 +9,7 @@ http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
-http://test-intranet.groningen.nl
-http://www.mijn.groningen.nl
+http://www.aanvraagparkeren.groningen.nl
 https://aanvraagparkeren.groningen.nl
 https://acc-broker.groningen.nl
 https://acc-contact.dev.groningen.nl
@@ -37,6 +35,7 @@ https://acc-podiumd-logs.groningen.nl
 https://acc-zac.dev.groningen.nl
 https://admin.stadjerspas.gemeente.groningen.nl
 https://aov.groningen.nl
+https://api.acc.meldingen.groningen.nl
 https://arcgis.groningen.nl
 https://authenticatie.groningen.nl
 https://autodiscover.ggd.groningen.nl
@@ -76,12 +75,14 @@ https://jouwgrotemarkt.groningen.nl
 https://kennisbank.groningen.nl
 https://lerenbij.groningen.nl
 https://lifecoolsquare.groningen.nl
+https://login.groningen.nl
 https://mam.groningen.nl
 https://maps-tst.groningen.nl
 https://maps.groningen.nl
 https://mas.groningen.nl
 https://meldingen.groningen.nl
 https://mijn-acc.groningen.nl
+https://mijn.groningen.nl
 https://mijngkb.groningen.nl
 https://mijnjgz.ggd.groningen.nl
 https://milieudienst.groningen.nl
@@ -118,7 +119,6 @@ https://stemvan.groningen.nl
 https://stoepvrij.groningen.nl
 https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
-https://tasman375.groningen.nl
 https://test-cmsintranet.groningen.nl
 https://toegang.groningen.nl
 https://toerisme.groningen.nl
@@ -136,7 +136,6 @@ https://wijkvernieuwing.groningen.nl
 https://wijsamen.groningen.nl
 https://willkommen.groningen.nl
 https://wwt.groningen.nl
-https://www.aanvraagparkeren.groningen.nl
 https://www.arcgis.groningen.nl
 https://www.campus.groningen.nl
 https://www.cmsoo.gemeente.groningen.nl
@@ -149,7 +148,9 @@ https://www.gemeenteraad.groningen.nl
 https://www.ggd.groningen.nl
 https://www.groningen.nl
 https://www.jouwgrotemarkt.groningen.nl
+https://www.mijn.groningen.nl
 https://www.milieudienst.groningen.nl
+https://www.nde.groningen.nl
 https://www.onderzoek.groningen.nl
 https://www.portal.groningen.nl
 https://www.ruimtevoorjou.groningen.nl

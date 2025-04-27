@@ -324,7 +324,6 @@ http://melddesk.renkum.nl
 http://meldpuntondermijning.rotterdam.nl
 http://middendelfland.nl
 http://mijn.goeree-overflakkee.nl
-http://mijn.groningen.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
 http://mijn.voorschoten.nl
@@ -446,7 +445,6 @@ http://test-intranet.drimmelen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
-http://test-intranet.groningen.nl
 http://test-intranet.lansingerland.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
@@ -485,6 +483,7 @@ http://wijkteam-tst.katwijk.nl
 http://wion.gemeentestein.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
+http://www.aanvraagparkeren.groningen.nl
 http://www.bba.amsterdam.nl
 http://www.beekdaelen.nl
 http://www.bergeijk.nl
@@ -502,7 +501,6 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.koggenland.nl
 http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
-http://www.mijn.groningen.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.ondernemersportaal.denhaag.nl
@@ -1166,6 +1164,7 @@ https://api-meldingen.almelo.nl
 https://api-meldingen.denhaag.nl
 https://api-pkio-acceptatie.tilburg.nl
 https://api.acc.meldingen.amsterdam.nl
+https://api.acc.meldingen.groningen.nl
 https://api.acc.meldingen.kampen.nl
 https://api.aip.amsterdam.nl
 https://api.amsterdam.nl
@@ -4530,6 +4529,7 @@ https://login-acc.roosendaal.nl
 https://login-pre.mookenmiddelaar.nl
 https://login-pre.nijkerk.eu
 https://login.alphenaandenrijn.nl
+https://login.groningen.nl
 https://login.mookenmiddelaar.nl
 https://login.nijkerk.eu
 https://login.schagen.nl
@@ -4906,6 +4906,7 @@ https://mijn.gemeentemaashorst.nl
 https://mijn.gemert-bakel.nl
 https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
+https://mijn.groningen.nl
 https://mijn.haaksbergen.nl
 https://mijn.haarlem.nl
 https://mijn.hardenberg.nl
@@ -6951,7 +6952,6 @@ https://talentcenter.almere.nl
 https://talentcenter2.almere.nl
 https://tamtam.amsterdam.nl
 https://taskflow.t-diel.nl
-https://tasman375.groningen.nl
 https://taxiportaal-acc.amsterdam.nl
 https://taxiportaal.amsterdam.nl
 https://taxivergunning.rotterdam.nl
@@ -7852,7 +7852,6 @@ https://www-cache.gemeentesluis.nl
 https://www-wim.gemeente-oldambt.nl
 https://www.aaenhunze.nl
 https://www.aalsmeer.nl
-https://www.aanvraagparkeren.groningen.nl
 https://www.acc.amsterdam.nl
 https://www.acc.denhaag.nl
 https://www.acceptatie.aalsmeer.nl
@@ -8156,6 +8155,7 @@ https://www.midden-groningen.nl
 https://www.middendelfland.nl
 https://www.middendrenthe.nl
 https://www.mijn.arnhem.nl
+https://www.mijn.groningen.nl
 https://www.mijn.heuvelrug.nl
 https://www.mijnkijkop.olst-wijhe.nl
 https://www.mijnleefomgeving.olst-wijhe.nl
@@ -8171,6 +8171,7 @@ https://www.morgen.venlo.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
+https://www.nde.groningen.nl
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl

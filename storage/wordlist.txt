@@ -525,6 +525,7 @@ css.openstad
 ssp
 activesync
 crl
+api.acc.meldingen
 applicaties
 belastingbalie-acc
 belastingbalie.acc
@@ -758,7 +759,6 @@ acc-nieuwsbrief
 acc.meldingen
 afs
 algoritmeregister
-api.acc.meldingen
 api.data
 autodiscover.ggd
 berichtverkeer
@@ -3916,6 +3916,7 @@ mobielhandhaving
 mom-test
 mom
 mor-tst
+muziekschool
 oldambt
 oogst
 ows-ahp-test
@@ -4052,6 +4053,7 @@ www.milieudienst
 www.mobility
 www.mor-tst
 www.myprint
+www.nde
 www.oogst
 www.ows-test
 www.ows

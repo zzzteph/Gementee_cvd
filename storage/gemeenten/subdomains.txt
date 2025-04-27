@@ -1148,6 +1148,7 @@ api-portal-dev.data.leiden.nl
 api-portal.data.leiden.nl
 api-test-gemnet.losser.nl
 api.acc.meldingen.amsterdam.nl
+api.acc.meldingen.groningen.nl
 api.acc.meldingen.kampen.nl
 api.aip.amsterdam.nl
 api.amsterdam.nl
@@ -8622,6 +8623,7 @@ mta-sts.woudenberg.nl
 mta-sts.zevenaar.nl
 mta.nieuwsbrief.amsterdam.nl
 museumcollecties.roermond.nl
+muziekschool.groningen.nl
 mv1.amsterdam.nl
 mvpndec.rotterdam.nl
 mx.elburg.nl
@@ -14507,6 +14509,7 @@ www.natuurnetwerken-test.sudwestfryslan.nl
 www.ndbu-acc.utrecht.nl
 www.ndbu-tst.utrecht.nl
 www.ndbu.utrecht.nl
+www.nde.groningen.nl
 www.nederbetuwe.nl
 www.nederweert.nl
 www.netwerk.rhenen.nl

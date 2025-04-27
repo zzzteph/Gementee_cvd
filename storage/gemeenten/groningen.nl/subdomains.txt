@@ -32,6 +32,7 @@ afspraken-tst.groningen.nl
 afspraken-tstabs.groningen.nl
 afspraken.groningen.nl
 aov.groningen.nl
+api.acc.meldingen.groningen.nl
 arcgis.groningen.nl
 ats360-acc.groningen.nl
 ats360-api-acc.groningen.nl
@@ -178,6 +179,7 @@ mobility.groningen.nl
 mom-test.groningen.nl
 mom.groningen.nl
 mor-tst.groningen.nl
+muziekschool.groningen.nl
 mx1.groningen.nl
 mx2.groningen.nl
 myprint.groningen.nl
@@ -353,6 +355,7 @@ www.milieudienst.groningen.nl
 www.mobility.groningen.nl
 www.mor-tst.groningen.nl
 www.myprint.groningen.nl
+www.nde.groningen.nl
 www.onderzoek.groningen.nl
 www.oogst.groningen.nl
 www.ows-test.groningen.nl
