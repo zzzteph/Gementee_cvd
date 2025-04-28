@@ -13,4 +13,6 @@ https://roemte.hethogeland.nl
 https://servicedesk.hethogeland.nl
 https://siem.hethogeland.nl
 https://siem2.hethogeland.nl
+https://test-cmsextranet.hethogeland.nl
+https://test-extranet.hethogeland.nl
 https://www.hethogeland.nl
