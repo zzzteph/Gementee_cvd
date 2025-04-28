@@ -89,6 +89,7 @@ belastingloket
 doemee
 dtestloket
 connect
+_autodiscover._tcp
 osbacc
 siam
 financien
@@ -97,7 +98,6 @@ klantcontact
 govroam
 pki
 test-cmsintranet
-_autodiscover._tcp
 portaal
 samen
 verkiezingen
