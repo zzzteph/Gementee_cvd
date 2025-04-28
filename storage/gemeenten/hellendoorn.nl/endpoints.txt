@@ -1,7 +1,7 @@
-http://beeldbank.hellendoorn.nl
 https://api-hetravijn.hellendoorn.nl
 https://api.meldingen-acc.hellendoorn.nl
 https://api.meldingen.hellendoorn.nl
+https://beeldbank.hellendoorn.nl
 https://belastingen.hellendoorn.nl
 https://edienstenburgerzaken-test.hellendoorn.nl
 https://edienstenburgerzaken.hellendoorn.nl

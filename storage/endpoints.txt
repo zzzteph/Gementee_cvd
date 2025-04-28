@@ -217,7 +217,6 @@ http://autodiscover.zoeterwoude.nl
 http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
-http://beeldbank.hellendoorn.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://bergendal.nl
@@ -1517,6 +1516,7 @@ https://beeldbank.extranet.tilburg.nl
 https://beeldbank.gemeentebest.nl
 https://beeldbank.goirle.nl
 https://beeldbank.haarlemmermeer.nl
+https://beeldbank.hellendoorn.nl
 https://beeldbank.landvancuijk.nl
 https://beeldbank.leeuwarden.nl
 https://beeldbank.leiden.nl
