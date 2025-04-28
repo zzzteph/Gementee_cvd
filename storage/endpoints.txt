@@ -3451,7 +3451,6 @@ https://gemeenteraad.gemeentemaashorst.nl
 https://gemeenteraad.groningen.nl
 https://gemeenteraad.haarlemmermeer.nl
 https://gemeenteraad.halderberge.nl
-https://gemeenteraad.heemskerk.nl
 https://gemeenteraad.hillegom.nl
 https://gemeenteraad.hofvantwente.nl
 https://gemeenteraad.hollandskroon.nl
