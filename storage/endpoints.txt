@@ -341,6 +341,7 @@ http://nuenen.nl
 http://omgevingswet.bronckhorst.nl
 http://open.wierden.nl
 http://open.zuidplas.nl
+http://opendata.heemstede.nl
 http://overbetuwe.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
@@ -5555,7 +5556,6 @@ https://opendata-contrast.zoetermeer.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
-https://opendata.heemstede.nl
 https://opendata.nijmegen.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
