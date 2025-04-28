@@ -255,6 +255,7 @@ http://embrace.laarbeek.nl
 http://felix.aalten.nl
 http://felix.dalfsen.nl
 http://felix.deurne.nl
+http://felix.halderberge.nl
 http://felix.heerlen.nl
 http://felix.kerkrade.nl
 http://felix.loonopzand.nl
@@ -3136,7 +3137,6 @@ https://felix.beverwijk.nl
 https://felix.cranendonck.nl
 https://felix.eersel.nl
 https://felix.gemeentebeek.nl
-https://felix.halderberge.nl
 https://felix.landgraaf.nl
 https://felix.lingewaard.nl
 https://felix.lopik.nl
@@ -6119,7 +6119,6 @@ https://printen.tilburg.nl
 https://privacybewustzijn.bergendal.nl
 https://private.delft.nl
 https://proapp.rotterdam.nl
-https://probeer.halderberge.nl
 https://probeer.winterswijk.nl
 https://prod.stedebroec.nl
 https://productenraming.venlo.nl
@@ -6544,6 +6543,7 @@ https://simcms-gemeenteraad.vlissingen.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.bronckhorst.nl
 https://simcms-open.doetinchem.nl
+https://simcms-open.halderberge.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.sonenbreugel.nl
 https://simcms-open.wierden.nl
