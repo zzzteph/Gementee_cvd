@@ -279,6 +279,7 @@ http://goeree-overflakkee.nl
 http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://helloid.sittard-geleen.nl
+http://heumen.nl
 http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
 http://huisnettest.nieuwegein.nl
@@ -393,7 +394,6 @@ http://simcms.cranendonck.nl
 http://simcms.dalfsen.nl
 http://simcms.gemeentebeek.nl
 http://simcms.heerlen.nl
-http://simcms.heumen.nl
 http://simcms.koggenland.nl
 http://simcms.middelburg.nl
 http://simcms.nederweert.nl
@@ -3715,7 +3715,6 @@ https://hetgeldvan.deventer.nl
 https://hethogeland.nl
 https://hetsociaalplein-acc.dijkenwaard.nl
 https://hetsociaalplein.dijkenwaard.nl
-https://heumen.nl
 https://heusden.nl
 https://heuvelrug.nl
 https://hildebrandplein.denhaag.nl
@@ -6568,6 +6567,7 @@ https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
 https://simcms.halderberge.nl
+https://simcms.heumen.nl
 https://simcms.heuvelrug.nl
 https://simcms.huizen.nl
 https://simcms.intranet.lopik.nl
