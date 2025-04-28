@@ -1,4 +1,5 @@
 http://autodiscover.hardinxveld-giessendam.nl
+http://loket.acceptatie.hardinxveld-giessendam.nl
 https://college.hardinxveld-giessendam.nl
 https://edienstenburgerzaken-test.hardinxveld-giessendam.nl
 https://edienstenburgerzaken.hardinxveld-giessendam.nl
@@ -11,7 +12,6 @@ https://gisibgeoserver.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam-checker-preprod.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam-checker.hardinxveld-giessendam.nl
 https://hardinxveld-giessendam.nl
-https://loket.acceptatie.hardinxveld-giessendam.nl
 https://loket.hardinxveld-giessendam.nl
 https://raad.hardinxveld-giessendam.nl
 https://rxlaunch-signicat-preprod.hardinxveld-giessendam.nl
