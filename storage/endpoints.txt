@@ -256,7 +256,6 @@ http://felix.aalten.nl
 http://felix.dalfsen.nl
 http://felix.deurne.nl
 http://felix.halderberge.nl
-http://felix.heerlen.nl
 http://felix.kerkrade.nl
 http://felix.loonopzand.nl
 http://felix.staphorst.nl
@@ -279,7 +278,6 @@ http://geoportal.weert.nl
 http://goeree-overflakkee.nl
 http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
-http://heerlen.nl
 http://helloid.sittard-geleen.nl
 http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
@@ -382,7 +380,6 @@ http://sammy-acc.derondevenen.nl
 http://scherpenzeel.nl
 http://secure.dalfsen.nl
 http://sem.kampen.nl
-http://simcms-centrum.heerlen.nl
 http://simcms-open.zoetermeer.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
@@ -500,6 +497,7 @@ http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.doetinchem.nl
 http://www.eersel.nl
+http://www.heerlen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.koggenland.nl
 http://www.landgraaf.nl
@@ -3140,6 +3138,7 @@ https://felix.cranendonck.nl
 https://felix.eersel.nl
 https://felix.gemeentebeek.nl
 https://felix.harlingen.nl
+https://felix.heerlen.nl
 https://felix.landgraaf.nl
 https://felix.lingewaard.nl
 https://felix.lopik.nl
@@ -3693,6 +3692,7 @@ https://heemskerk.nl
 https://heemstede.nl
 https://heerde.nl
 https://heerenveen.nl
+https://heerlen.nl
 https://heiligen.deventer.nl
 https://heiloo.nl
 https://heitje.heerlen.nl
@@ -6592,7 +6592,6 @@ https://simform-preproductie.t-diel.nl
 https://simform-preproductie.wassenaar.nl
 https://simform-test.rijswijk.nl
 https://simform.achtkarspelen.nl
-https://simform.heerlen.nl
 https://simform.rijswijk.nl
 https://simform.t-diel.nl
 https://simform.vlaardingen.nl
@@ -8067,7 +8066,6 @@ https://www.heemskerk.nl
 https://www.heemstede.nl
 https://www.heerde.nl
 https://www.heerenveen.nl
-https://www.heerlen.nl
 https://www.heiloo.nl
 https://www.heitje.heerlen.nl
 https://www.hellendoorn.nl
