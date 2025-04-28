@@ -279,7 +279,6 @@ http://geoportal.weert.nl
 http://goeree-overflakkee.nl
 http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
-http://harlingen.nl
 http://heerlen.nl
 http://helloid.sittard-geleen.nl
 http://historie.venlo.nl
@@ -3138,6 +3137,7 @@ https://felix.beverwijk.nl
 https://felix.cranendonck.nl
 https://felix.eersel.nl
 https://felix.gemeentebeek.nl
+https://felix.harlingen.nl
 https://felix.landgraaf.nl
 https://felix.lingewaard.nl
 https://felix.lopik.nl
@@ -6568,7 +6568,6 @@ https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
 https://simcms.halderberge.nl
-https://simcms.harlingen.nl
 https://simcms.heuvelrug.nl
 https://simcms.huizen.nl
 https://simcms.intranet.lopik.nl
