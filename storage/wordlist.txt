@@ -177,6 +177,7 @@ veiligdelen
 bis
 mailing
 vdi
+email
 legacy
 gis
 test-digikoppeling
@@ -202,7 +203,6 @@ evenementen
 mail2
 onderzoek
 jcc
-email
 sharefile
 telewerken
 bag

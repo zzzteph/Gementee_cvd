@@ -3,6 +3,7 @@ belastingen.heerenveen.nl
 bezoekersparkeren.heerenveen.nl
 dkd.heerenveen.nl
 edienstensociaaldomein.heerenveen.nl
+email.heerenveen.nl
 formulieren.heerenveen.nl
 gateway.heerenveen.nl
 geo.heerenveen.nl

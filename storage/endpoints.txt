@@ -324,6 +324,7 @@ http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
 http://meldpuntondermijning.rotterdam.nl
 http://middendelfland.nl
+http://mijn-preproductie.heerenveen.nl
 http://mijn.goeree-overflakkee.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
@@ -406,11 +407,11 @@ http://simcms.sonenbreugel.nl
 http://simcms.twenterand.nl
 http://simcms.vlieland.nl
 http://simcms.wierden.nl
-http://simform-preproductie.heerenveen.nl
 http://simform-preproductie.vlaardingen.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
 http://simform.gemeentemaasgouw.nl
+http://simform.heerenveen.nl
 http://simform.vlissingen.nl
 http://simform.wassenaar.nl
 http://simpelveld.nl
@@ -4873,7 +4874,6 @@ https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
 https://mijn-gemeenteloket.gemeentemaastricht.nl
-https://mijn-preproductie.heerenveen.nl
 https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
 https://mijn-test.veenendaal.nl
@@ -4910,7 +4910,6 @@ https://mijn.groningen.nl
 https://mijn.haaksbergen.nl
 https://mijn.haarlem.nl
 https://mijn.hardenberg.nl
-https://mijn.heerenveen.nl
 https://mijn.hellendoorn.nl
 https://mijn.helmond.nl
 https://mijn.hengelo.nl
@@ -6045,6 +6044,7 @@ https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
 https://preprod-mijnportaal.lansingerland.nl
 https://preprod-mijnsociaaldomein.gemeentesluis.nl
+https://preprod-mijnsociaaldomein.heerenveen.nl
 https://preprod-mijnsociaaldomein.venlo.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
@@ -6592,7 +6592,6 @@ https://simform-preproductie.t-diel.nl
 https://simform-preproductie.wassenaar.nl
 https://simform-test.rijswijk.nl
 https://simform.achtkarspelen.nl
-https://simform.heerenveen.nl
 https://simform.heerlen.nl
 https://simform.rijswijk.nl
 https://simform.t-diel.nl
