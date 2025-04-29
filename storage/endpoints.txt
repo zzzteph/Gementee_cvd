@@ -261,7 +261,6 @@ http://felix.twenterand.nl
 http://felix.vlieland.nl
 http://felix.westmaasenwaal.nl
 http://flash.scherpenzeel.nl
-http://fm.krimpenerwaard.nl
 http://formulieren-preproductie.vlaardingen.nl
 http://formulieren-test.rijswijk.nl
 http://formulieren.edam-volendam.nl
@@ -3237,6 +3236,7 @@ https://flowmailer-tracking.venlo.nl
 https://flowmailer-tracking.vlissingen.nl
 https://flowmailer-tracking.weert.nl
 https://flowmailer-tracking.zaanstad.nl
+https://fm.krimpenerwaard.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
 https://fmreturn.dienstverlening.utrecht.nl
@@ -5871,7 +5871,6 @@ https://pip-test.urk.nl
 https://pip.gemeentehw.nl
 https://pip.urk.nl
 https://piwik.ede.nl
-https://piwik.krimpenerwaard.nl
 https://pki.olst-wijhe.nl
 https://pki.rotterdam.nl
 https://pki.utrecht.nl
