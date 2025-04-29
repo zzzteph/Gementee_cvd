@@ -88,6 +88,7 @@ _autodiscover._tcp.dinkelland.nl
 _autodiscover._tcp.gemeentestein.nl
 _autodiscover._tcp.haarlem.nl
 _autodiscover._tcp.hethogeland.nl
+_autodiscover._tcp.landgraaf.nl
 _autodiscover._tcp.lisse.nl
 _autodiscover._tcp.oude-ijsselstreek.nl
 _autodiscover._tcp.reimerswaal.nl

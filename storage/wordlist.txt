@@ -82,6 +82,7 @@ mks
 acc-broker
 test-intranet
 cmsintranet
+_autodiscover._tcp
 denkmee
 parkeren-test
 piwik
@@ -89,7 +90,6 @@ belastingloket
 doemee
 dtestloket
 connect
-_autodiscover._tcp
 osbacc
 siam
 financien

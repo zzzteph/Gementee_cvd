@@ -255,6 +255,7 @@ http://felix.dalfsen.nl
 http://felix.deurne.nl
 http://felix.halderberge.nl
 http://felix.heeze-leende.nl
+http://felix.landgraaf.nl
 http://felix.loonopzand.nl
 http://felix.staphorst.nl
 http://felix.twenterand.nl
@@ -298,7 +299,6 @@ http://isis-a.rotterdam.nl
 http://isis.rotterdam.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
-http://landgraaf.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://login.sittard-geleen.nl
@@ -494,7 +494,6 @@ http://www.eersel.nl
 http://www.heerlen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.kerkrade.nl
-http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
@@ -3136,7 +3135,6 @@ https://felix.harlingen.nl
 https://felix.heerlen.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
-https://felix.landgraaf.nl
 https://felix.lingewaard.nl
 https://felix.lopik.nl
 https://felix.middendelfland.nl
