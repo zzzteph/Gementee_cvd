@@ -379,6 +379,7 @@ webservices
 socialekaart
 testbelastingloket
 ondernemen
+aeolus
 e.openstad
 mijnuitkering
 stemvan
@@ -396,7 +397,6 @@ mijndesktop
 loket.test
 raadsnet
 secure-test
-sociaaldomein
 stadsarchief
 mijnoverzicht
 msoid
@@ -465,7 +465,6 @@ vergunningen
 mta-sts.raad
 www.socialekaart
 gt-loket
-aeolus
 raadsinformatie
 duo
 gbionline
@@ -520,6 +519,7 @@ veiligmailen
 3d
 english
 planon
+sociaaldomein
 digitaalnachtregister
 css.openstad
 ssp
@@ -698,6 +698,7 @@ open-formulieren-test
 preprod-belastingen
 insite
 hybrid1
+hybrid2
 digitaalloket
 ews
 www.belastingloket
@@ -1154,7 +1155,6 @@ lokettest
 portaaltest
 mymeeting
 scep
-hybrid2
 login-pre
 services-test
 exch
@@ -4525,10 +4525,10 @@ testinhuiz
 trainersportaal
 trainingsformulier
 gijs-acc
+gijs
 gijscms-acc
 gijscms
 ijsaeo1
-sociaaldomein-acc
 Preprod
 dds-alphen-kaag
 iobjecten-acc

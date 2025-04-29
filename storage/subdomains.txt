@@ -779,6 +779,7 @@ adviesraad.westbetuwe.nl
 adviesraden.deventer.nl
 aeolus.eijsden-margraten.nl
 aeolus.gulpen-wittem.nl
+aeolus.ijsselstein.nl
 aeolus.nederbetuwe.nl
 aeolus.westerkwartier.nl
 aeos.acc.amsterdam.nl
@@ -1598,7 +1599,6 @@ autodiscover.hoorn.nl
 autodiscover.horstaandemaas.nl
 autodiscover.houten.nl
 autodiscover.iba.amsterdam.nl
-autodiscover.ijsselstein.nl
 autodiscover.kampen.nl
 autodiscover.katwijk.nl
 autodiscover.koggenland.nl
@@ -5520,6 +5520,7 @@ ghtsv2-093.gemeentehulst.nl
 ghtsv2-094.gemeentehulst.nl
 ghtsv2-095.gemeentehulst.nl
 gijs-acc.ijsselstein.nl
+gijs.ijsselstein.nl
 gijscms-acc.ijsselstein.nl
 gijscms.ijsselstein.nl
 gilzerijen.nl
@@ -5958,6 +5959,7 @@ hybrid.zwolle.nl
 hybrid1.ijsselstein.nl
 hybrid1.montfoort.nl
 hybrid1.zuidplas.nl
+hybrid2.ijsselstein.nl
 hybrid2.montfoort.nl
 hybrid2.zuidplas.nl
 hybridexo.haarlem.nl
@@ -11585,11 +11587,9 @@ snowinv.utrecht.nl
 soc.amsterdam.nl
 soc.brievenbus.amsterdam.nl
 sociaal.amsterdam.nl
-sociaaldomein-acc.ijsselstein.nl
 sociaaldomein.almere.nl
 sociaaldomein.gulpen-wittem.nl
 sociaaldomein.heerde.nl
-sociaaldomein.ijsselstein.nl
 sociaaljaarverslag.hollandskroon.nl
 sociaalloket.medemblik.nl
 sociaalplein.gemeentewestland.nl
@@ -12462,6 +12462,7 @@ testeloket.harlingen.nl
 testeloket.helmond.nl
 testeloket.heumen.nl
 testeloket.horstaandemaas.nl
+testeloket.ijsselstein.nl
 testeloket.lelystad.nl
 testeloket.meerssen.nl
 testeloket.meppel.nl

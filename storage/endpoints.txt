@@ -112,7 +112,6 @@ http://autodiscover.hoogeveen.nl
 http://autodiscover.hoorn.nl
 http://autodiscover.horstaandemaas.nl
 http://autodiscover.houten.nl
-http://autodiscover.ijsselstein.nl
 http://autodiscover.kampen.nl
 http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
@@ -3561,6 +3560,7 @@ https://ggd.groningen.nl
 https://ggs2-adapter.montferland.info
 https://ggv-micol1.gorinchem.nl
 https://gijs-acc.ijsselstein.nl
+https://gijs.ijsselstein.nl
 https://gijscms-acc.ijsselstein.nl
 https://gijscms.ijsselstein.nl
 https://gilzerijen.nl
@@ -6679,11 +6679,9 @@ https://snelbezwaar.test.purmerend.nl
 https://snow-license.amsterdam.nl
 https://snowagent.denhaag.nl
 https://snowinv.utrecht.nl
-https://sociaaldomein-acc.ijsselstein.nl
 https://sociaaldomein.almere.nl
 https://sociaaldomein.gulpen-wittem.nl
 https://sociaaldomein.heerde.nl
-https://sociaaldomein.ijsselstein.nl
 https://sociaaljaarverslag.hollandskroon.nl
 https://sociaalloket.medemblik.nl
 https://sociaalportaal.dinkelland.nl
@@ -7102,6 +7100,7 @@ https://testeloket.harlingen.nl
 https://testeloket.helmond.nl
 https://testeloket.heumen.nl
 https://testeloket.horstaandemaas.nl
+https://testeloket.ijsselstein.nl
 https://testeloket.lelystad.nl
 https://testeloket.meerssen.nl
 https://testeloket.midden-groningen.nl
