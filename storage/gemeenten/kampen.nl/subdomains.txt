@@ -46,6 +46,7 @@ pv.kampen.nl
 radius.kampen.nl
 remote.kampen.nl
 sem.kampen.nl
+servicebus-t.kampen.nl
 servicegateway.kampen.nl
 servicegatewayt.kampen.nl
 smartphone.kampen.nl

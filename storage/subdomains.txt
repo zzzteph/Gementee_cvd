@@ -11073,6 +11073,7 @@ service01-acceptatie.eijsden-margraten.nl
 service01.eijsden-margraten.nl
 service02-acceptatie.eijsden-margraten.nl
 service02.eijsden-margraten.nl
+servicebus-t.kampen.nl
 servicebus.capelleaandenijssel.nl
 servicebus.gemeentewesterveld.nl
 servicedesk.almelo.nl

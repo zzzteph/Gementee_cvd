@@ -2221,7 +2221,6 @@ https://dacceptatieloket.gemeente-oldambt.nl
 https://dacceptatieloket.gemeentemaashorst.nl
 https://dacceptatieloket.gemert-bakel.nl
 https://dacceptatieloket.groningen.nl
-https://dacceptatieloket.kampen.nl
 https://dacceptatieloket.laarbeek.nl
 https://dacceptatieloket.oldenzaal.nl
 https://dacceptatieloket.olst-wijhe.nl
@@ -6489,6 +6488,7 @@ https://server02.oude-ijsselstreek.nl
 https://serverruimte.dinkelland.nl
 https://serverruimte.tubbergen.nl
 https://service.vlaardingen.nl
+https://servicebus-t.kampen.nl
 https://servicedesk.almelo.nl
 https://servicedesk.edam-volendam.nl
 https://servicedesk.hethogeland.nl
