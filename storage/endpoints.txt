@@ -450,13 +450,11 @@ http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
 http://test-intranet.venlo.nl
 http://test-intranet.zeist.nl
-http://test-jip.hofvantwente.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-intranet.midden-groningen.nl
-http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
 http://testintranet.westerwolde.nl
@@ -6049,7 +6047,6 @@ https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
 https://preprod-mijnsociaalplein.heiloo.nl
 https://preprod-mijnsociaalplein.hilversum.nl
-https://preprod-mijnsociaalplein.hofvantwente.nl
 https://preprod-mijnsociaalplein.putten.nl
 https://preprod-mijnsociaalplein.uitgeest.nl
 https://preprod-mijnuitkering.westvoorne.nl
