@@ -339,6 +339,8 @@ services
 gbi
 mijngeldzaken
 rooster
+acc-keycloak-admin
+acc-zac
 dialin
 test-formulier
 test-mijn
@@ -412,8 +414,6 @@ geotest
 moh-acc
 moh
 ns2
-acc-keycloak-admin
-acc-zac
 media
 kaartviewer
 nhr

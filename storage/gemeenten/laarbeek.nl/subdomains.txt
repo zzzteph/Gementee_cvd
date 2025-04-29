@@ -1,6 +1,7 @@
 acc-broker.laarbeek.nl
 acc-contact.laarbeek.nl
 acc-formulier.laarbeek.nl
+acc-keycloak-admin.laarbeek.nl
 acc-keycloak.laarbeek.nl
 acc-mijn.laarbeek.nl
 acc-notificaties.laarbeek.nl
@@ -9,6 +10,7 @@ acc-objecttypen.laarbeek.nl
 acc-openklant.laarbeek.nl
 acc-openzaak.laarbeek.nl
 acc-podiumd-logs.laarbeek.nl
+acc-zac.laarbeek.nl
 afspraken.laarbeek.nl
 api.betalen.laarbeek.nl
 betalen.laarbeek.nl

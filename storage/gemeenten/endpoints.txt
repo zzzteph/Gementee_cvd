@@ -633,6 +633,7 @@ https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.enschede.nl
 https://acc-keycloak-admin.gemeente-oldambt.nl
 https://acc-keycloak-admin.gemert-bakel.nl
+https://acc-keycloak-admin.laarbeek.nl
 https://acc-keycloak.assen.nl
 https://acc-keycloak.dev.assen.nl
 https://acc-keycloak.dev.groningen.nl
@@ -765,6 +766,7 @@ https://acc-zac.dev.groningen.nl
 https://acc-zac.enschede.nl
 https://acc-zac.gemeente-oldambt.nl
 https://acc-zac.gemert-bakel.nl
+https://acc-zac.laarbeek.nl
 https://acc.admin.schoolwijzer.amsterdam.nl
 https://acc.adus.amsterdam.nl
 https://acc.aip.amsterdam.nl
