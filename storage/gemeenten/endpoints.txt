@@ -284,7 +284,6 @@ http://heuvelrug.nl
 http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
 http://huisnettest.nieuwegein.nl
-http://huizen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
 http://id-subsidies-login.acceptatie.ede.nl
@@ -6563,7 +6562,6 @@ https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
 https://simcms.halderberge.nl
 https://simcms.heumen.nl
-https://simcms.huizen.nl
 https://simcms.intranet.lopik.nl
 https://simcms.landgraaf.nl
 https://simcms.lopik.nl
@@ -8088,7 +8086,6 @@ https://www.houten.nl
 https://www.houtwijkbegroot.denhaag.nl
 https://www.huisstijl.landvancuijk.nl
 https://www.huisstijl.zaanstad.nl
-https://www.huizen.nl
 https://www.hulpwijzer.venray.nl
 https://www.idee.roosendaal.nl
 https://www.iedereenwerktmee.amsterdam.nl
