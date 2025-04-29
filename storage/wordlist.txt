@@ -511,7 +511,6 @@ edienstverlening
 aanvragen
 autorisatie
 ldap
-pub
 subsidiebeheer
 subsidieloket
 testafspraken
@@ -717,6 +716,7 @@ av
 datalab
 gen1
 notubiz
+pub
 test-subsidiebeheer
 test-subsidieloket
 api-meldingen
