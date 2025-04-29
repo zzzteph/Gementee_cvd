@@ -6692,6 +6692,7 @@ intranet.heumen.nl
 intranet.heusden.nl
 intranet.heuvelrug.nl
 intranet.hillegom.nl
+intranet.hilvarenbeek.nl
 intranet.hoorn.nl
 intranet.kampen.nl
 intranet.krimpenerwaard.nl
