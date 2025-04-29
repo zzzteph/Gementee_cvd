@@ -27,7 +27,6 @@ sfbwebconf.houten.nl
 simform.houten.nl
 sip.houten.nl
 sslvpn.houten.nl
-test-cmsinsite.houten.nl
 test-insite.houten.nl
 topdesk.houten.nl
 ucweb01-ext.houten.nl

@@ -12131,7 +12131,6 @@ test-cmsdok.dronten.nl
 test-cmsextranet.hethogeland.nl
 test-cmsflash.scherpenzeel.nl
 test-cmshofnet.coevorden.nl
-test-cmsinsite.houten.nl
 test-cmsintranet.drimmelen.nl
 test-cmsintranet.edam-volendam.nl
 test-cmsintranet.etten-leur.nl
