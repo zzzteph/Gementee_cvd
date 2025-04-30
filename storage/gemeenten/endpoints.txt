@@ -4538,7 +4538,6 @@ https://login.veere.nl
 https://login.waterland.nl
 https://lois-acc.losser.nl
 https://lois.losser.nl
-https://loket-acc.leidschendam-voorburg.nl
 https://loket.aaenhunze.nl
 https://loket.aalsmeer.nl
 https://loket.acceptatie.aaenhunze.nl
@@ -4582,7 +4581,6 @@ https://loket.heerde.nl
 https://loket.hellendoorn.nl
 https://loket.katwijk.nl
 https://loket.leeuwarden.nl
-https://loket.leidschendam-voorburg.nl
 https://loket.leusden.nl
 https://loket.noardeast-fryslan.nl
 https://loket.oldebroek.nl
