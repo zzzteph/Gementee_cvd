@@ -1142,6 +1142,7 @@ werkeninkomen
 voice
 alwayson
 testwebsite
+fw
 uitvaart
 blik
 decos
@@ -5738,7 +5739,6 @@ flex5
 flex6
 flex7
 flexg
-fw
 geoproxy
 iburgerzaken.accp
 idefix
