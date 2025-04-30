@@ -17,11 +17,15 @@ https://edienstenburgerzaken-test.leeuwarden.nl
 https://edienstenburgerzaken.leeuwarden.nl
 https://enterpriseenrollment.leeuwarden.nl
 https://flowmailer-tracking.parkeervergunning.leeuwarden.nl
+https://formulier-acc.leeuwarden.nl
 https://goedterechtin.leeuwarden.nl
+https://integratie-acc.leeuwarden.nl
 https://leeuwarden.nl
 https://loket.leeuwarden.nl
 https://meldingen-a.leeuwarden.nl
 https://meldingen.leeuwarden.nl
+https://mijn-acc.leeuwarden.nl
+https://notificaties-acc.leeuwarden.nl
 https://ondernemend.leeuwarden.nl
 https://open-formulieren-test.leeuwarden.nl
 https://parkeervergunning.leeuwarden.nl
@@ -36,3 +40,4 @@ https://subsidies.leeuwarden.nl
 https://werkenbij.leeuwarden.nl
 https://www.goedterechtin.leeuwarden.nl
 https://www.leeuwarden.nl
+https://zaak-acc.leeuwarden.nl

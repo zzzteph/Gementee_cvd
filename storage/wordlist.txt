@@ -478,6 +478,7 @@ authenticatie
 acceptatie-intranet
 hpdm
 neuron
+mijn-acc
 sso
 gemeentebestuur
 lyncweb
@@ -668,7 +669,6 @@ online
 stats
 aov
 handhavingtest
-mijn-acc
 open-formulieren
 validsign
 xentialtest
@@ -842,6 +842,7 @@ youpp
 pwa
 k2fin
 solliciterenbij
+zaak-acc
 zaak
 gisibonline
 werkomgeving
@@ -963,6 +964,7 @@ zmm
 acceptatievergunningen
 www.acc.piwik
 betaal
+formulier-acc
 mx3
 redirect
 www.ondernemen
@@ -2491,7 +2493,6 @@ misc-geo-01
 misc-geo-02
 patternlab
 tr
-zaak-acc
 zaak-dev
 alarm
 baglevering
@@ -3327,7 +3328,6 @@ digid-subsidies-login
 digikoppeling-test.gemnet
 digikoppeling.gemnet
 documenten.open
-formulier-acc
 fsa
 fsp
 handboekdibor
@@ -4766,7 +4766,9 @@ flowmailer-tracking.parkeervergunning
 fortiguard
 gisportalnew
 goedterechtin
+integratie-acc
 nllwd-spider
+notificaties-acc
 ondernemend
 ows-webapi-test
 ows-webapi

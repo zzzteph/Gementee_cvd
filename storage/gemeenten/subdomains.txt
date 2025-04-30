@@ -4998,6 +4998,7 @@ forms.druten.nl
 forms.vga.amsterdam.nl
 forms.wijchen.nl
 formulier-acc.ede.nl
+formulier-acc.leeuwarden.nl
 formulier-test.almere.nl
 formulier-test.hethogeland.nl
 formulier.accp.nijmegen.nl
@@ -6594,6 +6595,7 @@ intake-preprod.geertruidenberg.nl
 intake.geertruidenberg.nl
 intake.preprod.purmerend.nl
 intake.purmerend.nl
+integratie-acc.leeuwarden.nl
 intens-acc.enschede.nl
 intens.enschede.nl
 interconnect-rtr.s-hertogenbosch.nl
@@ -8132,6 +8134,7 @@ midofficeacc.velsen.nl
 midofficeprd.velsen.nl
 midofficetst.velsen.nl
 mijn-acc.groningen.nl
+mijn-acc.leeuwarden.nl
 mijn-acc.overbetuwe.nl
 mijn-acc.sittard-geleen.nl
 mijn-accept.voorst.nl
@@ -8830,6 +8833,7 @@ noordwijk.nl
 nopnet.noordoostpolder.nl
 notarisportaal.westerkwartier.nl
 notary.cg-intern.acc.utrecht.nl
+notificaties-acc.leeuwarden.nl
 notificaties.assen.nl
 notificaties.enschede.nl
 notificaties.gemeente-oldambt.nl
@@ -15069,6 +15073,7 @@ ypenburgaanzet.denhaag.nl
 yutpaworkshop.dev.rnd.amsterdam.nl
 yutpaworkshop.rnd.amsterdam.nl
 zaak-acc.barneveld.nl
+zaak-acc.leeuwarden.nl
 zaak-dev.barneveld.nl
 zaak.barneveld.nl
 zaak.tynaarlo.nl

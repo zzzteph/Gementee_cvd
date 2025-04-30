@@ -3268,6 +3268,7 @@ https://forms.druten.nl
 https://forms.vga.amsterdam.nl
 https://forms.wijchen.nl
 https://formulier-acc.ede.nl
+https://formulier-acc.leeuwarden.nl
 https://formulier-test.almere.nl
 https://formulier-test.hethogeland.nl
 https://formulier.accp.nijmegen.nl
@@ -4090,6 +4091,7 @@ https://intake-preprod.geertruidenberg.nl
 https://intake.geertruidenberg.nl
 https://intake.preprod.purmerend.nl
 https://intake.purmerend.nl
+https://integratie-acc.leeuwarden.nl
 https://intens-acc.enschede.nl
 https://intens.enschede.nl
 https://interflex.twenterand.nl
@@ -4865,6 +4867,7 @@ https://middelburg.nl
 https://midden-groningen.nl
 https://middendrenthe.nl
 https://mijn-acc.groningen.nl
+https://mijn-acc.leeuwarden.nl
 https://mijn-acc.overbetuwe.nl
 https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
@@ -5271,6 +5274,7 @@ https://noordwestbegroot.utrecht.nl
 https://noordwijk.nl
 https://nopnet.noordoostpolder.nl
 https://notarisportaal.westerkwartier.nl
+https://notificaties-acc.leeuwarden.nl
 https://notificaties.assen.nl
 https://notificaties.enschede.nl
 https://notificaties.gemeente-oldambt.nl
@@ -8452,6 +8456,7 @@ https://ypenburgaanzet.denhaag.nl
 https://yutpaworkshop.dev.rnd.amsterdam.nl
 https://yutpaworkshop.rnd.amsterdam.nl
 https://zaak-acc.barneveld.nl
+https://zaak-acc.leeuwarden.nl
 https://zaak-dev.barneveld.nl
 https://zaak.barneveld.nl
 https://zaak.tynaarlo.nl

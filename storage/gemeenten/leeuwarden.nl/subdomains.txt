@@ -29,16 +29,20 @@ edienstenburgerzaken.leeuwarden.nl
 enterpriseenrollment.leeuwarden.nl
 ews.leeuwarden.nl
 flowmailer-tracking.parkeervergunning.leeuwarden.nl
+formulier-acc.leeuwarden.nl
 fortiguard.leeuwarden.nl
 gisportal.leeuwarden.nl
 gisportalnew.leeuwarden.nl
 goedterechtin.leeuwarden.nl
+integratie-acc.leeuwarden.nl
 leeuwarden.nl
 liquit.leeuwarden.nl
 loket.leeuwarden.nl
 meldingen-a.leeuwarden.nl
 meldingen.leeuwarden.nl
+mijn-acc.leeuwarden.nl
 nllwd-spider.leeuwarden.nl
+notificaties-acc.leeuwarden.nl
 ondernemend.leeuwarden.nl
 open-formulieren-test.leeuwarden.nl
 ows-app.leeuwarden.nl
@@ -67,3 +71,4 @@ w-p-exc-0006.leeuwarden.nl
 werkenbij.leeuwarden.nl
 www.goedterechtin.leeuwarden.nl
 www.leeuwarden.nl
+zaak-acc.leeuwarden.nl
