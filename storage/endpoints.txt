@@ -379,6 +379,7 @@ http://sammy-acc.derondevenen.nl
 http://scherpenzeel.nl
 http://secure.dalfsen.nl
 http://sem.kampen.nl
+http://simcms-open.leudal.nl
 http://simcms-open.zoetermeer.nl
 http://simcms-preproductie.woensdrecht.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
@@ -6095,7 +6096,6 @@ https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
 https://preproductie.goeree-overflakkee.nl
 https://preproductie.landgraaf.nl
-https://preproductie.leudal.nl
 https://preproductie.lopik.nl
 https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.steenwijkerland.nl
@@ -6565,6 +6565,7 @@ https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
 https://simcms.koggenland.nl
 https://simcms.landgraaf.nl
+https://simcms.leudal.nl
 https://simcms.lopik.nl
 https://simcms.maassluis.nl
 https://simcms.middendelfland.nl
