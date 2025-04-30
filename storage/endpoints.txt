@@ -267,6 +267,7 @@ http://formulieren-test.rijswijk.nl
 http://formulieren.edam-volendam.nl
 http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
+http://formulieren.meierijstad.nl
 http://ftp.lopik.nl
 http://gdintaker.diemen.nl
 http://geldzaken.loonopzand.nl
@@ -444,6 +445,7 @@ http://test-intranet.drimmelen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
+http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
 http://test-intranet.venlo.nl
@@ -3330,7 +3332,6 @@ https://formulieren.houten.nl
 https://formulieren.huizen.nl
 https://formulieren.leiden.nl
 https://formulieren.lelystad.nl
-https://formulieren.meierijstad.nl
 https://formulieren.middendrenthe.nl
 https://formulieren.noordoostpolder.nl
 https://formulieren.nunspeet.nl
@@ -7000,7 +7001,6 @@ https://test-intra.gooisemeren.nl
 https://test-intranet.beuningen.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.lansingerland.nl
-https://test-intranet.meierijstad.nl
 https://test-intranet.sittard-geleen.nl
 https://test-intranet.sudwestfryslan.nl
 https://test-intranet.velsen.nl
@@ -7144,6 +7144,7 @@ https://testsiam.terschelling.nl
 https://testsiam.vlieland.nl
 https://testsim.westmaasenwaal.nl
 https://testwebsite.losser.nl
+https://testwebsite.meierijstad.nl
 https://testwozloket.borger-odoorn.nl
 https://testwww.rucphen.nl
 https://testzaken.haarlemmermeer.nl
