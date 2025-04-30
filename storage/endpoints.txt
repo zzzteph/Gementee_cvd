@@ -6708,6 +6708,7 @@ https://spa4.acc.amsterdam.nl
 https://spa4.tst.amsterdam.nl
 https://spa4d.amsterdam.nl
 https://spa4dweb.amsterdam.nl
+https://speciaal.meppel.nl
 https://spelenapp.loonopzand.nl
 https://speleninoost.amsterdam.nl
 https://speleninzuid.amsterdam.nl

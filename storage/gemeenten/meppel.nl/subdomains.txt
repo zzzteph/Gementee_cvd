@@ -26,6 +26,7 @@ onprem-smtp.meppel.nl
 parkeren-test.meppel.nl
 parkeren.meppel.nl
 pv.meppel.nl
+speciaal.meppel.nl
 sportaccommodatieverhuur.meppel.nl
 testeloket.meppel.nl
 veiligdelen.meppel.nl
