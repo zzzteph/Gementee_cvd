@@ -499,6 +499,7 @@ http://www.heerlen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.kerkrade.nl
 http://www.ld-01.hellevoetsluis.nl
+http://www.middelburg.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.ondernemersportaal.denhaag.nl
