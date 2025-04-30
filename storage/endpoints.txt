@@ -441,7 +441,6 @@ http://test-intranet.drimmelen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
-http://test-intranet.lansingerland.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
 http://test-intranet.venlo.nl
@@ -6997,6 +6996,7 @@ https://test-insite.nijmegen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.beuningen.nl
 https://test-intranet.heuvelrug.nl
+https://test-intranet.lansingerland.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.sittard-geleen.nl
 https://test-intranet.sudwestfryslan.nl
