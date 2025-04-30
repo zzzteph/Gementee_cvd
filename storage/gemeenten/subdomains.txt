@@ -11069,7 +11069,6 @@ sera.horstaandemaas.nl
 sera.zwemmen.venlo.nl
 server-appl13.haaksbergen.nl
 server02.oude-ijsselstreek.nl
-server23.lochem.nl
 serverruimte.dinkelland.nl
 serverruimte.tubbergen.nl
 service.roerdalen.nl

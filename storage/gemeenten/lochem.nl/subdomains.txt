@@ -16,7 +16,6 @@ mijn.lochem.nl
 mobile.lochem.nl
 remote.lochem.nl
 ruimtelijkeplannen.lochem.nl
-server23.lochem.nl
 stroomlijn.lochem.nl
 test-ipa.lochem.nl
 testmijn.lochem.nl
