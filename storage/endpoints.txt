@@ -257,6 +257,7 @@ http://felix.halderberge.nl
 http://felix.heeze-leende.nl
 http://felix.landgraaf.nl
 http://felix.loonopzand.nl
+http://felix.middendelfland.nl
 http://felix.staphorst.nl
 http://felix.twenterand.nl
 http://felix.vlieland.nl
@@ -321,7 +322,6 @@ http://malengo.gemert-bakel.nl
 http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
 http://meldpuntondermijning.rotterdam.nl
-http://middendelfland.nl
 http://mijn-preproductie.heerenveen.nl
 http://mijn.goeree-overflakkee.nl
 http://mijn.meierijstad.nl
@@ -3139,7 +3139,6 @@ https://felix.kerkrade.nl
 https://felix.koggenland.nl
 https://felix.lopik.nl
 https://felix.maassluis.nl
-https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nederweert.nl
 https://felix.nissewaard.nl
@@ -4864,6 +4863,7 @@ https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://middelburg.nl
 https://midden-groningen.nl
+https://middendelfland.nl
 https://middendrenthe.nl
 https://mijn-acc.groningen.nl
 https://mijn-acc.leeuwarden.nl
@@ -8148,7 +8148,6 @@ https://www.meierijstad.nl
 https://www.meppel.nl
 https://www.merk.denhaag.nl
 https://www.midden-groningen.nl
-https://www.middendelfland.nl
 https://www.middendrenthe.nl
 https://www.mijn.arnhem.nl
 https://www.mijn.groningen.nl
