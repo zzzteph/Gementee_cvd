@@ -5532,6 +5532,7 @@ https://open.katwijk.nl
 https://open.krimpenerwaard.nl
 https://open.leudal.nl
 https://open.lisse.nl
+https://open.meerssen.nl
 https://open.middendrenthe.nl
 https://open.moerdijk.nl
 https://open.nijmegen.nl
@@ -7680,6 +7681,7 @@ https://werkplek.landvancuijk.nl
 https://werkplek.lelystad.nl
 https://werkplek.leudal.nl
 https://werkplek.leusden.nl
+https://werkplek.meerssen.nl
 https://werkplek.moerdijk.nl
 https://werkplek.roosendaal.nl
 https://werkplek.rucphen.nl

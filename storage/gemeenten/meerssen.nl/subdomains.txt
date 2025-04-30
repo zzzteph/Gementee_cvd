@@ -29,6 +29,7 @@ testeloket.meerssen.nl
 transfer.meerssen.nl
 vpn.meerssen.nl
 webmail.meerssen.nl
+werkplek.meerssen.nl
 www.gs01msn.meerssen.nl
 www.login.meerssen.nl
 www.meerssen.nl
