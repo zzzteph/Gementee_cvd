@@ -301,6 +301,7 @@ http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
+http://lingewaard.nl
 http://login.sittard-geleen.nl
 http://loket.acceptatie.hardinxveld-giessendam.nl
 http://lvs.denhaag.nl
@@ -3135,7 +3136,6 @@ https://felix.harlingen.nl
 https://felix.heerlen.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
-https://felix.lingewaard.nl
 https://felix.lopik.nl
 https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
@@ -4505,7 +4505,6 @@ https://leverancier.gemeenteberkelland.nl
 https://life.landvancuijk.nl
 https://lifecoolsquare.groningen.nl
 https://linden.landvancuijk.nl
-https://lingewaard.nl
 https://link.burgerpanel.middendrenthe.nl
 https://link.capelleaandenijssel.nl
 https://link.pr.zwolle.nl
@@ -6566,6 +6565,7 @@ https://simcms.kerkrade.nl
 https://simcms.koggenland.nl
 https://simcms.landgraaf.nl
 https://simcms.leudal.nl
+https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.maassluis.nl
 https://simcms.middendelfland.nl
