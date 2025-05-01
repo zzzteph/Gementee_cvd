@@ -339,6 +339,7 @@ http://mt-link.stichtsevecht.nl
 http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
+http://nieuwkoop.nl
 http://nuenen.nl
 http://omgevingswet.bronckhorst.nl
 http://open.wierden.nl
@@ -400,7 +401,6 @@ http://simcms.dalfsen.nl
 http://simcms.gemeentebeek.nl
 http://simcms.heerlen.nl
 http://simcms.middelburg.nl
-http://simcms.nieuwkoop.nl
 http://simcms.overbetuwe.nl
 http://simcms.simpelveld.nl
 http://simcms.sonenbreugel.nl
@@ -500,6 +500,7 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.kerkrade.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.middelburg.nl
+http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
@@ -5243,7 +5244,6 @@ https://nieuweburgemeester.deventer.nl
 https://nieuwegein.nl
 https://nieuwkomers.arnhem.nl
 https://nieuwkomers.zaanstad.nl
-https://nieuwkoop.nl
 https://nieuws.breda.nl
 https://nieuws.hoorn.nl
 https://nieuws.landvancuijk.nl
@@ -8172,7 +8172,6 @@ https://www.nde.groningen.nl
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
-https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.nijkerk.eu
 https://www.nijmegen.nl
