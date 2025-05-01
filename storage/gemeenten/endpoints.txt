@@ -259,6 +259,7 @@ http://felix.heeze-leende.nl
 http://felix.landgraaf.nl
 http://felix.loonopzand.nl
 http://felix.middendelfland.nl
+http://felix.nederweert.nl
 http://felix.staphorst.nl
 http://felix.twenterand.nl
 http://felix.vlieland.nl
@@ -399,7 +400,6 @@ http://simcms.dalfsen.nl
 http://simcms.gemeentebeek.nl
 http://simcms.heerlen.nl
 http://simcms.middelburg.nl
-http://simcms.nederweert.nl
 http://simcms.nieuwkoop.nl
 http://simcms.overbetuwe.nl
 http://simcms.simpelveld.nl
@@ -420,7 +420,6 @@ http://simsite.cranendonck.nl
 http://simsite.eersel.nl
 http://simsite.gorinchem.nl
 http://simsite.koggenland.nl
-http://simsite.nederweert.nl
 http://simsite.reuseldemierden.nl
 http://simsite.valkenswaard.nl
 http://simsite.zoetermeer.nl
@@ -3143,7 +3142,6 @@ https://felix.koggenland.nl
 https://felix.lopik.nl
 https://felix.maassluis.nl
 https://felix.mookenmiddelaar.nl
-https://felix.nederweert.nl
 https://felix.nissewaard.nl
 https://felix.nuenen.nl
 https://felix.oirschot.nl
