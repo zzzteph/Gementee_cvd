@@ -130,6 +130,7 @@ acc-formulier
 acc-podiumd-logs
 sts
 micollab
+inloggen
 contentbeheer
 begroting
 e
@@ -151,7 +152,6 @@ sip
 mdm
 smtp
 jaarstukken
-inloggen
 connect.acceptatie
 cryptshare
 belastingportaal
@@ -1122,6 +1122,7 @@ tickets
 cmsembrace
 embrace
 koppelvlakken
+pre-inloggen
 publieksbalie
 foto
 status
@@ -4642,7 +4643,6 @@ lgf003
 lgf004
 lgfpki
 libertest
-pre-inloggen
 psquit2020
 secureweb
 smartdoctst
@@ -4982,6 +4982,7 @@ xworks
 autodiscover.dgp
 autodiscover.natuurlijkgroen
 dgp
+groenlinks
 mintra
 natuurlijkgroen
 intraweb
