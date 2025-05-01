@@ -291,6 +291,8 @@ wion
 www.test
 ns1
 sslvpn
+acc-keycloak-admin
+acc-zac
 afval
 openformulieren
 awmag
@@ -341,8 +343,6 @@ services
 gbi
 mijngeldzaken
 rooster
-acc-keycloak-admin
-acc-zac
 dialin
 test-formulier
 test-mijn

@@ -1,5 +1,6 @@
 acc-contact.oldenzaal.nl
 acc-formulier.oldenzaal.nl
+acc-keycloak-admin.oldenzaal.nl
 acc-keycloak.oldenzaal.nl
 acc-mijn.oldenzaal.nl
 acc-notificaties.oldenzaal.nl
@@ -8,6 +9,7 @@ acc-objecttypen.oldenzaal.nl
 acc-openklant.oldenzaal.nl
 acc-openzaak.oldenzaal.nl
 acc-podiumd-logs.oldenzaal.nl
+acc-zac.oldenzaal.nl
 acceptatie.oldenzaal.nl
 api.meldingen-acc.oldenzaal.nl
 api.meldingen.oldenzaal.nl

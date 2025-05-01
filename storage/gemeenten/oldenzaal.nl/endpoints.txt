@@ -1,5 +1,6 @@
 https://acc-contact.oldenzaal.nl
 https://acc-formulier.oldenzaal.nl
+https://acc-keycloak-admin.oldenzaal.nl
 https://acc-keycloak.oldenzaal.nl
 https://acc-mijn.oldenzaal.nl
 https://acc-notificaties.oldenzaal.nl
@@ -8,6 +9,7 @@ https://acc-objecttypen.oldenzaal.nl
 https://acc-openklant.oldenzaal.nl
 https://acc-openzaak.oldenzaal.nl
 https://acc-podiumd-logs.oldenzaal.nl
+https://acc-zac.oldenzaal.nl
 https://api.meldingen-acc.oldenzaal.nl
 https://api.meldingen.oldenzaal.nl
 https://cmsoo.oldenzaal.nl
