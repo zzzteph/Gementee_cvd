@@ -9,7 +9,6 @@ https://betalen.nissewaard.nl
 https://edienstenburgerzaken-test.nissewaard.nl
 https://edienstenburgerzaken.nissewaard.nl
 https://eloket.nissewaard.nl
-https://felix.nissewaard.nl
 https://intranet-test.nissewaard.nl
 https://intranet.nissewaard.nl
 https://intranetcms-test.nissewaard.nl
