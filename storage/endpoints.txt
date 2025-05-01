@@ -341,7 +341,6 @@ http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nieuwkoop.nl
-http://nuenen.nl
 http://omgevingswet.bronckhorst.nl
 http://open.wierden.nl
 http://open.zuidplas.nl
@@ -6542,7 +6541,6 @@ https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.halderberge.nl
-https://simcms-open.nuenen.nl
 https://simcms-open.sonenbreugel.nl
 https://simcms-open.wierden.nl
 https://simcms-preproductie.beekdaelen.nl
@@ -6575,6 +6573,7 @@ https://simcms.leudal.nl
 https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.middendelfland.nl
+https://simcms.nuenen.nl
 https://simcms.oirschot.nl
 https://simcms.opmeer.nl
 https://simcms.opsterland.nl
