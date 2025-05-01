@@ -310,6 +310,7 @@ eformulieren
 squit2020.acceptatie
 academie
 www.intranet
+aeolus
 squit2020publiceren
 liquit
 radius
@@ -320,6 +321,7 @@ bezoekersparkeren
 participatie
 www.acceptatie
 documenten
+raadsnet
 toegang
 pdc
 zoeken
@@ -381,7 +383,6 @@ webservices
 socialekaart
 testbelastingloket
 ondernemen
-aeolus
 e.openstad
 mijnuitkering
 stemvan
@@ -397,7 +398,6 @@ prefill
 huisstijl
 mijndesktop
 loket.test
-raadsnet
 secure-test
 stadsarchief
 mijnoverzicht
@@ -4979,7 +4979,6 @@ w2kmks
 w2kzmm
 xworks-acc
 xworks
-mijnacc
 autodiscover.dgp
 autodiscover.natuurlijkgroen
 dgp

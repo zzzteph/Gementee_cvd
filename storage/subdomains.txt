@@ -783,6 +783,7 @@ adviesraden.deventer.nl
 aeolus.eijsden-margraten.nl
 aeolus.gulpen-wittem.nl
 aeolus.ijsselstein.nl
+aeolus.montfoort.nl
 aeolus.nederbetuwe.nl
 aeolus.westerkwartier.nl
 aeos.acc.amsterdam.nl
@@ -8215,6 +8216,7 @@ mijn.meierijstad.nl
 mijn.meppel.nl
 mijn.middendelfland.nl
 mijn.moerdijk.nl
+mijn.montfoort.nl
 mijn.nijmegen.nl
 mijn.noordwijk.nl
 mijn.nunspeet.nl
@@ -8273,7 +8275,6 @@ mijnaanvraag.zutphen.nl
 mijnaanvraagzi.beuningen.nl
 mijnaanvragen.purmerend.nl
 mijnaanvragensociaaldomein.venlo.nl
-mijnacc.montfoort.nl
 mijnacpt.haarlem.nl
 mijnafspraak.scherpenzeel.nl
 mijnafval.meerssen.nl
@@ -10542,6 +10543,7 @@ raadsnet.aalten.nl
 raadsnet.bernheze.org
 raadsnet.harlingen.nl
 raadsnet.heeze-leende.nl
+raadsnet.montfoort.nl
 raadzaam.nieuwegein.nl
 raadzaam.nijmegen.nl
 raalte.nl

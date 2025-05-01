@@ -4928,6 +4928,7 @@ https://mijn.maassluis.nl
 https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
+https://mijn.montfoort.nl
 https://mijn.nijmegen.nl
 https://mijn.noordwijk.nl
 https://mijn.oldenzaal.nl
@@ -4972,7 +4973,6 @@ https://mijnaanvraag-test.zutphen.nl
 https://mijnaanvraag.zutphen.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnaanvragensociaaldomein.venlo.nl
-https://mijnacc.montfoort.nl
 https://mijnafspraak.scherpenzeel.nl
 https://mijnafval.meerssen.nl
 https://mijnafval.valkenburg.nl
