@@ -1310,6 +1310,7 @@ https://app.sittard-geleen.nl
 https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
+https://app7-accp.nijmegen.nl
 https://app8.nijmegen.nl
 https://appapi.montferland.info
 https://appl.gw.rotterdam.nl
@@ -2282,6 +2283,7 @@ https://data.heumen.nl
 https://data.hilversum.nl
 https://data.landvancuijk.nl
 https://data.mookenmiddelaar.nl
+https://data.nijmegen.nl
 https://data.oss.nl
 https://data.roosendaal.nl
 https://data.rotterdam.nl

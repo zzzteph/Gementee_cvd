@@ -23,6 +23,7 @@ https://api.openstad.nijmegen.nl
 https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
+https://app7-accp.nijmegen.nl
 https://app8.nijmegen.nl
 https://auth.openstad.nijmegen.nl
 https://authenticatie-accp.nijmegen.nl
@@ -35,6 +36,7 @@ https://cmstest-insite.nijmegen.nl
 https://componenten.acc.nijmegen.nl
 https://componenten.nijmegen.nl
 https://data-test.nijmegen.nl
+https://data.nijmegen.nl
 https://e.openstad.nijmegen.nl
 https://formulier.accp.nijmegen.nl
 https://formulier.nijmegen.nl
