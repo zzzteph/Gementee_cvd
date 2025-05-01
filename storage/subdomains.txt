@@ -2267,6 +2267,7 @@ betalen.hilversum.nl
 betalen.laarbeek.nl
 betalen.leeuwarden.nl
 betalen.meppel.nl
+betalen.nieuwegein.nl
 betalen.nissewaard.nl
 betalen.ouder-amstel.nl
 betalen.pijnacker-nootdorp.nl
@@ -8686,7 +8687,6 @@ mysitetest.zwolle.nl
 mzdtest.bunnik.nl
 n1.auth.haarlem.nl
 n2.auth.haarlem.nl
-n8n.nieuwegein.nl
 naardebasisschool.utrecht.nl
 nac.almelo.nl
 nac.meierijstad.nl

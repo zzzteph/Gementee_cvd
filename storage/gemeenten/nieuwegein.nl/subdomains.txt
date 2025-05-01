@@ -1,6 +1,7 @@
 _dmarc.nieuwegein.nl
 acc.nieuwegein.nl
 autodiscover.nieuwegein.nl
+betalen.nieuwegein.nl
 cmshuisnet.nieuwegein.nl
 cmshuisnettest.nieuwegein.nl
 ddrouter-p.nieuwegein.nl
@@ -18,7 +19,6 @@ ibzpink.nieuwegein.nl
 klooster.nieuwegein.nl
 login.nieuwegein.nl
 mailing.nieuwegein.nl
-n8n.nieuwegein.nl
 nieuwegein.nl
 onderzoek.nieuwegein.nl
 owa.nieuwegein.nl
