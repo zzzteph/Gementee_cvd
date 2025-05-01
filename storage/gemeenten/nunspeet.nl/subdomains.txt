@@ -8,6 +8,7 @@ digikoppeling.nunspeet.nl
 eloket.nunspeet.nl
 embrace.nunspeet.nl
 formulieren.nunspeet.nl
+geo.nunspeet.nl
 geodata.nunspeet.nl
 handleiding.nunspeet.nl
 iburgerzaken.nunspeet.nl

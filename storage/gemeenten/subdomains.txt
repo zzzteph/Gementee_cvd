@@ -5399,6 +5399,7 @@ geo.lingewaard.nl
 geo.local.oostgelre.nl
 geo.middendrenthe.nl
 geo.montferland.info
+geo.nunspeet.nl
 geo.oostgelre.nl
 geo.raalte.nl
 geo.renkum.nl

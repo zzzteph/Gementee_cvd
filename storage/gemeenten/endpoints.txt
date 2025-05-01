@@ -3501,6 +3501,7 @@ https://geo.huizen.nl
 https://geo.krimpenerwaard.nl
 https://geo.middendrenthe.nl
 https://geo.montferland.info
+https://geo.nunspeet.nl
 https://geo.raalte.nl
 https://geo.renkum.nl
 https://geo.rheden.nl
@@ -7087,7 +7088,6 @@ https://testcms-inhuiz.huizen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
 https://testcms-intranet.midden-groningen.nl
-https://testcms-markt1.nunspeet.nl
 https://testdigikoppeling.haarlemmermeer.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testdigitaalgemeenteloket.kaagenbraassem.nl
