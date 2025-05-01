@@ -1,5 +1,7 @@
 acceptatie-open.moerdijk.nl
 afspraak.moerdijk.nl
+autodiscover.moerdijk.nl
+enterpriseregistration.moerdijk.nl
 huisstijl.moerdijk.nl
 iburgerzaken.moerdijk.nl
 ibzpink.moerdijk.nl
@@ -7,6 +9,7 @@ leef-test.moerdijk.nl
 leef.moerdijk.nl
 maps.moerdijk.nl
 mijn.moerdijk.nl
+moerdijk.nl
 open.moerdijk.nl
 smtp.moerdijk.nl
 test.moerdijk.nl
@@ -16,3 +19,4 @@ werkenbij.moerdijk.nl
 werkenvoor.moerdijk.nl
 werkplek.moerdijk.nl
 www.moerdijk.nl
+zaaksysteem-accept.moerdijk.nl

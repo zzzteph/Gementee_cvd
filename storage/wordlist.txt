@@ -1,5 +1,5 @@
-www
 
+www
 autodiscover
 iburgerzaken
 ibzpink
@@ -38,11 +38,11 @@ vpn
 broker
 betalen
 adfs
+zaaksysteem-accept
 iparticipatie
 pv
 ruimtelijkeplannen
 werkenbij
-zaaksysteem-accept
 belastingen
 gemeenteraad
 test-ipa
@@ -61,11 +61,11 @@ openpub
 cmsoo
 loket.acceptatie
 omgevingsvisie
+enterpriseregistration
 login
 belastingbalie
 cloudadapter-test
 osb
-enterpriseregistration
 digikoppeling-test
 beeldbank
 flowmailer-tracking
