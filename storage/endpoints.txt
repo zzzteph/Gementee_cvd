@@ -251,6 +251,7 @@ http://doetinchem.nl
 http://duurzaam.waalwijk.nl
 http://duurzaam.woensdrecht.nl
 http://eloket.meppel.nl
+http://eloket.nijkerk.eu
 http://embrace.laarbeek.nl
 http://felix.aalten.nl
 http://felix.dalfsen.nl
@@ -2919,7 +2920,6 @@ https://eloket.leusden.nl
 https://eloket.meerssen.nl
 https://eloket.middelburg.nl
 https://eloket.midden-groningen.nl
-https://eloket.nijkerk.eu
 https://eloket.nissewaard.nl
 https://eloket.nuenen.nl
 https://eloket.nunspeet.nl
@@ -3143,6 +3143,7 @@ https://felix.koggenland.nl
 https://felix.lopik.nl
 https://felix.maassluis.nl
 https://felix.mookenmiddelaar.nl
+https://felix.nijkerk.eu
 https://felix.nissewaard.nl
 https://felix.nuenen.nl
 https://felix.oirschot.nl
@@ -8173,7 +8174,6 @@ https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwsbrief.enschede.nl
-https://www.nijkerk.eu
 https://www.nijmegen.nl
 https://www.nimmaleert.nijmegen.nl
 https://www.nissewaard.nl
