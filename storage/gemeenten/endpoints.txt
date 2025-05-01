@@ -6607,7 +6607,6 @@ https://simsite.kerkrade.nl
 https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.middendelfland.nl
-https://simsite.montferland.info
 https://simsite.nijkerk.eu
 https://simsite.oirschot.nl
 https://simsite.opsterland.nl

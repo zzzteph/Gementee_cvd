@@ -18,7 +18,6 @@ https://orbit.montferland.info
 https://remote.montferland.info
 https://scep.montferland.info
 https://servicedesk.montferland.info
-https://simsite.montferland.info
 https://social.montferland.info
 https://test-cmssocial.montferland.info
 https://validsign.montferland.info
