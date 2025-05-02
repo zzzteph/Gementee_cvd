@@ -29,9 +29,9 @@ acc
 waarmerk
 meldingen
 afspraak
-raad
 parkeren
 open
+raad
 geo
 api.meldingen
 vpn
@@ -43,9 +43,9 @@ zaaksysteem-accept
 iparticipatie
 pv
 werkenbij
-belastingen
 gemeenteraad
 test-ipa
+belastingen
 enterpriseenrollment
 testeloket
 dacceptatieloket
@@ -55,20 +55,20 @@ dmidoffice
 openpdc
 api.meldingen-acc
 meldingen-acc
-remote
 data
 openpub
 cmsoo
-loket.acceptatie
+remote
 omgevingsvisie
-enterpriseregistration
 login
 belastingbalie
 cloudadapter-test
+loket.acceptatie
 osb
-digikoppeling-test
+enterpriseregistration
 beeldbank
 flowmailer-tracking
+digikoppeling-test
 zaken
 kaart
 hybrid
@@ -113,7 +113,6 @@ snelbalie
 afvalkalender
 dali
 preprod
-qr
 apps
 bastion365
 bgt
@@ -124,6 +123,7 @@ preprodbroker
 simform
 web
 mijninkomen
+qr
 openzaak
 auth
 acc-formulier
@@ -191,7 +191,6 @@ zaken.acceptatie
 bor
 bestuur
 squit2020
-afspraakmaken
 mta-sts
 zaaksysteem
 geoportaal
@@ -211,12 +210,11 @@ inproces.acceptatie
 outlook
 vth
 testloket
+afspraakmaken
 contact
-mobiel
 wachtwoord
 geodata
 subsidies-backend
-melddesk
 thuiswerken
 website
 gemeentearchief
@@ -239,6 +237,7 @@ bestanden
 kcc
 mx1
 mx2
+mobiel
 www.portal
 cloudadapter-prod
 handhaving
@@ -247,6 +246,7 @@ vergunningintaker-preprod
 simform-preproductie
 praatmee
 subsidie
+melddesk
 api.openstad
 cms
 exchange
@@ -282,7 +282,6 @@ gisibgeoserver
 www.werkenbij
 makelaar
 servicedesk
-belastingen-acc
 ro-online
 mozard
 mozardtest
@@ -329,6 +328,7 @@ pdc
 zoeken
 subsidies-backend.acceptatie
 subsidies.acceptatie
+belastingen-acc
 diensten
 dkd-test
 www.duurzaam
@@ -411,8 +411,6 @@ magazines
 octopus
 regelgeving
 geotest
-moh-acc
-moh
 ns2
 media
 kaartviewer
@@ -471,7 +469,6 @@ gbionline
 cca-acc
 cca
 gemeentewinkel
-mijnmobiel
 pip
 www.werkplek
 authenticatie
@@ -552,6 +549,8 @@ parkeerapp
 smartdoc
 stadspas
 digid
+moh-acc
+moh
 werk
 www.mijn
 www.raad
@@ -649,6 +648,7 @@ www.mobile
 gbionlinetest
 squit2gotest
 geo-secure
+mijnmobiel
 www.login
 liquitsatellite
 www.parkeren
@@ -810,7 +810,6 @@ leerplein
 nieuwkomers
 old
 testdigid
-www.geo
 www.old
 acc-contact.dev
 acc-formulier.dev
@@ -2443,6 +2442,7 @@ meedenken
 mfa-rooster
 preprod-mijngeldzaken
 vastgoedbedrijf
+www.geo
 www.meedenken
 www.vastgoedbedrijf
 acc-podiumd.sschosting.nl
@@ -5420,9 +5420,6 @@ historischbeeldarchief
 jccafsprakencloud
 oudebeeldbank
 grmks03
-intercontent
-mdesk
-melddesk-test
 gplan
 mijncultuurdocument
 mobilemail
