@@ -255,6 +255,8 @@ parkeervergunningen
 woz
 www.acc
 openstad
+acc-keycloak-admin
+acc-zac
 meet
 support
 data-test
@@ -291,8 +293,6 @@ wion
 www.test
 ns1
 sslvpn
-acc-keycloak-admin
-acc-zac
 afval
 openformulieren
 awmag

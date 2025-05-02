@@ -1,6 +1,7 @@
 acc-broker.oostgelre.nl
 acc-contact.oostgelre.nl
 acc-formulier.oostgelre.nl
+acc-keycloak-admin.oostgelre.nl
 acc-keycloak.oostgelre.nl
 acc-mijn.oostgelre.nl
 acc-notificaties.oostgelre.nl
@@ -9,6 +10,7 @@ acc-objecttypen.oostgelre.nl
 acc-openklant.oostgelre.nl
 acc-openzaak.oostgelre.nl
 acc-podiumd-logs.oostgelre.nl
+acc-zac.oostgelre.nl
 afspraken.oostgelre.nl
 api.meldingen-acc.oostgelre.nl
 api.meldingen.oostgelre.nl

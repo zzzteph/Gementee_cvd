@@ -2,6 +2,7 @@ http://autodiscover.oostgelre.nl
 https://acc-broker.oostgelre.nl
 https://acc-contact.oostgelre.nl
 https://acc-formulier.oostgelre.nl
+https://acc-keycloak-admin.oostgelre.nl
 https://acc-keycloak.oostgelre.nl
 https://acc-mijn.oostgelre.nl
 https://acc-notificaties.oostgelre.nl
@@ -10,6 +11,7 @@ https://acc-objecttypen.oostgelre.nl
 https://acc-openklant.oostgelre.nl
 https://acc-openzaak.oostgelre.nl
 https://acc-podiumd-logs.oostgelre.nl
+https://acc-zac.oostgelre.nl
 https://api.meldingen-acc.oostgelre.nl
 https://api.meldingen.oostgelre.nl
 https://assets.oostgelre.nl
@@ -20,7 +22,6 @@ https://dacceptatieloket.oostgelre.nl
 https://dloket.oostgelre.nl
 https://formulier.oostgelre.nl
 https://iburgerzaken.oostgelre.nl
-https://inloggen.oostgelre.nl
 https://keycloak.oostgelre.nl
 https://meldingen-acc.oostgelre.nl
 https://meldingen.oostgelre.nl
@@ -32,7 +33,6 @@ https://oostgelre.nl
 https://openklant.oostgelre.nl
 https://openzaak.oostgelre.nl
 https://podiumd-logs.oostgelre.nl
-https://uag1.oostgelre.nl
 https://vpn.oostgelre.nl
 https://wachtwoord.oostgelre.nl
 https://www.oostgelre.nl

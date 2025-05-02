@@ -641,6 +641,7 @@ https://acc-keycloak-admin.gemeente-oldambt.nl
 https://acc-keycloak-admin.gemert-bakel.nl
 https://acc-keycloak-admin.laarbeek.nl
 https://acc-keycloak-admin.oldenzaal.nl
+https://acc-keycloak-admin.oostgelre.nl
 https://acc-keycloak.assen.nl
 https://acc-keycloak.dev.assen.nl
 https://acc-keycloak.dev.groningen.nl
@@ -775,6 +776,7 @@ https://acc-zac.gemeente-oldambt.nl
 https://acc-zac.gemert-bakel.nl
 https://acc-zac.laarbeek.nl
 https://acc-zac.oldenzaal.nl
+https://acc-zac.oostgelre.nl
 https://acc.admin.schoolwijzer.amsterdam.nl
 https://acc.adus.amsterdam.nl
 https://acc.aip.amsterdam.nl
@@ -4086,7 +4088,6 @@ https://inloggen.meierijstad.nl
 https://inloggen.mijnsubsidie.eindhoven.nl
 https://inloggen.mijnsubsidie.test.eindhoven.nl
 https://inloggen.oldenzaal.nl
-https://inloggen.oostgelre.nl
 https://inloggen.wageningen.nl
 https://inloggenapv-preprod.hellendoorn.nl
 https://inloggenapv.hellendoorn.nl
@@ -7254,7 +7255,6 @@ https://tve-acc.brummen.nl
 https://tve.brummen.nl
 https://twenterand.nl
 https://tynaarlo.nl
-https://uag1.oostgelre.nl
 https://uaghelm01.helmond.nl
 https://uaghelm02.helmond.nl
 https://uath.rotterdam.nl

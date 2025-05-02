@@ -214,6 +214,7 @@ acc-keycloak-admin.gemeente-oldambt.nl
 acc-keycloak-admin.gemert-bakel.nl
 acc-keycloak-admin.laarbeek.nl
 acc-keycloak-admin.oldenzaal.nl
+acc-keycloak-admin.oostgelre.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
 acc-keycloak.dev.groningen.nl
@@ -360,6 +361,7 @@ acc-zac.gemeente-oldambt.nl
 acc-zac.gemert-bakel.nl
 acc-zac.laarbeek.nl
 acc-zac.oldenzaal.nl
+acc-zac.oostgelre.nl
 acc.adam.amsterdam.nl
 acc.admin.data.amsterdam.nl
 acc.admin.schoolwijzer.amsterdam.nl
