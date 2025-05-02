@@ -700,7 +700,6 @@ hybrid1
 hybrid2
 digitaalloket
 ews
-www.belastingloket
 opentunnel
 duoloket
 www.afspraakmaken
@@ -1142,6 +1141,7 @@ parkeren.reserveren
 werkeninkomen-test
 werkeninkomen
 voice
+www.belastingloket
 alwayson
 testwebsite
 fw

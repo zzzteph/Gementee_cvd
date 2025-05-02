@@ -1396,6 +1396,7 @@ https://auth.openstad.enschede.nl
 https://auth.openstad.gemeentewestland.nl
 https://auth.openstad.haarlemmermeer.nl
 https://auth.openstad.nijmegen.nl
+https://auth.purmerend.nl
 https://auth.steenwijkerland.nl
 https://auth.v2.openstad.haarlemmermeer.nl
 https://auth1.denhaag.nl
@@ -7908,7 +7909,6 @@ https://www.begroting.soest.nl
 https://www.belastingbalie.ede.nl
 https://www.belastingloket.lingewaard.nl
 https://www.belastingloket.overbetuwe.nl
-https://www.belastingloket.purmerend.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergen-nh.nl
 https://www.bergendal.nl
