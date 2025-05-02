@@ -103,6 +103,7 @@ samen
 verkiezingen
 duurzaam
 gemeente
+woningbouwkaart
 simcms-open
 www.webmail
 dtestmidoffice
@@ -116,7 +117,6 @@ preprod
 apps
 bastion365
 bgt
-woningbouwkaart
 obsurv
 filecap
 preprodbroker
