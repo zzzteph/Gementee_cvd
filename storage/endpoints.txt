@@ -3157,7 +3157,6 @@ https://felix.nijkerk.eu
 https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.ooststellingwerf.nl
-https://felix.opmeer.nl
 https://felix.renswoude.nl
 https://felix.reuseldemierden.nl
 https://felix.scherpenzeel.nl
@@ -5068,6 +5067,7 @@ https://mijnsociaaldomein.heerenveen.nl
 https://mijnsociaaldomein.koggenland.nl
 https://mijnsociaaldomein.losser.nl
 https://mijnsociaaldomein.meierijstad.nl
+https://mijnsociaaldomein.opmeer.nl
 https://mijnsociaaldomein.venlo.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
@@ -5507,7 +5507,6 @@ https://ontheffingen-mz.denhaag.nl
 https://ontheffingen.amsterdam.nl
 https://ontheffingen.wijdemeren.nl
 https://ontheffingmilieuzone.utrecht.nl
-https://ontmoetingscentra.opmeer.nl
 https://ontmoetingskaart.landvancuijk.nl
 https://ontvangsten.rotterdam.nl
 https://ontw.app.amsterdam.nl
@@ -5697,6 +5696,7 @@ https://openzaakbrug-zgw.denhaag.nl
 https://openzaakbrug-zgw.test.denhaag.nl
 https://operatiebomenbuurt.denhaag.nl
 https://oploo.landvancuijk.nl
+https://opmeer.nl
 https://opname.eindhoven.nl
 https://opvang.zwolle.nl
 https://or.delft.nl
@@ -8225,7 +8225,6 @@ https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
 https://www.openstad.nijmegen.nl
 https://www.operatiebomenbuurt.denhaag.nl
-https://www.opmeer.nl
 https://www.opsterland.nl
 https://www.opvang.zwolle.nl
 https://www.oracbloemenbuurt.denhaag.nl
