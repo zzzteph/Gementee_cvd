@@ -881,6 +881,7 @@ esuitenotubiz-test
 ironport
 g-rooster
 jaarstukken2020
+jaarstukken2021
 afspraken-test
 edienstenburgerzaken-prod
 ggk
@@ -2640,7 +2641,6 @@ smartdocbrlacc
 begraafplaatsreservering
 geografie
 isamenlevingszaken
-jaarstukken2021
 jaarstukken2022
 jaarstukken2023
 mdm-sentry
@@ -5367,9 +5367,11 @@ iis-vpek01
 iis-vpek21
 anyware
 jaarstukken2019
+kadernota2020
 kadernota2021
 najaarsnota
 najaarsnota2019
+najaarsnota2020
 pre-prod.digitalebalie
 preprod-wozbalie
 psecure
