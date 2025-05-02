@@ -1,6 +1,5 @@
 http://autodiscover.overbetuwe.nl
-http://overbetuwe.nl
-http://simcms.overbetuwe.nl
+http://www.overbetuwe.nl
 https://belastingloket.overbetuwe.nl
 https://energiebespaaradvies.overbetuwe.nl
 https://iburgerzaken.overbetuwe.nl
@@ -11,4 +10,5 @@ https://loket.overbetuwe.nl
 https://mijn-acc.overbetuwe.nl
 https://mijn.overbetuwe.nl
 https://pv.overbetuwe.nl
+https://simcms.overbetuwe.nl
 https://www.belastingloket.overbetuwe.nl

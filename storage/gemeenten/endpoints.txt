@@ -346,7 +346,6 @@ http://ooststellingwerf.nl
 http://open.wierden.nl
 http://open.zuidplas.nl
 http://opendata.heemstede.nl
-http://overbetuwe.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -404,7 +403,6 @@ http://simcms.gemeentebeek.nl
 http://simcms.heerlen.nl
 http://simcms.middelburg.nl
 http://simcms.opsterland.nl
-http://simcms.overbetuwe.nl
 http://simcms.simpelveld.nl
 http://simcms.sonenbreugel.nl
 http://simcms.twenterand.nl
@@ -509,6 +507,7 @@ http://www.nieuwwest.amsterdam.nl
 http://www.oirschot.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
+http://www.overbetuwe.nl
 http://www.pmb.amsterdam.nl
 http://www.praatmee.borsele.nl
 http://www.praatmee.goeree-overflakkee.nl
@@ -6590,6 +6589,7 @@ https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
+https://simcms.overbetuwe.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.staphorst.nl

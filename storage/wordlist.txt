@@ -231,6 +231,7 @@ publicroam
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
+jongin
 archief
 acceptatie-open
 belastingbalie-test
@@ -262,7 +263,6 @@ support
 data-test
 www.gemeenteraad
 xential
-jongin
 www.jongin
 erfgoed
 citrix
