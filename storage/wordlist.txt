@@ -10,8 +10,8 @@ mijn
 webmail
 simsite
 mail
-digikoppeling
 afspraken
+digikoppeling
 preproductie
 simcms
 secure
