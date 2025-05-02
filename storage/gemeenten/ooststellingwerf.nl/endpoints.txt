@@ -1,8 +1,12 @@
 http://autodiscover.ooststellingwerf.nl
 http://digid.ooststellingwerf.nl
+http://ooststellingwerf.nl
+http://simsite.ooststellingwerf.nl
 https://begroting.ooststellingwerf.nl
 https://felix.ooststellingwerf.nl
 https://financien.ooststellingwerf.nl
 https://iburgerzaken.ooststellingwerf.nl
 https://kaarten.ooststellingwerf.nl
-https://ooststellingwerf.nl
+https://mijn.ooststellingwerf.nl
+https://preproductie.ooststellingwerf.nl
+https://simcms.ooststellingwerf.nl
