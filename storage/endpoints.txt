@@ -251,6 +251,7 @@ http://duurzaam.waalwijk.nl
 http://duurzaam.woensdrecht.nl
 http://eloket.meppel.nl
 http://eloket.nijkerk.eu
+http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
 http://felix.aalten.nl
 http://felix.dalfsen.nl
@@ -267,7 +268,6 @@ http://felix.vlieland.nl
 http://felix.westmaasenwaal.nl
 http://flash.scherpenzeel.nl
 http://formulieren-preproductie.vlaardingen.nl
-http://formulieren-test.rijswijk.nl
 http://formulieren.edam-volendam.nl
 http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
@@ -407,6 +407,7 @@ http://simcms.twenterand.nl
 http://simcms.vlieland.nl
 http://simcms.wierden.nl
 http://simform-preproductie.vlaardingen.nl
+http://simform-test.rijswijk.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
 http://simform.gemeentemaasgouw.nl
@@ -1727,6 +1728,7 @@ https://berichten.huizen.nl
 https://berichten.koggenland.nl
 https://berichten.noordoostpolder.nl
 https://berichten.ommen.nl
+https://berichten.rijswijk.nl
 https://berichten.soest.nl
 https://berichten.valkenswaard.nl
 https://bermod-fa.amsterdam.nl
@@ -6470,7 +6472,6 @@ https://secure.denhaag.nl
 https://secure.gemeentestein.nl
 https://secure.pekela.nl
 https://secure.pijnacker-nootdorp.nl
-https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
 https://secure.veendam.nl
 https://secure1.weert.nl
@@ -6590,7 +6591,6 @@ https://simcms.zoetermeer.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-preproductie.t-diel.nl
 https://simform-preproductie.wassenaar.nl
-https://simform-test.rijswijk.nl
 https://simform.achtkarspelen.nl
 https://simform.houten.nl
 https://simform.rijswijk.nl

@@ -21,6 +21,7 @@ dkd.rijswijk.nl
 edienstenburgerzaken-test.rijswijk.nl
 edienstenburgerzaken.rijswijk.nl
 edison.rijswijk.nl
+emagazine2030.rijswijk.nl
 financien.rijswijk.nl
 flowmailer-tracking.rijswijk.nl
 formulieren-test.rijswijk.nl

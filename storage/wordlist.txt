@@ -5463,6 +5463,7 @@ timetell
 afspraak-test
 berichten-test
 cloudconnector-test
+emagazine2030
 foto-bo
 keerpunt
 mijnhulpvraag
