@@ -10723,6 +10723,7 @@ rooster.arnhem.nl
 rooster.denhelder.nl
 rooster.haarlemmermeer.nl
 rooster.helmond.nl
+rooster.schagen.nl
 rooster.tholen.nl
 rooster.top.amsterdam.nl
 roplan.haarlemmermeer.nl

@@ -291,6 +291,7 @@ ns
 wion
 www.test
 ns1
+rooster
 sslvpn
 afval
 openformulieren
@@ -341,7 +342,6 @@ parkeervergunning
 services
 gbi
 mijngeldzaken
-rooster
 dialin
 test-formulier
 test-mijn

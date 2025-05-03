@@ -9,6 +9,7 @@ https://mijnzaken.schagen.nl
 https://preprod-mijnwijkteam.schagen.nl
 https://raad.schagen.nl
 https://rdweb01.schagen.nl
+https://rooster.schagen.nl
 https://samen.schagen.nl
 https://schagen.nl
 https://squitxo-test.schagen.nl

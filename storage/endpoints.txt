@@ -6360,6 +6360,7 @@ https://rondleidingen.landvancuijk.nl
 https://roosendaal.nl
 https://rooster.arnhem.nl
 https://rooster.denhelder.nl
+https://rooster.schagen.nl
 https://roplan.haarlemmermeer.nl
 https://rostar.goes.nl
 https://rotterdam.nl

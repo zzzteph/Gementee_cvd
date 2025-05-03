@@ -19,6 +19,7 @@ profilemanager.schagen.nl
 raad.schagen.nl
 rdweb01.schagen.nl
 remote.schagen.nl
+rooster.schagen.nl
 samen.schagen.nl
 schagen.nl
 squitxo-test.schagen.nl
