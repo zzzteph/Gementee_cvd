@@ -5,7 +5,6 @@ api.meldingen.s-hertogenbosch.nl
 api.toegang.dataplatform.accp.s-hertogenbosch.nl
 api.toegang.dataplatform.s-hertogenbosch.nl
 autodiscover.s-hertogenbosch.nl
-b2b.oso.s-hertogenbosch.nl
 belastingen.accp.s-hertogenbosch.nl
 belastingloket.s-hertogenbosch.nl
 bestanden.s-hertogenbosch.nl
@@ -16,6 +15,7 @@ catalogus.dataplatform.accp.s-hertogenbosch.nl
 catalogus.dataplatform.s-hertogenbosch.nl
 ctr.s-hertogenbosch.nl
 flex.s-hertogenbosch.nl
+flex1.s-hertogenbosch.nl
 flex5.s-hertogenbosch.nl
 flex6.s-hertogenbosch.nl
 flex7.s-hertogenbosch.nl
@@ -49,13 +49,13 @@ mx1.s-hertogenbosch.nl
 mx2.s-hertogenbosch.nl
 ntp1.s-hertogenbosch.nl
 ntp2.s-hertogenbosch.nl
+office.oso.s-hertogenbosch.nl
 ois.accp.s-hertogenbosch.nl
 ois.s-hertogenbosch.nl
 openpdc.s-hertogenbosch.nl
 openpub.s-hertogenbosch.nl
 overdrachtsdocument2022.s-hertogenbosch.nl
 parkeren.s-hertogenbosch.nl
-phapps.oso.s-hertogenbosch.nl
 reflex.s-hertogenbosch.nl
 ruimtelijkeplannen.s-hertogenbosch.nl
 s-hertogenbosch.nl
@@ -69,5 +69,4 @@ toegang.dataplatform.s-hertogenbosch.nl
 transfer.s-hertogenbosch.nl
 uc.s-hertogenbosch.nl
 veiligdelen.s-hertogenbosch.nl
-workflow.oso.s-hertogenbosch.nl
 www.s-hertogenbosch.nl

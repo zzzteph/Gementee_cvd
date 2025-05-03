@@ -5730,7 +5730,6 @@ alsiam
 api.meldingen.accp
 api.toegang.dataplatform.accp
 api.toegang.dataplatform
-b2b.oso
 belastingen.accp
 bestuursakkoord
 betalen.belastingloket
@@ -5738,6 +5737,7 @@ borportaal
 catalogus.dataplatform.accp
 catalogus.dataplatform
 ctr
+flex1
 flex5
 flex6
 flex7
@@ -5757,14 +5757,13 @@ mijnzorg.accp
 mp1
 ntp1
 ntp2
+office.oso
 ois.accp
 overdrachtsdocument2022
-phapps.oso
 reflex
 servicegateway.accp
 toegang.dataplatform.accp
 toegang.dataplatform
-workflow.oso
 gemnet-dkd
 gemnet-dkdtest
 lan

@@ -1796,7 +1796,6 @@ awtunnel.venlo.nl
 awtunnel.weert.nl
 awvpn.someren.nl
 axians.lev.delft.nl
-b2b.oso.s-hertogenbosch.nl
 baarle-nassau.nl
 baarn.nl
 backend-dvg.acc.rotterdam.nl
@@ -4923,6 +4922,7 @@ flevoparkbad.amsterdam.nl
 flex.emmen.nl
 flex.haarlemmermeer.nl
 flex.s-hertogenbosch.nl
+flex1.s-hertogenbosch.nl
 flex5.s-hertogenbosch.nl
 flex6.s-hertogenbosch.nl
 flex7.s-hertogenbosch.nl
@@ -8997,6 +8997,7 @@ oegstgeest.nl
 oekraine.zaanstad.nl
 oemojz.amsterdam.nl
 oens.almere.nl
+office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
 officewebapps.haarlemmermeer.nl
@@ -9745,7 +9746,6 @@ pform.schiedam.nl
 pfsense.secure.amsterdam.nl
 pgws4allsuite4werk.heerlen.nl
 pgws4allsuite4zorg.heerlen.nl
-phapps.oso.s-hertogenbosch.nl
 phpmyadmin.bodegraven-reeuwijk.nl
 pidigikoppeling.purmerend.nl
 pijnacker-nootdorp.nl
@@ -13788,7 +13788,6 @@ wordpress-zgw.acc.denhaag.nl
 wordpress-zgw.denhaag.nl
 wordpress-zgw.test.denhaag.nl
 workdrive.rucphen.nl
-workflow.oso.s-hertogenbosch.nl
 workforce.nissewaard.nl
 workspace-rds.gemeentesluis.nl
 workspace365.almelo.nl
