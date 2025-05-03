@@ -1,6 +1,7 @@
 acc-broker.roermond.nl
 acc-contact.roermond.nl
 acc-formulier.roermond.nl
+acc-keycloak-admin.roermond.nl
 acc-keycloak.roermond.nl
 acc-mijn.roermond.nl
 acc-notificaties.roermond.nl
@@ -9,6 +10,7 @@ acc-objecttypen.roermond.nl
 acc-openklant.roermond.nl
 acc-openzaak.roermond.nl
 acc-podiumd-logs.roermond.nl
+acc-zac.roermond.nl
 api.meldingen-acc.roermond.nl
 api.meldingen.roermond.nl
 autodiscover.roermond.nl
@@ -59,8 +61,8 @@ roermond.nl
 secure.roermond.nl
 securegemnet.roermond.nl
 securetest.roermond.nl
-sport.roermond.nl
 ssl.roermond.nl
 stadswinkel.roermond.nl
 teradek.roermond.nl
+www.historiehuis.roermond.nl
 www.roermond.nl

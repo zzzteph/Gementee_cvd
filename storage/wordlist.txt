@@ -222,6 +222,8 @@ desktop
 e-loket
 opendata
 woo
+acc-keycloak-admin
+acc-zac
 localhost
 byod
 guest
@@ -256,8 +258,6 @@ parkeervergunningen
 woz
 www.acc
 openstad
-acc-keycloak-admin
-acc-zac
 meet
 support
 data-test
@@ -305,7 +305,6 @@ omgevingswet
 dkdtest
 test-secure
 woz-loket
-sport
 admin.openstad
 eformulieren
 squit2020.acceptatie
@@ -373,6 +372,7 @@ contentbeheer.test
 zaken.test
 ris
 subsidies-login
+sport
 burgerloket
 mijnzaken
 ondernemersloket
@@ -5488,6 +5488,7 @@ securetest
 ssl
 stadswinkel
 teradek
+www.historiehuis
 idee
 login-acc
 www.idee
