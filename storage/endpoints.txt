@@ -249,6 +249,7 @@ http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://doetinchem.nl
+http://draadloos.sittard-geleen.nl
 http://duurzaam.waalwijk.nl
 http://duurzaam.woensdrecht.nl
 http://eloket.meppel.nl
@@ -2496,7 +2497,6 @@ https://domain-admin.waterland.nl
 https://dongen.nl
 https://dordrecht.nl
 https://dpt.purmerend.nl
-https://draadloos.sittard-geleen.nl
 https://drechterland.nl
 https://drempelsweg.utrecht.nl
 https://drimmelen.nl
@@ -3509,7 +3509,6 @@ https://geo.montferland.info
 https://geo.nunspeet.nl
 https://geo.raalte.nl
 https://geo.rheden.nl
-https://geo.sittard-geleen.nl
 https://geo.tilburg.nl
 https://geo.vught.nl
 https://geo.wijkbijduurstede.nl
@@ -3522,6 +3521,7 @@ https://geodata-acc.zutphen.nl
 https://geodata.dijkenwaard.nl
 https://geodata.hollandskroon.nl
 https://geodata.nunspeet.nl
+https://geodata.sittard-geleen.nl
 https://geodata.utrecht.nl
 https://geodata.voorst.nl
 https://geodata.zutphen.nl
@@ -5715,6 +5715,7 @@ https://outlook.deventer.nl
 https://outlook.dewolden.nl
 https://outlook.hoogeveen.nl
 https://outlook.meerssen.nl
+https://outlook.sittard-geleen.nl
 https://outlook.wageningen.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://overloon.landvancuijk.nl
@@ -7001,6 +7002,7 @@ https://test-extranet.hethogeland.nl
 https://test-formulier.assen.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
+https://test-internetafspraken.sittard-geleen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.beuningen.nl
 https://test-intranet.heuvelrug.nl

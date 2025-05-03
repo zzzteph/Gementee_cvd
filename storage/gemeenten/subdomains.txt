@@ -5428,6 +5428,7 @@ geodata.dijkenwaard.nl
 geodata.hollandskroon.nl
 geodata.noordoostpolder.nl
 geodata.nunspeet.nl
+geodata.sittard-geleen.nl
 geodata.utrecht.nl
 geodata.voorst.nl
 geodata.zutphen.nl

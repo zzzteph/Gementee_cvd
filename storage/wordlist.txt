@@ -198,6 +198,7 @@ internetafspraken
 fs
 kennisbank
 preprod-mijn
+geodata
 evenementen
 mail2
 onderzoek
@@ -213,7 +214,6 @@ testloket
 afspraakmaken
 contact
 wachtwoord
-geodata
 subsidies-backend
 thuiswerken
 website

@@ -10,6 +10,7 @@ draadloos.sittard-geleen.nl
 duurzaamwonen.sittard-geleen.nl
 fg-api-pkio.haven.tst.sittard-geleen.nl
 geo.sittard-geleen.nl
+geodata.sittard-geleen.nl
 haven.acc.sittard-geleen.nl
 haven.sittard-geleen.nl
 haven.tst.sittard-geleen.nl
