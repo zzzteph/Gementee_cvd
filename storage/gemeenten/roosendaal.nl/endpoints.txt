@@ -1,3 +1,4 @@
+http://autodiscover.roosendaal.nl
 https://acceptatie-open.roosendaal.nl
 https://data.roosendaal.nl
 https://enterpriseenrollment.roosendaal.nl

@@ -1678,6 +1678,7 @@ autodiscover.rijssen-holten.nl
 autodiscover.rijswijk.nl
 autodiscover.roerdalen.nl
 autodiscover.roermond.nl
+autodiscover.roosendaal.nl
 autodiscover.rotterdam.nl
 autodiscover.rozendaal.nl
 autodiscover.rucphen.nl

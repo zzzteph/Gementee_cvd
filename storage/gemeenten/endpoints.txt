@@ -164,6 +164,7 @@ http://autodiscover.rheden.nl
 http://autodiscover.rhenen.nl
 http://autodiscover.rijswijk.nl
 http://autodiscover.roermond.nl
+http://autodiscover.roosendaal.nl
 http://autodiscover.rozendaal.nl
 http://autodiscover.rucphen.nl
 http://autodiscover.s-hertogenbosch.nl

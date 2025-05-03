@@ -1,6 +1,7 @@
 acc.piwik.roosendaal.nl
 acc.roosendaal.nl
 acceptatie-open.roosendaal.nl
+autodiscover.roosendaal.nl
 data.roosendaal.nl
 enterpriseenrollment.roosendaal.nl
 enterpriseregistration.roosendaal.nl
