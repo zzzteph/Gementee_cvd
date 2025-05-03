@@ -1,7 +1,4 @@
-http://preproductie.simpelveld.nl
-http://simcms.simpelveld.nl
-http://simpelveld.nl
 https://adfs.simpelveld.nl
 https://eloket.simpelveld.nl
-https://felix.simpelveld.nl
+https://simcms.simpelveld.nl
 https://testeloket.simpelveld.nl
