@@ -11,7 +11,6 @@ https://omgevingsdocumenten.rijssen-holten.nl
 https://openpdc.rijssen-holten.nl
 https://openpub.rijssen-holten.nl
 https://persportaal.rijssen-holten.nl
-https://preprod-sociaalportaal.rijssen-holten.nl
 https://raad.rijssen-holten.nl
 https://rijssen-holten.nl
 https://siem.rijssen-holten.nl
