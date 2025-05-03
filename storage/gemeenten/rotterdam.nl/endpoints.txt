@@ -1,8 +1,12 @@
+http://inkomensadvies.rotterdam.nl
 http://isis-a.rotterdam.nl
 http://isis.rotterdam.nl
 http://meldpuntondermijning.rotterdam.nl
+http://raas.rotterdam.nl
 http://thomas100.rotterdam.nl
+http://thomas112.rotterdam.nl
 http://thomas115.rotterdam.nl
+http://thomas434.rotterdam.nl
 http://thuiswerk.rotterdam.nl
 http://thuiswerkacc.rotterdam.nl
 https://acc-formulier.rotterdam.nl
@@ -74,7 +78,6 @@ https://huurprijscalculator.rotterdam.nl
 https://ibr-projectregistratie.rotterdam.nl
 https://idiensten-contract.rotterdam.nl
 https://iit-controle.rotterdam.nl
-https://inkomensadvies.rotterdam.nl
 https://inzagecleopatra.rotterdam.nl
 https://kaartlaag.rotterdam.nl
 https://keycloak.rotterdam.nl
@@ -127,7 +130,6 @@ https://postcodezoektool.rotterdam.nl
 https://ppmoflprojecten.rotterdam.nl
 https://pric.rotterdam.nl
 https://proapp.rotterdam.nl
-https://raas.rotterdam.nl
 https://radar.rotterdam.nl
 https://rads.rotterdam.nl
 https://rbp.rotterdam.nl
@@ -153,11 +155,9 @@ https://taxivergunning.rotterdam.nl
 https://teamurenplanninggezondheidmilieu.rotterdam.nl
 https://this010.rotterdam.nl
 https://thomas111.rotterdam.nl
-https://thomas112.rotterdam.nl
 https://thomas211.rotterdam.nl
 https://thomas227.rotterdam.nl
 https://thomas422.rotterdam.nl
-https://thomas434.rotterdam.nl
 https://thomas441.rotterdam.nl
 https://thomas780.rotterdam.nl
 https://thomas822.rotterdam.nl
@@ -172,6 +172,7 @@ https://vow.rotterdam.nl
 https://vpn.rotterdam.nl
 https://vrr.rotterdam.nl
 https://wachtwoord.rotterdam.nl
+https://waz.rotterdam.nl
 https://webdiensten.rotterdam.nl
 https://werkomgeving.rotterdam.nl
 https://wijkprofiel.rotterdam.nl

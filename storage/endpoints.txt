@@ -290,6 +290,7 @@ http://htb-test.gemeente-steenbergen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
 http://id-subsidies-login.acceptatie.ede.nl
+http://inkomensadvies.rotterdam.nl
 http://inloggen.belastingen.acc.koggenland.nl
 http://inloggen.belastingen.koggenland.nl
 http://insite.houten.nl
@@ -377,6 +378,7 @@ http://preproductie.zuidplas.nl
 http://preproductie.zwartewaterland.nl
 http://pv.gemeentesluis.nl
 http://raadsagenda.oirschot.nl
+http://raas.rotterdam.nl
 http://redirector.alkmaar.nl
 http://remote.gemeentesluis.nl
 http://ro.brunssum.nl
@@ -462,7 +464,9 @@ http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
 http://testintranet.westerwolde.nl
 http://thomas100.rotterdam.nl
+http://thomas112.rotterdam.nl
 http://thomas115.rotterdam.nl
+http://thomas434.rotterdam.nl
 http://thuiswerk.rotterdam.nl
 http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
@@ -4061,7 +4065,6 @@ https://ingesprek.almere.nl
 https://ingesprek.denhelder.nl
 https://inhuiz.huizen.nl
 https://inkomen.mijn.arnhem.nl
-https://inkomensadvies.rotterdam.nl
 https://inkomensbalie.eindhoven.nl
 https://inkomensondersteuning.breda.nl
 https://inkomensondersteuning.nijmegen.nl
@@ -6270,7 +6273,6 @@ https://raadsinformatie.stichtsevecht.nl
 https://raadzaam.nieuwegein.nl
 https://raadzaam.nijmegen.nl
 https://raalte.nl
-https://raas.rotterdam.nl
 https://radar.rotterdam.nl
 https://rads.rotterdam.nl
 https://rap.gemeentesluis.nl
@@ -7160,11 +7162,9 @@ https://thic.denhaag.nl
 https://this010.rotterdam.nl
 https://tholen.nl
 https://thomas111.rotterdam.nl
-https://thomas112.rotterdam.nl
 https://thomas211.rotterdam.nl
 https://thomas227.rotterdam.nl
 https://thomas422.rotterdam.nl
-https://thomas434.rotterdam.nl
 https://thomas441.rotterdam.nl
 https://thomas780.rotterdam.nl
 https://thomas822.rotterdam.nl
@@ -7514,6 +7514,7 @@ https://water.deventer.nl
 https://waterberging.valkenswaard.nl
 https://waterland.nl
 https://waterweb.waterland.nl
+https://waz.rotterdam.nl
 https://wdm-fepoolweb-ext.wijdemeren.nl
 https://wdm01.gooisemeren.nl
 https://web.alblasserdam.nl

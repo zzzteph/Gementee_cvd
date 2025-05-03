@@ -269,6 +269,7 @@ was010-stedin.rotterdam.nl
 was010-vrr.rotterdam.nl
 was010.rotterdam.nl
 watdoetdegemeente.rotterdam.nl
+waz.rotterdam.nl
 webappdec.rotterdam.nl
 webdiensten.rotterdam.nl
 webservices-acc.rotterdam.nl
