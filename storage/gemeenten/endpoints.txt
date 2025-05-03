@@ -3161,7 +3161,6 @@ https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.ooststellingwerf.nl
 https://felix.renswoude.nl
-https://felix.schiermonnikoog.nl
 https://felix.simpelveld.nl
 https://felix.t-diel.nl
 https://felix.valkenswaard.nl
@@ -6452,6 +6451,7 @@ https://scherpenzeel.nl
 https://scheveningen.denhaag.nl
 https://schiedam.nl
 https://schiedata.schiedam.nl
+https://schiermonnikoog.nl
 https://scholenwijzer-acc.denhaag.nl
 https://scholenwijzer.denhaag.nl
 https://schoolwijzer.amsterdam.nl
@@ -6587,7 +6587,6 @@ https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
 https://simcms.overbetuwe.nl
 https://simcms.renswoude.nl
-https://simcms.schiermonnikoog.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
 https://simcms.urk.nl
@@ -8277,6 +8276,7 @@ https://www.samenmet.beesel.nl
 https://www.samenwij.groningen.nl
 https://www.schagen.nl
 https://www.schiedam.nl
+https://www.schiermonnikoog.nl
 https://www.schoolwijzer.amsterdam.nl
 https://www.schouwen-duiveland.nl
 https://www.shops.landvancuijk.nl

@@ -92,6 +92,7 @@ _autodiscover._tcp.landgraaf.nl
 _autodiscover._tcp.lisse.nl
 _autodiscover._tcp.oude-ijsselstreek.nl
 _autodiscover._tcp.reimerswaal.nl
+_autodiscover._tcp.schiermonnikoog.nl
 _autodiscover._tcp.vlieland.nl
 _autodiscover._tcp.westbetuwe.nl
 _autodiscover._tcp.wijkbijduurstede.nl

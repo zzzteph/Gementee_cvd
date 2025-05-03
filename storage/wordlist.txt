@@ -77,12 +77,12 @@ formulier
 cloudadapter
 kaarten
 parkeren-acc
+_autodiscover._tcp
 digikoppeling.test
 mks
 acc-broker
 test-intranet
 cmsintranet
-_autodiscover._tcp
 denkmee
 parkeren-test
 piwik
