@@ -3,6 +3,7 @@ https://edienstenaanvragensd-acceptatie.ridderkerk.nl
 https://edienstenaanvragensd.ridderkerk.nl
 https://edienstenburgerzaken-test.ridderkerk.nl
 https://edienstenburgerzaken.ridderkerk.nl
+https://edienstenmijninkomen-acceptatie.ridderkerk.nl
 https://edienstenmijninkomen.ridderkerk.nl
 https://edienstverlening-preprod.ridderkerk.nl
 https://edienstverlening.ridderkerk.nl
