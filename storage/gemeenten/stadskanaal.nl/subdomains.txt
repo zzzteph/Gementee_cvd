@@ -1,6 +1,7 @@
 acceptatie.stadskanaal.nl
 afspraken.stadskanaal.nl
 api.betalen.stadskanaal.nl
+bekendmakingen.stadskanaal.nl
 belastingen-preprod.stadskanaal.nl
 belastingen.stadskanaal.nl
 betalen.stadskanaal.nl
