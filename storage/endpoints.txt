@@ -6490,6 +6490,7 @@ https://secure.gemeentestein.nl
 https://secure.pekela.nl
 https://secure.pijnacker-nootdorp.nl
 https://secure.sittard-geleen.nl
+https://secure.valkenburg.nl
 https://secure.veendam.nl
 https://secure1.weert.nl
 https://secure1ev.weert.nl
@@ -6621,7 +6622,6 @@ https://simsite.middendelfland.nl
 https://simsite.nijkerk.eu
 https://simsite.pekela.nl
 https://simsite.renswoude.nl
-https://simsite.valkenburg.nl
 https://simsite.veendam.nl
 https://simsite.veere.nl
 https://simsite.westmaasenwaal.nl
@@ -7774,6 +7774,7 @@ https://wob.amsterdam.nl
 https://wob.arnhem.nl
 https://wob.denhaag.nl
 https://woerden.nl
+https://wolk.valkenburg.nl
 https://wonen.landvancuijk.nl
 https://wonen.olst-wijhe.nl
 https://wonen.westerkwartier.nl

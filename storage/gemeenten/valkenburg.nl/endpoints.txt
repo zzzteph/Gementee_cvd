@@ -10,8 +10,9 @@ https://ironport.valkenburg.nl
 https://mijnafval.valkenburg.nl
 https://owa.valkenburg.nl
 https://ro.valkenburg.nl
-https://simsite.valkenburg.nl
+https://secure.valkenburg.nl
 https://squit2go.valkenburg.nl
 https://valkenburg.nl
 https://webmail.valkenburg.nl
+https://wolk.valkenburg.nl
 https://www.valkenburg.nl
