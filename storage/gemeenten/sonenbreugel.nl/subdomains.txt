@@ -13,4 +13,5 @@ sonenbreugel.nl
 test.sonenbreugel.nl
 testeloket.sonenbreugel.nl
 verkiezingen.sonenbreugel.nl
+woningbouwkaart.sonenbreugel.nl
 www.sonenbreugel.nl

@@ -523,6 +523,7 @@ http://www.samen.medemblik.nl
 http://www.scheveningen.denhaag.nl
 http://www.sip.hellevoetsluis.nl
 http://www.socialekaart.duiven.nl
+http://www.sonenbreugel.nl
 http://www.stadspas.apeldoorn.nl
 http://www.stadspas.venlo.nl
 http://www.stadstoezicht.amsterdam.nl
@@ -3158,6 +3159,7 @@ https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.ooststellingwerf.nl
 https://felix.renswoude.nl
+https://felix.sonenbreugel.nl
 https://felix.t-diel.nl
 https://felix.valkenswaard.nl
 https://felix.veere.nl
@@ -5548,6 +5550,7 @@ https://open.rhenen.nl
 https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
+https://open.sonenbreugel.nl
 https://open.teylingen.nl
 https://open.tubbergen.nl
 https://open.zoetermeer.nl
@@ -6547,7 +6550,6 @@ https://simcms-open.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.halderberge.nl
 https://simcms-open.oirschot.nl
-https://simcms-open.sonenbreugel.nl
 https://simcms-open.wierden.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.bladel.nl
@@ -6709,6 +6711,7 @@ https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
 https://solliciterenbij.maassluis.nl
 https://someren.nl
+https://sonenbreugel.nl
 https://spa4.acc.amsterdam.nl
 https://spa4.tst.amsterdam.nl
 https://spa4d.amsterdam.nl
@@ -7796,6 +7799,7 @@ https://woningbouwkaart.hoogeveen.nl
 https://woningbouwkaart.landvancuijk.nl
 https://woningbouwkaart.oirschot.nl
 https://woningbouwkaart.reuseldemierden.nl
+https://woningbouwkaart.sonenbreugel.nl
 https://woningbouwkaart.tynaarlo.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl

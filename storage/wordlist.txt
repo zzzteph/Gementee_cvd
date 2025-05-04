@@ -99,11 +99,11 @@ govroam
 pki
 test-cmsintranet
 portaal
+woningbouwkaart
 samen
 verkiezingen
 duurzaam
 gemeente
-woningbouwkaart
 simcms-open
 www.webmail
 dtestmidoffice
