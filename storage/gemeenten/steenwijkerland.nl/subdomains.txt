@@ -20,6 +20,7 @@ e-loket.steenwijkerland.nl
 edienstenburgerzaken-test.steenwijkerland.nl
 edienstenburgerzaken.steenwijkerland.nl
 gbiweb.steenwijkerland.nl
+infoopkaart.steenwijkerland.nl
 intranet2.steenwijkerland.nl
 loket.acceptatie.steenwijkerland.nl
 loket.steenwijkerland.nl

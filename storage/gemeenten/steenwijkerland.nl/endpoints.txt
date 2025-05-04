@@ -1,4 +1,3 @@
-http://test-intranet.steenwijkerland.nl
 https://api.betalen.steenwijkerland.nl
 https://auth.steenwijkerland.nl
 https://betalen.steenwijkerland.nl
@@ -8,11 +7,11 @@ https://e-loket.steenwijkerland.nl
 https://edienstenburgerzaken-test.steenwijkerland.nl
 https://edienstenburgerzaken.steenwijkerland.nl
 https://gbiweb.steenwijkerland.nl
+https://infoopkaart.steenwijkerland.nl
 https://intranet2.steenwijkerland.nl
 https://loket.acceptatie.steenwijkerland.nl
 https://loket.steenwijkerland.nl
 https://preproductie.steenwijkerland.nl
 https://steenwijkerland.nl
-https://test-cmsintranet.steenwijkerland.nl
 https://webmail.steenwijkerland.nl
 https://www.steenwijkerland.nl

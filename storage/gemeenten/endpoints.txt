@@ -454,7 +454,6 @@ http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
-http://test-intranet.steenwijkerland.nl
 http://test-intranet.venlo.nl
 http://test-intranet.zeist.nl
 http://test-nopnet.noordoostpolder.nl
@@ -4057,6 +4056,7 @@ https://indica-acc.amsterdam.nl
 https://indienst.almere.nl
 https://indienst.wageningen.nl
 https://info.sudwestfryslan.nl
+https://infoopkaart.steenwijkerland.nl
 https://infoplein.oosterhout.nl
 https://informatieplattegrond.denhaag.nl
 https://ingesprek.almere.nl
@@ -6984,7 +6984,6 @@ https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.sittard-geleen.nl
-https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
 https://test-cmsintranet.venlo.nl
