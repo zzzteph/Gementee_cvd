@@ -1977,6 +1977,7 @@ beemsterraadsinformatie.purmerend.nl
 beers.landvancuijk.nl
 beesel.nl
 begraafplaats.heemstede.nl
+begraafplaats.twenterand.nl
 begraafplaatsduinrust.beverwijk.nl
 begraafplaatsen.bloemendaal.nl
 begraafplaatsen.gooisemeren.nl

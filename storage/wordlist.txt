@@ -1071,6 +1071,7 @@ tbt
 testtsjinstbus
 tsjinstbus
 hulpwijzer
+begraafplaats
 subsidies-backend-test
 subsidies-test
 bzg1
@@ -4292,7 +4293,6 @@ eikenhof
 klanten
 uitkeringprod
 uitkeringtest
-begraafplaats
 bouwtekeningen
 grootklooster.doemee
 jf.doemee

@@ -1,6 +1,7 @@
 autodiscover.twenterand.nl
 automator.twenterand.nl
 automator2.twenterand.nl
+begraafplaats.twenterand.nl
 bzg1-acc.twenterand.nl
 crdp.twenterand.nl
 cryptshare.twenterand.nl
