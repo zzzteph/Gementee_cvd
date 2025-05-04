@@ -10,7 +10,6 @@ lyncdiscover.uithoorn.nl
 ondernemersloket.uithoorn.nl
 preprodgdintaker.uithoorn.nl
 preprodscbroker.uithoorn.nl
-pub.uithoorn.nl
 scbroker.uithoorn.nl
 sip.uithoorn.nl
 test.uithoorn.nl

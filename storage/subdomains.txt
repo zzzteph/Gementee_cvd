@@ -10374,7 +10374,6 @@ psn.ise.rotterdam.nl
 psquit2020.landgraaf.nl
 ptr.cranendonck.nl
 pub.alkmaar.nl
-pub.uithoorn.nl
 pubgov.heerenveen.nl
 publicatie-test.castricum.nl
 publicatie.castricum.nl

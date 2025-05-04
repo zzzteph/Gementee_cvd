@@ -716,7 +716,6 @@ av
 datalab
 gen1
 notubiz
-pub
 test-subsidiebeheer
 test-subsidieloket
 api-meldingen
@@ -1264,6 +1263,7 @@ nsx02
 pix-ia-sth
 pix-ia-stk
 portal.data
+pub
 rdw-test.authenticatie
 rdw.authenticatie
 redirector
