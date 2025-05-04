@@ -373,7 +373,6 @@ http://preproductie.gemeentebeek.nl
 http://preproductie.kerkrade.nl
 http://preproductie.oirschot.nl
 http://preproductie.opmeer.nl
-http://preproductie.t-diel.nl
 http://preproductie.wassenaar.nl
 http://preproductie.westmaasenwaal.nl
 http://preproductie.zuidplas.nl
@@ -411,12 +410,14 @@ http://simcms.sonenbreugel.nl
 http://simcms.twenterand.nl
 http://simcms.vlieland.nl
 http://simcms.wierden.nl
+http://simform-preproductie.t-diel.nl
 http://simform-preproductie.vlaardingen.nl
 http://simform-test.rijswijk.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
 http://simform.gemeentemaasgouw.nl
 http://simform.heerenveen.nl
+http://simform.t-diel.nl
 http://simform.vlissingen.nl
 http://simform.wassenaar.nl
 http://simsite.beekdaelen.nl
@@ -440,6 +441,7 @@ http://sslvpn.haarlem.nl
 http://stadsatlas.zoetermeer.nl
 http://stadspas.weert.nl
 http://subsites.amsterdam.nl
+http://t-diel.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
@@ -6557,7 +6559,6 @@ https://simcms-open.wierden.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.bladel.nl
 https://simcms-raad.zoetermeer.nl
-https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms-woo.doesburg.nl
 https://simcms-woo.westerkwartier.nl
@@ -6598,12 +6599,10 @@ https://simcms.voorschoten.nl
 https://simcms.westerkwartier.nl
 https://simcms.zoetermeer.nl
 https://simform-preproductie.gemeentehw.nl
-https://simform-preproductie.t-diel.nl
 https://simform-preproductie.wassenaar.nl
 https://simform.achtkarspelen.nl
 https://simform.houten.nl
 https://simform.rijswijk.nl
-https://simform.t-diel.nl
 https://simform.vlaardingen.nl
 https://simform.voorschoten.nl
 https://simsite.bergen.nl
@@ -6938,7 +6937,6 @@ https://surveys3.ggd.amsterdam.nl
 https://svhsd-ot.berichtenverkeer.tilburg.nl
 https://svhsd.berichtenverkeer.tilburg.nl
 https://svs-acc.almere.nl
-https://t-diel.nl
 https://t1.data.amsterdam.nl
 https://t2.data.amsterdam.nl
 https://t3.data.amsterdam.nl
@@ -7591,7 +7589,6 @@ https://webserver.schiedam.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://webservices-ot.tilburg.nl
-https://webshop.t-diel.nl
 https://webshopapp.denhaag.nl
 https://webshopvitaloo.sudwestfryslan.nl
 https://website.acceptatie.hillegom.nl
@@ -7649,6 +7646,7 @@ https://werkenbij.scherpenzeel.nl
 https://werkenbij.schiermonnikoog.nl
 https://werkenbij.schouwen-duiveland.nl
 https://werkenbij.sudwestfryslan.nl
+https://werkenbij.t-diel.nl
 https://werkenbij.vlieland.nl
 https://werkenbij.waadhoeke.nl
 https://werkenbij.woerden.nl
@@ -7840,7 +7838,6 @@ https://wozloket.borger-odoorn.nl
 https://wozloket.coevorden.nl
 https://wppbeheer.acc.amsterdam.nl
 https://wppbeheer.amsterdam.nl
-https://wsdl.t-diel.nl
 https://wsgateway-extern.acc.denhaag.nl
 https://wsgateway-extern.denhaag.nl
 https://wsone.rotterdam.nl
