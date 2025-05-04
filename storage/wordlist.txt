@@ -76,8 +76,8 @@ berichten
 formulier
 cloudadapter
 kaarten
-parkeren-acc
 _autodiscover._tcp
+parkeren-acc
 digikoppeling.test
 mks
 acc-broker

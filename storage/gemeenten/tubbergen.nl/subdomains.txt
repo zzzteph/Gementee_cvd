@@ -1,4 +1,5 @@
 Belastingportaal-test.tubbergen.nl
+_autodiscover._tcp.tubbergen.nl
 acc.tubbergen.nl
 acceptatie-open.tubbergen.nl
 belastingportaal-test.tubbergen.nl
