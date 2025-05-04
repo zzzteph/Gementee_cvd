@@ -255,6 +255,7 @@ http://eloket.meppel.nl
 http://eloket.nijkerk.eu
 http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
+http://epos.staphorst.nl
 http://felix.aalten.nl
 http://felix.dalfsen.nl
 http://felix.deurne.nl
@@ -388,6 +389,7 @@ http://samenindebuurt.heerlen.nl
 http://sammy-acc.derondevenen.nl
 http://secure.dalfsen.nl
 http://sem.kampen.nl
+http://simcms-epos.staphorst.nl
 http://simcms-open.leudal.nl
 http://simcms-open.zoetermeer.nl
 http://simcms-preproductie.woensdrecht.nl
@@ -3065,7 +3067,6 @@ https://enzo.zoetermeer.nl
 https://enzobeheer.zoetermeer.nl
 https://eopenstad.gemeentewestland.nl
 https://epe.nl
-https://epos.staphorst.nl
 https://epp.denhaag.nl
 https://erfgoed.breda.nl
 https://erfgoed.gemert-bakel.nl
@@ -5551,6 +5552,7 @@ https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
 https://open.sonenbreugel.nl
+https://open.staphorst.nl
 https://open.teylingen.nl
 https://open.tubbergen.nl
 https://open.zoetermeer.nl
