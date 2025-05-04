@@ -475,7 +475,6 @@ http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://vergunningintaker.bernheze.org
-http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
 http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl

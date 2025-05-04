@@ -19,6 +19,7 @@ passbolt.terneuzen.nl
 preprod-mijninkomen.terneuzen.nl
 preprod.terneuzen.nl
 pv.terneuzen.nl
+raad.terneuzen.nl
 rmm.terneuzen.nl
 secure.terneuzen.nl
 sentry.terneuzen.nl

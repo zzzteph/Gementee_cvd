@@ -1,5 +1,4 @@
 http://autodiscover.terneuzen.nl
-http://vsp.terneuzen.nl
 https://accept-zaaksysteem.terneuzen.nl
 https://cryptshare.terneuzen.nl
 https://doemee.terneuzen.nl
