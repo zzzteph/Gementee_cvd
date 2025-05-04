@@ -29,6 +29,7 @@ https://gis-test.tilburg.nl
 https://gis.tilburg.nl
 https://gp-admin.tilburg.nl
 https://huisstijl.tilburg.nl
+https://id.trouwen.tilburg.nl
 https://intranet-ot.tilburg.nl
 https://intranet.tilburg.nl
 https://kaart.tilburg.nl
@@ -37,6 +38,7 @@ https://klantmodule.extranet.tilburg.nl
 https://liquitsatellite.tilburg.nl
 https://msoid.tilburg.nl
 https://ondertekenen.trouwen.tilburg.nl
+https://open-acceptatie.tilburg.nl
 https://printen.tilburg.nl
 https://publicaties.tilburg.nl
 https://reserveringen.tilburg.nl

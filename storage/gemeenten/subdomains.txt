@@ -6405,6 +6405,7 @@ id-subsidies-login.ede.nl
 id.amsterdam.nl
 id.dalfsen.nl
 id.krimpenerwaard.nl
+id.trouwen.tilburg.nl
 idcontact-accp.nijmegen.nl
 idee.roosendaal.nl
 ideevoormijnbuurt.emmen.nl
@@ -9168,6 +9169,7 @@ ooststellingwerf.nl
 oostzaan.nl
 oov.brievenbus.amsterdam.nl
 opa.amsterdam.nl
+open-acceptatie.tilburg.nl
 open-formulieren-test.horstaandemaas.nl
 open-formulieren-test.leeuwarden.nl
 open-formulieren-test.venray.nl

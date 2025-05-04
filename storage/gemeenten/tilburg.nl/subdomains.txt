@@ -42,6 +42,7 @@ gis.tilburg.nl
 gp-admin.tilburg.nl
 gp.tilburg.nl
 huisstijl.tilburg.nl
+id.trouwen.tilburg.nl
 intranet-ot.tilburg.nl
 intranet.tilburg.nl
 kaart.tilburg.nl
@@ -53,6 +54,7 @@ mail2.tilburg.nl
 msoid.tilburg.nl
 myprint.tilburg.nl
 ondertekenen.trouwen.tilburg.nl
+open-acceptatie.tilburg.nl
 ot1.tilburg.nl
 printen.tilburg.nl
 publicaties.tilburg.nl
