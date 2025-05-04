@@ -473,6 +473,7 @@ http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://twenterand.nl
+http://urk.nl
 http://vergunningintaker.bernheze.org
 http://vvb.sliedrecht.nl
 http://wadelse-acc.waddinxveen.nl
@@ -3164,6 +3165,7 @@ https://felix.sonenbreugel.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
+https://felix.urk.nl
 https://felix.valkenswaard.nl
 https://felix.veere.nl
 https://felix.vlissingen.nl
@@ -6595,7 +6597,6 @@ https://simcms.renswoude.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
-https://simcms.urk.nl
 https://simcms.veere.nl
 https://simcms.voorschoten.nl
 https://simcms.westerkwartier.nl
@@ -7292,7 +7293,6 @@ https://unjunk.krimpenerwaard.nl
 https://upk.afs.acc.amsterdam.nl
 https://upk.afs.amsterdam.nl
 https://ureka.utrecht.nl
-https://urk.nl
 https://urknet.urk.nl
 https://utrecht.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
@@ -8337,6 +8337,7 @@ https://www.udp-rspackage.denhaag.nl
 https://www.udp-rstudio.denhaag.nl
 https://www.uitgeest.nl
 https://www.uithoorn.nl
+https://www.urk.nl
 https://www.utrecht.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.v2.openstad.haarlemmermeer.nl
