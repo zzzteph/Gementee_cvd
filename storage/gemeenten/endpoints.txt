@@ -3522,6 +3522,7 @@ https://geo.wijkbijduurstede.nl
 https://geo.zeewolde.nl
 https://geobrowser.enschede.nl
 https://geocortex.middendrenthe.nl
+https://geodata-a.utrecht.nl
 https://geodata-acc.dijkenwaard.nl
 https://geodata-acc.voorst.nl
 https://geodata-acc.zutphen.nl
@@ -5006,7 +5007,6 @@ https://mijngeldzaken.nijmegen.nl
 https://mijngemeente.waddinxveen.nl
 https://mijngkb.groningen.nl
 https://mijngkb.midden-groningen.nl
-https://mijnhr.utrecht.nl
 https://mijnhulp-test.zaltbommel.nl
 https://mijnhulp.zaltbommel.nl
 https://mijnhulpbijschulden.acc.utrecht.nl

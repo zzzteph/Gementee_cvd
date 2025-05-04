@@ -69,6 +69,7 @@ cg-intern.ont.utrecht.nl
 cg-intern.utrecht.nl
 citycontrol-test.utrecht.nl
 citycontrol.utrecht.nl
+commonground.acc.utrecht.nl
 commonground.test.utrecht.nl
 commonground.utrecht.nl
 css.openstad.utrecht.nl
@@ -111,6 +112,7 @@ gezondleven.utrecht.nl
 gisib-a.utrecht.nl
 gisib.utrecht.nl
 gitea.cg-intern.acc.utrecht.nl
+grafana.cg-intern.acc.utrecht.nl
 grafana.team-contezza.cg-intern.acc.utrecht.nl
 grafana.team-frameless.cg-intern.acc.utrecht.nl
 grafana.team-huishoudboekje.cg-intern.acc.utrecht.nl
@@ -225,6 +227,7 @@ owa.utrecht.nl
 parkeerapp.acc.utrecht.nl
 parkeerapp.utrecht.nl
 parkeerhandhaving.utrecht.nl
+parkeerhandhavingtest.utrecht.nl
 parkeernormen.utrecht.nl
 parkeervergunningen.acc.utrecht.nl
 parkeervergunningen.utrecht.nl
@@ -280,8 +283,6 @@ tma.utrecht.nl
 tooltracker.utrecht.nl
 tty.cg-intern.acc.utrecht.nl
 ureka.utrecht.nl
-uren.utrecht.nl
-urenapp.utrecht.nl
 utrecht.nl
 vastgoedaanbod.utrecht.nl
 vault.cg-intern.acc.utrecht.nl

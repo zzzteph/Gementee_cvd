@@ -29,6 +29,7 @@ https://erfgoed.utrecht.nl
 https://fmreturn.dienstverlening.utrecht.nl
 https://fo-parkeervergunningen.acc.utrecht.nl
 https://fo-parkeervergunningen.utrecht.nl
+https://geodata-a.utrecht.nl
 https://geodata.utrecht.nl
 https://gezondleven.utrecht.nl
 https://gisib-a.utrecht.nl
@@ -50,7 +51,6 @@ https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
 https://mailer.utrecht.nl
 https://meldingen.utrecht.nl
-https://mijnhr.utrecht.nl
 https://mijnhulpbijschulden.acc.utrecht.nl
 https://mijnhulpbijschulden.utrecht.nl
 https://mijnloonkostensubsidie-acc.utrecht.nl

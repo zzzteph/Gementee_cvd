@@ -6185,6 +6185,7 @@ cg-intern.ont
 cg-intern
 citycontrol-test
 citycontrol
+commonground.acc
 commonground.test
 commonground
 cyclorama
@@ -6208,6 +6209,7 @@ geodata-a
 gezondleven
 gisib-a
 gitea.cg-intern.acc
+grafana.cg-intern.acc
 grafana.team-contezza.cg-intern.acc
 grafana.team-frameless.cg-intern.acc
 grafana.team-huishoudboekje.cg-intern.acc
@@ -6300,6 +6302,7 @@ open-zaak.cg-intern.ont
 opencost.cg-intern.acc
 otomi.cg-intern.acc
 parkeerhandhaving
+parkeerhandhavingtest
 pdc-api.cg-intern.acc
 pdc-api.cg-intern.ont
 pdc-api.cg-intern
@@ -6338,8 +6341,6 @@ tkrparkerentest
 tooltracker
 tty.cg-intern.acc
 ureka
-uren
-urenapp
 vastgoedaanbod
 vault.cg-intern.acc
 videobellenwsd
