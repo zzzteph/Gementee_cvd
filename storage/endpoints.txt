@@ -3163,6 +3163,7 @@ https://felix.ooststellingwerf.nl
 https://felix.renswoude.nl
 https://felix.sonenbreugel.nl
 https://felix.t-diel.nl
+https://felix.terschelling.nl
 https://felix.valkenswaard.nl
 https://felix.veere.nl
 https://felix.vlissingen.nl
@@ -6963,7 +6964,6 @@ https://telewerken.nederbetuwe.nl
 https://telewerken.stichtsevecht.nl
 https://telewerken.zaanstad.nl
 https://terneuzen.nl
-https://terschelling.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
@@ -8318,6 +8318,7 @@ https://www.stichtsevecht.nl
 https://www.sudwestfryslan.nl
 https://www.suikerkwartier.groningen.nl
 https://www.terneuzen.nl
+https://www.terschelling.nl
 https://www.test.denhaag.nl
 https://www.texel.nl
 https://www.teylingen.nl
