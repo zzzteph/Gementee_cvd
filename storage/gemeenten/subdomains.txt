@@ -7233,6 +7233,7 @@ klantcontact.lingewaard.nl
 klantcontact.loonopzand.nl
 klantcontact.nissewaard.nl
 klantcontact.opmeer.nl
+klantcontact.valkenswaard.nl
 klantcontact.veere.nl
 klantcontact.westmaasenwaal.nl
 klantcontact.wierden.nl

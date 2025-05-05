@@ -10,6 +10,7 @@ geo.valkenswaard.nl
 iburgerzaken.valkenswaard.nl
 ibzpink.valkenswaard.nl
 intranet.valkenswaard.nl
+klantcontact.valkenswaard.nl
 ons.valkenswaard.nl
 parkeeracties.valkenswaard.nl
 parkeernorm.valkenswaard.nl
