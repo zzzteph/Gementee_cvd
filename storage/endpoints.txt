@@ -866,6 +866,7 @@ https://acc.westerwolde.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://acc.woz-loket.harlingen.nl
 https://acc.zandvoort.nl
+https://acc.zorg.voerendaal.nl
 https://accept-zaaksysteem.denhelder.nl
 https://accept-zaaksysteem.terneuzen.nl
 https://accept.subsites.leiden.nl
