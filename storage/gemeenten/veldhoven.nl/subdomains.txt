@@ -28,6 +28,8 @@ testformulieren.veldhoven.nl
 veldhoven.nl
 vicky-stats.veldhoven.nl
 vicky-tv.veldhoven.nl
+vicky.veldhoven.nl
 vicky2.veldhoven.nl
 werkplek.veldhoven.nl
+woningbouwkaart.veldhoven.nl
 www.veldhoven.nl

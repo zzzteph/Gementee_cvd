@@ -94,12 +94,12 @@ connect
 osbacc
 siam
 financien
+woningbouwkaart
 extranet
 govroam
 pki
 test-cmsintranet
 portaal
-woningbouwkaart
 samen
 verkiezingen
 duurzaam
@@ -6417,6 +6417,7 @@ pdk
 tdk
 vicky-stats
 vicky-tv
+vicky
 vicky2
 djuma-mks-prd
 djuma-mks-tst

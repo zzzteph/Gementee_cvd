@@ -12996,6 +12996,7 @@ vianen.landvancuijk.nl
 vibe.rhenen.nl
 vicky-stats.veldhoven.nl
 vicky-tv.veldhoven.nl
+vicky.veldhoven.nl
 vicky2.veldhoven.nl
 vicrea.heuvelrug.nl
 victor.amsterdam.nl
@@ -13783,6 +13784,7 @@ woningbouwkaart.oirschot.nl
 woningbouwkaart.reuseldemierden.nl
 woningbouwkaart.sonenbreugel.nl
 woningbouwkaart.tynaarlo.nl
+woningbouwkaart.veldhoven.nl
 woningdossier.assen.nl
 woningzoeken.vlaardingen.nl
 woo-acc.denhaag.nl
