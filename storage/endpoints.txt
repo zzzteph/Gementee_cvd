@@ -3244,6 +3244,7 @@ https://flowmailer-tracking.leidschendam-voorburg.nl
 https://flowmailer-tracking.meppel.nl
 https://flowmailer-tracking.middelburg.nl
 https://flowmailer-tracking.parkeervergunning.leeuwarden.nl
+https://flowmailer-tracking.parkeervergunningen.waadhoeke.nl
 https://flowmailer-tracking.parkeren.zutphen.nl
 https://flowmailer-tracking.rijswijk.nl
 https://flowmailer-tracking.roermond.nl
@@ -7399,7 +7400,6 @@ https://victor.amsterdam.nl
 https://video.landvancuijk.nl
 https://videoafspraak.rotterdam.nl
 https://videobellen.utrecht.nl
-https://videobellen.waadhoeke.nl
 https://videobellenwsd.utrecht.nl
 https://videodocs.houten.nl
 https://vierdaagse.landvancuijk.nl

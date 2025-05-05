@@ -1208,7 +1208,6 @@ digitalebelastingbalie-test
 qmatic
 kofax
 egemeente
-videobellen
 nwro
 szc
 zwemmen
@@ -6343,6 +6342,7 @@ tty.cg-intern.acc
 ureka
 vastgoedaanbod
 vault.cg-intern.acc
+videobellen
 videobellenwsd
 webmailacc
 werkregelingen-acc
@@ -6534,6 +6534,7 @@ saas
 wegwijsplus
 www.wegwijsplus
 e.videobellen
+flowmailer-tracking.parkeervergunningen
 gebiedsteam
 squit2go-acc
 squit2go-beheer-acc

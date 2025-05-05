@@ -4956,6 +4956,7 @@ flowmailer-tracking.meppel.nl
 flowmailer-tracking.middelburg.nl
 flowmailer-tracking.oldenzaal.nl
 flowmailer-tracking.parkeervergunning.leeuwarden.nl
+flowmailer-tracking.parkeervergunningen.waadhoeke.nl
 flowmailer-tracking.parkeren.zutphen.nl
 flowmailer-tracking.rijswijk.nl
 flowmailer-tracking.roermond.nl
@@ -13009,7 +13010,6 @@ victor.amsterdam.nl
 video.landvancuijk.nl
 videoafspraak.rotterdam.nl
 videobellen.utrecht.nl
-videobellen.waadhoeke.nl
 videobellenwsd.utrecht.nl
 videodocs.houten.nl
 videogesprek.haarlem.nl
