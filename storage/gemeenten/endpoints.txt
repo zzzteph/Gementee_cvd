@@ -269,7 +269,6 @@ http://felix.nederweert.nl
 http://felix.scherpenzeel.nl
 http://felix.staphorst.nl
 http://felix.valkenswaard.nl
-http://felix.vlieland.nl
 http://felix.westmaasenwaal.nl
 http://flash.scherpenzeel.nl
 http://formulieren.edam-volendam.nl
@@ -408,7 +407,6 @@ http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
 http://simcms.sonenbreugel.nl
 http://simcms.valkenswaard.nl
-http://simcms.vlieland.nl
 http://simcms.wierden.nl
 http://simform-preproductie.t-diel.nl
 http://simform-preproductie.vlaardingen.nl
@@ -535,7 +533,6 @@ http://www.stadspas.venlo.nl
 http://www.stadstoezicht.amsterdam.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
-http://www.vlieland.nl
 http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
@@ -3170,6 +3167,7 @@ https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.urk.nl
+https://felix.vlieland.nl
 https://felix.vlissingen.nl
 https://felix.voorschoten.nl
 https://felix.westerkwartier.nl
@@ -6601,6 +6599,7 @@ https://simcms.renswoude.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
+https://simcms.vlieland.nl
 https://simcms.voorschoten.nl
 https://simcms.westerkwartier.nl
 https://simcms.zoetermeer.nl
