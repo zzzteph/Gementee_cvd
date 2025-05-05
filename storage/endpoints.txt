@@ -6985,7 +6985,6 @@ https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.sudwestfryslan.nl
-https://test-cmsintranet.velsen.nl
 https://test-cmsintranet.venlo.nl
 https://test-cmsintranet.zeist.nl
 https://test-cmsjip.vijfheerenlanden.nl
@@ -7011,7 +7010,6 @@ https://test-intranet.beuningen.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.sittard-geleen.nl
-https://test-intranet.velsen.nl
 https://test-intranet.wageningen.nl
 https://test-jip.vijfheerenlanden.nl
 https://test-kaartviewer.hoorn.nl
@@ -7077,6 +7075,7 @@ https://test.schiedam.nl
 https://test.stichtsevecht.nl
 https://test.subsites.leiden.nl
 https://test.utrecht.nl
+https://test.velsen.nl
 https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
 https://testbelastingbalie.hoorn.nl

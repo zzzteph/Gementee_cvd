@@ -12425,6 +12425,7 @@ test.utrecht.nl
 test.valkenburg.nl
 test.veendam.nl
 test.veere.nl
+test.velsen.nl
 test.vijfheerenlanden.nl
 test.voerendaal.nl
 test.waalre.nl

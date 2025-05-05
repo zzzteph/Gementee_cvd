@@ -33,6 +33,7 @@ telewerk.velsen.nl
 test-cmsintranet.velsen.nl
 test-intranet.velsen.nl
 test-ipa.velsen.nl
+test.velsen.nl
 testeloket.velsen.nl
 tijd.velsen.nl
 typo3.velsen.nl
