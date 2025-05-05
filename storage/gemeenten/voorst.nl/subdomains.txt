@@ -1,5 +1,6 @@
 acceptatie.voorst.nl
 adfs.voorst.nl
+autodiscover.voorst.nl
 bgt.voorst.nl
 cloudadapter.voorst.nl
 ctb.voorst.nl

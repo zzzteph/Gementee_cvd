@@ -1726,6 +1726,7 @@ autodiscover.vijfheerenlanden.nl
 autodiscover.vlaardingen.nl
 autodiscover.vlieland.nl
 autodiscover.voorschoten.nl
+autodiscover.voorst.nl
 autodiscover.vsp.nijmegen.nl
 autodiscover.vvd.haarlemmermeer.nl
 autodiscover.vvd.mookenmiddelaar.nl
