@@ -1194,9 +1194,7 @@ mijnwerkplek
 mijnpost
 analytics
 cloudconnector
-bibliotheek
 edison-opl
-www.bibliotheek
 oig
 webserver
 dis4fin
@@ -5515,6 +5513,7 @@ betaaltoolsorga
 bezettinggebouwen
 bezoek
 bezoekv2
+bibliotheek
 bodemvondsten
 cairo
 checklist
@@ -5705,6 +5704,7 @@ wise-web.bibliotheek
 wsone
 wsone2
 www.backup.crp
+www.bibliotheek
 www.bis
 www.crp
 www.gis
@@ -6488,12 +6488,13 @@ pki-test
 reject.dmarc
 test-cmsjip
 zaaksysteem-ontwikkeling
-aselect.bibliotheek
+authmfa
+authportal
 bagonline
 balie2
 balietest2
 formulieren-preproductie
-mail.tbv
+hcr
 mailarchief
 mailbackup
 minimi

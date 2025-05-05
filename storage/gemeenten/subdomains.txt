@@ -1409,7 +1409,6 @@ artiance.alkmaar.nl
 as.valkenburg.nl
 asd.purmerend.nl
 asde.ede.nl
-aselect.bibliotheek.vlaardingen.nl
 asp01.amsterdam.nl
 asp4all-1.amsterdam.nl
 assen.nl
@@ -1478,6 +1477,8 @@ authenticatiedienst.preprod.gemeentemaasgouw.nl
 authenticatiedienst.preprod.roerdalen.nl
 authenticatiedienst.roerdalen.nl
 authentication.gemeentehw.nl
+authmfa.vlaardingen.nl
+authportal.vlaardingen.nl
 authx.denhaag.nl
 authx1.denhaag.nl
 authx2.denhaag.nl
@@ -2353,7 +2354,6 @@ bi.amsterdam.nl
 bi.rhenen.nl
 bi.zorgned.voerendaal.nl
 bibliotheek.rotterdam.nl
-bibliotheek.vlaardingen.nl
 bibliotheekbenoordenhout.denhaag.nl
 bibob.brievenbus.amsterdam.nl
 biebcgi.utrecht.nl
@@ -5823,6 +5823,7 @@ haven.tst.sittard-geleen.nl
 haven.wageningen.nl
 havenkwartieraanzet.denhaag.nl
 hba.dpg.amsterdam.nl
+hcr.vlaardingen.nl
 hcs01.vaals.nl
 hcs02.vaals.nl
 healthyurbanliving.utrecht.nl
@@ -7770,7 +7771,6 @@ mail.sittard-geleen.nl
 mail.smallingerland.nl
 mail.someren.nl
 mail.stadskanaal.nl
-mail.tbv.vlaardingen.nl
 mail.veendam.nl
 mail.veenendaal.nl
 mail.veere.nl
@@ -14003,7 +14003,6 @@ www.bhv.sudwestfryslan.nl
 www.bi.rhenen.nl
 www.bia.amsterdam.nl
 www.bibliotheek.rotterdam.nl
-www.bibliotheek.vlaardingen.nl
 www.bibliotheekbenoordenhout.denhaag.nl
 www.bijmijindebuurt.gemeentewestland.nl
 www.bikecity.amsterdam.nl

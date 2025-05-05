@@ -1,16 +1,16 @@
 afspraak.vlaardingen.nl
-aselect.bibliotheek.vlaardingen.nl
+authmfa.vlaardingen.nl
+authportal.vlaardingen.nl
 autodiscover.vlaardingen.nl
 bagonline.vlaardingen.nl
 balie2.vlaardingen.nl
 balietest2.vlaardingen.nl
-bibliotheek.vlaardingen.nl
 digikoppeling.test.vlaardingen.nl
 digikoppeling.vlaardingen.nl
 erfpacht.vlaardingen.nl
 formulieren-preproductie.vlaardingen.nl
 formulieren.vlaardingen.nl
-mail.tbv.vlaardingen.nl
+hcr.vlaardingen.nl
 mail.vlaardingen.nl
 mailarchief.vlaardingen.nl
 mailbackup.vlaardingen.nl
@@ -34,7 +34,6 @@ vlaardingen.nl
 web.vlaardingen.nl
 werkplek.vlaardingen.nl
 woningzoeken.vlaardingen.nl
-www.bibliotheek.vlaardingen.nl
 www.vlaardingen.nl
 zaaksysteem-accept.vlaardingen.nl
 zoekpersoon.vlaardingen.nl
