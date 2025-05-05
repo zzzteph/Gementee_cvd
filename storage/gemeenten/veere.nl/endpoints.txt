@@ -5,7 +5,6 @@ https://brokersignicat-preprod.veere.nl
 https://brokersignicat-x509.veere.nl
 https://brokersignicat.veere.nl
 https://doemee.veere.nl
-https://felix.veere.nl
 https://formulieren-preprod.veere.nl
 https://formulieren.veere.nl
 https://ftrust.veere.nl
@@ -14,10 +13,9 @@ https://klantcontact.veere.nl
 https://lms.veere.nl
 https://login.veere.nl
 https://micollab.veere.nl
+https://mijn.veere.nl
 https://owa.veere.nl
 https://parkeren.veere.nl
-https://simcms.veere.nl
-https://simsite.veere.nl
 https://support.veere.nl
 https://tim-app.veere.nl
 https://vpsweb.veere.nl

@@ -3168,7 +3168,6 @@ https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.urk.nl
-https://felix.veere.nl
 https://felix.vlissingen.nl
 https://felix.voorschoten.nl
 https://felix.westerkwartier.nl
@@ -4970,6 +4969,7 @@ https://mijn.texel.nl
 https://mijn.tholen.nl
 https://mijn.urk.nl
 https://mijn.veenendaal.nl
+https://mijn.veere.nl
 https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
@@ -6599,7 +6599,6 @@ https://simcms.renswoude.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
-https://simcms.veere.nl
 https://simcms.voorschoten.nl
 https://simcms.westerkwartier.nl
 https://simcms.zoetermeer.nl
@@ -6625,7 +6624,6 @@ https://simsite.pekela.nl
 https://simsite.renswoude.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
-https://simsite.veere.nl
 https://simsite.westmaasenwaal.nl
 https://simsite.weststellingwerf.nl
 https://sint-agatha.landvancuijk.nl
