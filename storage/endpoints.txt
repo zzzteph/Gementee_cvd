@@ -331,7 +331,6 @@ http://mijn-preproductie.heerenveen.nl
 http://mijn.goeree-overflakkee.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
-http://mijn.voorschoten.nl
 http://mijn.zoetermeer.nl
 http://mijnsociaalportaal-acc.castricum.nl
 http://mijnwerkplek.schagen.nl
@@ -408,6 +407,7 @@ http://simcms.roerdalen.nl
 http://simcms.sonenbreugel.nl
 http://simcms.valkenswaard.nl
 http://simcms.vlissingen.nl
+http://simcms.voorschoten.nl
 http://simcms.wierden.nl
 http://simform-preproductie.t-diel.nl
 http://simform-preproductie.vlaardingen.nl
@@ -477,6 +477,7 @@ http://twenterand.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
 http://vlissingen.nl
+http://voorschoten.nl
 http://vvb.sliedrecht.nl
 http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
@@ -4973,6 +4974,7 @@ https://mijn.veere.nl
 https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
+https://mijn.voorschoten.nl
 https://mijn.voorst.nl
 https://mijn.waalre.nl
 https://mijn.wassenaar.nl
@@ -6601,16 +6603,15 @@ https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
 https://simcms.vlieland.nl
-https://simcms.voorschoten.nl
 https://simcms.westerkwartier.nl
 https://simcms.zoetermeer.nl
 https://simform-preproductie.gemeentehw.nl
+https://simform-preproductie.voorschoten.nl
 https://simform-preproductie.wassenaar.nl
 https://simform.achtkarspelen.nl
 https://simform.houten.nl
 https://simform.rijswijk.nl
 https://simform.vlissingen.nl
-https://simform.voorschoten.nl
 https://simsite.bergen.nl
 https://simsite.deurne.nl
 https://simsite.edam-volendam.nl
@@ -7423,7 +7424,6 @@ https://volg.amsterdam.nl
 https://voorjaarsnota.rijswijk.nl
 https://voorjaarsrapportage.haarlemmermeer.nl
 https://voorschool.almere.nl
-https://voorschoten.nl
 https://voorst.nl
 https://vortum-mullem.landvancuijk.nl
 https://vow.rotterdam.nl
@@ -8359,7 +8359,6 @@ https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
 https://www.voerendaal.nl
-https://www.voorschoten.nl
 https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl
 https://www.vught.nl
