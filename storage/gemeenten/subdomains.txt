@@ -103,6 +103,7 @@ _dmarc.helmond.nl
 _dmarc.leiden.nl
 _dmarc.nederweert.nl
 _dmarc.nieuwegein.nl
+_dmarc.vijfheerenlanden.nl
 _dmarc.zoeterwoude.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
@@ -10617,6 +10618,7 @@ reimerswaal.nl
 reinigingsrecht-acc.amsterdam.nl
 reinigingsrecht-online.amsterdam.nl
 reinigingsrecht-test.amsterdam.nl
+reject.dmarc.vijfheerenlanden.nl
 rekenkamer.amsterdam.nl
 rekenkamer.rotterdam.nl
 rekenkamer.utrecht.nl

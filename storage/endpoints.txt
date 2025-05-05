@@ -447,6 +447,7 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsintranet.wageningen.nl
+http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
@@ -460,6 +461,7 @@ http://test-intranet.midden-groningen.nl
 http://test-intranet.sudwestfryslan.nl
 http://test-intranet.venlo.nl
 http://test-intranet.zeist.nl
+http://test-jip.vijfheerenlanden.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
@@ -6987,7 +6989,6 @@ https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.venlo.nl
 https://test-cmsintranet.zeist.nl
-https://test-cmsjip.vijfheerenlanden.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssocial.montferland.info
 https://test-cmsurknet.urk.nl
@@ -7011,7 +7012,6 @@ https://test-intranet.heuvelrug.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.sittard-geleen.nl
 https://test-intranet.wageningen.nl
-https://test-jip.vijfheerenlanden.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
