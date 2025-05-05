@@ -407,6 +407,7 @@ http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
 http://simcms.sonenbreugel.nl
 http://simcms.valkenswaard.nl
+http://simcms.vlissingen.nl
 http://simcms.wierden.nl
 http://simform-preproductie.t-diel.nl
 http://simform-preproductie.vlaardingen.nl
@@ -416,7 +417,6 @@ http://simform.gemeentehw.nl
 http://simform.gemeentemaasgouw.nl
 http://simform.heerenveen.nl
 http://simform.t-diel.nl
-http://simform.vlissingen.nl
 http://simform.wassenaar.nl
 http://simsite.beekdaelen.nl
 http://simsite.cranendonck.nl
@@ -476,6 +476,7 @@ http://ttgbav-test.gemeente-steenbergen.nl
 http://twenterand.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
+http://vlissingen.nl
 http://vvb.sliedrecht.nl
 http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
@@ -3168,7 +3169,6 @@ https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.urk.nl
 https://felix.vlieland.nl
-https://felix.vlissingen.nl
 https://felix.voorschoten.nl
 https://felix.westerkwartier.nl
 https://felix.weststellingwerf.nl
@@ -3476,7 +3476,6 @@ https://gemeenteraad.rotterdam.nl
 https://gemeenteraad.soest.nl
 https://gemeenteraad.stadskanaal.nl
 https://gemeenteraad.venlo.nl
-https://gemeenteraad.vlissingen.nl
 https://gemeenteraad.vught.nl
 https://gemeenteraad.weert.nl
 https://gemeenteraad.westbetuwe.nl
@@ -4190,6 +4189,7 @@ https://intranet.utrecht.nl
 https://intranet.valkenburg.nl
 https://intranet.velsen.nl
 https://intranet.venlo.nl
+https://intranet.vlissingen.nl
 https://intranet.waalwijk.nl
 https://intranet.wageningen.nl
 https://intranet.waterland.nl
@@ -6608,6 +6608,7 @@ https://simform-preproductie.wassenaar.nl
 https://simform.achtkarspelen.nl
 https://simform.houten.nl
 https://simform.rijswijk.nl
+https://simform.vlissingen.nl
 https://simform.voorschoten.nl
 https://simsite.bergen.nl
 https://simsite.deurne.nl
@@ -7413,7 +7414,6 @@ https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://vlaardingen.nl
 https://vlieland.nl
-https://vlissingen.nl
 https://vluchtelingen.zaanstad.nl
 https://voerendaal.nl
 https://voice.leudal.nl
@@ -8357,7 +8357,6 @@ https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
-https://www.vlissingen.nl
 https://www.voerendaal.nl
 https://www.voorschoten.nl
 https://www.voorst.nl

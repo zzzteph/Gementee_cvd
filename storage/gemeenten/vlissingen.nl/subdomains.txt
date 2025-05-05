@@ -10,6 +10,7 @@ gemeenteraad.vlissingen.nl
 ggk-koppeling.vlissingen.nl
 iburgerzaken.vlissingen.nl
 ibzpink.vlissingen.nl
+intranet.vlissingen.nl
 meld.vlissingen.nl
 parkeren-acc.vlissingen.nl
 parkeren.vlissingen.nl

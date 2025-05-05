@@ -6767,6 +6767,7 @@ intranet.valkenswaard.nl
 intranet.veere.nl
 intranet.velsen.nl
 intranet.venlo.nl
+intranet.vlissingen.nl
 intranet.voerendaal.nl
 intranet.waadhoeke.nl
 intranet.waalwijk.nl
