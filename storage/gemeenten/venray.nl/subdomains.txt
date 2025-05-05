@@ -7,6 +7,7 @@ belastingen.venray.nl
 bestanden.venray.nl
 cmsoo.venray.nl
 eloket.venray.nl
+ftp.venray.nl
 gt-loket.venray.nl
 hulpwijzer.venray.nl
 iburgerzaken.venray.nl

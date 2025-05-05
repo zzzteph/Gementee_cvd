@@ -134,6 +134,7 @@ inloggen
 contentbeheer
 begroting
 e
+ftp
 gisib
 izaaksuite
 subsidies
@@ -155,7 +156,6 @@ jaarstukken
 connect.acceptatie
 cryptshare
 belastingportaal
-ftp
 maps
 acc-contact
 acc-keycloak

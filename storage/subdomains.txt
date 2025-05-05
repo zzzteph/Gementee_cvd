@@ -5178,6 +5178,7 @@ ftp.ruimtelijkeplannen.amsterdam.nl
 ftp.sociaal.amsterdam.nl
 ftp.sudwestfryslan.nl
 ftp.tilburg.nl
+ftp.venray.nl
 ftp.wpiweb.brievenbus.amsterdam.nl
 ftpes.westmaasenwaal.nl
 ftps.ggd.amsterdam.nl
