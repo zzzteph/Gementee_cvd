@@ -28,5 +28,7 @@ https://pre-mijnzorg.waalwijk.nl
 https://remote.waalwijk.nl
 https://sporten.waalwijk.nl
 https://test-paswijzer.waalwijk.nl
+https://waalwijk.nl
 https://webmail.waalwijk.nl
+https://www.waalwijk.nl
 https://zwemmen.waalwijk.nl

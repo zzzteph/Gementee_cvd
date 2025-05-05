@@ -7470,6 +7470,7 @@ https://waadhoeke.nl
 https://waalre.nl
 https://waalsprong.acc.nijmegen.nl
 https://waalsprong.nijmegen.nl
+https://waalwijk.nl
 https://waardwijzer.krimpenerwaard.nl
 https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
@@ -8366,6 +8367,7 @@ https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl
 https://www.waadhoeke.nl
 https://www.waalre.nl
+https://www.waalwijk.nl
 https://www.waddenland.groningen.nl
 https://www.waddinxveen.nl
 https://www.wageningen.nl
