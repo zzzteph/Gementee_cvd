@@ -2385,6 +2385,7 @@ bis.houten.nl
 bis.rotterdam.nl
 bis.tilburg.nl
 bis.venlo.nl
+bis.zaanstad.nl
 bis.zwolle.nl
 bisgemeenteraad.oegstgeest.nl
 bl-vms0021.ggd.amsterdam.nl
@@ -8357,6 +8358,7 @@ mijnloket.vlaardingen.nl
 mijnloonkostensubsidie-acc.utrecht.nl
 mijnloonkostensubsidie.utrecht.nl
 mijnmail.zaanstad.nl
+mijnmailv3.zaanstad.nl
 mijnmobiel.gemeentebeek.nl
 mijnmobiel.hillegom.nl
 mijnmobiel.oa.amsterdam.nl
@@ -8802,7 +8804,6 @@ nieuwsbrieven.hengelo.nl
 nieuwsbrieven.utrecht.nl
 nieuwsbrieven.zwolle.nl
 nieuwwest.amsterdam.nl
-nieuwzaansklimaat.zaanstad.nl
 nige.denhaag.nl
 nijkerk.eu
 nijmegen.nl
@@ -9097,6 +9098,7 @@ ommen.nl
 omslagroute.amsterdam.nl
 onboarden.haarlemmermeer.nl
 onboardingambulancezorg.denhaag.nl
+onderhoud.zaanstad.nl
 onderhoudspagina.amsterdam.nl
 ondernemen.ede.nl
 ondernemen.landvancuijk.nl
