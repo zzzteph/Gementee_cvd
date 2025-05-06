@@ -1,4 +1,3 @@
-http://open.wierden.nl
 http://simcms.wierden.nl
 http://wierden.nl
 https://eloket.wierden.nl
@@ -6,6 +5,8 @@ https://filecap.wierden.nl
 https://gemeentearchief.wierden.nl
 https://iburgerzaken.wierden.nl
 https://klantcontact.wierden.nl
+https://open.wierden.nl
+https://preproductie.wierden.nl
 https://restore.wierden.nl
 https://simcms-open.wierden.nl
 https://testeloket.wierden.nl
