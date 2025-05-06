@@ -1,10 +1,8 @@
 http://diensten.westmaasenwaal.nl
-http://felix.westmaasenwaal.nl
-http://preproductie.westmaasenwaal.nl
+https://felix.westmaasenwaal.nl
 https://klantcontact.westmaasenwaal.nl
 https://remote.westmaasenwaal.nl
 https://simsite.westmaasenwaal.nl
 https://testsim.westmaasenwaal.nl
 https://vdi.westmaasenwaal.nl
 https://westmaasenwaal.nl
-https://www.westmaasenwaal.nl

@@ -233,6 +233,7 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 jongin
+www.jongin
 archief
 acceptatie-open
 belastingbalie-test
@@ -263,7 +264,6 @@ support
 data-test
 www.gemeenteraad
 xential
-www.jongin
 erfgoed
 citrix
 key2gbav
