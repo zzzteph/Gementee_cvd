@@ -4891,6 +4891,7 @@ https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
 https://mijn-gemeenteloket.gemeentemaastricht.nl
 https://mijn-preproductie.westerkwartier.nl
+https://mijn-preproductie.weststellingwerf.nl
 https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
 https://mijn-test.veenendaal.nl
@@ -4983,7 +4984,6 @@ https://mijn.wassenaar.nl
 https://mijn.waterland.nl
 https://mijn.westerkwartier.nl
 https://mijn.westerwolde.nl
-https://mijn.weststellingwerf.nl
 https://mijn.wijkbijduurstede.nl
 https://mijn.zaltbommel.nl
 https://mijn.zeist.nl
@@ -6604,6 +6604,7 @@ https://simcms.staphorst.nl
 https://simcms.terschelling.nl
 https://simcms.vlieland.nl
 https://simcms.westerkwartier.nl
+https://simcms.weststellingwerf.nl
 https://simcms.zoetermeer.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-preproductie.voorschoten.nl
@@ -6628,7 +6629,6 @@ https://simsite.renswoude.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
 https://simsite.westmaasenwaal.nl
-https://simsite.weststellingwerf.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sint-michielsgestel.nl
