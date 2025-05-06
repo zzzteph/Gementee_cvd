@@ -612,7 +612,6 @@ cloudadapter-t
 vsp
 burgerloket.acceptatie
 allegroweb
-forms
 haven
 staging
 winkelen
@@ -941,6 +940,7 @@ scim
 binnenstad
 cms.openstad
 devapps3
+forms
 jongerenloket
 pop
 www.staging
