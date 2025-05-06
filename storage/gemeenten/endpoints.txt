@@ -455,7 +455,6 @@ http://test-intranet.midden-groningen.nl
 http://test-intranet.sudwestfryslan.nl
 http://test-intranet.venlo.nl
 http://test-intranet.wageningen.nl
-http://test-intranet.zeist.nl
 http://test-jip.vijfheerenlanden.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
@@ -6994,7 +6993,6 @@ https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.venlo.nl
 https://test-cmsintranet.wageningen.nl
-https://test-cmsintranet.zeist.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssocial.montferland.info
 https://test-cmsurknet.urk.nl

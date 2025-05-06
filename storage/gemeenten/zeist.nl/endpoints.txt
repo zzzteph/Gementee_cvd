@@ -1,5 +1,4 @@
 http://autodiscover.zeist.nl
-http://test-intranet.zeist.nl
 https://afspraak.zeist.nl
 https://beeldbank-bo.zeist.nl
 https://beeldbank.zeist.nl
@@ -9,7 +8,6 @@ https://edienstenburgerzaken.zeist.nl
 https://enterpriseregistration.zeist.nl
 https://intranet.zeist.nl
 https://mijn.zeist.nl
-https://test-cmsintranet.zeist.nl
 https://veiligdelen.zeist.nl
 https://webmail.zeist.nl
 https://welkom.zeist.nl
