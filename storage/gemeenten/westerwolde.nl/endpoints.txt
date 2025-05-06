@@ -1,11 +1,11 @@
 http://autodiscover.westerwolde.nl
+http://cmsintranet.westerwolde.nl
+http://cmstestintranet.westerwolde.nl
 http://testintranet.westerwolde.nl
 https://acc.westerwolde.nl
 https://afspraken.westerwolde.nl
 https://bag-vwes11.westerwolde.nl
 https://bewustwording.westerwolde.nl
-https://cmsintranet.westerwolde.nl
-https://cmstestintranet.westerwolde.nl
 https://dds-vwes21.westerwolde.nl
 https://duoloket.westerwolde.nl
 https://e.bewustwording.westerwolde.nl

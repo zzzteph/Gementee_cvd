@@ -235,7 +235,9 @@ http://cmsflash.scherpenzeel.nl
 http://cmshuisnettest.nieuwegein.nl
 http://cmsinsite.houten.nl
 http://cmsintranet.etten-leur.nl
+http://cmsintranet.westerwolde.nl
 http://cmssocialintranet.middendelfland.nl
+http://cmstestintranet.westerwolde.nl
 http://connect.acceptatie.goirle.nl
 http://crl.denhaag.nl
 http://dalfsen.nl
@@ -2099,7 +2101,6 @@ https://cmsintranet.sudwestfryslan.nl
 https://cmsintranet.velsen.nl
 https://cmsintranet.venlo.nl
 https://cmsintranet.wageningen.nl
-https://cmsintranet.westerwolde.nl
 https://cmsintranet.wijdemeren.nl
 https://cmsintranet.zeist.nl
 https://cmsjip.hofvantwente.nl
@@ -2140,7 +2141,6 @@ https://cmsoo.zwolle.nl
 https://cmssamenatwork.stichtsevecht.nl
 https://cmssocial.montferland.info
 https://cmstest-insite.nijmegen.nl
-https://cmstestintranet.westerwolde.nl
 https://cmsurknet.urk.nl
 https://cmswhatsepe.epe.nl
 https://cmszaanzoeker.zaanstad.nl
