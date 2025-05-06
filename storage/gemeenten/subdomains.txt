@@ -2585,7 +2585,6 @@ buurtbudgetzuid.amsterdam.nl
 buurtbudgetzuidoost.amsterdam.nl
 buurthuisvandetoekomst.denhaag.nl
 buurtkijker.deventer.nl
-buytenweghdeleyens.zoetermeer.nl
 bvdi.utrecht.nl
 bwr.amsterdam.nl
 bwrmail.bwr.amsterdam.nl
@@ -2665,7 +2664,6 @@ centric.doesburg.nl
 centric.doetinchem.nl
 centrum.amsterdam.nl
 centrum.heerlen.nl
-centrum.zoetermeer.nl
 centrumbegroot.alphenaandenrijn.nl
 centrumbegroot.amsterdam.nl
 centrumimpuls.geldrop-mierlo.nl
@@ -7973,7 +7971,6 @@ meedoen.waalwijk.nl
 meedoenregeling.dongen.nl
 meent.alkmaar.nl
 meerssen.nl
-meerzicht.zoetermeer.nl
 meet.acc.amsterdam.nl
 meet.assen.nl
 meet.ede.nl
@@ -8840,7 +8837,6 @@ noord-beveland.nl
 noord.amsterdam.nl
 noorderkwartier.zwolle.nl
 noorderparkbad.amsterdam.nl
-noordhoveseghwaert.zoetermeer.nl
 noordoostpolder.nl
 noordwestbegroot.utrecht.nl
 noordwijk.nl
@@ -9173,7 +9169,6 @@ oorlogenvrede.landvancuijk.nl
 oos.urk.nl
 oos2.urk.nl
 oostbegroot.amsterdam.nl
-oosterheem.zoetermeer.nl
 oosterhout.nl
 oostgelre.nl
 ooststellingwerf.nl
@@ -10731,7 +10726,6 @@ roerdalen-checker.roerdalen.nl
 roerdalen.nl
 roermond.nl
 rokinintranet.amsterdam.nl
-rokkeveen.zoetermeer.nl
 roles.datapunt.amsterdam.nl
 rom.authenticatie.alkmaar.nl
 rondleidingen.landvancuijk.nl
@@ -12682,6 +12676,7 @@ topdesk.leeuwarden.nl
 topdesk.sittard-geleen.nl
 topdesk.sudwestfryslan.nl
 topdesk.venlo.nl
+topdesk.zoetermeer.nl
 topdesk.zwolle.nl
 topdesktest.sudwestfryslan.nl
 topicus.sudwestfryslan.nl

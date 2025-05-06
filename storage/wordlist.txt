@@ -235,6 +235,7 @@ preprod-mijnsociaalplein
 jongin
 www.jongin
 archief
+topdesk
 acceptatie-open
 belastingbalie-test
 bestanden
@@ -267,7 +268,6 @@ xential
 erfgoed
 citrix
 key2gbav
-topdesk
 filetransfer
 woz-portaal
 en
@@ -527,7 +527,6 @@ applicaties
 belastingbalie-acc
 belastingbalie.acc
 bouwdossiers
-centrum
 dataportaal
 edison-acc
 ggd
@@ -764,6 +763,7 @@ berichtverkeer
 bi
 burgerzaken
 buurtbudget
+centrum
 docgen
 erfpacht
 fileshare
@@ -6773,7 +6773,6 @@ acctest
 zs-accept
 aiz
 beeldbellen
-buytenweghdeleyens
 enzo
 enzobeheer
 horizon
@@ -6781,11 +6780,7 @@ inwonerportaal-test
 inwonerportaal
 lliam-test
 lliam
-meerzicht
-noordhoveseghwaert
-oosterheem
 opendata-contrast
-rokkeveen
 simcms-raad
 stadsatlas-contrast
 stadsatlas
