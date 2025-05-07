@@ -283,12 +283,14 @@ http://geo.roermond.nl
 http://geocortex.krimpenerwaard.nl
 http://geoportal.weert.nl
 http://goeree-overflakkee.nl
+http://goud.almere.nl
 http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://helloid.sittard-geleen.nl
 http://heumen.nl
 http://heuvelrug.nl
 http://historie.venlo.nl
+http://hout.almere.nl
 http://htb-test.gemeente-steenbergen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
@@ -343,6 +345,7 @@ http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nieuwkoop.nl
+http://oens.almere.nl
 http://omgevingswet.bronckhorst.nl
 http://ooststellingwerf.nl
 http://opendata-contrast.zoetermeer.nl
@@ -433,9 +436,11 @@ http://smtp.moerdijk.nl
 http://smtp.tholen.nl
 http://socialintranet.middendelfland.nl
 http://sportaccommodaties.nissewaard.nl
+http://sportsupport.almere.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
 http://sslvpn.haarlem.nl
+http://stadsarchief.almere.nl
 http://stadspas.weert.nl
 http://subsites.amsterdam.nl
 http://t-diel.nl
@@ -3654,7 +3659,6 @@ https://goirle.nl
 https://googleauth.gemeentemaastricht.nl
 https://gooisemeren.nl
 https://gorinchem.nl
-https://goud.almere.nl
 https://gouda.nl
 https://govpub.sudwestfryslan.nl
 https://gp-admin.tilburg.nl
@@ -3765,7 +3769,6 @@ https://hor.denhaag.nl
 https://horizon.zoetermeer.nl
 https://horizonvdi.haarlem.nl
 https://horstaandemaas.nl
-https://hout.almere.nl
 https://houten.nl
 https://houtwijkbegroot.denhaag.nl
 https://hrplus.rotterdam.nl
@@ -5405,7 +5408,6 @@ https://oeffelt.landvancuijk.nl
 https://oegstgeest.nl
 https://oekraine.zaanstad.nl
 https://oemojz.amsterdam.nl
-https://oens.almere.nl
 https://ogc.data.amsterdam.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
@@ -6762,7 +6764,6 @@ https://sportencultuur.gorinchem.nl
 https://sportief.middendrenthe.nl
 https://sportlocaties.nieuwegein.nl
 https://sportloket.landvancuijk.nl
-https://sportsupport.almere.nl
 https://sportverhuur.amsterdam.nl
 https://sportverhuur.emmen.nl
 https://spotler.mailing.landvancuijk.nl
@@ -6788,7 +6789,6 @@ https://stad.kampen.nl
 https://stadhuis.groningen.nl
 https://stadjerspas-acc.gemeente.groningen.nl
 https://stadjerspas.gemeente.groningen.nl
-https://stadsarchief.almere.nl
 https://stadsarchief.breda.nl
 https://stadsarchief.rotterdam.nl
 https://stadsatlas-contrast.zoetermeer.nl
