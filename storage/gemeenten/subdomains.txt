@@ -758,6 +758,7 @@ admanager.zaaksysteem.eindhoven.nl
 admin-acc.datapunt.amsterdam.nl
 admin.bereikbaarheid.amsterdam.nl
 admin.data.amsterdam.nl
+admin.doemee.assen.nl
 admin.doemee.bloemendaal.nl
 admin.doemee.gemeentewestland.nl
 admin.doemee.zwolle.nl
@@ -1191,6 +1192,7 @@ api.data.leiden.nl
 api.dataportaal.amsterdam.nl
 api.denhaag.nl
 api.design.hoorn.nl
+api.doemee.assen.nl
 api.doemee.bloemendaal.nl
 api.doemee.gemeentewestland.nl
 api.doemee.zwolle.nl
@@ -1446,6 +1448,7 @@ auth.apeldoorn.nl
 auth.cg-intern.acc.utrecht.nl
 auth.darwin.tilburg.nl
 auth.denhaag.nl
+auth.doemee.assen.nl
 auth.doemee.bloemendaal.nl
 auth.doemee.gemeentewestland.nl
 auth.doemee.zwolle.nl
@@ -2983,6 +2986,7 @@ consent.sarphati.amsterdam.nl
 consul-tst.groningen.nl
 consul.midden-groningen.nl
 contact.antwoord.amsterdam.nl
+contact.assen.nl
 contact.enschede.nl
 contact.gemeente-oldambt.nl
 contact.gemert-bakel.nl
@@ -3872,6 +3876,7 @@ docwerker.amsterdam.nl
 doe-mee-test.coevorden.nl
 doe-mee.coevorden.nl
 doemee-test.emmen.nl
+doemee.assen.nl
 doemee.bloemendaal.nl
 doemee.denhaag.nl
 doemee.deventer.nl
@@ -4051,6 +4056,7 @@ e-tstsys.dordrecht.nl
 e-vita.ggd.rotterdam.nl
 e.achtkarspelen.nl
 e.almelo.nl
+e.assen.nl
 e.bewustwording.gemeentestein.nl
 e.bewustwording.westerwolde.nl
 e.borger-odoorn.nl
@@ -6513,6 +6519,7 @@ images.data.amsterdam.nl
 images.openstad.alphenaandenrijn.nl
 images.openstad.utrecht.nl
 imarkt.utrecht.nl
+img.doemee.assen.nl
 img.doemee.bloemendaal.nl
 img.doemee.gemeentewestland.nl
 img.doemee.zwolle.nl
@@ -7199,6 +7206,7 @@ key2parkeren.utrecht.nl
 key2percelen.haarlemmermeer.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
 keycloak-adm.denhaag.nl
+keycloak-admin.assen.nl
 keycloak-zgw.acc.denhaag.nl
 keycloak-zgw.test.denhaag.nl
 keycloak.acc.denhaag.nl
@@ -14147,6 +14155,7 @@ www.dmo.amsterdam.nl
 www.dmo2.amsterdam.nl
 www.docu.zandvoort.nl
 www.doe-mee.coevorden.nl
+www.doemee.assen.nl
 www.doemee.bloemendaal.nl
 www.doemee.denhaag.nl
 www.doemee.deventer.nl
@@ -15178,6 +15187,7 @@ zaanlinkcms.zaanstad.nl
 zaanstad.nl
 zaanzoeker.zaanstad.nl
 zac-lite.cg-intern.acc.utrecht.nl
+zac.assen.nl
 zac.cg-intern.acc.utrecht.nl
 zac.cg-intern.ont.utrecht.nl
 zac.cg-intern.utrecht.nl
