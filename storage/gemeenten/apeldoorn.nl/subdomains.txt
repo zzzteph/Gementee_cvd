@@ -3,6 +3,7 @@
 2connect.apeldoorn.nl
 Top.apeldoorn.nl
 adiko.apeldoorn.nl
+admin.openstad.apeldoorn.nl
 adp.apeldoorn.nl
 adpa.apeldoorn.nl
 adpt.apeldoorn.nl
@@ -13,14 +14,17 @@ amo.apeldoorn.nl
 apeldoorn.nl
 api.meldingen-acc.apeldoorn.nl
 api.meldingen.apeldoorn.nl
+api.openstad.apeldoorn.nl
 atijdschrijven.apeldoorn.nl
 atlas.apeldoorn.nl
 atlasacc.apeldoorn.nl
 auth.apeldoorn.nl
+auth.openstad.apeldoorn.nl
 autodiscover.apeldoorn.nl
 bewegen.apeldoorn.nl
 cc.apeldoorn.nl
 cctst.apeldoorn.nl
+cms.openstad.apeldoorn.nl
 crypt.apeldoorn.nl
 cryptacc.apeldoorn.nl
 csp-report.apeldoorn.nl
@@ -48,6 +52,7 @@ gpg.apeldoorn.nl
 gpt.apeldoorn.nl
 iburgerzaken.apeldoorn.nl
 ibzpink.apeldoorn.nl
+img.openstad.apeldoorn.nl
 intranet.apeldoorn.nl
 intranetacc.apeldoorn.nl
 kinderburgemeester.apeldoorn.nl
@@ -95,5 +100,6 @@ uitvaartagenda.apeldoorn.nl
 www.apeldoorn.nl
 www.energiepunt.apeldoorn.nl
 www.matenpark.apeldoorn.nl
+www.openstad.apeldoorn.nl
 www.prijsvraag-zwembad.apeldoorn.nl
 www.stadspas.apeldoorn.nl

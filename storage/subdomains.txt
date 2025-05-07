@@ -764,6 +764,7 @@ admin.doemee.zwolle.nl
 admin.gezondleven.utrecht.nl
 admin.haarlemmermeer.nl
 admin.open.ede.nl
+admin.openstad.apeldoorn.nl
 admin.openstad.deventer.nl
 admin.openstad.enschede.nl
 admin.openstad.gemeentewestland.nl
@@ -1288,6 +1289,7 @@ api.meldingen.zaanstad.nl
 api.meldingen.zoeterwoude.nl
 api.meldingen.zundert.nl
 api.openstad.alphenaandenrijn.nl
+api.openstad.apeldoorn.nl
 api.openstad.deventer.nl
 api.openstad.enschede.nl
 api.openstad.gemeentewestland.nl
@@ -1455,6 +1457,7 @@ auth.leeuwarden.nl
 auth.lelystad.nl
 auth.meppel.nl
 auth.nijkerk.eu
+auth.openstad.apeldoorn.nl
 auth.openstad.deventer.nl
 auth.openstad.enschede.nl
 auth.openstad.gemeentewestland.nl
@@ -2810,6 +2813,7 @@ cms.alphenaandenrijn.nl
 cms.bernheze.org
 cms.dordrecht.nl
 cms.gemeentewestland.nl
+cms.openstad.apeldoorn.nl
 cms.openstad.deventer.nl
 cms.openstad.nijmegen.nl
 cms.rotterdam.nl
@@ -6512,6 +6516,7 @@ imarkt.utrecht.nl
 img.doemee.bloemendaal.nl
 img.doemee.gemeentewestland.nl
 img.doemee.zwolle.nl
+img.openstad.apeldoorn.nl
 img.openstad.deventer.nl
 img.openstad.enschede.nl
 img.openstad.gemeentewestland.nl
@@ -14617,6 +14622,7 @@ www.open-notificaties.ot.denhaag.nl
 www.open-zaak.ot.denhaag.nl
 www.open.amsterdam.nl
 www.open.rhenen.nl
+www.openstad.apeldoorn.nl
 www.openstad.deventer.nl
 www.openstad.gemeentewestland.nl
 www.openstad.haarlemmermeer.nl

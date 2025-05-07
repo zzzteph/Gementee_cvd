@@ -219,6 +219,7 @@ wachtwoord
 subsidies-backend
 thuiswerken
 website
+api.openstad
 gemeentearchief
 _dmarc
 desktop
@@ -252,7 +253,6 @@ simform-preproductie
 praatmee
 subsidie
 melddesk
-api.openstad
 cms
 exchange
 m
@@ -260,6 +260,7 @@ werkenvoor
 parkeervergunningen
 woz
 www.acc
+admin.openstad
 openstad
 meet
 support
@@ -291,6 +292,8 @@ magazine
 ns
 wion
 www.test
+auth.openstad
+img.openstad
 ns1
 rooster
 sslvpn
@@ -307,7 +310,6 @@ omgevingswet
 dkdtest
 test-secure
 woz-loket
-admin.openstad
 eformulieren
 squit2020.acceptatie
 academie
@@ -342,6 +344,7 @@ parkeervergunning
 services
 gbi
 mijngeldzaken
+www.openstad
 dialin
 test-formulier
 test-mijn
@@ -376,8 +379,6 @@ sport
 burgerloket
 mijnzaken
 ondernemersloket
-auth.openstad
-img.openstad
 openformulieren-test
 webservices
 socialekaart
@@ -454,7 +455,6 @@ test.digikoppeling
 filr
 intra
 mijnloket
-www.openstad
 parkeeracties
 parkeren-siam-test
 parkeren-siam
@@ -546,6 +546,7 @@ top
 wob
 www.rekenkamer
 www.ruimtelijkeplannen
+cms.openstad
 digitaleplannen
 parkeerapp
 smartdoc
@@ -941,7 +942,6 @@ rdweb
 sbc
 scim
 binnenstad
-cms.openstad
 devapps3
 forms
 jongerenloket

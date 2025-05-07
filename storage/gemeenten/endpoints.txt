@@ -470,7 +470,6 @@ http://test-intranet.wageningen.nl
 http://test-jip.vijfheerenlanden.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
-http://test-topvorm.apeldoorn.nl
 http://test.website.westland.gemeentewestland.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
@@ -994,6 +993,7 @@ https://admin.doemee.gemeentewestland.nl
 https://admin.doemee.zwolle.nl
 https://admin.gezondleven.utrecht.nl
 https://admin.open.ede.nl
+https://admin.openstad.apeldoorn.nl
 https://admin.openstad.deventer.nl
 https://admin.openstad.enschede.nl
 https://admin.openstad.gemeentewestland.nl
@@ -1198,7 +1198,6 @@ https://aov.groningen.nl
 https://aov.helmond.nl
 https://aov.smallingerland.nl
 https://aovpn.bergen.nl
-https://apeldoorn.nl
 https://apex.almere.nl
 https://api-acc.breda.nl
 https://api-acceptatie.tilburg.nl
@@ -1329,6 +1328,7 @@ https://api.meldingen.zaanstad.nl
 https://api.meldingen.zoeterwoude.nl
 https://api.meldingen.zundert.nl
 https://api.openstad.alphenaandenrijn.nl
+https://api.openstad.apeldoorn.nl
 https://api.openstad.deventer.nl
 https://api.openstad.enschede.nl
 https://api.openstad.gemeentewestland.nl
@@ -1427,6 +1427,7 @@ https://auth.gemeentehw.nl
 https://auth.gemeentestein.nl
 https://auth.lelystad.nl
 https://auth.meppel.nl
+https://auth.openstad.apeldoorn.nl
 https://auth.openstad.deventer.nl
 https://auth.openstad.enschede.nl
 https://auth.openstad.gemeentewestland.nl
@@ -2094,6 +2095,7 @@ https://cms-intranet.eemsdelta.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
 https://cms.dordrecht.nl
+https://cms.openstad.apeldoorn.nl
 https://cms.openstad.deventer.nl
 https://cms.openstad.nijmegen.nl
 https://cms.zaanstad.nl
@@ -4076,6 +4078,7 @@ https://imarkt.utrecht.nl
 https://img.doemee.bloemendaal.nl
 https://img.doemee.gemeentewestland.nl
 https://img.doemee.zwolle.nl
+https://img.openstad.apeldoorn.nl
 https://img.openstad.deventer.nl
 https://img.openstad.enschede.nl
 https://img.openstad.gemeentewestland.nl
@@ -7072,6 +7075,7 @@ https://test-subsidiebeheer.zwolle.nl
 https://test-subsidieloket.alkmaar.nl
 https://test-subsidieloket.zwolle.nl
 https://test-topdesk.venlo.nl
+https://test-topvorm.apeldoorn.nl
 https://test-trefpunt.deurne.nl
 https://test-vergoedingen.nijmegen.nl
 https://test-website-westland.gemeentewestland.nl
@@ -7915,7 +7919,6 @@ https://www.amsterdam.nl
 https://www.ansvwl2016.waterland.nl
 https://www.ansvwl2903.waterland.nl
 https://www.anwebintwl2008.waterland.nl
-https://www.apeldoorn.nl
 https://www.arcgis.groningen.nl
 https://www.archeologie.denhaag.nl
 https://www.archief.venlo.nl
@@ -8252,6 +8255,7 @@ https://www.oostbegroot.amsterdam.nl
 https://www.oosterhout.nl
 https://www.oostgelre.nl
 https://www.oostzaan.nl
+https://www.openstad.apeldoorn.nl
 https://www.openstad.deventer.nl
 https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
