@@ -124,6 +124,7 @@ simform
 web
 mijninkomen
 qr
+api.betalen
 openzaak
 auth
 acc-formulier
@@ -140,7 +141,6 @@ izaaksuite
 subsidies
 preprod-mijninkomen
 snelbaliepp
-api.betalen
 nieuwsbrief
 acc-mijn
 acc-notificaties

@@ -1,6 +1,8 @@
 acceptatie.zundert.nl
+api.betalen.zundert.nl
 api.meldingen-acc.zundert.nl
 api.meldingen.zundert.nl
+betalen.zundert.nl
 bor.zundert.nl
 corsa-prod.zundert.nl
 corsa-test.zundert.nl

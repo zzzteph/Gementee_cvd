@@ -1179,6 +1179,7 @@ api.betalen.steenwijkerland.nl
 api.betalen.texel.nl
 api.betalen.valkenburg.nl
 api.betalen.wijdemeren.nl
+api.betalen.zundert.nl
 api.darwin.tilburg.nl
 api.data.amsterdam.nl
 api.data.leiden.nl
@@ -2293,6 +2294,7 @@ betalen.valkenburg.nl
 betalen.veldhoven.nl
 betalen.wijdemeren.nl
 betalen.zeewolde.nl
+betalen.zundert.nl
 betalenaan.oirschot.nl
 betalingen.amsterdam.nl
 beugen.landvancuijk.nl

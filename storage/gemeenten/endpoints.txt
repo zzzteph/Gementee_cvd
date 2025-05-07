@@ -271,6 +271,7 @@ http://felix.nederweert.nl
 http://felix.scherpenzeel.nl
 http://felix.staphorst.nl
 http://felix.valkenswaard.nl
+http://felix.zundert.nl
 http://flash.scherpenzeel.nl
 http://formulieren.edam-volendam.nl
 http://formulieren.geertruidenberg.nl
@@ -1200,6 +1201,7 @@ https://api.betalen.steenwijkerland.nl
 https://api.betalen.texel.nl
 https://api.betalen.valkenburg.nl
 https://api.betalen.wijdemeren.nl
+https://api.betalen.zundert.nl
 https://api.darwin.tilburg.nl
 https://api.data.amsterdam.nl
 https://api.dataportaal.amsterdam.nl
@@ -1813,6 +1815,7 @@ https://betalen.valkenburg.nl
 https://betalen.veldhoven.nl
 https://betalen.wijdemeren.nl
 https://betalen.zeewolde.nl
+https://betalen.zundert.nl
 https://betalenaan.oirschot.nl
 https://betalingen.amsterdam.nl
 https://beugen.landvancuijk.nl
@@ -3171,7 +3174,6 @@ https://felix.weststellingwerf.nl
 https://felix.winterswijk.nl
 https://felix.woensdrecht.nl
 https://felix.zoetermeer.nl
-https://felix.zundert.nl
 https://felix.zwartewaterland.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
