@@ -337,8 +337,6 @@ http://mijn.rijswijk.nl
 http://mijn.zwartewaterland.nl
 http://mijnsociaalportaal-acc.castricum.nl
 http://mijnwerkplek.schagen.nl
-http://mijnzorg-acc.aalsmeer.nl
-http://mijnzorg.aalsmeer.nl
 http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
 http://nederweert.nl
@@ -5131,6 +5129,7 @@ https://mijnzaken.hengelo.nl
 https://mijnzaken.schagen.nl
 https://mijnzakentest.heerlen.nl
 https://mijnzi.beuningen.nl
+https://mijnzorg-acc.aalsmeer.nl
 https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
@@ -5139,6 +5138,7 @@ https://mijnzorg-acc.gennep.nl
 https://mijnzorg-acc.roosendaal.nl
 https://mijnzorg-test.borne.nl
 https://mijnzorg-test.heuvelrug.nl
+https://mijnzorg.aalsmeer.nl
 https://mijnzorg.acc.utrecht.nl
 https://mijnzorg.accp.s-hertogenbosch.nl
 https://mijnzorg.alkmaar.nl
