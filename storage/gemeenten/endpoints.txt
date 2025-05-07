@@ -259,7 +259,6 @@ http://eloket.nijkerk.eu
 http://emagazine2030.rijswijk.nl
 http://embrace.laarbeek.nl
 http://epos.staphorst.nl
-http://felix.aalten.nl
 http://felix.dalfsen.nl
 http://felix.deurne.nl
 http://felix.halderberge.nl
@@ -3144,6 +3143,7 @@ https://fd-zgw.acc.denhaag.nl
 https://fd-zgw.denhaag.nl
 https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
+https://felix.aalten.nl
 https://felix.baarn.nl
 https://felix.beekdaelen.nl
 https://felix.bergen.nl
@@ -7866,6 +7866,7 @@ https://www-cache.gemeentesluis.nl
 https://www-wim.gemeente-oldambt.nl
 https://www.aaenhunze.nl
 https://www.aalsmeer.nl
+https://www.aalten.nl
 https://www.acc.amsterdam.nl
 https://www.acc.denhaag.nl
 https://www.acceptatie.aalsmeer.nl
