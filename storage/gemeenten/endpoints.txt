@@ -336,6 +336,7 @@ http://mijn.rijswijk.nl
 http://mijn.zwartewaterland.nl
 http://mijnsociaalportaal-acc.castricum.nl
 http://mijnwerkplek.schagen.nl
+http://mijnzorg-acc.alkmaar.nl
 http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
 http://nederweert.nl
@@ -5134,7 +5135,6 @@ https://mijnzaken.schagen.nl
 https://mijnzakentest.heerlen.nl
 https://mijnzi.beuningen.nl
 https://mijnzorg-acc.aalsmeer.nl
-https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
 https://mijnzorg-acc.beesel.nl

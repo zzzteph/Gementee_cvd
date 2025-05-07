@@ -1,4 +1,5 @@
 http://autodiscover.alkmaar.nl
+http://mijnzorg-acc.alkmaar.nl
 http://redirector.alkmaar.nl
 https://afspraken.alkmaar.nl
 https://agwp01.azweu.alkmaar.nl
@@ -8,7 +9,6 @@ https://datalab.alkmaar.nl
 https://edienstenburgerzaken-test.alkmaar.nl
 https://edienstenburgerzaken.alkmaar.nl
 https://mijn.alkmaar.nl
-https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg.alkmaar.nl
 https://netbox.alkmaar.nl
 https://openpdc.alkmaar.nl
