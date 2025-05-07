@@ -397,6 +397,7 @@ www.afspraken
 prefill
 huisstijl
 mijndesktop
+www2
 loket.test
 secure-test
 stadsarchief
@@ -676,7 +677,6 @@ autodiscover.pvda
 autodiscover.vvd
 gisservices
 portaltest
-www2
 sera
 bzg1-acc
 key2datadistributie
