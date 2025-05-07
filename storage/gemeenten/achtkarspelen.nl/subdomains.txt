@@ -12,6 +12,7 @@ ibzpink.achtkarspelen.nl
 iparticipatie.achtkarspelen.nl
 kennisbank.achtkarspelen.nl
 lvwoz.achtkarspelen.nl
+mail.achtkarspelen.nl
 portaal.achtkarspelen.nl
 portal.achtkarspelen.nl
 preproductie.achtkarspelen.nl

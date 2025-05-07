@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 mijn
 webmail
-simsite
 mail
+simsite
 afspraken
 digikoppeling
 preproductie
