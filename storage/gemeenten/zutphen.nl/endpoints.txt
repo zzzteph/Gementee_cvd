@@ -18,7 +18,9 @@ https://open.zutphen.nl
 https://openbaartoilet.zutphen.nl
 https://parkeren.zutphen.nl
 https://plo.zutphen.nl
+https://preprod-mijntoegang.zutphen.nl
 https://raad.zutphen.nl
+https://remote.zutphen.nl
 https://sjaak.test.zutphen.nl
 https://sjaak.zutphen.nl
 https://voice.zutphen.nl

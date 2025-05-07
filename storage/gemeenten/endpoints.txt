@@ -6076,6 +6076,7 @@ https://preprod-mijnsociaalplein.heiloo.nl
 https://preprod-mijnsociaalplein.hilversum.nl
 https://preprod-mijnsociaalplein.putten.nl
 https://preprod-mijnsociaalplein.uitgeest.nl
+https://preprod-mijntoegang.zutphen.nl
 https://preprod-mijnuitkering.westvoorne.nl
 https://preprod-mijnwijkteam.schagen.nl
 https://preprod-mijnzorg.denhelder.nl
@@ -6331,6 +6332,7 @@ https://remote.westmaasenwaal.nl
 https://remote.westvoorne.nl
 https://remote.winterswijk.nl
 https://remote.zaanstad.nl
+https://remote.zutphen.nl
 https://renswoude.nl
 https://reserveren.coevorden.nl
 https://reserveren.vijfheerenlanden.nl

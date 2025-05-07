@@ -34,6 +34,7 @@ parkeren.zutphen.nl
 plo.zutphen.nl
 preprod-mijntoegang.zutphen.nl
 raad.zutphen.nl
+remote.zutphen.nl
 sigmax-acc.zutphen.nl
 sjaak.test.zutphen.nl
 sjaak.zutphen.nl

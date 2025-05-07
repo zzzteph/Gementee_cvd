@@ -55,10 +55,10 @@ dmidoffice
 openpdc
 api.meldingen-acc
 meldingen-acc
+remote
 data
 openpub
 cmsoo
-remote
 omgevingsvisie
 login
 belastingbalie
