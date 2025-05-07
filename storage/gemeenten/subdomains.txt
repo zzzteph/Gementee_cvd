@@ -5,6 +5,7 @@
 2connect-tst.apeldoorn.nl
 2connect.apeldoorn.nl
 2secure-test.enschede.nl
+2secure.amersfoort.nl
 2secure.breda.nl
 2secure.enschede.nl
 2secure.gulpen-wittem.nl
@@ -7664,6 +7665,7 @@ lyncweb.haarlem.nl
 lyncweb.haarlemmermeer.nl
 lyncweb.houten.nl
 lyncweb.zwolle.nl
+m.amersfoort.nl
 m.groningen.nl
 m.hillegom.nl
 m.leiden.nl

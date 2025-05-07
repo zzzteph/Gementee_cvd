@@ -255,6 +255,7 @@ melddesk
 api.openstad
 cms
 exchange
+m
 werkenvoor
 parkeervergunningen
 woz
@@ -317,7 +318,6 @@ liquit
 radius
 beeldbankbeheer
 sbc01
-m
 bezoekersparkeren
 participatie
 www.acceptatie
@@ -407,6 +407,7 @@ rpl3
 test-zaakloket
 testsiam
 zaakloket
+2secure
 mail1
 magazines
 octopus
@@ -583,7 +584,6 @@ wmo
 testformulieren
 automator
 preprod-mijnoverzicht
-2secure
 sportaccommodaties
 mycorsanxt
 ro-onlineprod

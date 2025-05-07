@@ -1,3 +1,4 @@
+2secure.amersfoort.nl
 a-digikoppeling.amersfoort.nl
 acc.amersfoort.nl
 activesync.amersfoort.nl
@@ -27,6 +28,7 @@ kaart.amersfoort.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
 koppelpoort.amersfoort.nl
 logilink.gbamailbox.amersfoort.nl
+m.amersfoort.nl
 m2m.amersfoort.nl
 magazine.amersfoort.nl
 mail.amersfoort.nl
