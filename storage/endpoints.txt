@@ -355,6 +355,7 @@ http://omgevingswet.bronckhorst.nl
 http://ontwikkelstrategie.amsterdam.nl
 http://ooststellingwerf.nl
 http://opendata-contrast.zoetermeer.nl
+http://opendata.arnhem.nl
 http://opendata.heemstede.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
@@ -5603,7 +5604,6 @@ https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
-https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://opendata.nijmegen.nl
@@ -7353,7 +7353,6 @@ https://vamos.rotterdam.nl
 https://vastgoed.gemeentemaastricht.nl
 https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
-https://vastgoedbedrijf.arnhem.nl
 https://vdi.delft.nl
 https://vdi.rijswijk.nl
 https://vdi.rotterdam.nl

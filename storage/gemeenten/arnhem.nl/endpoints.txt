@@ -1,4 +1,5 @@
 http://autodiscover.arnhem.nl
+http://opendata.arnhem.nl
 https://afspraak.arnhem.nl
 https://arnhem.nl
 https://belastingen-acc.arnhem.nl
@@ -25,7 +26,6 @@ https://mijngeldzaken.arnhem.nl
 https://msoid.arnhem.nl
 https://nieuwkomers.arnhem.nl
 https://open.arnhem.nl
-https://opendata.arnhem.nl
 https://openpdc.arnhem.nl
 https://openpub.arnhem.nl
 https://qr.arnhem.nl
@@ -33,7 +33,6 @@ https://raad.arnhem.nl
 https://remote.arnhem.nl
 https://rooster.arnhem.nl
 https://testeloket.arnhem.nl
-https://vastgoedbedrijf.arnhem.nl
 https://wob.arnhem.nl
 https://woo.arnhem.nl
 https://www.arnhem.nl
