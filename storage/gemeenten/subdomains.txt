@@ -3352,6 +3352,7 @@ derondevenen.nl
 deschop.acceptatie.asten.nl
 deschop.asten.nl
 design.hoorn.nl
+designsystem.amsterdam.nl
 designsystem.leiden.nl
 designtool.rotterdam.nl
 desktop.apeldoorn.nl
@@ -10500,6 +10501,7 @@ qr.zaanstad.nl
 quarantaine.sittard-geleen.nl
 quarantine.bernheze.org
 quarantine.dmarc.nieuwegein.nl
+quotumtool.amsterdam.nl
 r01-nk-h140.ams.denhaag.nl
 raad.acceptatie.asten.nl
 raad.acceptatie.someren.nl
@@ -14241,6 +14243,7 @@ www.gemeente.emmen.nl
 www.gemeente.groningen.nl
 www.gemeente.valkenburg.nl
 www.gemeentebeek.nl
+www.gemeentebelastingen.amsterdam.nl
 www.gemeenteberkelland.nl
 www.gemeentebest.nl
 www.gemeentehulst.nl

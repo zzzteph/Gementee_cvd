@@ -335,6 +335,7 @@ decoswonen.amsterdam.nl
 demirandabad.amsterdam.nl
 demo-onderwijsloket.amsterdam.nl
 demo.onderwijssubsidies.amsterdam.nl
+designsystem.amsterdam.nl
 dev.rnd.amsterdam.nl
 devportal.api.amsterdam.nl
 dgdialog.acc.amsterdam.nl
@@ -796,6 +797,7 @@ projectarchief-vor.amsterdam.nl
 protectus.ggd.amsterdam.nl
 publicaties.rekenkamer.amsterdam.nl
 publiek.amsterdam.nl
+quotumtool.amsterdam.nl
 rabbitmq.datapunt.amsterdam.nl
 rds.vga.amsterdam.nl
 redactie.antwoord.amsterdam.nl
@@ -1049,6 +1051,7 @@ www.erfpacht.amsterdam.nl
 www.ez.amsterdam.nl
 www.fiets.amsterdam.nl
 www.gebouwdin.amsterdam.nl
+www.gemeentebelastingen.amsterdam.nl
 www.geuzenveld.amsterdam.nl
 www.ggd.amsterdam.nl
 www.glazenstad.amsterdam.nl
