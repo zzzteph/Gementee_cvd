@@ -418,6 +418,7 @@ nhr
 personeelsplanning
 djuma
 klimaatplein
+live
 mijnsociaalportaal-acc
 mijnsociaalportaal
 wij
@@ -566,7 +567,6 @@ accdrop
 eforms
 sentry
 acceptatieloket
-live
 intranetcms-acc
 identity
 zorgmail
