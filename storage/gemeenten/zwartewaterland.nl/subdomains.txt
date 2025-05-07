@@ -3,6 +3,7 @@ digik.zwartewaterland.nl
 felix.zwartewaterland.nl
 iburgerzaken.zwartewaterland.nl
 ibzpink.zwartewaterland.nl
+intranet.zwartewaterland.nl
 joinconnect.zwartewaterland.nl
 mail.zwartewaterland.nl
 mailgate.zwartewaterland.nl
@@ -16,3 +17,4 @@ simcms.zwartewaterland.nl
 simsite.zwartewaterland.nl
 vpn.zwartewaterland.nl
 www.zwartewaterland.nl
+zwartewaterland.nl
