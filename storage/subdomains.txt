@@ -219,6 +219,7 @@ acc-keycloak-admin.laarbeek.nl
 acc-keycloak-admin.oldenzaal.nl
 acc-keycloak-admin.oostgelre.nl
 acc-keycloak-admin.roermond.nl
+acc-keycloak-admin.zwolle.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
 acc-keycloak.dev.groningen.nl
@@ -367,6 +368,7 @@ acc-zac.laarbeek.nl
 acc-zac.oldenzaal.nl
 acc-zac.oostgelre.nl
 acc-zac.roermond.nl
+acc-zac.zwolle.nl
 acc.adam.amsterdam.nl
 acc.admin.data.amsterdam.nl
 acc.admin.schoolwijzer.amsterdam.nl
@@ -7602,6 +7604,7 @@ loket.zaanstad.nl
 loket.zevenaar.nl
 loket.zoetermeer.nl
 loket.zwijndrecht.nl
+loket.zwolle.nl
 loketacc.arnhem.nl
 loketacpt.haarlem.nl
 lokettest.middendrenthe.nl
@@ -13691,6 +13694,7 @@ wijkteam.hollandskroon.nl
 wijkteam.katwijk.nl
 wijkteam.schagen.nl
 wijkteams.almere.nl
+wijkteams.zwolle.nl
 wijkvernieuwing.groningen.nl
 wijsamen.groningen.nl
 wijzer-acc.opmeer.nl
@@ -14126,6 +14130,7 @@ www.dinkelland.nl
 www.directduidelijk.openstad.enschede.nl
 www.djuma.gemeentehulst.nl
 www.djuma.haarlemmermeer.nl
+www.dloket.zwolle.nl
 www.dmo.amsterdam.nl
 www.dmo2.amsterdam.nl
 www.docu.zandvoort.nl

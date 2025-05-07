@@ -1,6 +1,7 @@
 acc-broker.zwolle.nl
 acc-contact.zwolle.nl
 acc-formulier.zwolle.nl
+acc-keycloak-admin.zwolle.nl
 acc-keycloak.zwolle.nl
 acc-mijn.zwolle.nl
 acc-notificaties.zwolle.nl
@@ -9,6 +10,7 @@ acc-objecttypen.zwolle.nl
 acc-openklant.zwolle.nl
 acc-openzaak.zwolle.nl
 acc-podiumd-logs.zwolle.nl
+acc-zac.zwolle.nl
 admin.doemee.zwolle.nl
 afspraken.zwolle.nl
 api.doemee.zwolle.nl
@@ -62,6 +64,7 @@ kcc.zwolle.nl
 keycloak.zwolle.nl
 koningsdag.zwolle.nl
 link.pr.zwolle.nl
+loket.zwolle.nl
 lyncweb.zwolle.nl
 mail.zwolle.nl
 meet.zwolle.nl
@@ -135,7 +138,9 @@ vth.zwolle.nl
 webconfedge.zwolle.nl
 webvpn.zwolle.nl
 werkplek.zwolle.nl
+wijkteams.zwolle.nl
 wozportaal.zwolle.nl
+www.dloket.zwolle.nl
 www.doemee.zwolle.nl
 www.gelukkignieuwjaar.zwolle.nl
 www.mobile.zwolle.nl
