@@ -13,7 +13,6 @@ http://aalten.nl
 http://acc-zaanlink.zaanstad.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
-http://ameland.nl
 http://ansvlm2009.landsmeer.nl
 http://archief-yell-cms.etten-leur.nl
 http://archief-yell.etten-leur.nl
@@ -396,7 +395,6 @@ http://simcms-open.leudal.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms.achtkarspelen.nl
-http://simcms.ameland.nl
 http://simcms.bergenopzoom.nl
 http://simcms.bladel.nl
 http://simcms.capelleaandenijssel.nl
@@ -1152,6 +1150,7 @@ https://alwayson.stichtsevecht.nl
 https://am-dev.rotterdam.nl
 https://am-preprod.rotterdam.nl
 https://am.rotterdam.nl
+https://ameland.nl
 https://amersfoort.nl
 https://ami-acc.amsterdam.nl
 https://ami-tst.amsterdam.nl
@@ -6586,6 +6585,7 @@ https://simcms-preproductie.bladel.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.doesburg.nl
 https://simcms-woo.westerkwartier.nl
+https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergeijk.nl
 https://simcms.bergen.nl
