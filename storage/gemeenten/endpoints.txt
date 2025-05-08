@@ -433,6 +433,7 @@ http://simform.gemeentehw.nl
 http://simform.gemeentemaasgouw.nl
 http://simform.heerenveen.nl
 http://simform.t-diel.nl
+http://simsite.bergeijk.nl
 http://simsite.cranendonck.nl
 http://simsite.eersel.nl
 http://simsite.gorinchem.nl
@@ -507,7 +508,6 @@ http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.aanvraagparkeren.groningen.nl
 http://www.bba.amsterdam.nl
-http://www.bergeijk.nl
 http://www.beuningen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bladel.nl
@@ -1754,7 +1754,6 @@ https://belevingsroute.gooisemeren.nl
 https://bereikbaarheid.amsterdam.nl
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.denhaag.nl
-https://bergeijk.nl
 https://bergen-nh.nl
 https://bergen.nl
 https://bergenopzoom.nl
@@ -3180,6 +3179,7 @@ https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.aalten.nl
 https://felix.beekdaelen.nl
+https://felix.bergeijk.nl
 https://felix.bergen.nl
 https://felix.beuningen.nl
 https://felix.beverwijk.nl
@@ -6155,6 +6155,7 @@ https://preprodgdintaker.uithoorn.nl
 https://preprodscbroker.ouder-amstel.nl
 https://preprodscbroker.uithoorn.nl
 https://preproductie.achtkarspelen.nl
+https://preproductie.bergeijk.nl
 https://preproductie.beuningen.nl
 https://preproductie.bladel.nl
 https://preproductie.bronckhorst.nl
