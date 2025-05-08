@@ -13052,6 +13052,7 @@ vm-cs.kampen.nl
 vmapp002.borne.nl
 vmapp006.borne.nl
 vmbg01.landgraaf.nl
+vmexch001.borne.nl
 vmgis003.borne.nl
 vmjboss01.gem-dom.wijkbijduurstede.nl
 voerendaal.nl

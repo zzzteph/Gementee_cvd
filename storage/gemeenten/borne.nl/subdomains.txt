@@ -39,6 +39,7 @@ test.borne.nl
 testportal.borne.nl
 vmapp002.borne.nl
 vmapp006.borne.nl
+vmexch001.borne.nl
 vmgis003.borne.nl
 voormeldingen.borne.nl
 webmail.borne.nl

@@ -2594,6 +2594,7 @@ nlgembrn
 securemail
 vmapp002
 vmapp006
+vmexch001
 vmgis003
 zaalhuur
 brsoribi01
