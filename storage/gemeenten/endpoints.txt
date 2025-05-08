@@ -218,6 +218,7 @@ http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
 http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
+http://bergen.nl
 http://bergendal.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://bijveen-acc.veenendaal.nl
@@ -1755,7 +1756,6 @@ https://bereikbaarheid.amsterdam.nl
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.denhaag.nl
 https://bergen-nh.nl
-https://bergen.nl
 https://bergenopzoom.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
@@ -3180,7 +3180,6 @@ https://feedback.delft.nl
 https://felix.aalten.nl
 https://felix.beekdaelen.nl
 https://felix.bergeijk.nl
-https://felix.bergen.nl
 https://felix.beuningen.nl
 https://felix.beverwijk.nl
 https://felix.cranendonck.nl
@@ -6616,7 +6615,6 @@ https://simcms-woo.westerkwartier.nl
 https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergeijk.nl
-https://simcms.bergen.nl
 https://simcms.bergendal.nl
 https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
@@ -7017,7 +7015,6 @@ https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
 https://test-bink.beverwijk.nl
-https://test-binnenshuis.bergen.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
