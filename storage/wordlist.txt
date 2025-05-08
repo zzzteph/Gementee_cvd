@@ -514,7 +514,6 @@ edienstenmijninkomen
 edienstverlening-preprod
 edienstverlening
 aanvragen
-autorisatie
 ldap
 subsidiebeheer
 subsidieloket
@@ -712,6 +711,7 @@ parkeerloket
 qmanage
 autodiscover.raad
 edienstenburgerzaken.test
+autorisatie
 av
 datalab
 gen1
@@ -856,7 +856,6 @@ acc-openwave
 corona
 key2financien-prod
 key2financien-test
-autorisatietest
 begraafplaatsen
 demo.doemee
 ondernemers
@@ -2574,10 +2573,8 @@ test-bink
 test-cmsbink
 NLGEMBRC
 nlgembrc
-Autorisatietest
 bekslaan-leidsevaartweg.doemee
 deelscooters.doemee
-gbkz-mks
 nieuwauthentiekbloemendaal.doemee
 oldenhove.doemee
 omgevingsvisie.doemee
@@ -4289,6 +4286,7 @@ eikenhof
 klanten
 uitkeringprod
 uitkeringtest
+autorisatietest
 bouwtekeningen
 grootklooster.doemee
 jf.doemee

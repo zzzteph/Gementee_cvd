@@ -1,10 +1,7 @@
-Autorisatietest.bloemendaal.nl
 admin.doemee.bloemendaal.nl
 api.doemee.bloemendaal.nl
 auth.doemee.bloemendaal.nl
 autodiscover.bloemendaal.nl
-autorisatie.bloemendaal.nl
-autorisatietest.bloemendaal.nl
 begraafplaatsen.bloemendaal.nl
 bekslaan-leidsevaartweg.doemee.bloemendaal.nl
 bloemendaal.nl
@@ -14,7 +11,6 @@ doemee.bloemendaal.nl
 eloket.bloemendaal.nl
 elokettest.bloemendaal.nl
 flowmailer-tracking.bloemendaal.nl
-gbkz-mks.bloemendaal.nl
 gemeenteraad.bloemendaal.nl
 iburgerzaken.bloemendaal.nl
 ibzpink.bloemendaal.nl

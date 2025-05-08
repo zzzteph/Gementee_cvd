@@ -30,7 +30,6 @@ AutoDiscover.stedebroec.nl
 AutoDiscover.uitwijk.denhaag.nl
 AutoDiscover.westvoorne.nl
 Autodiscover.hilversum.nl
-Autorisatietest.bloemendaal.nl
 BAG.haarlemmermeer.nl
 BGNVSV002.bergen.nl
 BRK.meerssen.nl
@@ -1770,7 +1769,6 @@ automator.haarlemmermeer.nl
 automator.twenterand.nl
 automator2.twenterand.nl
 autorisatie.alkmaar.nl
-autorisatie.bloemendaal.nl
 autorisatie.heemstede.nl
 autorisatie01.alkmaar.nl
 autorisatie02.alkmaar.nl
@@ -1784,7 +1782,6 @@ autorisatiebeheer.landgraaf.nl
 autorisatiebeheer.simpelveld.nl
 autorisatiebeheer.voerendaal.nl
 autorisatiebeheertest.simpelveld.nl
-autorisatietest.bloemendaal.nl
 autorisatietest.heemstede.nl
 av.alkmaar.nl
 av.urk.nl
@@ -5256,7 +5253,6 @@ gbionlinetest.losser.nl
 gbionlinetest.velsen.nl
 gbit.houten.nl
 gbiweb.steenwijkerland.nl
-gbkz-mks.bloemendaal.nl
 gbos.helmond.nl
 gbs.purmerend.nl
 gbsserver.alkmaar.nl
