@@ -1,7 +1,6 @@
 http://autodiscover.beuningen.nl
-http://simform.beuningen.nl
-http://www.beuningen.nl
-https://beuningen.nl
+http://simcms.beuningen.nl
+http://test-intranet.beuningen.nl
 https://cms-joost.beuningen.nl
 https://data-test.beuningen.nl
 https://data.beuningen.nl
@@ -15,8 +14,11 @@ https://mijnaanvraagzi.beuningen.nl
 https://mijnzi.beuningen.nl
 https://preprod.mijnaanvraagzi.beuningen.nl
 https://preproductie.beuningen.nl
-https://simcms.beuningen.nl
-https://test-intranet.beuningen.nl
+https://simcms-energiek.beuningen.nl
+https://simcms-preproductie.beuningen.nl
+https://simform.beuningen.nl
+https://test-mijnzi.beuningen.nl
 https://testcms-intranet.beuningen.nl
+https://www.beuningen.nl
 https://www.energiek.beuningen.nl
 https://zaaksysteem-accept.beuningen.nl
