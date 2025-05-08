@@ -12467,7 +12467,6 @@ testbelastingloket.elburg.nl
 testbelastingloket.hattem.nl
 testbelastingloket.heerde.nl
 testbelastingloket.oldebroek.nl
-testberichten.bergendal.nl
 testberichten.huizen.nl
 testcms-binnenshuis.bergen.nl
 testcms-embrace.nunspeet.nl

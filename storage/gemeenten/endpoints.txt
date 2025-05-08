@@ -408,6 +408,7 @@ http://simcms-open.leudal.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms.achtkarspelen.nl
+http://simcms.bergendal.nl
 http://simcms.bergenopzoom.nl
 http://simcms.bladel.nl
 http://simcms.capelleaandenijssel.nl
@@ -3180,6 +3181,7 @@ https://feedback.delft.nl
 https://felix.aalten.nl
 https://felix.beekdaelen.nl
 https://felix.bergeijk.nl
+https://felix.bergendal.nl
 https://felix.beuningen.nl
 https://felix.beverwijk.nl
 https://felix.cranendonck.nl
@@ -6615,7 +6617,6 @@ https://simcms-woo.westerkwartier.nl
 https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergeijk.nl
-https://simcms.bergendal.nl
 https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
@@ -6653,6 +6654,7 @@ https://simform.rijswijk.nl
 https://simform.vlissingen.nl
 https://simform.wassenaar.nl
 https://simsite.bergen.nl
+https://simsite.bergendal.nl
 https://simsite.deurne.nl
 https://simsite.edam-volendam.nl
 https://simsite.geertruidenberg.nl
@@ -7931,7 +7933,6 @@ https://www.belastingloket.lingewaard.nl
 https://www.belastingloket.overbetuwe.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergen-nh.nl
-https://www.bergendal.nl
 https://www.bernheze.org
 https://www.bibliotheek.rotterdam.nl
 https://www.bibliotheekbenoordenhout.denhaag.nl
