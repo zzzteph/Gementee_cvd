@@ -337,6 +337,7 @@ http://meldcode.denhaag.nl
 http://meldpuntondermijning.rotterdam.nl
 http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.zuidplas.nl
+http://mijn.beekdaelen.nl
 http://mijn.goeree-overflakkee.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
@@ -377,6 +378,7 @@ http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://pre-simform.houten.nl
+http://preproductie.beekdaelen.nl
 http://preproductie.cranendonck.nl
 http://preproductie.gemeentebeek.nl
 http://preproductie.kerkrade.nl
@@ -431,7 +433,6 @@ http://simform.gemeentehw.nl
 http://simform.gemeentemaasgouw.nl
 http://simform.heerenveen.nl
 http://simform.t-diel.nl
-http://simsite.beekdaelen.nl
 http://simsite.cranendonck.nl
 http://simsite.eersel.nl
 http://simsite.gorinchem.nl
@@ -506,7 +507,6 @@ http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.aanvraagparkeren.groningen.nl
 http://www.bba.amsterdam.nl
-http://www.beekdaelen.nl
 http://www.bergeijk.nl
 http://www.beuningen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
@@ -4939,7 +4939,6 @@ https://mijn.amsterdam.nl
 https://mijn.arnhem.nl
 https://mijn.assen.nl
 https://mijn.baarn.nl
-https://mijn.beekdaelen.nl
 https://mijn.beuningen.nl
 https://mijn.bronckhorst.nl
 https://mijn.buren.nl
@@ -7925,6 +7924,7 @@ https://www.ateliers.amsterdam.nl
 https://www.baarle-nassau.nl
 https://www.barendrecht.nl
 https://www.barneveld.nl
+https://www.beekdaelen.nl
 https://www.beeldbank.landvancuijk.nl
 https://www.beesel.nl
 https://www.begroting.soest.nl
