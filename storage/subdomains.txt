@@ -708,7 +708,6 @@ activesync.rhenen.nl
 activesync.sittard-geleen.nl
 activiteiten.amsterdam.nl
 adam.amsterdam.nl
-adc.barneveld.nl
 adccallback.ovh.gemeentebeek.nl
 adeptiaconnect.acc.denhaag.nl
 adeptiaconnect.ot.denhaag.nl
@@ -3100,7 +3099,6 @@ csc.beverwijk.nl
 csc.dantumadiel.frl
 csc.noardeast-fryslan.nl
 csc.waadhoeke.nl
-cscp.barneveld.nl
 csg.dab.amsterdam.nl
 csp-report.apeldoorn.nl
 css.denhaag.nl
@@ -5246,7 +5244,6 @@ gbav1.amersfoort.nl
 gbavt.emmen.nl
 gbcultuur.alkmaar.nl
 gbi.apeldoorn.nl
-gbi.barneveld.nl
 gbi.gemeentemaashorst.nl
 gbi.lingewaard.nl
 gbi.sudwestfryslan.nl
@@ -7047,8 +7044,6 @@ jvvs.amsterdam.nl
 jzd-test.hethogeland.nl
 jzd.hethogeland.nl
 k1._domainkey.bergendal.nl
-k2bg.barneveld.nl
-k2fin.barneveld.nl
 k2fin.sudwestfryslan.nl
 kaagenbraassem.nl
 kaart.almere.nl
@@ -8513,8 +8508,6 @@ minimi.vlaardingen.nl
 minio.cg-intern.acc.utrecht.nl
 mintra.mookenmiddelaar.nl
 mis.waterland.nl
-misc-geo-01.barneveld.nl
-misc-geo-02.barneveld.nl
 mitel.voorst.nl
 mivbxsrvr.gorinchem.nl
 mk01.hellevoetsluis.nl
@@ -8748,7 +8741,6 @@ ndbu-acc.utrecht.nl
 ndbu-tst.utrecht.nl
 ndbu.utrecht.nl
 ndes.apeldoorn.nl
-ndes.barneveld.nl
 ndes.ot.denhaag.nl
 ndesapeldoorn.apeldoorn.nl
 ned03msn.meerssen.nl

@@ -342,7 +342,6 @@ edison
 nieuwsbrieven
 parkeervergunning
 services
-gbi
 mijngeldzaken
 www.openstad
 dialin
@@ -413,6 +412,7 @@ mail1
 magazines
 octopus
 regelgeving
+gbi
 geotest
 ns2
 admin.doemee
@@ -805,7 +805,6 @@ fm
 gpa
 intranetacc
 mo
-ndes
 tijdschrijven
 www.stadspas
 digikoppelingtst
@@ -841,7 +840,6 @@ bestemmingsplannen
 geoserver-test
 youpp
 pwa
-k2fin
 solliciterenbij
 zaak-acc
 zaak
@@ -2409,6 +2407,7 @@ matenpark
 medeleven
 mheenpark
 mijngeldzakenacc
+ndes
 ndesapeldoorn
 nedbrw
 nedbrwacc
@@ -2489,16 +2488,11 @@ woz-portaal-eemnes
 www.preprod-woz-portaal-eemnes
 www.woz-portaal-eemnes
 www.woz-portaal
-adc
 cis
-cscp
 dkp
 dkt
 ggi
 jongerenraad
-k2bg
-misc-geo-01
-misc-geo-02
 patternlab
 tr
 zaak-dev
@@ -5925,6 +5919,7 @@ ihandhaving
 iidb
 info
 intranet-prod
+k2fin
 kodision-prod
 kodision-test
 kodision
