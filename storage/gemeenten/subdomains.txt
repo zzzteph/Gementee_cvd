@@ -13081,7 +13081,6 @@ vpn.alkmaar.nl
 vpn.almelo.nl
 vpn.almere.nl
 vpn.bergen-nh.nl
-vpn.bergenopzoom.nl
 vpn.denhaag.nl
 vpn.deurne.nl
 vpn.drechterland.nl

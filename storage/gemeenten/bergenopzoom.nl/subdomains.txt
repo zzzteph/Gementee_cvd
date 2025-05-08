@@ -26,7 +26,6 @@ portal.bergenopzoom.nl
 simcms.bergenopzoom.nl
 snelbalie.bergenopzoom.nl
 snelbaliepp.bergenopzoom.nl
-vpn.bergenopzoom.nl
 wifi.bergenopzoom.nl
 www.bergenopzoom.nl
 xencor.bergenopzoom.nl

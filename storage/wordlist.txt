@@ -34,8 +34,8 @@ parkeren
 open
 geo
 api.meldingen
-vpn
 betalen
+vpn
 broker
 adfs
 zaaksysteem-accept

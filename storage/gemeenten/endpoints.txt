@@ -220,6 +220,7 @@ http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://bergen.nl
 http://bergendal.nl
+http://bergenopzoom.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://bijveen-acc.veenendaal.nl
 http://boostjebuurt.amsterdam.nl
@@ -409,7 +410,6 @@ http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms.achtkarspelen.nl
 http://simcms.bergendal.nl
-http://simcms.bergenopzoom.nl
 http://simcms.bladel.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.cranendonck.nl
@@ -510,6 +510,7 @@ http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.aanvraagparkeren.groningen.nl
 http://www.bba.amsterdam.nl
+http://www.bergenopzoom.nl
 http://www.beuningen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bladel.nl
@@ -1757,7 +1758,6 @@ https://bereikbaarheid.amsterdam.nl
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.denhaag.nl
 https://bergen-nh.nl
-https://bergenopzoom.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
@@ -4031,10 +4031,8 @@ https://id.trouwen.tilburg.nl
 https://idcontact-accp.nijmegen.nl
 https://idee.roosendaal.nl
 https://identity-test.huizen.nl
-https://identity.bergenopzoom.nl
 https://identity.huizen.nl
 https://identity.sudwestfryslan.nl
-https://identityota.bergenopzoom.nl
 https://idiensten-contract.rotterdam.nl
 https://idinloggen.oosterhout.nl
 https://idinloggenpre.oosterhout.nl
@@ -6617,6 +6615,7 @@ https://simcms-woo.westerkwartier.nl
 https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergeijk.nl
+https://simcms.bergenopzoom.nl
 https://simcms.beuningen.nl
 https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
@@ -7461,7 +7460,6 @@ https://vortum-mullem.landvancuijk.nl
 https://vow.rotterdam.nl
 https://vpn-extern.gooisemeren.nl
 https://vpn.almere.nl
-https://vpn.bergenopzoom.nl
 https://vpn.denhaag.nl
 https://vpn.gemeentestein.nl
 https://vpn.gooisemeren.nl
