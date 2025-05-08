@@ -405,6 +405,7 @@ http://secure.dalfsen.nl
 http://sem.kampen.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-epos.staphorst.nl
+http://simcms-open.beverwijk.nl
 http://simcms-open.leudal.nl
 http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-samenindebuurt.heerlen.nl
@@ -436,6 +437,7 @@ http://simform.gemeentemaasgouw.nl
 http://simform.heerenveen.nl
 http://simform.t-diel.nl
 http://simsite.bergeijk.nl
+http://simsite.beverwijk.nl
 http://simsite.cranendonck.nl
 http://simsite.eersel.nl
 http://simsite.gorinchem.nl
@@ -456,6 +458,7 @@ http://stadsarchief.almere.nl
 http://stadspas.weert.nl
 http://subsites.amsterdam.nl
 http://t-diel.nl
+http://test-bink.beverwijk.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
@@ -1603,6 +1606,7 @@ https://beemsterraadsinformatie.purmerend.nl
 https://beers.landvancuijk.nl
 https://beesel.nl
 https://begraafplaats.heemstede.nl
+https://begraafplaatsduinrust.beverwijk.nl
 https://begraafplaatsen.bloemendaal.nl
 https://begraafplaatsen.gooisemeren.nl
 https://begraafplaatsreservering.bronckhorst.nl
@@ -3182,7 +3186,6 @@ https://felix.beekdaelen.nl
 https://felix.bergeijk.nl
 https://felix.bergendal.nl
 https://felix.beuningen.nl
-https://felix.beverwijk.nl
 https://felix.cranendonck.nl
 https://felix.eersel.nl
 https://felix.gemeentebeek.nl
@@ -6594,7 +6597,6 @@ https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-armoedepact.westerkwartier.nl
-https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.woensdrecht.nl
@@ -7016,7 +7018,6 @@ https://terneuzen.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
-https://test-bink.beverwijk.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
