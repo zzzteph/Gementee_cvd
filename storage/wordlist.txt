@@ -29,9 +29,9 @@ acc
 waarmerk
 meldingen
 afspraak
-raad
 parkeren
 open
+raad
 geo
 api.meldingen
 betalen

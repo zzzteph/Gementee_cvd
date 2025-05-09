@@ -6287,7 +6287,6 @@ https://raad.albrandswaard.nl
 https://raad.arnhem.nl
 https://raad.asten.nl
 https://raad.bergendal.nl
-https://raad.brummen.nl
 https://raad.dordrecht.nl
 https://raad.gemeente-steenbergen.nl
 https://raad.gemeentemaastricht.nl
@@ -7274,7 +7273,6 @@ https://tubbergen.nl
 https://tuinen.groningen.nl
 https://tussenrapportage.gemeente-steenbergen.nl
 https://tv.gemeentebest.nl
-https://tve-acc.brummen.nl
 https://tve.brummen.nl
 https://tynaarlo.nl
 https://uaghelm01.helmond.nl

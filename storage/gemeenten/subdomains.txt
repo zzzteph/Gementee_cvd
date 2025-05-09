@@ -891,7 +891,6 @@ afspraken.beverwijk.nl
 afspraken.bladel.nl
 afspraken.borne.nl
 afspraken.bronckhorst.nl
-afspraken.brummen.nl
 afspraken.brunssum.nl
 afspraken.buren.nl
 afspraken.cranendonck.nl
@@ -10512,7 +10511,6 @@ raad.albrandswaard.nl
 raad.arnhem.nl
 raad.asten.nl
 raad.bergendal.nl
-raad.brummen.nl
 raad.delft.nl
 raad.dordrecht.nl
 raad.etten-leur.nl

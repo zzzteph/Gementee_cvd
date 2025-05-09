@@ -1,7 +1,5 @@
 http://autodiscover.brummen.nl
 https://adfs.brummen.nl
 https://brummen.nl
-https://raad.brummen.nl
-https://tve-acc.brummen.nl
 https://tve.brummen.nl
 https://www.brummen.nl
