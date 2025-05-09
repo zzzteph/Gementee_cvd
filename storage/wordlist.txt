@@ -158,6 +158,7 @@ cryptshare
 belastingportaal
 bis
 maps
+vdi
 acc-contact
 acc-keycloak
 acc-openklant
@@ -176,7 +177,6 @@ transfer
 college
 veiligdelen
 mailing
-vdi
 email
 legacy
 gis
