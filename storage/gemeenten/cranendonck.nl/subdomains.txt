@@ -2,7 +2,6 @@ VRiSeLoket.cranendonck.nl
 afspraken.cranendonck.nl
 afvalkalender.cranendonck.nl
 autodiscover.cranendonck.nl
-berichten.cranendonck.nl
 cranendonck.nl
 digikoppeling-test.cranendonck.nl
 digikoppeling.cranendonck.nl
@@ -10,6 +9,7 @@ felix.cranendonck.nl
 iburgerzaken.cranendonck.nl
 ibzpink.cranendonck.nl
 intranet.cranendonck.nl
+klantcontact.cranendonck.nl
 pkio1.cranendonck.nl
 preproductie.cranendonck.nl
 probeer.cranendonck.nl

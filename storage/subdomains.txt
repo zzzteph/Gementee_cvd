@@ -2188,7 +2188,6 @@ berichten-test.rijswijk.nl
 berichten.alphen-chaam.nl
 berichten.baarle-nassau.nl
 berichten.bergendal.nl
-berichten.cranendonck.nl
 berichten.dordrecht.nl
 berichten.gemeente-oldambt.nl
 berichten.gemeentesluis.nl
@@ -7240,6 +7239,7 @@ klachten.amsterdam.nl
 klantcontact.baarn.nl
 klantcontact.bergendal.nl
 klantcontact.beuningen.nl
+klantcontact.cranendonck.nl
 klantcontact.deurne.nl
 klantcontact.kerkrade.nl
 klantcontact.koggenland.nl
