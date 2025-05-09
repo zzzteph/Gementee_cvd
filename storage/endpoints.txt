@@ -345,7 +345,6 @@ http://mijn.goeree-overflakkee.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
 http://mijn.zwartewaterland.nl
-http://mijnsociaalportaal-acc.castricum.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.alkmaar.nl
 http://mijnzorg.amstelveen.nl
@@ -5124,6 +5123,7 @@ https://mijnsociaalplein.hofvantwente.nl
 https://mijnsociaalplein.putten.nl
 https://mijnsociaalplein.uitgeest.nl
 https://mijnsociaalportaal-acc.bergen-nh.nl
+https://mijnsociaalportaal-acc.castricum.nl
 https://mijnsociaalportaal-acc.heiloo.nl
 https://mijnsociaalportaal-acc.uitgeest.nl
 https://mijnsociaalportaal.bergen-nh.nl
