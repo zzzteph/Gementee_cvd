@@ -399,7 +399,6 @@ http://remote.gemeentesluis.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://samenindebuurt.heerlen.nl
-http://sammy-acc.derondevenen.nl
 http://sem.kampen.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-epos.staphorst.nl
@@ -6474,6 +6473,7 @@ https://samenwerkingbelastingen-test.middelburg.nl
 https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
 https://samenwijzer.oss.nl
+https://sammy-acc.derondevenen.nl
 https://sammy.derondevenen.nl
 https://sammycms-acc.derondevenen.nl
 https://sammycms.derondevenen.nl
