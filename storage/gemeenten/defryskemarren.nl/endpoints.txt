@@ -23,6 +23,5 @@ https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-mijn.defryskemarren.nl
 https://preprod-mijnportaal.defryskemarren.nl
 https://test-cmsdieuwke.defryskemarren.nl
-https://test-dieuwke.defryskemarren.nl
 https://werkenbij.defryskemarren.nl
 https://www.defryskemarren.nl

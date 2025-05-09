@@ -7948,7 +7948,6 @@ mdm.purmerend.nl
 mdm.staphorst.nl
 mdm.waterland.nl
 mdm.winterswijk.nl
-mdmcore.defryskemarren.nl
 mdmks.middendrenthe.nl
 mdr.beverwijk.nl
 mdtel01.middendrenthe.nl

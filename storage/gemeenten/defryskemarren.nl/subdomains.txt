@@ -14,7 +14,6 @@ exchange.defryskemarren.nl
 felix.defryskemarren.nl
 formulieren.defryskemarren.nl
 mailing.defryskemarren.nl
-mdmcore.defryskemarren.nl
 medewerkers.defryskemarren.nl
 mijn.defryskemarren.nl
 mijninkomen.defryskemarren.nl
