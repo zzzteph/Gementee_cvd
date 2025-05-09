@@ -1,11 +1,9 @@
 http://autodiscover.dalfsen.nl
-http://dalfsen.nl
-http://felix.dalfsen.nl
 http://hybrid.dalfsen.nl
-http://secure.dalfsen.nl
-http://simcms.dalfsen.nl
+http://verkiezingen.dalfsen.nl
 https://afspraken.dalfsen.nl
 https://enterpriseenrollment.dalfsen.nl
+https://felix.dalfsen.nl
 https://financien.dalfsen.nl
 https://geo.dalfsen.nl
 https://grooster.dalfsen.nl
@@ -17,7 +15,8 @@ https://kindregeling.dalfsen.nl
 https://online-aanvraag-test.dalfsen.nl
 https://online-aanvraag.dalfsen.nl
 https://portal.dalfsen.nl
+https://preproductie.dalfsen.nl
 https://pv.dalfsen.nl
 https://ris.dalfsen.nl
 https://sharepoint.dalfsen.nl
-https://verkiezingen.dalfsen.nl
+https://simcms.dalfsen.nl

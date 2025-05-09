@@ -241,7 +241,6 @@ http://cmstestintranet.westerwolde.nl
 http://connect.acceptatie.goirle.nl
 http://containersweesperbuurt.amsterdam.nl
 http://crl.denhaag.nl
-http://dalfsen.nl
 http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
 http://digid.ooststellingwerf.nl
@@ -266,7 +265,6 @@ http://felix.achtkarspelen.nl
 http://felix.baarn.nl
 http://felix.bunschoten.nl
 http://felix.capelleaandenijssel.nl
-http://felix.dalfsen.nl
 http://felix.deurne.nl
 http://felix.halderberge.nl
 http://felix.heeze-leende.nl
@@ -401,7 +399,6 @@ http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://samenindebuurt.heerlen.nl
 http://sammy-acc.derondevenen.nl
-http://secure.dalfsen.nl
 http://sem.kampen.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-epos.staphorst.nl
@@ -414,7 +411,6 @@ http://simcms.bergendal.nl
 http://simcms.beuningen.nl
 http://simcms.bunschoten.nl
 http://simcms.cranendonck.nl
-http://simcms.dalfsen.nl
 http://simcms.gemeentebeek.nl
 http://simcms.heerlen.nl
 http://simcms.middelburg.nl
@@ -494,6 +490,7 @@ http://ttgbav-test.gemeente-steenbergen.nl
 http://twenterand.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
+http://verkiezingen.dalfsen.nl
 http://vlissingen.nl
 http://voorschoten.nl
 http://vvb.sliedrecht.nl
@@ -3183,6 +3180,7 @@ https://felix.bergendal.nl
 https://felix.beuningen.nl
 https://felix.bladel.nl
 https://felix.cranendonck.nl
+https://felix.dalfsen.nl
 https://felix.eersel.nl
 https://felix.gemeentebeek.nl
 https://felix.harlingen.nl
@@ -6153,6 +6151,7 @@ https://preprodscbroker.uithoorn.nl
 https://preproductie.achtkarspelen.nl
 https://preproductie.bergeijk.nl
 https://preproductie.beuningen.nl
+https://preproductie.dalfsen.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
 https://preproductie.goeree-overflakkee.nl
@@ -6610,6 +6609,7 @@ https://simcms.bergeijk.nl
 https://simcms.bergenopzoom.nl
 https://simcms.beverwijk.nl
 https://simcms.capelleaandenijssel.nl
+https://simcms.dalfsen.nl
 https://simcms.deurne.nl
 https://simcms.doesburg.nl
 https://simcms.geldrop-mierlo.nl
@@ -7402,7 +7402,6 @@ https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
 https://verkeersbesluiten.denhaag.nl
 https://verkiezingen.acc.topdesk.denhaag.nl
-https://verkiezingen.dalfsen.nl
 https://verkiezingen.denhelder.nl
 https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
