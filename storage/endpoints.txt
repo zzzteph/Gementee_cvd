@@ -836,7 +836,6 @@ https://acc.boekel.nl
 https://acc.borsele.nl
 https://acc.bp.data.amsterdam.nl
 https://acc.breda.nl
-https://acc.denhaag.nl
 https://acc.easyfunders.leiden.nl
 https://acc.epe.nl
 https://acc.fblocatielijst.amsterdam.nl
@@ -1521,7 +1520,6 @@ https://bag-vpek21.pekela.nl
 https://bag-vvee21.veendam.nl
 https://bag-vwes11.westerwolde.nl
 https://bag.acc.denhaag.nl
-https://bag.denhaag.nl
 https://bag.deventer.nl
 https://bag.etten-leur.nl
 https://balie2.vlaardingen.nl
@@ -3099,7 +3097,6 @@ https://enzo.zoetermeer.nl
 https://enzobeheer.zoetermeer.nl
 https://eopenstad.gemeentewestland.nl
 https://epe.nl
-https://epp.denhaag.nl
 https://erfgoed.breda.nl
 https://erfgoed.gemert-bakel.nl
 https://erfgoed.groningen.nl

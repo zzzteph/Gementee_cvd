@@ -107,8 +107,6 @@ eengoedideevoorocw.denhaag.nl
 enquete-acc.denhaag.nl
 enquete.denhaag.nl
 enterpriseregistration.denhaag.nl
-epp.denhaag.nl
-eppx.denhaag.nl
 erfpacht.test.denhaag.nl
 evenementen-acc.denhaag.nl
 evenementen.denhaag.nl
@@ -401,7 +399,6 @@ www.duurzamestad.denhaag.nl
 www.eengoedideevoorocw-acc.denhaag.nl
 www.eengoedideevoorocw.denhaag.nl
 www.enquete.denhaag.nl
-www.evenementen.denhaag.nl
 www.followyourdreams-acc.denhaag.nl
 www.followyourdreams.denhaag.nl
 www.gebiedmaanweg.denhaag.nl

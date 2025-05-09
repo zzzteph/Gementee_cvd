@@ -827,7 +827,6 @@ acc-openzaak.dev
 acc-podiumd-logs.dev
 webconf
 werknemersportaal
-www.evenementen
 www.vastgoed
 dk
 dktest
@@ -2470,6 +2469,7 @@ wpdagast2
 wpmksp001
 www.duurzaamheidscentrum
 www.english
+www.evenementen
 www.mijnplein
 www.organisatieontwikkeling
 www.slimbereikbaar
@@ -2838,8 +2838,6 @@ educatieffestival
 eengoedideevoorocw-acc
 eengoedideevoorocw
 enquete-acc
-epp
-eppx
 erfpacht.test
 evenementen-acc
 exoconnect

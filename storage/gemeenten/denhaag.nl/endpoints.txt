@@ -6,7 +6,6 @@ http://participatieprikbord.denhaag.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.scheveningen.denhaag.nl
 http://www.zuidwestopznbest.denhaag.nl
-https://acc.denhaag.nl
 https://adeptiaconnect.acc.denhaag.nl
 https://adeptiaconnect.ot.denhaag.nl
 https://admsec.acc.denhaag.nl
@@ -43,7 +42,6 @@ https://authx5.denhaag.nl
 https://bag-kastlijst.acc.denhaag.nl
 https://bag-kastlijst.denhaag.nl
 https://bag.acc.denhaag.nl
-https://bag.denhaag.nl
 https://bec.acc.topdesk.denhaag.nl
 https://bec.ot.topdesk.denhaag.nl
 https://bec.topdesk.denhaag.nl
@@ -88,7 +86,6 @@ https://educatieffestival.denhaag.nl
 https://enquete-acc.denhaag.nl
 https://enquete.denhaag.nl
 https://enterpriseregistration.denhaag.nl
-https://epp.denhaag.nl
 https://erfpacht.test.denhaag.nl
 https://evenementen.denhaag.nl
 https://fd-zgw.acc.denhaag.nl
