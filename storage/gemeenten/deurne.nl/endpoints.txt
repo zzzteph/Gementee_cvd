@@ -1,4 +1,3 @@
-http://felix.deurne.nl
 https://any2info.deurne.nl
 https://beheer-test-trefpunt.deurne.nl
 https://beheer-trefpunt.deurne.nl
@@ -7,8 +6,9 @@ https://deurne.nl
 https://eloket.deurne.nl
 https://iburgerzaken.deurne.nl
 https://klantcontact.deurne.nl
+https://mijn.deurne.nl
 https://mijnkaart.deurne.nl
-https://simcms.deurne.nl
+https://preproductie.deurne.nl
 https://simsite.deurne.nl
 https://test-trefpunt.deurne.nl
 https://testeloket.deurne.nl

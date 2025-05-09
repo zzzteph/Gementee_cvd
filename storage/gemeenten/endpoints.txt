@@ -266,7 +266,6 @@ http://felix.achtkarspelen.nl
 http://felix.baarn.nl
 http://felix.bunschoten.nl
 http://felix.capelleaandenijssel.nl
-http://felix.deurne.nl
 http://felix.halderberge.nl
 http://felix.heeze-leende.nl
 http://felix.landgraaf.nl
@@ -4936,6 +4935,7 @@ https://mijn.debilt.nl
 https://mijn.defryskemarren.nl
 https://mijn.denhaag.nl
 https://mijn.denhelder.nl
+https://mijn.deurne.nl
 https://mijn.dev.nijmegen.nl
 https://mijn.deventer.nl
 https://mijn.dijkenwaard.nl
@@ -6147,6 +6147,7 @@ https://preproductie.achtkarspelen.nl
 https://preproductie.bergeijk.nl
 https://preproductie.beuningen.nl
 https://preproductie.dalfsen.nl
+https://preproductie.deurne.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
 https://preproductie.goeree-overflakkee.nl
@@ -6605,7 +6606,6 @@ https://simcms.bergenopzoom.nl
 https://simcms.beverwijk.nl
 https://simcms.capelleaandenijssel.nl
 https://simcms.dalfsen.nl
-https://simcms.deurne.nl
 https://simcms.doesburg.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
