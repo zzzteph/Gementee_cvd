@@ -1920,7 +1920,6 @@ https://bolwerk.gemeentehulst.nl
 https://bomen.amsterdam.nl
 https://bomen.ont.amsterdam.nl
 https://bomen.tst.amsterdam.nl
-https://bor.dantumadiel.frl
 https://bor.extranet.tilburg.nl
 https://bor.hilvarenbeek.nl
 https://bor.noardeast-fryslan.nl
