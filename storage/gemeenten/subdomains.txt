@@ -83,7 +83,6 @@ _autodiscover._tcp.barendrecht.nl
 _autodiscover._tcp.beekdaelen.nl
 _autodiscover._tcp.bergeijk.nl
 _autodiscover._tcp.boxtel.nl
-_autodiscover._tcp.brunssum.nl
 _autodiscover._tcp.dinkelland.nl
 _autodiscover._tcp.gemeentestein.nl
 _autodiscover._tcp.haarlem.nl
