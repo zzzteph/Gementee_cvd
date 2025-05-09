@@ -241,6 +241,7 @@ http://cmstestintranet.westerwolde.nl
 http://connect.acceptatie.goirle.nl
 http://containersweesperbuurt.amsterdam.nl
 http://crl.denhaag.nl
+http://data.delft.nl
 http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
 http://digid.ooststellingwerf.nl
@@ -2320,7 +2321,6 @@ https://data.bergendal.nl
 https://data.bergenopzoom.nl
 https://data.beuningen.nl
 https://data.breda.nl
-https://data.delft.nl
 https://data.eindhoven.nl
 https://data.groningen.nl
 https://data.haarlem.nl
