@@ -227,7 +227,6 @@ http://boostjebuurt.amsterdam.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buikslotermeerplein.amsterdam.nl
 http://buurthuisvandetoekomst.denhaag.nl
-http://capelleaandenijssel.nl
 http://centrumimpuls.geldrop-mierlo.nl
 http://cjg.scherpenzeel.nl
 http://cms-internoss-test.oss.nl
@@ -260,11 +259,13 @@ http://duurzaam.woensdrecht.nl
 http://eloket.meppel.nl
 http://eloket.nijkerk.eu
 http://emagazine2030.rijswijk.nl
+http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
 http://epos.staphorst.nl
 http://felix.achtkarspelen.nl
 http://felix.baarn.nl
 http://felix.bunschoten.nl
+http://felix.capelleaandenijssel.nl
 http://felix.dalfsen.nl
 http://felix.deurne.nl
 http://felix.halderberge.nl
@@ -413,7 +414,6 @@ http://simcms.achtkarspelen.nl
 http://simcms.bergendal.nl
 http://simcms.beuningen.nl
 http://simcms.bunschoten.nl
-http://simcms.capelleaandenijssel.nl
 http://simcms.cranendonck.nl
 http://simcms.dalfsen.nl
 http://simcms.gemeentebeek.nl
@@ -3004,7 +3004,6 @@ https://elokettest.bloemendaal.nl
 https://elokettest.heemstede.nl
 https://elokettest.sudwestfryslan.nl
 https://elokettest.vlissingen.nl
-https://email.capelleaandenijssel.nl
 https://email.doemee.gemeentebest.nl
 https://email.eijsden-margraten.nl
 https://email.haarlem.nl
@@ -6613,6 +6612,7 @@ https://simcms.baarn.nl
 https://simcms.bergeijk.nl
 https://simcms.bergenopzoom.nl
 https://simcms.beverwijk.nl
+https://simcms.capelleaandenijssel.nl
 https://simcms.deurne.nl
 https://simcms.doesburg.nl
 https://simcms.geldrop-mierlo.nl
