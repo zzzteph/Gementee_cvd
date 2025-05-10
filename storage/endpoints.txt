@@ -3153,6 +3153,7 @@ https://exchange.defryskemarren.nl
 https://exchangehybrid.tilburg.nl
 https://extern.pijnacker-nootdorp.nl
 https://extra.katwijk.nl
+https://extranet-acc.eemsdelta.nl
 https://extranet.eemsdelta.nl
 https://extranet.hengelo.nl
 https://extranet.hethogeland.nl
@@ -7049,6 +7050,7 @@ https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-internetafspraken.sittard-geleen.nl
 https://test-intra.gooisemeren.nl
+https://test-intranet.eemsdelta.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.sittard-geleen.nl
