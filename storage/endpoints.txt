@@ -4440,6 +4440,7 @@ https://kernhem.ede.nl
 https://keuzesinbeeld.amsterdam.nl
 https://keycloak-adm.denhaag.nl
 https://keycloak-admin.assen.nl
+https://keycloak-admin.enschede.nl
 https://keycloak-zgw.acc.denhaag.nl
 https://keycloak-zgw.test.denhaag.nl
 https://keycloak.acc.denhaag.nl
@@ -8575,6 +8576,7 @@ https://zaanlinkcms.zaanstad.nl
 https://zaanstad.nl
 https://zaanzoeker.zaanstad.nl
 https://zac.assen.nl
+https://zac.enschede.nl
 https://zaken.acceptatie.winterswijk.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl

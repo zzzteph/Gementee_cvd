@@ -51,6 +51,7 @@ intens-acc.enschede.nl
 intens.enschede.nl
 jijmaaktdebuurt.openstad.enschede.nl
 kavelaanbod.enschede.nl
+keycloak-admin.enschede.nl
 keycloak.enschede.nl
 mail.enschede.nl
 makelpunt.openstad.enschede.nl
@@ -101,4 +102,5 @@ www.nieuwsbrief.enschede.nl
 www.toegankelijk.enschede.nl
 www.werkenbij.enschede.nl
 www.werkpakt.enschede.nl
+zac.enschede.nl
 zwik.openstad.enschede.nl

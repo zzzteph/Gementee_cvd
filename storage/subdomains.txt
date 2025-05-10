@@ -7211,6 +7211,7 @@ key2percelen.haarlemmermeer.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
 keycloak-adm.denhaag.nl
 keycloak-admin.assen.nl
+keycloak-admin.enschede.nl
 keycloak-zgw.acc.denhaag.nl
 keycloak-zgw.test.denhaag.nl
 keycloak.acc.denhaag.nl
@@ -15207,6 +15208,7 @@ zac.assen.nl
 zac.cg-intern.acc.utrecht.nl
 zac.cg-intern.ont.utrecht.nl
 zac.cg-intern.utrecht.nl
+zac.enschede.nl
 zaken.acceptatie.coevorden.nl
 zaken.acceptatie.dantumadiel.frl
 zaken.acceptatie.drechterland.nl

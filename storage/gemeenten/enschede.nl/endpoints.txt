@@ -43,6 +43,7 @@ https://intens-acc.enschede.nl
 https://intens.enschede.nl
 https://jijmaaktdebuurt.openstad.enschede.nl
 https://kavelaanbod.enschede.nl
+https://keycloak-admin.enschede.nl
 https://keycloak.enschede.nl
 https://makelpunt.openstad.enschede.nl
 https://meldingen-acc.enschede.nl
@@ -74,4 +75,5 @@ https://www.nieuwsbrief.enschede.nl
 https://www.toegankelijk.enschede.nl
 https://www.werkenbij.enschede.nl
 https://www.werkpakt.enschede.nl
+https://zac.enschede.nl
 https://zwik.openstad.enschede.nl

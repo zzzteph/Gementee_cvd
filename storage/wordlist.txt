@@ -829,9 +829,11 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
+keycloak-admin
 webconf
 werknemersportaal
 www.vastgoed
+zac
 dk
 dktest
 raad.acceptatie
@@ -2454,7 +2456,6 @@ dcagast2
 digikoppeling-mks-test
 digikoppeling-mks
 geohr
-keycloak-admin
 mijnplein
 organisatieontwikkeling
 point
@@ -2474,7 +2475,6 @@ www.evenementen
 www.mijnplein
 www.organisatieontwikkeling
 www.slimbereikbaar
-zac
 deschop.acceptatie
 deschop
 guido
