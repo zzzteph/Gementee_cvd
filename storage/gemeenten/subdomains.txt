@@ -5677,7 +5677,6 @@ govpub.sudwestfryslan.nl
 govroam.beekdaelen.nl
 govroam.borne.nl
 govroam.brunssum.nl
-govroam.dronten.nl
 govroam.gemeentebeek.nl
 govroam.groningen.nl
 govroam.gulpen-wittem.nl

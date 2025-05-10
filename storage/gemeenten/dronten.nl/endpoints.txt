@@ -1,5 +1,4 @@
 https://afspraakmaken.dronten.nl
-https://autodiscover.dronten.nl
 https://cmsdok.dronten.nl
 https://dok.dronten.nl
 https://dronten.nl
@@ -20,7 +19,6 @@ https://sts.dronten.nl
 https://test-cmsdok.dronten.nl
 https://testeloket.dronten.nl
 https://vergunningen.dronten.nl
-https://webmail.dronten.nl
 https://www.dronten.nl
 https://www.ruimtelijkeplannen.dronten.nl
 https://zaaksysteem-accept.dronten.nl

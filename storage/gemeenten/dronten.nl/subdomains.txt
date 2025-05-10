@@ -8,7 +8,6 @@ edienstenburgerzaken-test.dronten.nl
 edienstenburgerzaken.dronten.nl
 eloket.dronten.nl
 gemeenteraad.dronten.nl
-govroam.dronten.nl
 grondwater.dronten.nl
 mijn.dronten.nl
 mijninkomen.dronten.nl

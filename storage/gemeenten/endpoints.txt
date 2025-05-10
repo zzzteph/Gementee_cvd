@@ -1468,7 +1468,6 @@ https://autodiscover.almere.nl
 https://autodiscover.apeldoorn.nl
 https://autodiscover.beverwijk.nl
 https://autodiscover.defryskemarren.nl
-https://autodiscover.dronten.nl
 https://autodiscover.ede.nl
 https://autodiscover.eijsden-margraten.nl
 https://autodiscover.enschede.nl
@@ -7577,7 +7576,6 @@ https://webmail.brielle.nl
 https://webmail.buren.nl
 https://webmail.delft.nl
 https://webmail.drimmelen.nl
-https://webmail.dronten.nl
 https://webmail.ede.nl
 https://webmail.eemsdelta.nl
 https://webmail.geertruidenberg.nl
