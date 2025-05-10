@@ -266,6 +266,7 @@ http://felix.achtkarspelen.nl
 http://felix.baarn.nl
 http://felix.bunschoten.nl
 http://felix.capelleaandenijssel.nl
+http://felix.eersel.nl
 http://felix.halderberge.nl
 http://felix.heeze-leende.nl
 http://felix.landgraaf.nl
@@ -378,6 +379,7 @@ http://pre-ows-websrvc-test.groningen.nl
 http://pre-simform.houten.nl
 http://preproductie.beekdaelen.nl
 http://preproductie.cranendonck.nl
+http://preproductie.eersel.nl
 http://preproductie.gemeentebeek.nl
 http://preproductie.kerkrade.nl
 http://preproductie.oirschot.nl
@@ -517,7 +519,6 @@ http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
-http://www.eersel.nl
 http://www.gemeentebelastingen.amsterdam.nl
 http://www.heerlen.nl
 http://www.inspraakmaatregel15.amsterdam.nl
@@ -2914,7 +2915,6 @@ https://educatieffestival.denhaag.nl
 https://eemnes.nl
 https://eemsdelta.groningen.nl
 https://eemsdelta.nl
-https://eersel.nl
 https://efacturen.eijsden-margraten.nl
 https://eformaccept.defryskemarren.nl
 https://eforms.peelenmaas.nl
@@ -3176,7 +3176,6 @@ https://felix.beuningen.nl
 https://felix.bladel.nl
 https://felix.cranendonck.nl
 https://felix.dalfsen.nl
-https://felix.eersel.nl
 https://felix.gemeentebeek.nl
 https://felix.harlingen.nl
 https://felix.heerlen.nl
@@ -8027,6 +8026,7 @@ https://www.ede.nl
 https://www.eemnes.nl
 https://www.eemsdelta.groningen.nl
 https://www.eemsdelta.nl
+https://www.eersel.nl
 https://www.eformulieren.gemeentesluis.nl
 https://www.eijsden-margraten.nl
 https://www.eindhoven.nl
