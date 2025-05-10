@@ -277,7 +277,6 @@ http://felix.staphorst.nl
 http://felix.valkenswaard.nl
 http://felix.zundert.nl
 http://flash.scherpenzeel.nl
-http://formulieren.edam-volendam.nl
 http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
 http://formulieren.meierijstad.nl
@@ -455,6 +454,7 @@ http://subsites.amsterdam.nl
 http://t-diel.nl
 http://test-bink.beverwijk.nl
 http://test-cmsflash.scherpenzeel.nl
+http://test-cmsintranet.edam-volendam.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsjip.vijfheerenlanden.nl
@@ -496,7 +496,6 @@ http://vvb.sliedrecht.nl
 http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
 http://welkom.ede.nl
-http://werkenbij.edam-volendam.nl
 http://werkenbij.weststellingwerf.nl
 http://wierden.nl
 http://wij.bergen-nh.nl
@@ -3362,6 +3361,7 @@ https://formulieren.culemborg.nl
 https://formulieren.defryskemarren.nl
 https://formulieren.denhaag.nl
 https://formulieren.duiven.nl
+https://formulieren.edam-volendam.nl
 https://formulieren.gemeentehw.nl
 https://formulieren.gooisemeren.nl
 https://formulieren.gorinchem.nl
@@ -3813,6 +3813,7 @@ https://hwok-test.gemeentehw.nl
 https://hwok.gemeentehw.nl
 https://hybrid.almere.nl
 https://hybrid.beverwijk.nl
+https://hybrid.edam-volendam.nl
 https://hybrid.gooisemeren.nl
 https://hybrid.nederbetuwe.nl
 https://hybrid.purmerend.nl
@@ -7653,6 +7654,7 @@ https://werkenbij.amsterdam.nl
 https://werkenbij.barneveld.nl
 https://werkenbij.buren.nl
 https://werkenbij.defryskemarren.nl
+https://werkenbij.edam-volendam.nl
 https://werkenbij.enschede.nl
 https://werkenbij.gooisemeren.nl
 https://werkenbij.groningen.nl
