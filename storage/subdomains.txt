@@ -5624,6 +5624,7 @@ giskit-bgt.geldrop-mierlo.nl
 gisportal.leeuwarden.nl
 gisportal.vught.nl
 gisportalnew.leeuwarden.nl
+gisservice.eindhoven.nl
 gisservices.haarlemmermeer.nl
 gisservices.meierijstad.nl
 gisservices.zwolle.nl

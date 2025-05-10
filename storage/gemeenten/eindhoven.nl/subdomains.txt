@@ -15,6 +15,7 @@ ehvsubsidie.eindhoven.nl
 ehvsubsidie.test.eindhoven.nl
 eindhoven.nl
 english.eindhoven.nl
+gisservice.eindhoven.nl
 inkomensbalie.eindhoven.nl
 inloggen.mijnsubsidie.eindhoven.nl
 inloggen.mijnsubsidie.test.eindhoven.nl

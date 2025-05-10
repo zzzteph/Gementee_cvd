@@ -2317,7 +2317,6 @@ https://data.bergendal.nl
 https://data.bergenopzoom.nl
 https://data.beuningen.nl
 https://data.breda.nl
-https://data.eindhoven.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl
@@ -3661,6 +3660,7 @@ https://gisibgeoserver.zwijndrecht.nl
 https://gisibonline.beesel.nl
 https://gisibtest.peelenmaas.nl
 https://gisportal.vught.nl
+https://gisservice.eindhoven.nl
 https://gisservices.haarlemmermeer.nl
 https://gisservices.zwolle.nl
 https://gisservicestest.zwolle.nl
