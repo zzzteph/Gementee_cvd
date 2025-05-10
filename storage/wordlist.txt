@@ -3346,6 +3346,7 @@ pit
 spin
 sslvpn2
 sso-sharefile
+veluwsepoort
 broker-preprod
 cms-intranet
 extranet-acc
