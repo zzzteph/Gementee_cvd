@@ -463,7 +463,6 @@ http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-insite.houten.nl
 http://test-intranet.beuningen.nl
-http://test-intranet.drimmelen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
@@ -611,7 +610,6 @@ https://aardgasvrij.acc.nijmegen.nl
 https://aardgasvrij.nijmegen.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
-https://academie.drimmelen.nl
 https://academie.goirle.nl
 https://academie.landgraaf.nl
 https://academie.nederbetuwe.nl
