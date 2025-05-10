@@ -115,6 +115,8 @@ afvalkalender
 dali
 preprod
 apps
+acc-formulier
+acc-podiumd-logs
 bastion365
 bgt
 obsurv
@@ -128,8 +130,10 @@ qr
 api.betalen
 openzaak
 auth
-acc-formulier
-acc-podiumd-logs
+acc-mijn
+acc-notificaties
+acc-objecten
+acc-objecttypen
 sip
 sts
 micollab
@@ -143,10 +147,10 @@ subsidies
 preprod-mijninkomen
 snelbaliepp
 nieuwsbrief
-acc-mijn
-acc-notificaties
-acc-objecten
-acc-objecttypen
+acc-contact
+acc-keycloak
+acc-openklant
+acc-openzaak
 keycloak
 notificaties
 podiumd-logs
@@ -159,10 +163,6 @@ belastingportaal
 bis
 maps
 vdi
-acc-contact
-acc-keycloak
-acc-openklant
-acc-openzaak
 lyncdiscover
 objecten
 objecttypen

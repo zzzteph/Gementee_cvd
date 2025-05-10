@@ -2,6 +2,16 @@ GBAV.emmen.nl
 GBAVT.emmen.nl
 LVWKPB-emmen.napels.emmen.nl
 acc-broker.emmen.nl
+acc-contact.emmen.nl
+acc-formulier.emmen.nl
+acc-keycloak.emmen.nl
+acc-mijn.emmen.nl
+acc-notificaties.emmen.nl
+acc-objecten.emmen.nl
+acc-objecttypen.emmen.nl
+acc-openklant.emmen.nl
+acc-openzaak.emmen.nl
+acc-podiumd-logs.emmen.nl
 acceptatie-stemvan.emmen.nl
 acceptatie.emmen.nl
 acceptatie.participatiewebshop.emmen.nl
