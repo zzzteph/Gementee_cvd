@@ -44,9 +44,9 @@ iparticipatie
 pv
 ruimtelijkeplannen
 werkenbij
+testeloket
 test-ipa
 enterpriseenrollment
-testeloket
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
