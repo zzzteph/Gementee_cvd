@@ -253,7 +253,6 @@ http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://doesburg.nl
-http://doetinchem.nl
 http://draadloos.sittard-geleen.nl
 http://duurzaam.waalwijk.nl
 http://duurzaam.woensdrecht.nl
@@ -520,7 +519,6 @@ http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
-http://www.doetinchem.nl
 http://www.eersel.nl
 http://www.gemeentebelastingen.amsterdam.nl
 http://www.heerlen.nl
@@ -2526,6 +2524,7 @@ https://doemee.veere.nl
 https://doemee.vlissingen.nl
 https://doemee.zoetermeer.nl
 https://doemee.zwolle.nl
+https://doetinchem.nl
 https://dok.dronten.nl
 https://dok.rotterdam.nl
 https://dolph.rotterdam.nl
@@ -6621,6 +6620,7 @@ https://simcms.bergenopzoom.nl
 https://simcms.beverwijk.nl
 https://simcms.capelleaandenijssel.nl
 https://simcms.dalfsen.nl
+https://simcms.doetinchem.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
@@ -8005,6 +8005,7 @@ https://www.doemee.deventer.nl
 https://www.doemee.gemeentewestland.nl
 https://www.doemee.terneuzen.nl
 https://www.doemee.zwolle.nl
+https://www.doetinchem.nl
 https://www.dongen.nl
 https://www.dordrecht.nl
 https://www.drechterland.nl
