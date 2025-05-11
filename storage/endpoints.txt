@@ -403,6 +403,7 @@ http://simcms-data.westerkwartier.nl
 http://simcms-epos.staphorst.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
+http://simcms-open.gemeentebeek.nl
 http://simcms-open.leudal.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-woo.doesburg.nl
@@ -413,7 +414,6 @@ http://simcms.bunschoten.nl
 http://simcms.cranendonck.nl
 http://simcms.doesburg.nl
 http://simcms.geldrop-mierlo.nl
-http://simcms.gemeentebeek.nl
 http://simcms.heerlen.nl
 http://simcms.middelburg.nl
 http://simcms.opsterland.nl
@@ -3478,7 +3478,6 @@ https://gemeentearchief.goes.nl
 https://gemeentearchief.veenendaal.nl
 https://gemeentearchief.wassenaar.nl
 https://gemeentearchief.wierden.nl
-https://gemeentebeek.nl
 https://gemeenteberkelland.nl
 https://gemeentebest.nl
 https://gemeentebestuur.haarlem.nl
@@ -5588,7 +5587,6 @@ https://open.breda.nl
 https://open.dinkelland.nl
 https://open.ede.nl
 https://open.epe.nl
-https://open.gemeentebeek.nl
 https://open.gemeentestein.nl
 https://open.gooisemeren.nl
 https://open.gorinchem.nl
@@ -6671,6 +6669,7 @@ https://simsite.bergen.nl
 https://simsite.bergendal.nl
 https://simsite.deurne.nl
 https://simsite.edam-volendam.nl
+https://simsite.gemeentebeek.nl
 https://simsite.goeree-overflakkee.nl
 https://simsite.heumen.nl
 https://simsite.kerkrade.nl
