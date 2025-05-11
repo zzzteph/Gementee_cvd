@@ -278,7 +278,6 @@ http://felix.staphorst.nl
 http://felix.valkenswaard.nl
 http://felix.zundert.nl
 http://flash.scherpenzeel.nl
-http://formulieren.geertruidenberg.nl
 http://formulieren.heerenveen.nl
 http://formulieren.meierijstad.nl
 http://ftp.lopik.nl
@@ -985,6 +984,7 @@ https://adfs.brummen.nl
 https://adfs.brunssum.nl
 https://adfs.doetinchem.nl
 https://adfs.edam-volendam.nl
+https://adfs.geertruidenberg.nl
 https://adfs.gooisemeren.nl
 https://adfs.gorinchem.nl
 https://adfs.kerkrade.nl
@@ -6388,6 +6388,7 @@ https://remote.zutphen.nl
 https://renswoude.nl
 https://reserveren.coevorden.nl
 https://reserveren.vijfheerenlanden.nl
+https://reserveringen.geertruidenberg.nl
 https://reserveringen.tilburg.nl
 https://restore.wierden.nl
 https://return.heuvelrug.nl
@@ -6667,7 +6668,6 @@ https://simsite.bergen.nl
 https://simsite.bergendal.nl
 https://simsite.deurne.nl
 https://simsite.edam-volendam.nl
-https://simsite.geertruidenberg.nl
 https://simsite.goeree-overflakkee.nl
 https://simsite.heumen.nl
 https://simsite.kerkrade.nl
@@ -6816,6 +6816,7 @@ https://squitxo-test.schagen.nl
 https://squitxo.rijssen-holten.nl
 https://squitxo.schagen.nl
 https://ssl.roermond.nl
+https://sslvpn.geertruidenberg.nl
 https://sso.ir.rotterdam.nl
 https://sso.staphorst.nl
 https://ssorad.rotterdam.nl

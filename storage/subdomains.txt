@@ -734,6 +734,7 @@ adfs.bunschoten.nl
 adfs.denhelder.nl
 adfs.doetinchem.nl
 adfs.edam-volendam.nl
+adfs.geertruidenberg.nl
 adfs.gemeentebeek.nl
 adfs.gemeentewestland.nl
 adfs.ggd.amsterdam.nl
@@ -2350,6 +2351,7 @@ bgt.baarn.nl
 bgt.brummen.nl
 bgt.capelleaandenijssel.nl
 bgt.dewolden.nl
+bgt.geertruidenberg.nl
 bgt.halderberge.nl
 bgt.hoogeveen.nl
 bgt.lochem.nl
@@ -10702,6 +10704,7 @@ reports.sudwestfryslan.nl
 reserveren.coevorden.nl
 reserveren.vijfheerenlanden.nl
 reservering.oldenzaal.nl
+reserveringen.geertruidenberg.nl
 reserveringen.tilburg.nl
 reset.utrecht.nl
 restore.wierden.nl
@@ -11804,6 +11807,7 @@ ssdtest.landgraaf.nl
 ssl.roermond.nl
 sslvpn.arnhem.nl
 sslvpn.denhaag.nl
+sslvpn.geertruidenberg.nl
 sslvpn.haarlem.nl
 sslvpn.houten.nl
 sslvpn.westerkwartier.nl

@@ -36,8 +36,8 @@ geo
 api.meldingen
 betalen
 vpn
-broker
 adfs
+broker
 zaaksysteem-accept
 gemeenteraad
 iparticipatie
@@ -104,6 +104,7 @@ samen
 verkiezingen
 duurzaam
 gemeente
+bgt
 simcms-open
 www.webmail
 dtestmidoffice
@@ -118,7 +119,6 @@ apps
 acc-formulier
 acc-podiumd-logs
 bastion365
-bgt
 obsurv
 filecap
 preprodbroker
@@ -262,6 +262,7 @@ woz
 www.acc
 admin.openstad
 openstad
+sslvpn
 afval
 meet
 www.doemee
@@ -298,7 +299,6 @@ auth.openstad
 img.openstad
 ns1
 rooster
-sslvpn
 openformulieren
 awmag
 beeldbank-bo
@@ -988,6 +988,7 @@ test-contact
 zoek
 financieelportaal
 intake
+reserveringen
 organisatie
 director
 exchangehybrid
@@ -6081,7 +6082,6 @@ ondertekenen.trouwen
 open-acceptatie
 ot1
 printen
-reserveringen
 samenwerking
 secfs
 suppliers-ot
