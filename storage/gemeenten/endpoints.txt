@@ -561,7 +561,6 @@ http://www.werkenbij.zaanstad.nl
 http://www.zoetermeer.nl
 http://www.zorgloket.druten.nl
 http://www.zuidwestopznbest.denhaag.nl
-http://zoekengemeentearchief.gemeentehulst.nl
 http://zorgloket.druten.nl
 http://zwartewaterland.nl
 https://1221.hilversum.nl
@@ -8614,6 +8613,7 @@ https://zoek.epe.nl
 https://zoeken.alkmaar.nl
 https://zoeken.deventer.nl
 https://zoeken.olst-wijhe.nl
+https://zoekengemeentearchief.gemeentehulst.nl
 https://zoekpersoon.vlaardingen.nl
 https://zoetermeer.nl
 https://zoeterwoude.nl
