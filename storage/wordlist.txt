@@ -43,9 +43,9 @@ gemeenteraad
 iparticipatie
 pv
 ruimtelijkeplannen
+test-ipa
 werkenbij
 testeloket
-test-ipa
 enterpriseenrollment
 belastingen
 dacceptatieloket

@@ -21,6 +21,7 @@ ro-online.gennep.nl
 secure.gennep.nl
 simsite.gennep.nl
 spam.gennep.nl
+test-ipa.gennep.nl
 test.digikoppeling.gennep.nl
 testeloket.gennep.nl
 www.gennep.nl
