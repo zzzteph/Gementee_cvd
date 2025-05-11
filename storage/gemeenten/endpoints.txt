@@ -1528,7 +1528,6 @@ https://bag-vvee21.veendam.nl
 https://bag-vwes11.westerwolde.nl
 https://bag.acc.denhaag.nl
 https://bag.deventer.nl
-https://bag.etten-leur.nl
 https://balie2.vlaardingen.nl
 https://barendrecht.nl
 https://barneveld.nl
