@@ -1,4 +1,4 @@
-https://beh-gemeenteloket.gemeentemaastricht.nl
+http://pre-gemeenteloket.gemeentemaastricht.nl
 https://eloket.gemeentemaastricht.nl
 https://gemeentemaastricht.nl
 https://googleauth.gemeentemaastricht.nl

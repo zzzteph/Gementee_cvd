@@ -374,6 +374,7 @@ http://participatieprikbord.denhaag.nl
 http://pip-preproductie.gemeentehw.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
+http://pre-gemeenteloket.gemeentemaastricht.nl
 http://pre-ows-ahp-test.groningen.nl
 http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
@@ -1635,7 +1636,6 @@ https://begroting2018.hoorn.nl
 https://begroting2019.financien.gouda.nl
 https://begroting2020.pijnacker-nootdorp.nl
 https://begroting2021.pijnacker-nootdorp.nl
-https://beh-gemeenteloket.gemeentemaastricht.nl
 https://beheer-test-trefpunt.deurne.nl
 https://beheer-trefpunt.deurne.nl
 https://beheer.acc.amsterdam.nl
