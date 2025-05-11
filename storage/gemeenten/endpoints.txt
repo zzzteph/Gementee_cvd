@@ -319,6 +319,7 @@ http://leusden-checker.leusden.nl
 http://lingewaard.nl
 http://login.sittard-geleen.nl
 http://loket.acceptatie.hardinxveld-giessendam.nl
+http://loket.gemeentewestland.nl
 http://luchen.geldrop-mierlo.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
@@ -6173,7 +6174,6 @@ https://preproductie.beuningen.nl
 https://preproductie.dalfsen.nl
 https://preproductie.deurne.nl
 https://preproductie.gemeentewesterveld.nl
-https://preproductie.gemeentewestland.nl
 https://preproductie.goeree-overflakkee.nl
 https://preproductie.landgraaf.nl
 https://preproductie.lopik.nl
