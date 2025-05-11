@@ -227,7 +227,6 @@ http://boostjebuurt.amsterdam.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buikslotermeerplein.amsterdam.nl
 http://buurthuisvandetoekomst.denhaag.nl
-http://centrumimpuls.geldrop-mierlo.nl
 http://cjg.scherpenzeel.nl
 http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
@@ -319,6 +318,7 @@ http://leusden-checker.leusden.nl
 http://lingewaard.nl
 http://login.sittard-geleen.nl
 http://loket.acceptatie.hardinxveld-giessendam.nl
+http://luchen.geldrop-mierlo.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
 http://maassluis.nl
@@ -354,6 +354,7 @@ http://oens.almere.nl
 http://omgevingswet.bronckhorst.nl
 http://ontwikkelstrategie.amsterdam.nl
 http://ooststellingwerf.nl
+http://open.geldrop-mierlo.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
 http://opendata.heemstede.nl
@@ -401,8 +402,8 @@ http://sem.kampen.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-epos.staphorst.nl
 http://simcms-open.beverwijk.nl
+http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
-http://simcms-samenduurzaam.geldrop-mierlo.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-woo.doesburg.nl
 http://simcms.achtkarspelen.nl
@@ -411,6 +412,7 @@ http://simcms.beuningen.nl
 http://simcms.bunschoten.nl
 http://simcms.cranendonck.nl
 http://simcms.doesburg.nl
+http://simcms.geldrop-mierlo.nl
 http://simcms.gemeentebeek.nl
 http://simcms.heerlen.nl
 http://simcms.middelburg.nl
@@ -2061,6 +2063,7 @@ https://cdn.oude-ijsselstreek.nl
 https://cdn1.tilburg.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
+https://centrumimpuls.geldrop-mierlo.nl
 https://checklist.rotterdam.nl
 https://cicd010.rotterdam.nl
 https://cimot.almelo.nl
@@ -3184,6 +3187,7 @@ https://felix.beuningen.nl
 https://felix.bladel.nl
 https://felix.cranendonck.nl
 https://felix.dalfsen.nl
+https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.harlingen.nl
 https://felix.heerlen.nl
@@ -3453,7 +3457,6 @@ https://gebouwdin.amsterdam.nl
 https://geertruidenberg.nl
 https://gegevensuitwisselingsysteem.rotterdam.nl
 https://geldloket.emmen.nl
-https://geldrop-mierlo.nl
 https://geldwijzer.zaanstad.nl
 https://gelukkignieuwjaar.zwolle.nl
 https://gemeente-oldambt.nl
@@ -6621,6 +6624,7 @@ https://simcms-open.wierden.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.beuningen.nl
+https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.ameland.nl
@@ -6632,7 +6636,6 @@ https://simcms.capelleaandenijssel.nl
 https://simcms.dalfsen.nl
 https://simcms.doetinchem.nl
 https://simcms.echt-susteren.nl
-https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
 https://simcms.halderberge.nl
@@ -7834,6 +7837,7 @@ https://woningbouwkaart.dewolden.nl
 https://woningbouwkaart.eersel.nl
 https://woningbouwkaart.eindhoven.nl
 https://woningbouwkaart.emmen.nl
+https://woningbouwkaart.geldrop-mierlo.nl
 https://woningbouwkaart.gemeentewesterveld.nl
 https://woningbouwkaart.heeze-leende.nl
 https://woningbouwkaart.helmond.nl

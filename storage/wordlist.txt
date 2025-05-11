@@ -88,13 +88,13 @@ cmsintranet
 denkmee
 parkeren-test
 piwik
+woningbouwkaart
 belastingloket
 dtestloket
 connect
 osbacc
 siam
 financien
-woningbouwkaart
 extranet
 pki
 test-cmsintranet

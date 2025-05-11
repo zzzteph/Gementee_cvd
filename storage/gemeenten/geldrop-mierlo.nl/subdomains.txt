@@ -19,4 +19,5 @@ simcms-samenduurzaam.geldrop-mierlo.nl
 simcms.geldrop-mierlo.nl
 simsite.geldrop-mierlo.nl
 testeloket.geldrop-mierlo.nl
+woningbouwkaart.geldrop-mierlo.nl
 www.geldrop-mierlo.nl
