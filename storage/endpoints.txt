@@ -255,6 +255,7 @@ http://doesburg.nl
 http://draadloos.sittard-geleen.nl
 http://duurzaam.waalwijk.nl
 http://duurzaam.woensdrecht.nl
+http://ediensten.gemeentehw.nl
 http://eloket.meppel.nl
 http://eloket.nijkerk.eu
 http://emagazine2030.rijswijk.nl
@@ -370,6 +371,7 @@ http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
 http://participatielab.amsterdam.nl
 http://participatieprikbord.denhaag.nl
+http://pip-preproductie.gemeentehw.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
 http://pre-ows-ahp-test.groningen.nl
@@ -430,7 +432,6 @@ http://simform-preproductie.t-diel.nl
 http://simform-preproductie.vlaardingen.nl
 http://simform-preproductie.wassenaar.nl
 http://simform-test.rijswijk.nl
-http://simform.gemeentehw.nl
 http://simform.gemeentemaasgouw.nl
 http://simform.heerenveen.nl
 http://simform.t-diel.nl
@@ -5940,9 +5941,7 @@ https://pform.schiedam.nl
 https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pijnacker-nootdorp.nl
 https://pilot-digitaleplannen.apeldoorn.nl
-https://pip-preproductie.gemeentehw.nl
 https://pip-test.urk.nl
-https://pip.gemeentehw.nl
 https://pip.urk.nl
 https://pip.vlaardingen.nl
 https://piwik.ede.nl
@@ -6658,9 +6657,9 @@ https://simcms.vlieland.nl
 https://simcms.westerkwartier.nl
 https://simcms.weststellingwerf.nl
 https://simcms.winterswijk.nl
-https://simform-preproductie.gemeentehw.nl
 https://simform-preproductie.voorschoten.nl
 https://simform.beuningen.nl
+https://simform.gemeentehw.nl
 https://simform.houten.nl
 https://simform.rijswijk.nl
 https://simform.vlissingen.nl
