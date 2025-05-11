@@ -2,6 +2,7 @@ http://autodiscover.gemeentemaashorst.nl
 https://acc-broker.gemeentemaashorst.nl
 https://acc-contact.gemeentemaashorst.nl
 https://acc-formulier.gemeentemaashorst.nl
+https://acc-keycloak-admin.gemeentemaashorst.nl
 https://acc-keycloak.gemeentemaashorst.nl
 https://acc-mijn.gemeentemaashorst.nl
 https://acc-notificaties.gemeentemaashorst.nl
@@ -10,6 +11,7 @@ https://acc-objecttypen.gemeentemaashorst.nl
 https://acc-openklant.gemeentemaashorst.nl
 https://acc-openzaak.gemeentemaashorst.nl
 https://acc-podiumd-logs.gemeentemaashorst.nl
+https://acc-zac.gemeentemaashorst.nl
 https://broker.gemeentemaashorst.nl
 https://dacceptatieloket.gemeentemaashorst.nl
 https://dloket.gemeentemaashorst.nl
@@ -22,6 +24,7 @@ https://formulier.gemeentemaashorst.nl
 https://gbi.gemeentemaashorst.nl
 https://gemeentemaashorst.nl
 https://gemeenteraad.gemeentemaashorst.nl
+https://iburgerzaken.gemeentemaashorst.nl
 https://keycloak.gemeentemaashorst.nl
 https://mijn.gemeentemaashorst.nl
 https://mijnsociaalplein.gemeentemaashorst.nl

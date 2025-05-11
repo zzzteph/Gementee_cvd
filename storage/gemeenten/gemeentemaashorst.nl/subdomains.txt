@@ -1,6 +1,7 @@
 acc-broker.gemeentemaashorst.nl
 acc-contact.gemeentemaashorst.nl
 acc-formulier.gemeentemaashorst.nl
+acc-keycloak-admin.gemeentemaashorst.nl
 acc-keycloak.gemeentemaashorst.nl
 acc-mijn.gemeentemaashorst.nl
 acc-notificaties.gemeentemaashorst.nl
@@ -9,6 +10,7 @@ acc-objecttypen.gemeentemaashorst.nl
 acc-openklant.gemeentemaashorst.nl
 acc-openzaak.gemeentemaashorst.nl
 acc-podiumd-logs.gemeentemaashorst.nl
+acc-zac.gemeentemaashorst.nl
 autodiscover.gemeentemaashorst.nl
 broker.gemeentemaashorst.nl
 dacceptatieloket.gemeentemaashorst.nl

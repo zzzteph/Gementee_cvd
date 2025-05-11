@@ -181,6 +181,8 @@ mailing
 email
 legacy
 gis
+acc-keycloak-admin
+acc-zac
 contact
 test-digikoppeling
 meedoen
@@ -206,8 +208,6 @@ onderzoek
 jcc
 sharefile
 telewerken
-acc-keycloak-admin
-acc-zac
 bag
 intranet-acc
 inproces.acceptatie

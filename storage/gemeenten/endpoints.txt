@@ -671,6 +671,7 @@ https://acc-formulier.zwolle.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.enschede.nl
 https://acc-keycloak-admin.gemeente-oldambt.nl
+https://acc-keycloak-admin.gemeentemaashorst.nl
 https://acc-keycloak-admin.gemert-bakel.nl
 https://acc-keycloak-admin.laarbeek.nl
 https://acc-keycloak-admin.oldenzaal.nl
@@ -817,6 +818,7 @@ https://acc-zac.assen.nl
 https://acc-zac.dev.groningen.nl
 https://acc-zac.enschede.nl
 https://acc-zac.gemeente-oldambt.nl
+https://acc-zac.gemeentemaashorst.nl
 https://acc-zac.gemert-bakel.nl
 https://acc-zac.laarbeek.nl
 https://acc-zac.oldenzaal.nl
@@ -3896,6 +3898,7 @@ https://iburgerzaken.gemeente-oldambt.nl
 https://iburgerzaken.gemeente-steenbergen.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
+https://iburgerzaken.gemeentemaashorst.nl
 https://iburgerzaken.gemeentestein.nl
 https://iburgerzaken.gemert-bakel.nl
 https://iburgerzaken.gennep.nl

@@ -216,6 +216,7 @@ acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.enschede.nl
 acc-keycloak-admin.gemeente-oldambt.nl
+acc-keycloak-admin.gemeentemaashorst.nl
 acc-keycloak-admin.gemert-bakel.nl
 acc-keycloak-admin.laarbeek.nl
 acc-keycloak-admin.oldenzaal.nl
@@ -373,6 +374,7 @@ acc-zac.assen.nl
 acc-zac.dev.groningen.nl
 acc-zac.enschede.nl
 acc-zac.gemeente-oldambt.nl
+acc-zac.gemeentemaashorst.nl
 acc-zac.gemert-bakel.nl
 acc-zac.laarbeek.nl
 acc-zac.oldenzaal.nl
