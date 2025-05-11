@@ -32,6 +32,7 @@ https://formulier.gemert-bakel.nl
 https://gemert-bakel.nl
 https://geovisiaonline.gemert-bakel.nl
 https://iburgerzaken.gemert-bakel.nl
+https://keycloak-admin.gemert-bakel.nl
 https://keycloak.gemert-bakel.nl
 https://mijn.gemert-bakel.nl
 https://notificaties.gemert-bakel.nl
@@ -46,3 +47,4 @@ https://www.de.gemert-bakel.nl
 https://www.en.cmsoo.gemert-bakel.nl
 https://www.en.gemert-bakel.nl
 https://www.gemert-bakel.nl
+https://zac.gemert-bakel.nl

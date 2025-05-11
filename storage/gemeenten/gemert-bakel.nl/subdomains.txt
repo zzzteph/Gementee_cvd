@@ -42,6 +42,7 @@ geovisiaonline.gemert-bakel.nl
 iburgerzaken.gemert-bakel.nl
 ibzpink.gemert-bakel.nl
 intranet.gemert-bakel.nl
+keycloak-admin.gemert-bakel.nl
 keycloak.gemert-bakel.nl
 login.gemert-bakel.nl
 mail.gemert-bakel.nl
@@ -78,3 +79,4 @@ www.en.gemert-bakel.nl
 www.gb-wls-04.gemert-bakel.nl
 www.gb-wls-05.gemert-bakel.nl
 www.gemert-bakel.nl
+zac.gemert-bakel.nl

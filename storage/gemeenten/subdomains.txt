@@ -7216,6 +7216,7 @@ key2waarderen-voormeldingwoz.amersfoort.nl
 keycloak-adm.denhaag.nl
 keycloak-admin.assen.nl
 keycloak-admin.enschede.nl
+keycloak-admin.gemert-bakel.nl
 keycloak-zgw.acc.denhaag.nl
 keycloak-zgw.test.denhaag.nl
 keycloak.acc.denhaag.nl
@@ -15216,6 +15217,7 @@ zac.cg-intern.acc.utrecht.nl
 zac.cg-intern.ont.utrecht.nl
 zac.cg-intern.utrecht.nl
 zac.enschede.nl
+zac.gemert-bakel.nl
 zaken.acceptatie.coevorden.nl
 zaken.acceptatie.dantumadiel.frl
 zaken.acceptatie.drechterland.nl
