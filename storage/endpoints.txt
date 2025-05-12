@@ -266,7 +266,6 @@ http://felix.baarn.nl
 http://felix.bunschoten.nl
 http://felix.capelleaandenijssel.nl
 http://felix.eersel.nl
-http://felix.halderberge.nl
 http://felix.heeze-leende.nl
 http://felix.landgraaf.nl
 http://felix.loonopzand.nl
@@ -355,6 +354,7 @@ http://omgevingswet.bronckhorst.nl
 http://ontwikkelstrategie.amsterdam.nl
 http://ooststellingwerf.nl
 http://open.geldrop-mierlo.nl
+http://open.halderberge.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
 http://opendata.heemstede.nl
@@ -404,6 +404,7 @@ http://simcms-epos.staphorst.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.gemeentebeek.nl
+http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-woo.doesburg.nl
@@ -3193,6 +3194,7 @@ https://felix.dalfsen.nl
 https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.gemeentemaasgouw.nl
+https://felix.halderberge.nl
 https://felix.harlingen.nl
 https://felix.heerlen.nl
 https://felix.kerkrade.nl
@@ -3730,6 +3732,7 @@ https://haarlem.nl
 https://haarlemmerliederaad.haarlemmermeer.nl
 https://haarlemmermeer.nl
 https://halbox.halderberge.nl
+https://halderberge.nl
 https://halnet.halderberge.nl
 https://handboekdibor.ede.nl
 https://handleiding.nunspeet.nl
@@ -5598,7 +5601,6 @@ https://open.gemeentestein.nl
 https://open.gooisemeren.nl
 https://open.gorinchem.nl
 https://open.gouda.nl
-https://open.halderberge.nl
 https://open.hillegom.nl
 https://open.hilversum.nl
 https://open.hofvantwente.nl
@@ -6623,7 +6625,6 @@ https://simcms-duurzaam.woensdrecht.nl
 https://simcms-energiek.beuningen.nl
 https://simcms-gemeenteraad.vlissingen.nl
 https://simcms-open.doetinchem.nl
-https://simcms-open.halderberge.nl
 https://simcms-open.oirschot.nl
 https://simcms-open.wierden.nl
 https://simcms-open.zuidplas.nl
@@ -6642,7 +6643,6 @@ https://simcms.dalfsen.nl
 https://simcms.doetinchem.nl
 https://simcms.echt-susteren.nl
 https://simcms.goeree-overflakkee.nl
-https://simcms.halderberge.nl
 https://simcms.heumen.nl
 https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
