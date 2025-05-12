@@ -97,6 +97,7 @@ http://autodiscover.hattem.nl
 http://autodiscover.heemskerk.nl
 http://autodiscover.heemstede.nl
 http://autodiscover.heerde.nl
+http://autodiscover.heerlen.nl
 http://autodiscover.heeze-leende.nl
 http://autodiscover.heiloo.nl
 http://autodiscover.hellevoetsluis.nl
@@ -338,6 +339,7 @@ http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
 http://mijn.zwartewaterland.nl
 http://mijnwerkplek.schagen.nl
+http://mijnzaken.heerlen.nl
 http://mijnzorg-acc.alkmaar.nl
 http://mijnzorg.amstelveen.nl
 http://mookenmiddelaar.nl
@@ -394,8 +396,8 @@ http://raas.rotterdam.nl
 http://redirector.alkmaar.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
-http://samenindebuurt.heerlen.nl
 http://sem.kampen.nl
+http://simcms-centrum.heerlen.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-epos.staphorst.nl
 http://simcms-open.beverwijk.nl
@@ -413,7 +415,6 @@ http://simcms.cranendonck.nl
 http://simcms.doesburg.nl
 http://simcms.geldrop-mierlo.nl
 http://simcms.gemeentemaasgouw.nl
-http://simcms.heerlen.nl
 http://simcms.middelburg.nl
 http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
@@ -2059,6 +2060,7 @@ https://catalogus.dataplatform.accp.s-hertogenbosch.nl
 https://catalogus.dataplatform.s-hertogenbosch.nl
 https://cdn.oude-ijsselstreek.nl
 https://cdn1.tilburg.nl
+https://centrum.heerlen.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
 https://centrumimpuls.geldrop-mierlo.nl
@@ -3753,7 +3755,6 @@ https://heemskerk.nl
 https://heemstede.nl
 https://heerde.nl
 https://heerenveen.nl
-https://heerlen.nl
 https://heiligen.deventer.nl
 https://heiloo.nl
 https://heitje.heerlen.nl
@@ -5181,7 +5182,6 @@ https://mijnws.amsterdam.nl
 https://mijnzaken-test.hengelo.nl
 https://mijnzaken.derondevenen.nl
 https://mijnzaken.halderberge.nl
-https://mijnzaken.heerlen.nl
 https://mijnzaken.hengelo.nl
 https://mijnzaken.schagen.nl
 https://mijnzakentest.heerlen.nl
@@ -6496,6 +6496,7 @@ https://samen.s-hertogenbosch.nl
 https://samen.schagen.nl
 https://samen.stedebroec.nl
 https://samenatwork.stichtsevecht.nl
+https://samenindebuurt.heerlen.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
