@@ -8,5 +8,6 @@ https://geovisia.harlingen.nl
 https://parkeervergunningen.harlingen.nl
 https://portal.harlingen.nl
 https://samen.harlingen.nl
+https://simcms.harlingen.nl
 https://testeloket.harlingen.nl
 https://woz-loket.harlingen.nl
