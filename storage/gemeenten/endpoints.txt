@@ -267,7 +267,6 @@ http://felix.baarn.nl
 http://felix.bunschoten.nl
 http://felix.capelleaandenijssel.nl
 http://felix.eersel.nl
-http://felix.heeze-leende.nl
 http://felix.landgraaf.nl
 http://felix.loonopzand.nl
 http://felix.middendelfland.nl
@@ -1086,7 +1085,6 @@ https://afspraken.gemeente-steenbergen.nl
 https://afspraken.goes.nl
 https://afspraken.goirle.nl
 https://afspraken.harderwijk.nl
-https://afspraken.heeze-leende.nl
 https://afspraken.hellevoetsluis.nl
 https://afspraken.huizen.nl
 https://afspraken.kampen.nl
@@ -3196,6 +3194,7 @@ https://felix.gemeentemaasgouw.nl
 https://felix.halderberge.nl
 https://felix.harlingen.nl
 https://felix.heerlen.nl
+https://felix.heeze-leende.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
 https://felix.lopik.nl
@@ -3755,6 +3754,7 @@ https://heemskerk.nl
 https://heemstede.nl
 https://heerde.nl
 https://heerenveen.nl
+https://heeze-leende.nl
 https://heiligen.deventer.nl
 https://heiloo.nl
 https://heitje.heerlen.nl
@@ -4486,6 +4486,7 @@ https://klantcontact.bergendal.nl
 https://klantcontact.beuningen.nl
 https://klantcontact.cranendonck.nl
 https://klantcontact.deurne.nl
+https://klantcontact.heeze-leende.nl
 https://klantcontact.kerkrade.nl
 https://klantcontact.koggenland.nl
 https://klantcontact.landgraaf.nl
@@ -6183,6 +6184,7 @@ https://preproductie.dalfsen.nl
 https://preproductie.deurne.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gorinchem.nl
+https://preproductie.heeze-leende.nl
 https://preproductie.landgraaf.nl
 https://preproductie.lopik.nl
 https://preproductie.ooststellingwerf.nl
@@ -6645,6 +6647,7 @@ https://simcms.doetinchem.nl
 https://simcms.echt-susteren.nl
 https://simcms.goeree-overflakkee.nl
 https://simcms.harlingen.nl
+https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl

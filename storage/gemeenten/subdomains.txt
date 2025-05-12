@@ -7266,6 +7266,7 @@ klantcontact.bergendal.nl
 klantcontact.beuningen.nl
 klantcontact.cranendonck.nl
 klantcontact.deurne.nl
+klantcontact.heeze-leende.nl
 klantcontact.kerkrade.nl
 klantcontact.koggenland.nl
 klantcontact.landgraaf.nl

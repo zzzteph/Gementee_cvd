@@ -77,12 +77,12 @@ cloudadapter
 kaarten
 berichten
 parkeren-acc
+klantcontact
 _autodiscover._tcp
 digikoppeling.test
 mks
 acc-broker
 doemee
-klantcontact
 test-intranet
 cmsintranet
 denkmee
