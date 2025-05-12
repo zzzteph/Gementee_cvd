@@ -718,7 +718,6 @@ parkeerloket
 qmanage
 autodiscover.raad
 edienstenburgerzaken.test
-autorisatie
 av
 datalab
 gen1
@@ -1241,6 +1240,7 @@ alksrx01
 alktkpv01.authenticatie
 ap01
 artiance
+autorisatie
 autorisatie01
 autorisatie02
 berichtenverkeer.authenticatie
@@ -4296,7 +4296,6 @@ eikenhof
 klanten
 uitkeringprod
 uitkeringtest
-autorisatietest
 bouwtekeningen
 grootklooster.doemee
 jf.doemee

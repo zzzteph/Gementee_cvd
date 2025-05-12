@@ -357,7 +357,6 @@ http://open.geldrop-mierlo.nl
 http://open.halderberge.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
-http://opendata.heemstede.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -5633,6 +5632,7 @@ https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
+https://opendata.heemstede.nl
 https://opendata.nijmegen.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl

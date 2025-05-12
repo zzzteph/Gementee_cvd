@@ -1,6 +1,4 @@
 autodiscover.heemstede.nl
-autorisatie.heemstede.nl
-autorisatietest.heemstede.nl
 begraafplaats.heemstede.nl
 bouwdossiers.heemstede.nl
 bouwtekeningen.heemstede.nl

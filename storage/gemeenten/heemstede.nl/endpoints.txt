@@ -1,5 +1,4 @@
 http://autodiscover.heemstede.nl
-http://opendata.heemstede.nl
 https://begraafplaats.heemstede.nl
 https://bouwdossiers.heemstede.nl
 https://bouwtekeningen.heemstede.nl
@@ -15,6 +14,7 @@ https://johanwagenaarlaan-cesarfrancklaan-old.doemee.heemstede.nl
 https://johanwagenaarlaan-cesarfrancklaan.doemee.heemstede.nl
 https://mail.heemstede.nl
 https://omgevingsvisie.heemstede.nl
+https://opendata.heemstede.nl
 https://parkeren.heemstede.nl
 https://plein1.heemstede.nl
 https://tradities.heemstede.nl

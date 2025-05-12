@@ -1785,7 +1785,6 @@ automator.haarlemmermeer.nl
 automator.twenterand.nl
 automator2.twenterand.nl
 autorisatie.alkmaar.nl
-autorisatie.heemstede.nl
 autorisatie01.alkmaar.nl
 autorisatie02.alkmaar.nl
 autorisatiebeheer-test.brunssum.nl
@@ -1798,7 +1797,6 @@ autorisatiebeheer.landgraaf.nl
 autorisatiebeheer.simpelveld.nl
 autorisatiebeheer.voerendaal.nl
 autorisatiebeheertest.simpelveld.nl
-autorisatietest.heemstede.nl
 av.alkmaar.nl
 av.urk.nl
 av2.urk.nl
