@@ -2,7 +2,6 @@ http://autodiscover.cbk.groningen.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
-http://ows-dmnsapi.groningen.nl
 http://ows-websrvc-test.groningen.nl
 http://pre-ows-ahp-test.groningen.nl
 http://pre-ows-app-test.groningen.nl
@@ -33,6 +32,7 @@ https://acc-openzaak.groningen.nl
 https://acc-podiumd-logs.dev.groningen.nl
 https://acc-podiumd-logs.groningen.nl
 https://acc-zac.dev.groningen.nl
+https://acc.meldingen.groningen.nl
 https://admin.stadjerspas.gemeente.groningen.nl
 https://aov.groningen.nl
 https://api.acc.meldingen.groningen.nl
@@ -47,6 +47,7 @@ https://broker.groningen.nl
 https://campus.groningen.nl
 https://cmsintranet.groningen.nl
 https://cmsoo.gemeente.groningen.nl
+https://contact.groningen.nl
 https://crls.groningen.nl
 https://dacceptatieloket.groningen.nl
 https://data.groningen.nl
@@ -90,10 +91,12 @@ https://notificaties.groningen.nl
 https://oldambt.groningen.nl
 https://onderzoek.groningen.nl
 https://open-formulieren.groningen.nl
+https://openklant.groningen.nl
 https://openzaak.groningen.nl
 https://owa.groningen.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
+https://ows-dmnsapi.groningen.nl
 https://ows-emssapi-test.groningen.nl
 https://ows-emssapi.groningen.nl
 https://ows-websrvc.groningen.nl
@@ -120,6 +123,7 @@ https://stoepvrij.groningen.nl
 https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
 https://test-cmsintranet.groningen.nl
+https://test-intranet.groningen.nl
 https://toegang.groningen.nl
 https://toerisme.groningen.nl
 https://tuinen.groningen.nl

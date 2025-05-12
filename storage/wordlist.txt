@@ -153,6 +153,7 @@ acc-openklant
 acc-openzaak
 keycloak
 notificaties
+openklant
 podiumd-logs
 mdm
 smtp
@@ -163,10 +164,10 @@ belastingportaal
 bis
 maps
 vdi
+contact
 lyncdiscover
 objecten
 objecttypen
-openklant
 owa
 gasten
 uc
@@ -183,7 +184,6 @@ legacy
 gis
 acc-keycloak-admin
 acc-zac
-contact
 test-digikoppeling
 meedoen
 fmreturn
@@ -528,6 +528,7 @@ css.openstad
 ssp
 activesync
 crl
+acc.meldingen
 api.acc.meldingen
 applicaties
 belastingbalie-acc
@@ -764,7 +765,6 @@ huishoudboekje
 redactie
 aanmeldenparkeren
 acc-nieuwsbrief
-acc.meldingen
 afs
 algoritmeregister
 api.data
@@ -3910,6 +3910,7 @@ lifecoolsquare
 login-accept.maximaaljezelf
 login.maximaaljezelf
 maps-tst
+md
 medezeggenschap
 middengroningen
 mijnjgz.ggd

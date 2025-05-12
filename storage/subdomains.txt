@@ -472,6 +472,7 @@ acc.makkelijkemarkt-dashboard.amsterdam.nl
 acc.map.data.amsterdam.nl
 acc.melding.amsterdam.nl
 acc.meldingen.amsterdam.nl
+acc.meldingen.groningen.nl
 acc.meldingen.kampen.nl
 acc.meldingenamsterdamsebos.amsterdam.nl
 acc.meldingenweesp.amsterdam.nl
@@ -3003,6 +3004,7 @@ contact.assen.nl
 contact.enschede.nl
 contact.gemeente-oldambt.nl
 contact.gemert-bakel.nl
+contact.groningen.nl
 contact.laarbeek.nl
 contact.oldenzaal.nl
 contact.oostgelre.nl
@@ -7956,6 +7958,7 @@ mbg2.dantumadiel.frl
 mbg2.noardeast-fryslan.nl
 mbg2.waadhoeke.nl
 md-app-p-01.middendelfland.nl
+md.groningen.nl
 md02.middendrenthe.nl
 md04.middendrenthe.nl
 mdfg01.middendrenthe.nl
@@ -9313,6 +9316,7 @@ openklant.enschede.nl
 openklant.gemeente-oldambt.nl
 openklant.gemeentemaashorst.nl
 openklant.gemert-bakel.nl
+openklant.groningen.nl
 openklant.laarbeek.nl
 openklant.oldenzaal.nl
 openklant.oostgelre.nl

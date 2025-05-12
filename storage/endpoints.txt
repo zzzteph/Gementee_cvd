@@ -361,7 +361,6 @@ http://opendata.heemstede.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
-http://ows-dmnsapi.groningen.nl
 http://ows-websrvc-test.groningen.nl
 http://p8-test.zwolle.nl
 http://p8.zwolle.nl
@@ -862,6 +861,7 @@ https://acc.kapelle.nl
 https://acc.login.subsidie.leiden.nl
 https://acc.map.data.amsterdam.nl
 https://acc.meldingen.amsterdam.nl
+https://acc.meldingen.groningen.nl
 https://acc.meldingen.kampen.nl
 https://acc.meldingenamsterdamsebos.amsterdam.nl
 https://acc.meldingenweesp.amsterdam.nl
@@ -2214,6 +2214,7 @@ https://contact.assen.nl
 https://contact.enschede.nl
 https://contact.gemeente-oldambt.nl
 https://contact.gemert-bakel.nl
+https://contact.groningen.nl
 https://contact.laarbeek.nl
 https://contact.oldenzaal.nl
 https://contact.oostgelre.nl
@@ -5657,6 +5658,7 @@ https://openklant.enschede.nl
 https://openklant.gemeente-oldambt.nl
 https://openklant.gemeentemaashorst.nl
 https://openklant.gemert-bakel.nl
+https://openklant.groningen.nl
 https://openklant.laarbeek.nl
 https://openklant.oldenzaal.nl
 https://openklant.oostgelre.nl
@@ -5797,6 +5799,7 @@ https://owa.veere.nl
 https://owas.wijdemeren.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
+https://ows-dmnsapi.groningen.nl
 https://ows-emssapi-test.groningen.nl
 https://ows-emssapi.groningen.nl
 https://ows-websrvc.groningen.nl
@@ -7068,6 +7071,7 @@ https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-internetafspraken.sittard-geleen.nl
 https://test-intranet.eemsdelta.nl
+https://test-intranet.groningen.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.sittard-geleen.nl

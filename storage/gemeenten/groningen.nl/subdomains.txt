@@ -25,6 +25,7 @@ acc-openzaak.groningen.nl
 acc-podiumd-logs.dev.groningen.nl
 acc-podiumd-logs.groningen.nl
 acc-zac.dev.groningen.nl
+acc.meldingen.groningen.nl
 accdrp.groningen.nl
 admin.stadjerspas.gemeente.groningen.nl
 afspraken-abs.groningen.nl
@@ -66,6 +67,7 @@ cmsintranet.groningen.nl
 cmsoo.gemeente.groningen.nl
 co108.groningen.nl
 consul-tst.groningen.nl
+contact.groningen.nl
 crls.groningen.nl
 dacceptatieloket.groningen.nl
 dacceptatiemidoffice.groningen.nl
@@ -162,6 +164,7 @@ mam.groningen.nl
 maps-tst.groningen.nl
 maps.groningen.nl
 mas.groningen.nl
+md.groningen.nl
 medezeggenschap.groningen.nl
 meldingen.groningen.nl
 middengroningen.groningen.nl
@@ -188,6 +191,7 @@ oldambt.groningen.nl
 onderzoek.groningen.nl
 oogst.groningen.nl
 open-formulieren.groningen.nl
+openklant.groningen.nl
 openzaak.groningen.nl
 owa.groningen.nl
 ows-ahp-test.groningen.nl
