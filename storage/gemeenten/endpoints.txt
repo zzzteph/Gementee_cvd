@@ -276,7 +276,6 @@ http://felix.staphorst.nl
 http://felix.valkenswaard.nl
 http://felix.zundert.nl
 http://flash.scherpenzeel.nl
-http://formulieren.heerenveen.nl
 http://formulieren.meierijstad.nl
 http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
@@ -332,7 +331,6 @@ http://malengo-testcms.gemert-bakel.nl
 http://malengo.gemert-bakel.nl
 http://meldcode.denhaag.nl
 http://meldpuntondermijning.rotterdam.nl
-http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.zuidplas.nl
 http://mijn.beekdaelen.nl
 http://mijn.doesburg.nl
@@ -3384,6 +3382,7 @@ https://formulieren.gemeentemaasgouw.nl
 https://formulieren.gooisemeren.nl
 https://formulieren.haarlemmermeer.nl
 https://formulieren.hardenberg.nl
+https://formulieren.heerenveen.nl
 https://formulieren.hethogeland.nl
 https://formulieren.hoorn.nl
 https://formulieren.houten.nl
@@ -4983,6 +4982,7 @@ https://mijn.groningen.nl
 https://mijn.haaksbergen.nl
 https://mijn.haarlem.nl
 https://mijn.hardenberg.nl
+https://mijn.heerenveen.nl
 https://mijn.hellendoorn.nl
 https://mijn.helmond.nl
 https://mijn.hengelo.nl
@@ -6128,7 +6128,6 @@ https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
 https://preprod-mijnportaal.lansingerland.nl
 https://preprod-mijnsociaaldomein.gemeentesluis.nl
-https://preprod-mijnsociaaldomein.heerenveen.nl
 https://preprod-mijnsociaaldomein.venlo.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
