@@ -46,7 +46,6 @@ https://openstad.haarlemmermeer.nl
 https://parkeren.haarlemmermeer.nl
 https://planningencontrol.haarlemmermeer.nl
 https://programmabegroting.haarlemmermeer.nl
-https://roplan.haarlemmermeer.nl
 https://smartaim-test.haarlemmermeer.nl
 https://smartaim.haarlemmermeer.nl
 https://spinajaar.haarlemmermeer.nl
