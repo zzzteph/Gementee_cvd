@@ -1,7 +1,6 @@
 http://connect.acceptatie.goirle.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
-https://academie.goirle.nl
 https://acceptatie.goirle.nl
 https://acceptatie.oranjeplein.goirle.nl
 https://afspraken.goirle.nl
@@ -16,6 +15,5 @@ https://jvs.goirle.nl
 https://oranjeplein.goirle.nl
 https://preprod-belastingportaal.goirle.nl
 https://raad.goirle.nl
-https://ruimtelijkeplannen.goirle.nl
 https://vergaderingen.goirle.nl
 https://www.goirle.nl

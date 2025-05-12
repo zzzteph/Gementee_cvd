@@ -612,7 +612,6 @@ https://aardgasvrij.acc.nijmegen.nl
 https://aardgasvrij.nijmegen.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
-https://academie.goirle.nl
 https://academie.landgraaf.nl
 https://academie.nederbetuwe.nl
 https://academie.smallingerland.nl
@@ -6450,7 +6449,6 @@ https://ruimtelijkeplannen.bodegraven-reeuwijk.nl
 https://ruimtelijkeplannen.deventer.nl
 https://ruimtelijkeplannen.dronten.nl
 https://ruimtelijkeplannen.gemert-bakel.nl
-https://ruimtelijkeplannen.goirle.nl
 https://ruimtelijkeplannen.gorinchem.nl
 https://ruimtelijkeplannen.lochem.nl
 https://ruimtelijkeplannen.olst-wijhe.nl
