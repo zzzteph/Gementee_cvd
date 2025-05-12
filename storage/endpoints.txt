@@ -285,7 +285,6 @@ http://geldzaken.loonopzand.nl
 http://geo.roermond.nl
 http://geocortex.krimpenerwaard.nl
 http://geoportal.weert.nl
-http://goeree-overflakkee.nl
 http://goud.almere.nl
 http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
@@ -339,7 +338,6 @@ http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.zuidplas.nl
 http://mijn.beekdaelen.nl
 http://mijn.doesburg.nl
-http://mijn.goeree-overflakkee.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
 http://mijn.zwartewaterland.nl
@@ -386,6 +384,7 @@ http://preproductie.beekdaelen.nl
 http://preproductie.cranendonck.nl
 http://preproductie.eersel.nl
 http://preproductie.gemeentebeek.nl
+http://preproductie.goeree-overflakkee.nl
 http://preproductie.kerkrade.nl
 http://preproductie.oirschot.nl
 http://preproductie.opmeer.nl
@@ -523,6 +522,7 @@ http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.gemeentebelastingen.amsterdam.nl
+http://www.goeree-overflakkee.nl
 http://www.heerlen.nl
 http://www.inspraakmaatregel15.amsterdam.nl
 http://www.internwifi.hellevoetsluis.nl
@@ -4973,6 +4973,7 @@ https://mijn.gemeente-oldambt.nl
 https://mijn.gemeenteberkelland.nl
 https://mijn.gemeentemaashorst.nl
 https://mijn.gemert-bakel.nl
+https://mijn.goeree-overflakkee.nl
 https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
 https://mijn.groningen.nl
@@ -6175,7 +6176,6 @@ https://preproductie.beuningen.nl
 https://preproductie.dalfsen.nl
 https://preproductie.deurne.nl
 https://preproductie.gemeentewesterveld.nl
-https://preproductie.goeree-overflakkee.nl
 https://preproductie.landgraaf.nl
 https://preproductie.lopik.nl
 https://preproductie.ooststellingwerf.nl
