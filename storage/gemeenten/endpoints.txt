@@ -466,6 +466,7 @@ http://test-cmssocialintranet.middendelfland.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-insite.houten.nl
+http://test-intra.gooisemeren.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
@@ -1620,6 +1621,7 @@ https://begroten.noordwestbegroot.utrecht.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 https://begroting.delft.nl
 https://begroting.gemeentehw.nl
+https://begroting.gooisemeren.nl
 https://begroting.gorinchem.nl
 https://begroting.hengelo.nl
 https://begroting.middelburg.nl
@@ -3055,6 +3057,7 @@ https://enterpriseenrollment.dantumadiel.frl
 https://enterpriseenrollment.doetinchem.nl
 https://enterpriseenrollment.edam-volendam.nl
 https://enterpriseenrollment.etten-leur.nl
+https://enterpriseenrollment.gooisemeren.nl
 https://enterpriseenrollment.heerlen.nl
 https://enterpriseenrollment.landsmeer.nl
 https://enterpriseenrollment.leeuwarden.nl
@@ -3087,6 +3090,7 @@ https://enterpriseregistration.bladel.nl
 https://enterpriseregistration.denhaag.nl
 https://enterpriseregistration.doetinchem.nl
 https://enterpriseregistration.etten-leur.nl
+https://enterpriseregistration.gooisemeren.nl
 https://enterpriseregistration.huizen.nl
 https://enterpriseregistration.landsmeer.nl
 https://enterpriseregistration.lochem.nl
@@ -7063,7 +7067,6 @@ https://test-formulier.zwolle.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-internetafspraken.sittard-geleen.nl
-https://test-intra.gooisemeren.nl
 https://test-intranet.eemsdelta.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.lansingerland.nl

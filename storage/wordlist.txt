@@ -45,8 +45,8 @@ pv
 ruimtelijkeplannen
 test-ipa
 werkenbij
-testeloket
 enterpriseenrollment
+testeloket
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
@@ -121,6 +121,7 @@ acc-podiumd-logs
 bastion365
 obsurv
 filecap
+begroting
 preprodbroker
 e
 simform
@@ -139,7 +140,6 @@ sts
 micollab
 inloggen
 contentbeheer
-begroting
 ftp
 gisib
 izaaksuite

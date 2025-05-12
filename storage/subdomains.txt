@@ -2015,6 +2015,7 @@ begroten.noordwestbegroot.utrecht.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 begroting.delft.nl
 begroting.gemeentehw.nl
+begroting.gooisemeren.nl
 begroting.gorinchem.nl
 begroting.groningen.nl
 begroting.hengelo.nl
@@ -4583,6 +4584,7 @@ enterpriseenrollment.dantumadiel.frl
 enterpriseenrollment.doetinchem.nl
 enterpriseenrollment.edam-volendam.nl
 enterpriseenrollment.etten-leur.nl
+enterpriseenrollment.gooisemeren.nl
 enterpriseenrollment.groningen.nl
 enterpriseenrollment.heerlen.nl
 enterpriseenrollment.landsmeer.nl
@@ -4616,6 +4618,7 @@ enterpriseregistration.bladel.nl
 enterpriseregistration.denhaag.nl
 enterpriseregistration.doetinchem.nl
 enterpriseregistration.etten-leur.nl
+enterpriseregistration.gooisemeren.nl
 enterpriseregistration.huizen.nl
 enterpriseregistration.landsmeer.nl
 enterpriseregistration.lochem.nl

@@ -3,6 +3,7 @@ adfs.gooisemeren.nl
 afspraak.gooisemeren.nl
 autodiscover.gooisemeren.nl
 begraafplaatsen.gooisemeren.nl
+begroting.gooisemeren.nl
 belastingbalie-prepod.gooisemeren.nl
 belastingbalie.gooisemeren.nl
 belevingsroute.gooisemeren.nl
@@ -11,6 +12,8 @@ cmsintranet.gooisemeren.nl
 dkd.gooisemeren.nl
 duurzaam.gooisemeren.nl
 duurzaambouwen.gooisemeren.nl
+enterpriseenrollment.gooisemeren.nl
+enterpriseregistration.gooisemeren.nl
 formulieren.gooisemeren.nl
 gooisemeren.nl
 hpdm.gooisemeren.nl
