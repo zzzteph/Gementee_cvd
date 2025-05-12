@@ -5596,6 +5596,7 @@ https://open.epe.nl
 https://open.gemeentestein.nl
 https://open.gooisemeren.nl
 https://open.gorinchem.nl
+https://open.gouda.nl
 https://open.halderberge.nl
 https://open.hillegom.nl
 https://open.hilversum.nl
@@ -6112,6 +6113,7 @@ https://preprod-mijninkomen.denhelder.nl
 https://preprod-mijninkomen.doesburg.nl
 https://preprod-mijninkomen.dronten.nl
 https://preprod-mijninkomen.goeree-overflakkee.nl
+https://preprod-mijninkomen.gouda.nl
 https://preprod-mijninkomen.oss.nl
 https://preprod-mijnoverzicht.purmerend.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl

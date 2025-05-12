@@ -14,9 +14,11 @@ gouda.nl
 intranet.gouda.nl
 intratest.gouda.nl
 jaarstukken2021.financien.gouda.nl
+mail.gouda.nl
 mijn.gouda.nl
 mijninkomen.gouda.nl
 omgevingsvisie.gouda.nl
+open.gouda.nl
 openpdc.gouda.nl
 openpub.gouda.nl
 preprod-mijninkomen.gouda.nl

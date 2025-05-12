@@ -29,8 +29,8 @@ acc
 waarmerk
 meldingen
 afspraak
-parkeren
 open
+parkeren
 raad
 geo
 api.meldingen

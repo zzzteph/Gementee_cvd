@@ -7769,6 +7769,7 @@ mail.gemeentewestland.nl
 mail.gemert-bakel.nl
 mail.gennep.nl
 mail.gorinchem.nl
+mail.gouda.nl
 mail.gulpen-wittem.nl
 mail.halderberge.nl
 mail.hardenberg.nl
@@ -9243,6 +9244,7 @@ open.gemeentebeek.nl
 open.gemeentestein.nl
 open.gooisemeren.nl
 open.gorinchem.nl
+open.gouda.nl
 open.halderberge.nl
 open.hillegom.nl
 open.hilversum.nl
