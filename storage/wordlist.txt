@@ -72,10 +72,10 @@ digikoppeling-test
 zaken
 kaart
 hybrid
+berichten
 formulier
 cloudadapter
 kaarten
-berichten
 parkeren-acc
 klantcontact
 _autodiscover._tcp
@@ -600,6 +600,7 @@ test-eloket
 uitwijk
 mbg
 clicksfm
+servicebus
 pkio1
 dvg
 mbg2
@@ -897,7 +898,6 @@ siamtest
 link
 osbtest
 qr-acc
-servicebus
 publicatie
 squit2go-backoffice
 webcon
@@ -4560,6 +4560,7 @@ socialebasis
 stad
 vm-cs
 werkplekcb
+www.huursportzaal
 www.stad
 grmks02
 bro

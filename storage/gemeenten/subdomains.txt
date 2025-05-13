@@ -2215,6 +2215,7 @@ berichten.heemskerk.nl
 berichten.heeze-leende.nl
 berichten.helmond.nl
 berichten.huizen.nl
+berichten.kampen.nl
 berichten.koggenland.nl
 berichten.noordoostpolder.nl
 berichten.ommen.nl
@@ -11144,6 +11145,7 @@ service02.eijsden-margraten.nl
 servicebus-t.kampen.nl
 servicebus.capelleaandenijssel.nl
 servicebus.gemeentewesterveld.nl
+servicebus.kampen.nl
 servicedesk.almelo.nl
 servicedesk.edam-volendam.nl
 servicedesk.hethogeland.nl
@@ -14422,6 +14424,7 @@ www.huisstijl.landvancuijk.nl
 www.huisstijl.zaanstad.nl
 www.huizen.nl
 www.hulpwijzer.venray.nl
+www.huursportzaal.kampen.nl
 www.hvd.groningen.nl
 www.iarchief.ooststellingwerf.nl
 www.iarchief.twenterand.nl

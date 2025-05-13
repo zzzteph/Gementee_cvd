@@ -523,6 +523,7 @@ http://www.denkmee.t-diel.nl
 http://www.gemeentebelastingen.amsterdam.nl
 http://www.goeree-overflakkee.nl
 http://www.heerlen.nl
+http://www.huursportzaal.kampen.nl
 http://www.inspraakmaatregel15.amsterdam.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.kerkrade.nl
@@ -1777,6 +1778,7 @@ https://berichten.heemskerk.nl
 https://berichten.heeze-leende.nl
 https://berichten.helmond.nl
 https://berichten.huizen.nl
+https://berichten.kampen.nl
 https://berichten.koggenland.nl
 https://berichten.noordoostpolder.nl
 https://berichten.ommen.nl
@@ -2282,6 +2284,7 @@ https://dacceptatieloket.gemeente-oldambt.nl
 https://dacceptatieloket.gemeentemaashorst.nl
 https://dacceptatieloket.gemert-bakel.nl
 https://dacceptatieloket.groningen.nl
+https://dacceptatieloket.kampen.nl
 https://dacceptatieloket.laarbeek.nl
 https://dacceptatieloket.oldenzaal.nl
 https://dacceptatieloket.olst-wijhe.nl
