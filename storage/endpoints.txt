@@ -288,7 +288,6 @@ http://goud.almere.nl
 http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://helloid.sittard-geleen.nl
-http://heumen.nl
 http://heuvelrug.nl
 http://historie.venlo.nl
 http://hout.almere.nl
@@ -3778,6 +3777,7 @@ https://hetgeldvan.deventer.nl
 https://hethogeland.nl
 https://hetsociaalplein-acc.dijkenwaard.nl
 https://hetsociaalplein.dijkenwaard.nl
+https://heumen.nl
 https://heusden.nl
 https://hildebrandplein.denhaag.nl
 https://hillegom-checker-preprod.hillegom.nl
