@@ -1,4 +1,5 @@
 http://autodiscover.hengelo.nl
+http://es.hengelo.nl
 https://aanmelden.hengelo.nl
 https://api.meldingen.hengelo.nl
 https://archief.hengelo.nl
