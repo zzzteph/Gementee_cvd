@@ -4925,6 +4925,7 @@ https://merk-acc.denhaag.nl
 https://merk.denhaag.nl
 https://mfa-rooster.arnhem.nl
 https://mfa.eijsden-margraten.nl
+https://mfawerkplek.horstaandemaas.nl
 https://mform.meerssen.nl
 https://mft-fa.amsterdam.nl
 https://mft.amsterdam.nl
@@ -6919,6 +6920,7 @@ https://sts.delft.nl
 https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
 https://sts.gemeentestein.nl
+https://sts.horstaandemaas.nl
 https://sts.lopik.nl
 https://sts.rotterdam.nl
 https://sts.tynaarlo.nl

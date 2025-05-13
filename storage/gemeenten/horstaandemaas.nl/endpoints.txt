@@ -8,12 +8,14 @@ https://horstaandemaas.nl
 https://iburgerzaken.horstaandemaas.nl
 https://lvs.horstaandemaas.nl
 https://magazines.horstaandemaas.nl
+https://mfawerkplek.horstaandemaas.nl
 https://open-formulieren-test.horstaandemaas.nl
 https://open-formulieren.horstaandemaas.nl
 https://plannen.horstaandemaas.nl
 https://preprod-belastingen.horstaandemaas.nl
 https://raster.horstaandemaas.nl
 https://sera.horstaandemaas.nl
+https://sts.horstaandemaas.nl
 https://testeloket.horstaandemaas.nl
 https://vpn.horstaandemaas.nl
 https://www.horstaandemaas.nl

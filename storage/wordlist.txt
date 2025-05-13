@@ -119,6 +119,7 @@ apps
 acc-formulier
 acc-podiumd-logs
 bastion365
+sts
 obsurv
 filecap
 begroting
@@ -136,7 +137,6 @@ acc-notificaties
 acc-objecten
 acc-objecttypen
 sip
-sts
 micollab
 inloggen
 contentbeheer
@@ -4497,6 +4497,7 @@ themawebsite
 webformulieren-acc
 webmail.test
 wpvh
+mfawerkplek
 raster
 zwembad
 cmsinsite
