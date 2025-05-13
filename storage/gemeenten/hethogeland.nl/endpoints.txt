@@ -1,5 +1,5 @@
+http://cms-extranet.hethogeland.nl
 https://acceptatie.hethogeland.nl
-https://cms-extranet.hethogeland.nl
 https://extranet.hethogeland.nl
 https://formulier-test.hethogeland.nl
 https://formulier.hethogeland.nl
@@ -14,5 +14,4 @@ https://servicedesk.hethogeland.nl
 https://siem.hethogeland.nl
 https://siem2.hethogeland.nl
 https://test-cmsextranet.hethogeland.nl
-https://test-extranet.hethogeland.nl
 https://www.hethogeland.nl

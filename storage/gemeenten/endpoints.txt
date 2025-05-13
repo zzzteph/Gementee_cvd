@@ -228,6 +228,7 @@ http://bouwdossiers.stadsarchief.breda.nl
 http://buikslotermeerplein.amsterdam.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://cjg.scherpenzeel.nl
+http://cms-extranet.hethogeland.nl
 http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
@@ -2095,7 +2096,6 @@ https://cloudadapter-test.zutphen.nl
 https://cloudadapter.meppel.nl
 https://cloudrecorder.denhaag.nl
 https://cms-binnenshuis.bergen.nl
-https://cms-extranet.hethogeland.nl
 https://cms-insite.nijmegen.nl
 https://cms-internoss.oss.nl
 https://cms-internoss.test.oss.nl
@@ -7071,7 +7071,6 @@ https://test-e-loket.apeldoorn.nl
 https://test-eloket.brunssum.nl
 https://test-eloket.krimpenerwaard.nl
 https://test-eloket.nunspeet.nl
-https://test-extranet.hethogeland.nl
 https://test-formulier.zwolle.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
