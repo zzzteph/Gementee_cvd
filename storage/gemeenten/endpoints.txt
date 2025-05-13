@@ -502,9 +502,6 @@ http://welkom.ede.nl
 http://werkenbij.weststellingwerf.nl
 http://wierden.nl
 http://wij.bergen-nh.nl
-http://wijkteam-acc.katwijk.nl
-http://wijkteam-cursus.katwijk.nl
-http://wijkteam-tst.katwijk.nl
 http://wion.gemeentestein.nl
 http://woensdrecht.nl
 http://woo.westerkwartier.nl
@@ -7811,8 +7808,6 @@ https://wijken.dordrecht.nl
 https://wijkmanagement.zaanstad.nl
 https://wijkprofiel.rotterdam.nl
 https://wijkraad.rotterdam.nl
-https://wijkteam-care4.katwijk.nl
-https://wijkteam.katwijk.nl
 https://wijkteam.schagen.nl
 https://wijkteams.almere.nl
 https://wijkvernieuwing.groningen.nl

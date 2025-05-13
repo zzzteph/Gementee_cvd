@@ -1,7 +1,4 @@
 http://autodiscover.katwijk.nl
-http://wijkteam-acc.katwijk.nl
-http://wijkteam-cursus.katwijk.nl
-http://wijkteam-tst.katwijk.nl
 https://afspraak.katwijk.nl
 https://apps.katwijk.nl
 https://bastion365.katwijk.nl
@@ -22,6 +19,4 @@ https://parkeernormen.katwijk.nl
 https://parkeren.katwijk.nl
 https://testloket.katwijk.nl
 https://transfer.katwijk.nl
-https://wijkteam-care4.katwijk.nl
-https://wijkteam.katwijk.nl
 https://www.katwijk.nl
