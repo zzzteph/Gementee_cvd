@@ -2847,7 +2847,6 @@ cmshuisnettest.nieuwegein.nl
 cmsids-test.smallingerland.nl
 cmsids.smallingerland.nl
 cmsinhuiz.huizen.nl
-cmsinsite.houten.nl
 cmsinternet-acc.wijdemeren.nl
 cmsintranet-acc.wijdemeren.nl
 cmsintranet.edam-volendam.nl
@@ -5269,7 +5268,6 @@ gbionline.velsen.nl
 gbionlinetest.enschede.nl
 gbionlinetest.losser.nl
 gbionlinetest.velsen.nl
-gbit.houten.nl
 gbiweb.steenwijkerland.nl
 gbos.helmond.nl
 gbs.purmerend.nl
@@ -6636,7 +6634,6 @@ inproces.test.overbetuwe.nl
 inproces.test.winterswijk.nl
 inproces.veendam.nl
 inproces.winterswijk.nl
-insite.houten.nl
 insite.nijmegen.nl
 insite.oisterwijk.nl
 inspraakmaatregel15.amsterdam.nl
@@ -12264,7 +12261,6 @@ test-formulier.zwolle.nl
 test-formulieren.haarlemmermeer.nl
 test-hofnet.coevorden.nl
 test-inkomensondersteuning.nijmegen.nl
-test-insite.houten.nl
 test-insite.nijmegen.nl
 test-internetafspraken.sittard-geleen.nl
 test-intra.gooisemeren.nl
@@ -13353,7 +13349,6 @@ webcon.hoorn.nl
 webconf.assen.nl
 webconf.wijdemeren.nl
 webconfedge.zwolle.nl
-webconnector.houten.nl
 webdav.doetinchem.nl
 webdav.gemeentesluis.nl
 webdav.goeree-overflakkee.nl

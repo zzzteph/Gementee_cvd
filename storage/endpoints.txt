@@ -233,7 +233,6 @@ http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
 http://cmshuisnettest.nieuwegein.nl
-http://cmsinsite.houten.nl
 http://cmsintranet.etten-leur.nl
 http://cmsintranet.westerwolde.nl
 http://cmssocialintranet.middendelfland.nl
@@ -297,7 +296,6 @@ http://id-subsidies-login.acceptatie.ede.nl
 http://inkomensadvies.rotterdam.nl
 http://inloggen.belastingen.acc.koggenland.nl
 http://inloggen.belastingen.koggenland.nl
-http://insite.houten.nl
 http://inspraakmaatregel15.amsterdam.nl
 http://internoss-test.oss.nl
 http://intranet-acc.landvancuijk.nl
@@ -334,6 +332,7 @@ http://meldpuntondermijning.rotterdam.nl
 http://mijn-preproductie.zuidplas.nl
 http://mijn.beekdaelen.nl
 http://mijn.doesburg.nl
+http://mijn.houten.nl
 http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
 http://mijn.zwartewaterland.nl
@@ -462,7 +461,6 @@ http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
-http://test-insite.houten.nl
 http://test-intra.gooisemeren.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
@@ -1900,7 +1898,6 @@ https://binnenstadsplan2030.denhaag.nl
 https://binnenstebuiten-acc.ede.nl
 https://binnenstebuiten.ede.nl
 https://bis-test.tilburg.nl
-https://bis.houten.nl
 https://bis.tilburg.nl
 https://blaricum.nl
 https://bliek.gorinchem.nl
@@ -3390,7 +3387,6 @@ https://formulieren.hardenberg.nl
 https://formulieren.heerenveen.nl
 https://formulieren.hethogeland.nl
 https://formulieren.hoorn.nl
-https://formulieren.houten.nl
 https://formulieren.huizen.nl
 https://formulieren.leiden.nl
 https://formulieren.lelystad.nl
@@ -4998,7 +4994,6 @@ https://mijn.heusden.nl
 https://mijn.hofvantwente.nl
 https://mijn.hollandskroon.nl
 https://mijn.hoorn.nl
-https://mijn.houten.nl
 https://mijn.laarbeek.nl
 https://mijn.lansingerland.nl
 https://mijn.lingewaard.nl
@@ -6679,7 +6674,6 @@ https://simcms.winterswijk.nl
 https://simform-preproductie.voorschoten.nl
 https://simform.beuningen.nl
 https://simform.gemeentehw.nl
-https://simform.houten.nl
 https://simform.rijswijk.nl
 https://simform.vlissingen.nl
 https://simform.wassenaar.nl
@@ -7467,7 +7461,6 @@ https://video.landvancuijk.nl
 https://videoafspraak.rotterdam.nl
 https://videobellen.utrecht.nl
 https://videobellenwsd.utrecht.nl
-https://videodocs.houten.nl
 https://vierdaagse.landvancuijk.nl
 https://vierlingsbeek.landvancuijk.nl
 https://viertfietsen.deventer.nl

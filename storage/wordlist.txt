@@ -702,7 +702,6 @@ wijkteam
 open-formulieren-test
 preprod-belastingen
 bekendmakingen
-insite
 hybrid1
 hybrid2
 digitaalloket
@@ -1104,7 +1103,6 @@ communicatie
 idselect
 www.meedoen
 test-kaartviewer
-test-insite
 veilig
 www.cryptshare
 brk
@@ -1174,6 +1172,7 @@ wlan
 domain-admin
 teams
 formulier.accp
+insite
 Snelbalie
 preprod-mijnuitkering
 eformulieren-test
@@ -4500,8 +4499,6 @@ wpvh
 mfawerkplek
 raster
 zwembad
-cmsinsite
-gbit
 gisdata
 lyncaccess
 lyncrp
@@ -4510,7 +4507,6 @@ pre-simform
 sfbaccess
 sfbwebconf
 videodocs
-webconnector
 administratieportaal-test
 administratieportaal
 cmsinhuiz
@@ -5076,6 +5072,7 @@ subsidies.acc.backoffice
 subsidies.acc
 subsidies.backoffice
 test-inkomensondersteuning
+test-insite
 test-vergoedingen
 vacatures.acc
 vergoedingen
