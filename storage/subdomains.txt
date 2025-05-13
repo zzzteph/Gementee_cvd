@@ -1639,6 +1639,7 @@ autodiscover.hoorn.nl
 autodiscover.horstaandemaas.nl
 autodiscover.houten.nl
 autodiscover.iba.amsterdam.nl
+autodiscover.ijsselstein.nl
 autodiscover.kampen.nl
 autodiscover.katwijk.nl
 autodiscover.koggenland.nl
@@ -11657,9 +11658,11 @@ snowinv.utrecht.nl
 soc.amsterdam.nl
 soc.brievenbus.amsterdam.nl
 sociaal.amsterdam.nl
+sociaaldomein-acc.ijsselstein.nl
 sociaaldomein.almere.nl
 sociaaldomein.gulpen-wittem.nl
 sociaaldomein.heerde.nl
+sociaaldomein.ijsselstein.nl
 sociaaljaarverslag.hollandskroon.nl
 sociaalloket.medemblik.nl
 sociaalplein.gemeentewestland.nl

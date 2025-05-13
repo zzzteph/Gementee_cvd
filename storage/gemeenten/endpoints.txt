@@ -111,6 +111,7 @@ http://autodiscover.hoogeveen.nl
 http://autodiscover.hoorn.nl
 http://autodiscover.horstaandemaas.nl
 http://autodiscover.houten.nl
+http://autodiscover.ijsselstein.nl
 http://autodiscover.kampen.nl
 http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
@@ -6768,9 +6769,11 @@ https://snelbezwaar.test.purmerend.nl
 https://snow-license.amsterdam.nl
 https://snowagent.denhaag.nl
 https://snowinv.utrecht.nl
+https://sociaaldomein-acc.ijsselstein.nl
 https://sociaaldomein.almere.nl
 https://sociaaldomein.gulpen-wittem.nl
 https://sociaaldomein.heerde.nl
+https://sociaaldomein.ijsselstein.nl
 https://sociaaljaarverslag.hollandskroon.nl
 https://sociaalloket.medemblik.nl
 https://sociaalportaal.dinkelland.nl

@@ -400,6 +400,7 @@ mijndesktop
 www2
 loket.test
 secure-test
+sociaaldomein
 stadsarchief
 mijnoverzicht
 msoid
@@ -522,7 +523,6 @@ veiligmailen
 3d
 english
 planon
-sociaaldomein
 digitaalnachtregister
 css.openstad
 ssp
@@ -4531,6 +4531,7 @@ gijs
 gijscms-acc
 gijscms
 ijsaeo1
+sociaaldomein-acc
 Preprod
 dds-alphen-kaag
 iobjecten-acc
