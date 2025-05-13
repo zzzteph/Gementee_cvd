@@ -415,6 +415,7 @@ http://simcms.doesburg.nl
 http://simcms.geldrop-mierlo.nl
 http://simcms.gemeentemaasgouw.nl
 http://simcms.heuvelrug.nl
+http://simcms.huizen.nl
 http://simcms.middelburg.nl
 http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
@@ -3825,6 +3826,7 @@ https://huisstijl.tilburg.nl
 https://huisstijl.utrecht.nl
 https://huisstijl.zaanstad.nl
 https://huisvuilkalender.denhaag.nl
+https://huizen.nl
 https://hulpwijzer.hattem.nl
 https://hulpwijzer.venray.nl
 https://huurprijscalculator.rotterdam.nl
@@ -8164,6 +8166,7 @@ https://www.houten.nl
 https://www.houtwijkbegroot.denhaag.nl
 https://www.huisstijl.landvancuijk.nl
 https://www.huisstijl.zaanstad.nl
+https://www.huizen.nl
 https://www.hulpwijzer.venray.nl
 https://www.idee.roosendaal.nl
 https://www.iedereenwerktmee.amsterdam.nl
