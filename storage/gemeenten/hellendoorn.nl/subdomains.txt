@@ -1,4 +1,5 @@
 acceptatie.hellendoorn.nl
+adfs.hellendoorn.nl
 api-hetravijn.hellendoorn.nl
 api.meldingen-acc.hellendoorn.nl
 api.meldingen.hellendoorn.nl

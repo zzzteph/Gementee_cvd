@@ -1,3 +1,4 @@
+https://adfs.hellendoorn.nl
 https://api-hetravijn.hellendoorn.nl
 https://api.meldingen-acc.hellendoorn.nl
 https://api.meldingen.hellendoorn.nl

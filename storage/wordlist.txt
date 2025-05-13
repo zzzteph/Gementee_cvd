@@ -35,8 +35,8 @@ raad
 geo
 api.meldingen
 betalen
-vpn
 adfs
+vpn
 broker
 gemeenteraad
 zaaksysteem-accept
