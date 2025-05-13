@@ -1,9 +1,11 @@
-http://heuvelrug.nl
+http://preproductie.heuvelrug.nl
+http://simcms.heuvelrug.nl
 https://api.meldingen-acc.heuvelrug.nl
 https://api.meldingen.heuvelrug.nl
 https://apv-broker.heuvelrug.nl
 https://apv-broker.preprod.heuvelrug.nl
 https://cmsintranet.heuvelrug.nl
+https://felix.heuvelrug.nl
 https://iburgerzaken.heuvelrug.nl
 https://intranet.heuvelrug.nl
 https://meldingen-acc.heuvelrug.nl
@@ -17,5 +19,4 @@ https://test-intranet.heuvelrug.nl
 https://vergunningintaker-preprod.heuvelrug.nl
 https://vergunningintaker.heuvelrug.nl
 https://vinden.heuvelrug.nl
-https://www.heuvelrug.nl
 https://www.mijn.heuvelrug.nl
