@@ -271,7 +271,6 @@ http://felix.bunschoten.nl
 http://felix.capelleaandenijssel.nl
 http://felix.eersel.nl
 http://felix.landgraaf.nl
-http://felix.loonopzand.nl
 http://felix.middendelfland.nl
 http://felix.nederweert.nl
 http://felix.scherpenzeel.nl
