@@ -97,6 +97,7 @@ video.landvancuijk.nl
 vierdaagse.landvancuijk.nl
 vierlingsbeek.landvancuijk.nl
 vortum-mullem.landvancuijk.nl
+vragenmachine.landvancuijk.nl
 wandelroutes.landvancuijk.nl
 wanroij.landvancuijk.nl
 website.landvancuijk.nl
@@ -123,5 +124,6 @@ www.rondleidingen.landvancuijk.nl
 www.shops.landvancuijk.nl
 www.sportloket.landvancuijk.nl
 www.thuiswinkelen.landvancuijk.nl
+www.vragenmachine.landvancuijk.nl
 www.wandelroutes.landvancuijk.nl
 www.webwinkel.landvancuijk.nl

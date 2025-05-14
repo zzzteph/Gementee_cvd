@@ -78,7 +78,6 @@ https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
 https://sport.landvancuijk.nl
 https://sportloket.landvancuijk.nl
-https://spotler.mailing.landvancuijk.nl
 https://status.landvancuijk.nl
 https://stevensbeek.landvancuijk.nl
 https://streaming.landvancuijk.nl
@@ -94,6 +93,7 @@ https://video.landvancuijk.nl
 https://vierdaagse.landvancuijk.nl
 https://vierlingsbeek.landvancuijk.nl
 https://vortum-mullem.landvancuijk.nl
+https://vragenmachine.landvancuijk.nl
 https://wandelroutes.landvancuijk.nl
 https://wanroij.landvancuijk.nl
 https://website.landvancuijk.nl
@@ -120,5 +120,6 @@ https://www.rondleidingen.landvancuijk.nl
 https://www.shops.landvancuijk.nl
 https://www.sportloket.landvancuijk.nl
 https://www.thuiswinkelen.landvancuijk.nl
+https://www.vragenmachine.landvancuijk.nl
 https://www.wandelroutes.landvancuijk.nl
 https://www.webwinkel.landvancuijk.nl
