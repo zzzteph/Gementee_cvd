@@ -24,6 +24,7 @@ https://dloket.laarbeek.nl
 https://formulier.laarbeek.nl
 https://iburgerzaken.laarbeek.nl
 https://intranet.laarbeek.nl
+https://keycloak-admin.laarbeek.nl
 https://keycloak.laarbeek.nl
 https://laarbeek.nl
 https://mijn.laarbeek.nl
@@ -34,3 +35,4 @@ https://openklant.laarbeek.nl
 https://openzaak.laarbeek.nl
 https://podiumd-logs.laarbeek.nl
 https://www.laarbeek.nl
+https://zac.laarbeek.nl

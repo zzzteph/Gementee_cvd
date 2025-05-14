@@ -29,6 +29,7 @@ formulier.laarbeek.nl
 iburgerzaken.laarbeek.nl
 ibzpink.laarbeek.nl
 intranet.laarbeek.nl
+keycloak-admin.laarbeek.nl
 keycloak.laarbeek.nl
 laarbeek.nl
 lb-servers.laarbeek.nl
@@ -43,5 +44,7 @@ pki.laarbeek.nl
 podiumd-logs.laarbeek.nl
 secure.laarbeek.nl
 solidariteit.laarbeek.nl
+test-cmsembrace.laarbeek.nl
 test-embrace.laarbeek.nl
 www.laarbeek.nl
+zac.laarbeek.nl
