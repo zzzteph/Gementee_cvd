@@ -14,6 +14,7 @@ lochem.nl
 m.lochem.nl
 mijn.lochem.nl
 mobile.lochem.nl
+open.lochem.nl
 remote.lochem.nl
 ruimtelijkeplannen.lochem.nl
 stroomlijn.lochem.nl
