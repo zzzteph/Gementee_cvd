@@ -271,6 +271,7 @@ http://felix.bunschoten.nl
 http://felix.capelleaandenijssel.nl
 http://felix.eersel.nl
 http://felix.landgraaf.nl
+http://felix.lopik.nl
 http://felix.middendelfland.nl
 http://felix.nederweert.nl
 http://felix.scherpenzeel.nl
@@ -303,6 +304,7 @@ http://intranet-acc.landvancuijk.nl
 http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
 http://intranet.leudal.nl
+http://intranet.lopik.nl
 http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://isis-a.rotterdam.nl
@@ -531,6 +533,7 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.lingewaard.nl
+http://www.lopik.nl
 http://www.middelburg.nl
 http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
@@ -2942,6 +2945,7 @@ https://eformulieren.doetinchem.nl
 https://eformulieren.gemeentesluis.nl
 https://eformulieren.preprod.doetinchem.nl
 https://eformulieren.stichtsevecht.nl
+https://ehv-lpi-ap-15.lopik.nl
 https://ehvsubsidie.eindhoven.nl
 https://ehvsubsidie.test.eindhoven.nl
 https://eijsden-margraten.nl
@@ -3207,7 +3211,6 @@ https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
 https://felix.lingewaard.nl
-https://felix.lopik.nl
 https://felix.maassluis.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nijkerk.eu
@@ -4699,7 +4702,6 @@ https://lokettest.texel.nl
 https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
 https://loonopzand.nl
-https://lopik.nl
 https://losser.nl
 https://lvs.hellendoorn.nl
 https://lvs.horstaandemaas.nl
@@ -6665,9 +6667,7 @@ https://simcms.goeree-overflakkee.nl
 https://simcms.harlingen.nl
 https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
-https://simcms.intranet.lopik.nl
 https://simcms.koggenland.nl
-https://simcms.lopik.nl
 https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
 https://simcms.ooststellingwerf.nl
@@ -6696,6 +6696,7 @@ https://simsite.goeree-overflakkee.nl
 https://simsite.gorinchem.nl
 https://simsite.heumen.nl
 https://simsite.koggenland.nl
+https://simsite.lopik.nl
 https://simsite.middendelfland.nl
 https://simsite.nijkerk.eu
 https://simsite.pekela.nl
