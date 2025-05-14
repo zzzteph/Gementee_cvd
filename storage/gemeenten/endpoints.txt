@@ -313,7 +313,6 @@ http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
-http://lingewaard.nl
 http://login.sittard-geleen.nl
 http://loket.acceptatie.hardinxveld-giessendam.nl
 http://loket.gemeentewestland.nl
@@ -402,6 +401,7 @@ http://sem.kampen.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-epos.staphorst.nl
+http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.gemeentebeek.nl
@@ -531,6 +531,7 @@ http://www.inspraakmaatregel15.amsterdam.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
+http://www.lingewaard.nl
 http://www.middelburg.nl
 http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
@@ -3206,6 +3207,7 @@ https://felix.heeze-leende.nl
 https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
+https://felix.lingewaard.nl
 https://felix.lopik.nl
 https://felix.maassluis.nl
 https://felix.mookenmiddelaar.nl
@@ -4524,6 +4526,7 @@ https://klantportaal.enkhuizen.nl
 https://klantportaal.stedebroec.nl
 https://klemmi.rotterdam.nl
 https://klimaat.landvancuijk.nl
+https://klimaatbestendig.lingewaard.nl
 https://klimaatplein.bergen-nh.nl
 https://klimaatplein.castricum.nl
 https://klimaatplein.heiloo.nl
@@ -4588,6 +4591,7 @@ https://leverancier.gemeenteberkelland.nl
 https://life.landvancuijk.nl
 https://lifecoolsquare.groningen.nl
 https://linden.landvancuijk.nl
+https://lingewaard.nl
 https://link.burgerpanel.middendrenthe.nl
 https://link.capelleaandenijssel.nl
 https://link.pr.zwolle.nl
@@ -6663,7 +6667,6 @@ https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.intranet.lopik.nl
 https://simcms.koggenland.nl
-https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
@@ -8210,7 +8213,6 @@ https://www.lelystad.nl
 https://www.letoplood.rotterdam.nl
 https://www.leudal.nl
 https://www.leusden.nl
-https://www.lingewaard.nl
 https://www.lisse.nl
 https://www.lochem.nl
 https://www.loonopzand.nl
