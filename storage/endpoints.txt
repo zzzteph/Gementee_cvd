@@ -421,6 +421,7 @@ http://simcms.gemeentemaasgouw.nl
 http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
 http://simcms.kerkrade.nl
+http://simcms.landgraaf.nl
 http://simcms.middelburg.nl
 http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
@@ -441,6 +442,7 @@ http://simsite.bergeijk.nl
 http://simsite.beverwijk.nl
 http://simsite.bunschoten.nl
 http://simsite.eersel.nl
+http://simsite.landgraaf.nl
 http://simsite.ooststellingwerf.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.scherpenzeel.nl
@@ -526,6 +528,7 @@ http://www.heerlen.nl
 http://www.huursportzaal.kampen.nl
 http://www.inspraakmaatregel15.amsterdam.nl
 http://www.internwifi.hellevoetsluis.nl
+http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.middelburg.nl
 http://www.nieuwkoop.nl
@@ -6657,7 +6660,6 @@ https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.intranet.lopik.nl
 https://simcms.koggenland.nl
-https://simcms.landgraaf.nl
 https://simcms.leudal.nl
 https://simcms.lingewaard.nl
 https://simcms.lopik.nl
@@ -6689,7 +6691,6 @@ https://simsite.goeree-overflakkee.nl
 https://simsite.gorinchem.nl
 https://simsite.heumen.nl
 https://simsite.koggenland.nl
-https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.middendelfland.nl
 https://simsite.nijkerk.eu

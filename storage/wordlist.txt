@@ -78,13 +78,13 @@ cloudadapter
 kaarten
 parkeren-acc
 klantcontact
-_autodiscover._tcp
 digikoppeling.test
 mks
 acc-broker
 doemee
 test-intranet
 cmsintranet
+_autodiscover._tcp
 denkmee
 parkeren-test
 piwik
