@@ -279,11 +279,11 @@ http://felix.staphorst.nl
 http://felix.valkenswaard.nl
 http://felix.zundert.nl
 http://flash.scherpenzeel.nl
+http://fm.krimpenerwaard.nl
 http://formulieren.meierijstad.nl
 http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
 http://geo.roermond.nl
-http://geocortex.krimpenerwaard.nl
 http://geoportal.weert.nl
 http://goud.almere.nl
 http://gplan.rheden.nl
@@ -3300,7 +3300,6 @@ https://flowmailer-tracking.venlo.nl
 https://flowmailer-tracking.vlissingen.nl
 https://flowmailer-tracking.weert.nl
 https://flowmailer-tracking.zaanstad.nl
-https://fm.krimpenerwaard.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
 https://fmreturn.dienstverlening.utrecht.nl
@@ -3570,6 +3569,7 @@ https://geo.vught.nl
 https://geo.wijkbijduurstede.nl
 https://geo.zeewolde.nl
 https://geobrowser.enschede.nl
+https://geocortex.krimpenerwaard.nl
 https://geocortex.middendrenthe.nl
 https://geodata-a.utrecht.nl
 https://geodata-acc.dijkenwaard.nl
@@ -4269,7 +4269,6 @@ https://intranetcms.nissewaard.nl
 https://intranetcms.waalwijk.nl
 https://intranetdekompanjie.veendam.nl
 https://intranetprod.wageningen.nl
-https://intranettest.krimpenerwaard.nl
 https://intraweb.nederbetuwe.nl
 https://intro.roermond.nl
 https://introcms.roermond.nl
@@ -5962,6 +5961,7 @@ https://pip-test.urk.nl
 https://pip.urk.nl
 https://pip.vlaardingen.nl
 https://piwik.ede.nl
+https://piwik.krimpenerwaard.nl
 https://pki.olst-wijhe.nl
 https://pki.rotterdam.nl
 https://pki.utrecht.nl
