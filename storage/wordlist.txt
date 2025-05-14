@@ -226,6 +226,7 @@ desktop
 e-loket
 opendata
 woo
+www.doemee
 localhost
 byod
 guest
@@ -265,7 +266,6 @@ openstad
 sslvpn
 afval
 meet
-www.doemee
 support
 data-test
 www.gemeenteraad

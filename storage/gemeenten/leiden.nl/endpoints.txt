@@ -1,5 +1,6 @@
 http://autodiscover.leiden.nl
 http://m.leiden.nl
+http://www.doemee.leiden.nl
 https://acc-beeldbank.leiden.nl
 https://acc.easyfunders.leiden.nl
 https://acc.login.subsidie.leiden.nl

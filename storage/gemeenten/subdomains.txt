@@ -12459,6 +12459,7 @@ test.hoorn.nl
 test.io.amsterdam.nl
 test.kampen.nl
 test.lab.tod.leiden.nl
+test.leiden.nl
 test.loket.oss.nl
 test.maasdriel.nl
 test.middendrenthe.nl
@@ -14200,6 +14201,7 @@ www.doemee.bloemendaal.nl
 www.doemee.denhaag.nl
 www.doemee.deventer.nl
 www.doemee.gemeentewestland.nl
+www.doemee.leiden.nl
 www.doemee.terneuzen.nl
 www.doemee.zwolle.nl
 www.doesburg.nl
