@@ -257,6 +257,7 @@ http://draadloos.sittard-geleen.nl
 http://duurzaam.waalwijk.nl
 http://duurzaam.woensdrecht.nl
 http://ediensten.gemeentehw.nl
+http://eformulieren.kerkrade.nl
 http://eloket.meppel.nl
 http://eloket.nijkerk.eu
 http://emagazine2030.rijswijk.nl
@@ -307,6 +308,7 @@ http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://isis-a.rotterdam.nl
 http://isis.rotterdam.nl
+http://kerkrade.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://leusden-checker-preprod.leusden.nl
@@ -405,6 +407,7 @@ http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.gemeentebeek.nl
 http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
+http://simcms-preproductie.kerkrade.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-woo.doesburg.nl
 http://simcms.achtkarspelen.nl
@@ -417,6 +420,7 @@ http://simcms.geldrop-mierlo.nl
 http://simcms.gemeentemaasgouw.nl
 http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
+http://simcms.kerkrade.nl
 http://simcms.middelburg.nl
 http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
@@ -523,7 +527,6 @@ http://www.heerlen.nl
 http://www.huursportzaal.kampen.nl
 http://www.inspraakmaatregel15.amsterdam.nl
 http://www.internwifi.hellevoetsluis.nl
-http://www.kerkrade.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.middelburg.nl
 http://www.nieuwkoop.nl
@@ -4448,7 +4451,6 @@ https://kennisnet.deventer.nl
 https://kennisportaal.denhaag.nl
 https://kennisportaal.deventer.nl
 https://kennisportaal2.deventer.nl
-https://kerkrade.nl
 https://kernhem.ede.nl
 https://keuzesinbeeld.amsterdam.nl
 https://keycloak-adm.denhaag.nl
@@ -5535,7 +5537,6 @@ https://ondernemers.bloemendaal.nl
 https://ondernemers.gemeente-steenbergen.nl
 https://ondernemersloket.derondevenen.nl
 https://ondernemersloket.diemen.nl
-https://ondernemersloket.kerkrade.nl
 https://ondernemersloket.ouder-amstel.nl
 https://ondernemersloket.uithoorn.nl
 https://ondernemersplein.almere.nl
@@ -6655,7 +6656,6 @@ https://simcms.harlingen.nl
 https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.intranet.lopik.nl
-https://simcms.kerkrade.nl
 https://simcms.koggenland.nl
 https://simcms.landgraaf.nl
 https://simcms.leudal.nl
@@ -6688,7 +6688,6 @@ https://simsite.gemeentebeek.nl
 https://simsite.goeree-overflakkee.nl
 https://simsite.gorinchem.nl
 https://simsite.heumen.nl
-https://simsite.kerkrade.nl
 https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.middendelfland.nl
@@ -8187,6 +8186,7 @@ https://www.kaartlaag.rotterdam.nl
 https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
+https://www.kerkrade.nl
 https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
