@@ -441,7 +441,6 @@ http://simsite.bergeijk.nl
 http://simsite.beverwijk.nl
 http://simsite.bunschoten.nl
 http://simsite.eersel.nl
-http://simsite.koggenland.nl
 http://simsite.ooststellingwerf.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.scherpenzeel.nl
@@ -6688,6 +6687,7 @@ https://simsite.gemeentebeek.nl
 https://simsite.goeree-overflakkee.nl
 https://simsite.gorinchem.nl
 https://simsite.heumen.nl
+https://simsite.koggenland.nl
 https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.middendelfland.nl
@@ -8187,7 +8187,6 @@ https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
 https://www.kerkrade.nl
-https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl

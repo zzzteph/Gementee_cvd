@@ -4,7 +4,6 @@ http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://inloggen.belastingen.acc.koggenland.nl
 http://inloggen.belastingen.koggenland.nl
-http://simsite.koggenland.nl
 https://berichten.koggenland.nl
 https://college.koggenland.nl
 https://felix.koggenland.nl
@@ -16,6 +15,6 @@ https://mijnsociaaldomein-acc.koggenland.nl
 https://mijnsociaaldomein.koggenland.nl
 https://raad.koggenland.nl
 https://simcms.koggenland.nl
+https://simsite.koggenland.nl
 https://transfer.koggenland.nl
 https://woz-portaal.koggenland.nl
-https://www.koggenland.nl
