@@ -6920,6 +6920,7 @@ https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
 https://sts.gemeentestein.nl
 https://sts.horstaandemaas.nl
+https://sts.lansingerland.nl
 https://sts.lopik.nl
 https://sts.rotterdam.nl
 https://sts.tynaarlo.nl

@@ -1,5 +1,6 @@
 autodiscover.lansingerland.nl
 bestanden.lansingerland.nl
+bestemmingsplannen.lansingerland.nl
 buitenoporde.lansingerland.nl
 clicks.nieuws.lansingerland.nl
 clicks.persberichten.lansingerland.nl
@@ -28,6 +29,7 @@ preprod-mijnportaal.lansingerland.nl
 projecten.lansingerland.nl
 raad.lansingerland.nl
 secure.lansingerland.nl
+sts.lansingerland.nl
 test-cmsintranet.lansingerland.nl
 test-intranet.lansingerland.nl
 testsecure.lansingerland.nl

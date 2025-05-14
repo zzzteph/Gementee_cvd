@@ -105,6 +105,7 @@ verkiezingen
 duurzaam
 gemeente
 bgt
+sts
 simcms-open
 www.webmail
 dtestmidoffice
@@ -119,7 +120,6 @@ apps
 acc-formulier
 acc-podiumd-logs
 bastion365
-sts
 obsurv
 filecap
 begroting
@@ -572,6 +572,7 @@ test-zac
 vastgoed
 loket-acc
 plannen
+bestemmingsplannen
 accdrop
 eforms
 sentry
@@ -841,7 +842,6 @@ sdtest
 spf-ogone01
 spf-ogone02
 spf-wind
-bestemmingsplannen
 geoserver-test
 youpp
 pwa

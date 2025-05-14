@@ -2252,6 +2252,7 @@ bestelportaal.denhaag.nl
 bestemmingsplan.rhenen.nl
 bestemmingsplannen.baarn.nl
 bestemmingsplannen.gemeentewestland.nl
+bestemmingsplannen.lansingerland.nl
 bestie-stats.gemeentebest.nl
 bestie.gemeentebest.nl
 bestplan.gemeentemaasgouw.nl
@@ -11955,6 +11956,7 @@ sts.eijsden-margraten.nl
 sts.gemeentestein.nl
 sts.haarlemmermeer.nl
 sts.horstaandemaas.nl
+sts.lansingerland.nl
 sts.lopik.nl
 sts.regiomonitor-acc.oosterhout.nl
 sts.rotterdam.nl
