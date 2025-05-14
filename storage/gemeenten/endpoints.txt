@@ -5143,7 +5143,6 @@ https://mijnsociaaldomein-acc.koggenland.nl
 https://mijnsociaaldomein-acc.meierijstad.nl
 https://mijnsociaaldomein-acc.opmeer.nl
 https://mijnsociaaldomein-acc.westerkwartier.nl
-https://mijnsociaaldomein-test.losser.nl
 https://mijnsociaaldomein.gemeentesluis.nl
 https://mijnsociaaldomein.heerenveen.nl
 https://mijnsociaaldomein.koggenland.nl
