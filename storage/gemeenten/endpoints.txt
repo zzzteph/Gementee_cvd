@@ -6990,7 +6990,6 @@ https://subsidies.acc.nijmegen.nl
 https://subsidies.acceptatie.almelo.nl
 https://subsidies.acceptatie.debilt.nl
 https://subsidies.acceptatie.leeuwarden.nl
-https://subsidies.acceptatie.lelystad.nl
 https://subsidies.acceptatie.maassluis.nl
 https://subsidies.almelo.nl
 https://subsidies.backoffice.nijmegen.nl

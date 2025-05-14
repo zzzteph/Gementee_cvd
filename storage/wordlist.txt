@@ -172,7 +172,6 @@ owa
 gasten
 uc
 AutoDiscover
-ro
 inproces
 transfer
 internetafspraken
@@ -190,6 +189,7 @@ fmreturn
 iarchief
 formulieren-test
 mobile
+ro
 contentbeheer.acceptatie
 zaken.acceptatie
 bor
@@ -242,7 +242,6 @@ acceptatie-open
 belastingbalie-test
 bestanden
 kcc
-mx1
 mx2
 mobiel
 www.portal
@@ -275,6 +274,7 @@ citrix
 key2gbav
 filetransfer
 woz-portaal
+mx1
 en
 mijnsociaaldomein
 midoffice
@@ -331,7 +331,6 @@ toegang
 pdc
 zoeken
 subsidies-backend.acceptatie
-subsidies.acceptatie
 belastingen-acc
 diensten
 dkd-test
@@ -399,6 +398,7 @@ huisstijl
 mijndesktop
 www2
 loket.test
+subsidies.acceptatie
 secure-test
 sociaaldomein
 stadsarchief
@@ -1049,7 +1049,6 @@ secure1
 mijnintranet
 lynccon
 squitpub-prod
-wkpb
 autodiscover.d66
 autodiscover.sp
 autodiscover.test
@@ -4147,6 +4146,7 @@ singlegateway
 videogesprek
 webmail-test
 werkenbij-ict
+wkpb
 www.campagne
 www.e-diensten001
 www.esedge
@@ -4817,11 +4817,8 @@ fortianalyzer
 fortiems
 fortivpn
 projectenboek
-dezta
-gba
 kopprd
 koptst
-livestream
 sibp01
 sibt01
 broker.preprod
