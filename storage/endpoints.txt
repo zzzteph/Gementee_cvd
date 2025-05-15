@@ -137,6 +137,7 @@ http://autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 http://autodiscover.nederbetuwe.nl
 http://autodiscover.nieuwegein.nl
 http://autodiscover.nieuwkoop.nl
+http://autodiscover.nijkerk.eu
 http://autodiscover.nijmegen.nl
 http://autodiscover.nijmegennu.nijmegen.nl
 http://autodiscover.nissewaard.nl
@@ -259,7 +260,6 @@ http://duurzaam.woensdrecht.nl
 http://ediensten.gemeentehw.nl
 http://eformulieren.kerkrade.nl
 http://eloket.meppel.nl
-http://eloket.nijkerk.eu
 http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
@@ -2992,6 +2992,7 @@ https://eloket.leusden.nl
 https://eloket.meerssen.nl
 https://eloket.middelburg.nl
 https://eloket.midden-groningen.nl
+https://eloket.nijkerk.eu
 https://eloket.nissewaard.nl
 https://eloket.nuenen.nl
 https://eloket.nunspeet.nl
@@ -3081,6 +3082,7 @@ https://enterpriseenrollment.meierijstad.nl
 https://enterpriseenrollment.moerdijk.nl
 https://enterpriseenrollment.nederweert.nl
 https://enterpriseenrollment.nieuwkoop.nl
+https://enterpriseenrollment.nijkerk.eu
 https://enterpriseenrollment.noardeast-fryslan.nl
 https://enterpriseenrollment.opsterland.nl
 https://enterpriseenrollment.oss.nl
@@ -3113,6 +3115,7 @@ https://enterpriseregistration.moerdijk.nl
 https://enterpriseregistration.montferland.info
 https://enterpriseregistration.nederweert.nl
 https://enterpriseregistration.nieuwkoop.nl
+https://enterpriseregistration.nijkerk.eu
 https://enterpriseregistration.opsterland.nl
 https://enterpriseregistration.peelenmaas.nl
 https://enterpriseregistration.roosendaal.nl
@@ -5290,6 +5293,7 @@ https://msm.almelo.nl
 https://msoid.alphenaandenrijn.nl
 https://msoid.arnhem.nl
 https://msoid.nieuwkoop.nl
+https://msoid.nijkerk.eu
 https://msoid.tilburg.nl
 https://mstat.meerssen.nl
 https://mta-sts.duiven.nl
@@ -6421,6 +6425,7 @@ https://remote.gorinchem.nl
 https://remote.hethogeland.nl
 https://remote.lochem.nl
 https://remote.montferland.info
+https://remote.nijkerk.eu
 https://remote.nunspeet.nl
 https://remote.waalwijk.nl
 https://remote.westmaasenwaal.nl
@@ -7518,6 +7523,7 @@ https://vpn.haarlemmermeer.nl
 https://vpn.horstaandemaas.nl
 https://vpn.huizen.nl
 https://vpn.maassluis.nl
+https://vpn.nijkerk.eu
 https://vpn.oostgelre.nl
 https://vpn.rotterdam.nl
 https://vpn.rucphen.nl

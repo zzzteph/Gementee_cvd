@@ -1669,6 +1669,7 @@ autodiscover.nederbetuwe.nl
 autodiscover.nederweert.nl
 autodiscover.nieuwegein.nl
 autodiscover.nieuwkoop.nl
+autodiscover.nijkerk.eu
 autodiscover.nijmegen.nl
 autodiscover.nijmegennu.nijmegen.nl
 autodiscover.nissewaard.nl
@@ -4596,6 +4597,7 @@ enterpriseenrollment.meierijstad.nl
 enterpriseenrollment.moerdijk.nl
 enterpriseenrollment.nederweert.nl
 enterpriseenrollment.nieuwkoop.nl
+enterpriseenrollment.nijkerk.eu
 enterpriseenrollment.noardeast-fryslan.nl
 enterpriseenrollment.opsterland.nl
 enterpriseenrollment.oss.nl
@@ -4628,6 +4630,7 @@ enterpriseregistration.moerdijk.nl
 enterpriseregistration.montferland.info
 enterpriseregistration.nederweert.nl
 enterpriseregistration.nieuwkoop.nl
+enterpriseregistration.nijkerk.eu
 enterpriseregistration.opsterland.nl
 enterpriseregistration.peelenmaas.nl
 enterpriseregistration.roosendaal.nl
@@ -8667,6 +8670,7 @@ msm.almelo.nl
 msoid.alphenaandenrijn.nl
 msoid.arnhem.nl
 msoid.nieuwkoop.nl
+msoid.nijkerk.eu
 msoid.tilburg.nl
 mstat.meerssen.nl
 msteamsbellen.soest.nl
@@ -10700,6 +10704,7 @@ remote.kampen.nl
 remote.lochem.nl
 remote.montferland.info
 remote.nieuwegein.nl
+remote.nijkerk.eu
 remote.nunspeet.nl
 remote.rozendaal.nl
 remote.schagen.nl
@@ -11116,6 +11121,7 @@ secureweb.landgraaf.nl
 securewifi.hethogeland.nl
 seg.leudal.nl
 selector1._domainkey.derondevenen.nl
+selector1._domainkey.nijkerk.eu
 selfservice.ggd.amsterdam.nl
 selfservice.sudwestfryslan.nl
 selfserviceportal.westerkwartier.nl
@@ -13149,6 +13155,7 @@ vpn.lochem.nl
 vpn.maassluis.nl
 vpn.meerssen.nl
 vpn.nieuwegein.nl
+vpn.nijkerk.eu
 vpn.oostgelre.nl
 vpn.oss.nl
 vpn.overbetuwe.nl
