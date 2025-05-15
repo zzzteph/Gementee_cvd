@@ -92,13 +92,13 @@ woningbouwkaart
 belastingloket
 dtestloket
 connect
+portaal
 osbacc
 siam
 financien
 extranet
 pki
 test-cmsintranet
-portaal
 govroam
 samen
 verkiezingen
@@ -4981,6 +4981,7 @@ w2kmks
 w2kzmm
 xworks-acc
 xworks
+mijnacc
 autodiscover.dgp
 autodiscover.natuurlijkgroen
 dgp

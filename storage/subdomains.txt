@@ -8330,6 +8330,7 @@ mijnaanvraag.zutphen.nl
 mijnaanvraagzi.beuningen.nl
 mijnaanvragen.purmerend.nl
 mijnaanvragensociaaldomein.venlo.nl
+mijnacc.montfoort.nl
 mijnacpt.haarlem.nl
 mijnafspraak.scherpenzeel.nl
 mijnafval.meerssen.nl
@@ -9956,6 +9957,7 @@ portaal.kre-tst.amsterdam.nl
 portaal.kre.amsterdam.nl
 portaal.leeuwarden.nl
 portaal.middendrenthe.nl
+portaal.montfoort.nl
 portaal.notificaties.openzaak-acc.amsterdam.nl
 portaal.notificaties.openzaak-tst.amsterdam.nl
 portaal.overbetuwe.nl

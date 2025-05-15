@@ -5074,6 +5074,7 @@ https://mijnaanvraag-test.zutphen.nl
 https://mijnaanvraag.zutphen.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnaanvragensociaaldomein.venlo.nl
+https://mijnacc.montfoort.nl
 https://mijnafspraak.scherpenzeel.nl
 https://mijnafval.meerssen.nl
 https://mijnafval.valkenburg.nl
@@ -6041,6 +6042,7 @@ https://portaal.kre-ont.amsterdam.nl
 https://portaal.kre-tst.amsterdam.nl
 https://portaal.kre.amsterdam.nl
 https://portaal.middendrenthe.nl
+https://portaal.montfoort.nl
 https://portaal.notificaties.openzaak-acc.amsterdam.nl
 https://portaal.notificaties.openzaak-tst.amsterdam.nl
 https://portaal.purmerend.nl
