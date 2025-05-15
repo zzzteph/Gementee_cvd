@@ -1,5 +1,4 @@
 http://autodiscover.nederbetuwe.nl
-https://academie.nederbetuwe.nl
 https://acceptatie-intranet.nederbetuwe.nl
 https://acceptatie.nederbetuwe.nl
 https://hybrid.nederbetuwe.nl
