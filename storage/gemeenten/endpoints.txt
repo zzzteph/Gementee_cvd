@@ -336,7 +336,6 @@ http://mijn-preproductie.zuidplas.nl
 http://mijn.beekdaelen.nl
 http://mijn.doesburg.nl
 http://mijn.houten.nl
-http://mijn.meierijstad.nl
 http://mijn.rijswijk.nl
 http://mijn.zwartewaterland.nl
 http://mijnwerkplek.schagen.nl
@@ -467,6 +466,7 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.edam-volendam.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
+http://test-cmsintranet.meierijstad.nl
 http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-embrace.laarbeek.nl
@@ -476,7 +476,6 @@ http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
-http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sudwestfryslan.nl
 http://test-intranet.venlo.nl
@@ -5017,6 +5016,7 @@ https://mijn.lingewaard.nl
 https://mijn.lochem.nl
 https://mijn.maasdriel.nl
 https://mijn.maassluis.nl
+https://mijn.meierijstad.nl
 https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
@@ -7066,7 +7066,6 @@ https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
 https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
-https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.venlo.nl
@@ -8200,7 +8199,6 @@ https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl
 https://www.krimpenerwaard.nl
 https://www.laakhavensbepaalt.denhaag.nl
-https://www.laar-ollandseweg.meierijstad.nl
 https://www.laarbeek.nl
 https://www.landsmeer.nl
 https://www.landvancuijk.nl
