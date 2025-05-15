@@ -272,7 +272,6 @@ http://felix.capelleaandenijssel.nl
 http://felix.eersel.nl
 http://felix.landgraaf.nl
 http://felix.lopik.nl
-http://felix.middendelfland.nl
 http://felix.nederweert.nl
 http://felix.scherpenzeel.nl
 http://felix.staphorst.nl
@@ -538,6 +537,7 @@ http://www.ld-01.hellevoetsluis.nl
 http://www.lingewaard.nl
 http://www.lopik.nl
 http://www.maassluis.nl
+http://www.middendelfland.nl
 http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.oirschot.nl
@@ -3215,6 +3215,7 @@ https://felix.kerkrade.nl
 https://felix.koggenland.nl
 https://felix.lingewaard.nl
 https://felix.maassluis.nl
+https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nijkerk.eu
 https://felix.nuenen.nl
@@ -6671,7 +6672,6 @@ https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.koggenland.nl
 https://simcms.middelburg.nl
-https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
@@ -6700,7 +6700,6 @@ https://simsite.gorinchem.nl
 https://simsite.heumen.nl
 https://simsite.koggenland.nl
 https://simsite.lopik.nl
-https://simsite.middendelfland.nl
 https://simsite.nijkerk.eu
 https://simsite.pekela.nl
 https://simsite.renswoude.nl
