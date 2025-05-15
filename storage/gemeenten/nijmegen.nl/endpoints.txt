@@ -1,3 +1,4 @@
+http://app9.nijmegen.nl
 http://autodiscover.50pluspartij.nijmegen.nl
 http://autodiscover.cda.nijmegen.nl
 http://autodiscover.d66.nijmegen.nl
@@ -24,7 +25,6 @@ https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
 https://app7-accp.nijmegen.nl
-https://app8.nijmegen.nl
 https://auth.openstad.nijmegen.nl
 https://authenticatie-accp.nijmegen.nl
 https://authenticatie.nijmegen.nl

@@ -15,6 +15,7 @@ http://acc-zaanlink.zaanstad.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
 http://ansvlm2009.landsmeer.nl
+http://app9.nijmegen.nl
 http://archief-yell-cms.etten-leur.nl
 http://archief-yell.etten-leur.nl
 http://armoedepact.westerkwartier.nl
@@ -1385,7 +1386,6 @@ https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
 https://app7-accp.nijmegen.nl
-https://app8.nijmegen.nl
 https://appapi.montferland.info
 https://appl.gw.rotterdam.nl
 https://applicaties.tilburg.nl
