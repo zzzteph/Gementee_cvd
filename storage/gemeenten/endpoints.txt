@@ -332,6 +332,7 @@ http://malengo-testcms.gemert-bakel.nl
 http://malengo.gemert-bakel.nl
 http://meldcode.denhaag.nl
 http://meldpuntondermijning.rotterdam.nl
+http://middelburg.nl
 http://mijn-preproductie.zuidplas.nl
 http://mijn.beekdaelen.nl
 http://mijn.doesburg.nl
@@ -398,6 +399,7 @@ http://raas.rotterdam.nl
 http://redirector.alkmaar.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
+http://samenwerkingbelastingen-test.middelburg.nl
 http://sem.kampen.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-data.westerkwartier.nl
@@ -424,7 +426,6 @@ http://simcms.kerkrade.nl
 http://simcms.landgraaf.nl
 http://simcms.leudal.nl
 http://simcms.maassluis.nl
-http://simcms.middelburg.nl
 http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
 http://simcms.sonenbreugel.nl
@@ -536,7 +537,6 @@ http://www.ld-01.hellevoetsluis.nl
 http://www.lingewaard.nl
 http://www.lopik.nl
 http://www.maassluis.nl
-http://www.middelburg.nl
 http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.oirschot.nl
@@ -4953,7 +4953,6 @@ https://micollab.veere.nl
 https://micollab.weert.nl
 https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
-https://middelburg.nl
 https://midden-groningen.nl
 https://middendelfland.nl
 https://middendrenthe.nl
@@ -6527,7 +6526,6 @@ https://samenveiligwerken.kaagenbraassem.nl
 https://samenwerken.groningen.nl
 https://samenwerkenaan.heerde.nl
 https://samenwerking.tilburg.nl
-https://samenwerkingbelastingen-test.middelburg.nl
 https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
 https://samenwijzer.oss.nl
@@ -6671,6 +6669,7 @@ https://simcms.harlingen.nl
 https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.koggenland.nl
+https://simcms.middelburg.nl
 https://simcms.middendelfland.nl
 https://simcms.nuenen.nl
 https://simcms.ooststellingwerf.nl
@@ -8231,6 +8230,7 @@ https://www.meerssen.nl
 https://www.meierijstad.nl
 https://www.meppel.nl
 https://www.merk.denhaag.nl
+https://www.middelburg.nl
 https://www.midden-groningen.nl
 https://www.middendrenthe.nl
 https://www.mijn.arnhem.nl
