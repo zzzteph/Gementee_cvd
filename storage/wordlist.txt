@@ -40,12 +40,12 @@ vpn
 broker
 gemeenteraad
 zaaksysteem-accept
+enterpriseenrollment
 iparticipatie
 pv
 ruimtelijkeplannen
 test-ipa
 werkenbij
-enterpriseenrollment
 testeloket
 belastingen
 dacceptatieloket
