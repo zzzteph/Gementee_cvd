@@ -423,6 +423,7 @@ http://simcms.huizen.nl
 http://simcms.kerkrade.nl
 http://simcms.landgraaf.nl
 http://simcms.leudal.nl
+http://simcms.maassluis.nl
 http://simcms.middelburg.nl
 http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
@@ -534,6 +535,7 @@ http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.lingewaard.nl
 http://www.lopik.nl
+http://www.maassluis.nl
 http://www.middelburg.nl
 http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
@@ -8218,7 +8220,6 @@ https://www.lochem.nl
 https://www.loonopzand.nl
 https://www.losser.nl
 https://www.maasdriel.nl
-https://www.maassluis.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.mdm.waterland.nl

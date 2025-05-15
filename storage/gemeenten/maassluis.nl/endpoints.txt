@@ -1,4 +1,6 @@
 http://maassluis.nl
+http://simcms.maassluis.nl
+http://www.maassluis.nl
 https://denkmee.maassluis.nl
 https://energiethuis.eba.maassluis.nl
 https://energiethuis.maassluis.nl
@@ -19,6 +21,5 @@ https://uitvaart.maassluis.nl
 https://vpn.maassluis.nl
 https://webmail.maassluis.nl
 https://werkenbij.maassluis.nl
-https://www.maassluis.nl
 https://zaaksysteem-accept.maassluis.nl
 https://zaaksysteem.maassluis.nl
