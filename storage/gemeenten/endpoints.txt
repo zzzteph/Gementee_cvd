@@ -356,6 +356,7 @@ http://ontwikkelstrategie.amsterdam.nl
 http://ooststellingwerf.nl
 http://open.geldrop-mierlo.nl
 http://open.halderberge.nl
+http://open.meerssen.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
 http://ows-ahp-test.groningen.nl
@@ -5624,7 +5625,6 @@ https://open.katwijk.nl
 https://open.krimpenerwaard.nl
 https://open.lisse.nl
 https://open.lochem.nl
-https://open.meerssen.nl
 https://open.middendrenthe.nl
 https://open.moerdijk.nl
 https://open.nijmegen.nl
