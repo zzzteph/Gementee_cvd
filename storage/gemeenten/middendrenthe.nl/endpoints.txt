@@ -10,7 +10,6 @@ https://geocortex.middendrenthe.nl
 https://iburgerzaken.middendrenthe.nl
 https://link.burgerpanel.middendrenthe.nl
 https://md02.middendrenthe.nl
-https://md04.middendrenthe.nl
 https://mdliquit.middendrenthe.nl
 https://middendrenthe.nl
 https://obsurv.middendrenthe.nl
