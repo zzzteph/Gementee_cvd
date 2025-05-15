@@ -1,5 +1,4 @@
 http://autodiscover.noordoostpolder.nl
-http://test-nopnet.noordoostpolder.nl
 https://berichten.noordoostpolder.nl
 https://cmsnopnet.noordoostpolder.nl
 https://cmsoo.noordoostpolder.nl
