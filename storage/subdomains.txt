@@ -4769,7 +4769,6 @@ extranet.hengelo.nl
 extranet.hethogeland.nl
 extranet.heuvelrug.nl
 extranet.montferland.info
-extranet.nieuwkoop.nl
 extranet.opmeer.nl
 extranet.tholen.nl
 extranet.valkenburg.nl
@@ -6769,7 +6768,6 @@ intranet.midden-groningen.nl
 intranet.middendelfland.nl
 intranet.montferland.info
 intranet.mookenmiddelaar.nl
-intranet.nieuwkoop.nl
 intranet.nijkerk.eu
 intranet.nissewaard.nl
 intranet.noordwijk.nl
@@ -7467,7 +7465,6 @@ liquit.meierijstad.nl
 liquit.montferland.info
 liquit.nieuwkoop.nl
 liquitsatellite.gemeenteberkelland.nl
-liquitsatellite.nieuwkoop.nl
 liquitsatellite.tilburg.nl
 lisse-checker-preprod.lisse.nl
 lisse.nl

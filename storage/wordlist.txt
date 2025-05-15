@@ -96,9 +96,9 @@ portaal
 osbacc
 siam
 financien
-extranet
 pki
 test-cmsintranet
+extranet
 govroam
 samen
 verkiezingen
@@ -659,7 +659,6 @@ squit2gotest
 geo-secure
 mijnmobiel
 www.login
-liquitsatellite
 www.parkeren
 www.mail
 prtg
@@ -994,6 +993,7 @@ ketenportaal.acceptatie
 nedplan
 secudoc
 www.mijnmobiel
+liquitsatellite
 mijnplan
 preprod-mijnplan
 webvpn

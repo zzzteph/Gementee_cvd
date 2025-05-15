@@ -346,7 +346,6 @@ http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
-http://nieuwkoop.nl
 http://nta7516.gemeentebest.nl
 http://oens.almere.nl
 http://omgevingswet.bronckhorst.nl
@@ -5348,6 +5347,7 @@ https://nieuweburgemeester.deventer.nl
 https://nieuwegein.nl
 https://nieuwkomers.arnhem.nl
 https://nieuwkomers.zaanstad.nl
+https://nieuwkoop.nl
 https://nieuws.breda.nl
 https://nieuws.hoorn.nl
 https://nieuws.landvancuijk.nl
@@ -6680,6 +6680,7 @@ https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.koggenland.nl
 https://simcms.middelburg.nl
+https://simcms.nieuwkoop.nl
 https://simcms.nuenen.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl

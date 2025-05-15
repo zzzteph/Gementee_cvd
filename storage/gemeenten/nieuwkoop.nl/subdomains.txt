@@ -5,12 +5,9 @@ bastion365.nieuwkoop.nl
 denkmee.nieuwkoop.nl
 enterpriseenrollment.nieuwkoop.nl
 enterpriseregistration.nieuwkoop.nl
-extranet.nieuwkoop.nl
 iburgerzaken.nieuwkoop.nl
 ibzpink.nieuwkoop.nl
-intranet.nieuwkoop.nl
 liquit.nieuwkoop.nl
-liquitsatellite.nieuwkoop.nl
 m.nieuwkoop.nl
 mijnloket.nieuwkoop.nl
 mks.nieuwkoop.nl
