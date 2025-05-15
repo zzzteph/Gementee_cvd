@@ -278,6 +278,7 @@ http://felix.scherpenzeel.nl
 http://felix.staphorst.nl
 http://felix.valkenswaard.nl
 http://felix.zundert.nl
+http://felixburgerzaken.nissewaard.nl
 http://flash.scherpenzeel.nl
 http://fm.krimpenerwaard.nl
 http://formulieren.meierijstad.nl
@@ -3225,6 +3226,7 @@ https://felix.maassluis.nl
 https://felix.middendelfland.nl
 https://felix.nederweert.nl
 https://felix.nijkerk.eu
+https://felix.nissewaard.nl
 https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.ooststellingwerf.nl
