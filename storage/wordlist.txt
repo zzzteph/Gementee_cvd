@@ -1167,7 +1167,6 @@ services-test
 exch
 huisnet
 raadzaam
-wlan
 domain-admin
 teams
 formulier.accp
@@ -6469,6 +6468,7 @@ staging.buurtbudget
 test-topdesk
 vitaal
 welstand
+wlan
 www.buurtbudget-centrumnoord
 www.buurtbudget-klingerberg
 www.buurtbudget-oostzuid

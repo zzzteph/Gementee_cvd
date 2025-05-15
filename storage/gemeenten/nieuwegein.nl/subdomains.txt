@@ -39,5 +39,4 @@ tripleforms.nieuwegein.nl
 tripleformst.nieuwegein.nl
 vpn.nieuwegein.nl
 webmail.nieuwegein.nl
-wlan.nieuwegein.nl
 www.nieuwegein.nl

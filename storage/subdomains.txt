@@ -13796,7 +13796,6 @@ witgoed.middendrenthe.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
 wkpb.haarlem.nl
-wlan.nieuwegein.nl
 wlan.venlo.nl
 wlc.denhaag.nl
 wlc01.waterland.nl
