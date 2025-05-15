@@ -274,7 +274,6 @@ http://felix.eersel.nl
 http://felix.landgraaf.nl
 http://felix.lopik.nl
 http://felix.mookenmiddelaar.nl
-http://felix.nederweert.nl
 http://felix.scherpenzeel.nl
 http://felix.staphorst.nl
 http://felix.valkenswaard.nl
@@ -346,7 +345,6 @@ http://mijnzorg-acc.alkmaar.nl
 http://mijnzorg.amstelveen.nl
 http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
-http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nieuwkoop.nl
@@ -429,6 +427,7 @@ http://simcms.landgraaf.nl
 http://simcms.leudal.nl
 http://simcms.maassluis.nl
 http://simcms.mookenmiddelaar.nl
+http://simcms.nederweert.nl
 http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
 http://simcms.sonenbreugel.nl
@@ -450,6 +449,7 @@ http://simsite.bunschoten.nl
 http://simsite.eersel.nl
 http://simsite.landgraaf.nl
 http://simsite.montferland.info
+http://simsite.nederweert.nl
 http://simsite.ooststellingwerf.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.scherpenzeel.nl
@@ -3221,6 +3221,7 @@ https://felix.koggenland.nl
 https://felix.lingewaard.nl
 https://felix.maassluis.nl
 https://felix.middendelfland.nl
+https://felix.nederweert.nl
 https://felix.nijkerk.eu
 https://felix.nuenen.nl
 https://felix.oirschot.nl
