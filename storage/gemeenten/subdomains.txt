@@ -6160,6 +6160,7 @@ iburgerzaken.maasdriel.nl
 iburgerzaken.maassluis.nl
 iburgerzaken.medemblik.nl
 iburgerzaken.meerssen.nl
+iburgerzaken.meppel.nl
 iburgerzaken.middelburg.nl
 iburgerzaken.midden-groningen.nl
 iburgerzaken.middendrenthe.nl
@@ -6339,6 +6340,7 @@ ibzpink.maasdriel.nl
 ibzpink.maassluis.nl
 ibzpink.medemblik.nl
 ibzpink.meerssen.nl
+ibzpink.meppel.nl
 ibzpink.middelburg.nl
 ibzpink.midden-groningen.nl
 ibzpink.middendrenthe.nl
@@ -9257,6 +9259,7 @@ open.leudal.nl
 open.lisse.nl
 open.lochem.nl
 open.meerssen.nl
+open.meppel.nl
 open.middendrenthe.nl
 open.moerdijk.nl
 open.nijmegen.nl
@@ -12949,6 +12952,7 @@ vdi.delft.nl
 vdi.deventer.nl
 vdi.hardenberg.nl
 vdi.landgraaf.nl
+vdi.meppel.nl
 vdi.rijswijk.nl
 vdi.rotterdam.nl
 vdi.schagen.nl

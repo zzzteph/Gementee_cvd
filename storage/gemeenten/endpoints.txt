@@ -3962,6 +3962,7 @@ https://iburgerzaken.maasdriel.nl
 https://iburgerzaken.maassluis.nl
 https://iburgerzaken.medemblik.nl
 https://iburgerzaken.meerssen.nl
+https://iburgerzaken.meppel.nl
 https://iburgerzaken.middelburg.nl
 https://iburgerzaken.midden-groningen.nl
 https://iburgerzaken.middendrenthe.nl
@@ -5625,6 +5626,7 @@ https://open.katwijk.nl
 https://open.krimpenerwaard.nl
 https://open.lisse.nl
 https://open.lochem.nl
+https://open.meppel.nl
 https://open.middendrenthe.nl
 https://open.moerdijk.nl
 https://open.nijmegen.nl
@@ -7388,6 +7390,7 @@ https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
 https://vdi.delft.nl
 https://vdi.deventer.nl
+https://vdi.meppel.nl
 https://vdi.rijswijk.nl
 https://vdi.rotterdam.nl
 https://vdi.westmaasenwaal.nl

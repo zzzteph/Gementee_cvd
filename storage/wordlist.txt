@@ -27,9 +27,9 @@ werkplek
 portal
 acc
 waarmerk
+open
 meldingen
 afspraak
-open
 parkeren
 raad
 geo
@@ -146,6 +146,7 @@ izaaksuite
 subsidies
 preprod-mijninkomen
 snelbaliepp
+vdi
 nieuwsbrief
 acc-contact
 acc-keycloak
@@ -163,7 +164,6 @@ cryptshare
 belastingportaal
 bis
 maps
-vdi
 contact
 lyncdiscover
 objecten
