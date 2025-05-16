@@ -24,6 +24,7 @@ https://genealogie.oldenzaal.nl
 https://inloggen-acceptatie.oldenzaal.nl
 https://inloggen.oldenzaal.nl
 https://intranet.oldenzaal.nl
+https://keycloak-admin.oldenzaal.nl
 https://keycloak.oldenzaal.nl
 https://meldingen-acc.oldenzaal.nl
 https://meldingen.oldenzaal.nl
@@ -41,3 +42,4 @@ https://podiumd-logs.oldenzaal.nl
 https://vergunningintaker-acceptatie.oldenzaal.nl
 https://vergunningintaker.oldenzaal.nl
 https://www.oldenzaal.nl
+https://zac.oldenzaal.nl

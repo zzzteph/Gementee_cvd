@@ -38,6 +38,7 @@ inproces.acceptatie.oldenzaal.nl
 inproces.oldenzaal.nl
 intranet.oldenzaal.nl
 ketenportaal.acceptatie.oldenzaal.nl
+keycloak-admin.oldenzaal.nl
 keycloak.oldenzaal.nl
 meldingen-acc.oldenzaal.nl
 meldingen.oldenzaal.nl
@@ -72,5 +73,6 @@ www.oldenzaal.nl
 www.reservering.oldenzaal.nl
 www.squit2go.oldenzaal.nl
 www.webmail.oldenzaal.nl
+zac.oldenzaal.nl
 zaken.acceptatie.oldenzaal.nl
 zaken.oldenzaal.nl

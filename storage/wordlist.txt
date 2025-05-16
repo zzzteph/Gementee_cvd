@@ -347,12 +347,14 @@ services
 mijngeldzaken
 www.openstad
 dialin
+keycloak-admin
 test-formulier
 test-mijn
 test-notificaties
 test-objecten
 test-objecttypen
 test-podiumd-logs
+zac
 geoserver
 simcms-preproductie
 uca
@@ -420,9 +422,7 @@ admin.doemee
 api.doemee
 auth.doemee
 img.doemee
-keycloak-admin
 media
-zac
 kaartviewer
 nhr
 personeelsplanning
