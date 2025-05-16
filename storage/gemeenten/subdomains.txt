@@ -1253,6 +1253,7 @@ api.meldingen-acc.meierijstad.nl
 api.meldingen-acc.oldebroek.nl
 api.meldingen-acc.oldenzaal.nl
 api.meldingen-acc.oostgelre.nl
+api.meldingen-acc.oss.nl
 api.meldingen-acc.raalte.nl
 api.meldingen-acc.roermond.nl
 api.meldingen-acc.urk.nl
@@ -1291,6 +1292,7 @@ api.meldingen.meierijstad.nl
 api.meldingen.oldebroek.nl
 api.meldingen.oldenzaal.nl
 api.meldingen.oostgelre.nl
+api.meldingen.oss.nl
 api.meldingen.purmerend.nl
 api.meldingen.raalte.nl
 api.meldingen.roermond.nl
@@ -8065,6 +8067,7 @@ meldingen-acc.meierijstad.nl
 meldingen-acc.oldebroek.nl
 meldingen-acc.oldenzaal.nl
 meldingen-acc.oostgelre.nl
+meldingen-acc.oss.nl
 meldingen-acc.raalte.nl
 meldingen-acc.roermond.nl
 meldingen-acc.urk.nl
@@ -8113,6 +8116,7 @@ meldingen.montferland.info
 meldingen.oldebroek.nl
 meldingen.oldenzaal.nl
 meldingen.oostgelre.nl
+meldingen.oss.nl
 meldingen.purmerend.nl
 meldingen.raalte.nl
 meldingen.roermond.nl

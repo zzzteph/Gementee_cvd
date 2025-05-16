@@ -1,3 +1,5 @@
+api.meldingen-acc.oss.nl
+api.meldingen.oss.nl
 archie.oss.nl
 archie.test.oss.nl
 autodiscover.oss.nl
@@ -33,6 +35,8 @@ jaarverslag2023.oss.nl
 kadernota2025.oss.nl
 loket.oss.nl
 mailing.oss.nl
+meldingen-acc.oss.nl
+meldingen.oss.nl
 mijn.oss.nl
 mijn.test.oss.nl
 mijninkomen.oss.nl
