@@ -1,5 +1,5 @@
 http://autodiscover.overbetuwe.nl
-http://www.overbetuwe.nl
+http://overbetuwe.nl
 https://belastingloket.overbetuwe.nl
 https://energiebespaaradvies.overbetuwe.nl
 https://iburgerzaken.overbetuwe.nl

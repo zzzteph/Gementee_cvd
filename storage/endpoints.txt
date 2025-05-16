@@ -357,6 +357,7 @@ http://open.halderberge.nl
 http://open.meerssen.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
+http://overbetuwe.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -547,7 +548,6 @@ http://www.onlinestadsgesprek.harderwijk.nl
 http://www.ontwikkelstrategie.amsterdam.nl
 http://www.ooststellingwerf.nl
 http://www.opsterland.nl
-http://www.overbetuwe.nl
 http://www.participatielab.amsterdam.nl
 http://www.pmb.amsterdam.nl
 http://www.praatmee.borsele.nl

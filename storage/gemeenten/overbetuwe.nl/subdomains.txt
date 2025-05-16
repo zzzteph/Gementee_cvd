@@ -33,7 +33,6 @@ inproces-digeplan.overbetuwe.nl
 inproces-e-anom-acc.overbetuwe.nl
 inproces-e-anom.overbetuwe.nl
 inproces-fixi-acc.overbetuwe.nl
-inproces-fixi.overbetuwe.nl
 inproces-ibabs-acc.overbetuwe.nl
 inproces-ibabs.overbetuwe.nl
 inproces-kofax-acc.overbetuwe.nl
