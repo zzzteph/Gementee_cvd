@@ -82,13 +82,13 @@ digikoppeling.test
 mks
 acc-broker
 doemee
+woningbouwkaart
 test-intranet
 cmsintranet
 _autodiscover._tcp
 denkmee
 parkeren-test
 piwik
-woningbouwkaart
 belastingloket
 dtestloket
 connect
@@ -275,7 +275,6 @@ key2gbav
 filetransfer
 woz-portaal
 mx1
-en
 mijnsociaaldomein
 midoffice
 geovisia
@@ -318,6 +317,7 @@ academie
 www.intranet
 aeolus
 squit2020publiceren
+en
 liquit
 radius
 beeldbankbeheer
