@@ -426,7 +426,6 @@ http://simcms.maassluis.nl
 http://simcms.mookenmiddelaar.nl
 http://simcms.nederweert.nl
 http://simcms.opmeer.nl
-http://simcms.opsterland.nl
 http://simcms.roerdalen.nl
 http://simcms.sonenbreugel.nl
 http://simcms.valkenswaard.nl
@@ -547,6 +546,7 @@ http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
 http://www.ontwikkelstrategie.amsterdam.nl
 http://www.ooststellingwerf.nl
+http://www.opsterland.nl
 http://www.overbetuwe.nl
 http://www.participatielab.amsterdam.nl
 http://www.pmb.amsterdam.nl
@@ -3225,6 +3225,7 @@ https://felix.nijkerk.eu
 https://felix.nissewaard.nl
 https://felix.ooststellingwerf.nl
 https://felix.opmeer.nl
+https://felix.opsterland.nl
 https://felix.renswoude.nl
 https://felix.sonenbreugel.nl
 https://felix.t-diel.nl
@@ -6723,6 +6724,7 @@ https://simsite.lopik.nl
 https://simsite.nijkerk.eu
 https://simsite.ooststellingwerf.nl
 https://simsite.opmeer.nl
+https://simsite.opsterland.nl
 https://simsite.pekela.nl
 https://simsite.renswoude.nl
 https://simsite.valkenswaard.nl
@@ -8325,7 +8327,6 @@ https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
 https://www.openstad.nijmegen.nl
 https://www.operatiebomenbuurt.denhaag.nl
-https://www.opsterland.nl
 https://www.opvang.zwolle.nl
 https://www.oracbloemenbuurt.denhaag.nl
 https://www.oss.nl
