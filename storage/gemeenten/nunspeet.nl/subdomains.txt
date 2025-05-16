@@ -7,6 +7,7 @@ digikoppeling-test.nunspeet.nl
 digikoppeling.nunspeet.nl
 eloket.nunspeet.nl
 embrace.nunspeet.nl
+filecap.nunspeet.nl
 formulieren.nunspeet.nl
 geo.nunspeet.nl
 geodata.nunspeet.nl
@@ -22,6 +23,7 @@ nln.nunspeet.nl
 nunspeet-checker-preprod.nunspeet.nl
 nunspeet-checker.nunspeet.nl
 nunspeet.nl
+omgevingsplan.nunspeet.nl
 preprod.vergunningintaker.nunspeet.nl
 preprodbroker.nunspeet.nl
 preproductie.nunspeet.nl

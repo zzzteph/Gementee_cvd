@@ -108,6 +108,7 @@ bgt
 sts
 simcms-open
 www.webmail
+filecap
 dtestmidoffice
 squit2go
 mijnzorg
@@ -121,7 +122,6 @@ acc-formulier
 acc-podiumd-logs
 bastion365
 obsurv
-filecap
 begroting
 preprodbroker
 e
@@ -5179,6 +5179,7 @@ markt1
 nln
 nunspeet-checker-preprod
 nunspeet-checker
+omgevingsplan
 smtp02
 testcms-embrace
 testcms-markt1

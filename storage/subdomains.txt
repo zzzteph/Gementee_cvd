@@ -4888,6 +4888,7 @@ filecap.haarlem.nl
 filecap.leudal.nl
 filecap.meerssen.nl
 filecap.noordoostpolder.nl
+filecap.nunspeet.nl
 filecap.renswoude.nl
 filecap.rozendaal.nl
 filecap.voorst.nl
@@ -9100,6 +9101,7 @@ ombudsman.amsterdam.nl
 ombudsman.denhaag.nl
 ombudsman.nijmegen.nl
 omgevingsdocumenten.rijssen-holten.nl
+omgevingsplan.nunspeet.nl
 omgevingsvisie.almelo.nl
 omgevingsvisie.borger-odoorn.nl
 omgevingsvisie.borsele.nl

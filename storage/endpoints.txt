@@ -3256,6 +3256,7 @@ https://filecap.gemert-bakel.nl
 https://filecap.haarlem.nl
 https://filecap.leudal.nl
 https://filecap.noordoostpolder.nl
+https://filecap.nunspeet.nl
 https://filecap.rozendaal.nl
 https://filecap.wierden.nl
 https://filecapacc.breda.nl
@@ -4191,6 +4192,7 @@ https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
 https://internetafspraken.hattem.nl
 https://internetafspraken.heerde.nl
+https://internetafspraken.nunspeet.nl
 https://internetafspraken.oldebroek.nl
 https://internetafspraken.oss.nl
 https://internoss.oss.nl
@@ -6771,6 +6773,7 @@ https://smartdocuments.denhaag.nl
 https://smartdocwvn.westvoorne.nl
 https://smartdocwvnacc.westvoorne.nl
 https://smoelennet.almelo.nl
+https://smtp01.nunspeet.nl
 https://snelbalie.almere.nl
 https://snelbalie.apeldoorn.nl
 https://snelbalie.bergenopzoom.nl
@@ -7178,6 +7181,7 @@ https://testcms-inhuiz.huizen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
 https://testcms-jip.hofvantwente.nl
+https://testcms-markt1.nunspeet.nl
 https://testdigikoppeling.haarlemmermeer.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testdigitaalgemeenteloket.kaagenbraassem.nl
@@ -7227,6 +7231,7 @@ https://testloket.leusden.nl
 https://testloket.middelburg.nl
 https://testloket.nieuwkoop.nl
 https://testloket.oldebroek.nl
+https://testmarkt1.nunspeet.nl
 https://testmeldingen.asten.nl
 https://testmijn.lochem.nl
 https://testmijngemeente.waddinxveen.nl
