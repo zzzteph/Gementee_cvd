@@ -17,7 +17,6 @@ preprodgdintaker.ouder-amstel.nl
 preprodscbroker.ouder-amstel.nl
 programmabegroting2024.financielestukken.ouder-amstel.nl
 ruimtelijkeplannen.ouder-amstel.nl
-scbroker.ouder-amstel.nl
 sip.ouder-amstel.nl
 test.ouder-amstel.nl
 vergaderingen.ouder-amstel.nl

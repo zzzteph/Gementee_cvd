@@ -10970,7 +10970,6 @@ scanhulp.amsterdam.nl
 scanhulp.tst.amsterdam.nl
 scans.rhenen.nl
 scbroker.diemen.nl
-scbroker.ouder-amstel.nl
 scbroker.uithoorn.nl
 sccmmp.haarlem.nl
 scep.montferland.info
