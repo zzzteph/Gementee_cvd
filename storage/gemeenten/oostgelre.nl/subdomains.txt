@@ -40,6 +40,7 @@ iburgerzaken.oostgelre.nl
 ibzpink.oostgelre.nl
 inloggen.oostgelre.nl
 intranet.oostgelre.nl
+keycloak-admin.oostgelre.nl
 keycloak.oostgelre.nl
 klickwion.oostgelre.nl
 local.oostgelre.nl
@@ -78,3 +79,4 @@ www.afspraken.oostgelre.nl
 www.mob.oostgelre.nl
 www.oostgelre.nl
 www.piwik.oostgelre.nl
+zac.oostgelre.nl

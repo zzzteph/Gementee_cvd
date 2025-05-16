@@ -4477,6 +4477,7 @@ https://keycloak-admin.enschede.nl
 https://keycloak-admin.gemert-bakel.nl
 https://keycloak-admin.laarbeek.nl
 https://keycloak-admin.oldenzaal.nl
+https://keycloak-admin.oostgelre.nl
 https://keycloak-zgw.acc.denhaag.nl
 https://keycloak-zgw.test.denhaag.nl
 https://keycloak.acc.denhaag.nl
@@ -8628,6 +8629,7 @@ https://zac.enschede.nl
 https://zac.gemert-bakel.nl
 https://zac.laarbeek.nl
 https://zac.oldenzaal.nl
+https://zac.oostgelre.nl
 https://zaken.acceptatie.winterswijk.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl

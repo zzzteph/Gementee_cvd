@@ -298,7 +298,9 @@ auth.openstad
 img.openstad
 ns1
 rooster
+keycloak-admin
 openformulieren
+zac
 awmag
 beeldbank-bo
 publicaties
@@ -347,14 +349,12 @@ services
 mijngeldzaken
 www.openstad
 dialin
-keycloak-admin
 test-formulier
 test-mijn
 test-notificaties
 test-objecten
 test-objecttypen
 test-podiumd-logs
-zac
 geoserver
 simcms-preproductie
 uca

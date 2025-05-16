@@ -7225,6 +7225,7 @@ keycloak-admin.enschede.nl
 keycloak-admin.gemert-bakel.nl
 keycloak-admin.laarbeek.nl
 keycloak-admin.oldenzaal.nl
+keycloak-admin.oostgelre.nl
 keycloak-zgw.acc.denhaag.nl
 keycloak-zgw.test.denhaag.nl
 keycloak.acc.denhaag.nl
@@ -15249,6 +15250,7 @@ zac.enschede.nl
 zac.gemert-bakel.nl
 zac.laarbeek.nl
 zac.oldenzaal.nl
+zac.oostgelre.nl
 zaken.acceptatie.coevorden.nl
 zaken.acceptatie.dantumadiel.frl
 zaken.acceptatie.drechterland.nl
