@@ -1927,8 +1927,6 @@ https://bo-parkeervergunningen.acc.denhaag.nl
 https://bo-parkeervergunningen.acc.utrecht.nl
 https://bo-parkeervergunningen.denhaag.nl
 https://bo-parkeervergunningen.utrecht.nl
-https://boc-parkeervergunningen-acc.purmerend.nl
-https://boc-parkeervergunningen.purmerend.nl
 https://bodegraven-reeuwijk.nl
 https://bodem.zaanstad.nl
 https://bodemdossier.enschede.nl
@@ -2446,7 +2444,6 @@ https://dgk-prd.zutphen.nl
 https://dialin.houten.nl
 https://diemen.nl
 https://diensten-acc.rotterdam.nl
-https://diensten.purmerend.nl
 https://diensten.rotterdam.nl
 https://dieuwke.defryskemarren.nl
 https://digid-parkeervergunningen-acc.beverwijk.nl
@@ -2455,8 +2452,6 @@ https://digid-parkeervergunningen.acc.utrecht.nl
 https://digid-parkeervergunningen.beverwijk.nl
 https://digid-parkeervergunningen.denhaag.nl
 https://digid-parkeervergunningen.utrecht.nl
-https://digid-parkeren-acc.purmerend.nl
-https://digid-parkeren.purmerend.nl
 https://digid-subsidies-login.acceptatie.ede.nl
 https://digiform-fa.amsterdam.nl
 https://digiform.acc.amsterdam.nl
@@ -3334,8 +3329,6 @@ https://fo-parkeervergunningen.acc.denhaag.nl
 https://fo-parkeervergunningen.acc.utrecht.nl
 https://fo-parkeervergunningen.denhaag.nl
 https://fo-parkeervergunningen.utrecht.nl
-https://foc-parkeervergunningen-acc.purmerend.nl
-https://foc-parkeervergunningen.purmerend.nl
 https://focus-fa.amsterdam.nl
 https://focus-ft.amsterdam.nl
 https://focus.acc.amsterdam.nl
@@ -5080,6 +5073,7 @@ https://mijn.zwolle.nl
 https://mijnaanvraag-test.zutphen.nl
 https://mijnaanvraag.zutphen.nl
 https://mijnaanvraagzi.beuningen.nl
+https://mijnaanvragen.purmerend.nl
 https://mijnaanvragensociaaldomein.venlo.nl
 https://mijnacc.montfoort.nl
 https://mijnafspraak.scherpenzeel.nl
@@ -5882,13 +5876,11 @@ https://parkeervergunning.kampen.nl
 https://parkeervergunning.leeuwarden.nl
 https://parkeervergunning.nissewaard.nl
 https://parkeervergunningen-acc.beverwijk.nl
-https://parkeervergunningen-acc.purmerend.nl
 https://parkeervergunningen.acc.denhaag.nl
 https://parkeervergunningen.acc.utrecht.nl
 https://parkeervergunningen.beverwijk.nl
 https://parkeervergunningen.denhaag.nl
 https://parkeervergunningen.harlingen.nl
-https://parkeervergunningen.purmerend.nl
 https://parkeervergunningen.utrecht.nl
 https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
@@ -6150,6 +6142,7 @@ https://preprod-mijn.ridderkerk.nl
 https://preprod-mijn.sudwestfryslan.nl
 https://preprod-mijn.texel.nl
 https://preprod-mijn.zwolle.nl
+https://preprod-mijnaanvragen.purmerend.nl
 https://preprod-mijnaanvragensociaaldomein.venlo.nl
 https://preprod-mijnbelastingen.vught.nl
 https://preprod-mijninkomen.beverwijk.nl
@@ -6870,8 +6863,6 @@ https://sslvpn.geertruidenberg.nl
 https://sso.ir.rotterdam.nl
 https://sso.staphorst.nl
 https://ssorad.rotterdam.nl
-https://ssp-acc.purmerend.nl
-https://ssp.purmerend.nl
 https://ssrpm.rotterdam.nl
 https://sstpvpn.epe.nl
 https://staatvandeparticipatie.amsterdam.nl
