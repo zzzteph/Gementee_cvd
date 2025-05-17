@@ -1,7 +1,6 @@
 http://autodiscover.renswoude.nl
-https://felix.renswoude.nl
-https://renswoude.nl
+http://felix.renswoude.nl
+http://simsite.renswoude.nl
 https://simcms.renswoude.nl
-https://simsite.renswoude.nl
 https://web.renswoude.nl
 https://www.renswoude.nl

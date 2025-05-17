@@ -276,6 +276,7 @@ http://felix.eersel.nl
 http://felix.landgraaf.nl
 http://felix.lopik.nl
 http://felix.mookenmiddelaar.nl
+http://felix.renswoude.nl
 http://felix.scherpenzeel.nl
 http://felix.staphorst.nl
 http://felix.valkenswaard.nl
@@ -453,6 +454,7 @@ http://simsite.landgraaf.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
 http://simsite.oirschot.nl
+http://simsite.renswoude.nl
 http://simsite.scherpenzeel.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
@@ -3230,7 +3232,6 @@ https://felix.nissewaard.nl
 https://felix.ooststellingwerf.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
-https://felix.renswoude.nl
 https://felix.sonenbreugel.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
@@ -6449,7 +6450,6 @@ https://remote.winterswijk.nl
 https://remote.zaanstad.nl
 https://remote.zutphen.nl
 https://renkum.nl
-https://renswoude.nl
 https://reserveren.coevorden.nl
 https://reserveren.vijfheerenlanden.nl
 https://reserveringen.geertruidenberg.nl
@@ -6733,7 +6733,6 @@ https://simsite.ooststellingwerf.nl
 https://simsite.opmeer.nl
 https://simsite.opsterland.nl
 https://simsite.pekela.nl
-https://simsite.renswoude.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
 https://simsite.westmaasenwaal.nl
