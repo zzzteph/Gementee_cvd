@@ -30,10 +30,10 @@ waarmerk
 meldingen
 afspraak
 open
-parkeren
 raad
-api.meldingen
+parkeren
 geo
+api.meldingen
 adfs
 vpn
 betalen
@@ -50,26 +50,26 @@ werkenbij
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
+remote
 dloket
 dmidoffice
 api.meldingen-acc
 meldingen-acc
-remote
 openpdc
 data
 openpub
-cmsoo
-omgevingsvisie
 enterpriseregistration
+cmsoo
+loket.acceptatie
+omgevingsvisie
 login
 belastingbalie
 cloudadapter-test
-loket.acceptatie
 osb
+digikoppeling-test
 beeldbank
 zaken
 flowmailer-tracking
-digikoppeling-test
 kaart
 hybrid
 berichten
@@ -118,6 +118,7 @@ snelbalie
 afvalkalender
 dali
 preprod
+qr
 apps
 auth
 acc-formulier
@@ -130,7 +131,6 @@ preprodbroker
 simform
 web
 mijninkomen
-qr
 api.betalen
 openzaak
 acc-mijn
@@ -197,6 +197,7 @@ ro
 bor
 inproces.acceptatie
 bestuur
+afspraakmaken
 mta-sts
 zaaksysteem
 geoportaal
@@ -205,6 +206,7 @@ kennisbank
 preprod-mijn
 geodata
 evenementen
+melddesk
 mail2
 onderzoek
 jcc
@@ -215,11 +217,10 @@ intranet-acc
 outlook
 vth
 testloket
-afspraakmaken
+mobiel
 www.portal
 wachtwoord
 subsidies-backend
-melddesk
 thuiswerken
 website
 api.openstad
@@ -246,7 +247,6 @@ belastingbalie-test
 bestanden
 kcc
 mx2
-mobiel
 cloudadapter-prod
 handhaving
 mijnzorg-acc
@@ -289,6 +289,7 @@ gisibgeoserver
 www.werkenbij
 makelaar
 servicedesk
+belastingen-acc
 ro-online
 mozard
 mozardtest
@@ -335,7 +336,6 @@ toegang
 pdc
 zoeken
 subsidies-backend.acceptatie
-belastingen-acc
 diensten
 dkd-test
 msoid
@@ -425,6 +425,8 @@ octopus
 regelgeving
 gbi
 geotest
+moh-acc
+moh
 ns2
 admin.doemee
 api.doemee
@@ -483,6 +485,7 @@ gbionline
 cca-acc
 cca
 gemeentewinkel
+mijnmobiel
 pip
 www.mail
 authenticatie
@@ -559,8 +562,6 @@ parkeerapp
 smartdoc
 stadspas
 digid
-moh-acc
-moh
 werk
 www.mijn
 www.raad
@@ -660,7 +661,6 @@ gbionlinetest
 squit2gotest
 geo-secure
 ketenportaal.acceptatie
-mijnmobiel
 www.login
 www.parkeren
 prtg
@@ -822,6 +822,7 @@ leerplein
 nieuwkomers
 old
 testdigid
+www.geo
 www.old
 acc-contact.dev
 acc-formulier.dev
@@ -2449,7 +2450,6 @@ meedenken
 mfa-rooster
 preprod-mijngeldzaken
 vastgoedbedrijf
-www.geo
 www.meedenken
 www.vastgoedbedrijf
 acc-podiumd.sschosting.nl
@@ -5476,6 +5476,9 @@ historischbeeldarchief
 jccafsprakencloud
 oudebeeldbank
 grmks03
+intercontent
+mdesk
+melddesk-test
 gplan
 mijncultuurdocument
 mobilemail
