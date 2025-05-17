@@ -241,7 +241,6 @@ http://bouwdossiers.stadsarchief.breda.nl
 http://buikslotermeerplein.amsterdam.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://cairo.rotterdam.nl
-http://cjg.scherpenzeel.nl
 http://cms-extranet.hethogeland.nl
 http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
@@ -291,7 +290,6 @@ http://felix.landgraaf.nl
 http://felix.lopik.nl
 http://felix.mookenmiddelaar.nl
 http://felix.renswoude.nl
-http://felix.scherpenzeel.nl
 http://felix.staphorst.nl
 http://felix.valkenswaard.nl
 http://felix.zundert.nl
@@ -435,6 +433,7 @@ http://rs010.rotterdam.nl
 http://samenwerkingbelastingen-test.middelburg.nl
 http://sem.kampen.nl
 http://simcms-centrum.heerlen.nl
+http://simcms-cjg.scherpenzeel.nl
 http://simcms-data.westerkwartier.nl
 http://simcms-epos.staphorst.nl
 http://simcms-klimaatbestendig.lingewaard.nl
@@ -484,7 +483,6 @@ http://simsite.montferland.info
 http://simsite.nederweert.nl
 http://simsite.oirschot.nl
 http://simsite.renswoude.nl
-http://simsite.scherpenzeel.nl
 http://sisa.rotterdam.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
@@ -3241,6 +3239,7 @@ https://felix.ooststellingwerf.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
+https://felix.scherpenzeel.nl
 https://felix.sonenbreugel.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
@@ -5049,7 +5048,6 @@ https://mijn.rijswijk.nl
 https://mijn.roermond.nl
 https://mijn.roosendaal.nl
 https://mijn.rotterdam.nl
-https://mijn.scherpenzeel.nl
 https://mijn.schiedam.nl
 https://mijn.schouwen-duiveland.nl
 https://mijn.sittard-geleen.nl
@@ -6216,6 +6214,7 @@ https://preproductie.lopik.nl
 https://preproductie.mookenmiddelaar.nl
 https://preproductie.oirschot.nl
 https://preproductie.ooststellingwerf.nl
+https://preproductie.scherpenzeel.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.voorschoten.nl
 https://preproductie.wierden.nl
@@ -6687,6 +6686,7 @@ https://simcms.overbetuwe.nl
 https://simcms.renswoude.nl
 https://simcms.reuseldemierden.nl
 https://simcms.roerdalen.nl
+https://simcms.scherpenzeel.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
