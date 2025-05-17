@@ -1839,6 +1839,7 @@ axians.lev.delft.nl
 baarle-nassau.nl
 baarn.nl
 backend-dvg.acc.rotterdam.nl
+backend-dvg.acc.stadsarchief.rotterdam.nl
 backend-dvg.rotterdam.nl
 backoffice-parkeervergunningen-acc.beverwijk.nl
 backoffice-parkeervergunningen.beverwijk.nl
@@ -2558,6 +2559,7 @@ broker.preprod.leudal.nl
 broker.purmerend.nl
 broker.raalte.nl
 broker.roermond.nl
+broker.rotterdam.nl
 broker.stichtsevecht.nl
 broker.test.purmerend.nl
 broker.waterland.nl
@@ -5092,7 +5094,6 @@ formulier.nijmegen.nl
 formulier.oldenzaal.nl
 formulier.oostgelre.nl
 formulier.roermond.nl
-formulier.rotterdam.nl
 formulier.s-hertogenbosch.nl
 formulier.zwolle.nl
 formulieracc.breda.nl
@@ -8970,6 +8971,7 @@ notificaties.zwolle.nl
 notubiz-recorder.voerendaal.nl
 notubiz.alkmaar.nl
 notubiz.gulpen-wittem.nl
+nrobsubsidies.rotterdam.nl
 ns.amersfoort.nl
 ns.amsterdam.nl
 ns.apeldoorn.nl
@@ -12499,6 +12501,7 @@ test-zaanzoeker.zaanstad.nl
 test-zac.assen.nl
 test-zac.enschede.nl
 test-zac.gemert-bakel.nl
+test-zac.rotterdam.nl
 test.3d.utrecht.nl
 test.aalsmeer.nl
 test.achtkarspelen.nl
@@ -13845,8 +13848,6 @@ wijkbudgetypenburg.denhaag.nl
 wijken.dordrecht.nl
 wijkmanagement.zaanstad.nl
 wijkparkdelftlanden.emmen.nl
-wijkprofiel.rotterdam.nl
-wijkraad.rotterdam.nl
 wijkteam-acc.katwijk.nl
 wijkteam-care4.katwijk.nl
 wijkteam-cursus.katwijk.nl
@@ -13889,8 +13890,6 @@ wion.twenterand.nl
 wion.woensdrecht.nl
 wionklic.leudal.nl
 wireless.peelenmaas.nl
-wise-accept.bibliotheek.rotterdam.nl
-wise-web.bibliotheek.rotterdam.nl
 witgoed.middendrenthe.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
@@ -14038,7 +14037,6 @@ wsgateway.ot.denhaag.nl
 wsgateway1-extern.ot.denhaag.nl
 wsn-mail.voorschoten.nl
 wsn-mail.wassenaar.nl
-wsone.rotterdam.nl
 wsone2.rotterdam.nl
 wsr.groningen.nl
 wsus.overbetuwe.nl
@@ -14138,7 +14136,6 @@ www.automator2.twenterand.nl
 www.baarle-nassau.nl
 www.baarn.nl
 www.baarsjes.amsterdam.nl
-www.backup.crp.rotterdam.nl
 www.bag.middendelfland.nl
 www.bam.zandvoort.nl
 www.barendrecht.nl
@@ -14176,14 +14173,12 @@ www.beverwijk.nl
 www.bhv.sudwestfryslan.nl
 www.bi.rhenen.nl
 www.bia.amsterdam.nl
-www.bibliotheek.rotterdam.nl
 www.bibliotheekbenoordenhout.denhaag.nl
 www.bijmijindebuurt.gemeentewestland.nl
 www.bikecity.amsterdam.nl
 www.binnenstad.amsterdam.nl
 www.binnenstadsplan2030.denhaag.nl
 www.binnenwaterbeheer.amsterdam.nl
-www.bis.rotterdam.nl
 www.bladel.nl
 www.blaricum.nl
 www.bloemendaal.nl
@@ -14253,7 +14248,6 @@ www.containersweesperbuurt.amsterdam.nl
 www.continuverbeterenjmo.denhaag.nl
 www.cranendonck.nl
 www.crk.amsterdam.nl
-www.crp.rotterdam.nl
 www.cryptshare.kaagenbraassem.nl
 www.cryptshare.westmaasenwaal.nl
 www.csa.sudwestfryslan.nl
@@ -14462,7 +14456,6 @@ www.ghtsv2-093.gemeentehulst.nl
 www.ghtsv2-094.gemeentehulst.nl
 www.ghtsv2-095.gemeentehulst.nl
 www.gilzerijen.nl
-www.gis.rotterdam.nl
 www.gisib.haarlemmermeer.nl
 www.gisib.peelenmaas.nl
 www.gisibtest.haarlemmermeer.nl
@@ -14536,7 +14529,6 @@ www.hoorn.nl
 www.horstaandemaas.nl
 www.houten.nl
 www.houtwijkbegroot.denhaag.nl
-www.huiselijkgeweld.rotterdam.nl
 www.huisstijl.landvancuijk.nl
 www.huisstijl.zaanstad.nl
 www.huizen.nl
@@ -14602,7 +14594,6 @@ www.kaagenbraassem.nl
 www.kaarten.gemeentewestland.nl
 www.kaarten.haarlemmermeer.nl
 www.kaarten.sudwestfryslan.nl
-www.kaartlaag.rotterdam.nl
 www.kaartviewer.gemeentehulst.nl
 www.kampen.nl
 www.kantoor.weststellingwerf.nl
@@ -14645,7 +14636,6 @@ www.leiderdorp.nl
 www.leidschendam-voorburg.nl
 www.leidschenveenaanzet.denhaag.nl
 www.lelystad.nl
-www.letoplood.rotterdam.nl
 www.leudal.nl
 www.leusden.nl
 www.lingewaard.nl
@@ -14900,7 +14890,6 @@ www.regentesseplein.denhaag.nl
 www.regiocheckervth.denhaag.nl
 www.reimerswaal.nl
 www.rekenkamer.amsterdam.nl
-www.rekenkamer.rotterdam.nl
 www.rekenkamer.utrecht.nl
 www.remote.druten.nl
 www.remote.westvoorne.nl
@@ -14920,7 +14909,6 @@ www.rondleidingen.landvancuijk.nl
 www.roosendaal.nl
 www.roplan.haarlemmermeer.nl
 www.roteb.rotterdam.nl
-www.rotterdam.nl
 www.rozendaal.nl
 www.rucphen.nl
 www.ruimtelijkeplannen.amsterdam.nl
@@ -14959,7 +14947,6 @@ www.simpelveld.nl
 www.sint-michielsgestel.nl
 www.sinterklaas.groningen.nl
 www.sip.hellevoetsluis.nl
-www.sisa.rotterdam.nl
 www.sittard-geleen.nl
 www.sliedrecht.nl
 www.slimbereikbaar.assen.nl
@@ -14978,7 +14965,6 @@ www.soest.nl
 www.solliciterenbij.amsterdam.nl
 www.someren.nl
 www.sonenbreugel.nl
-www.sozawe.rotterdam.nl
 www.speleninoost.amsterdam.nl
 www.speleninzuid.amsterdam.nl
 www.sport.amsterdam.nl
@@ -14997,7 +14983,6 @@ www.staatvandeparticipatie.amsterdam.nl
 www.stad.kampen.nl
 www.stadjerspas.gemeente.groningen.nl
 www.stadsarchief.breda.nl
-www.stadsarchief.rotterdam.nl
 www.stadsbroekenijsselvizier.zwolle.nl
 www.stadshavens.groningen.nl
 www.stadskanaal.nl
@@ -15145,7 +15130,6 @@ www.wandelroutes.landvancuijk.nl
 www.warenhuis.groningen.nl
 www.warmrijsenhout.haarlemmermeer.nl
 www.wassenaar.nl
-www.watdoetdegemeente.rotterdam.nl
 www.waterland.nl
 www.webkassa.sportbedrijf.oosterhout.nl
 www.webmail.boekel.nl
@@ -15212,7 +15196,6 @@ www.wijkbudgetvruchtenbuurt.denhaag.nl
 www.wijkbudgetwaldeck.denhaag.nl
 www.wijkbudgetypenburg.denhaag.nl
 www.wijkparkdelftlanden.emmen.nl
-www.wijkprofiel.rotterdam.nl
 www.wilkommen.groningen.nl
 www.willkommen.groningen.nl
 www.windopland.haarlemmermeer.nl
@@ -15295,10 +15278,6 @@ xentialtest.gulpen-wittem.nl
 xentialtest.montferland.info
 xentialtest.veendam.nl
 xerox.brievenbus.amsterdam.nl
-xmlgw.preprod.rotterdam.nl
-xmlgw.rotterdam.nl
-xmstore.rotterdam.nl
-xmstoreacc.rotterdam.nl
 xworks-acc.montferland.info
 xworks.montferland.info
 yivi-voor-medewerkers.accp.nijmegen.nl

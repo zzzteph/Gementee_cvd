@@ -73,9 +73,9 @@ flowmailer-tracking
 kaart
 hybrid
 berichten
-formulier
 cloudadapter
 kaarten
+formulier
 parkeren-acc
 klantcontact
 digikoppeling.test
@@ -433,6 +433,7 @@ api.doemee
 auth.doemee
 img.doemee
 media
+test-zac
 kaartviewer
 personeelsplanning
 djuma
@@ -554,7 +555,6 @@ stswigo4it-acc
 stswigo4it
 top
 wob
-www.rekenkamer
 www.ruimtelijkeplannen
 cms.openstad
 digitaleplannen
@@ -570,7 +570,6 @@ test-keycloak-admin
 test-keycloak
 test-openklant
 test-openzaak
-test-zac
 vastgoed
 loket-acc
 plannen
@@ -809,6 +808,7 @@ www.ggd
 www.loket
 www.onderzoek
 www.open
+www.rekenkamer
 www.sport
 cc
 fm
@@ -882,7 +882,6 @@ netwerk
 beheerbeeldbank
 ig
 inkomensondersteuning
-www.stadsarchief
 esuitenotubiz-test
 ironport
 g-rooster
@@ -2635,6 +2634,7 @@ webcamslingerweg
 webcamspinveld
 websiteacc
 webtoegang
+www.stadsarchief
 brlcmg
 nlgembrl
 smartdoc-brl
@@ -5565,6 +5565,7 @@ appl.gw
 arbo-kwaliteit
 assetvalue
 backend-dvg.acc
+backend-dvg.acc.stadsarchief
 backend-dvg
 bbz-ioaz
 bcis005.ise
@@ -5671,6 +5672,7 @@ mvpndec
 nat-test-vpn
 nat12
 nietrnaast
+nrobsubsidies
 nunietzwanger
 oauthdec
 obsurv-acc
@@ -5758,29 +5760,8 @@ webappdec
 webdiensten
 webservices-acc
 webservices-demo
-wijkprofiel
-wijkraad
-wise-accept.bibliotheek
-wise-web.bibliotheek
-wsone
 wsone2
-www.backup.crp
-www.bibliotheek
-www.bis
-www.crp
-www.gis
-www.huiselijkgeweld
-www.kaartlaag
-www.letoplood
 www.roteb
-www.sisa
-www.sozawe
-www.watdoetdegemeente
-www.wijkprofiel
-xmlgw.preprod
-xmlgw
-xmstore
-xmstoreacc
 bijlage
 datadis
 datadis.test
