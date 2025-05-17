@@ -361,6 +361,7 @@ http://open.halderberge.nl
 http://open.meerssen.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
+http://opendata.roosendaal.nl
 http://overbetuwe.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
@@ -5234,7 +5235,6 @@ https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
 https://mijnzorg-acc.beesel.nl
 https://mijnzorg-acc.gennep.nl
-https://mijnzorg-acc.roosendaal.nl
 https://mijnzorg-test.borne.nl
 https://mijnzorg-test.heuvelrug.nl
 https://mijnzorg.aalsmeer.nl
@@ -5683,7 +5683,6 @@ https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://opendata.heemstede.nl
 https://opendata.nijmegen.nl
-https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://openformulieren-test.dewolden.nl
