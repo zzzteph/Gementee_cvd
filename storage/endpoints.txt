@@ -593,6 +593,7 @@ http://www.regelgeving.amsterdam.nl
 http://www.remote.westvoorne.nl
 http://www.samen.enkhuizen.nl
 http://www.samen.medemblik.nl
+http://www.samen.schagen.nl
 http://www.scheveningen.denhaag.nl
 http://www.sip.hellevoetsluis.nl
 http://www.socialekaart.duiven.nl
