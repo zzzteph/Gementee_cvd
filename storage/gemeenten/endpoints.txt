@@ -431,6 +431,7 @@ http://rosmolen.westervoort.nl
 http://rotterdam.nl
 http://rs010.rotterdam.nl
 http://samenwerkingbelastingen-test.middelburg.nl
+http://schiermonnikoog.nl
 http://sem.kampen.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-cjg.scherpenzeel.nl
@@ -6559,7 +6560,6 @@ https://scherpenzeel.nl
 https://scheveningen.denhaag.nl
 https://schiedam.nl
 https://schiedata.schiedam.nl
-https://schiermonnikoog.nl
 https://scholenwijzer-acc.denhaag.nl
 https://scholenwijzer.denhaag.nl
 https://schoolwijzer.amsterdam.nl
@@ -6687,6 +6687,7 @@ https://simcms.renswoude.nl
 https://simcms.reuseldemierden.nl
 https://simcms.roerdalen.nl
 https://simcms.scherpenzeel.nl
+https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
@@ -8347,7 +8348,6 @@ https://www.samenmet.beesel.nl
 https://www.samenwij.groningen.nl
 https://www.schagen.nl
 https://www.schiedam.nl
-https://www.schiermonnikoog.nl
 https://www.schoolwijzer.amsterdam.nl
 https://www.schouwen-duiveland.nl
 https://www.shops.landvancuijk.nl
