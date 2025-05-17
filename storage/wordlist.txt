@@ -40,11 +40,11 @@ betalen
 broker
 gemeenteraad
 enterpriseenrollment
+ruimtelijkeplannen
 zaaksysteem-accept
 testeloket
 iparticipatie
 pv
-ruimtelijkeplannen
 test-ipa
 werkenbij
 belastingen
@@ -56,9 +56,9 @@ dmidoffice
 api.meldingen-acc
 meldingen-acc
 openpdc
+enterpriseregistration
 data
 openpub
-enterpriseregistration
 cmsoo
 loket.acceptatie
 omgevingsvisie

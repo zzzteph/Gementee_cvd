@@ -290,7 +290,6 @@ http://geldzaken.loonopzand.nl
 http://geo.roermond.nl
 http://geoportal.weert.nl
 http://goud.almere.nl
-http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://helloid.sittard-geleen.nl
 http://historie.venlo.nl
@@ -1729,6 +1728,7 @@ https://belastingen.middendrenthe.nl
 https://belastingen.molenlanden.nl
 https://belastingen.nijmegen.nl
 https://belastingen.renkum.nl
+https://belastingen.rheden.nl
 https://belastingen.rozendaal.nl
 https://belastingen.soest.nl
 https://belastingen.stadskanaal.nl
@@ -3121,6 +3121,7 @@ https://enterpriseregistration.nijkerk.eu
 https://enterpriseregistration.opsterland.nl
 https://enterpriseregistration.peelenmaas.nl
 https://enterpriseregistration.renkum.nl
+https://enterpriseregistration.rheden.nl
 https://enterpriseregistration.roosendaal.nl
 https://enterpriseregistration.tholen.nl
 https://enterpriseregistration.veenendaal.nl
@@ -3729,6 +3730,7 @@ https://gp-admin.tilburg.nl
 https://gp.deventer.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
+https://gplan.rheden.nl
 https://gpt.apeldoorn.nl
 https://grave.landvancuijk.nl
 https://groenekaart.leiden.nl

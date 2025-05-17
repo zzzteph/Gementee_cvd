@@ -1,9 +1,11 @@
 afspraakmaken.rheden.nl
 autodiscover.rheden.nl
 belastingen-acc.rheden.nl
+belastingen.rheden.nl
 digikoppeling.rheden.nl
 digikoppelingtst.rheden.nl
 enterpriseenrollment.rheden.nl
+enterpriseregistration.rheden.nl
 geo.rheden.nl
 gplan.rheden.nl
 iburgerzaken.rheden.nl
@@ -24,8 +26,10 @@ moh.rheden.nl
 preprod.rheden.nl
 qr.rheden.nl
 rheden.nl
+ruimtelijkeplannen.rheden.nl
 s2go.rheden.nl
 s2gotest.rheden.nl
 werkplek-test.rheden.nl
+werkplek.rheden.nl
 www.afspraakmaken.rheden.nl
 www.rheden.nl
