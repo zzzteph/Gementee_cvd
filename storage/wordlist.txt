@@ -268,6 +268,7 @@ sslvpn
 afval
 keycloak-admin
 zac
+publicaties
 support
 data-test
 www.gemeenteraad
@@ -307,7 +308,6 @@ dialin
 openformulieren
 awmag
 beeldbank-bo
-publicaties
 intranetcms
 digikoppelingtest
 acc.piwik
@@ -5769,7 +5769,6 @@ testwww
 workdrive
 accp
 alsiam
-api.meldingen.accp
 api.toegang.dataplatform.accp
 api.toegang.dataplatform
 belastingen.accp
@@ -5780,6 +5779,9 @@ catalogus.dataplatform.accp
 catalogus.dataplatform
 ctr
 flex1
+flex2
+flex3
+flex4
 flex5
 flex6
 flex7
@@ -5806,6 +5808,7 @@ reflex
 servicegateway.accp
 toegang.dataplatform.accp
 toegang.dataplatform
+www.publicaties
 gemnet-dkd
 gemnet-dkdtest
 lan

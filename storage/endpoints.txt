@@ -1346,7 +1346,6 @@ https://api.meldingen-acc.zoeterwoude.nl
 https://api.meldingen-acc.zundert.nl
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.acceptatie.eindhoven.nl
-https://api.meldingen.accp.s-hertogenbosch.nl
 https://api.meldingen.almere.nl
 https://api.meldingen.alphenaandenrijn.nl
 https://api.meldingen.amsterdam.nl
@@ -5201,6 +5200,7 @@ https://mijntexeltest.texel.nl
 https://mijntoegang.zutphen.nl
 https://mijnuitkering.emmen.nl
 https://mijnuitkering.nissewaard.nl
+https://mijnuitkering.s-hertogenbosch.nl
 https://mijnuitkering.waddinxveen.nl
 https://mijnuitkering.westvoorne.nl
 https://mijnwerkregelingen-acc.utrecht.nl
@@ -6262,6 +6262,7 @@ https://publicaties.delft.nl
 https://publicaties.eindhoven.nl
 https://publicaties.nissewaard.nl
 https://publicaties.rekenkamer.amsterdam.nl
+https://publicaties.s-hertogenbosch.nl
 https://publicaties.stadskanaal.nl
 https://publicaties.tilburg.nl
 https://publicmedia.meierijstad.nl
@@ -6498,6 +6499,7 @@ https://rxlaunch-signicat-preprod.papendrecht.nl
 https://rxlaunch-signicat-preprod.sliedrecht.nl
 https://rxlaunch-signicat-preprod.zwijndrecht.nl
 https://rxlaunchbroker-preprod.heuvelrug.nl
+https://s-hertogenbosch.nl
 https://saaedepot-1.acc.amsterdam.nl
 https://saaedepot-1.amsterdam.nl
 https://saaedepot-1.tst.amsterdam.nl
@@ -8309,6 +8311,7 @@ https://www.praatmee.alblasserdam.nl
 https://www.preprod-woz-portaal-eemnes.baarn.nl
 https://www.prijsvraag-zwembad.apeldoorn.nl
 https://www.projecten.denhaag.nl
+https://www.publicaties.s-hertogenbosch.nl
 https://www.purmerend.nl
 https://www.putten.nl
 https://www.q4.venlo.nl

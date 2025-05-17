@@ -1,6 +1,5 @@
 accp.s-hertogenbosch.nl
 alsiam.s-hertogenbosch.nl
-api.meldingen.accp.s-hertogenbosch.nl
 api.meldingen.s-hertogenbosch.nl
 api.toegang.dataplatform.accp.s-hertogenbosch.nl
 api.toegang.dataplatform.s-hertogenbosch.nl
@@ -16,6 +15,9 @@ catalogus.dataplatform.s-hertogenbosch.nl
 ctr.s-hertogenbosch.nl
 flex.s-hertogenbosch.nl
 flex1.s-hertogenbosch.nl
+flex2.s-hertogenbosch.nl
+flex3.s-hertogenbosch.nl
+flex4.s-hertogenbosch.nl
 flex5.s-hertogenbosch.nl
 flex6.s-hertogenbosch.nl
 flex7.s-hertogenbosch.nl
@@ -56,6 +58,7 @@ openpdc.s-hertogenbosch.nl
 openpub.s-hertogenbosch.nl
 overdrachtsdocument2022.s-hertogenbosch.nl
 parkeren.s-hertogenbosch.nl
+publicaties.s-hertogenbosch.nl
 reflex.s-hertogenbosch.nl
 ruimtelijkeplannen.s-hertogenbosch.nl
 s-hertogenbosch.nl
@@ -69,4 +72,5 @@ toegang.dataplatform.s-hertogenbosch.nl
 transfer.s-hertogenbosch.nl
 uc.s-hertogenbosch.nl
 veiligdelen.s-hertogenbosch.nl
+www.publicaties.s-hertogenbosch.nl
 www.s-hertogenbosch.nl
