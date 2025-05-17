@@ -433,7 +433,6 @@ http://simcms.maassluis.nl
 http://simcms.mookenmiddelaar.nl
 http://simcms.nederweert.nl
 http://simcms.opmeer.nl
-http://simcms.roerdalen.nl
 http://simcms.sonenbreugel.nl
 http://simcms.valkenswaard.nl
 http://simcms.vlissingen.nl
@@ -6710,6 +6709,7 @@ https://simcms.ooststellingwerf.nl
 https://simcms.overbetuwe.nl
 https://simcms.renswoude.nl
 https://simcms.reuseldemierden.nl
+https://simcms.roerdalen.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
