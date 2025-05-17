@@ -266,6 +266,8 @@ admin.openstad
 openstad
 sslvpn
 afval
+keycloak-admin
+zac
 support
 data-test
 www.gemeenteraad
@@ -302,9 +304,7 @@ img.openstad
 ns1
 rooster
 dialin
-keycloak-admin
 openformulieren
-zac
 awmag
 beeldbank-bo
 publicaties

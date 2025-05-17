@@ -41,6 +41,7 @@ intro-acc.roermond.nl
 intro.roermond.nl
 introcms-acc.roermond.nl
 introcms.roermond.nl
+keycloak-admin.roermond.nl
 keycloak.roermond.nl
 mail.roermond.nl
 meldingen-acc.roermond.nl
@@ -66,3 +67,4 @@ stadswinkel.roermond.nl
 teradek.roermond.nl
 www.historiehuis.roermond.nl
 www.roermond.nl
+zac.roermond.nl
