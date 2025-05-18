@@ -6825,7 +6825,6 @@ intranet.renswoude.nl
 intranet.rheden.nl
 intranet.roerdalen.nl
 intranet.rucphen.nl
-intranet.schouwen-duiveland.nl
 intranet.sittard-geleen.nl
 intranet.staphorst.nl
 intranet.sudwestfryslan.nl

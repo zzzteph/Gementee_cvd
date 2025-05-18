@@ -11,7 +11,6 @@ flowmailer-tracking.schouwen-duiveland.nl
 gast.schouwen-duiveland.nl
 ijz.schouwen-duiveland.nl
 ijz2.schouwen-duiveland.nl
-intranet.schouwen-duiveland.nl
 link.schouwen-duiveland.nl
 mail.schouwen-duiveland.nl
 mijn.schouwen-duiveland.nl
