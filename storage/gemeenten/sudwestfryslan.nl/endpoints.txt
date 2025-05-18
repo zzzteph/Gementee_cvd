@@ -1,5 +1,4 @@
 http://intranet-prod.sudwestfryslan.nl
-http://test-intranet.sudwestfryslan.nl
 https://adfs01.sudwestfryslan.nl
 https://afspraak.sudwestfryslan.nl
 https://afvalkalender.sudwestfryslan.nl
@@ -30,6 +29,7 @@ https://preprod-mijn.sudwestfryslan.nl
 https://sudwestfryslan.nl
 https://survey.sudwestfryslan.nl
 https://test-cmsintranet.sudwestfryslan.nl
+https://test-intranet.sudwestfryslan.nl
 https://tstidentity.sudwestfryslan.nl
 https://vergeten.sudwestfryslan.nl
 https://verkiezingen.sudwestfryslan.nl

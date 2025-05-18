@@ -1194,7 +1194,6 @@ psiam
 tloket
 tsiam
 kantoor
-www.jcc
 mijnwerkplek
 www.auth
 mijnpost
@@ -5352,6 +5351,7 @@ wsus01.gem
 www.iburgerzaken
 www.ibzpink
 www.inproces-digeplan
+www.jcc
 www.pink-inproces-acc
 www.portaal
 www.preprod-belastingloket
