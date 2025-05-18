@@ -500,6 +500,7 @@ http://stadspas.weert.nl
 http://staphorst.nl
 http://subsites.amsterdam.nl
 http://teamurenplanninggezondheidmilieu.rotterdam.nl
+http://terschelling.nl
 http://test-bink.beverwijk.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.edam-volendam.nl
@@ -6685,7 +6686,6 @@ https://simcms.roerdalen.nl
 https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.staphorst.nl
-https://simcms.terschelling.nl
 https://simcms.vlieland.nl
 https://simcms.westerkwartier.nl
 https://simcms.weststellingwerf.nl

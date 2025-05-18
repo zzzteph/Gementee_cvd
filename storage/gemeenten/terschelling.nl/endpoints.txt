@@ -1,11 +1,11 @@
 http://autodiscover.terschelling.nl
+http://terschelling.nl
 https://co2monitor.terschelling.nl
 https://enterpriseenrollment.terschelling.nl
 https://felix.terschelling.nl
 https://mozard.terschelling.nl
 https://mozardtest.terschelling.nl
 https://siam.terschelling.nl
-https://simcms.terschelling.nl
 https://test-zaakloket.terschelling.nl
 https://testsiam.terschelling.nl
 https://www.terschelling.nl
