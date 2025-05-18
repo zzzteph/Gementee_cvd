@@ -9,7 +9,6 @@ https://openformulieren.stedebroec.nl
 https://openpdc.stedebroec.nl
 https://openpdckb.stedebroec.nl
 https://openpubkb.stedebroec.nl
-https://prod.stedebroec.nl
 https://samen.stedebroec.nl
 https://stedebroec.nl
 https://transfer.stedebroec.nl
