@@ -434,6 +434,7 @@ auth.doemee
 img.doemee
 media
 test-zac
+plannen
 kaartviewer
 personeelsplanning
 djuma
@@ -572,7 +573,6 @@ test-openklant
 test-openzaak
 vastgoed
 loket-acc
-plannen
 bestemmingsplannen
 accdrop
 eforms

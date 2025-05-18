@@ -396,6 +396,7 @@ http://pip-preproductie.gemeentehw.nl
 http://piptest.waddinxveen.nl
 http://pki.rotterdam.nl
 http://plannen.asten.nl
+http://plannen.someren.nl
 http://pollerscs.rotterdam.nl
 http://postcodezoektool.rotterdam.nl
 http://pre-gemeenteloket.gemeentemaastricht.nl
