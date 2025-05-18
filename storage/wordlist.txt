@@ -114,6 +114,7 @@ squit2go
 mijnzorg
 vergunningintaker
 e
+mijninkomen
 snelbalie
 afvalkalender
 dali
@@ -130,7 +131,6 @@ begroting
 preprodbroker
 simform
 web
-mijninkomen
 api.betalen
 openzaak
 acc-mijn

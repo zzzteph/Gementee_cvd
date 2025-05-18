@@ -14,6 +14,7 @@ loket.texel.nl
 lokettest.texel.nl
 mail.digikoppeling.texel.nl
 mijn.texel.nl
+mijninkomen.texel.nl
 mijntexeltest.texel.nl
 mozardproductie.texel.nl
 openpdc.texel.nl

@@ -8442,6 +8442,7 @@ mijninkomen.goeree-overflakkee.nl
 mijninkomen.gouda.nl
 mijninkomen.oss.nl
 mijninkomen.terneuzen.nl
+mijninkomen.texel.nl
 mijninkomen.venray.nl
 mijnintranet.haaksbergen.nl
 mijnintranet.heerlen.nl
