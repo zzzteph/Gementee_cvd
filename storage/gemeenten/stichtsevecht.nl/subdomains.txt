@@ -10,8 +10,6 @@ dkd.stichtsevecht.nl
 e.stichtsevecht.nl
 eformulieren-test.stichtsevecht.nl
 eformulieren.stichtsevecht.nl
-formulieren.acc.stichtsevecht.nl
-formulieren.stichtsevecht.nl
 iburgerzaken.stichtsevecht.nl
 ibzpink.stichtsevecht.nl
 kaarten.stichtsevecht.nl

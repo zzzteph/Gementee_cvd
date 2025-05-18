@@ -781,7 +781,6 @@ docgen
 erfpacht
 fileshare
 formulieren-g4-acc
-formulieren.acc
 gvz2digikoppeling
 gvzdigikoppeling
 iga
@@ -1816,6 +1815,7 @@ focus.acc
 focus
 focus.tst
 forms.vga
+formulieren.acc
 formulieren1
 fotobank
 fs.mobiliteit.data
