@@ -1,10 +1,7 @@
-http://simcms.sonenbreugel.nl
-http://www.sonenbreugel.nl
+http://open.sonenbreugel.nl
 https://eloket.sonenbreugel.nl
 https://en.sonenbreugel.nl
-https://felix.sonenbreugel.nl
 https://iburgerzaken.sonenbreugel.nl
-https://open.sonenbreugel.nl
-https://sonenbreugel.nl
 https://testeloket.sonenbreugel.nl
 https://woningbouwkaart.sonenbreugel.nl
+https://www.sonenbreugel.nl

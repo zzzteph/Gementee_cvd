@@ -377,6 +377,7 @@ http://ontwikkelstrategie.amsterdam.nl
 http://open.geldrop-mierlo.nl
 http://open.halderberge.nl
 http://open.meerssen.nl
+http://open.sonenbreugel.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
 http://opendata.roosendaal.nl
@@ -463,7 +464,6 @@ http://simcms.maassluis.nl
 http://simcms.mookenmiddelaar.nl
 http://simcms.nederweert.nl
 http://simcms.opmeer.nl
-http://simcms.sonenbreugel.nl
 http://simcms.valkenswaard.nl
 http://simcms.vlissingen.nl
 http://simcms.voorschoten.nl
@@ -598,7 +598,6 @@ http://www.samen.schagen.nl
 http://www.scheveningen.denhaag.nl
 http://www.sip.hellevoetsluis.nl
 http://www.socialekaart.duiven.nl
-http://www.sonenbreugel.nl
 http://www.stadspas.apeldoorn.nl
 http://www.stadspas.venlo.nl
 http://www.stadstoezicht.amsterdam.nl
@@ -3243,7 +3242,6 @@ https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
 https://felix.scherpenzeel.nl
-https://felix.sonenbreugel.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
@@ -5654,7 +5652,6 @@ https://open.rhenen.nl
 https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
-https://open.sonenbreugel.nl
 https://open.staphorst.nl
 https://open.teylingen.nl
 https://open.tubbergen.nl
@@ -6813,7 +6810,6 @@ https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
 https://solliciterenbij.maassluis.nl
 https://someren.nl
-https://sonenbreugel.nl
 https://spa4.acc.amsterdam.nl
 https://spa4.tst.amsterdam.nl
 https://spa4d.amsterdam.nl
@@ -8360,6 +8356,7 @@ https://www.socialekaart.echt-susteren.nl
 https://www.socialekaart.westbetuwe.nl
 https://www.soest.nl
 https://www.someren.nl
+https://www.sonenbreugel.nl
 https://www.speleninoost.amsterdam.nl
 https://www.speleninzuid.amsterdam.nl
 https://www.sport.nijmegen.nl
