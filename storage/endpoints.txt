@@ -518,6 +518,7 @@ http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
 http://test-intranet.midden-groningen.nl
+http://test-intranet.steenwijkerland.nl
 http://test-intranet.sudwestfryslan.nl
 http://test-intranet.venlo.nl
 http://test-intranet.wageningen.nl
@@ -7067,6 +7068,7 @@ https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
 https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
+https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.venlo.nl
 https://test-cmsintranet.wageningen.nl
@@ -7756,6 +7758,7 @@ https://werkplek.roosendaal.nl
 https://werkplek.rucphen.nl
 https://werkplek.schagen.nl
 https://werkplek.smallingerland.nl
+https://werkplek.steenwijkerland.nl
 https://werkplek.sudwestfryslan.nl
 https://werkplek.tholen.nl
 https://werkplek.veldhoven.nl
