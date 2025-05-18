@@ -5888,8 +5888,6 @@ ids-test
 mail3
 mail4
 mail5
-srv-app52
-www.ebis
 acceptatie-zaaksysteem
 archief-zaaksysteem
 digitaalvergaderen

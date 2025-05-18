@@ -31,7 +31,6 @@ parkeren.smallingerland.nl
 preprod.smallingerland.nl
 qmanage.smallingerland.nl
 smallingerland.nl
-srv-app52.smallingerland.nl
+webmail.smallingerland.nl
 werkplek.smallingerland.nl
-www.ebis.smallingerland.nl
 www.smallingerland.nl
