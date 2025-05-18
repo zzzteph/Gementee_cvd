@@ -27,8 +27,8 @@ werkplek
 portal
 acc
 waarmerk
-meldingen
 afspraak
+meldingen
 open
 raad
 parkeren

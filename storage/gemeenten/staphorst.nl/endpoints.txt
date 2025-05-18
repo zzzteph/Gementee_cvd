@@ -1,11 +1,12 @@
 http://epos.staphorst.nl
-http://felix.staphorst.nl
-http://simcms-epos.staphorst.nl
+http://simcms-open.staphorst.nl
+http://staphorst.nl
 https://aaa.staphorst.nl
+https://afspraak.staphorst.nl
 https://iburgerzaken.staphorst.nl
 https://intranet.staphorst.nl
 https://mijn.staphorst.nl
 https://open.staphorst.nl
 https://simcms.staphorst.nl
 https://sso.staphorst.nl
-https://staphorst.nl
+https://www.staphorst.nl

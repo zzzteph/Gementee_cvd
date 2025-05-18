@@ -863,6 +863,7 @@ afspraak.oudewater.nl
 afspraak.peelenmaas.nl
 afspraak.pekela.nl
 afspraak.rijswijk.nl
+afspraak.staphorst.nl
 afspraak.sudwestfryslan.nl
 afspraak.utrecht.nl
 afspraak.veendam.nl

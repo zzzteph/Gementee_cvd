@@ -1,4 +1,5 @@
 aaa.staphorst.nl
+afspraak.staphorst.nl
 epos.staphorst.nl
 felix.staphorst.nl
 geo.staphorst.nl

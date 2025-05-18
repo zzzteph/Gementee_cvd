@@ -290,7 +290,6 @@ http://felix.lopik.nl
 http://felix.mookenmiddelaar.nl
 http://felix.renswoude.nl
 http://felix.simpelveld.nl
-http://felix.staphorst.nl
 http://felix.valkenswaard.nl
 http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
@@ -438,12 +437,12 @@ http://sem.kampen.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-cjg.scherpenzeel.nl
 http://simcms-data.westerkwartier.nl
-http://simcms-epos.staphorst.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.gemeentebeek.nl
 http://simcms-open.halderberge.nl
+http://simcms-open.staphorst.nl
 http://simcms-preproductie.kerkrade.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-woo.doesburg.nl
@@ -498,6 +497,7 @@ http://sslvpn.haarlem.nl
 http://stadsarchief.almere.nl
 http://stadsarchief.rotterdam.nl
 http://stadspas.weert.nl
+http://staphorst.nl
 http://subsites.amsterdam.nl
 http://t-diel.nl
 http://teamurenplanninggezondheidmilieu.rotterdam.nl
@@ -1099,6 +1099,7 @@ https://afspraak.moerdijk.nl
 https://afspraak.oude-ijsselstreek.nl
 https://afspraak.pekela.nl
 https://afspraak.rijswijk.nl
+https://afspraak.staphorst.nl
 https://afspraak.sudwestfryslan.nl
 https://afspraak.utrecht.nl
 https://afspraak.veenendaal.nl
@@ -6888,7 +6889,6 @@ https://staging.stemvan.groningen.nl
 https://stan-acc.stadskanaal.nl
 https://stan.stadskanaal.nl
 https://standplaatsen.heerenveen.nl
-https://staphorst.nl
 https://stappenteller.rotterdam.nl
 https://start.almelo.nl
 https://start.beverwijk.nl
@@ -8372,6 +8372,7 @@ https://www.stadskrant-acc.denhaag.nl
 https://www.stadskrant.denhaag.nl
 https://www.staging.deventer.nl
 https://www.staging.olst-wijhe.nl
+https://www.staphorst.nl
 https://www.stationsdistrict.nijmegen.nl
 https://www.statistiek.amsterdam.nl
 https://www.stedebroec.nl
