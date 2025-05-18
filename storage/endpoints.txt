@@ -290,6 +290,7 @@ http://felix.landgraaf.nl
 http://felix.lopik.nl
 http://felix.mookenmiddelaar.nl
 http://felix.renswoude.nl
+http://felix.simpelveld.nl
 http://felix.staphorst.nl
 http://felix.valkenswaard.nl
 http://felix.zundert.nl
@@ -6215,6 +6216,7 @@ https://preproductie.mookenmiddelaar.nl
 https://preproductie.oirschot.nl
 https://preproductie.ooststellingwerf.nl
 https://preproductie.scherpenzeel.nl
+https://preproductie.simpelveld.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.voorschoten.nl
 https://preproductie.wierden.nl
@@ -6687,7 +6689,6 @@ https://simcms.reuseldemierden.nl
 https://simcms.roerdalen.nl
 https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
-https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.terschelling.nl
 https://simcms.vlieland.nl
@@ -8350,6 +8351,7 @@ https://www.schiedam.nl
 https://www.schoolwijzer.amsterdam.nl
 https://www.schouwen-duiveland.nl
 https://www.shops.landvancuijk.nl
+https://www.simpelveld.nl
 https://www.sint-michielsgestel.nl
 https://www.sinterklaas.groningen.nl
 https://www.sittard-geleen.nl
