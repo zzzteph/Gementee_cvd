@@ -12358,7 +12358,6 @@ test-formulieren.haarlemmermeer.nl
 test-hofnet.coevorden.nl
 test-inkomensondersteuning.nijmegen.nl
 test-insite.nijmegen.nl
-test-internetafspraken.sittard-geleen.nl
 test-intra.gooisemeren.nl
 test-intranet.beuningen.nl
 test-intranet.drimmelen.nl

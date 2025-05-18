@@ -5877,7 +5877,6 @@ octopus-vm
 openkaarten
 portal2
 quarantaine
-test-internetafspraken
 uitvaartplanner
 sliedrecht-checker-preprod
 sliedrecht-checker

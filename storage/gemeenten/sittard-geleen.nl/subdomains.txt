@@ -48,7 +48,6 @@ secure.sittard-geleen.nl
 sittard-geleen.nl
 sts.sittard-geleen.nl
 test-cmsintranet.sittard-geleen.nl
-test-internetafspraken.sittard-geleen.nl
 test-intranet.sittard-geleen.nl
 test.sittard-geleen.nl
 topdesk.sittard-geleen.nl
