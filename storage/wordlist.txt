@@ -28,8 +28,8 @@ portal
 acc
 waarmerk
 afspraak
-meldingen
 open
+meldingen
 raad
 parkeren
 geo
@@ -38,9 +38,9 @@ adfs
 vpn
 betalen
 broker
+ruimtelijkeplannen
 gemeenteraad
 enterpriseenrollment
-ruimtelijkeplannen
 zaaksysteem-accept
 testeloket
 iparticipatie
@@ -181,6 +181,7 @@ squit2020
 college
 veiligdelen
 mailing
+onderzoek
 email
 legacy
 telewerken
@@ -208,11 +209,11 @@ geodata
 evenementen
 melddesk
 mail2
-onderzoek
 jcc
 sharefile
 bag
 www.doemee
+localhost
 intranet-acc
 outlook
 vth
@@ -231,7 +232,6 @@ e-loket
 opendata
 woo
 meet
-localhost
 byod
 guest
 publicroam
@@ -399,6 +399,7 @@ corsa-prod
 corsa-test
 tim
 www.werkplek
+authenticatie
 gateway
 lyncweb
 mijn-preproductie
@@ -490,7 +491,6 @@ gemeentewinkel
 mijnmobiel
 pip
 www.mail
-authenticatie
 acceptatie-intranet
 hpdm
 neuron
@@ -6092,8 +6092,10 @@ api-gateway-ot
 api-gateway
 api-pkio-acceptatie
 api.darwin
+api.denkmee
 applicationgateway
 auth.darwin
+authenticatie-preprod
 beeldbank.extranet
 beta
 bezoeker
@@ -6101,6 +6103,8 @@ bis-test
 bor.extranet
 cdn1
 connect-with.trouwen
+crm.authenticatie-preprod
+crm.authenticatie
 darwin
 digikoppeling-ot
 dkd-ot.berichtenverkeer
@@ -6112,13 +6116,18 @@ gateway-ot
 gis-test
 gp-admin
 id.trouwen
+integralebeveiliging
 intranet-ot
 klantmodule-centric-ot.extranet
 klantmodule.extranet
+login.denkmee
 ondertekenen.trouwen
 open-acceptatie
+open-hub-acceptatie
+open-hub
 ot1
 printen
+recast-citrixapps
 samenwerking
 secfs
 suppliers-ot
@@ -6132,6 +6141,7 @@ winkel-acceptatie
 winkel-ot
 www-acceptatie
 www.dataportaal
+www.werkplekspel
 automator2
 crdp
 iarchieftest

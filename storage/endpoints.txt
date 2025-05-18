@@ -1291,6 +1291,7 @@ https://api.darwin.tilburg.nl
 https://api.data.amsterdam.nl
 https://api.dataportaal.amsterdam.nl
 https://api.denhaag.nl
+https://api.denkmee.tilburg.nl
 https://api.design.hoorn.nl
 https://api.doemee.assen.nl
 https://api.doemee.bloemendaal.nl
@@ -1503,9 +1504,11 @@ https://auth4.denhaag.nl
 https://auth5.denhaag.nl
 https://auth7.denhaag.nl
 https://authenticatie-accp.nijmegen.nl
+https://authenticatie-preprod.tilburg.nl
 https://authenticatie.gemeentestein.nl
 https://authenticatie.groningen.nl
 https://authenticatie.nijmegen.nl
+https://authenticatie.tilburg.nl
 https://authenticatiedienst.echt-susteren.nl
 https://authenticatiedienst.gemeentemaasgouw.nl
 https://authenticatiedienst.preprod.echt-susteren.nl
@@ -2283,6 +2286,8 @@ https://crl.amersfoort.nl
 https://crl.lopik.nl
 https://crls.groningen.nl
 https://crm-ibee.zaanstad.nl
+https://crm.authenticatie-preprod.tilburg.nl
+https://crm.authenticatie.tilburg.nl
 https://crypt.apeldoorn.nl
 https://cryptacc.apeldoorn.nl
 https://cryptshare.delft.nl
@@ -3591,7 +3596,6 @@ https://geo.raalte.nl
 https://geo.renkum.nl
 https://geo.rheden.nl
 https://geo.sittard-geleen.nl
-https://geo.tilburg.nl
 https://geo.vught.nl
 https://geo.wijkbijduurstede.nl
 https://geo.zeewolde.nl
@@ -4636,6 +4640,7 @@ https://login-acc.roosendaal.nl
 https://login-pre.mookenmiddelaar.nl
 https://login-pre.nijkerk.eu
 https://login.alphenaandenrijn.nl
+https://login.denkmee.tilburg.nl
 https://login.groningen.nl
 https://login.mookenmiddelaar.nl
 https://login.nijkerk.eu
@@ -5574,6 +5579,7 @@ https://onderzoek.eindhoven.nl
 https://onderzoek.groningen.nl
 https://onderzoek.nieuwegein.nl
 https://onderzoek.purmerend.nl
+https://onderzoek.tilburg.nl
 https://onderzoek.utrecht.nl
 https://onderzoek.veenendaal.nl
 https://online-aanvraag-test.dalfsen.nl
@@ -5620,6 +5626,7 @@ https://open-formulieren-test.venray.nl
 https://open-formulieren.groningen.nl
 https://open-formulieren.horstaandemaas.nl
 https://open-formulieren.venray.nl
+https://open-hub-acceptatie.tilburg.nl
 https://open-test.nijmegen.nl
 https://open.arnhem.nl
 https://open.barneveld.nl
@@ -6487,6 +6494,7 @@ https://ruimtelijkeplannen.lochem.nl
 https://ruimtelijkeplannen.olst-wijhe.nl
 https://ruimtelijkeplannen.opsterland.nl
 https://ruimtelijkeplannen.raalte.nl
+https://ruimtelijkeplannen.tilburg.nl
 https://ruimtelijkeplannen.veldhoven.nl
 https://ruimtevoorjou.groningen.nl
 https://ruimtevoorwerken.stichtsevecht.nl
