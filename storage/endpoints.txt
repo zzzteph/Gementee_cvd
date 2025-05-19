@@ -291,7 +291,6 @@ http://felix.mookenmiddelaar.nl
 http://felix.renswoude.nl
 http://felix.simpelveld.nl
 http://felix.t-diel.nl
-http://felix.valkenswaard.nl
 http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
 http://fisha.rotterdam.nl
@@ -421,7 +420,6 @@ http://preproductie.kerkrade.nl
 http://preproductie.montferland.info
 http://preproductie.pijnacker-nootdorp.nl
 http://preproductie.reuseldemierden.nl
-http://preproductie.valkenswaard.nl
 http://preproductie.wassenaar.nl
 http://preproductie.westerkwartier.nl
 http://preproductie.zoetermeer.nl
@@ -613,6 +611,7 @@ http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.urk.nl
+http://www.valkenswaard.nl
 http://www.waddsup.waddinxveen.nl
 http://www.wassenaar.nl
 http://www.webmail.hellevoetsluis.nl
@@ -1168,7 +1167,6 @@ https://afspraken.someren.nl
 https://afspraken.tholen.nl
 https://afspraken.tynaarlo.nl
 https://afspraken.vaals.nl
-https://afspraken.valkenswaard.nl
 https://afspraken.veendam.nl
 https://afspraken.waterland.nl
 https://afspraken.westerwolde.nl

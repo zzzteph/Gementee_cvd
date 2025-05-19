@@ -1,9 +1,7 @@
 http://autodiscover.valkenswaard.nl
-http://felix.valkenswaard.nl
-http://preproductie.valkenswaard.nl
 http://simcms.valkenswaard.nl
+http://www.valkenswaard.nl
 https://WOZ-loket.valkenswaard.nl
-https://afspraken.valkenswaard.nl
 https://berichten.valkenswaard.nl
 https://iburgerzaken.valkenswaard.nl
 https://klantcontact.valkenswaard.nl
