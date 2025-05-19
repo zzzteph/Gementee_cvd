@@ -473,7 +473,6 @@ http://simcms.wierden.nl
 http://simcms.zuidplas.nl
 http://simform-preproductie.achtkarspelen.nl
 http://simform-preproductie.t-diel.nl
-http://simform-preproductie.vlaardingen.nl
 http://simform-preproductie.wassenaar.nl
 http://simform.heerenveen.nl
 http://simform.rijswijk.nl
@@ -3395,6 +3394,7 @@ https://formulieracc.breda.nl
 https://formulieren-acc.hoorn.nl
 https://formulieren-intern.hoorn.nl
 https://formulieren-preprod.veere.nl
+https://formulieren-preproductie.vlaardingen.nl
 https://formulieren-test.beesel.nl
 https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
@@ -6692,6 +6692,7 @@ https://simform-test.rijswijk.nl
 https://simform.beuningen.nl
 https://simform.gemeentehw.nl
 https://simform.t-diel.nl
+https://simform.vlaardingen.nl
 https://simform.vlissingen.nl
 https://simform.wassenaar.nl
 https://simsite.bergen.nl

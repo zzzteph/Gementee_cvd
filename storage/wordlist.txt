@@ -863,6 +863,7 @@ acc-openwave
 corona
 key2financien-prod
 key2financien-test
+sophos
 begraafplaatsen
 demo.doemee
 ondernemers
@@ -2572,7 +2573,6 @@ mdr
 openwave
 rp
 simcms-begraafplaatsduinrust
-sophos
 test-bink
 test-cmsbink
 NLGEMBRC

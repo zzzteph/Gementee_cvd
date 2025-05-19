@@ -1,9 +1,9 @@
-http://simform-preproductie.vlaardingen.nl
 https://authmfa.vlaardingen.nl
 https://authportal.vlaardingen.nl
 https://autodiscover.vlaardingen.nl
 https://balie2.vlaardingen.nl
 https://erfpacht.vlaardingen.nl
+https://formulieren-preproductie.vlaardingen.nl
 https://mail.vlaardingen.nl
 https://maps.vlaardingen.nl
 https://mijn.vlaardingen.nl
@@ -12,6 +12,7 @@ https://mobiel.vlaardingen.nl
 https://pip.vlaardingen.nl
 https://portal.vlaardingen.nl
 https://service.vlaardingen.nl
+https://simform.vlaardingen.nl
 https://vlaardingen.nl
 https://web.vlaardingen.nl
 https://werkplek.vlaardingen.nl

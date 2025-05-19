@@ -29,6 +29,7 @@ secure.vlaardingen.nl
 service.vlaardingen.nl
 simform-preproductie.vlaardingen.nl
 simform.vlaardingen.nl
+sophos.vlaardingen.nl
 test.mijnloket.vlaardingen.nl
 vlaardingen.nl
 web.vlaardingen.nl
