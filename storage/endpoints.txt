@@ -467,7 +467,6 @@ http://simcms.mookenmiddelaar.nl
 http://simcms.nederweert.nl
 http://simcms.opmeer.nl
 http://simcms.valkenswaard.nl
-http://simcms.vlissingen.nl
 http://simcms.voorschoten.nl
 http://simcms.wierden.nl
 http://simcms.zuidplas.nl
@@ -540,7 +539,6 @@ http://vergunningintaker.bernheze.org
 http://verkiezingen.dalfsen.nl
 http://videoafspraak.rotterdam.nl
 http://videobellenwsd.utrecht.nl
-http://vlissingen.nl
 http://voorschoten.nl
 http://vrr.rotterdam.nl
 http://vsp.terneuzen.nl
@@ -3556,6 +3554,7 @@ https://gemeenteraad.rotterdam.nl
 https://gemeenteraad.soest.nl
 https://gemeenteraad.stadskanaal.nl
 https://gemeenteraad.venlo.nl
+https://gemeenteraad.vlissingen.nl
 https://gemeenteraad.vught.nl
 https://gemeenteraad.weert.nl
 https://gemeenteraad.westbetuwe.nl
@@ -6684,6 +6683,7 @@ https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.staphorst.nl
 https://simcms.vlieland.nl
+https://simcms.vlissingen.nl
 https://simcms.westerkwartier.nl
 https://simcms.weststellingwerf.nl
 https://simcms.winterswijk.nl
@@ -6693,7 +6693,6 @@ https://simform.beuningen.nl
 https://simform.gemeentehw.nl
 https://simform.t-diel.nl
 https://simform.vlaardingen.nl
-https://simform.vlissingen.nl
 https://simform.wassenaar.nl
 https://simsite.bergen.nl
 https://simsite.bergendal.nl
@@ -7489,6 +7488,7 @@ https://visnet.vlissingen.nl
 https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://vlaardingen.nl
+https://vlissingen.nl
 https://vluchtelingen.zaanstad.nl
 https://voerendaal.nl
 https://vogelweide.diemen.nl
@@ -8429,6 +8429,7 @@ https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
 https://www.vlieland.nl
+https://www.vlissingen.nl
 https://www.voerendaal.nl
 https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl
