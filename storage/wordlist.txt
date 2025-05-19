@@ -357,6 +357,7 @@ test-notificaties
 test-objecten
 test-objecttypen
 test-podiumd-logs
+plannen
 geoserver
 nhr
 simcms-preproductie
@@ -435,7 +436,6 @@ auth.doemee
 img.doemee
 media
 test-zac
-plannen
 kaartviewer
 personeelsplanning
 djuma
@@ -1108,6 +1108,7 @@ communicatie
 idselect
 www.meedoen
 test-kaartviewer
+mfawerkplek
 veilig
 www.cryptshare
 brk
@@ -4494,7 +4495,6 @@ themawebsite
 webformulieren-acc
 webmail.test
 wpvh
-mfawerkplek
 raster
 zwembad
 gisdata

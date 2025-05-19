@@ -4956,6 +4956,7 @@ https://merk.denhaag.nl
 https://mfa-rooster.arnhem.nl
 https://mfa.eijsden-margraten.nl
 https://mfawerkplek.horstaandemaas.nl
+https://mfawerkplek.venray.nl
 https://mform.meerssen.nl
 https://mft-fa.amsterdam.nl
 https://mft.amsterdam.nl
@@ -5985,6 +5986,7 @@ https://piwik.ede.nl
 https://piwik.krimpenerwaard.nl
 https://pki.olst-wijhe.nl
 https://plannen.horstaandemaas.nl
+https://plannen.venray.nl
 https://planningencontrol.haarlemmermeer.nl
 https://planningsmanagement.amsterdam.nl
 https://planon-acc.almere.nl

@@ -8172,6 +8172,7 @@ mfa.eijsden-margraten.nl
 mfa.voorschoten.nl
 mfa.wassenaar.nl
 mfawerkplek.horstaandemaas.nl
+mfawerkplek.venray.nl
 mform.meerssen.nl
 mft-fa.amsterdam.nl
 mft.amsterdam.nl
@@ -9916,6 +9917,7 @@ plannen.asten.nl
 plannen.groningen.nl
 plannen.horstaandemaas.nl
 plannen.someren.nl
+plannen.venray.nl
 planning.westmaasenwaal.nl
 planningencontrol.haarlemmermeer.nl
 planningsassistent.stadswerken.amsterdam.nl
