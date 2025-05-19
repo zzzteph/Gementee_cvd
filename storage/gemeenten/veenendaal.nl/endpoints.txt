@@ -1,8 +1,8 @@
 http://autodiscover.veenendaal.nl
-http://bijveen-acc.veenendaal.nl
 https://afspraak.veenendaal.nl
 https://belastingbalie-test.veenendaal.nl
 https://belastingbalie.veenendaal.nl
+https://bijveen-acc.veenendaal.nl
 https://bijveen.veenendaal.nl
 https://bijveencms-acc.veenendaal.nl
 https://bijveencms.veenendaal.nl

@@ -235,7 +235,6 @@ http://bergenopzoom.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://betaaltoolsorga.rotterdam.nl
 http://bezoek.rotterdam.nl
-http://bijveen-acc.veenendaal.nl
 http://boostjebuurt.amsterdam.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buikslotermeerplein.amsterdam.nl
@@ -1938,6 +1937,7 @@ https://bijeenkomsten.emmen.nl
 https://bijeenkomsten.westerkwartier.nl
 https://bijlage.rucphen.nl
 https://bijmijindebuurt.gemeentewestland.nl
+https://bijveen-acc.veenendaal.nl
 https://bijveen.veenendaal.nl
 https://bijveencms-acc.veenendaal.nl
 https://bijveencms.veenendaal.nl
