@@ -24,6 +24,7 @@ mijn.voorst.nl
 mitel.voorst.nl
 prtg.voorst.nl
 sdm.voorst.nl
+shift2.voorst.nl
 sl.voorst.nl
 sltest.voorst.nl
 smartdoc.voorst.nl
