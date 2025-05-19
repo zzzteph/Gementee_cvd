@@ -1380,7 +1380,6 @@ applicationgateway.tilburg.nl
 apps-fat.dijkenwaard.nl
 apps-vdi.dijkenwaard.nl
 apps.amsterdam.nl
-apps.cg-intern.acc.utrecht.nl
 apps.denhelder.nl
 apps.dijkenwaard.nl
 apps.gouda.nl
@@ -1390,20 +1389,6 @@ apps.hoogeveen.nl
 apps.katwijk.nl
 apps.nieuwkoop.nl
 apps.sudwestfryslan.nl
-apps.team-bdo.cg-intern.acc.utrecht.nl
-apps.team-contezza.cg-intern.acc.utrecht.nl
-apps.team-frameless.cg-intern.acc.utrecht.nl
-apps.team-huishoudboekje.cg-intern.acc.utrecht.nl
-apps.team-maykinmedia.cg-intern.acc.utrecht.nl
-apps.team-migratiecommutr.cg-intern.acc.utrecht.nl
-apps.team-nlx.cg-intern.acc.utrecht.nl
-apps.team-pdv.cg-intern.acc.utrecht.nl
-apps.team-platform.cg-intern.acc.utrecht.nl
-apps.team-ritense.cg-intern.acc.utrecht.nl
-apps.team-sandbox.cg-intern.acc.utrecht.nl
-apps.team-sensrnet.cg-intern.acc.utrecht.nl
-apps.team-signalen.cg-intern.acc.utrecht.nl
-apps.team-utrecht.cg-intern.acc.utrecht.nl
 apps.tilburg.nl
 apps.waalre.nl
 apps.waddinxveen.nl
@@ -1433,7 +1418,6 @@ arena.ami-acc.amsterdam.nl
 arena.ami-dev.amsterdam.nl
 arena.ami-tac.amsterdam.nl
 arena.ami-tst.amsterdam.nl
-argocd.cg-intern.acc.utrecht.nl
 armoedepact.westerkwartier.nl
 arnhem.nl
 arrangementen.landvancuijk.nl
@@ -1469,7 +1453,6 @@ aut.acc.topdesk.denhaag.nl
 aut.ot.topdesk.denhaag.nl
 aut.topdesk.denhaag.nl
 auth.apeldoorn.nl
-auth.cg-intern.acc.utrecht.nl
 auth.darwin.tilburg.nl
 auth.denhaag.nl
 auth.doemee.assen.nl
@@ -2067,7 +2050,6 @@ beheer.leusden.nl
 beheer.terneuzen.nl
 beheerbeeldbank.breda.nl
 beheerbeeldbank.soest.nl
-beheerconsole.cg-intern.acc.utrecht.nl
 beheerfotobank.amsterdam.nl
 beheeropenbareruimte.arnhem.nl
 bekendmakingen.houten.nl
@@ -3373,7 +3355,6 @@ demo-onderwijsloket.amsterdam.nl
 demo.doemee.bloemendaal.nl
 demo.doemee.zwolle.nl
 demo.onderwijssubsidies.amsterdam.nl
-demo.team-huishoudboekje.cg-intern.acc.utrecht.nl
 democritus.leeuwarden.nl
 denhaag.nl
 denhaagfietst-acc.denhaag.nl
@@ -3967,7 +3948,6 @@ drc.data.amsterdam.nl
 drechterland.nl
 drempelsweg.utrecht.nl
 drimmelen.nl
-drone.cg-intern.acc.utrecht.nl
 dronten.nl
 drop-acc.rotterdam.nl
 drop.rotterdam.nl
@@ -4822,7 +4802,6 @@ ez.eemsdelta.nl
 ezaken-acceptatie.purmerend.nl
 ezaken.purmerend.nl
 fairtrade.groningen.nl
-falco.cg-intern.acc.utrecht.nl
 fba.deventer.nl
 fblocatielijst.amsterdam.nl
 fbtools.amsterdam.nl
@@ -5132,7 +5111,6 @@ formulieren.beesel.nl
 formulieren.bodegraven-reeuwijk.nl
 formulieren.bronckhorst.nl
 formulieren.buren.nl
-formulieren.cg-intern.acc.utrecht.nl
 formulieren.culemborg.nl
 formulieren.dalfsen.nl
 formulieren.defryskemarren.nl
@@ -5696,7 +5674,6 @@ gisweb.overbetuwe.nl
 git.data.amsterdam.nl
 git.datapunt.amsterdam.nl
 git.sudwestfryslan.nl
-gitea.cg-intern.acc.utrecht.nl
 gitlab.amsterdam.nl
 gitops.acc.denhaag.nl
 gitops.dev.denhaag.nl
@@ -5765,20 +5742,6 @@ gpg.apeldoorn.nl
 gplan-app.veere.nl
 gplan.rheden.nl
 gpt.apeldoorn.nl
-grafana.cg-intern.acc.utrecht.nl
-grafana.team-contezza.cg-intern.acc.utrecht.nl
-grafana.team-frameless.cg-intern.acc.utrecht.nl
-grafana.team-huishoudboekje.cg-intern.acc.utrecht.nl
-grafana.team-maykinmedia.cg-intern.acc.utrecht.nl
-grafana.team-migratiecommutr.cg-intern.acc.utrecht.nl
-grafana.team-nlx.cg-intern.acc.utrecht.nl
-grafana.team-pdv.cg-intern.acc.utrecht.nl
-grafana.team-platform.cg-intern.acc.utrecht.nl
-grafana.team-ritense.cg-intern.acc.utrecht.nl
-grafana.team-sandbox.cg-intern.acc.utrecht.nl
-grafana.team-sensrnet.cg-intern.acc.utrecht.nl
-grafana.team-signalen.cg-intern.acc.utrecht.nl
-grafana.team-utrecht.cg-intern.acc.utrecht.nl
 grave.landvancuijk.nl
 griffie.rotterdam.nl
 grip.denhaag.nl
@@ -5879,7 +5842,6 @@ handhavingtest.heerlen.nl
 handhavingtest.valkenburg.nl
 handleiding.nunspeet.nl
 haps.landvancuijk.nl
-harbor.cg-intern.acc.utrecht.nl
 hardenberg.nl
 harderwijk.nl
 hardinxveld-giessendam-checker-preprod.hardinxveld-giessendam.nl
@@ -5997,12 +5959,10 @@ hta.waalwijk.nl
 htb-prod.gemeente-steenbergen.nl
 htb-test.gemeente-steenbergen.nl
 hth-vpn.denhaag.nl
-httpbin.cg-intern.acc.utrecht.nl
 hub.gemeentemaastricht.nl
 huisbezoek.rotterdam.nl
 huishoudboekje.acc.utrecht.nl
 huishoudboekje.amersfoort.nl
-huishoudboekje.cg-intern.acc.utrecht.nl
 huishoudboekje.utrecht.nl
 huisnet.nederweert.nl
 huisnet.nieuwegein.nl
@@ -7009,7 +6969,6 @@ jaarverslag2020.groningen.nl
 jaarverslag2021.groningen.nl
 jaarverslag2023.oss.nl
 jacot.lev.delft.nl
-jaeger.cg-intern.acc.utrecht.nl
 janvanzanen-acc.denhaag.nl
 janvanzanen.denhaag.nl
 jboss.koggenland.nl
@@ -7279,7 +7238,6 @@ keycloak-zgw.acc.denhaag.nl
 keycloak-zgw.test.denhaag.nl
 keycloak.acc.denhaag.nl
 keycloak.assen.nl
-keycloak.cg-intern.acc.utrecht.nl
 keycloak.denhaag.nl
 keycloak.dev.denhaag.nl
 keycloak.enschede.nl
@@ -7404,7 +7362,6 @@ kopprd.lelystad.nl
 koptst.lelystad.nl
 kos.acc.nijmegen.nl
 kos.nijmegen.nl
-kownsl.cg-intern.acc.utrecht.nl
 krachtigedorpen.roerdalen.nl
 kranten.veenendaal.nl
 kredietbank.accp.s-hertogenbosch.nl
@@ -7417,8 +7374,6 @@ krimpenerwaard.nl
 krm.brievenbus.amsterdam.nl
 krmacc.brievenbus.amsterdam.nl
 ksnijmegen.acc.nijmegen.nl
-kubeapps.cg-intern.acc.utrecht.nl
-kubeclarity.cg-intern.acc.utrecht.nl
 kwaliteitsmonitor.utrecht.nl
 laakhavensbepaalt.denhaag.nl
 laarbeek.nl
@@ -8431,7 +8386,6 @@ mijngemeente.waddinxveen.nl
 mijngkb.groningen.nl
 mijngkb.midden-groningen.nl
 mijnhr.sudwestfryslan.nl
-mijnhr.utrecht.nl
 mijnhulp-test.zaltbommel.nl
 mijnhulp.zaltbommel.nl
 mijnhulpbijschulden.acc.utrecht.nl
@@ -8600,7 +8554,6 @@ milieudienst.groningen.nl
 milieueducatie.denhaag.nl
 mill.landvancuijk.nl
 minimi.vlaardingen.nl
-minio.cg-intern.acc.utrecht.nl
 mintra.mookenmiddelaar.nl
 mis.waterland.nl
 mitel.voorst.nl
@@ -8961,7 +8914,6 @@ noordwestbegroot.utrecht.nl
 noordwijk.nl
 nopnet.noordoostpolder.nl
 notarisportaal.westerkwartier.nl
-notary.cg-intern.acc.utrecht.nl
 notificaties-acc.leeuwarden.nl
 notificaties.assen.nl
 notificaties.enschede.nl
@@ -9027,6 +8979,7 @@ nwk-djm02.nieuwkoop.nl
 nwro.velsen.nl
 nwro.voerendaal.nl
 nwro2.velsen.nl
+o-apps.utrecht.nl
 o1.afspraak.leiden.nl
 o1.ptr1802.bodegraven-reeuwijk.nl
 oa.amsterdam.nl
@@ -9367,7 +9320,6 @@ openbaartoilet.zutphen.nl
 openbareruimte.deventer.nl
 openburgerzaken.zwolle.nl
 opencatalogi.rotterdam.nl
-opencost.cg-intern.acc.utrecht.nl
 opendata-contrast.zoetermeer.nl
 opendata.arnhem.nl
 opendata.assen.nl
@@ -9586,7 +9538,6 @@ ota-kodision-cli.sudwestfryslan.nl
 ota-test.sudwestfryslan.nl
 ota.mijn.almere.nl
 ota.sudwestfryslan.nl
-otomi.cg-intern.acc.utrecht.nl
 otp.gemeenteberkelland.nl
 oud.bodegraven-reeuwijk.nl
 oud.heusden.nl
@@ -9857,8 +9808,6 @@ pda.zaanstad.nl
 pdc-api.cg-intern.acc.utrecht.nl
 pdc-api.cg-intern.ont.utrecht.nl
 pdc-api.cg-intern.utrecht.nl
-pdc-frontend.cg-intern.acc.utrecht.nl
-pdc-frontend.team-frameless.cg-intern.acc.utrecht.nl
 pdc.acc.stichtsevecht.nl
 pdc.alkmaar.nl
 pdc.buren.nl
@@ -10842,7 +10791,6 @@ ris.venlo.nl
 ris.zundert.nl
 riv.apeldoorn.nl
 riviewer.apeldoorn.nl
-rma.cg-intern.acc.utrecht.nl
 rmm.terneuzen.nl
 rmts.edam-volendam.nl
 rnd.amsterdam.nl
@@ -12736,7 +12684,6 @@ tezza-admin-tools.cg-intern.ont.utrecht.nl
 tezza-admin-tools.cg-intern.utrecht.nl
 tgws4allsuite4werk.heerlen.nl
 tgws4allsuite4zorg.heerlen.nl
-thanos.cg-intern.acc.utrecht.nl
 themawebsite.hoorn.nl
 thic.denhaag.nl
 thinclients.krimpenerwaard.nl
@@ -12914,7 +12861,6 @@ tstwi220.tst.groningen.nl
 tsuyt.waddinxveen.nl
 ttgbav-prod.gemeente-steenbergen.nl
 ttgbav-test.gemeente-steenbergen.nl
-tty.cg-intern.acc.utrecht.nl
 tubbergen.nl
 tubwdds.landgraaf.nl
 tubweau.heerlen.nl
@@ -13053,7 +12999,6 @@ vastgoed.gemeentemaastricht.nl
 vastgoed.venlo.nl
 vastgoedaanbod.utrecht.nl
 vastgoedbedrijf.arnhem.nl
-vault.cg-intern.acc.utrecht.nl
 vcenter-prd.ovh.gemeentebeek.nl
 vcenter-uitwijk.ovh.gemeentebeek.nl
 vdi-uitwijk.hardenberg.nl
@@ -15375,7 +15320,6 @@ zaanlink.zaanstad.nl
 zaanlinkcms.zaanstad.nl
 zaanstad.nl
 zaanzoeker.zaanstad.nl
-zac-lite.cg-intern.acc.utrecht.nl
 zac.assen.nl
 zac.cg-intern.acc.utrecht.nl
 zac.cg-intern.ont.utrecht.nl
