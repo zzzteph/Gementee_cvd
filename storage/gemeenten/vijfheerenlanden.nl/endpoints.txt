@@ -1,6 +1,5 @@
 http://autodiscover.vijfheerenlanden.nl
 http://test-cmsjip.vijfheerenlanden.nl
-http://test-jip.vijfheerenlanden.nl
 https://acc.vijfheerenlanden.nl
 https://belastingloket-test.vijfheerenlanden.nl
 https://belastingloket.vijfheerenlanden.nl

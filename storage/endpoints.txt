@@ -524,7 +524,6 @@ http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
 http://test-intranet.wageningen.nl
 http://test-jip.hofvantwente.nl
-http://test-jip.vijfheerenlanden.nl
 http://test-social.montferland.info
 http://test.website.westland.gemeentewestland.nl
 http://testcms-intranet.midden-groningen.nl
