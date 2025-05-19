@@ -604,6 +604,7 @@ http://www.stadstoezicht.amsterdam.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
+http://www.urk.nl
 http://www.waddsup.waddinxveen.nl
 http://www.wassenaar.nl
 http://www.webmail.hellevoetsluis.nl
@@ -7121,6 +7122,7 @@ https://test-subsidieloket.zwolle.nl
 https://test-topdesk.venlo.nl
 https://test-topvorm.apeldoorn.nl
 https://test-trefpunt.deurne.nl
+https://test-urknet.urk.nl
 https://test-vergoedingen.nijmegen.nl
 https://test-website-westland.gemeentewestland.nl
 https://test-witgoed.middendrenthe.nl
@@ -8420,7 +8422,6 @@ https://www.udp-rspackage.denhaag.nl
 https://www.udp-rstudio.denhaag.nl
 https://www.uitgeest.nl
 https://www.uithoorn.nl
-https://www.urk.nl
 https://www.utrecht.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.v2.openstad.haarlemmermeer.nl
