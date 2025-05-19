@@ -9,6 +9,6 @@ https://siam.vlieland.nl
 https://simcms.vlieland.nl
 https://test-zaakloket.vlieland.nl
 https://testsiam.vlieland.nl
-https://vlieland.nl
 https://werkenbij.vlieland.nl
+https://www.vlieland.nl
 https://zaakloket.vlieland.nl

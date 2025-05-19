@@ -7489,7 +7489,6 @@ https://visnet.vlissingen.nl
 https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://vlaardingen.nl
-https://vlieland.nl
 https://vluchtelingen.zaanstad.nl
 https://voerendaal.nl
 https://vogelweide.diemen.nl
@@ -8429,6 +8428,7 @@ https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
+https://www.vlieland.nl
 https://www.voerendaal.nl
 https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl
