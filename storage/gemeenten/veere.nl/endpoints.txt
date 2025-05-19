@@ -1,3 +1,4 @@
+http://simsite.veere.nl
 https://autodiscover.veere.nl
 https://bestanden.veere.nl
 https://brokersignicat-preprod-x509.veere.nl
@@ -17,6 +18,6 @@ https://mijn.veere.nl
 https://owa.veere.nl
 https://parkeren.veere.nl
 https://support.veere.nl
+https://test.veere.nl
 https://tim-app.veere.nl
 https://vpsweb.veere.nl
-https://www.veere.nl

@@ -486,6 +486,7 @@ http://simsite.montferland.info
 http://simsite.nederweert.nl
 http://simsite.oirschot.nl
 http://simsite.renswoude.nl
+http://simsite.veere.nl
 http://sisa.rotterdam.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
@@ -7147,6 +7148,7 @@ https://test.schiedam.nl
 https://test.stichtsevecht.nl
 https://test.subsites.leiden.nl
 https://test.utrecht.nl
+https://test.veere.nl
 https://test.velsen.nl
 https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
@@ -8415,7 +8417,6 @@ https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl
 https://www.veenendaal.nl
 https://www.veenkolonien.groningen.nl
-https://www.veere.nl
 https://www.veldhoven.nl
 https://www.velsen.nl
 https://www.venlo.nl
