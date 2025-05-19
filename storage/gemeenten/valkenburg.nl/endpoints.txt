@@ -1,3 +1,4 @@
+http://secure.valkenburg.nl
 https://api.betalen.valkenburg.nl
 https://as.valkenburg.nl
 https://autodiscover.valkenburg.nl
@@ -10,7 +11,7 @@ https://ironport.valkenburg.nl
 https://mijnafval.valkenburg.nl
 https://owa.valkenburg.nl
 https://ro.valkenburg.nl
-https://secure.valkenburg.nl
+https://simsite.valkenburg.nl
 https://squit2go.valkenburg.nl
 https://valkenburg.nl
 https://webmail.valkenburg.nl

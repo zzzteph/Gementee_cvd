@@ -438,6 +438,7 @@ http://rotterdam.nl
 http://rs010.rotterdam.nl
 http://samenwerkingbelastingen-test.middelburg.nl
 http://schiermonnikoog.nl
+http://secure.valkenburg.nl
 http://sem.kampen.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-cjg.scherpenzeel.nl
@@ -6583,7 +6584,6 @@ https://secure.gemeentestein.nl
 https://secure.pekela.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
-https://secure.valkenburg.nl
 https://secure.veendam.nl
 https://secure1.weert.nl
 https://secure1ev.weert.nl
@@ -6711,6 +6711,7 @@ https://simsite.opmeer.nl
 https://simsite.opsterland.nl
 https://simsite.pekela.nl
 https://simsite.twenterand.nl
+https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
 https://simsite.westmaasenwaal.nl
