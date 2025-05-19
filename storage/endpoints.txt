@@ -7069,6 +7069,7 @@ https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
+https://test-cmsintranet.velsen.nl
 https://test-cmsintranet.venlo.nl
 https://test-cmsintranet.wageningen.nl
 https://test-cmsnopnet.noordoostpolder.nl
@@ -7091,6 +7092,7 @@ https://test-intranet.groningen.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.sudwestfryslan.nl
+https://test-intranet.velsen.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
