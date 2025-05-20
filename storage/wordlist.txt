@@ -392,6 +392,7 @@ webservices
 socialekaart
 testbelastingloket
 ondernemen
+raadsinformatie
 e.openstad
 mijnuitkering
 stemvan
@@ -482,7 +483,6 @@ vergunningen
 mta-sts.raad
 www.socialekaart
 gt-loket
-raadsinformatie
 duo
 gbionline
 cca-acc

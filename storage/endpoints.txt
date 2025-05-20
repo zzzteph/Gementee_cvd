@@ -520,7 +520,6 @@ http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
-http://test-intranet.wageningen.nl
 http://test-jip.hofvantwente.nl
 http://test-social.montferland.info
 http://test.website.westland.gemeentewestland.nl
@@ -7093,6 +7092,7 @@ https://test-intranet.lansingerland.nl
 https://test-intranet.sudwestfryslan.nl
 https://test-intranet.velsen.nl
 https://test-intranet.venlo.nl
+https://test-intranet.wageningen.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl

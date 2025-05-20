@@ -26,6 +26,7 @@ parkeeracties-test.wageningen.nl
 parkeeracties.wageningen.nl
 parkeerbalie-test.wageningen.nl
 parkeerbalie.wageningen.nl
+raadsinformatie.wageningen.nl
 scep.wageningen.nl
 service.wageningen.nl
 siam-test.wageningen.nl

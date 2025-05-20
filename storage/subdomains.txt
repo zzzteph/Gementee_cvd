@@ -10637,6 +10637,7 @@ raadsinformatie.eindhoven.nl
 raadsinformatie.kerkrade.nl
 raadsinformatie.oegstgeest.nl
 raadsinformatie.stichtsevecht.nl
+raadsinformatie.wageningen.nl
 raadsleden.eijsden-margraten.nl
 raadsnet.aalten.nl
 raadsnet.bernheze.org

@@ -1,5 +1,4 @@
 http://autodiscover.wageningen.nl
-http://test-intranet.wageningen.nl
 https://afspraak.wageningen.nl
 https://belastingen.wageningen.nl
 https://cloud.wageningen.nl
@@ -27,5 +26,6 @@ https://siam.wageningen.nl
 https://stemvan.wageningen.nl
 https://test-belastingen.wageningen.nl
 https://test-cmsintranet.wageningen.nl
+https://test-intranet.wageningen.nl
 https://wageningen.nl
 https://www.wageningen.nl
