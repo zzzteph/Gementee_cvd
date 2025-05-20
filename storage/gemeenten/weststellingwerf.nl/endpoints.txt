@@ -1,7 +1,9 @@
 http://autodiscover.weststellingwerf.nl
+http://simsite.weststellingwerf.nl
 http://werkenbij.weststellingwerf.nl
 https://felix.weststellingwerf.nl
 https://iburgerzaken.weststellingwerf.nl
 https://mijn-preproductie.weststellingwerf.nl
-https://simcms.weststellingwerf.nl
+https://mijn.weststellingwerf.nl
 https://weststellingwerf.nl
+https://www.weststellingwerf.nl
