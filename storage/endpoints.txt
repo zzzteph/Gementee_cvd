@@ -288,6 +288,7 @@ http://felix.renswoude.nl
 http://felix.simpelveld.nl
 http://felix.t-diel.nl
 http://felix.wierden.nl
+http://felix.winterswijk.nl
 http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
 http://fisha.rotterdam.nl
@@ -467,6 +468,7 @@ http://simcms.opmeer.nl
 http://simcms.valkenswaard.nl
 http://simcms.westmaasenwaal.nl
 http://simcms.wierden.nl
+http://simcms.winterswijk.nl
 http://simcms.zuidplas.nl
 http://simform-preproductie.achtkarspelen.nl
 http://simform-preproductie.t-diel.nl
@@ -3259,7 +3261,6 @@ https://felix.vlieland.nl
 https://felix.waalwijk.nl
 https://felix.westmaasenwaal.nl
 https://felix.weststellingwerf.nl
-https://felix.winterswijk.nl
 https://felix.woensdrecht.nl
 https://felix.zoetermeer.nl
 https://felix.zwartewaterland.nl
@@ -6689,7 +6690,6 @@ https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
 https://simcms.wassenaar.nl
 https://simcms.westerkwartier.nl
-https://simcms.winterswijk.nl
 https://simform-preproductie.wassenaar.nl
 https://simform-test.rijswijk.nl
 https://simform.beuningen.nl
