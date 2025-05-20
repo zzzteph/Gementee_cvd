@@ -287,6 +287,7 @@ http://felix.mookenmiddelaar.nl
 http://felix.renswoude.nl
 http://felix.simpelveld.nl
 http://felix.t-diel.nl
+http://felix.wierden.nl
 http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
 http://fisha.rotterdam.nl
@@ -417,6 +418,7 @@ http://preproductie.kerkrade.nl
 http://preproductie.montferland.info
 http://preproductie.pijnacker-nootdorp.nl
 http://preproductie.reuseldemierden.nl
+http://preproductie.wierden.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
 http://raad.zoetermeer.nl
@@ -484,6 +486,7 @@ http://simsite.veere.nl
 http://simsite.westerkwartier.nl
 http://simsite.westmaasenwaal.nl
 http://simsite.weststellingwerf.nl
+http://simsite.wierden.nl
 http://sisa.rotterdam.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
@@ -544,7 +547,6 @@ http://webmail.gooisemeren.nl
 http://welkom.ede.nl
 http://werkenbij.weststellingwerf.nl
 http://westerkwartier.nl
-http://wierden.nl
 http://wij.bergen-nh.nl
 http://wion.gemeentestein.nl
 http://woensdrecht.nl
@@ -608,6 +610,7 @@ http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
 http://www.werkenbij.zaanstad.nl
+http://www.wierden.nl
 http://www.zoetermeer.nl
 http://www.zorgloket.druten.nl
 http://www.zuidwestopznbest.denhaag.nl
@@ -5660,7 +5663,6 @@ https://open.sint-michielsgestel.nl
 https://open.staphorst.nl
 https://open.teylingen.nl
 https://open.tubbergen.nl
-https://open.wierden.nl
 https://open.zoetermeer.nl
 https://open.zuidplas.nl
 https://open.zutphen.nl
@@ -6213,7 +6215,6 @@ https://preproductie.t-diel.nl
 https://preproductie.voorschoten.nl
 https://preproductie.wassenaar.nl
 https://preproductie.westmaasenwaal.nl
-https://preproductie.wierden.nl
 https://preproductie.woensdrecht.nl
 https://preproductie.zuidplas.nl
 https://preproductiebroker.gemeentewesterveld.nl
@@ -7799,6 +7800,7 @@ https://whatsepe.epe.nl
 https://whitelabel.acc.nijmegen.nl
 https://whitelabel.nijmegen.nl
 https://wie.meppel.nl
+https://wierden.nl
 https://wifiguestportal.almere.nl
 https://wij.deventer.nl
 https://wij.groningen.nl
