@@ -1,5 +1,4 @@
-http://duurzaam.woensdrecht.nl
-http://woensdrecht.nl
+http://www.woensdrecht.nl
 https://api.meldingen-acc.woensdrecht.nl
 https://api.meldingen.woensdrecht.nl
 https://bor.woensdrecht.nl
@@ -11,8 +10,6 @@ https://intranet.woensdrecht.nl
 https://klantcontact.woensdrecht.nl
 https://meldingen-acc.woensdrecht.nl
 https://meldingen.woensdrecht.nl
-https://preproductie.woensdrecht.nl
 https://simcms-duurzaam.woensdrecht.nl
 https://tim.woensdrecht.nl
 https://waarmerk.woensdrecht.nl
-https://www.woensdrecht.nl

@@ -265,7 +265,6 @@ http://doesburg.nl
 http://dolph.rotterdam.nl
 http://dts.rotterdam.nl
 http://duurzaam.waalwijk.nl
-http://duurzaam.woensdrecht.nl
 http://e.papendrecht.nl
 http://ediensten.gemeentehw.nl
 http://eformulieren.kerkrade.nl
@@ -551,7 +550,6 @@ http://werkenbij.weststellingwerf.nl
 http://westerkwartier.nl
 http://wij.bergen-nh.nl
 http://wion.gemeentestein.nl
-http://woensdrecht.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.aanvraagparkeren.groningen.nl
@@ -613,6 +611,7 @@ http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
 http://www.werkenbij.zaanstad.nl
 http://www.wierden.nl
+http://www.woensdrecht.nl
 http://www.zoetermeer.nl
 http://www.zorgloket.druten.nl
 http://www.zuidwestopznbest.denhaag.nl
@@ -6217,7 +6216,6 @@ https://preproductie.t-diel.nl
 https://preproductie.voorschoten.nl
 https://preproductie.wassenaar.nl
 https://preproductie.westmaasenwaal.nl
-https://preproductie.woensdrecht.nl
 https://preproductie.zuidplas.nl
 https://preproductiebroker.gemeentewesterveld.nl
 https://pric.rotterdam.nl
@@ -8485,7 +8483,6 @@ https://www.willkommen.groningen.nl
 https://www.winkelsteeg.nijmegen.nl
 https://www.winterswijk.nl
 https://www.wob.denhaag.nl
-https://www.woensdrecht.nl
 https://www.woerden.nl
 https://www.woo.denhaag.nl
 https://www.wormerland.nl
