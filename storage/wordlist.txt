@@ -405,6 +405,7 @@ authenticatie
 gateway
 lyncweb
 mijn-preproductie
+www.denkmee
 access
 prefill
 huisstijl
@@ -431,6 +432,7 @@ geotest
 moh-acc
 moh
 ns2
+werk
 admin.doemee
 api.doemee
 auth.doemee
@@ -506,7 +508,6 @@ vthbroker
 digitaal
 teleweb
 cars
-www.denkmee
 bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
@@ -563,7 +564,6 @@ parkeerapp
 smartdoc
 stadspas
 digid
-werk
 www.mijn
 www.raad
 bedrijfsafval
