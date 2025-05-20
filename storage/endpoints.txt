@@ -21,7 +21,6 @@ http://ansvlm2009.landsmeer.nl
 http://app9.nijmegen.nl
 http://archief-yell-cms.etten-leur.nl
 http://archief-yell.etten-leur.nl
-http://armoedepact.westerkwartier.nl
 http://autodiscover.50pluspartij.nijmegen.nl
 http://autodiscover.aaenhunze.nl
 http://autodiscover.aalsmeer.nl
@@ -355,6 +354,7 @@ http://meldpuntondermijning.rotterdam.nl
 http://menditectbco.rotterdam.nl
 http://menditectsb.rotterdam.nl
 http://middelburg.nl
+http://mijn-preproductie.westerkwartier.nl
 http://mijn-preproductie.zuidplas.nl
 http://mijn.beekdaelen.nl
 http://mijn.doesburg.nl
@@ -419,7 +419,6 @@ http://preproductie.kerkrade.nl
 http://preproductie.montferland.info
 http://preproductie.pijnacker-nootdorp.nl
 http://preproductie.reuseldemierden.nl
-http://preproductie.westerkwartier.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
 http://raad.zoetermeer.nl
@@ -436,9 +435,9 @@ http://samenwerkingbelastingen-test.middelburg.nl
 http://schiermonnikoog.nl
 http://secure.valkenburg.nl
 http://sem.kampen.nl
+http://simcms-armoedepact.westerkwartier.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-cjg.scherpenzeel.nl
-http://simcms-data.westerkwartier.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
@@ -483,6 +482,7 @@ http://simsite.nederweert.nl
 http://simsite.oirschot.nl
 http://simsite.renswoude.nl
 http://simsite.veere.nl
+http://simsite.westerkwartier.nl
 http://sisa.rotterdam.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
@@ -543,6 +543,7 @@ http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
 http://welkom.ede.nl
 http://werkenbij.weststellingwerf.nl
+http://westerkwartier.nl
 http://wierden.nl
 http://wij.bergen-nh.nl
 http://wion.gemeentestein.nl
@@ -1458,6 +1459,7 @@ https://arena.ami-acc.amsterdam.nl
 https://arena.ami-dev.amsterdam.nl
 https://arena.ami-tac.amsterdam.nl
 https://arena.ami-tst.amsterdam.nl
+https://armoedepact.westerkwartier.nl
 https://arnhem.nl
 https://arrangementen.landvancuijk.nl
 https://as.valkenburg.nl
@@ -2380,6 +2382,7 @@ https://data.roosendaal.nl
 https://data.tynaarlo.nl
 https://data.utrecht.nl
 https://data.venlo.nl
+https://data.westerkwartier.nl
 https://data.wijchen.nl
 https://dataacc.breda.nl
 https://datalab.alkmaar.nl
@@ -3249,7 +3252,6 @@ https://felix.twenterand.nl
 https://felix.urk.nl
 https://felix.vlieland.nl
 https://felix.waalwijk.nl
-https://felix.westerkwartier.nl
 https://felix.westmaasenwaal.nl
 https://felix.weststellingwerf.nl
 https://felix.winterswijk.nl
@@ -4974,7 +4976,6 @@ https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
 https://mijn-gemeenteloket.gemeentemaastricht.nl
-https://mijn-preproductie.westerkwartier.nl
 https://mijn-preproductie.weststellingwerf.nl
 https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
@@ -6635,8 +6636,8 @@ https://sibt01.lelystad.nl
 https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
-https://simcms-armoedepact.westerkwartier.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
+https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
 https://simcms-duurzaam.woensdrecht.nl
 https://simcms-energiek.beuningen.nl
@@ -6651,8 +6652,7 @@ https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
-https://simcms-wonen.westerkwartier.nl
-https://simcms-woo.westerkwartier.nl
+https://simcms-werkenvoor.westerkwartier.nl
 https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergeijk.nl
@@ -7784,7 +7784,6 @@ https://westbetuwe.nl
 https://westerbeek.landvancuijk.nl
 https://westerkoog.zaanstad.nl
 https://westerkwartier.groningen.nl
-https://westerkwartier.nl
 https://westervoort-checker-preprod.westervoort.nl
 https://westervoort-checker.westervoort.nl
 https://westervoort.nl
