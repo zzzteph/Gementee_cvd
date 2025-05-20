@@ -9,6 +9,7 @@ https://beeldbankbeheer.waalwijk.nl
 https://belastingloket.waalwijk.nl
 https://bezoekersparkeren.waalwijk.nl
 https://citrix.waalwijk.nl
+https://felix.waalwijk.nl
 https://fs.waalwijk.nl
 https://geoportaal.waalwijk.nl
 https://geoserver.waalwijk.nl
