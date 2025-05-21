@@ -9,7 +9,6 @@ http://AutoDiscover.opmeer.nl
 http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
-http://aalten.nl
 http://aanpakvolkshuisvesting.amsterdam.nl
 http://acc-objecttypen.rotterdam.nl
 http://acc-podiumd-logs.rotterdam.nl
@@ -275,6 +274,7 @@ http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
 http://epos.staphorst.nl
 http://es.hengelo.nl
+http://felix.aalten.nl
 http://felix.achtkarspelen.nl
 http://felix.baarn.nl
 http://felix.bunschoten.nl
@@ -647,6 +647,7 @@ https://aaenhunze.nl
 https://aalsmeer.nl
 https://aalten-checker-preprod.aalten.nl
 https://aalten-checker.aalten.nl
+https://aalten.nl
 https://aanmelden.gorinchem.nl
 https://aanmelden.hengelo.nl
 https://aanmelden.krimpenerwaard.nl
@@ -3226,7 +3227,6 @@ https://fd-zgw.acc.denhaag.nl
 https://fd-zgw.denhaag.nl
 https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
-https://felix.aalten.nl
 https://felix.beekdaelen.nl
 https://felix.bergeijk.nl
 https://felix.bergendal.nl
@@ -4988,7 +4988,6 @@ https://mijn-preproductie.zuidplas.nl
 https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
 https://mijn-test.veenendaal.nl
-https://mijn.aalten.nl
 https://mijn.accp.nijmegen.nl
 https://mijn.alkmaar.nl
 https://mijn.amersfoort.nl
