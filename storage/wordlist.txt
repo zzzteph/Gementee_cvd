@@ -190,6 +190,7 @@ acc-keycloak-admin
 acc-zac
 test-digikoppeling
 meedoen
+localhost
 fmreturn
 iarchief
 formulieren-test
@@ -213,7 +214,6 @@ jcc
 sharefile
 bag
 www.doemee
-localhost
 intranet-acc
 outlook
 vth

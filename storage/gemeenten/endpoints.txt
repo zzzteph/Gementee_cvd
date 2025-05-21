@@ -7119,6 +7119,7 @@ https://test-urknet.urk.nl
 https://test-vergoedingen.nijmegen.nl
 https://test-website-westland.gemeentewestland.nl
 https://test-witgoed.middendrenthe.nl
+https://test-wiz.zaanstad.nl
 https://test-zaakloket.ameland.nl
 https://test-zaakloket.schiermonnikoog.nl
 https://test-zaakloket.terschelling.nl

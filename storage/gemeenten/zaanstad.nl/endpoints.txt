@@ -60,6 +60,7 @@ https://remote.zaanstad.nl
 https://siam.zaanstad.nl
 https://telewerken.zaanstad.nl
 https://test-cmszaanzoeker.zaanstad.nl
+https://test-wiz.zaanstad.nl
 https://test-zaanzoeker.zaanstad.nl
 https://testbelastingen.zaanstad.nl
 https://tiles.zaanstad.nl

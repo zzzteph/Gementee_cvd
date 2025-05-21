@@ -43,6 +43,7 @@ jogg.zaanstad.nl
 jongerenloket.zaanstad.nl
 langerthuiswonen.zaanstad.nl
 lintendijkenpaden.zaanstad.nl
+localhost.zaanstad.nl
 loket.zaanstad.nl
 maak.zaanstad.nl
 maakachtersluispolder.zaanstad.nl
