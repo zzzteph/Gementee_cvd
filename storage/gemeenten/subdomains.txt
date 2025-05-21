@@ -1094,6 +1094,7 @@ alleplannen.centrumbegroot.alphenaandenrijn.nl
 alleplannen.laakhavensbepaalt.denhaag.nl
 alleplannen.mariahoeveaanzet.denhaag.nl
 alleplannen.noordwestbegroot.utrecht.nl
+almeersekei.almere.nl
 almelo-centraal.almelo.nl
 almelo.nl
 almere.nl
@@ -1413,6 +1414,7 @@ archief.schiedam.nl
 archief.venlo.nl
 archief.zaanstad.nl
 archieven.stadsarchief.breda.nl
+architectuurprijs.almere.nl
 arena.ami-acc.amsterdam.nl
 arena.ami-dev.amsterdam.nl
 arena.ami-tac.amsterdam.nl
@@ -2486,6 +2488,7 @@ bouwdossiers.amsterdam.nl
 bouwdossiers.gemeentewestland.nl
 bouwdossiers.heemstede.nl
 bouwdossiers.stadsarchief.breda.nl
+bouwexpo-tinyhousing.almere.nl
 bouwkavels.hofvantwente.nl
 bouwprojecten.hoorn.nl
 bouwtekeningen.heemstede.nl
@@ -4627,6 +4630,7 @@ enterpriseenrollment.waadhoeke.nl
 enterpriseenrollment.waddinxveen.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
+enterpriseone-py.almere.nl
 enterpriseone.almere.nl
 enterpriseregistration.alphenaandenrijn.nl
 enterpriseregistration.apeldoorn.nl
@@ -7393,6 +7397,7 @@ laren.nl
 lauwersmeer.groningen.nl
 lavueltaholanda.breda.nl
 lb-servers.laarbeek.nl
+lba.almere.nl
 ld-01.hellevoetsluis.nl
 ldap.alkmaar.nl
 ldap.gemeentehulst.nl
@@ -8164,6 +8169,7 @@ menditectsb.rotterdam.nl
 menditectso.rotterdam.nl
 menditectweni.rotterdam.nl
 menscentraal.doesburg.nl
+mensenmakendestad.almere.nl
 meppel.nl
 merk-acc.denhaag.nl
 merk.denhaag.nl
@@ -8663,6 +8669,7 @@ monitor.zwolle.nl
 monitoring.hellendoorn.nl
 monitoring.nederbetuwe.nl
 monitoring.purmerend.nl
+monitorsociaal.almere.nl
 monrovia.emmen.nl
 montferland.info
 montfoort.nl
@@ -9973,6 +9980,7 @@ podiumd-openklant.deventer.nl
 podiumd-openzaak.deventer.nl
 podiumd-zac.deventer.nl
 point.assen.nl
+politiekemarkt.almere.nl
 pollerscs.rotterdam.nl
 pop.deventer.nl
 pop.opsterland.nl
@@ -10097,6 +10105,7 @@ praatmee.goeree-overflakkee.nl
 praatmee.schiedam.nl
 praatmee.sint-michielsgestel.nl
 praatmee.zaanstad.nl
+prd-phpmyadmin.almere.nl
 prd.afs.amsterdam.nl
 prd1.hoorn.nl
 prdb.haarlem.nl

@@ -3,6 +3,7 @@ acc-kaart.almere.nl
 acc-maps.almere.nl
 acc.formulieren.almere.nl
 alforum.almere.nl
+almeersekei.almere.nl
 almere.nl
 almere20.almere.nl
 almereconnect.almere.nl
@@ -14,10 +15,12 @@ api.meldingen-acc.almere.nl
 api.meldingen.almere.nl
 apint.almere.nl
 apint2.almere.nl
+architectuurprijs.almere.nl
 autodiscover.almere.nl
 belastingen-acc.almere.nl
 belastingen.almere.nl
 betalen.almere.nl
+bouwexpo-tinyhousing.almere.nl
 connect-preprod.almere.nl
 diensten.almere.nl
 digitaalerfgoed.almere.nl
@@ -28,6 +31,7 @@ eloketstaging.almere.nl
 english.almere.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
+enterpriseone-py.almere.nl
 enterpriseone.almere.nl
 evenementen.almere.nl
 floriade.almere.nl
@@ -52,6 +56,7 @@ inkoopplein.almere.nl
 kaart.almere.nl
 kavels.almere.nl
 kavelwinkel.almere.nl
+lba.almere.nl
 leef-acc.almere.nl
 leef.almere.nl
 leefbuiten.almere.nl
@@ -60,9 +65,11 @@ maps.almere.nl
 melddesk.almere.nl
 meldingen-acc.almere.nl
 meldingen.almere.nl
+mensenmakendestad.almere.nl
 mijn.almere.nl
 mijnict.almere.nl
 mijninkomen.almere.nl
+monitorsociaal.almere.nl
 oens.almere.nl
 ondernemersplein.almere.nl
 osb.almere.nl
@@ -74,6 +81,8 @@ passwordreset.almere.nl
 planon-acc.almere.nl
 planon-test.almere.nl
 planon.almere.nl
+politiekemarkt.almere.nl
+prd-phpmyadmin.almere.nl
 preprod-mijninkomen.almere.nl
 pv.diensten.almere.nl
 regio.almere.nl

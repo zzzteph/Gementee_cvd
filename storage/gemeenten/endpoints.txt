@@ -300,12 +300,10 @@ http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
 http://geo.roermond.nl
 http://geoportal.weert.nl
-http://goud.almere.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://healthyurbanliving.utrecht.nl
 http://helloid.sittard-geleen.nl
 http://historie.venlo.nl
-http://hout.almere.nl
 http://htb-test.gemeente-steenbergen.nl
 http://huurprijscalculator.rotterdam.nl
 http://hybrid.dalfsen.nl
@@ -365,7 +363,6 @@ http://mt-link.stichtsevecht.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nta7516.gemeentebest.nl
-http://oens.almere.nl
 http://omgevingswet.bronckhorst.nl
 http://onderzoek.utrecht.nl
 http://ontwikkelstrategie.amsterdam.nl
@@ -488,11 +485,9 @@ http://smtp.moerdijk.nl
 http://smtp.tholen.nl
 http://socialintranet.middendelfland.nl
 http://sportaccommodaties.nissewaard.nl
-http://sportsupport.almere.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
 http://sslvpn.haarlem.nl
-http://stadsarchief.almere.nl
 http://stadsarchief.rotterdam.nl
 http://stadspas.weert.nl
 http://staphorst.nl
@@ -3117,6 +3112,7 @@ https://enterpriseenrollment.waadhoeke.nl
 https://enterpriseenrollment.waddinxveen.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
+https://enterpriseone-py.almere.nl
 https://enterpriseone.almere.nl
 https://enterpriseregistration.alphenaandenrijn.nl
 https://enterpriseregistration.apeldoorn.nl
@@ -3730,6 +3726,7 @@ https://goirle.nl
 https://googleauth.gemeentemaastricht.nl
 https://gooisemeren.nl
 https://gorinchem.nl
+https://goud.almere.nl
 https://gouda.nl
 https://govpub.sudwestfryslan.nl
 https://gp-admin.tilburg.nl
@@ -3842,6 +3839,7 @@ https://hor.denhaag.nl
 https://horizon.zoetermeer.nl
 https://horizonvdi.haarlem.nl
 https://horstaandemaas.nl
+https://hout.almere.nl
 https://houten.nl
 https://houtwijkbegroot.denhaag.nl
 https://hta.waalwijk.nl
@@ -5493,6 +5491,7 @@ https://oeffelt.landvancuijk.nl
 https://oegstgeest.nl
 https://oekraine.zaanstad.nl
 https://oemojz.amsterdam.nl
+https://oens.almere.nl
 https://ogc.data.amsterdam.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
@@ -6131,6 +6130,7 @@ https://preprod-mijn.zwolle.nl
 https://preprod-mijnaanvragen.purmerend.nl
 https://preprod-mijnaanvragensociaaldomein.venlo.nl
 https://preprod-mijnbelastingen.vught.nl
+https://preprod-mijninkomen.almere.nl
 https://preprod-mijninkomen.beverwijk.nl
 https://preprod-mijninkomen.denhelder.nl
 https://preprod-mijninkomen.doesburg.nl
@@ -6833,6 +6833,7 @@ https://sportencultuur.gorinchem.nl
 https://sportief.middendrenthe.nl
 https://sportlocaties.nieuwegein.nl
 https://sportloket.landvancuijk.nl
+https://sportsupport.almere.nl
 https://sportverhuur.amsterdam.nl
 https://sportverhuur.emmen.nl
 https://squit2020.acceptatie.winterswijk.nl
@@ -6855,6 +6856,7 @@ https://stad.kampen.nl
 https://stadhuis.groningen.nl
 https://stadjerspas-acc.gemeente.groningen.nl
 https://stadjerspas.gemeente.groningen.nl
+https://stadsarchief.almere.nl
 https://stadsarchief.breda.nl
 https://stadsatlas-contrast.zoetermeer.nl
 https://stadsatlas.zoetermeer.nl
