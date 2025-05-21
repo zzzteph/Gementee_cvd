@@ -354,7 +354,6 @@ http://menditectbco.rotterdam.nl
 http://menditectsb.rotterdam.nl
 http://middelburg.nl
 http://mijn-preproductie.westerkwartier.nl
-http://mijn-preproductie.zuidplas.nl
 http://mijn.beekdaelen.nl
 http://mijn.doesburg.nl
 http://mijn.houten.nl
@@ -377,6 +376,7 @@ http://open.geldrop-mierlo.nl
 http://open.halderberge.nl
 http://open.meerssen.nl
 http://open.sonenbreugel.nl
+http://open.zuidplas.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.arnhem.nl
 http://opendata.roosendaal.nl
@@ -467,7 +467,6 @@ http://simcms.valkenswaard.nl
 http://simcms.westmaasenwaal.nl
 http://simcms.wierden.nl
 http://simcms.winterswijk.nl
-http://simcms.zuidplas.nl
 http://simform-preproductie.achtkarspelen.nl
 http://simform-preproductie.t-diel.nl
 http://simform.heerenveen.nl
@@ -616,9 +615,11 @@ http://www.wierden.nl
 http://www.woensdrecht.nl
 http://www.zoetermeer.nl
 http://www.zorgloket.druten.nl
+http://www.zuidplas.nl
 http://www.zuidwestopznbest.denhaag.nl
 http://zaaksysteem.utrecht.nl
 http://zorgloket.druten.nl
+http://zuidplas.nl
 http://zwartewaterland.nl
 https://1221.hilversum.nl
 https://3d.almere.nl
@@ -4984,6 +4985,7 @@ https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
 https://mijn-gemeenteloket.gemeentemaastricht.nl
 https://mijn-preproductie.weststellingwerf.nl
+https://mijn-preproductie.zuidplas.nl
 https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
 https://mijn-test.veenendaal.nl
@@ -5082,6 +5084,7 @@ https://mijn.weststellingwerf.nl
 https://mijn.wijkbijduurstede.nl
 https://mijn.zaltbommel.nl
 https://mijn.zeist.nl
+https://mijn.zuidplas.nl
 https://mijn.zutphen.nl
 https://mijn.zwolle.nl
 https://mijnaanvraag-test.zutphen.nl
@@ -5665,7 +5668,6 @@ https://open.staphorst.nl
 https://open.teylingen.nl
 https://open.tubbergen.nl
 https://open.zoetermeer.nl
-https://open.zuidplas.nl
 https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
@@ -6688,6 +6690,7 @@ https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
 https://simcms.wassenaar.nl
 https://simcms.westerkwartier.nl
+https://simcms.zuidplas.nl
 https://simform-preproductie.wassenaar.nl
 https://simform-test.rijswijk.nl
 https://simform.beuningen.nl
@@ -6713,7 +6716,6 @@ https://simsite.twenterand.nl
 https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
-https://simsite.zuidplas.nl
 https://simsite.zwartewaterland.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
@@ -8658,7 +8660,6 @@ https://zs.noordoostpolder.nl
 https://zsaccept.heusden.nl
 https://zst.noordoostpolder.nl
 https://zuiderbad.amsterdam.nl
-https://zuidplas.nl
 https://zuidwestopznbest.denhaag.nl
 https://zuil.gemeentehw.nl
 https://zundert.nl
