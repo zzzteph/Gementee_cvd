@@ -358,7 +358,6 @@ http://mijn.doesburg.nl
 http://mijn.houten.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzaken.heerlen.nl
-http://mijnzorg-acc.alkmaar.nl
 http://mijnzorg.amstelveen.nl
 http://mlo-ws.acc.rotterdam.nl
 http://mookenmiddelaar.nl
@@ -5223,6 +5222,7 @@ https://mijnzaken.schagen.nl
 https://mijnzakentest.heerlen.nl
 https://mijnzi.beuningen.nl
 https://mijnzorg-acc.aalsmeer.nl
+https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
 https://mijnzorg-acc.beesel.nl
@@ -6471,7 +6471,6 @@ https://rpl3.nissewaard.nl
 https://rspw.rotterdam.nl
 https://rucphen.nl
 https://ruimtelijkeplannen.achtkarspelen.nl
-https://ruimtelijkeplannen.alkmaar.nl
 https://ruimtelijkeplannen.bodegraven-reeuwijk.nl
 https://ruimtelijkeplannen.deventer.nl
 https://ruimtelijkeplannen.dronten.nl

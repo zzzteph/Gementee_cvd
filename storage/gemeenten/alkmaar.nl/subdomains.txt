@@ -1,6 +1,5 @@
 a2b-rtr.alkmaar.nl
 aanvragen.alkmaar.nl
-aeos.alkmaar.nl
 afspraken.alkmaar.nl
 agwp01.azweu.alkmaar.nl
 alk-fw01.alkmaar.nl
@@ -63,7 +62,6 @@ rdw.authenticatie.alkmaar.nl
 redirector.alkmaar.nl
 rom.authenticatie.alkmaar.nl
 rtr-fw.alkmaar.nl
-ruimtelijkeplannen.alkmaar.nl
 spyke-stw.alkmaar.nl
 sthbcp02.alkmaar.nl
 stkbcp01.alkmaar.nl

@@ -38,9 +38,9 @@ adfs
 vpn
 betalen
 broker
-ruimtelijkeplannen
 gemeenteraad
 enterpriseenrollment
+ruimtelijkeplannen
 zaaksysteem-accept
 testeloket
 iparticipatie
@@ -1230,7 +1230,6 @@ ebms
 lvwoz
 sophos01
 a2b-rtr
-aeos
 agwp01.azweu
 alk-fw01
 alk-fw02

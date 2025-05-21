@@ -818,7 +818,6 @@ aeolus.montfoort.nl
 aeolus.nederbetuwe.nl
 aeolus.westerkwartier.nl
 aeos.acc.amsterdam.nl
-aeos.alkmaar.nl
 afbeeldingen.doetinchem.nl
 aform.schiedam.nl
 afs.acc.amsterdam.nl
@@ -10861,7 +10860,6 @@ rspw.rotterdam.nl
 rtr-fw.alkmaar.nl
 rucphen.nl
 ruimtelijkeplannen.achtkarspelen.nl
-ruimtelijkeplannen.alkmaar.nl
 ruimtelijkeplannen.almelo.nl
 ruimtelijkeplannen.bodegraven-reeuwijk.nl
 ruimtelijkeplannen.borne.nl
