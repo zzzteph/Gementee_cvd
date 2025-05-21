@@ -4060,6 +4060,7 @@ https://iburgerzaken.zundert.nl
 https://iburgerzaken.zutphen.nl
 https://iburgerzaken.zwartewaterland.nl
 https://iburgerzaken.zwolle.nl
+https://ibzpink.almelo.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
