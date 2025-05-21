@@ -1,6 +1,6 @@
 http://opendata-contrast.zoetermeer.nl
-http://preproductie.zoetermeer.nl
-http://raad.zoetermeer.nl
+http://simcms-raad.zoetermeer.nl
+http://simsite.zoetermeer.nl
 http://www.zoetermeer.nl
 https://aiz.zoetermeer.nl
 https://beeldbellen.zoetermeer.nl
@@ -9,7 +9,6 @@ https://doemee.zoetermeer.nl
 https://en.zoetermeer.nl
 https://enzo.zoetermeer.nl
 https://enzobeheer.zoetermeer.nl
-https://felix.zoetermeer.nl
 https://geoportaal.zoetermeer.nl
 https://gis.zoetermeer.nl
 https://horizon.zoetermeer.nl
@@ -19,10 +18,8 @@ https://lliam-test.zoetermeer.nl
 https://lliam.zoetermeer.nl
 https://loket.acceptatie.zoetermeer.nl
 https://loket.zoetermeer.nl
-https://mijn.zoetermeer.nl
 https://open.zoetermeer.nl
 https://opendata.zoetermeer.nl
-https://simsite.zoetermeer.nl
 https://stadsatlas-contrast.zoetermeer.nl
 https://stadsatlas.zoetermeer.nl
 https://testbelastingen.zoetermeer.nl

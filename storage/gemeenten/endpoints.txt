@@ -419,9 +419,7 @@ http://preproductie.montferland.info
 http://preproductie.pijnacker-nootdorp.nl
 http://preproductie.reuseldemierden.nl
 http://preproductie.wierden.nl
-http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
-http://raad.zoetermeer.nl
 http://raadsagenda.oirschot.nl
 http://rads.rotterdam.nl
 http://rbp.rotterdam.nl
@@ -445,6 +443,7 @@ http://simcms-open.gemeentebeek.nl
 http://simcms-open.halderberge.nl
 http://simcms-open.staphorst.nl
 http://simcms-preproductie.kerkrade.nl
+http://simcms-raad.zoetermeer.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-woo.doesburg.nl
 http://simcms.achtkarspelen.nl
@@ -488,6 +487,7 @@ http://simsite.westerkwartier.nl
 http://simsite.westmaasenwaal.nl
 http://simsite.weststellingwerf.nl
 http://simsite.wierden.nl
+http://simsite.zoetermeer.nl
 http://sisa.rotterdam.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
@@ -3263,7 +3263,6 @@ https://felix.waalwijk.nl
 https://felix.westmaasenwaal.nl
 https://felix.weststellingwerf.nl
 https://felix.woensdrecht.nl
-https://felix.zoetermeer.nl
 https://felix.zwartewaterland.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
@@ -5083,7 +5082,6 @@ https://mijn.weststellingwerf.nl
 https://mijn.wijkbijduurstede.nl
 https://mijn.zaltbommel.nl
 https://mijn.zeist.nl
-https://mijn.zoetermeer.nl
 https://mijn.zutphen.nl
 https://mijn.zwolle.nl
 https://mijnaanvraag-test.zutphen.nl
@@ -6715,7 +6713,6 @@ https://simsite.twenterand.nl
 https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
-https://simsite.zoetermeer.nl
 https://simsite.zuidplas.nl
 https://simsite.zwartewaterland.nl
 https://sint-agatha.landvancuijk.nl
