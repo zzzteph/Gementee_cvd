@@ -28,8 +28,8 @@ portal
 acc
 waarmerk
 afspraak
-open
 meldingen
+open
 raad
 parkeren
 geo

@@ -5668,7 +5668,6 @@ https://open.staphorst.nl
 https://open.teylingen.nl
 https://open.tubbergen.nl
 https://open.zoetermeer.nl
-https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
@@ -6156,7 +6155,6 @@ https://preprod-mijnsociaalplein.hilversum.nl
 https://preprod-mijnsociaalplein.hofvantwente.nl
 https://preprod-mijnsociaalplein.putten.nl
 https://preprod-mijnsociaalplein.uitgeest.nl
-https://preprod-mijntoegang.zutphen.nl
 https://preprod-mijnuitkering.westvoorne.nl
 https://preprod-mijnwijkteam.schagen.nl
 https://preprod-mijnzorg.denhelder.nl

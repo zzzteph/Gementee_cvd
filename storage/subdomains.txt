@@ -9317,7 +9317,6 @@ open.tubbergen.nl
 open.wierden.nl
 open.zoetermeer.nl
 open.zuidplas.nl
-open.zutphen.nl
 openagenda.ridderkerk.nl
 openbaartoilet.zutphen.nl
 openbareruimte.deventer.nl

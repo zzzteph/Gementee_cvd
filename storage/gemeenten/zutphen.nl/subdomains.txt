@@ -26,7 +26,6 @@ mijn.zutphen.nl
 mijnaanvraag-test.zutphen.nl
 mijnaanvraag.zutphen.nl
 mijntoegang.zutphen.nl
-open.zutphen.nl
 openbaartoilet.zutphen.nl
 overleg.zutphen.nl
 parkeren-test.zutphen.nl

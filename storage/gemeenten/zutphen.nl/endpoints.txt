@@ -14,11 +14,9 @@ https://mijn.zutphen.nl
 https://mijnaanvraag-test.zutphen.nl
 https://mijnaanvraag.zutphen.nl
 https://mijntoegang.zutphen.nl
-https://open.zutphen.nl
 https://openbaartoilet.zutphen.nl
 https://parkeren.zutphen.nl
 https://plo.zutphen.nl
-https://preprod-mijntoegang.zutphen.nl
 https://raad.zutphen.nl
 https://remote.zutphen.nl
 https://sjaak.test.zutphen.nl
