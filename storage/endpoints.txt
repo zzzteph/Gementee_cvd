@@ -288,7 +288,6 @@ http://felix.simpelveld.nl
 http://felix.t-diel.nl
 http://felix.wierden.nl
 http://felix.winterswijk.nl
-http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
 http://fisha.rotterdam.nl
 http://flash.scherpenzeel.nl
@@ -3264,6 +3263,7 @@ https://felix.waalwijk.nl
 https://felix.westmaasenwaal.nl
 https://felix.weststellingwerf.nl
 https://felix.woensdrecht.nl
+https://felix.zundert.nl
 https://felix.zwartewaterland.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl

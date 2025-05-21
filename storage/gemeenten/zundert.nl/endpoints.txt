@@ -1,4 +1,3 @@
-http://felix.zundert.nl
 https://acceptatie.zundert.nl
 https://api.betalen.zundert.nl
 https://api.meldingen-acc.zundert.nl
@@ -7,6 +6,7 @@ https://betalen.zundert.nl
 https://bor.zundert.nl
 https://corsa-prod.zundert.nl
 https://corsa-test.zundert.nl
+https://felix.zundert.nl
 https://fmreturn.zundert.nl
 https://iburgerzaken.zundert.nl
 https://klantcontact.zundert.nl
