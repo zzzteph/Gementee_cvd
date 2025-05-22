@@ -6,6 +6,7 @@ https://bernheze.org
 https://broker.bernheze.org
 https://cms.bernheze.org
 https://iburgerzaken.bernheze.org
+https://ibzpink.bernheze.org
 https://intranet-cms.bernheze.org
 https://intranet-stats.bernheze.org
 https://intranet.bernheze.org
