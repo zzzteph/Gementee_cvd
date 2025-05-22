@@ -438,6 +438,7 @@ mijnsociaalportaal-acc
 mijnsociaalportaal
 wij
 zorg
+aov
 csc
 mbg1
 elokettest
@@ -662,7 +663,6 @@ squitxo
 magazines
 online
 stats
-aov
 handhavingtest
 open-formulieren
 validsign

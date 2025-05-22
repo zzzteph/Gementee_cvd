@@ -1160,6 +1160,7 @@ any2info.deurne.nl
 anyconnect.leiden.nl
 anyconnect.vught.nl
 anyware.pijnacker-nootdorp.nl
+aov.beverwijk.nl
 aov.groningen.nl
 aov.helmond.nl
 aov.smallingerland.nl

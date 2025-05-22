@@ -3,6 +3,7 @@ aanmeldenparkeren.beverwijk.nl
 acc-openwave.beverwijk.nl
 adfs.beverwijk.nl
 afspraken.beverwijk.nl
+aov.beverwijk.nl
 autodiscover.beverwijk.nl
 backoffice-parkeervergunningen-acc.beverwijk.nl
 backoffice-parkeervergunningen.beverwijk.nl
