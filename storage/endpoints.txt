@@ -568,7 +568,6 @@ http://wob.arnhem.nl
 http://woo.westerkwartier.nl
 http://www.aanvraagparkeren.groningen.nl
 http://www.achtkarspelen.nl
-http://www.bergenopzoom.nl
 http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
@@ -2320,7 +2319,6 @@ https://data.aalsmeer.nl
 https://data.alkmaar.nl
 https://data.amstelveen.nl
 https://data.bergendal.nl
-https://data.bergenopzoom.nl
 https://data.beuningen.nl
 https://data.breda.nl
 https://data.groningen.nl
@@ -3912,6 +3910,7 @@ https://ibzpink.almelo.nl
 https://ibzpink.alphen-chaam.nl
 https://ibzpink.amersfoort.nl
 https://ibzpink.bergendal.nl
+https://ibzpink.bergenopzoom.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6357,7 +6356,6 @@ https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms.baarn.nl
 https://simcms.bergendal.nl
-https://simcms.bergenopzoom.nl
 https://simcms.beverwijk.nl
 https://simcms.capelleaandenijssel.nl
 https://simcms.dalfsen.nl
