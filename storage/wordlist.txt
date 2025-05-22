@@ -815,6 +815,7 @@ werkomgeving
 koppelvlak
 aovpn
 data.gemnet
+testberichten
 helloid
 joost
 wwwtest
@@ -3888,7 +3889,6 @@ postbus1
 preprodformulieren
 sas
 teamplan
-testberichten
 testcms-inhuiz
 testinhuiz
 trainersportaal

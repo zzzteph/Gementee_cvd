@@ -24,6 +24,7 @@ programmavan.bergendal.nl
 raad.bergendal.nl
 simcms.bergendal.nl
 simsite.bergendal.nl
+testberichten.bergendal.nl
 testeloket.bergendal.nl
 www.bergendal.nl
 www.raad.bergendal.nl

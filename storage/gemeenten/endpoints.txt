@@ -245,7 +245,6 @@ http://belastingloket.montferland.info
 http://beleidsatlas.rotterdam.nl
 http://bergeijk.nl
 http://bergen.nl
-http://bergendal.nl
 http://bergenopzoom.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://betaaltoolsorga.rotterdam.nl
@@ -341,6 +340,7 @@ http://iit-controle.rotterdam.nl
 http://inloggen.belastingen.acc.koggenland.nl
 http://inloggen.belastingen.koggenland.nl
 http://internoss-test.oss.nl
+http://intranet-acc.bergendal.nl
 http://intranet-acc.landvancuijk.nl
 http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
@@ -462,7 +462,6 @@ http://simcms-preproductie.kerkrade.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-woo.doesburg.nl
-http://simcms.bergendal.nl
 http://simcms.beuningen.nl
 http://simcms.bunschoten.nl
 http://simcms.cranendonck.nl
@@ -1779,6 +1778,7 @@ https://bereikbaarheid.amsterdam.nl
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.denhaag.nl
 https://bergen-nh.nl
+https://bergendal.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
@@ -3109,7 +3109,6 @@ https://feedback.delft.nl
 https://felix.achtkarspelen.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
-https://felix.bergendal.nl
 https://felix.beuningen.nl
 https://felix.bladel.nl
 https://felix.cranendonck.nl
@@ -3912,6 +3911,7 @@ https://iburgerzaken.zwolle.nl
 https://ibzpink.almelo.nl
 https://ibzpink.alphen-chaam.nl
 https://ibzpink.amersfoort.nl
+https://ibzpink.bergendal.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6356,6 +6356,7 @@ https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms.baarn.nl
+https://simcms.bergendal.nl
 https://simcms.bergenopzoom.nl
 https://simcms.beverwijk.nl
 https://simcms.capelleaandenijssel.nl
