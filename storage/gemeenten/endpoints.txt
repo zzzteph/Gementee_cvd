@@ -232,6 +232,7 @@ http://autodiscover.zoeterwoude.nl
 http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
+http://baarn.nl
 http://backend-dvg.acc.rotterdam.nl
 http://backend-dvg.acc.stadsarchief.rotterdam.nl
 http://basis.werkeninkomen.amsterdam.nl
@@ -302,7 +303,6 @@ http://embrace.laarbeek.nl
 http://epos.staphorst.nl
 http://es.hengelo.nl
 http://felix.aalten.nl
-http://felix.baarn.nl
 http://felix.bunschoten.nl
 http://felix.capelleaandenijssel.nl
 http://felix.eersel.nl
@@ -594,6 +594,7 @@ http://www.ooststellingwerf.nl
 http://www.opsterland.nl
 http://www.praatmee.borsele.nl
 http://www.praatmee.goeree-overflakkee.nl
+http://www.preprod-woz-portaal-eemnes.baarn.nl
 http://www.rekenkamer.utrecht.nl
 http://www.remote.westvoorne.nl
 http://www.samen.enkhuizen.nl
@@ -614,6 +615,8 @@ http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.zaanstad.nl
 http://www.wierden.nl
 http://www.woensdrecht.nl
+http://www.woz-portaal-eemnes.baarn.nl
+http://www.woz-portaal.baarn.nl
 http://www.zoetermeer.nl
 http://www.zorgloket.druten.nl
 http://www.zuidplas.nl
@@ -3104,6 +3107,7 @@ https://fd-zgw.denhaag.nl
 https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.achtkarspelen.nl
+https://felix.baarn.nl
 https://felix.beekdaelen.nl
 https://felix.bergeijk.nl
 https://felix.bergendal.nl
@@ -7606,6 +7610,7 @@ https://www.arrangementen.landvancuijk.nl
 https://www.assen.nl
 https://www.asten.nl
 https://www.baarle-nassau.nl
+https://www.baarn.nl
 https://www.barendrecht.nl
 https://www.barneveld.nl
 https://www.beekdaelen.nl
@@ -7942,7 +7947,6 @@ https://www.portal.olst-wijhe.nl
 https://www.positionering.denhaag.nl
 https://www.positioneringshuis.denhaag.nl
 https://www.praatmee.alblasserdam.nl
-https://www.preprod-woz-portaal-eemnes.baarn.nl
 https://www.prijsvraag-zwembad.apeldoorn.nl
 https://www.projecten.denhaag.nl
 https://www.publicaties.s-hertogenbosch.nl
@@ -8108,8 +8112,6 @@ https://www.woo.denhaag.nl
 https://www.wormerland.nl
 https://www.woudenberg.nl
 https://www.woz-loket.coevorden.nl
-https://www.woz-portaal-eemnes.baarn.nl
-https://www.woz-portaal.baarn.nl
 https://www.xentialtest.veendam.nl
 https://www.ypenburgaanzet.denhaag.nl
 https://www.zaanstad.nl
