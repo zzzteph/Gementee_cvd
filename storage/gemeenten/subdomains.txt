@@ -2057,7 +2057,6 @@ beheer.terneuzen.nl
 beheerbeeldbank.breda.nl
 beheerbeeldbank.soest.nl
 beheerfotobank.amsterdam.nl
-beheeropenbareruimte.arnhem.nl
 bekendmakingen.houten.nl
 bekendmakingen.overbetuwe.nl
 bekendmakingen.stadskanaal.nl
@@ -3878,7 +3877,6 @@ dmz003024.wierden.nl
 dmzsvr02.winterswijk.nl
 dns-cache.denhaag.nl
 dns.haarlemmermeer.nl
-dns1.arnhem.nl
 do.winterswijk.nl
 docgen.deventer.nl
 docs.sudwestfryslan.nl
@@ -8634,7 +8632,6 @@ ns1.hoogeveen.nl
 ns1.rotterdam.nl
 ns1.utrecht.nl
 ns1.webserver.schiedam.nl
-ns2.arnhem.nl
 ns2.denhaag.nl
 ns2.rotterdam.nl
 ns2.utrecht.nl

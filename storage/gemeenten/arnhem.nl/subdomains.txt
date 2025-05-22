@@ -1,7 +1,6 @@
 afspraak.arnhem.nl
 arnhem.nl
 autodiscover.arnhem.nl
-beheeropenbareruimte.arnhem.nl
 belastingen-acc.arnhem.nl
 belastingen.arnhem.nl
 data.arnhem.nl
@@ -9,7 +8,6 @@ digid.arnhem.nl
 digikoppeling.arnhem.nl
 digikoppelingtst.arnhem.nl
 dkd.arnhem.nl
-dns1.arnhem.nl
 edienstenburgerzaken-test.arnhem.nl
 edienstenburgerzaken.arnhem.nl
 edienstenweni-test.arnhem.nl
@@ -39,7 +37,6 @@ msoid.arnhem.nl
 nieuwkomers.arnhem.nl
 nieuwsbrief.arnhem.nl
 ns1.arnhem.nl
-ns2.arnhem.nl
 old.arnhem.nl
 open.arnhem.nl
 opendata.arnhem.nl

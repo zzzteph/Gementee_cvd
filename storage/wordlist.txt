@@ -422,7 +422,6 @@ gbi
 geotest
 moh-acc
 moh
-ns2
 werk
 admin.doemee
 api.doemee
@@ -597,6 +596,7 @@ storefront
 cjg
 geoservices
 lvs
+ns2
 octopus-acc
 octopus
 smartdocuments
@@ -1800,8 +1800,6 @@ uitvaartagenda
 www.energiepunt
 www.matenpark
 www.prijsvraag-zwembad
-beheeropenbareruimte
-dns1
 edienstenweni-test
 edienstenweni
 geo1

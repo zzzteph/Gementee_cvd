@@ -395,7 +395,6 @@ http://open.meerssen.nl
 http://open.sonenbreugel.nl
 http://open.zuidplas.nl
 http://opendata-contrast.zoetermeer.nl
-http://opendata.arnhem.nl
 http://opendata.roosendaal.nl
 http://opendata.utrecht.nl
 http://openklant.rotterdam.nl
@@ -565,6 +564,7 @@ http://werkenbij.weststellingwerf.nl
 http://westerkwartier.nl
 http://wij.bergen-nh.nl
 http://wion.gemeentestein.nl
+http://wob.arnhem.nl
 http://woo.westerkwartier.nl
 http://www.aanvraagparkeren.groningen.nl
 http://www.achtkarspelen.nl
@@ -5418,6 +5418,7 @@ https://open.zoetermeer.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
+https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://opendata.heemstede.nl
@@ -6045,7 +6046,6 @@ https://qr-acc.gooisemeren.nl
 https://qr-test.meierijstad.nl
 https://qr-test.zaanstad.nl
 https://qr.amersfoort.nl
-https://qr.arnhem.nl
 https://qr.capelleaandenijssel.nl
 https://qr.digitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.digitaalgemeenteloket.kaagenbraassem.nl
@@ -7047,6 +7047,7 @@ https://vamos.rotterdam.nl
 https://vastgoed.gemeentemaastricht.nl
 https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
+https://vastgoedbedrijf.arnhem.nl
 https://vdi.delft.nl
 https://vdi.deventer.nl
 https://vdi.meppel.nl
@@ -7482,7 +7483,6 @@ https://wmoloket.olst-wijhe.nl
 https://wmoservice.buren.nl
 https://woa.geertruidenberg.nl
 https://woa2.geertruidenberg.nl
-https://wob.arnhem.nl
 https://wob.denhaag.nl
 https://woerden.nl
 https://wolk.valkenburg.nl
