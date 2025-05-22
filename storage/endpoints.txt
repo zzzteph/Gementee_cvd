@@ -486,6 +486,7 @@ http://simform-preproductie.t-diel.nl
 http://simform.heerenveen.nl
 http://simform.rijswijk.nl
 http://simform.voorschoten.nl
+http://simsite.bergen.nl
 http://simsite.beverwijk.nl
 http://simsite.bunschoten.nl
 http://simsite.eersel.nl
@@ -517,6 +518,7 @@ http://taxiportaal.amsterdam.nl
 http://teamurenplanninggezondheidmilieu.rotterdam.nl
 http://terschelling.nl
 http://test-bink.beverwijk.nl
+http://test-binnenshuis.bergen.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.edam-volendam.nl
 http://test-cmsintranet.etten-leur.nl
@@ -3106,6 +3108,7 @@ https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.achtkarspelen.nl
 https://felix.baarn.nl
+https://felix.bergen.nl
 https://felix.bergendal.nl
 https://felix.beuningen.nl
 https://felix.bladel.nl
@@ -6389,7 +6392,6 @@ https://simform.beuningen.nl
 https://simform.gemeentehw.nl
 https://simform.t-diel.nl
 https://simform.vlaardingen.nl
-https://simsite.bergen.nl
 https://simsite.bergendal.nl
 https://simsite.deurne.nl
 https://simsite.edam-volendam.nl
