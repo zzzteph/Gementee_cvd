@@ -243,6 +243,7 @@ http://belastingen.acc.koggenland.nl
 http://belastingen.koggenland.nl
 http://belastingloket.montferland.info
 http://beleidsatlas.rotterdam.nl
+http://bergeijk.nl
 http://bergen.nl
 http://bergendal.nl
 http://bergenopzoom.nl
@@ -422,6 +423,7 @@ http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
 http://pre-simform.houten.nl
+http://preproductie.bergeijk.nl
 http://preproductie.cranendonck.nl
 http://preproductie.eersel.nl
 http://preproductie.gemeentebeek.nl
@@ -484,7 +486,6 @@ http://simform-preproductie.t-diel.nl
 http://simform.heerenveen.nl
 http://simform.rijswijk.nl
 http://simform.voorschoten.nl
-http://simsite.bergeijk.nl
 http://simsite.beverwijk.nl
 http://simsite.bunschoten.nl
 http://simsite.eersel.nl
@@ -3105,7 +3106,6 @@ https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.achtkarspelen.nl
 https://felix.baarn.nl
-https://felix.bergeijk.nl
 https://felix.bergendal.nl
 https://felix.beuningen.nl
 https://felix.bladel.nl
@@ -5926,7 +5926,6 @@ https://preprodscbroker.diemen.nl
 https://preprodscbroker.ouder-amstel.nl
 https://preprodscbroker.uithoorn.nl
 https://preproductie.beekdaelen.nl
-https://preproductie.bergeijk.nl
 https://preproductie.beuningen.nl
 https://preproductie.dalfsen.nl
 https://preproductie.deurne.nl
@@ -6354,7 +6353,6 @@ https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms.baarn.nl
-https://simcms.bergeijk.nl
 https://simcms.bergenopzoom.nl
 https://simcms.beverwijk.nl
 https://simcms.capelleaandenijssel.nl
@@ -7617,6 +7615,7 @@ https://www.belastingbalie.ede.nl
 https://www.belastingloket.lingewaard.nl
 https://www.belastingloket.overbetuwe.nl
 https://www.bereikbarestad.denhaag.nl
+https://www.bergeijk.nl
 https://www.bergen-nh.nl
 https://www.bernheze.org
 https://www.beuningen.nl
