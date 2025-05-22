@@ -56,7 +56,9 @@ img.openstad.apeldoorn.nl
 intranet.apeldoorn.nl
 intranetacc.apeldoorn.nl
 kinderburgemeester.apeldoorn.nl
+maatwerkacc.apeldoorn.nl
 mail.apeldoorn.nl
+mas.apeldoorn.nl
 matenpark.apeldoorn.nl
 medeleven.apeldoorn.nl
 meldingen-acc.apeldoorn.nl
