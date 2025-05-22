@@ -1223,7 +1223,6 @@ https://alphenaandenrijn.nl
 https://alwayson.lopik.nl
 https://alwayson.stichtsevecht.nl
 https://am.rotterdam.nl
-https://ameland.nl
 https://amersfoort.nl
 https://ami-acc.amsterdam.nl
 https://ami-tst.amsterdam.nl
@@ -6655,7 +6654,6 @@ https://simcms-preproductie.beuningen.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
-https://simcms.ameland.nl
 https://simcms.baarn.nl
 https://simcms.bergeijk.nl
 https://simcms.bergenopzoom.nl
@@ -7949,6 +7947,7 @@ https://www.almelo.nl
 https://www.almere.nl
 https://www.alphen-chaam.nl
 https://www.alphenaandenrijn.nl
+https://www.ameland.nl
 https://www.amersfoort.nl
 https://www.amstelveen.nl
 https://www.amsterdam.nl
