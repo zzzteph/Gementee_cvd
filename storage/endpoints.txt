@@ -2617,7 +2617,6 @@ https://dwh-sociaal.ft.amsterdam.nl
 https://e-dfs-p-01.adds.amsterdam.nl
 https://e-dfs-p-01.amsterdam.nl
 https://e-dfs-p-02.amsterdam.nl
-https://e-dienstaanvragen.amersfoort.nl
 https://e-file-p-01.adds.amsterdam.nl
 https://e-file-p-02.adds.amsterdam.nl
 https://e-file-p-03.adds.amsterdam.nl
@@ -4059,6 +4058,7 @@ https://iburgerzaken.zwartewaterland.nl
 https://iburgerzaken.zwolle.nl
 https://ibzpink.almelo.nl
 https://ibzpink.alphen-chaam.nl
+https://ibzpink.amersfoort.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
