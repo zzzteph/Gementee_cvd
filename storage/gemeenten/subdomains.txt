@@ -81,7 +81,6 @@ Www.lochem.nl
 _autodiscover._tcp.aalten.nl
 _autodiscover._tcp.ameland.nl
 _autodiscover._tcp.barendrecht.nl
-_autodiscover._tcp.beekdaelen.nl
 _autodiscover._tcp.bergeijk.nl
 _autodiscover._tcp.boxtel.nl
 _autodiscover._tcp.dinkelland.nl
@@ -5852,7 +5851,6 @@ iam-forms.denhaag.nl
 iam-portal.denhaag.nl
 iam.almere.nl
 iamprdsp2.amsterdam.nl
-iarchief.beekdaelen.nl
 iarchief.borne.nl
 iarchief.eemsdelta.nl
 iarchief.gooisemeren.nl

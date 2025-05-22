@@ -86,12 +86,12 @@ woningbouwkaart
 test-intranet
 connect
 cmsintranet
-_autodiscover._tcp
 parkeren-test
 piwik
 belastingloket
 mks
 dtestloket
+_autodiscover._tcp
 osbacc
 siam
 financien
@@ -188,7 +188,6 @@ test-digikoppeling
 meedoen
 localhost
 fmreturn
-iarchief
 formulieren-test
 mobile
 ro
@@ -212,6 +211,7 @@ bag
 www.doemee
 intranet-acc
 email
+iarchief
 legacy
 outlook
 vth
