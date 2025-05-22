@@ -184,6 +184,7 @@ mailing
 gis
 acc-keycloak-admin
 acc-zac
+bag
 test-digikoppeling
 meedoen
 localhost
@@ -207,7 +208,6 @@ mail2
 onderzoek
 jcc
 sharefile
-bag
 www.doemee
 intranet-acc
 email

@@ -1847,6 +1847,7 @@ bag-vvee21.veendam.nl
 bag-vwes11.westerwolde.nl
 bag.acc.denhaag.nl
 bag.assen.nl
+bag.beesel.nl
 bag.denhaag.nl
 bag.deventer.nl
 bag.etten-leur.nl
