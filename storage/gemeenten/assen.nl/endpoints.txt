@@ -63,6 +63,17 @@ https://parkeren.assen.nl
 https://podiumd-logs.assen.nl
 https://point.assen.nl
 https://sts.assen.nl
+https://test-formulier.assen.nl
+https://test-keycloak-admin.assen.nl
+https://test-keycloak.assen.nl
+https://test-mijn.assen.nl
+https://test-notificaties.assen.nl
+https://test-objecten.assen.nl
+https://test-objecttypen.assen.nl
+https://test-openklant.assen.nl
+https://test-openzaak.assen.nl
+https://test-podiumd-logs.assen.nl
+https://test-zac.assen.nl
 https://woningbouwkaart.assen.nl
 https://woningdossier.assen.nl
 https://www.assen.nl
