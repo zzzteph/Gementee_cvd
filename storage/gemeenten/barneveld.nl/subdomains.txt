@@ -30,5 +30,4 @@ werkenbij.barneveld.nl
 www.barneveld.nl
 www.duurzaam.barneveld.nl
 zaak-acc.barneveld.nl
-zaak-dev.barneveld.nl
 zaak.barneveld.nl

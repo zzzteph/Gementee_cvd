@@ -21,5 +21,4 @@ https://werkenbij.barneveld.nl
 https://www.barneveld.nl
 https://www.duurzaam.barneveld.nl
 https://zaak-acc.barneveld.nl
-https://zaak-dev.barneveld.nl
 https://zaak.barneveld.nl

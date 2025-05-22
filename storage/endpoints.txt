@@ -8153,7 +8153,6 @@ https://yutpaworkshop.dev.rnd.amsterdam.nl
 https://yutpaworkshop.rnd.amsterdam.nl
 https://zaak-acc.barneveld.nl
 https://zaak-acc.leeuwarden.nl
-https://zaak-dev.barneveld.nl
 https://zaak.barneveld.nl
 https://zaak.tynaarlo.nl
 https://zaakloket.ameland.nl
