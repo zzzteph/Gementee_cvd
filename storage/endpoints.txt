@@ -356,7 +356,6 @@ http://mijn.doesburg.nl
 http://mijn.houten.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzaken.heerlen.nl
-http://mijnzorg.amstelveen.nl
 http://mlo-ws.acc.rotterdam.nl
 http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
@@ -5232,6 +5231,7 @@ https://mijnzorg.aalsmeer.nl
 https://mijnzorg.acc.utrecht.nl
 https://mijnzorg.accp.s-hertogenbosch.nl
 https://mijnzorg.alkmaar.nl
+https://mijnzorg.amstelveen.nl
 https://mijnzorg.barneveld.nl
 https://mijnzorg.beekdaelen.nl
 https://mijnzorg.beesel.nl
