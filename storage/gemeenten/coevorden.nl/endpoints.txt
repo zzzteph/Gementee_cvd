@@ -12,8 +12,8 @@ https://doe-mee.coevorden.nl
 https://financien.coevorden.nl
 https://hofnet.coevorden.nl
 https://iburgerzaken.coevorden.nl
+https://ibzpink.coevorden.nl
 https://mijnshv.coevorden.nl
-https://reserveren.coevorden.nl
 https://test-cmshofnet.coevorden.nl
 https://test-hofnet.coevorden.nl
 https://woningbouwkaart.coevorden.nl

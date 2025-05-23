@@ -3923,6 +3923,7 @@ https://ibzpink.blaricum.nl
 https://ibzpink.bloemendaal.nl
 https://ibzpink.bodegraven-reeuwijk.nl
 https://ibzpink.boekel.nl
+https://ibzpink.coevorden.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6171,7 +6172,6 @@ https://remote.winterswijk.nl
 https://remote.zaanstad.nl
 https://remote.zutphen.nl
 https://renkum.nl
-https://reserveren.coevorden.nl
 https://reserveren.vijfheerenlanden.nl
 https://reserveringen.geertruidenberg.nl
 https://reserveringen.tilburg.nl
