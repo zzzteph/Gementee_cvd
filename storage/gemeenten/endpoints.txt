@@ -261,6 +261,7 @@ http://buurtbudget.amsterdam.nl
 http://buurtbudgetzuid.amsterdam.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://cairo.rotterdam.nl
+http://capelleaandenijssel.nl
 http://cardaccess.acc.intra.amsterdam.nl
 http://centrumbegroot.amsterdam.nl
 http://cms-extranet.hethogeland.nl
@@ -300,14 +301,12 @@ http://eformulieren.kerkrade.nl
 http://elise.rotterdam.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
-http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
 http://epos.staphorst.nl
 http://es.hengelo.nl
 http://felix.aalten.nl
 http://felix.beverwijk.nl
 http://felix.bronckhorst.nl
-http://felix.capelleaandenijssel.nl
 http://felix.eersel.nl
 http://felix.landgraaf.nl
 http://felix.lopik.nl
@@ -2954,6 +2953,7 @@ https://elokettest.bloemendaal.nl
 https://elokettest.heemstede.nl
 https://elokettest.sudwestfryslan.nl
 https://elokettest.vlissingen.nl
+https://email.capelleaandenijssel.nl
 https://email.doemee.gemeentebest.nl
 https://email.eijsden-margraten.nl
 https://email.haarlem.nl
@@ -3114,6 +3114,7 @@ https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.bladel.nl
 https://felix.bunschoten.nl
+https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
 https://felix.dalfsen.nl
 https://felix.geldrop-mierlo.nl
@@ -6378,7 +6379,6 @@ https://simcms.baarn.nl
 https://simcms.bergendal.nl
 https://simcms.bladel.nl
 https://simcms.bunschoten.nl
-https://simcms.capelleaandenijssel.nl
 https://simcms.dalfsen.nl
 https://simcms.doetinchem.nl
 https://simcms.echt-susteren.nl
