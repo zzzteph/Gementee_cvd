@@ -307,6 +307,7 @@ http://es.hengelo.nl
 http://felix.aalten.nl
 http://felix.beverwijk.nl
 http://felix.bronckhorst.nl
+http://felix.dalfsen.nl
 http://felix.eersel.nl
 http://felix.landgraaf.nl
 http://felix.lopik.nl
@@ -427,6 +428,7 @@ http://pre-ows-websrvc-test.groningen.nl
 http://pre-simform.houten.nl
 http://preproductie.bergeijk.nl
 http://preproductie.cranendonck.nl
+http://preproductie.dalfsen.nl
 http://preproductie.eersel.nl
 http://preproductie.gemeentebeek.nl
 http://preproductie.goeree-overflakkee.nl
@@ -554,7 +556,6 @@ http://tickets.krimpenerwaard.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
-http://verkiezingen.dalfsen.nl
 http://videoafspraak.rotterdam.nl
 http://videobellenwsd.utrecht.nl
 http://vrr.rotterdam.nl
@@ -2295,6 +2296,7 @@ https://dacceptatieloket.veendam.nl
 https://dacceptatieloket.waterland.nl
 https://dacceptatieloket.zwolle.nl
 https://dagbesteding.apeldoorn.nl
+https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
 https://dali.brielle.nl
 https://dali.hillegom.nl
@@ -3116,7 +3118,6 @@ https://felix.bladel.nl
 https://felix.bunschoten.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
-https://felix.dalfsen.nl
 https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.gemeentemaasgouw.nl
@@ -3927,6 +3928,7 @@ https://ibzpink.boekel.nl
 https://ibzpink.coevorden.nl
 https://ibzpink.cranendonck.nl
 https://ibzpink.culemborg.nl
+https://ibzpink.dalfsen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5955,7 +5957,6 @@ https://preprodscbroker.uithoorn.nl
 https://preproductie.beekdaelen.nl
 https://preproductie.beuningen.nl
 https://preproductie.bronckhorst.nl
-https://preproductie.dalfsen.nl
 https://preproductie.deurne.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gorinchem.nl
@@ -6308,6 +6309,7 @@ https://secure-t.sittard-geleen.nl
 https://secure-test.almere.nl
 https://secure.acc.denhaag.nl
 https://secure.almere.nl
+https://secure.dalfsen.nl
 https://secure.denhaag.nl
 https://secure.gemeentestein.nl
 https://secure.pekela.nl
@@ -6383,7 +6385,6 @@ https://simcms.baarn.nl
 https://simcms.bergendal.nl
 https://simcms.bladel.nl
 https://simcms.bunschoten.nl
-https://simcms.dalfsen.nl
 https://simcms.doetinchem.nl
 https://simcms.echt-susteren.nl
 https://simcms.goeree-overflakkee.nl
@@ -7149,6 +7150,7 @@ https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
 https://verkeersbesluiten.denhaag.nl
 https://verkiezingen.acc.topdesk.denhaag.nl
+https://verkiezingen.dalfsen.nl
 https://verkiezingen.denhelder.nl
 https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
