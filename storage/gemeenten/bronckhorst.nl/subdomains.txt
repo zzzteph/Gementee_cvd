@@ -1,11 +1,9 @@
 aanmelden.bronckhorst.nl
 adfs.bronckhorst.nl
 afspraken.bronckhorst.nl
-begraafplaatsreservering.bronckhorst.nl
 bronckhorst.nl
 cloudadapter-test.bronckhorst.nl
 cloudadapter.bronckhorst.nl
-enterpriseenrollment.bronckhorst.nl
 extranet.bronckhorst.nl
 felix.bronckhorst.nl
 filecap.bronckhorst.nl
@@ -25,8 +23,6 @@ jaarstukken2021.bronckhorst.nl
 jaarstukken2022.bronckhorst.nl
 jaarstukken2023.bronckhorst.nl
 kennisbank.bronckhorst.nl
-mdm-sentry.bronckhorst.nl
-mdm.bronckhorst.nl
 mijn.bronckhorst.nl
 omgevingswet.bronckhorst.nl
 open.bronckhorst.nl

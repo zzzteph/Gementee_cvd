@@ -2025,7 +2025,6 @@ begraafplaats.twenterand.nl
 begraafplaatsduinrust.beverwijk.nl
 begraafplaatsen.bloemendaal.nl
 begraafplaatsen.gooisemeren.nl
-begraafplaatsreservering.bronckhorst.nl
 begraaftijd.ede.nl
 begraven.dewolden.nl
 begraven.hoogeveen.nl
@@ -4562,7 +4561,6 @@ enterpriseenrollment.apeldoorn.nl
 enterpriseenrollment.arnhem.nl
 enterpriseenrollment.bergenopzoom.nl
 enterpriseenrollment.bladel.nl
-enterpriseenrollment.bronckhorst.nl
 enterpriseenrollment.dalfsen.nl
 enterpriseenrollment.dantumadiel.frl
 enterpriseenrollment.doetinchem.nl
@@ -7729,9 +7727,7 @@ mdesk.renkum.nl
 mdfg01.middendrenthe.nl
 mdjcc.middendrenthe.nl
 mdliquit.middendrenthe.nl
-mdm-sentry.bronckhorst.nl
 mdm.borne.nl
-mdm.bronckhorst.nl
 mdm.denhaag.nl
 mdm.ede.nl
 mdm.gemeentewestland.nl

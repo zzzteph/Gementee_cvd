@@ -38,10 +38,10 @@ adfs
 vpn
 betalen
 broker
-enterpriseenrollment
 ruimtelijkeplannen
 zaaksysteem-accept
 gemeenteraad
+enterpriseenrollment
 testeloket
 iparticipatie
 pv
@@ -157,7 +157,6 @@ vdi
 contact
 objecten
 objecttypen
-mdm
 smtp
 jaarstukken
 inproces
@@ -173,6 +172,7 @@ lyncdiscover
 owa
 gasten
 uc
+mdm
 AutoDiscover
 contentbeheer.acceptatie
 zaken.acceptatie
@@ -2003,12 +2003,10 @@ smartdoc-brl
 smartdoc-brlacc
 smartdocbrl
 smartdocbrlacc
-begraafplaatsreservering
 geografie
 isamenlevingszaken
 jaarstukken2022
 jaarstukken2023
-mdm-sentry
 personeelshandboek
 programmabegroting2022
 programmabegroting2023
