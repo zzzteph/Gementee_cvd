@@ -8,6 +8,7 @@ formulieren-test.culemborg.nl
 formulieren.culemborg.nl
 iburgerzaken.culemborg.nl
 ibzpink.culemborg.nl
+kaart.culemborg.nl
 omgevingsvisie.culemborg.nl
 platform.culemborg.nl
 preproductie.culemborg.nl

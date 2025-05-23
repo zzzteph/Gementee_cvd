@@ -3926,6 +3926,7 @@ https://ibzpink.bodegraven-reeuwijk.nl
 https://ibzpink.boekel.nl
 https://ibzpink.coevorden.nl
 https://ibzpink.cranendonck.nl
+https://ibzpink.culemborg.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4241,6 +4242,7 @@ https://jvs.goirle.nl
 https://kaagenbraassem.nl
 https://kaart.amersfoort.nl
 https://kaart.bergendal.nl
+https://kaart.culemborg.nl
 https://kaart.debilt.nl
 https://kaart.delft.nl
 https://kaart.haarlem.nl
