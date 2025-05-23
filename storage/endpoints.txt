@@ -468,7 +468,6 @@ http://simcms-raad.zoetermeer.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms-woo.doesburg.nl
 http://simcms.bronckhorst.nl
-http://simcms.cranendonck.nl
 http://simcms.doesburg.nl
 http://simcms.geldrop-mierlo.nl
 http://simcms.gemeentemaasgouw.nl
@@ -1791,6 +1790,7 @@ https://bergendal.nl
 https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
+https://berichten.cranendonck.nl
 https://berichten.dordrecht.nl
 https://berichten.gemeente-oldambt.nl
 https://berichten.gemeentesluis.nl
@@ -3761,6 +3761,7 @@ https://iburgerzaken.brielle.nl
 https://iburgerzaken.bronckhorst.nl
 https://iburgerzaken.buren.nl
 https://iburgerzaken.coevorden.nl
+https://iburgerzaken.cranendonck.nl
 https://iburgerzaken.culemborg.nl
 https://iburgerzaken.dalfsen.nl
 https://iburgerzaken.derondevenen.nl
@@ -3924,6 +3925,7 @@ https://ibzpink.bloemendaal.nl
 https://ibzpink.bodegraven-reeuwijk.nl
 https://ibzpink.boekel.nl
 https://ibzpink.coevorden.nl
+https://ibzpink.cranendonck.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl

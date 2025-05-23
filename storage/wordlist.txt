@@ -71,8 +71,8 @@ beeldbank
 zaken
 flowmailer-tracking
 kaart
-hybrid
 berichten
+hybrid
 cloudadapter
 kaarten
 formulier

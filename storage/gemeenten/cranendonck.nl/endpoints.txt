@@ -1,9 +1,11 @@
 http://autodiscover.cranendonck.nl
 http://preproductie.cranendonck.nl
-http://simcms.cranendonck.nl
 https://VRiSeLoket.cranendonck.nl
 https://afvalkalender.cranendonck.nl
+https://berichten.cranendonck.nl
 https://felix.cranendonck.nl
+https://iburgerzaken.cranendonck.nl
+https://ibzpink.cranendonck.nl
 https://klantcontact.cranendonck.nl
 https://vriseloket.cranendonck.nl
 https://www.cranendonck.nl
