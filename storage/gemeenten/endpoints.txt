@@ -273,6 +273,7 @@ http://connect.acceptatie.goirle.nl
 http://contactregistratie.amsterdam.nl
 http://containers.amsterdam.nl
 http://crl.denhaag.nl
+http://data.breda.nl
 http://data.delft.nl
 http://data.rotterdam.nl
 http://deboswinkel.amsterdam.nl
@@ -2329,7 +2330,6 @@ https://data.alkmaar.nl
 https://data.amstelveen.nl
 https://data.bergendal.nl
 https://data.beuningen.nl
-https://data.breda.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl

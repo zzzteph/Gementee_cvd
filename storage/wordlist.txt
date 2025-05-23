@@ -365,7 +365,6 @@ cloud
 extern
 gp
 mam
-rap
 programmabegroting
 autorisatiebeheer
 carel
@@ -477,6 +476,7 @@ services
 vergunningen
 mta-sts.raad
 www.socialekaart
+rap
 gt-loket
 duo
 gbionline

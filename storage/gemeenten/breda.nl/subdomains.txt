@@ -49,7 +49,6 @@ parkeerabonnementen.breda.nl
 persoonlijk.breda.nl
 piwik.breda.nl
 piwikacc.breda.nl
-rap.breda.nl
 secure.breda.nl
 sportaccommodaties.breda.nl
 stadsarchief.breda.nl
