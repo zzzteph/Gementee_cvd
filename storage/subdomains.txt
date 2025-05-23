@@ -1909,8 +1909,11 @@ bb1100.kerkrade.nl
 bb1140.kerkrade.nl
 bb1161.kerkrade.nl
 bb1162.kerkrade.nl
+bb1971.brunssum.nl
 bb1979.kerkrade.nl
 bb2022.kerkrade.nl
+bb523.brunssum.nl
+bb524.brunssum.nl
 bb763.ovh.gemeentebeek.nl
 bb831.gulpen-wittem.nl
 bb864.kerkrade.nl

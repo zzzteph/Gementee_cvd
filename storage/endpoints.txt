@@ -6828,7 +6828,6 @@ https://test-zac.assen.nl
 https://test.3d.utrecht.nl
 https://test.api.tod.leiden.nl
 https://test.beverwijk.nl
-https://test.brunssum.nl
 https://test.designsystem.leiden.nl
 https://test.drimmelen.nl
 https://test.eijsden-margraten.nl

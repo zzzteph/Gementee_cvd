@@ -6,6 +6,5 @@ https://edienstenburgerzaken.brunssum.nl
 https://eloket.brunssum.nl
 https://geo.brunssum.nl
 https://test-eloket.brunssum.nl
-https://test.brunssum.nl
 https://webmeeting.brunssum.nl
 https://www.brunssum.nl

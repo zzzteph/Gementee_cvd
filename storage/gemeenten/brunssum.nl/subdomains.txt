@@ -4,6 +4,9 @@ afspraken-test.brunssum.nl
 afspraken.brunssum.nl
 autorisatiebeheer-test.brunssum.nl
 autorisatiebeheer.brunssum.nl
+bb1971.brunssum.nl
+bb523.brunssum.nl
+bb524.brunssum.nl
 brunssum.nl
 bsmpki.brunssum.nl
 bsmpkitest.brunssum.nl
