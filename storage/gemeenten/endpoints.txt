@@ -568,7 +568,6 @@ http://test-binnenshuis.bergen.nl
 http://test-cmsdok.dronten.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.drimmelen.nl
-http://test-cmsintranet.edam-volendam.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
 http://test-cmsintranet.meierijstad.nl
@@ -580,6 +579,7 @@ http://test-dok.dronten.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-intra.gooisemeren.nl
+http://test-intranet.edam-volendam.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.gemeentestein.nl
@@ -3767,7 +3767,6 @@ https://hwok-test.gemeentehw.nl
 https://hwok.gemeentehw.nl
 https://hybrid.almere.nl
 https://hybrid.beverwijk.nl
-https://hybrid.edam-volendam.nl
 https://hybrid.gooisemeren.nl
 https://hybrid.nederbetuwe.nl
 https://hybrid.purmerend.nl
@@ -3982,6 +3981,7 @@ https://ibzpink.diemen.nl
 https://ibzpink.dijkenwaard.nl
 https://ibzpink.drimmelen.nl
 https://ibzpink.druten.nl
+https://ibzpink.edam-volendam.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6741,6 +6741,7 @@ https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
+https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
