@@ -292,7 +292,6 @@ http://digiform.acc.amsterdam.nl
 http://digitaalnachtregister.alphen-chaam.nl
 http://digitaalnachtregister.baarle-nassau.nl
 http://digitaalnachtregister.gilzerijen.nl
-http://doesburg.nl
 http://dolph.rotterdam.nl
 http://dts.rotterdam.nl
 http://duurzaam.waalwijk.nl
@@ -398,7 +397,6 @@ http://menditectsb.rotterdam.nl
 http://middelburg.nl
 http://mijn-preproductie.westerkwartier.nl
 http://mijn.bronckhorst.nl
-http://mijn.doesburg.nl
 http://mijn.houten.nl
 http://mijngeldzaken.denhaag.nl
 http://mijnwerkplek.schagen.nl
@@ -509,9 +507,7 @@ http://simcms-open.staphorst.nl
 http://simcms-preproductie.kerkrade.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms-samenindebuurt.heerlen.nl
-http://simcms-woo.doesburg.nl
 http://simcms.bronckhorst.nl
-http://simcms.doesburg.nl
 http://simcms.geldrop-mierlo.nl
 http://simcms.gemeentemaasgouw.nl
 http://simcms.heuvelrug.nl
@@ -6378,6 +6374,7 @@ https://simcms.baarn.nl
 https://simcms.bergendal.nl
 https://simcms.bladel.nl
 https://simcms.bunschoten.nl
+https://simcms.doesburg.nl
 https://simcms.doetinchem.nl
 https://simcms.echt-susteren.nl
 https://simcms.goeree-overflakkee.nl
@@ -7677,6 +7674,7 @@ https://www.doemee.deventer.nl
 https://www.doemee.gemeentewestland.nl
 https://www.doemee.terneuzen.nl
 https://www.doemee.zwolle.nl
+https://www.doesburg.nl
 https://www.doetinchem.nl
 https://www.dongen.nl
 https://www.dordrecht.nl
