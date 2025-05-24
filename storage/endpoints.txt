@@ -5885,7 +5885,6 @@ https://preprod-mijnaanvragen.purmerend.nl
 https://preprod-mijnaanvragensociaaldomein.venlo.nl
 https://preprod-mijnbelastingen.vught.nl
 https://preprod-mijninkomen.almere.nl
-https://preprod-mijninkomen.denhelder.nl
 https://preprod-mijninkomen.doesburg.nl
 https://preprod-mijninkomen.dronten.nl
 https://preprod-mijninkomen.goeree-overflakkee.nl
@@ -5908,7 +5907,6 @@ https://preprod-mijnsociaalplein.putten.nl
 https://preprod-mijnsociaalplein.uitgeest.nl
 https://preprod-mijnuitkering.westvoorne.nl
 https://preprod-mijnwijkteam.schagen.nl
-https://preprod-mijnzorg.denhelder.nl
 https://preprod-sociaalportaal.tubbergen.nl
 https://preprod-wozbalie.pijnacker-nootdorp.nl
 https://preprod.drimmelen.nl
@@ -7122,7 +7120,6 @@ https://verhuur.gemeente-oldambt.nl
 https://verhuursport.gorinchem.nl
 https://verhuursport.soest.nl
 https://verkiezingen.dalfsen.nl
-https://verkiezingen.denhelder.nl
 https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
 https://verkiezingen.heerlen.nl

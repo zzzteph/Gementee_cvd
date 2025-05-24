@@ -12,10 +12,7 @@ https://mijn.denhelder.nl
 https://mijninkomen.denhelder.nl
 https://mijnzorg.denhelder.nl
 https://preprod-ediensten-sociaaldomein.denhelder.nl
-https://preprod-mijninkomen.denhelder.nl
-https://preprod-mijnzorg.denhelder.nl
 https://rooster.denhelder.nl
-https://verkiezingen.denhelder.nl
 https://vpn365.denhelder.nl
 https://www.acceptatie.denhelder.nl
 https://www.denhelder.nl
