@@ -3968,6 +3968,7 @@ https://ibzpink.coevorden.nl
 https://ibzpink.cranendonck.nl
 https://ibzpink.culemborg.nl
 https://ibzpink.dalfsen.nl
+https://ibzpink.derondevenen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6262,9 +6263,7 @@ https://samenwerking.tilburg.nl
 https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
 https://samenwijzer.oss.nl
-https://sammy-acc.derondevenen.nl
 https://sammy.derondevenen.nl
-https://sammycms-acc.derondevenen.nl
 https://sammycms.derondevenen.nl
 https://sbc01.gooisemeren.nl
 https://scan.afs.acc.amsterdam.nl

@@ -6,12 +6,11 @@ https://derondevenen.nl
 https://financialstest.derondevenen.nl
 https://gemeente.derondevenen.nl
 https://iburgerzaken.derondevenen.nl
+https://ibzpink.derondevenen.nl
 https://mijnzaken.derondevenen.nl
 https://mycorsanxt.derondevenen.nl
 https://ondernemersloket.derondevenen.nl
-https://sammy-acc.derondevenen.nl
 https://sammy.derondevenen.nl
-https://sammycms-acc.derondevenen.nl
 https://sammycms.derondevenen.nl
 https://stroomlijntest.derondevenen.nl
 https://testmijnzaken.derondevenen.nl
