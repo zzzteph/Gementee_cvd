@@ -1,3 +1,5 @@
+http://test-cmsdok.dronten.nl
+http://test-dok.dronten.nl
 https://afspraakmaken.dronten.nl
 https://cmsdok.dronten.nl
 https://dok.dronten.nl
@@ -16,7 +18,6 @@ https://preprod-mijninkomen.dronten.nl
 https://ruimtelijkeplannen.dronten.nl
 https://services.dronten.nl
 https://sts.dronten.nl
-https://test-cmsdok.dronten.nl
 https://testeloket.dronten.nl
 https://vergunningen.dronten.nl
 https://www.dronten.nl

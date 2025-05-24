@@ -565,6 +565,7 @@ http://teamurenplanninggezondheidmilieu.rotterdam.nl
 http://terschelling.nl
 http://test-bink.beverwijk.nl
 http://test-binnenshuis.bergen.nl
+http://test-cmsdok.dronten.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.edam-volendam.nl
@@ -575,6 +576,7 @@ http://test-cmsintranet.sittard-geleen.nl
 http://test-cmsintranet.zeist.nl
 http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
+http://test-dok.dronten.nl
 http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-intra.gooisemeren.nl
@@ -6736,7 +6738,6 @@ https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
-https://test-cmsdok.dronten.nl
 https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.gemeentestein.nl
