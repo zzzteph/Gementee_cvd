@@ -275,8 +275,8 @@ http://contactregistratie.amsterdam.nl
 http://containers.amsterdam.nl
 http://crl.denhaag.nl
 http://data.breda.nl
-http://data.delft.nl
 http://data.rotterdam.nl
+http://datatest.delft.nl
 http://deboswinkel.amsterdam.nl
 http://declaratieformulier.dwi.amsterdam.nl
 http://decosafs.amsterdam.nl
@@ -2330,6 +2330,7 @@ https://data.alkmaar.nl
 https://data.amstelveen.nl
 https://data.bergendal.nl
 https://data.beuningen.nl
+https://data.delft.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl
@@ -2351,7 +2352,6 @@ https://datamask.montferland.info
 https://dataportaal.apeldoorn.nl
 https://dataportaal.tilburg.nl
 https://datasociaaldomein.rotterdam.nl
-https://datatest.delft.nl
 https://db01.deventer.nl
 https://dds-vwes21.westerwolde.nl
 https://de.gemert-bakel.nl
