@@ -566,6 +566,7 @@ http://terschelling.nl
 http://test-bink.beverwijk.nl
 http://test-binnenshuis.bergen.nl
 http://test-cmsflash.scherpenzeel.nl
+http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.edam-volendam.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
@@ -3977,6 +3978,7 @@ https://ibzpink.deventer.nl
 https://ibzpink.dewolden.nl
 https://ibzpink.diemen.nl
 https://ibzpink.dijkenwaard.nl
+https://ibzpink.drimmelen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6737,7 +6739,6 @@ https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
 https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
-https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
