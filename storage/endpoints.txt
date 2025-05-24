@@ -6770,6 +6770,7 @@ https://test-cmssamenatwork.stichtsevecht.nl
 https://test-cmssocial.montferland.info
 https://test-cmsurknet.urk.nl
 https://test-cmszaanzoeker.zaanstad.nl
+https://test-dieuwke.defryskemarren.nl
 https://test-digikoppeling.brielle.nl
 https://test-digikoppeling.sint-michielsgestel.nl
 https://test-digikoppeling.westvoorne.nl
