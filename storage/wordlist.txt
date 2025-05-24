@@ -68,8 +68,8 @@ cloudadapter-test
 osb
 digikoppeling-test
 beeldbank
-zaken
 flowmailer-tracking
+zaken
 kaart
 berichten
 hybrid
@@ -795,6 +795,7 @@ acc-openzaak.dev
 acc-podiumd-logs.dev
 webconf
 werknemersportaal
+www.evenementen
 www.vastgoed
 dk
 dktest
@@ -899,7 +900,6 @@ parkeervergunningen.acc
 uitslagen
 www.ombudsman
 www.omgevingsvisie
-www.werkenvoor
 accept-zaaksysteem
 cloudadapter-p
 alwaysonvpn
@@ -1839,7 +1839,6 @@ wpdagast2
 wpmksp001
 www.duurzaamheidscentrum
 www.english
-www.evenementen
 www.mijnplein
 www.organisatieontwikkeling
 www.slimbereikbaar
@@ -2147,6 +2146,7 @@ auth3
 auth4
 auth5
 auth7
+authn.acc
 authx
 authx1
 authx2
@@ -2155,7 +2155,6 @@ authx30
 authx4
 authx5
 authx6
-autodiscover.riec
 autodiscover.uitwijk
 bag-kastlijst.acc
 bag-kastlijst
@@ -2180,6 +2179,7 @@ bregje.dev
 bregje.test
 buurthuisvandetoekomst
 camunda-zgw.acc
+camunda-zgw
 casa.acc.topdesk
 casa.topdesk
 cloudrecorder
@@ -2257,6 +2257,7 @@ jbt
 jbt.dev
 jbt.test
 jeugdombudsman-acc
+jeugdombudsman.acc
 jeugdombudsman
 kentekencheck
 keycloak-adm
@@ -2492,29 +2493,7 @@ www.udp-rspackage-acc
 www.udp-rspackage
 www.udp-rstudio-acc
 www.udp-rstudio
-www.werkaandewijk
-www.wijkagenda-archipelwillemspark
-www.wijkbudgetlaakcentraal
-www.wijkbudgetleidschenveen
-www.wijkbudgetvruchtenbuurt
-www.wijkbudgetwaldeck
-www.wijkbudgetypenburg
 www.wob
-www.woo
-www.ypenburgaanzet
-www.zkd
-www.zomerprogramma070
-www.zuidwestopznbest
-ypenburgaanzet
-zgw.acc
-zgw
-zgw.test
-zgw3
-zkd
-zomerprogramma070-acc
-zomerprogramma070
-zuidwestopznbest-acc
-zuidwestopznbest
 communication
 dhsbc01
 dhsbc02
@@ -4596,6 +4575,7 @@ mijnleefomgeving
 www.mijnkijkop
 www.mijnleefomgeving
 www.ondersteuning
+www.werkenvoor
 admin.regiomonitor-acc
 apis.regiomonitor-acc
 bor.test
