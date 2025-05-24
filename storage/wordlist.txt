@@ -277,6 +277,7 @@ citrix
 key2gbav
 filetransfer
 squit2020.acceptatie
+www.samen
 woz-portaal
 www.intranet
 mx1
@@ -318,7 +319,6 @@ eformulieren
 academie
 aeolus
 squit2020publiceren
-www.samen
 en
 liquit
 radius

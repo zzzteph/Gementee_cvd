@@ -39,6 +39,7 @@ vpn.drechterland.nl
 waarmerk.drechterland.nl
 webmail.drechterland.nl
 www.drechterland.nl
+www.samen.drechterland.nl
 www.test.drechterland.nl
 zaken.acceptatie.drechterland.nl
 zaken.drechterland.nl
