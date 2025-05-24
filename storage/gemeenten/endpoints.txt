@@ -3982,6 +3982,7 @@ https://ibzpink.dijkenwaard.nl
 https://ibzpink.drimmelen.nl
 https://ibzpink.druten.nl
 https://ibzpink.edam-volendam.nl
+https://ibzpink.ede.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl

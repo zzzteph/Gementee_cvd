@@ -20,6 +20,7 @@ https://formulier.ede.nl
 https://gemeentearchief.ede.nl
 https://handboekdibor.ede.nl
 https://iburgerzaken.ede.nl
+https://ibzpink.ede.nl
 https://id-subsidies-login.ede.nl
 https://kernhem.ede.nl
 https://liveblog.ede.nl
