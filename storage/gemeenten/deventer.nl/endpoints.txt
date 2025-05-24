@@ -1,7 +1,9 @@
 http://autodiscover.deventer.nl
 https://acc-broker.deventer.nl
+https://acc-podiumd-abc.deventer.nl
 https://acc-podiumd-contact.deventer.nl
 https://acc-podiumd-formulier.deventer.nl
+https://acc-podiumd-keycloak-admin.deventer.nl
 https://acc-podiumd-keycloak.deventer.nl
 https://acc-podiumd-logs.deventer.nl
 https://acc-podiumd-mijn.deventer.nl
@@ -50,6 +52,7 @@ https://haven.deventer.nl
 https://heiligen.deventer.nl
 https://hetgeldvan.deventer.nl
 https://iburgerzaken.deventer.nl
+https://ibzpink.deventer.nl
 https://img.openstad.deventer.nl
 https://intra.deventer.nl
 https://intranet.deventer.nl
@@ -71,8 +74,10 @@ https://openbareruimte.deventer.nl
 https://openstad.deventer.nl
 https://oranjekwartier.deventer.nl
 https://outlook.deventer.nl
+https://podiumd-abc.deventer.nl
 https://podiumd-contact.deventer.nl
 https://podiumd-formulier.deventer.nl
+https://podiumd-keycloak-admin.deventer.nl
 https://podiumd-keycloak.deventer.nl
 https://podiumd-logs.deventer.nl
 https://podiumd-mijn.deventer.nl

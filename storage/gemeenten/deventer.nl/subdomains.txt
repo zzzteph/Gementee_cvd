@@ -1,6 +1,8 @@
 acc-broker.deventer.nl
+acc-podiumd-abc.deventer.nl
 acc-podiumd-contact.deventer.nl
 acc-podiumd-formulier.deventer.nl
+acc-podiumd-keycloak-admin.deventer.nl
 acc-podiumd-keycloak.deventer.nl
 acc-podiumd-logs.deventer.nl
 acc-podiumd-mijn.deventer.nl
@@ -67,6 +69,7 @@ kennisnet.deventer.nl
 kennisportaal.deventer.nl
 kennisportaal2.deventer.nl
 mail.deventer.nl
+mailings.deventer.nl
 mijn.deventer.nl
 mijnloket.deventer.nl
 mijnwoonomgeving.deventer.nl
@@ -78,8 +81,10 @@ openbareruimte.deventer.nl
 openstad.deventer.nl
 oranjekwartier.deventer.nl
 outlook.deventer.nl
+podiumd-abc.deventer.nl
 podiumd-contact.deventer.nl
 podiumd-formulier.deventer.nl
+podiumd-keycloak-admin.deventer.nl
 podiumd-keycloak.deventer.nl
 podiumd-logs.deventer.nl
 podiumd-mijn.deventer.nl

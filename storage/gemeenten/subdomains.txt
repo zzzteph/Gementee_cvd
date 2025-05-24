@@ -344,8 +344,10 @@ acc-openzaak.oldenzaal.nl
 acc-openzaak.oostgelre.nl
 acc-openzaak.roermond.nl
 acc-openzaak.zwolle.nl
+acc-podiumd-abc.deventer.nl
 acc-podiumd-contact.deventer.nl
 acc-podiumd-formulier.deventer.nl
+acc-podiumd-keycloak-admin.deventer.nl
 acc-podiumd-keycloak.deventer.nl
 acc-podiumd-logs.assen.nl
 acc-podiumd-logs.borger-odoorn.nl
@@ -7665,6 +7667,7 @@ mailing.kapelle.nl
 mailing.nieuwegein.nl
 mailing.noord-beveland.nl
 mailing.oss.nl
+mailings.deventer.nl
 mailings.wijdemeren.nl
 mailptr.vught.nl
 mailrelay.helmond.nl
@@ -9574,8 +9577,10 @@ po-openformulieren-zgw.test.denhaag.nl
 po-zgw.test.denhaag.nl
 po.heusden.nl
 podcast.landvancuijk.nl
+podiumd-abc.deventer.nl
 podiumd-contact.deventer.nl
 podiumd-formulier.deventer.nl
+podiumd-keycloak-admin.deventer.nl
 podiumd-keycloak.deventer.nl
 podiumd-logs.assen.nl
 podiumd-logs.borger-odoorn.nl
