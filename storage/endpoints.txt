@@ -283,6 +283,7 @@ http://decosafs.amsterdam.nl
 http://decosbinf.acc.amsterdam.nl
 http://decosdvl.tst.amsterdam.nl
 http://decosvor.acc.amsterdam.nl
+http://deurne.nl
 http://diensten-acc.rotterdam.nl
 http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
@@ -465,6 +466,7 @@ http://pre-simform.houten.nl
 http://preproductie.bergeijk.nl
 http://preproductie.cranendonck.nl
 http://preproductie.dalfsen.nl
+http://preproductie.deurne.nl
 http://preproductie.eersel.nl
 http://preproductie.gemeentebeek.nl
 http://preproductie.goeree-overflakkee.nl
@@ -633,6 +635,7 @@ http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
+http://www.deurne.nl
 http://www.doemee.leiden.nl
 http://www.goeree-overflakkee.nl
 http://www.gogo.denhaag.nl
@@ -2467,7 +2470,6 @@ https://desktop.lelystad.nl
 https://desktop.winterswijk.nl
 https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
-https://deurne.nl
 https://dev-formulieren.haarlemmermeer.nl
 https://dev01.deventer.nl
 https://devapps3.deventer.nl
@@ -3167,6 +3169,7 @@ https://felix.bladel.nl
 https://felix.bunschoten.nl
 https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
+https://felix.deurne.nl
 https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.gemeentemaasgouw.nl
@@ -3969,6 +3972,7 @@ https://ibzpink.cranendonck.nl
 https://ibzpink.culemborg.nl
 https://ibzpink.dalfsen.nl
 https://ibzpink.derondevenen.nl
+https://ibzpink.deurne.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5948,7 +5952,6 @@ https://preprodscbroker.uithoorn.nl
 https://preproductie.beekdaelen.nl
 https://preproductie.beuningen.nl
 https://preproductie.bronckhorst.nl
-https://preproductie.deurne.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gorinchem.nl
 https://preproductie.heeze-leende.nl
@@ -6400,7 +6403,6 @@ https://simform.vlaardingen.nl
 https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
-https://simsite.deurne.nl
 https://simsite.edam-volendam.nl
 https://simsite.gemeentebeek.nl
 https://simsite.goeree-overflakkee.nl
@@ -7651,7 +7653,6 @@ https://www.denhaagfietst-acc.denhaag.nl
 https://www.denhelder.nl
 https://www.derondevenen.nl
 https://www.destemvan.groningen.nl
-https://www.deurne.nl
 https://www.deventer.nl
 https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
