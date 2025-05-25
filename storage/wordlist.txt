@@ -187,6 +187,7 @@ gis
 bag
 keycloak-admin
 test-digikoppeling
+www.doemee
 meedoen
 localhost
 fmreturn
@@ -209,7 +210,6 @@ mail2
 onderzoek
 jcc
 sharefile
-www.doemee
 zac
 intranet-acc
 email

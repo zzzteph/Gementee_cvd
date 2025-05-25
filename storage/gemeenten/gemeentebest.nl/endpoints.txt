@@ -1,5 +1,6 @@
 http://autodiscover.gemeentebest.nl
 http://nta7516.gemeentebest.nl
+http://www.doemee.gemeentebest.nl
 https://acc.gemeentebest.nl
 https://beeldbank.gemeentebest.nl
 https://beeldbankbeheer.gemeentebest.nl
@@ -11,6 +12,7 @@ https://e-loket.gemeentebest.nl
 https://email.doemee.gemeentebest.nl
 https://gemeentebest.nl
 https://iburgerzaken.gemeentebest.nl
+https://ibzpink.gemeentebest.nl
 https://liquit.gemeentebest.nl
 https://tv.gemeentebest.nl
 https://waarmerk.gemeentebest.nl

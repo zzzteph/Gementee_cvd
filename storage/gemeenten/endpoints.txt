@@ -636,6 +636,7 @@ http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
 http://www.deurne.nl
+http://www.doemee.gemeentebest.nl
 http://www.doemee.leiden.nl
 http://www.eersel.nl
 http://www.goeree-overflakkee.nl
@@ -3999,6 +4000,7 @@ https://ibzpink.geldrop-mierlo.nl
 https://ibzpink.gemeente-oldambt.nl
 https://ibzpink.gemeente-steenbergen.nl
 https://ibzpink.gemeentebeek.nl
+https://ibzpink.gemeentebest.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
