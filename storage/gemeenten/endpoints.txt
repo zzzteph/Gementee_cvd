@@ -264,6 +264,7 @@ http://cairo.rotterdam.nl
 http://capelleaandenijssel.nl
 http://cardaccess.acc.intra.amsterdam.nl
 http://centrumbegroot.amsterdam.nl
+http://centrumimpuls.geldrop-mierlo.nl
 http://cms-extranet.hethogeland.nl
 http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
@@ -376,7 +377,6 @@ http://leusden-checker.leusden.nl
 http://login.sittard-geleen.nl
 http://loket.acceptatie.hardinxveld-giessendam.nl
 http://loket.gemeentewestland.nl
-http://luchen.geldrop-mierlo.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
 http://maassluis.nl
@@ -421,7 +421,6 @@ http://ombudsman.denhaag.nl
 http://onboardingambulancezorg.denhaag.nl
 http://onderzoek.utrecht.nl
 http://ontheffingen-mz.denhaag.nl
-http://open.geldrop-mierlo.nl
 http://open.halderberge.nl
 http://open.meerssen.nl
 http://open.sonenbreugel.nl
@@ -496,6 +495,7 @@ http://sherlock.tst.amsterdam.nl
 http://simcms-armoedepact.westerkwartier.nl
 http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-centrum.heerlen.nl
+http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-cjg.scherpenzeel.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
@@ -510,7 +510,6 @@ http://simcms-raad.zoetermeer.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms.bronckhorst.nl
 http://simcms.doetinchem.nl
-http://simcms.geldrop-mierlo.nl
 http://simcms.gemeentemaasgouw.nl
 http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
@@ -2140,7 +2139,6 @@ https://cdn.oude-ijsselstreek.nl
 https://cdn1.tilburg.nl
 https://centrum.heerlen.nl
 https://centrumbegroot.alphenaandenrijn.nl
-https://centrumimpuls.geldrop-mierlo.nl
 https://checklist.rotterdam.nl
 https://cicd010.rotterdam.nl
 https://cimot.almelo.nl
@@ -3179,7 +3177,6 @@ https://felix.capelleaandenijssel.nl
 https://felix.cranendonck.nl
 https://felix.deurne.nl
 https://felix.eersel.nl
-https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.gemeentemaasgouw.nl
 https://felix.halderberge.nl
@@ -3425,6 +3422,7 @@ https://geborgenverleden.sudwestfryslan.nl
 https://geertruidenberg.nl
 https://gegevensuitwisselingsysteem.rotterdam.nl
 https://geldloket.emmen.nl
+https://geldrop-mierlo.nl
 https://geldwijzer.zaanstad.nl
 https://gelukkignieuwjaar.zwolle.nl
 https://gemeente-oldambt.nl
@@ -3998,6 +3996,7 @@ https://ibzpink.elburg.nl
 https://ibzpink.enschede.nl
 https://ibzpink.epe.nl
 https://ibzpink.etten-leur.nl
+https://ibzpink.geldrop-mierlo.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4626,6 +4625,7 @@ https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
 https://loonopzand.nl
 https://losser.nl
+https://luchen.geldrop-mierlo.nl
 https://lvs.hellendoorn.nl
 https://lvs.horstaandemaas.nl
 https://lvs.zwemmen.venlo.nl
@@ -5463,6 +5463,7 @@ https://open.dinkelland.nl
 https://open.doetinchem.nl
 https://open.ede.nl
 https://open.epe.nl
+https://open.geldrop-mierlo.nl
 https://open.gemeentestein.nl
 https://open.gooisemeren.nl
 https://open.gorinchem.nl
@@ -6291,6 +6292,7 @@ https://samen.s-hertogenbosch.nl
 https://samen.schagen.nl
 https://samen.stedebroec.nl
 https://samenatwork.stichtsevecht.nl
+https://samenduurzaam.geldrop-mierlo.nl
 https://samenindebuurt.heerlen.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
@@ -6386,10 +6388,10 @@ https://sibt01.lelystad.nl
 https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
-https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.woensdrecht.nl
 https://simcms-gemeenteraad.vlissingen.nl
+https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.leudal.nl
@@ -6399,7 +6401,6 @@ https://simcms-open.wierden.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-preproductie.bladel.nl
-https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms.baarn.nl
