@@ -3041,6 +3041,7 @@ contact.borger-odoorn.nl
 contact.emmen.nl
 contact.enschede.nl
 contact.gemeente-oldambt.nl
+contact.gemeentemaashorst.nl
 contact.gemert-bakel.nl
 contact.groningen.nl
 contact.laarbeek.nl
@@ -7034,6 +7035,7 @@ keycloak-admin.borger-odoorn.nl
 keycloak-admin.emmen.nl
 keycloak-admin.enschede.nl
 keycloak-admin.gemeente-oldambt.nl
+keycloak-admin.gemeentemaashorst.nl
 keycloak-admin.gemert-bakel.nl
 keycloak-admin.laarbeek.nl
 keycloak-admin.oldenzaal.nl
@@ -14673,6 +14675,7 @@ zac.cg-intern.ont.utrecht.nl
 zac.cg-intern.utrecht.nl
 zac.emmen.nl
 zac.enschede.nl
+zac.gemeentemaashorst.nl
 zac.gemert-bakel.nl
 zac.laarbeek.nl
 zac.oldenzaal.nl

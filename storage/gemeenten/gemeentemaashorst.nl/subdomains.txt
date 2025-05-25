@@ -13,6 +13,7 @@ acc-podiumd-logs.gemeentemaashorst.nl
 acc-zac.gemeentemaashorst.nl
 autodiscover.gemeentemaashorst.nl
 broker.gemeentemaashorst.nl
+contact.gemeentemaashorst.nl
 dacceptatieloket.gemeentemaashorst.nl
 dacceptatiemidoffice.gemeentemaashorst.nl
 dloket.gemeentemaashorst.nl
@@ -33,6 +34,7 @@ gemeenteraad.gemeentemaashorst.nl
 gis.gemeentemaashorst.nl
 iburgerzaken.gemeentemaashorst.nl
 ibzpink.gemeentemaashorst.nl
+keycloak-admin.gemeentemaashorst.nl
 keycloak.gemeentemaashorst.nl
 mail.gemeentemaashorst.nl
 mijn.gemeentemaashorst.nl
@@ -51,3 +53,4 @@ telewerken.gemeentemaashorst.nl
 wachtwoord.gemeentemaashorst.nl
 wifi.gemeentemaashorst.nl
 www.gemeentemaashorst.nl
+zac.gemeentemaashorst.nl
