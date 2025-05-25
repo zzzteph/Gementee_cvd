@@ -1,7 +1,9 @@
-http://felix.eersel.nl
-http://preproductie.eersel.nl
-http://simsite.eersel.nl
+http://www.eersel.nl
+https://eersel.nl
+https://felix.eersel.nl
 https://iburgerzaken.eersel.nl
+https://ibzpink.eersel.nl
 https://jccapi.eersel.nl
+https://preproductie.eersel.nl
+https://simsite.eersel.nl
 https://woningbouwkaart.eersel.nl
-https://www.eersel.nl
