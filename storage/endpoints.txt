@@ -3989,6 +3989,7 @@ https://ibzpink.eemnes.nl
 https://ibzpink.eemsdelta.nl
 https://ibzpink.eersel.nl
 https://ibzpink.eijsden-margraten.nl
+https://ibzpink.elburg.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6831,7 +6832,6 @@ https://test.beverwijk.nl
 https://test.designsystem.leiden.nl
 https://test.drimmelen.nl
 https://test.eijsden-margraten.nl
-https://test.elburg.nl
 https://test.formulieren.almere.nl
 https://test.formulieren.leiden.nl
 https://test.haarendossiers.oisterwijk.nl

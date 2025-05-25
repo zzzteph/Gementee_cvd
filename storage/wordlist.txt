@@ -101,6 +101,7 @@ portaal
 extranet
 govroam
 samen
+filecap
 verkiezingen
 duurzaam
 acc-formulier
@@ -109,7 +110,6 @@ bgt
 sts
 simcms-open
 www.webmail
-filecap
 dtestmidoffice
 squit2go
 mijnzorg
