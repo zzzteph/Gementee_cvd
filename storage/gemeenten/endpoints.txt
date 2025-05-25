@@ -3997,6 +3997,7 @@ https://ibzpink.enschede.nl
 https://ibzpink.epe.nl
 https://ibzpink.etten-leur.nl
 https://ibzpink.geldrop-mierlo.nl
+https://ibzpink.gemeente-oldambt.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4387,6 +4388,7 @@ https://keycloak-admin.assen.nl
 https://keycloak-admin.borger-odoorn.nl
 https://keycloak-admin.emmen.nl
 https://keycloak-admin.enschede.nl
+https://keycloak-admin.gemeente-oldambt.nl
 https://keycloak-admin.gemert-bakel.nl
 https://keycloak-admin.laarbeek.nl
 https://keycloak-admin.oldenzaal.nl

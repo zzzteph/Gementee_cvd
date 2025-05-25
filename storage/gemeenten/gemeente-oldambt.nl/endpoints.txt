@@ -26,8 +26,10 @@ https://formulier.gemeente-oldambt.nl
 https://gemeente-oldambt.nl
 https://geo.gemeente-oldambt.nl
 https://iburgerzaken.gemeente-oldambt.nl
+https://ibzpink.gemeente-oldambt.nl
 https://igo-acc.gemeente-oldambt.nl
 https://igo.gemeente-oldambt.nl
+https://keycloak-admin.gemeente-oldambt.nl
 https://keycloak.gemeente-oldambt.nl
 https://meldingen-acc.gemeente-oldambt.nl
 https://meldingen.gemeente-oldambt.nl

@@ -44,6 +44,7 @@ igo-acc.gemeente-oldambt.nl
 igo.gemeente-oldambt.nl
 iis-vold01.gemeente-oldambt.nl
 iis-vold21.gemeente-oldambt.nl
+keycloak-admin.gemeente-oldambt.nl
 keycloak.gemeente-oldambt.nl
 meldingen-acc.gemeente-oldambt.nl
 meldingen.gemeente-oldambt.nl
