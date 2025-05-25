@@ -5936,6 +5936,7 @@ https://preprod-mijninkomen.gouda.nl
 https://preprod-mijnoverzicht.boxtel.nl
 https://preprod-mijnoverzicht.purmerend.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
+https://preprod-mijnplan.gemeenteberkelland.nl
 https://preprod-mijnplan.winterswijk.nl
 https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
