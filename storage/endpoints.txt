@@ -3998,6 +3998,7 @@ https://ibzpink.epe.nl
 https://ibzpink.etten-leur.nl
 https://ibzpink.geldrop-mierlo.nl
 https://ibzpink.gemeente-oldambt.nl
+https://ibzpink.gemeente-steenbergen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl

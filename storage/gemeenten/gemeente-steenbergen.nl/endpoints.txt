@@ -13,6 +13,7 @@ https://gemeente-steenbergen.nl
 https://gemeentewinkel.gemeente-steenbergen.nl
 https://htb-prod.gemeente-steenbergen.nl
 https://iburgerzaken.gemeente-steenbergen.nl
+https://ibzpink.gemeente-steenbergen.nl
 https://intranet.gemeente-steenbergen.nl
 https://jaarstukken.gemeente-steenbergen.nl
 https://jvs-prod.gemeente-steenbergen.nl
