@@ -275,6 +275,7 @@ http://contactregistratie.amsterdam.nl
 http://containers.amsterdam.nl
 http://crl.denhaag.nl
 http://data.breda.nl
+http://data.eindhoven.nl
 http://data.rotterdam.nl
 http://datatest.delft.nl
 http://deboswinkel.amsterdam.nl

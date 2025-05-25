@@ -1,4 +1,5 @@
 http://autodiscover.eindhoven.nl
+http://data.eindhoven.nl
 https://api.meldingen.acceptatie.eindhoven.nl
 https://api.meldingen.eindhoven.nl
 https://beeldmateriaal.eindhoven.nl
