@@ -1634,6 +1634,7 @@ https://bag-vvee21.veendam.nl
 https://bag-vwes11.westerwolde.nl
 https://bag.acc.denhaag.nl
 https://bag.deventer.nl
+https://bag.etten-leur.nl
 https://balie2.vlaardingen.nl
 https://barendrecht.nl
 https://barneveld.nl
@@ -3995,6 +3996,7 @@ https://ibzpink.eijsden-margraten.nl
 https://ibzpink.elburg.nl
 https://ibzpink.enschede.nl
 https://ibzpink.epe.nl
+https://ibzpink.etten-leur.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl

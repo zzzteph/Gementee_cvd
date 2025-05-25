@@ -5,6 +5,7 @@ http://cmsintranet.etten-leur.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-intranet.etten-leur.nl
 https://Edienstenburgerzaken-test.etten-leur.nl
+https://bag.etten-leur.nl
 https://edienstenburgerzaken-test.etten-leur.nl
 https://enterpriseenrollment.etten-leur.nl
 https://enterpriseregistration.etten-leur.nl
@@ -12,6 +13,7 @@ https://etten-leur.nl
 https://financieelportaal.etten-leur.nl
 https://gemeenteraad.etten-leur.nl
 https://iburgerzaken.etten-leur.nl
+https://ibzpink.etten-leur.nl
 https://jaarrekening2021.financieelportaal.etten-leur.nl
 https://mijn.etten-leur.nl
 https://openpdc.etten-leur.nl
