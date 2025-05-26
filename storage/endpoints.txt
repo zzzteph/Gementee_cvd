@@ -467,7 +467,6 @@ http://preproductie.bergeijk.nl
 http://preproductie.cranendonck.nl
 http://preproductie.dalfsen.nl
 http://preproductie.deurne.nl
-http://preproductie.goeree-overflakkee.nl
 http://preproductie.heuvelrug.nl
 http://preproductie.kerkrade.nl
 http://preproductie.montferland.info
@@ -638,7 +637,6 @@ http://www.deurne.nl
 http://www.doemee.gemeentebest.nl
 http://www.doemee.leiden.nl
 http://www.eersel.nl
-http://www.goeree-overflakkee.nl
 http://www.gogo.denhaag.nl
 http://www.heerlen.nl
 http://www.houtwijkbegroot.denhaag.nl
@@ -3647,6 +3645,7 @@ https://gitops.acc.denhaag.nl
 https://gitops.dev.denhaag.nl
 https://glanerbrug.openstad.enschede.nl
 https://goedterechtin.leeuwarden.nl
+https://goeree-overflakkee.nl
 https://goes.nl
 https://goirle.nl
 https://googleauth.gemeentemaastricht.nl
@@ -4904,7 +4903,6 @@ https://mijn.gemeente-oldambt.nl
 https://mijn.gemeenteberkelland.nl
 https://mijn.gemeentemaashorst.nl
 https://mijn.gemert-bakel.nl
-https://mijn.goeree-overflakkee.nl
 https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
 https://mijn.groningen.nl
@@ -5936,7 +5934,6 @@ https://preprod-mijnbelastingen.vught.nl
 https://preprod-mijninkomen.almere.nl
 https://preprod-mijninkomen.doesburg.nl
 https://preprod-mijninkomen.dronten.nl
-https://preprod-mijninkomen.goeree-overflakkee.nl
 https://preprod-mijninkomen.gouda.nl
 https://preprod-mijnoverzicht.boxtel.nl
 https://preprod-mijnoverzicht.purmerend.nl
@@ -6458,7 +6455,6 @@ https://simsite.bronckhorst.nl
 https://simsite.edam-volendam.nl
 https://simsite.eersel.nl
 https://simsite.gemeentebeek.nl
-https://simsite.goeree-overflakkee.nl
 https://simsite.gorinchem.nl
 https://simsite.heumen.nl
 https://simsite.koggenland.nl

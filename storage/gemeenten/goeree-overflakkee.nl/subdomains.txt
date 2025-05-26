@@ -18,11 +18,6 @@ simsite.goeree-overflakkee.nl
 snelbalie.goeree-overflakkee.nl
 snelbaliepp.goeree-overflakkee.nl
 test-meedoen.goeree-overflakkee.nl
-uc.goeree-overflakkee.nl
-ucaccess01.goeree-overflakkee.nl
-ucc01.goeree-overflakkee.nl
-ucconf01.goeree-overflakkee.nl
-ucweb01-ext.goeree-overflakkee.nl
 webdav.goeree-overflakkee.nl
 www.goeree-overflakkee.nl
 www.marketingtools.goeree-overflakkee.nl

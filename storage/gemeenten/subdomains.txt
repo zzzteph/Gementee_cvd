@@ -12397,7 +12397,6 @@ uc.beverwijk.nl
 uc.dantumadiel.frl
 uc.epe.nl
 uc.gemeentesluis.nl
-uc.goeree-overflakkee.nl
 uc.hellevoetsluis.nl
 uc.noardeast-fryslan.nl
 uc.purmerend.nl
@@ -12409,14 +12408,10 @@ uca.bernheze.org
 uca.dijkenwaard.nl
 uca.geertruidenberg.nl
 uca.hardenberg.nl
-ucaccess01.goeree-overflakkee.nl
 ucaccess1.hellevoetsluis.nl
 ucav1.hellevoetsluis.nl
-ucc01.goeree-overflakkee.nl
-ucconf01.goeree-overflakkee.nl
 ucconf01.hilversum.nl
 ucserver.tholen.nl
-ucweb01-ext.goeree-overflakkee.nl
 ucweb01-ext.houten.nl
 ucweb1-ext.hellevoetsluis.nl
 ucwebcon1.hellevoetsluis.nl
