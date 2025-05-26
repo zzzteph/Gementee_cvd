@@ -3625,6 +3625,7 @@ www2.formulieren
 www2.testformulieren
 halbox
 halnet
+belastingen-accept
 vdi-uitwijk
 woz-loket-accept
 zwembaden

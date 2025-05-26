@@ -2,12 +2,15 @@ http://autodiscover.hardenberg.nl
 https://acceptatie-intranet.hardenberg.nl
 https://acceptatie.hardenberg.nl
 https://api.hardenberg.nl
+https://belastingen-accept.hardenberg.nl
 https://burgerportaal.hardenberg.nl
 https://formulieren.hardenberg.nl
 https://hardenberg.nl
 https://iburgerzaken.hardenberg.nl
+https://ibzpink.hardenberg.nl
 https://intranet.hardenberg.nl
 https://mijn.hardenberg.nl
+https://preprod-burgerportaal.hardenberg.nl
 https://sera.hardenberg.nl
 https://sport.hardenberg.nl
 https://woz-loket-accept.hardenberg.nl

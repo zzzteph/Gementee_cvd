@@ -2,6 +2,7 @@ acceptatie-intranet.hardenberg.nl
 acceptatie.hardenberg.nl
 api.hardenberg.nl
 autodiscover.hardenberg.nl
+belastingen-accept.hardenberg.nl
 burgerportaal.hardenberg.nl
 digitaleplannen.hardenberg.nl
 dkd.hardenberg.nl
