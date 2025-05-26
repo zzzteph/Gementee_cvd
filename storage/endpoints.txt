@@ -514,6 +514,7 @@ http://simcms-raad.zoetermeer.nl
 http://simcms-samenindebuurt.heerlen.nl
 http://simcms.bronckhorst.nl
 http://simcms.doetinchem.nl
+http://simcms.halderberge.nl
 http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
 http://simcms.kerkrade.nl
@@ -6045,6 +6046,7 @@ https://printen.tilburg.nl
 https://privacybewustzijn.bergendal.nl
 https://private.delft.nl
 https://proapp.rotterdam.nl
+https://probeer.halderberge.nl
 https://probeer.winterswijk.nl
 https://productenraming.venlo.nl
 https://productie.postex.heusden.nl
@@ -7835,7 +7837,6 @@ https://www.gulpen-wittem.nl
 https://www.haaksbergen.nl
 https://www.haarlem.nl
 https://www.haarlemmermeer.nl
-https://www.halderberge.nl
 https://www.hardenberg.nl
 https://www.harderwijk.nl
 https://www.hardinxveld-giessendam.nl
