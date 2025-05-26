@@ -6513,6 +6513,7 @@ intranet-ot.tilburg.nl
 intranet-oud.gemeentewestland.nl
 intranet-prod.sudwestfryslan.nl
 intranet-stats.bernheze.org
+intranet-stats.gulpen-wittem.nl
 intranet-test.nissewaard.nl
 intranet.aalten.nl
 intranet.albrandswaard.nl
@@ -12092,6 +12093,7 @@ testcms-intranet.eemsdelta.nl
 testcms-intranet.midden-groningen.nl
 testcms-jip.hofvantwente.nl
 testcms-markt1.nunspeet.nl
+testcorsa.gulpen-wittem.nl
 testdigid.arnhem.nl
 testdigid.denhaag.nl
 testdigikoppeling.haarlemmermeer.nl

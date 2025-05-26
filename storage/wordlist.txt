@@ -818,6 +818,7 @@ aovpn
 data.gemnet
 testberichten
 helloid
+intranet-stats
 joost
 wwwtest
 acc-openwave
@@ -1904,7 +1905,6 @@ xencor
 xencort
 gymzaalhuren
 intranet-cms
-intranet-stats
 myexports
 quarantine
 voip
@@ -3458,6 +3458,7 @@ mymeeting-ris
 mymeeting20
 streetsmart
 test-2secure
+testcorsa
 tjooner
 warp
 mail.mailing

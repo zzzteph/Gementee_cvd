@@ -33,6 +33,7 @@ gwmor008.gulpen-wittem.nl
 gwmor009.gulpen-wittem.nl
 gwmwb012.gulpen-wittem.nl
 hybrid.gulpen-wittem.nl
+intranet-stats.gulpen-wittem.nl
 intranet.gulpen-wittem.nl
 intranet2.gulpen-wittem.nl
 mail.gulpen-wittem.nl
@@ -52,6 +53,7 @@ suite4burgerzaken-test.gulpen-wittem.nl
 test-2secure.gulpen-wittem.nl
 test-digikoppeling.gulpen-wittem.nl
 test.gulpen-wittem.nl
+testcorsa.gulpen-wittem.nl
 tjooner.gulpen-wittem.nl
 validsign.gulpen-wittem.nl
 warp.gulpen-wittem.nl

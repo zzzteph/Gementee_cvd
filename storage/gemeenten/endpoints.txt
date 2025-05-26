@@ -4155,6 +4155,7 @@ https://intranet-acc.wijdemeren.nl
 https://intranet-cms.bernheze.org
 https://intranet-ot.tilburg.nl
 https://intranet-stats.bernheze.org
+https://intranet-stats.gulpen-wittem.nl
 https://intranet-test.nissewaard.nl
 https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
@@ -4171,6 +4172,7 @@ https://intranet.gemeenteberkelland.nl
 https://intranet.gemeentesluis.nl
 https://intranet.gemeentestein.nl
 https://intranet.groningen.nl
+https://intranet.gulpen-wittem.nl
 https://intranet.hardenberg.nl
 https://intranet.heusden.nl
 https://intranet.heuvelrug.nl
