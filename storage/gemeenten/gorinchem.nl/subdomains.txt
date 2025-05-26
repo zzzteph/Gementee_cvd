@@ -34,6 +34,7 @@ obsurv.gorinchem.nl
 open.gorinchem.nl
 powerbrowser-esb.gorinchem.nl
 powerbrowsertest-esb.gorinchem.nl
+powerbrowsertest.gorinchem.nl
 preproductie.gorinchem.nl
 remote.gorinchem.nl
 ruimtelijkeplannen.gorinchem.nl
