@@ -21,6 +21,7 @@ omgevingsvisie.gouda.nl
 open.gouda.nl
 openpdc.gouda.nl
 openpub.gouda.nl
+portaal.gouda.nl
 preprod-mijninkomen.gouda.nl
 preprod-mijnportaal.gouda.nl
 publiek-id-test.gouda.nl

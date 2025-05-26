@@ -92,12 +92,12 @@ belastingloket
 mks
 dtestloket
 _autodiscover._tcp
+portaal
 osbacc
 siam
 financien
 pki
 test-cmsintranet
-portaal
 extranet
 govroam
 samen

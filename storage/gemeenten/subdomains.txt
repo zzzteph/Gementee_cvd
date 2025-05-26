@@ -9627,6 +9627,7 @@ portaal.almelo.nl
 portaal.dijkenwaard.nl
 portaal.dronten.nl
 portaal.gemeentehulst.nl
+portaal.gouda.nl
 portaal.haarlem.nl
 portaal.iam.groningen.nl
 portaal.leeuwarden.nl
