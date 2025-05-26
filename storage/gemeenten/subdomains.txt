@@ -5469,13 +5469,8 @@ ggk-koppeling.vlissingen.nl
 ggk-pki.sudwestfryslan.nl
 ggk.brunssum.nl
 ggk.oostgelre.nl
-gglvclbp001.groningen.ad.groningen.nl
-gglvtwp001.groningen.ad.groningen.nl
 ggs2-adapter.montferland.info
 ggv-micol1.gorinchem.nl
-ggwviccp001.groningen.ad.groningen.nl
-ggwvivrp001.groningen.ad.groningen.nl
-ggwvrimp001.groningen.ad.groningen.nl
 ghtsv2-017.gemeentehulst.nl
 ghtsv2-092.gemeentehulst.nl
 ghtsv2-093.gemeentehulst.nl
@@ -8734,6 +8729,7 @@ objecttypen.enschede.nl
 objecttypen.gemeente-oldambt.nl
 objecttypen.gemeentemaashorst.nl
 objecttypen.gemert-bakel.nl
+objecttypen.groningen.nl
 objecttypen.laarbeek.nl
 objecttypen.oldenzaal.nl
 objecttypen.oostgelre.nl
@@ -9556,7 +9552,6 @@ pkioverheid.woensdrecht.nl
 pkoppelcorsa.kerkrade.nl
 pkoppelcorsa.landgraaf.nl
 pl.gemeentewestland.nl
-planboard.groningen.ad.groningen.nl
 plannen.asten.nl
 plannen.groningen.nl
 plannen.horstaandemaas.nl
@@ -9604,6 +9599,7 @@ podiumd-logs.enschede.nl
 podiumd-logs.gemeente-oldambt.nl
 podiumd-logs.gemeentemaashorst.nl
 podiumd-logs.gemert-bakel.nl
+podiumd-logs.groningen.nl
 podiumd-logs.laarbeek.nl
 podiumd-logs.oldenzaal.nl
 podiumd-logs.oostgelre.nl
@@ -13814,7 +13810,6 @@ www.geowebtest.haarlemmermeer.nl
 www.geuzenstatenkwartierfietst.denhaag.nl
 www.gezondleven.utrecht.nl
 www.ggd.groningen.nl
-www.gglvclbp001.groningen.ad.groningen.nl
 www.ghtsv2-092.gemeentehulst.nl
 www.ghtsv2-093.gemeentehulst.nl
 www.ghtsv2-094.gemeentehulst.nl
@@ -14181,7 +14176,6 @@ www.pip-test.emmen.nl
 www.piwik.echt-susteren.nl
 www.piwik.oostgelre.nl
 www.piwik.roosendaal.nl
-www.planboard.groningen.ad.groningen.nl
 www.plannen.groningen.nl
 www.platform.culemborg.nl
 www.portaal.overbetuwe.nl

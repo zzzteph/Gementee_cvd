@@ -371,6 +371,7 @@ http://inway.cg-intern.utrecht.nl
 http://isis.rotterdam.nl
 http://jbt.dev.denhaag.nl
 http://jbt.test.denhaag.nl
+http://kennisbank.groningen.nl
 http://kerkrade.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
@@ -443,6 +444,7 @@ http://owa.utrecht.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
+http://ows-dmnsapi.groningen.nl
 http://ows-websrvc-test.groningen.nl
 http://p8-test.zwolle.nl
 http://p8.zwolle.nl
@@ -560,6 +562,8 @@ http://stadsarchief.rotterdam.nl
 http://stadspas.weert.nl
 http://staphorst.nl
 http://status-paginas-zgw.test.denhaag.nl
+http://stemvan.groningen.nl
+http://stoepvrij.groningen.nl
 http://storing.acc.denhaag.nl
 http://taxiportaal.amsterdam.nl
 http://teamurenplanninggezondheidmilieu.rotterdam.nl
@@ -619,9 +623,11 @@ http://welkom.ede.nl
 http://werkenbij.weststellingwerf.nl
 http://werkenvoor.denhaag.nl
 http://westerkwartier.nl
+http://westerwolde.groningen.nl
 http://wij.bergen-nh.nl
 http://wijkbudgetleidschenveen.denhaag.nl
 http://wijkbudgetypenburg.denhaag.nl
+http://wijsamen.groningen.nl
 http://wion.gemeentestein.nl
 http://wob.arnhem.nl
 http://woo.denhaag.nl
@@ -636,10 +642,12 @@ http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.denkmee.woerden.nl
+http://www.destemvan.groningen.nl
 http://www.deurne.nl
 http://www.doemee.gemeentebest.nl
 http://www.doemee.leiden.nl
 http://www.eersel.nl
+http://www.gemeenteraad.groningen.nl
 http://www.gogo.denhaag.nl
 http://www.heerlen.nl
 http://www.houtwijkbegroot.denhaag.nl
@@ -652,10 +660,14 @@ http://www.lingewaard.nl
 http://www.lopik.nl
 http://www.maassluis.nl
 http://www.middendelfland.nl
+http://www.mijn.groningen.nl
+http://www.milieudienst.groningen.nl
 http://www.mookenmiddelaar.nl
 http://www.ndbu-acc.utrecht.nl
+http://www.nde.groningen.nl
 http://www.nieuwkoop.nl
 http://www.ondernemersportaal.denhaag.nl
+http://www.onderzoek.groningen.nl
 http://www.onlinestadsgesprek.harderwijk.nl
 http://www.ooststellingwerf.nl
 http://www.operatiebomenbuurt.denhaag.nl
@@ -673,20 +685,24 @@ http://www.samen.enkhuizen.nl
 http://www.samen.medemblik.nl
 http://www.samen.schagen.nl
 http://www.scheveningen.denhaag.nl
+http://www.sinterklaas.groningen.nl
 http://www.sip.hellevoetsluis.nl
 http://www.socialekaart.duiven.nl
 http://www.stadskrant.denhaag.nl
 http://www.stadspas.apeldoorn.nl
 http://www.stadspas.venlo.nl
+http://www.suikerkwartier.groningen.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.urk.nl
 http://www.valkenswaard.nl
+http://www.veenkolonien.groningen.nl
 http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.zaanstad.nl
 http://www.wierden.nl
+http://www.wij.groningen.nl
 http://www.woensdrecht.nl
 http://www.woz-portaal-eemnes.baarn.nl
 http://www.woz-portaal.baarn.nl
@@ -4382,7 +4398,6 @@ https://kei.deventer.nl
 https://kenneth.delft.nl
 https://kennisbank.barneveld.nl
 https://kennisbank.eindhoven.nl
-https://kennisbank.groningen.nl
 https://kennisbank.nijmegen.nl
 https://kennisbank.wijdemeren.nl
 https://kenniscentrum-werven.utrecht.nl
@@ -5311,6 +5326,7 @@ https://objecttypen.enschede.nl
 https://objecttypen.gemeente-oldambt.nl
 https://objecttypen.gemeentemaashorst.nl
 https://objecttypen.gemert-bakel.nl
+https://objecttypen.groningen.nl
 https://objecttypen.laarbeek.nl
 https://objecttypen.oldenzaal.nl
 https://objecttypen.oostgelre.nl
@@ -5657,7 +5673,6 @@ https://owa.veere.nl
 https://owas.wijdemeren.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
-https://ows-dmnsapi.groningen.nl
 https://ows-emssapi-test.groningen.nl
 https://ows-emssapi.groningen.nl
 https://ows-websrvc.groningen.nl
@@ -5827,6 +5842,7 @@ https://podiumd-logs.enschede.nl
 https://podiumd-logs.gemeente-oldambt.nl
 https://podiumd-logs.gemeentemaashorst.nl
 https://podiumd-logs.gemert-bakel.nl
+https://podiumd-logs.groningen.nl
 https://podiumd-logs.laarbeek.nl
 https://podiumd-logs.oldenzaal.nl
 https://podiumd-logs.oostgelre.nl
@@ -6311,7 +6327,6 @@ https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
 https://samenveiligwerken.alphenaandenrijn.nl
 https://samenveiligwerken.kaagenbraassem.nl
-https://samenwerken.groningen.nl
 https://samenwerkenaan.heerde.nl
 https://samenwerking.tilburg.nl
 https://samenwerkingbelastingen.middelburg.nl
@@ -6640,13 +6655,11 @@ https://status.landvancuijk.nl
 https://stedebroec.nl
 https://steenwijkerland.nl
 https://stembureaus.utrecht.nl
-https://stemvan.groningen.nl
 https://stemvan.midden-groningen.nl
 https://stemvan.opsterland.nl
 https://stemvan.wageningen.nl
 https://stevensbeek.landvancuijk.nl
 https://stichtsevecht.nl
-https://stoepvrij.groningen.nl
 https://strand.hoorn.nl
 https://streaming.landvancuijk.nl
 https://stroomlijntest.derondevenen.nl
@@ -6740,7 +6753,6 @@ https://subsidies.nijmegen.nl
 https://subsidies.oosterhout.nl
 https://subsites.leiden.nl
 https://sudwestfryslan.nl
-https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
 https://suppliers.tilburg.nl
 https://support.bergen-nh.nl
@@ -6782,7 +6794,6 @@ https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
-https://test-cmsintranet.groningen.nl
 https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.steenwijkerland.nl
@@ -6812,7 +6823,6 @@ https://test-formulier.zwolle.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-intranet.gemeentestein.nl
-https://test-intranet.groningen.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.sudwestfryslan.nl
@@ -7067,7 +7077,6 @@ https://tstidentity.sudwestfryslan.nl
 https://tsuyt.waddinxveen.nl
 https://ttgbav-prod.gemeente-steenbergen.nl
 https://tubbergen.nl
-https://tuinen.groningen.nl
 https://tussenrapportage.gemeente-steenbergen.nl
 https://tv.gemeentebest.nl
 https://tve-acc.brummen.nl
@@ -7508,7 +7517,6 @@ https://westerkwartier.groningen.nl
 https://westervoort-checker-preprod.westervoort.nl
 https://westervoort-checker.westervoort.nl
 https://westervoort.nl
-https://westerwolde.groningen.nl
 https://westerwolde.nl
 https://westmaasenwaal.nl
 https://weststellingwerf.nl
@@ -7520,7 +7528,6 @@ https://wie.meppel.nl
 https://wierden.nl
 https://wifiguestportal.almere.nl
 https://wij.deventer.nl
-https://wij.groningen.nl
 https://wij.purmerend.nl
 https://wijchen.nl
 https://wijdemeren.hilversum.nl
@@ -7537,7 +7544,6 @@ https://wijkmanagement.zaanstad.nl
 https://wijkteam.schagen.nl
 https://wijkteams.almere.nl
 https://wijkvernieuwing.groningen.nl
-https://wijsamen.groningen.nl
 https://wijzer-acc.opmeer.nl
 https://wijzer.opmeer.nl
 https://wilbertoord.landvancuijk.nl
@@ -7725,7 +7731,6 @@ https://www.denhaag.nl
 https://www.denhaagfietst-acc.denhaag.nl
 https://www.denhelder.nl
 https://www.derondevenen.nl
-https://www.destemvan.groningen.nl
 https://www.deventer.nl
 https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
@@ -7761,7 +7766,6 @@ https://www.economie.groningen.nl
 https://www.edam-volendam.nl
 https://www.ede.nl
 https://www.eemnes.nl
-https://www.eemsdelta.groningen.nl
 https://www.eemsdelta.nl
 https://www.eformulieren.gemeentesluis.nl
 https://www.eijsden-margraten.nl
@@ -7792,7 +7796,6 @@ https://www.gelukkignieuwjaar.zwolle.nl
 https://www.gemeente-oldambt.nl
 https://www.gemeente-steenbergen.nl
 https://www.gemeente.emmen.nl
-https://www.gemeente.groningen.nl
 https://www.gemeentebeek.nl
 https://www.gemeenteberkelland.nl
 https://www.gemeentebest.nl
@@ -7804,7 +7807,6 @@ https://www.gemeentemaastricht.nl
 https://www.gemeentenoordenveld.nl
 https://www.gemeenteraad.bloemendaal.nl
 https://www.gemeenteraad.etten-leur.nl
-https://www.gemeenteraad.groningen.nl
 https://www.gemeenteraad.vught.nl
 https://www.gemeenteraad.westbetuwe.nl
 https://www.gemeentesluis.nl
@@ -7827,7 +7829,6 @@ https://www.gooisemeren.nl
 https://www.gorinchem.nl
 https://www.gouda.nl
 https://www.groenervijfhuizen.haarlemmermeer.nl
-https://www.groningen.nl
 https://www.gulpen-wittem.nl
 https://www.haaksbergen.nl
 https://www.haarlem.nl
@@ -7917,13 +7918,11 @@ https://www.middelburg.nl
 https://www.midden-groningen.nl
 https://www.middendrenthe.nl
 https://www.mijn.arnhem.nl
-https://www.mijn.groningen.nl
 https://www.mijn.heuvelrug.nl
 https://www.mijngkb.midden-groningen.nl
 https://www.mijnkijkop.olst-wijhe.nl
 https://www.mijnleefomgeving.olst-wijhe.nl
 https://www.mijnuitkering.emmen.nl
-https://www.milieudienst.groningen.nl
 https://www.mis.waterland.nl
 https://www.moerdijk.nl
 https://www.molenlanden.nl
@@ -7932,7 +7931,6 @@ https://www.montfoort.nl
 https://www.morgen.venlo.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
-https://www.nde.groningen.nl
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
@@ -7964,7 +7962,6 @@ https://www.ondernemen.ede.nl
 https://www.ondernemen.venlo.nl
 https://www.ondersteuning.olst-wijhe.nl
 https://www.onderwijssubsidies.amsterdam.nl
-https://www.onderzoek.groningen.nl
 https://www.onsovermorgen.zwolle.nl
 https://www.onzestad.nijmegen.nl
 https://www.oorlogenvrede.landvancuijk.nl
@@ -7988,7 +7985,6 @@ https://www.peelenmaas.nl
 https://www.pekela.nl
 https://www.pijnacker-nootdorp.nl
 https://www.platform.culemborg.nl
-https://www.portal.groningen.nl
 https://www.portal.olst-wijhe.nl
 https://www.positionering.denhaag.nl
 https://www.praatmee.alblasserdam.nl
@@ -8029,7 +8025,6 @@ https://www.schouwen-duiveland.nl
 https://www.shops.landvancuijk.nl
 https://www.simpelveld.nl
 https://www.sint-michielsgestel.nl
-https://www.sinterklaas.groningen.nl
 https://www.sittard-geleen.nl
 https://www.sliedrecht.nl
 https://www.smallingerland.nl
@@ -8045,7 +8040,6 @@ https://www.sportloket.landvancuijk.nl
 https://www.stad.kampen.nl
 https://www.stadsarchief.breda.nl
 https://www.stadsbroekenijsselvizier.zwolle.nl
-https://www.stadshavens.groningen.nl
 https://www.stadskanaal.nl
 https://www.stadskrant-acc.denhaag.nl
 https://www.staging.deventer.nl
@@ -8054,11 +8048,9 @@ https://www.staphorst.nl
 https://www.stationsdistrict.nijmegen.nl
 https://www.stedebroec.nl
 https://www.steenwijkerland.nl
-https://www.stemvan.groningen.nl
 https://www.stemvan.opsterland.nl
 https://www.stichtsevecht.nl
 https://www.sudwestfryslan.nl
-https://www.suikerkwartier.groningen.nl
 https://www.terneuzen.nl
 https://www.terschelling.nl
 https://www.test.denhaag.nl
@@ -8088,7 +8080,6 @@ https://www.vastgoed.venlo.nl
 https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl
 https://www.veenendaal.nl
-https://www.veenkolonien.groningen.nl
 https://www.veldhoven.nl
 https://www.velsen.nl
 https://www.venlo.nl
@@ -8124,14 +8115,12 @@ https://www.werkenbij.hoorn.nl
 https://www.werkenvoor.olst-wijhe.nl
 https://www.werkpakt.enschede.nl
 https://www.westbetuwe.nl
-https://www.westerkwartier.groningen.nl
 https://www.westerkwartier.nl
 https://www.westervoort.nl
 https://www.westerwolde.groningen.nl
 https://www.westerwolde.nl
 https://www.weststellingwerf.nl
 https://www.westvoorne.nl
-https://www.wij.groningen.nl
 https://www.wijchen.nl
 https://www.wijdemeren.nl
 https://www.wijkbijduurstede.nl

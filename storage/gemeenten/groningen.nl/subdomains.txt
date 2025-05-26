@@ -115,11 +115,6 @@ ggd.groningen.nl
 ggexo.groningen.nl
 ggexoopsrv1.groningen.nl
 ggexoopsrv2.groningen.nl
-gglvclbp001.groningen.ad.groningen.nl
-gglvtwp001.groningen.ad.groningen.nl
-ggwviccp001.groningen.ad.groningen.nl
-ggwvivrp001.groningen.ad.groningen.nl
-ggwvrimp001.groningen.ad.groningen.nl
 gkb.groningen.nl
 govroam.groningen.nl
 grnlm035.groningen.nl
@@ -187,6 +182,7 @@ mx1.groningen.nl
 mx2.groningen.nl
 myprint.groningen.nl
 notificaties.groningen.nl
+objecttypen.groningen.nl
 oldambt.groningen.nl
 onderzoek.groningen.nl
 oogst.groningen.nl
@@ -211,8 +207,8 @@ ows-websrvc.groningen.nl
 ows.groningen.nl
 partner.stadjerspas.gemeente.groningen.nl
 passion.groningen.nl
-planboard.groningen.ad.groningen.nl
 plannen.groningen.nl
+podiumd-logs.groningen.nl
 portaal.iam.groningen.nl
 portal.groningen.nl
 pre-ows-ahp-test.groningen.nl
@@ -336,7 +332,6 @@ www.gemeente.groningen.nl
 www.gemeenteraad.groningen.nl
 www.genieten.groningen.nl
 www.ggd.groningen.nl
-www.gglvclbp001.groningen.ad.groningen.nl
 www.gkb.groningen.nl
 www.govroam.groningen.nl
 www.grnlm035.groningen.nl
@@ -365,7 +360,6 @@ www.oogst.groningen.nl
 www.ows-test.groningen.nl
 www.ows.groningen.nl
 www.passion.groningen.nl
-www.planboard.groningen.ad.groningen.nl
 www.plannen.groningen.nl
 www.portal.groningen.nl
 www.ruimtevoorjou.groningen.nl

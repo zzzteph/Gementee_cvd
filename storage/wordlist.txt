@@ -107,6 +107,7 @@ duurzaam
 acc-formulier
 acc-podiumd-logs
 bgt
+podiumd-logs
 sts
 simcms-open
 www.webmail
@@ -129,9 +130,9 @@ acc-objecten
 acc-objecttypen
 bastion365
 contact
+objecttypen
 openklant
 openzaak
-podiumd-logs
 obsurv
 gemeente
 contentbeheer
@@ -147,7 +148,6 @@ acc-openzaak
 keycloak
 notificaties
 objecten
-objecttypen
 sip
 micollab
 inloggen
@@ -3228,11 +3228,6 @@ genieten
 ggexo
 ggexoopsrv1
 ggexoopsrv2
-gglvclbp001.groningen.ad
-gglvtwp001.groningen.ad
-ggwviccp001.groningen.ad
-ggwvivrp001.groningen.ad
-ggwvrimp001.groningen.ad
 gkb
 grnlm035
 grnlm036
@@ -3291,7 +3286,6 @@ ows-websrvc
 ows
 partner.stadjerspas.gemeente
 passion
-planboard.groningen.ad
 portaal.iam
 pre-ows-ahp-test
 pre-ows-ahp
@@ -3390,7 +3384,6 @@ www.fietsen
 www.game
 www.genieten
 www.ggd
-www.gglvclbp001.groningen.ad
 www.gkb
 www.grnlm035
 www.grnwi520
@@ -3416,7 +3409,6 @@ www.oogst
 www.ows-test
 www.ows
 www.passion
-www.planboard.groningen.ad
 www.plannen
 www.ruimtevoorjou
 www.samenwij
