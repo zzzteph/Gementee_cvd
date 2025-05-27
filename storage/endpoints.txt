@@ -347,6 +347,7 @@ http://geuzenstatenkwartierfietst.denhaag.nl
 http://gitops.test.denhaag.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://healthyurbanliving.utrecht.nl
+http://heerlen.nl
 http://helloid.sittard-geleen.nl
 http://historie.venlo.nl
 http://hor.denhaag.nl
@@ -405,7 +406,6 @@ http://mijn.bronckhorst.nl
 http://mijn.houten.nl
 http://mijngeldzaken.denhaag.nl
 http://mijnwerkplek.schagen.nl
-http://mijnzaken.heerlen.nl
 http://mlo-ws.acc.rotterdam.nl
 http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
@@ -499,7 +499,6 @@ http://sem.kampen.nl
 http://sherlock.tst.amsterdam.nl
 http://simcms-armoedepact.westerkwartier.nl
 http://simcms-begraafplaatsduinrust.beverwijk.nl
-http://simcms-centrum.heerlen.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-cjg.scherpenzeel.nl
 http://simcms-energiek.beuningen.nl
@@ -511,7 +510,6 @@ http://simcms-open.halderberge.nl
 http://simcms-open.staphorst.nl
 http://simcms-preproductie.kerkrade.nl
 http://simcms-raad.zoetermeer.nl
-http://simcms-samenindebuurt.heerlen.nl
 http://simcms.bronckhorst.nl
 http://simcms.doetinchem.nl
 http://simcms.halderberge.nl
@@ -532,6 +530,7 @@ http://simform-preproductie.heerenveen.nl
 http://simform-preproductie.t-diel.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
+http://simform.heerlen.nl
 http://simform.rijswijk.nl
 http://simform.voorschoten.nl
 http://simsite.bergen.nl
@@ -650,7 +649,6 @@ http://www.doemee.leiden.nl
 http://www.eersel.nl
 http://www.gemeenteraad.groningen.nl
 http://www.gogo.denhaag.nl
-http://www.heerlen.nl
 http://www.houtwijkbegroot.denhaag.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
@@ -2156,7 +2154,6 @@ https://catalogus.dataplatform.accp.s-hertogenbosch.nl
 https://catalogus.dataplatform.s-hertogenbosch.nl
 https://cdn.oude-ijsselstreek.nl
 https://cdn1.tilburg.nl
-https://centrum.heerlen.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://checklist.rotterdam.nl
 https://cicd010.rotterdam.nl
@@ -4028,6 +4025,7 @@ https://ibzpink.hattem.nl
 https://ibzpink.heemskerk.nl
 https://ibzpink.heemstede.nl
 https://ibzpink.heerde.nl
+https://ibzpink.heerlen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5126,9 +5124,9 @@ https://mijnwoonomgeving.deventer.nl
 https://mijnzaken-test.hengelo.nl
 https://mijnzaken.derondevenen.nl
 https://mijnzaken.halderberge.nl
+https://mijnzaken.heerlen.nl
 https://mijnzaken.hengelo.nl
 https://mijnzaken.schagen.nl
-https://mijnzakentest.heerlen.nl
 https://mijnzi.beuningen.nl
 https://mijnzorg-acc.aalsmeer.nl
 https://mijnzorg-acc.alkmaar.nl
@@ -6333,7 +6331,6 @@ https://samen.schagen.nl
 https://samen.stedebroec.nl
 https://samenatwork.stichtsevecht.nl
 https://samenduurzaam.geldrop-mierlo.nl
-https://samenindebuurt.heerlen.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
@@ -6440,6 +6437,7 @@ https://simcms-open.wierden.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-preproductie.bladel.nl
+https://simcms-samenindebuurt.heerlen.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms.baarn.nl
@@ -7217,7 +7215,6 @@ https://verhuursport.soest.nl
 https://verkiezingen.dalfsen.nl
 https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
-https://verkiezingen.heerlen.nl
 https://verkiezingen.sudwestfryslan.nl
 https://verslag.ouder-amstel.nl
 https://versterkenenvernieuwen.groningen.nl
