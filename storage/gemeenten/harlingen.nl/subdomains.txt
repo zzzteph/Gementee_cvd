@@ -1,4 +1,5 @@
 acc.woz-loket.harlingen.nl
+autodiscover.harlingen.nl
 cryptshare.harlingen.nl
 digid.harlingen.nl
 edienstenburgerzaken-test.harlingen.nl

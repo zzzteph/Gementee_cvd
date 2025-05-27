@@ -108,6 +108,7 @@ http://autodiscover.haaksbergen.nl
 http://autodiscover.haarlemmermeer.nl
 http://autodiscover.hardenberg.nl
 http://autodiscover.hardinxveld-giessendam.nl
+http://autodiscover.harlingen.nl
 http://autodiscover.hattem.nl
 http://autodiscover.heemskerk.nl
 http://autodiscover.heemstede.nl
@@ -6446,7 +6447,6 @@ https://simcms.echt-susteren.nl
 https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
-https://simcms.harlingen.nl
 https://simcms.heeze-leende.nl
 https://simcms.heumen.nl
 https://simcms.koggenland.nl
@@ -7843,6 +7843,7 @@ https://www.haarlemmermeer.nl
 https://www.hardenberg.nl
 https://www.harderwijk.nl
 https://www.hardinxveld-giessendam.nl
+https://www.harlingen.nl
 https://www.hattem.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.heemskerk.nl

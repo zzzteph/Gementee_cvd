@@ -1636,6 +1636,7 @@ autodiscover.haarlemmermeer.nl
 autodiscover.hap.haarlemmermeer.nl
 autodiscover.hardenberg.nl
 autodiscover.hardinxveld-giessendam.nl
+autodiscover.harlingen.nl
 autodiscover.hattem.nl
 autodiscover.heemskerk.nl
 autodiscover.heemstede.nl
