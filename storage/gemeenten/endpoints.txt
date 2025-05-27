@@ -536,6 +536,7 @@ http://simform.voorschoten.nl
 http://simsite.bergen.nl
 http://simsite.bladel.nl
 http://simsite.bunschoten.nl
+http://simsite.heeze-leende.nl
 http://simsite.landgraaf.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
@@ -649,6 +650,7 @@ http://www.doemee.leiden.nl
 http://www.eersel.nl
 http://www.gemeenteraad.groningen.nl
 http://www.gogo.denhaag.nl
+http://www.heeze-leende.nl
 http://www.houtwijkbegroot.denhaag.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
@@ -3198,7 +3200,6 @@ https://felix.eersel.nl
 https://felix.halderberge.nl
 https://felix.harlingen.nl
 https://felix.heerlen.nl
-https://felix.heeze-leende.nl
 https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
 https://felix.koggenland.nl
@@ -4026,6 +4027,7 @@ https://ibzpink.heemskerk.nl
 https://ibzpink.heemstede.nl
 https://ibzpink.heerde.nl
 https://ibzpink.heerlen.nl
+https://ibzpink.heeze-leende.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -7852,7 +7854,6 @@ https://www.heemskerk.nl
 https://www.heemstede.nl
 https://www.heerde.nl
 https://www.heerenveen.nl
-https://www.heeze-leende.nl
 https://www.heiloo.nl
 https://www.heitje.heerlen.nl
 https://www.hellendoorn.nl
