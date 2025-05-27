@@ -4,6 +4,7 @@ https://api.meldingen.heerde.nl
 https://belastingloket.heerde.nl
 https://heerde.nl
 https://iburgerzaken.heerde.nl
+https://ibzpink.heerde.nl
 https://internetafspraken.heerde.nl
 https://loket.heerde.nl
 https://meldingen-acc.heerde.nl
