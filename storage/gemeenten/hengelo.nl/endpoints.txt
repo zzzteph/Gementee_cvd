@@ -4,6 +4,7 @@ https://aanmelden.hengelo.nl
 https://api.meldingen.hengelo.nl
 https://archief.hengelo.nl
 https://begroting.hengelo.nl
+https://edienstenpubliekszaken-test.hengelo.nl
 https://eloket.hengelo.nl
 https://extranet.hengelo.nl
 https://financien.hengelo.nl

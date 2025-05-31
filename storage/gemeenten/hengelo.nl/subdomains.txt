@@ -5,6 +5,8 @@ autodiscover.hengelo.nl
 begroting.hengelo.nl
 bestanden.hengelo.nl
 bor.hengelo.nl
+edienstenpubliekszaken-test.hengelo.nl
+edienstenpubliekszaken.hengelo.nl
 eloket.hengelo.nl
 es.hengelo.nl
 extranet.hengelo.nl
