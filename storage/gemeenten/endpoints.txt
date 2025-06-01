@@ -268,7 +268,6 @@ http://capelleaandenijssel.nl
 http://cardaccess.acc.intra.amsterdam.nl
 http://centrumbegroot.amsterdam.nl
 http://centrumimpuls.geldrop-mierlo.nl
-http://cms-extranet.hethogeland.nl
 http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
@@ -572,6 +571,7 @@ http://terschelling.nl
 http://test-bink.beverwijk.nl
 http://test-binnenshuis.bergen.nl
 http://test-cmsdok.dronten.nl
+http://test-cmsextranet.hethogeland.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.etten-leur.nl
@@ -2188,6 +2188,7 @@ https://cloudadapter-test.zutphen.nl
 https://cloudadapter.meppel.nl
 https://cloudrecorder.denhaag.nl
 https://cms-binnenshuis.bergen.nl
+https://cms-extranet.hethogeland.nl
 https://cms-insite.nijmegen.nl
 https://cms-internoss.oss.nl
 https://cms-internoss.test.oss.nl
@@ -4031,6 +4032,7 @@ https://ibzpink.heerlen.nl
 https://ibzpink.heeze-leende.nl
 https://ibzpink.hellevoetsluis.nl
 https://ibzpink.helmond.nl
+https://ibzpink.hethogeland.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6804,7 +6806,6 @@ https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
-https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
