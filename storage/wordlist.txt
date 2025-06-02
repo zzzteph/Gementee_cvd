@@ -38,14 +38,14 @@ adfs
 vpn
 betalen
 broker
+iparticipatie
 ruimtelijkeplannen
+test-ipa
 zaaksysteem-accept
 gemeenteraad
 enterpriseenrollment
 testeloket
-iparticipatie
 pv
-test-ipa
 belastingen
 werkenbij
 dacceptatieloket

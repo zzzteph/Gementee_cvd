@@ -9,6 +9,7 @@ heumen.nl
 iburgerzaken.heumen.nl
 ibzpink.heumen.nl
 intranet.heumen.nl
+iparticipatie.heumen.nl
 jongin.heumen.nl
 pki.heumen.nl
 preproductie.heumen.nl
@@ -16,6 +17,7 @@ probeer.heumen.nl
 secure.heumen.nl
 simcms.heumen.nl
 simsite.heumen.nl
+test-ipa.heumen.nl
 testeloket.heumen.nl
 www.heumen.nl
 www.jongin.heumen.nl

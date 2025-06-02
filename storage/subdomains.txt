@@ -6691,6 +6691,7 @@ iparticipatie.emmen.nl
 iparticipatie.haarlemmermeer.nl
 iparticipatie.hattem.nl
 iparticipatie.heerde.nl
+iparticipatie.heumen.nl
 iparticipatie.hollandskroon.nl
 iparticipatie.huizen.nl
 iparticipatie.katwijk.nl
@@ -11879,6 +11880,7 @@ test-ipa.gennep.nl
 test-ipa.haarlemmermeer.nl
 test-ipa.hattem.nl
 test-ipa.heerde.nl
+test-ipa.heumen.nl
 test-ipa.hollandskroon.nl
 test-ipa.huizen.nl
 test-ipa.katwijk.nl
