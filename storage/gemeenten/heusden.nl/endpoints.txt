@@ -2,6 +2,7 @@ http://autodiscover.heusden.nl
 https://bastion365.heusden.nl
 https://heusden.nl
 https://iburgerzaken.heusden.nl
+https://ibzpink.heusden.nl
 https://intranet.heusden.nl
 https://mijn.heusden.nl
 https://oefen.heusden.nl
