@@ -4038,6 +4038,7 @@ https://ibzpink.heumen.nl
 https://ibzpink.heusden.nl
 https://ibzpink.heuvelrug.nl
 https://ibzpink.hilvarenbeek.nl
+https://ibzpink.hilversum.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -8304,6 +8305,7 @@ https://zorgzaam.soest.nl
 https://zs-accept.zeist.nl
 https://zs.noordoostpolder.nl
 https://zsaccept.heusden.nl
+https://zsnl-acceptatie.hilversum.nl
 https://zst.noordoostpolder.nl
 https://zuiderbad.amsterdam.nl
 https://zuil.gemeentehw.nl
