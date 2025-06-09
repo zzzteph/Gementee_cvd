@@ -8,6 +8,7 @@ https://gemeenteraad.hollandskroon.nl
 https://geodata.hollandskroon.nl
 https://hollandskroon.nl
 https://iburgerzaken.hollandskroon.nl
+https://ibzpink.hollandskroon.nl
 https://idselect.hollandskroon.nl
 https://idselectprd.hollandskroon.nl
 https://meedoen.hollandskroon.nl
