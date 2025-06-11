@@ -1,4 +1,5 @@
 http://autodiscover.hoorn.nl
+https://1.hoorn.nl
 https://api.design.hoorn.nl
 https://begroting2018.hoorn.nl
 https://belastingbalie.hoorn.nl
