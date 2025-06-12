@@ -11,6 +11,7 @@ ibzpink.horstaandemaas.nl
 lvs.horstaandemaas.nl
 magazines.horstaandemaas.nl
 mfawerkplek.horstaandemaas.nl
+my-lex.horstaandemaas.nl
 open-formulieren-test.horstaandemaas.nl
 open-formulieren.horstaandemaas.nl
 plannen.horstaandemaas.nl

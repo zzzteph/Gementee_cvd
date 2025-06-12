@@ -4042,6 +4042,7 @@ https://ibzpink.hilvarenbeek.nl
 https://ibzpink.hilversum.nl
 https://ibzpink.hollandskroon.nl
 https://ibzpink.hoogeveen.nl
+https://ibzpink.horstaandemaas.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4890,7 +4891,6 @@ https://meppel.nl
 https://merk-acc.denhaag.nl
 https://mfa-rooster.arnhem.nl
 https://mfa.eijsden-margraten.nl
-https://mfawerkplek.horstaandemaas.nl
 https://mfawerkplek.venray.nl
 https://mform.meerssen.nl
 https://mh-vwes21.westerwolde.nl
@@ -5234,6 +5234,7 @@ https://mta-sts.zevenaar.nl
 https://museumcollecties.roermond.nl
 https://mx.oss.nl
 https://mx01.haarlem.nl
+https://my-lex.horstaandemaas.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mylex.gemeentesluis.nl
