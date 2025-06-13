@@ -27,6 +27,5 @@ sslvpn.houten.nl
 topdesk.houten.nl
 ucweb01-ext.houten.nl
 veilig.houten.nl
-videodocs.houten.nl
 wachtwoord.houten.nl
 www.houten.nl

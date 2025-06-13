@@ -12622,7 +12622,6 @@ video.landvancuijk.nl
 videoafspraak.rotterdam.nl
 videobellen.utrecht.nl
 videobellenwsd.utrecht.nl
-videodocs.houten.nl
 videogesprek.haarlem.nl
 vierdaagse.landvancuijk.nl
 vierlingsbeek.landvancuijk.nl
