@@ -22,6 +22,7 @@ http://acc.schoolwijzer.amsterdam.nl
 http://acceptatie-vaarvergunningen.amsterdam.nl
 http://activiteiten.amsterdam.nl
 http://afspraak.bergendal.nl
+http://afspraken.huizen.nl
 http://afspraken.rijssen-holten.nl
 http://ami-acc.amsterdam.nl
 http://amsterdam.nl
@@ -1239,7 +1240,6 @@ https://afspraken.goes.nl
 https://afspraken.goirle.nl
 https://afspraken.harderwijk.nl
 https://afspraken.hellevoetsluis.nl
-https://afspraken.huizen.nl
 https://afspraken.kampen.nl
 https://afspraken.kapelle.nl
 https://afspraken.landsmeer.nl
@@ -3787,7 +3787,6 @@ https://huisstijl.tilburg.nl
 https://huisstijl.utrecht.nl
 https://huisstijl.zaanstad.nl
 https://huisvuilkalender.denhaag.nl
-https://huizen.nl
 https://hulpwijzer.hattem.nl
 https://hulpwijzer.venray.nl
 https://huursportzaal.kampen.nl
@@ -4043,6 +4042,7 @@ https://ibzpink.hilversum.nl
 https://ibzpink.hollandskroon.nl
 https://ibzpink.hoogeveen.nl
 https://ibzpink.horstaandemaas.nl
+https://ibzpink.huizen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6998,6 +6998,7 @@ https://testeloket.winterswijk.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testformulieren.veldhoven.nl
+https://testinhuiz.huizen.nl
 https://testinloggen.haarlemmermeer.nl
 https://testintranet.westerwolde.nl
 https://testloket.hattem.nl
@@ -7891,7 +7892,6 @@ https://www.horstaandemaas.nl
 https://www.houten.nl
 https://www.huisstijl.landvancuijk.nl
 https://www.huisstijl.zaanstad.nl
-https://www.huizen.nl
 https://www.hulpwijzer.venray.nl
 https://www.idee.roosendaal.nl
 https://www.ijsselstein.nl
