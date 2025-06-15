@@ -93,11 +93,11 @@ mks
 dtestloket
 _autodiscover._tcp
 portaal
-osbacc
 siam
 financien
 pki
 test-cmsintranet
+osbacc
 extranet
 govroam
 samen
@@ -3877,9 +3877,7 @@ trainersportaal
 trainingsformulier
 gijs-acc
 gijs
-gijscms-acc
 gijscms
-ijsaeo1
 sociaaldomein-acc
 Preprod
 dds-alphen-kaag
