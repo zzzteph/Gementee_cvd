@@ -2,6 +2,7 @@ https://denkmee.kaagenbraassem.nl
 https://digitaalgemeenteloket.kaagenbraassem.nl
 https://edienstenburgerzaken-test.kaagenbraassem.nl
 https://edienstenburgerzaken.kaagenbraassem.nl
+https://email.mail.denkmee.kaagenbraassem.nl
 https://kaagenbraassem.nl
 https://kaart.kaagenbraassem.nl
 https://mailing.kaagenbraassem.nl

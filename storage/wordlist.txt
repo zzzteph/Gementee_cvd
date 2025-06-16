@@ -749,6 +749,7 @@ samenveiligwerken
 testdigitaalgemeenteloket
 huishoudboekje
 redactie
+email.mail.denkmee
 aanmeldenparkeren
 acc-nieuwsbrief
 afs
@@ -1366,7 +1367,6 @@ tracking
 vdi8
 wcs
 documenten.acceptatie
-email.mail.denkmee
 ems
 fgt
 mail.denkmee
