@@ -55,6 +55,7 @@ liber-test.kerkrade.nl
 liber.kerkrade.nl
 liberportaalprod.kerkrade.nl
 liberportaaltest.kerkrade.nl
+lyncdiscover.kerkrade.nl
 mks.kerkrade.nl
 mkstest.kerkrade.nl
 neuron.kerkrade.nl

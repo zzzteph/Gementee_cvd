@@ -160,6 +160,7 @@ preprod-mijninkomen
 snelbaliepp
 vdi
 keycloak-admin
+lyncdiscover
 smtp
 jaarstukken
 inproces
@@ -169,7 +170,6 @@ ftp
 gisib
 bis
 nieuwsbrief
-lyncdiscover
 owa
 zac
 gasten

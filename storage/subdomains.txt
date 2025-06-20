@@ -7500,6 +7500,7 @@ lyncdiscover.diemen.nl
 lyncdiscover.haarlem.nl
 lyncdiscover.hellevoetsluis.nl
 lyncdiscover.houten.nl
+lyncdiscover.kerkrade.nl
 lyncdiscover.oostzaan.nl
 lyncdiscover.ouder-amstel.nl
 lyncdiscover.uithoorn.nl
