@@ -243,8 +243,6 @@ http://basis.werkeninkomen.amsterdam.nl
 http://beheer.amsterdam.nl
 http://beheerfotobank.amsterdam.nl
 http://belastingbalie.amsterdam.nl
-http://belastingen.acc.koggenland.nl
-http://belastingen.koggenland.nl
 http://belastingloket.montferland.info
 http://beleidsatlas.rotterdam.nl
 http://bergeijk.nl
@@ -361,8 +359,6 @@ http://id-subsidies-login.acceptatie.ede.nl
 http://iga.denhaag.nl
 http://iit-controle.rotterdam.nl
 http://ikbouwin.denhaag.nl
-http://inloggen.belastingen.acc.koggenland.nl
-http://inloggen.belastingen.koggenland.nl
 http://internoss-test.oss.nl
 http://intranet-acc.bergendal.nl
 http://intranet-acc.landvancuijk.nl
@@ -1823,6 +1819,7 @@ https://belastingen-accept.hardenberg.nl
 https://belastingen-preprod.stadskanaal.nl
 https://belastingen-test.gilzerijen.nl
 https://belastingen-test.molenlanden.nl
+https://belastingen.acc.koggenland.nl
 https://belastingen.accp.s-hertogenbosch.nl
 https://belastingen.almere.nl
 https://belastingen.arnhem.nl
@@ -1833,6 +1830,7 @@ https://belastingen.heerenveen.nl
 https://belastingen.hellendoorn.nl
 https://belastingen.hofvantwente.nl
 https://belastingen.horstaandemaas.nl
+https://belastingen.koggenland.nl
 https://belastingen.lelystad.nl
 https://belastingen.middendrenthe.nl
 https://belastingen.molenlanden.nl
@@ -4056,6 +4054,7 @@ https://ibzpink.huizen.nl
 https://ibzpink.kampen.nl
 https://ibzpink.kapelle.nl
 https://ibzpink.kerkrade.nl
+https://ibzpink.koggenland.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4136,6 +4135,8 @@ https://inlogef.utrecht.nl
 https://inloggen-acc.hoorn.nl
 https://inloggen-acceptatie.oldenzaal.nl
 https://inloggen-preprod.geertruidenberg.nl
+https://inloggen.belastingen.acc.koggenland.nl
+https://inloggen.belastingen.koggenland.nl
 https://inloggen.belastingportaal.aaenhunze.nl
 https://inloggen.belastingportaal.acc.aaenhunze.nl
 https://inloggen.belastingportaal.acc.assen.nl
@@ -6492,7 +6493,6 @@ https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
 https://simcms.heeze-leende.nl
-https://simcms.koggenland.nl
 https://simcms.middelburg.nl
 https://simcms.nieuwkoop.nl
 https://simcms.nuenen.nl
@@ -7928,6 +7928,7 @@ https://www.kaagenbraassem.nl
 https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
+https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl
