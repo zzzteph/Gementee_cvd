@@ -1094,6 +1094,7 @@ HTA
 lvolo-prod
 lvolo-test
 validsign-prod
+post
 geocortex
 monitor
 tickets
@@ -5992,7 +5993,6 @@ iis-vwes11
 iis-vwes21
 meldweb
 mh-vwes21
-post
 prefill.test
 testintranet
 wes-x-iis-01
