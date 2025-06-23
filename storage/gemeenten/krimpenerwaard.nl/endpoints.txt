@@ -1,4 +1,4 @@
-http://fm.krimpenerwaard.nl
+http://geocortex.krimpenerwaard.nl
 http://tickets.krimpenerwaard.nl
 https://aanmelden.krimpenerwaard.nl
 https://edienstenburgerzaken-test.krimpenerwaard.nl
@@ -6,12 +6,12 @@ https://edienstenburgerzaken.krimpenerwaard.nl
 https://eloket-sociaaldomein.krimpenerwaard.nl
 https://eloket-test-sociaaldomein.krimpenerwaard.nl
 https://eloket.krimpenerwaard.nl
+https://fm.krimpenerwaard.nl
 https://geo.krimpenerwaard.nl
-https://geocortex.krimpenerwaard.nl
 https://grondwater.krimpenerwaard.nl
 https://id.krimpenerwaard.nl
 https://idtst.krimpenerwaard.nl
-https://intranet.krimpenerwaard.nl
+https://intranettest.krimpenerwaard.nl
 https://krimpenerwaard.nl
 https://monitor.krimpenerwaard.nl
 https://open.krimpenerwaard.nl

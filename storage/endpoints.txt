@@ -332,7 +332,6 @@ http://felixburgerzaken.nissewaard.nl
 http://fisha.rotterdam.nl
 http://flash.scherpenzeel.nl
 http://flexibeleschil.rotterdam.nl
-http://fm.krimpenerwaard.nl
 http://formulieren-test.rijswijk.nl
 http://formulieren.gorinchem.nl
 http://formulieren.houten.nl
@@ -341,6 +340,7 @@ http://formulieren.rijswijk.nl
 http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
 http://geo.roermond.nl
+http://geocortex.krimpenerwaard.nl
 http://geoportal.weert.nl
 http://geuzenstatenkwartierfietst.denhaag.nl
 http://gitops.test.denhaag.nl
@@ -3307,6 +3307,7 @@ https://flowmailer-tracking.venlo.nl
 https://flowmailer-tracking.vlissingen.nl
 https://flowmailer-tracking.weert.nl
 https://flowmailer-tracking.zaanstad.nl
+https://fm.krimpenerwaard.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
 https://fmreturn.dienstverlening.utrecht.nl
@@ -3559,7 +3560,6 @@ https://geo.vught.nl
 https://geo.wijkbijduurstede.nl
 https://geo.zeewolde.nl
 https://geobrowser.enschede.nl
-https://geocortex.krimpenerwaard.nl
 https://geocortex.middendrenthe.nl
 https://geodata-a.utrecht.nl
 https://geodata-acc.dijkenwaard.nl
@@ -4213,7 +4213,6 @@ https://intranet.heusden.nl
 https://intranet.heuvelrug.nl
 https://intranet.hoorn.nl
 https://intranet.kampen.nl
-https://intranet.krimpenerwaard.nl
 https://intranet.laarbeek.nl
 https://intranet.landgraaf.nl
 https://intranet.landvancuijk.nl
@@ -4271,6 +4270,7 @@ https://intranetcms.nissewaard.nl
 https://intranetcms.waalwijk.nl
 https://intranetdekompanjie.veendam.nl
 https://intranetprod.wageningen.nl
+https://intranettest.krimpenerwaard.nl
 https://intraweb.nederbetuwe.nl
 https://intro.roermond.nl
 https://introcms-acc.roermond.nl
