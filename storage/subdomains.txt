@@ -159,6 +159,7 @@ academie.landgraaf.nl
 academie.nederbetuwe.nl
 academie.smallingerland.nl
 academie.weststellingwerf.nl
+acc-abc.laarbeek.nl
 acc-afvalkalender.goes.nl
 acc-beeldbank.leiden.nl
 acc-broker.assen.nl

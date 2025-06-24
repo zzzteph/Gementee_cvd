@@ -1,6 +1,7 @@
 http://cmsembrace.laarbeek.nl
 http://embrace.laarbeek.nl
 http://test-embrace.laarbeek.nl
+https://acc-abc.laarbeek.nl
 https://acc-broker.laarbeek.nl
 https://acc-contact.laarbeek.nl
 https://acc-formulier.laarbeek.nl
@@ -23,6 +24,7 @@ https://dacceptatieloket.laarbeek.nl
 https://dloket.laarbeek.nl
 https://formulier.laarbeek.nl
 https://iburgerzaken.laarbeek.nl
+https://ibzpink.laarbeek.nl
 https://intranet.laarbeek.nl
 https://keycloak-admin.laarbeek.nl
 https://keycloak.laarbeek.nl

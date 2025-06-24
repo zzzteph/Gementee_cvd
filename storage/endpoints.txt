@@ -760,6 +760,7 @@ https://abonneren-t.delft.nl
 https://abonneren.delft.nl
 https://academie.landgraaf.nl
 https://academie.smallingerland.nl
+https://acc-abc.laarbeek.nl
 https://acc-afvalkalender.goes.nl
 https://acc-beeldbank.leiden.nl
 https://acc-broker.assen.nl
@@ -4055,6 +4056,7 @@ https://ibzpink.kampen.nl
 https://ibzpink.kapelle.nl
 https://ibzpink.kerkrade.nl
 https://ibzpink.koggenland.nl
+https://ibzpink.laarbeek.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
