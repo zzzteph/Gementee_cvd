@@ -35,6 +35,7 @@ lgf004.landgraaf.nl
 lgfpki.landgraaf.nl
 liber.landgraaf.nl
 libertest.landgraaf.nl
+lyncdiscover.landgraaf.nl
 midoffice.landgraaf.nl
 navigus.landgraaf.nl
 pcorsa.landgraaf.nl
@@ -49,6 +50,7 @@ secure.landgraaf.nl
 secureweb.landgraaf.nl
 simcms.landgraaf.nl
 simsite.landgraaf.nl
+sip.landgraaf.nl
 smartdoc.landgraaf.nl
 smartdoctst.landgraaf.nl
 ssd.landgraaf.nl

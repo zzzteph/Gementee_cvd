@@ -7502,6 +7502,7 @@ lyncdiscover.haarlem.nl
 lyncdiscover.hellevoetsluis.nl
 lyncdiscover.houten.nl
 lyncdiscover.kerkrade.nl
+lyncdiscover.landgraaf.nl
 lyncdiscover.oostzaan.nl
 lyncdiscover.ouder-amstel.nl
 lyncdiscover.uithoorn.nl
@@ -11173,6 +11174,7 @@ sip.haarlem.nl
 sip.hellevoetsluis.nl
 sip.hoorn.nl
 sip.houten.nl
+sip.landgraaf.nl
 sip.oostzaan.nl
 sip.ouder-amstel.nl
 sip.uithoorn.nl

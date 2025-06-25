@@ -140,6 +140,7 @@ bastion365
 keycloak
 notificaties
 objecten
+sip
 obsurv
 gemeente
 contentbeheer
@@ -150,7 +151,7 @@ web
 api.betalen
 acc-keycloak-admin
 acc-zac
-sip
+lyncdiscover
 micollab
 inloggen
 connect.acceptatie
@@ -160,7 +161,6 @@ preprod-mijninkomen
 snelbaliepp
 vdi
 keycloak-admin
-lyncdiscover
 smtp
 jaarstukken
 inproces
