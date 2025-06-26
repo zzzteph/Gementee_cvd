@@ -2190,9 +2190,11 @@ https://clicksfm.stichtsevecht.nl
 https://cloud.wageningen.nl
 https://cloudadapter-prod.winterswijk.nl
 https://cloudadapter-prod.zutphen.nl
+https://cloudadapter-test.landsmeer.nl
 https://cloudadapter-test.meppel.nl
 https://cloudadapter-test.winterswijk.nl
 https://cloudadapter-test.zutphen.nl
+https://cloudadapter.landsmeer.nl
 https://cloudadapter.meppel.nl
 https://cloudrecorder.denhaag.nl
 https://cms-binnenshuis.bergen.nl
@@ -4054,6 +4056,7 @@ https://ibzpink.kapelle.nl
 https://ibzpink.kerkrade.nl
 https://ibzpink.koggenland.nl
 https://ibzpink.laarbeek.nl
+https://ibzpink.landsmeer.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
