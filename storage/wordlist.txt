@@ -57,10 +57,10 @@ api.meldingen-acc
 meldingen-acc
 openpdc
 enterpriseregistration
+loket.acceptatie
 data
 openpub
 cmsoo
-loket.acceptatie
 omgevingsvisie
 login
 belastingbalie
@@ -4109,10 +4109,6 @@ www1
 a-p-ddi-0003
 a-p-ddi-0010
 a-planonmca
-acc.mijn
-acc.open-formulieren
-acc.opennotificaties
-acc.openzaak
 afscheidcrone
 bestandverzenden
 democritus
@@ -4124,6 +4120,7 @@ fortiguard
 gisportalnew
 goedterechtin
 integratie-acc
+integratie
 nllwd-spider
 notificaties-acc
 ondernemend
@@ -4135,6 +4132,7 @@ time
 w-p-exc-0005
 w-p-exc-0006
 www.goedterechtin
+www.in
 MiCollab
 acc-beeldbank
 acc.easyfunders

@@ -507,7 +507,6 @@ acc.meldingenweesp.amsterdam.nl
 acc.microservices.schoolwijzer.amsterdam.nl
 acc.midden-groningen.nl
 acc.mijn.data.amsterdam.nl
-acc.mijn.leeuwarden.nl
 acc.mijngkb.midden-groningen.nl
 acc.montferland.info
 acc.nieuwegein.nl
@@ -518,9 +517,6 @@ acc.noord-beveland.nl
 acc.omslagroute.amsterdam.nl
 acc.onderwijssubsidies.amsterdam.nl
 acc.onderzoek.amsterdam.nl
-acc.open-formulieren.leeuwarden.nl
-acc.opennotificaties.leeuwarden.nl
-acc.openzaak.leeuwarden.nl
 acc.panorama.data.amsterdam.nl
 acc.panoviewer.data.amsterdam.nl
 acc.parkeren.data.amsterdam.nl
@@ -6485,6 +6481,7 @@ intake.preprod.purmerend.nl
 intake.purmerend.nl
 integralebeveiliging.tilburg.nl
 integratie-acc.leeuwarden.nl
+integratie.leeuwarden.nl
 intens-acc.enschede.nl
 intens.enschede.nl
 interconnect-rtr.s-hertogenbosch.nl
@@ -7376,6 +7373,7 @@ loket.acceptatie.dordrecht.nl
 loket.acceptatie.gemeentewesterveld.nl
 loket.acceptatie.hardinxveld-giessendam.nl
 loket.acceptatie.hellendoorn.nl
+loket.acceptatie.leeuwarden.nl
 loket.acceptatie.noardeast-fryslan.nl
 loket.acceptatie.overbetuwe.nl
 loket.acceptatie.papendrecht.nl
@@ -13943,6 +13941,7 @@ www.ihp-acc.denhaag.nl
 www.ihp.denhaag.nl
 www.iidb.sudwestfryslan.nl
 www.ikbouwin.denhaag.nl
+www.in.leeuwarden.nl
 www.infonet.eijsden-margraten.nl
 www.infozuil.utrecht.nl
 www.ingesprek.denhelder.nl

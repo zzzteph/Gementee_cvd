@@ -1,10 +1,6 @@
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
 a-planonmca.leeuwarden.nl
-acc.mijn.leeuwarden.nl
-acc.open-formulieren.leeuwarden.nl
-acc.opennotificaties.leeuwarden.nl
-acc.openzaak.leeuwarden.nl
 acceptatie.leeuwarden.nl
 afscheidcrone.leeuwarden.nl
 api.meldingen-a.leeuwarden.nl
@@ -35,8 +31,10 @@ gisportal.leeuwarden.nl
 gisportalnew.leeuwarden.nl
 goedterechtin.leeuwarden.nl
 integratie-acc.leeuwarden.nl
+integratie.leeuwarden.nl
 leeuwarden.nl
 liquit.leeuwarden.nl
+loket.acceptatie.leeuwarden.nl
 loket.leeuwarden.nl
 meldingen-a.leeuwarden.nl
 meldingen.leeuwarden.nl
@@ -70,5 +68,6 @@ w-p-exc-0005.leeuwarden.nl
 w-p-exc-0006.leeuwarden.nl
 werkenbij.leeuwarden.nl
 www.goedterechtin.leeuwarden.nl
+www.in.leeuwarden.nl
 www.leeuwarden.nl
 zaak-acc.leeuwarden.nl
