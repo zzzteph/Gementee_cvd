@@ -1,6 +1,5 @@
 http://autodiscover.leiden.nl
 http://m.leiden.nl
-http://www.doemee.leiden.nl
 https://acc-beeldbank.leiden.nl
 https://acc.easyfunders.leiden.nl
 https://acc.login.subsidie.leiden.nl
@@ -52,4 +51,5 @@ https://vergunning.leiden.nl
 https://vergunningen.leiden.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen.leiden.nl
+https://www.doemee.leiden.nl
 https://www.leiden.nl

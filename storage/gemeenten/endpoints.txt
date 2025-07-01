@@ -645,7 +645,6 @@ http://www.denkmee.woerden.nl
 http://www.destemvan.groningen.nl
 http://www.deurne.nl
 http://www.doemee.gemeentebest.nl
-http://www.doemee.leiden.nl
 http://www.eersel.nl
 http://www.gemeenteraad.groningen.nl
 http://www.goedterechtin.leeuwarden.nl
@@ -7794,6 +7793,7 @@ https://www.doemee.assen.nl
 https://www.doemee.bloemendaal.nl
 https://www.doemee.deventer.nl
 https://www.doemee.gemeentewestland.nl
+https://www.doemee.leiden.nl
 https://www.doemee.terneuzen.nl
 https://www.doemee.zwolle.nl
 https://www.doesburg.nl
