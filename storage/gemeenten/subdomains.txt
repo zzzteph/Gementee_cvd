@@ -3470,6 +3470,7 @@ devtest.sudwestfryslan.nl
 dewolden.nl
 dex.meldingen.alphenaandenrijn.nl
 dex.meldingen.urk.nl
+dezta.lelystad.nl
 dfs.noordoostpolder.nl
 dgdialog.acc.amsterdam.nl
 dgk-prd.zutphen.nl
@@ -5191,6 +5192,7 @@ gb-servers.intra.gemert-bakel.nl
 gb-wls-04.gemert-bakel.nl
 gb-wls-05.gemert-bakel.nl
 gba-v.haarlem.nl
+gba.lelystad.nl
 gba.peelenmaas.nl
 gbaservices.zuidplas.nl
 gbav.emmen.nl
@@ -7289,6 +7291,7 @@ live.groningen.nl
 live.landvancuijk.nl
 live.zuidplas.nl
 liveblog.ede.nl
+livestream.lelystad.nl
 lliam-test.zoetermeer.nl
 lliam.zoetermeer.nl
 lms.veere.nl
@@ -7601,7 +7604,6 @@ mail.katwijk.nl
 mail.krimpenerwaard.nl
 mail.laarbeek.nl
 mail.landsmeer.nl
-mail.lelystad.nl
 mail.leudal.nl
 mail.lopik.nl
 mail.losser.nl
@@ -8479,6 +8481,7 @@ mx02.meierijstad.nl
 mx1.ede.nl
 mx1.groningen.nl
 mx1.haarlemmermeer.nl
+mx1.lelystad.nl
 mx1.rucphen.nl
 mx1.s-hertogenbosch.nl
 mx1.waalwijk.nl
@@ -10459,6 +10462,7 @@ ro.emmen.nl
 ro.gemeenteberkelland.nl
 ro.halderberge.nl
 ro.leiden.nl
+ro.lelystad.nl
 ro.olst-wijhe.nl
 ro.valkenburg.nl
 ro.vlissingen.nl
@@ -11667,6 +11671,7 @@ subsidies.acc.nijmegen.nl
 subsidies.acceptatie.almelo.nl
 subsidies.acceptatie.debilt.nl
 subsidies.acceptatie.leeuwarden.nl
+subsidies.acceptatie.lelystad.nl
 subsidies.acceptatie.maassluis.nl
 subsidies.almelo.nl
 subsidies.backoffice.nijmegen.nl
@@ -13206,7 +13211,6 @@ werkplek.hilversum.nl
 werkplek.kaagenbraassem.nl
 werkplek.kampen.nl
 werkplek.landvancuijk.nl
-werkplek.lelystad.nl
 werkplek.leudal.nl
 werkplek.leusden.nl
 werkplek.lingewaard.nl
@@ -13339,6 +13343,7 @@ witgoed.middendrenthe.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
 wkpb.haarlem.nl
+wkpb.lelystad.nl
 wlan.venlo.nl
 wlc.denhaag.nl
 wlc01.waterland.nl

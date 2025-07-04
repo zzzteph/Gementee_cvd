@@ -4057,6 +4057,7 @@ https://ibzpink.koggenland.nl
 https://ibzpink.laarbeek.nl
 https://ibzpink.landsmeer.nl
 https://ibzpink.laren.nl
+https://ibzpink.lelystad.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6789,6 +6790,7 @@ https://subsidies.acc.nijmegen.nl
 https://subsidies.acceptatie.almelo.nl
 https://subsidies.acceptatie.debilt.nl
 https://subsidies.acceptatie.leeuwarden.nl
+https://subsidies.acceptatie.lelystad.nl
 https://subsidies.acceptatie.maassluis.nl
 https://subsidies.almelo.nl
 https://subsidies.backoffice.nijmegen.nl
@@ -7537,7 +7539,6 @@ https://werkplek.haarlemmermeer.nl
 https://werkplek.halderberge.nl
 https://werkplek.hilversum.nl
 https://werkplek.landvancuijk.nl
-https://werkplek.lelystad.nl
 https://werkplek.leudal.nl
 https://werkplek.leusden.nl
 https://werkplek.meerssen.nl

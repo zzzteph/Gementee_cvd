@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 mijn
 webmail
-mail
 simsite
+mail
 afspraken
 digikoppeling
 preproductie
@@ -175,6 +175,7 @@ zac
 gasten
 mdm
 AutoDiscover
+ro
 contentbeheer.acceptatie
 zaken.acceptatie
 transfer
@@ -194,7 +195,6 @@ fmreturn
 formulieren-test
 uc
 mobile
-ro
 bor
 inproces.acceptatie
 bestuur
@@ -248,6 +248,7 @@ acceptatie-open
 belastingbalie-test
 bestanden
 kcc
+mx1
 mx2
 cloudadapter-prod
 handhaving
@@ -280,7 +281,6 @@ squit2020.acceptatie
 www.samen
 woz-portaal
 www.intranet
-mx1
 mijnsociaaldomein
 midoffice
 geovisia
@@ -336,6 +336,7 @@ pdc
 www.werkenbij
 zoeken
 subsidies-backend.acceptatie
+subsidies.acceptatie
 diensten
 dkd-test
 msoid
@@ -408,7 +409,6 @@ huisstijl
 mijndesktop
 www2
 testafspraken
-subsidies.acceptatie
 secure-test
 sociaaldomein
 mijnoverzicht
@@ -1021,6 +1021,7 @@ secure1
 mijnintranet
 lynccon
 squitpub-prod
+wkpb
 autodiscover.d66
 autodiscover.sp
 autodiscover.test
@@ -1119,6 +1120,7 @@ nieuw
 parkeren.reserveren
 werkeninkomen-test
 werkeninkomen
+gba
 voice
 www.belastingloket
 alwayson
@@ -3494,7 +3496,6 @@ singlegateway
 videogesprek
 webmail-test
 werkenbij-ict
-wkpb
 www.campagne
 www.e-diensten001
 www.esedge
@@ -4168,8 +4169,10 @@ fortianalyzer
 fortiems
 fortivpn
 projectenboek
+dezta
 kopprd
 koptst
+livestream
 sibp01
 sibt01
 broker.preprod
@@ -4721,7 +4724,6 @@ papendrecht-checker
 autorisatie-bagprod
 autorisatie-bagtest
 bw
-gba
 hyperdrive
 key2gbav-prod
 key2gbav-test

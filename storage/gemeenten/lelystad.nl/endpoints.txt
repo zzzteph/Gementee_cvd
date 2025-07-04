@@ -6,14 +6,15 @@ https://desktop.lelystad.nl
 https://eloket.lelystad.nl
 https://formulieren.lelystad.nl
 https://iburgerzaken.lelystad.nl
+https://ibzpink.lelystad.nl
 https://kaart.lelystad.nl
 https://lelystad.nl
 https://sibp01.lelystad.nl
 https://sibt01.lelystad.nl
 https://subsidies-backend.acceptatie.lelystad.nl
 https://subsidies-backend.lelystad.nl
+https://subsidies.acceptatie.lelystad.nl
 https://subsidies.lelystad.nl
 https://testeloket.lelystad.nl
 https://werkenvoor.lelystad.nl
-https://werkplek.lelystad.nl
 https://www.lelystad.nl
