@@ -289,6 +289,7 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
+www.werkenbij
 makelaar
 servicedesk
 belastingen-acc
@@ -333,7 +334,6 @@ documenten
 raadsnet
 toegang
 pdc
-www.werkenbij
 zoeken
 subsidies-backend.acceptatie
 subsidies.acceptatie
@@ -4190,8 +4190,6 @@ leusden-checker
 afvalwijzer
 iris-acc
 klimaatbestendig
-mks.adir
-mkstest.adir
 nat
 simcms-klimaatbestendig
 vlindernet

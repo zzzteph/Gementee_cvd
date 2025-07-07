@@ -380,6 +380,7 @@ http://kgzorgned-test.gemeente-steenbergen.nl
 http://leenvervoermilieuparken.rotterdam.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
+http://lingewaard.nl
 http://login.sittard-geleen.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
@@ -501,7 +502,6 @@ http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-cjg.scherpenzeel.nl
 http://simcms-energiek.beuningen.nl
-http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.bronckhorst.nl
 http://simcms-open.geldrop-mierlo.nl
@@ -658,7 +658,6 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.janvanzanen.denhaag.nl
 http://www.kerkrade.nl
 http://www.ld-01.hellevoetsluis.nl
-http://www.lingewaard.nl
 http://www.lopik.nl
 http://www.maassluis.nl
 http://www.middendelfland.nl
@@ -4061,6 +4060,7 @@ https://ibzpink.landsmeer.nl
 https://ibzpink.laren.nl
 https://ibzpink.lelystad.nl
 https://ibzpink.leudal.nl
+https://ibzpink.lingewaard.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4582,7 +4582,6 @@ https://leverancier.gemeenteberkelland.nl
 https://life.landvancuijk.nl
 https://lifecoolsquare.groningen.nl
 https://linden.landvancuijk.nl
-https://lingewaard.nl
 https://link.burgerpanel.middendrenthe.nl
 https://link.capelleaandenijssel.nl
 https://link.pr.zwolle.nl
@@ -7950,6 +7949,7 @@ https://www.leidschendam-voorburg.nl
 https://www.lelystad.nl
 https://www.leudal.nl
 https://www.leusden.nl
+https://www.lingewaard.nl
 https://www.lisse.nl
 https://www.lochem.nl
 https://www.loonopzand.nl
@@ -8161,6 +8161,7 @@ https://www.wegwijsplus.vught.nl
 https://www.werkenbij.alkmaar.nl
 https://www.werkenbij.enschede.nl
 https://www.werkenbij.hoorn.nl
+https://www.werkenbij.lingewaard.nl
 https://www.werkenvoor.olst-wijhe.nl
 https://www.werkpakt.enschede.nl
 https://www.westbetuwe.nl

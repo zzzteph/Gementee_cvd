@@ -19,8 +19,6 @@ klantcontact.lingewaard.nl
 klimaatbestendig.lingewaard.nl
 lingewaard.nl
 mijn.lingewaard.nl
-mks.adir.lingewaard.nl
-mkstest.adir.lingewaard.nl
 nat.lingewaard.nl
 personeelsplanning.lingewaard.nl
 relay.lingewaard.nl
@@ -38,4 +36,5 @@ woz.lingewaard.nl
 www.belastingloket.lingewaard.nl
 www.lingewaard.nl
 www.samen.lingewaard.nl
+www.werkenbij.lingewaard.nl
 zaaksysteem-accept.lingewaard.nl
