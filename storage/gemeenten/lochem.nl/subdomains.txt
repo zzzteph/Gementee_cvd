@@ -1,4 +1,5 @@
 Www.lochem.nl
+acceptatie.lochem.nl
 autodiscover.lochem.nl
 bgt.lochem.nl
 digikoppeling-test.lochem.nl

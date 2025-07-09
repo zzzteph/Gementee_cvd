@@ -667,6 +667,7 @@ acceptatie.leiderdorp.nl
 acceptatie.leudal.nl
 acceptatie.leusden.nl
 acceptatie.lisse.nl
+acceptatie.lochem.nl
 acceptatie.loonopzand.nl
 acceptatie.medemblik.nl
 acceptatie.midden-groningen.nl

@@ -1101,6 +1101,7 @@ https://acceptatie.intranet.debilt.nl
 https://acceptatie.leiderdorp.nl
 https://acceptatie.leusden.nl
 https://acceptatie.lisse.nl
+https://acceptatie.lochem.nl
 https://acceptatie.loonopzand.nl
 https://acceptatie.midden-groningen.nl
 https://acceptatie.middendrenthe.nl
@@ -4061,6 +4062,7 @@ https://ibzpink.laren.nl
 https://ibzpink.lelystad.nl
 https://ibzpink.leudal.nl
 https://ibzpink.lingewaard.nl
+https://ibzpink.lochem.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
