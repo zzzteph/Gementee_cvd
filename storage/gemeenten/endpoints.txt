@@ -323,6 +323,7 @@ http://felix.gemeentebeek.nl
 http://felix.kerkrade.nl
 http://felix.landgraaf.nl
 http://felix.leudal.nl
+http://felix.loonopzand.nl
 http://felix.lopik.nl
 http://felix.mookenmiddelaar.nl
 http://felix.renswoude.nl
@@ -4063,6 +4064,7 @@ https://ibzpink.lelystad.nl
 https://ibzpink.leudal.nl
 https://ibzpink.lingewaard.nl
 https://ibzpink.lochem.nl
+https://ibzpink.loonopzand.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
