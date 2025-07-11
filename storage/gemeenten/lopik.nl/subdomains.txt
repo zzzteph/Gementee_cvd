@@ -5,6 +5,7 @@ api.meldingen-acc.lopik.nl
 api.meldingen.lopik.nl
 autodiscover.lopik.nl
 belastingbalie.lopik.nl
+cloudadapter-dmz-p.lopik.nl
 cloudadapter-gemnet-p.lopik.nl
 cloudadapter-gemnet-t.lopik.nl
 cloudadapter-p.lopik.nl

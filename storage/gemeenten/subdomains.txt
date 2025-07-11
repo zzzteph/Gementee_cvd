@@ -2792,6 +2792,7 @@ cloud.buren.nl
 cloud.midden-groningen.nl
 cloud.nissewaard.nl
 cloud.wageningen.nl
+cloudadapter-dmz-p.lopik.nl
 cloudadapter-gemnet-p.lopik.nl
 cloudadapter-gemnet-t.lopik.nl
 cloudadapter-p.denhelder.nl
