@@ -15,12 +15,14 @@ https://formulier.losser.nl
 https://gbionline.losser.nl
 https://gbionlinetest.losser.nl
 https://iburgerzaken.losser.nl
+https://ibzpink.losser.nl
 https://lois-acc.losser.nl
 https://lois.losser.nl
 https://losser.nl
 https://meedoen.losser.nl
 https://meldingen-acc.losser.nl
 https://meldingen.losser.nl
+https://mijnsociaaldomein-test.losser.nl
 https://mijnsociaaldomein.losser.nl
 https://nieuwsbrief.losser.nl
 https://testwebsite.losser.nl
