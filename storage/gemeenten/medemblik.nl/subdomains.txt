@@ -2,6 +2,7 @@ AutoDiscover.medemblik.nl
 HTA-stuf.medemblik.nl
 acceptatie.medemblik.nl
 autodiscover.medemblik.nl
+bgt.medemblik.nl
 blik-acc.medemblik.nl
 blik.medemblik.nl
 decos.medemblik.nl

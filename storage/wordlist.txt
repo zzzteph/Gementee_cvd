@@ -100,6 +100,7 @@ test-cmsintranet
 osbacc
 acc-formulier
 acc-podiumd-logs
+bgt
 podiumd-logs
 extranet
 govroam
@@ -111,7 +112,6 @@ acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
-bgt
 contact
 objecttypen
 openklant
