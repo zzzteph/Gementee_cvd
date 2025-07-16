@@ -426,7 +426,6 @@ http://onderzoek.utrecht.nl
 http://ontheffingen-mz.denhaag.nl
 http://open.gemeentebeek.nl
 http://open.halderberge.nl
-http://open.meerssen.nl
 http://open.sonenbreugel.nl
 http://open.zuidplas.nl
 http://opendata-contrast.zoetermeer.nl
@@ -4066,6 +4065,7 @@ https://ibzpink.losser.nl
 https://ibzpink.maasdriel.nl
 https://ibzpink.maassluis.nl
 https://ibzpink.medemblik.nl
+https://ibzpink.meerssen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5557,6 +5557,7 @@ https://open.krimpenerwaard.nl
 https://open.leudal.nl
 https://open.lisse.nl
 https://open.lochem.nl
+https://open.meerssen.nl
 https://open.meppel.nl
 https://open.middendrenthe.nl
 https://open.moerdijk.nl
