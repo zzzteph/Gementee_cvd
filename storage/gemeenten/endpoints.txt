@@ -339,7 +339,6 @@ http://flexibeleschil.rotterdam.nl
 http://formulieren-test.rijswijk.nl
 http://formulieren.gorinchem.nl
 http://formulieren.houten.nl
-http://formulieren.meierijstad.nl
 http://formulieren.rijswijk.nl
 http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
@@ -575,7 +574,6 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
-http://test-cmsintranet.meierijstad.nl
 http://test-cmsintranet.sittard-geleen.nl
 http://test-cmsintranet.zeist.nl
 http://test-cmsjip.vijfheerenlanden.nl
@@ -589,6 +587,7 @@ http://test-intranet.eemsdelta.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.lansingerland.nl
+http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
 http://test-jip.hofvantwente.nl
@@ -620,6 +619,7 @@ http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
 http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
+http://webmail.meierijstad.nl
 http://welkom.ede.nl
 http://werkenbij.weststellingwerf.nl
 http://werkenvoor.denhaag.nl
@@ -3251,7 +3251,6 @@ https://filecap.rozendaal.nl
 https://filecap.wierden.nl
 https://filecapacc.breda.nl
 https://filetransfer.gennep.nl
-https://filetransfer.meierijstad.nl
 https://financials-acc.apeldoorn.nl
 https://financials.apeldoorn.nl
 https://financialstest.derondevenen.nl
@@ -4992,7 +4991,6 @@ https://mijn.lingewaard.nl
 https://mijn.lochem.nl
 https://mijn.maasdriel.nl
 https://mijn.maassluis.nl
-https://mijn.meierijstad.nl
 https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
@@ -6858,6 +6856,7 @@ https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
+https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
@@ -7435,7 +7434,6 @@ https://webmail.krimpenerwaard.nl
 https://webmail.leudal.nl
 https://webmail.lopik.nl
 https://webmail.maassluis.nl
-https://webmail.meierijstad.nl
 https://webmail.nederbetuwe.nl
 https://webmail.nieuwegein.nl
 https://webmail.noordoostpolder.nl

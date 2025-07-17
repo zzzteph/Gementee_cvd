@@ -1,4 +1,3 @@
-access.meierijstad.nl
 afspraken.meierijstad.nl
 api.meldingen-acc.meierijstad.nl
 api.meldingen.meierijstad.nl
@@ -8,7 +7,6 @@ dkd.meierijstad.nl
 edienstenburgerzaken-test.meierijstad.nl
 edienstenburgerzaken.meierijstad.nl
 enterpriseenrollment.meierijstad.nl
-filetransfer.meierijstad.nl
 formulieren.meierijstad.nl
 gis.meierijstad.nl
 gisservices.meierijstad.nl
@@ -22,7 +20,6 @@ meldingen.meierijstad.nl
 mijn.meierijstad.nl
 mijnsociaaldomein-acc.meierijstad.nl
 mijnsociaaldomein.meierijstad.nl
-mx02.meierijstad.nl
 mx11.meierijstad.nl
 mx12.meierijstad.nl
 nac.meierijstad.nl

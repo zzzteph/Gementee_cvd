@@ -276,7 +276,6 @@ xential
 erfgoed
 citrix
 key2gbav
-filetransfer
 squit2020.acceptatie
 www.samen
 woz-portaal
@@ -316,6 +315,7 @@ test-secure
 woz-loket
 burgerloket
 ondernemersloket
+filetransfer
 eformulieren
 academie
 aeolus
@@ -403,7 +403,6 @@ gateway
 lyncweb
 mijn-preproductie
 www.denkmee
-access
 prefill
 huisstijl
 mijndesktop
@@ -502,6 +501,7 @@ vthbroker
 digitaal
 teleweb
 cars
+access
 bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
@@ -4241,7 +4241,6 @@ mstat
 ned03msn
 www.gs01msn
 link.socialewegwijzer
-mx02
 mx11
 mx12
 nerdio

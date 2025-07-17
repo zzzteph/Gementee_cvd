@@ -726,7 +726,6 @@ acceptatievergunningen.duiven.nl
 acceptatievergunningen.westervoort.nl
 access.hoorn.nl
 access.landvancuijk.nl
-access.meierijstad.nl
 access.oa.amsterdam.nl
 access.peelenmaas.nl
 access.woerden.nl
@@ -4877,7 +4876,6 @@ filecapacc.breda.nl
 fileshare.westerkwartier.nl
 filetransfer.dijkenwaard.nl
 filetransfer.gennep.nl
-filetransfer.meierijstad.nl
 filetransfer.middendelfland.nl
 filetransfer.rijssen-holten.nl
 filetransfer.scherpenzeel.nl
@@ -8478,7 +8476,6 @@ mvpndec.rotterdam.nl
 mx.elburg.nl
 mx.oss.nl
 mx01.haarlem.nl
-mx02.meierijstad.nl
 mx1.ede.nl
 mx1.groningen.nl
 mx1.haarlemmermeer.nl
