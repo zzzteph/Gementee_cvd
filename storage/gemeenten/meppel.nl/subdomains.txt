@@ -5,6 +5,7 @@ autodiscover.meppel.nl
 belastingbalie-test.meppel.nl
 belastingbalie.meppel.nl
 betalen.meppel.nl
+broker.meppel.nl
 cloudadapter-test.meppel.nl
 cloudadapter.meppel.nl
 devices.meppel.nl
@@ -12,6 +13,7 @@ digiservice-test.meppel.nl
 digiservice.meppel.nl
 dkdservice-test.meppel.nl
 dkdservice.meppel.nl
+duurzaam.meppel.nl
 edienstenburgerzaken-test.meppel.nl
 edienstenburgerzaken.meppel.nl
 eloket.meppel.nl
@@ -28,6 +30,7 @@ onprem-smtp.meppel.nl
 open.meppel.nl
 parkeren-test.meppel.nl
 parkeren.meppel.nl
+preprodbroker.meppel.nl
 pv.meppel.nl
 speciaal.meppel.nl
 sportaccommodatieverhuur.meppel.nl

@@ -2097,6 +2097,7 @@ https://broker.leeuwarden.nl
 https://broker.leudal.nl
 https://broker.leusden.nl
 https://broker.losser.nl
+https://broker.meppel.nl
 https://broker.noordwijk.nl
 https://broker.nunspeet.nl
 https://broker.olst-wijhe.nl
@@ -2638,6 +2639,7 @@ https://duurzaam.heemskerk.nl
 https://duurzaam.hollandskroon.nl
 https://duurzaam.hoorn.nl
 https://duurzaam.landvancuijk.nl
+https://duurzaam.meppel.nl
 https://duurzaam.molenlanden.nl
 https://duurzaam.olst-wijhe.nl
 https://duurzaam.purmerend.nl
@@ -4065,6 +4067,7 @@ https://ibzpink.maasdriel.nl
 https://ibzpink.maassluis.nl
 https://ibzpink.medemblik.nl
 https://ibzpink.meerssen.nl
+https://ibzpink.meppel.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6063,6 +6066,7 @@ https://preprodbroker.gemeentehw.nl
 https://preprodbroker.gemeentewestland.nl
 https://preprodbroker.leeuwarden.nl
 https://preprodbroker.leusden.nl
+https://preprodbroker.meppel.nl
 https://preprodbroker.nunspeet.nl
 https://preprodbroker.stichtsevecht.nl
 https://preprodbroker.westervoort.nl

@@ -2576,6 +2576,7 @@ broker.leeuwarden.nl
 broker.leudal.nl
 broker.leusden.nl
 broker.losser.nl
+broker.meppel.nl
 broker.noordwijk.nl
 broker.nunspeet.nl
 broker.olst-wijhe.nl
@@ -4046,6 +4047,7 @@ duurzaam.heemskerk.nl
 duurzaam.hollandskroon.nl
 duurzaam.hoorn.nl
 duurzaam.landvancuijk.nl
+duurzaam.meppel.nl
 duurzaam.molenlanden.nl
 duurzaam.olst-wijhe.nl
 duurzaam.purmerend.nl
@@ -9895,6 +9897,7 @@ preprodbroker.gemeentehw.nl
 preprodbroker.gemeentewestland.nl
 preprodbroker.leeuwarden.nl
 preprodbroker.leusden.nl
+preprodbroker.meppel.nl
 preprodbroker.nunspeet.nl
 preprodbroker.stichtsevecht.nl
 preprodbroker.westervoort.nl
