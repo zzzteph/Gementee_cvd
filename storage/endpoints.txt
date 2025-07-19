@@ -399,7 +399,6 @@ http://meldingenkust.denhaag.nl
 http://meldpuntondermijning.rotterdam.nl
 http://menditectbco.rotterdam.nl
 http://menditectsb.rotterdam.nl
-http://middelburg.nl
 http://mijn-preproductie.westerkwartier.nl
 http://mijn.bronckhorst.nl
 http://mijn.heuvelrug.nl
@@ -485,7 +484,6 @@ http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://rotterdam.nl
 http://rs010.rotterdam.nl
-http://samenwerkingbelastingen-test.middelburg.nl
 http://scanhulp.amsterdam.nl
 http://schiermonnikoog.nl
 http://secure.acc.denhaag.nl
@@ -657,6 +655,7 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.janvanzanen.denhaag.nl
 http://www.kerkrade.nl
 http://www.ld-01.hellevoetsluis.nl
+http://www.middelburg.nl
 http://www.middendelfland.nl
 http://www.mijn.groningen.nl
 http://www.milieudienst.groningen.nl
@@ -4068,6 +4067,7 @@ https://ibzpink.maassluis.nl
 https://ibzpink.medemblik.nl
 https://ibzpink.meerssen.nl
 https://ibzpink.meppel.nl
+https://ibzpink.middelburg.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6396,6 +6396,7 @@ https://samenveiligwerken.alphenaandenrijn.nl
 https://samenveiligwerken.kaagenbraassem.nl
 https://samenwerkenaan.heerde.nl
 https://samenwerking.tilburg.nl
+https://samenwerkingbelastingen-test.middelburg.nl
 https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
 https://samenwijzer.oss.nl
@@ -6509,7 +6510,6 @@ https://simcms.goeree-overflakkee.nl
 https://simcms.heeze-leende.nl
 https://simcms.intranet.lopik.nl
 https://simcms.leudal.nl
-https://simcms.middelburg.nl
 https://simcms.nieuwkoop.nl
 https://simcms.nuenen.nl
 https://simcms.ooststellingwerf.nl
@@ -7974,7 +7974,6 @@ https://www.meedoen.venray.nl
 https://www.meerssen.nl
 https://www.meierijstad.nl
 https://www.meppel.nl
-https://www.middelburg.nl
 https://www.midden-groningen.nl
 https://www.middendrenthe.nl
 https://www.mijn.arnhem.nl
