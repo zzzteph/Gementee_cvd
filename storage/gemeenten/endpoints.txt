@@ -592,7 +592,6 @@ http://test-jip.hofvantwente.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
 http://test.website.westland.gemeentewestland.nl
-http://testcms-intranet.midden-groningen.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
 http://this010.rotterdam.nl
@@ -4068,6 +4067,7 @@ https://ibzpink.medemblik.nl
 https://ibzpink.meerssen.nl
 https://ibzpink.meppel.nl
 https://ibzpink.middelburg.nl
+https://ibzpink.midden-groningen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6992,6 +6992,7 @@ https://testbelastingloket.oldebroek.nl
 https://testcms-binnenshuis.bergen.nl
 https://testcms-inhuiz.huizen.nl
 https://testcms-intranet.eemsdelta.nl
+https://testcms-intranet.midden-groningen.nl
 https://testcms-jip.hofvantwente.nl
 https://testcms-markt1.nunspeet.nl
 https://testdigikoppeling.haarlemmermeer.nl
