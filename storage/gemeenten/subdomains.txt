@@ -12891,6 +12891,7 @@ watten.groningen.nl
 waz.rotterdam.nl
 wbs003.assen.nl
 wbs004.assen.nl
+wcf.middendelfland.nl
 wcs.amersfoort.nl
 wdm-fepoolweb-ext.wijdemeren.nl
 wdm01.gooisemeren.nl

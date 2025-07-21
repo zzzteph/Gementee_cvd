@@ -30,6 +30,7 @@ test-cmssocialintranet.middendelfland.nl
 test-socialintranet.middendelfland.nl
 testdigikoppeling.middendelfland.nl
 thuiswerken.middendelfland.nl
+wcf.middendelfland.nl
 weblogic-prod.middendelfland.nl
 weblogic-test.middendelfland.nl
 weblogic.middendelfland.nl

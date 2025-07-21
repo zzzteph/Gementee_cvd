@@ -4293,6 +4293,7 @@ socialintranet
 srv-dmz-01
 test-cmssocialintranet
 test-socialintranet
+wcf
 weblogic-prod
 weblogic-test
 weblogic
