@@ -4068,6 +4068,7 @@ https://ibzpink.meerssen.nl
 https://ibzpink.meppel.nl
 https://ibzpink.middelburg.nl
 https://ibzpink.midden-groningen.nl
+https://ibzpink.middendrenthe.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -8055,6 +8056,7 @@ https://www.putten.nl
 https://www.q4.venlo.nl
 https://www.raad.arnhem.nl
 https://www.raad.bergendal.nl
+https://www.raad.middendrenthe.nl
 https://www.raadsakkoord.veenendaal.nl
 https://www.raalte.nl
 https://www.regentesseplein.denhaag.nl

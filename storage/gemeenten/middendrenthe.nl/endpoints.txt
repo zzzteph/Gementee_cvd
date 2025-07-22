@@ -8,6 +8,7 @@ https://formulieren.middendrenthe.nl
 https://geo.middendrenthe.nl
 https://geocortex.middendrenthe.nl
 https://iburgerzaken.middendrenthe.nl
+https://ibzpink.middendrenthe.nl
 https://link.burgerpanel.middendrenthe.nl
 https://md02.middendrenthe.nl
 https://mdliquit.middendrenthe.nl
@@ -25,3 +26,4 @@ https://test-witgoed.middendrenthe.nl
 https://witgoed.middendrenthe.nl
 https://wmo.middendrenthe.nl
 https://www.middendrenthe.nl
+https://www.raad.middendrenthe.nl

@@ -34,3 +34,4 @@ test.middendrenthe.nl
 witgoed.middendrenthe.nl
 wmo.middendrenthe.nl
 www.middendrenthe.nl
+www.raad.middendrenthe.nl
