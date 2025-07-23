@@ -15,7 +15,6 @@ open.moerdijk.nl
 smtp.moerdijk.nl
 test.moerdijk.nl
 web.moerdijk.nl
-webmail.moerdijk.nl
 werkenbij.moerdijk.nl
 werkenvoor.moerdijk.nl
 werkplek.moerdijk.nl
