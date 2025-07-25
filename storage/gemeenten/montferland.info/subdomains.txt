@@ -16,7 +16,6 @@ filter.montferland.info
 flowise.montferland.info
 formulieren.montferland.info
 geo.montferland.info
-ggs2-adapter.montferland.info
 ibabs.montferland.info
 iburgerzaken.montferland.info
 ibzpink.montferland.info
@@ -46,6 +45,7 @@ validsign.montferland.info
 veiligdelen.montferland.info
 w2kmks.montferland.info
 w2kzmm.montferland.info
+werkplek.montferland.info
 www.montferland.info
 xential.montferland.info
 xentialtest.montferland.info

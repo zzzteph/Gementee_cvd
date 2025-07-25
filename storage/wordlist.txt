@@ -4325,7 +4325,6 @@ corsa
 datamask
 filter
 flowise
-ggs2-adapter
 orbit
 social
 squitxo-server-service

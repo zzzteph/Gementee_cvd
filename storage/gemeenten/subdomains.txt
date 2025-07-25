@@ -5490,7 +5490,6 @@ ggk-koppeling.vlissingen.nl
 ggk-pki.sudwestfryslan.nl
 ggk.brunssum.nl
 ggk.oostgelre.nl
-ggs2-adapter.montferland.info
 ggv-micol1.gorinchem.nl
 ghtsv2-017.gemeentehulst.nl
 ghtsv2-092.gemeentehulst.nl
@@ -13219,6 +13218,7 @@ werkplek.lochem.nl
 werkplek.meerssen.nl
 werkplek.meierijstad.nl
 werkplek.moerdijk.nl
+werkplek.montferland.info
 werkplek.overbetuwe.nl
 werkplek.ovh.gemeentebeek.nl
 werkplek.peelenmaas.nl
