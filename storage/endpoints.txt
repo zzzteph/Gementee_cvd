@@ -5924,7 +5924,6 @@ https://portaal.gemeentehulst.nl
 https://portaal.haarlem.nl
 https://portaal.iam.groningen.nl
 https://portaal.middendrenthe.nl
-https://portaal.montfoort.nl
 https://portaal.notificaties.openzaak-acc.amsterdam.nl
 https://portaal.purmerend.nl
 https://portaaltest.middendrenthe.nl
