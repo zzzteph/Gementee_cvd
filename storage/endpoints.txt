@@ -406,7 +406,6 @@ http://mijn.heuvelrug.nl
 http://mijngeldzaken.denhaag.nl
 http://mijnwerkplek.schagen.nl
 http://mlo-ws.acc.rotterdam.nl
-http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
@@ -511,7 +510,6 @@ http://simcms.heuvelrug.nl
 http://simcms.huizen.nl
 http://simcms.maassluis.nl
 http://simcms.middendelfland.nl
-http://simcms.mookenmiddelaar.nl
 http://simcms.nederweert.nl
 http://simcms.opmeer.nl
 http://simcms.valkenswaard.nl
@@ -531,6 +529,7 @@ http://simsite.bunschoten.nl
 http://simsite.heeze-leende.nl
 http://simsite.heumen.nl
 http://simsite.lopik.nl
+http://simsite.mookenmiddelaar.nl
 http://simsite.nederweert.nl
 http://simsite.oirschot.nl
 http://simsite.renswoude.nl
@@ -2435,7 +2434,6 @@ https://data.haarlem.nl
 https://data.heumen.nl
 https://data.hilversum.nl
 https://data.landvancuijk.nl
-https://data.mookenmiddelaar.nl
 https://data.nijmegen.nl
 https://data.oss.nl
 https://data.roosendaal.nl
@@ -4068,6 +4066,7 @@ https://ibzpink.middendrenthe.nl
 https://ibzpink.moerdijk.nl
 https://ibzpink.molenlanden.nl
 https://ibzpink.montferland.info
+https://ibzpink.mookenmiddelaar.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
