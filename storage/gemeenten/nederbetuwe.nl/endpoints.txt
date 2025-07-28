@@ -3,6 +3,7 @@ https://acceptatie-intranet.nederbetuwe.nl
 https://acceptatie.nederbetuwe.nl
 https://hybrid.nederbetuwe.nl
 https://iburgerzaken.nederbetuwe.nl
+https://ibzpink.nederbetuwe.nl
 https://intraweb.nederbetuwe.nl
 https://monitoring.nederbetuwe.nl
 https://nederbetuwe.nl
@@ -10,6 +11,7 @@ https://participatie.nederbetuwe.nl
 https://projecten.nederbetuwe.nl
 https://secudoc.nederbetuwe.nl
 https://telewerken.nederbetuwe.nl
+https://telewerkentest.nederbetuwe.nl
 https://wachtwoord.nederbetuwe.nl
 https://wachtwoordvergeten.nederbetuwe.nl
 https://webmail.nederbetuwe.nl

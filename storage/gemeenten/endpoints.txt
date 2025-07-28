@@ -4067,6 +4067,7 @@ https://ibzpink.moerdijk.nl
 https://ibzpink.molenlanden.nl
 https://ibzpink.montferland.info
 https://ibzpink.mookenmiddelaar.nl
+https://ibzpink.nederbetuwe.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6848,6 +6849,7 @@ https://telewerken.hellevoetsluis.nl
 https://telewerken.nederbetuwe.nl
 https://telewerken.stichtsevecht.nl
 https://telewerken.zaanstad.nl
+https://telewerkentest.nederbetuwe.nl
 https://terneuzen.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
