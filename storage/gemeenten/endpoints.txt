@@ -407,6 +407,7 @@ http://mijngeldzaken.denhaag.nl
 http://mijnwerkplek.schagen.nl
 http://mlo-ws.acc.rotterdam.nl
 http://mt-link.stichtsevecht.nl
+http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nta7516.gemeentebest.nl
@@ -530,7 +531,6 @@ http://simsite.heeze-leende.nl
 http://simsite.heumen.nl
 http://simsite.lopik.nl
 http://simsite.mookenmiddelaar.nl
-http://simsite.nederweert.nl
 http://simsite.oirschot.nl
 http://simsite.renswoude.nl
 http://simsite.veere.nl
@@ -6545,6 +6545,7 @@ https://simsite.koggenland.nl
 https://simsite.leudal.nl
 https://simsite.middendelfland.nl
 https://simsite.montferland.info
+https://simsite.nederweert.nl
 https://simsite.nijkerk.eu
 https://simsite.ooststellingwerf.nl
 https://simsite.opmeer.nl
