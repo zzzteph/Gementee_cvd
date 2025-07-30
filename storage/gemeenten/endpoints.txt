@@ -356,6 +356,7 @@ http://heumen.nl
 http://historie.venlo.nl
 http://hor.denhaag.nl
 http://htb-test.gemeente-steenbergen.nl
+http://huisnettest.nieuwegein.nl
 http://huurprijscalculator.rotterdam.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
@@ -3779,7 +3780,6 @@ https://huishoudboekje.amersfoort.nl
 https://huishoudboekje.utrecht.nl
 https://huisnet.nederweert.nl
 https://huisnet.nieuwegein.nl
-https://huisnettest.nieuwegein.nl
 https://huisstijl.landvancuijk.nl
 https://huisstijl.moerdijk.nl
 https://huisstijl.tilburg.nl
@@ -4068,6 +4068,7 @@ https://ibzpink.molenlanden.nl
 https://ibzpink.montferland.info
 https://ibzpink.mookenmiddelaar.nl
 https://ibzpink.nederbetuwe.nl
+https://ibzpink.nieuwegein.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
