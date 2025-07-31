@@ -405,6 +405,7 @@ http://mijn-preproductie.westerkwartier.nl
 http://mijn.bronckhorst.nl
 http://mijn.heuvelrug.nl
 http://mijngeldzaken.denhaag.nl
+http://mijntomindebuurt.nieuwkoop.nl
 http://mijnwerkplek.schagen.nl
 http://mlo-ws.acc.rotterdam.nl
 http://mt-link.stichtsevecht.nl
@@ -594,6 +595,7 @@ http://test-topvorm.apeldoorn.nl
 http://test.website.westland.gemeentewestland.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
+http://testtomindebuurt.nieuwkoop.nl
 http://this010.rotterdam.nl
 http://thomas112.rotterdam.nl
 http://thomas211.rotterdam.nl
@@ -660,7 +662,6 @@ http://www.milieudienst.groningen.nl
 http://www.mookenmiddelaar.nl
 http://www.ndbu-acc.utrecht.nl
 http://www.nde.groningen.nl
-http://www.nieuwkoop.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.onderzoek.groningen.nl
 http://www.onlinestadsgesprek.harderwijk.nl
@@ -4069,6 +4070,7 @@ https://ibzpink.montferland.info
 https://ibzpink.mookenmiddelaar.nl
 https://ibzpink.nederbetuwe.nl
 https://ibzpink.nieuwegein.nl
+https://ibzpink.nieuwkoop.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5299,7 +5301,6 @@ https://nieuweburgemeester.deventer.nl
 https://nieuwegein.nl
 https://nieuwkomers.arnhem.nl
 https://nieuwkomers.zaanstad.nl
-https://nieuwkoop.nl
 https://nieuws.breda.nl
 https://nieuws.hoorn.nl
 https://nieuws.landvancuijk.nl
@@ -7999,6 +8000,7 @@ https://www.ndbu.utrecht.nl
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
+https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.nijmegen.nl
 https://www.nimmaleert.nijmegen.nl

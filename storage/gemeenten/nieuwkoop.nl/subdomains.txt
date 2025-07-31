@@ -10,6 +10,7 @@ ibzpink.nieuwkoop.nl
 liquit.nieuwkoop.nl
 m.nieuwkoop.nl
 mijnloket.nieuwkoop.nl
+mijntomindebuurt.nieuwkoop.nl
 mks.nieuwkoop.nl
 mksggk.nieuwkoop.nl
 msoid.nieuwkoop.nl
@@ -23,6 +24,7 @@ secure.nieuwkoop.nl
 simcms.nieuwkoop.nl
 simsite.nieuwkoop.nl
 testloket.nieuwkoop.nl
+testtomindebuurt.nieuwkoop.nl
 vaarvergunningen.nieuwkoop.nl
 www.denkmee.nieuwkoop.nl
 www.nieuwkoop.nl

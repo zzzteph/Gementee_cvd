@@ -8269,6 +8269,7 @@ mijntalent.gennep.nl
 mijntalentcenter.gemeentehulst.nl
 mijntexeltest.texel.nl
 mijntoegang.zutphen.nl
+mijntomindebuurt.nieuwkoop.nl
 mijnuitkering.emmen.nl
 mijnuitkering.nissewaard.nl
 mijnuitkering.s-hertogenbosch.nl
@@ -12219,6 +12220,7 @@ testsiam.terschelling.nl
 testsiam.vlieland.nl
 testsim.westmaasenwaal.nl
 testsuitewiz.nissewaard.nl
+testtomindebuurt.nieuwkoop.nl
 testtsjinstbus.harlingen.nl
 testtsjinstbus.sudwestfryslan.nl
 testverseon.haarlemmermeer.nl
