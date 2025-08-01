@@ -662,6 +662,7 @@ http://www.milieudienst.groningen.nl
 http://www.mookenmiddelaar.nl
 http://www.ndbu-acc.utrecht.nl
 http://www.nde.groningen.nl
+http://www.nijkerk.eu
 http://www.ondernemersportaal.denhaag.nl
 http://www.onderzoek.groningen.nl
 http://www.onlinestadsgesprek.harderwijk.nl
@@ -5315,6 +5316,7 @@ https://nieuwsbrief.stichtsevecht.nl
 https://nieuwsbrieven.hengelo.nl
 https://nieuwsbrieven.utrecht.nl
 https://nieuwsbrieven.zwolle.nl
+https://nijkerk.eu
 https://nijmegen.nl
 https://nimmaleert.nijmegen.nl
 https://nissewaard.nl

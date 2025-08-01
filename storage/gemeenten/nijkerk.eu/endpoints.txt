@@ -1,4 +1,5 @@
 http://autodiscover.nijkerk.eu
+http://www.nijkerk.eu
 https://edienstenburgerzaken-test.nijkerk.eu
 https://edienstenburgerzaken.nijkerk.eu
 https://eloket.nijkerk.eu
@@ -9,6 +10,7 @@ https://intranet.nijkerk.eu
 https://login-pre.nijkerk.eu
 https://login.nijkerk.eu
 https://msoid.nijkerk.eu
+https://nijkerk.eu
 https://remote.nijkerk.eu
 https://securenetwork.nijkerk.eu
 https://simsite.nijkerk.eu
