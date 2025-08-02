@@ -821,7 +821,6 @@ testberichten
 helloid
 intranet-stats
 joost
-wwwtest
 acc-openwave
 corona
 key2financien-prod
@@ -1922,6 +1921,7 @@ probeer-energiek
 simcms-energiek
 test-mijnzi
 www.energiek
+wwwtest
 aanmeldenparkeren-acc
 backoffice-parkeervergunningen-acc
 backoffice-parkeervergunningen
@@ -4394,12 +4394,9 @@ cms-insite
 cmstest-insite
 componenten.acc
 componenten
-gw-test
-ice
 idcontact-accp
 jmg.acc
 jmh.acc
-jmh
 kavelsvastgoed
 kos.acc
 kos
@@ -4415,6 +4412,7 @@ nlb-irma-disclosure
 nlb-irma
 nlb-test-irma-disclosure
 nlb-test-irma
+ombudsman.acc
 online.acc
 onzestad
 open-test
@@ -4435,6 +4433,8 @@ subsidies.backoffice
 test-inkomensondersteuning
 test-insite
 test-vergoedingen
+triavium.acc
+triavium
 vacatures.acc
 vergoedingen
 vraaghulp.acc

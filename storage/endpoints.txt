@@ -1496,7 +1496,6 @@ https://app.sittard-geleen.nl
 https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
-https://app7-accp.nijmegen.nl
 https://appapi.montferland.info
 https://appl.gw.rotterdam.nl
 https://applicaties.tilburg.nl
@@ -3703,7 +3702,6 @@ https://guido.asten.nl
 https://guisweg.zaanstad.nl
 https://gulpen-wittem.nl
 https://gvonline.hilversum.nl
-https://gw-test.nijmegen.nl
 https://gwo.lopik.nl
 https://haaksbergen.nl
 https://haal-centraal.api.data.amsterdam.nl
@@ -4360,7 +4358,6 @@ https://jip.hofvantwente.nl
 https://jip.vijfheerenlanden.nl
 https://jmg.acc.nijmegen.nl
 https://jmh.acc.nijmegen.nl
-https://jmh.nijmegen.nl
 https://jobport-acc.venlo.nl
 https://jobport-api.venlo.nl
 https://jobport-dts-acc.venlo.nl
@@ -5442,6 +5439,7 @@ https://oldenzaal-checker-preprod.oldenzaal.nl
 https://oldenzaal-checker.oldenzaal.nl
 https://oldenzaal.nl
 https://olst-wijhe.nl
+https://ombudsman.acc.nijmegen.nl
 https://ombudsman.nijmegen.nl
 https://omgevingsdocumenten.rijssen-holten.nl
 https://omgevingsvisie.almelo.nl
@@ -7138,6 +7136,8 @@ https://transfer.stedebroec.nl
 https://transform.deventer.nl
 https://trefnet.hellevoetsluis.nl
 https://trefpunt.deurne.nl
+https://triavium.acc.nijmegen.nl
+https://triavium.nijmegen.nl
 https://tripleforms.nieuwegein.nl
 https://tripleformst.nieuwegein.nl
 https://trobit.gooisemeren.nl

@@ -24,7 +24,6 @@ https://api.openstad.nijmegen.nl
 https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
-https://app7-accp.nijmegen.nl
 https://auth.openstad.nijmegen.nl
 https://authenticatie-accp.nijmegen.nl
 https://authenticatie.nijmegen.nl
@@ -40,14 +39,12 @@ https://data.nijmegen.nl
 https://e.openstad.nijmegen.nl
 https://formulier.accp.nijmegen.nl
 https://formulier.nijmegen.nl
-https://gw-test.nijmegen.nl
 https://idcontact-accp.nijmegen.nl
 https://img.openstad.nijmegen.nl
 https://inkomensondersteuning.nijmegen.nl
 https://insite.nijmegen.nl
 https://jmg.acc.nijmegen.nl
 https://jmh.acc.nijmegen.nl
-https://jmh.nijmegen.nl
 https://kaart.nijmegen.nl
 https://kavelsvastgoed.nijmegen.nl
 https://kennisbank.nijmegen.nl
@@ -64,6 +61,7 @@ https://mijn.nijmegen.nl
 https://mijngeldzaken.nijmegen.nl
 https://nijmegen.nl
 https://nimmaleert.nijmegen.nl
+https://ombudsman.acc.nijmegen.nl
 https://ombudsman.nijmegen.nl
 https://online.acc.nijmegen.nl
 https://online.nijmegen.nl
@@ -95,6 +93,8 @@ https://subsidies.backoffice.nijmegen.nl
 https://subsidies.nijmegen.nl
 https://test-insite.nijmegen.nl
 https://test-vergoedingen.nijmegen.nl
+https://triavium.acc.nijmegen.nl
+https://triavium.nijmegen.nl
 https://vacatures.acc.nijmegen.nl
 https://vacatures.nijmegen.nl
 https://vergoedingen.nijmegen.nl

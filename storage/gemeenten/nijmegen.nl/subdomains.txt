@@ -47,15 +47,12 @@ evenementen.nijmegen.nl
 formulier.accp.nijmegen.nl
 formulier.nijmegen.nl
 ftp.nijmegen.nl
-gw-test.nijmegen.nl
-ice.nijmegen.nl
 idcontact-accp.nijmegen.nl
 img.openstad.nijmegen.nl
 inkomensondersteuning.nijmegen.nl
 insite.nijmegen.nl
 jmg.acc.nijmegen.nl
 jmh.acc.nijmegen.nl
-jmh.nijmegen.nl
 kaart.nijmegen.nl
 kavelsvastgoed.nijmegen.nl
 kennisbank.nijmegen.nl
@@ -76,6 +73,7 @@ nlb-irma-disclosure.nijmegen.nl
 nlb-irma.nijmegen.nl
 nlb-test-irma-disclosure.nijmegen.nl
 nlb-test-irma.nijmegen.nl
+ombudsman.acc.nijmegen.nl
 ombudsman.nijmegen.nl
 online.acc.nijmegen.nl
 online.nijmegen.nl
@@ -109,6 +107,8 @@ subsidies.nijmegen.nl
 test-inkomensondersteuning.nijmegen.nl
 test-insite.nijmegen.nl
 test-vergoedingen.nijmegen.nl
+triavium.acc.nijmegen.nl
+triavium.nijmegen.nl
 vacatures.acc.nijmegen.nl
 vacatures.nijmegen.nl
 vergoedingen.nijmegen.nl
@@ -136,7 +136,6 @@ www.openstad.nijmegen.nl
 www.sport.nijmegen.nl
 www.stationsdistrict.nijmegen.nl
 www.winkelsteeg.nijmegen.nl
-wwwtest.nijmegen.nl
 yivi-voor-medewerkers.accp.nijmegen.nl
 yivi-voor-medewerkers.nijmegen.nl
 yivi.accp.nijmegen.nl

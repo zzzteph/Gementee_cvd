@@ -5694,7 +5694,6 @@ gvonline.westmaasenwaal.nl
 gvt.haarlemmermeer.nl
 gvz2digikoppeling.landsmeer.nl
 gvzdigikoppeling.landsmeer.nl
-gw-test.nijmegen.nl
 gw.servers1.bergen-nh.nl
 gwm-orawls-01.middendelfland.nl
 gwm-orawls-02.middendelfland.nl
@@ -6280,7 +6279,6 @@ ibzpink.zwartewaterland.nl
 ibzpink.zwolle.nl
 ica.winterswijk.nl
 icclient.wijdemeren.nl
-ice.nijmegen.nl
 icm-ast.asten.nl
 icontroler-api.zwolle.nl
 icontroler.zwolle.nl
@@ -6842,7 +6840,6 @@ jip.hofvantwente.nl
 jip.vijfheerenlanden.nl
 jmg.acc.nijmegen.nl
 jmh.acc.nijmegen.nl
-jmh.nijmegen.nl
 jnetcc01p.schiedam.nl
 jnetcc01t.schiedam.nl
 jobport-acc.venlo.nl
@@ -8851,6 +8848,7 @@ olo.heusden.nl
 olst-wijhe.nl
 olwmks01.opsterland.nl
 ombudsman-acc.denhaag.nl
+ombudsman.acc.nijmegen.nl
 ombudsman.denhaag.nl
 ombudsman.nijmegen.nl
 omgevingsdocumenten.rijssen-holten.nl
@@ -12372,6 +12370,8 @@ trashr.rotterdam.nl
 traveler.hellevoetsluis.nl
 trefnet.hellevoetsluis.nl
 trefpunt.deurne.nl
+triavium.acc.nijmegen.nl
+triavium.nijmegen.nl
 tripleacceptatie.heerlen.nl
 tripleforms.heerlen.nl
 tripleforms.nieuwegein.nl
@@ -14607,7 +14607,6 @@ www2.heusden.nl
 www2.noordoostpolder.nl
 www2.testformulieren.haarlemmermeer.nl
 wwwtest.beuningen.nl
-wwwtest.nijmegen.nl
 xelion.deurne.nl
 xencor.bergenopzoom.nl
 xencort.bergenopzoom.nl
