@@ -326,13 +326,13 @@ http://felix.leudal.nl
 http://felix.loonopzand.nl
 http://felix.middendelfland.nl
 http://felix.mookenmiddelaar.nl
+http://felix.nissewaard.nl
 http://felix.renswoude.nl
 http://felix.simpelveld.nl
 http://felix.t-diel.nl
 http://felix.wierden.nl
 http://felix.winterswijk.nl
 http://felix.zwartewaterland.nl
-http://felixburgerzaken.nissewaard.nl
 http://fisha.rotterdam.nl
 http://flash.scherpenzeel.nl
 http://flexibeleschil.rotterdam.nl
@@ -2278,6 +2278,7 @@ https://cmswhatsepe.epe.nl
 https://cmszaanzoeker.zaanstad.nl
 https://cnoops.gemeentemaasgouw.nl
 https://co2monitor.terschelling.nl
+https://coda-acc.nissewaard.nl
 https://coevorden.nl
 https://cognos-oth.oosterhout.nl
 https://collecties.dantumadiel.frl
@@ -3215,7 +3216,6 @@ https://felix.lingewaard.nl
 https://felix.lopik.nl
 https://felix.nederweert.nl
 https://felix.nijkerk.eu
-https://felix.nissewaard.nl
 https://felix.ooststellingwerf.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
@@ -3230,6 +3230,7 @@ https://felix.westmaasenwaal.nl
 https://felix.weststellingwerf.nl
 https://felix.woensdrecht.nl
 https://felix.zundert.nl
+https://felixburgerzaken.nissewaard.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
