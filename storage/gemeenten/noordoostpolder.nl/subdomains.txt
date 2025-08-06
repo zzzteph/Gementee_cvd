@@ -2,7 +2,12 @@ acceptatie.noordoostpolder.nl
 autodiscover.noordoostpolder.nl
 bbv-acceptatie.noordoostpolder.nl
 bbv.noordoostpolder.nl
+beheer.belastingbalie-acc.noordoostpolder.nl
+beheer.belastingbalie.noordoostpolder.nl
+belastingbalie-acc.noordoostpolder.nl
+belastingbalie.noordoostpolder.nl
 berichten.noordoostpolder.nl
+betalen.noordoostpolder.nl
 bor.noordoostpolder.nl
 bordashboard.noordoostpolder.nl
 bortest.noordoostpolder.nl

@@ -1,14 +1,20 @@
 http://autodiscover.noordoostpolder.nl
+http://test-nopnet.noordoostpolder.nl
+https://beheer.belastingbalie-acc.noordoostpolder.nl
+https://beheer.belastingbalie.noordoostpolder.nl
+https://belastingbalie-acc.noordoostpolder.nl
+https://belastingbalie.noordoostpolder.nl
 https://berichten.noordoostpolder.nl
+https://betalen.noordoostpolder.nl
 https://cmsnopnet.noordoostpolder.nl
 https://cmsoo.noordoostpolder.nl
-https://dmst.noordoostpolder.nl
 https://filecap.noordoostpolder.nl
 https://formulieren.noordoostpolder.nl
 https://geoplaza.noordoostpolder.nl
 https://grondwater.noordoostpolder.nl
 https://helpmij.noordoostpolder.nl
 https://iburgerzaken.noordoostpolder.nl
+https://ibzpink.noordoostpolder.nl
 https://noordoostpolder.nl
 https://nopnet.noordoostpolder.nl
 https://portal.noordoostpolder.nl
@@ -20,4 +26,3 @@ https://tportal.noordoostpolder.nl
 https://webmail.noordoostpolder.nl
 https://www.noordoostpolder.nl
 https://zs.noordoostpolder.nl
-https://zst.noordoostpolder.nl

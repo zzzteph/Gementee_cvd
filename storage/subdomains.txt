@@ -2079,6 +2079,8 @@ beheer-test-trefpunt.deurne.nl
 beheer-trefpunt.deurne.nl
 beheer.acc.amsterdam.nl
 beheer.amsterdam.nl
+beheer.belastingbalie-acc.noordoostpolder.nl
+beheer.belastingbalie.noordoostpolder.nl
 beheer.data.amsterdam.nl
 beheer.gemeentehw.nl
 beheer.landvancuijk.nl
@@ -2098,6 +2100,7 @@ belasting-test.kampen.nl
 belasting.kampen.nl
 belastingbalie-acc.amsterdam.nl
 belastingbalie-acc.hilversum.nl
+belastingbalie-acc.noordoostpolder.nl
 belastingbalie-acc.wijdemeren.nl
 belastingbalie-prepod.gooisemeren.nl
 belastingbalie-test.doetinchem.nl
@@ -2129,6 +2132,7 @@ belastingbalie.meierijstad.nl
 belastingbalie.meppel.nl
 belastingbalie.montfoort.nl
 belastingbalie.nissewaard.nl
+belastingbalie.noordoostpolder.nl
 belastingbalie.pijnacker-nootdorp.nl
 belastingbalie.rhenen.nl
 belastingbalie.rijswijk.nl
@@ -2342,6 +2346,7 @@ betalen.leeuwarden.nl
 betalen.meppel.nl
 betalen.nieuwegein.nl
 betalen.nissewaard.nl
+betalen.noordoostpolder.nl
 betalen.ouder-amstel.nl
 betalen.pijnacker-nootdorp.nl
 betalen.rhenen.nl

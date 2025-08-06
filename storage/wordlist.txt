@@ -34,10 +34,10 @@ raad
 geo
 parkeren
 api.meldingen
+betalen
 adfs
 broker
 vpn
-betalen
 iparticipatie
 ruimtelijkeplannen
 test-ipa
@@ -60,10 +60,10 @@ enterpriseregistration
 loket.acceptatie
 data
 openpub
+belastingbalie
 cmsoo
 omgevingsvisie
 login
-belastingbalie
 cloudadapter-test
 osb
 digikoppeling-test
@@ -416,6 +416,7 @@ testsiam
 zaakloket
 2secure
 mail1
+belastingbalie-acc
 gbi
 geotest
 moh-acc
@@ -538,7 +539,6 @@ crl
 acc.meldingen
 api.acc.meldingen
 applicaties
-belastingbalie-acc
 belastingbalie.acc
 bouwdossiers
 dataportaal
@@ -4514,6 +4514,8 @@ lv-brk
 grmks05
 bbv-acceptatie
 bbv
+beheer.belastingbalie-acc
+beheer.belastingbalie
 bordashboard
 bortest
 bortestdashboard

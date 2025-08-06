@@ -590,6 +590,7 @@ http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.steenwijkerland.nl
 http://test-jip.hofvantwente.nl
+http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
 http://test.website.westland.gemeentewestland.nl
@@ -1757,6 +1758,8 @@ https://beh-gemeenteloket.gemeentemaastricht.nl
 https://beheer-test-trefpunt.deurne.nl
 https://beheer-trefpunt.deurne.nl
 https://beheer.acc.amsterdam.nl
+https://beheer.belastingbalie-acc.noordoostpolder.nl
+https://beheer.belastingbalie.noordoostpolder.nl
 https://beheer.gemeentehw.nl
 https://beheer.landvancuijk.nl
 https://beheerbeeldbank.breda.nl
@@ -1769,6 +1772,7 @@ https://belasting-lokettest.helmond.nl
 https://belasting-test.kampen.nl
 https://belasting.kampen.nl
 https://belastingbalie-acc.hilversum.nl
+https://belastingbalie-acc.noordoostpolder.nl
 https://belastingbalie-acc.wijdemeren.nl
 https://belastingbalie-prepod.gooisemeren.nl
 https://belastingbalie-test.doetinchem.nl
@@ -1797,6 +1801,7 @@ https://belastingbalie.lopik.nl
 https://belastingbalie.meierijstad.nl
 https://belastingbalie.meppel.nl
 https://belastingbalie.nissewaard.nl
+https://belastingbalie.noordoostpolder.nl
 https://belastingbalie.pijnacker-nootdorp.nl
 https://belastingbalie.rhenen.nl
 https://belastingbalie.rijswijk.nl
@@ -1957,6 +1962,7 @@ https://betalen.leeuwarden.nl
 https://betalen.meppel.nl
 https://betalen.nieuwegein.nl
 https://betalen.nissewaard.nl
+https://betalen.noordoostpolder.nl
 https://betalen.ouder-amstel.nl
 https://betalen.pijnacker-nootdorp.nl
 https://betalen.rhenen.nl
@@ -2572,7 +2578,6 @@ https://dloket.rotterdam.nl
 https://dloket.veendam.nl
 https://dloket.waterland.nl
 https://dloket.zwolle.nl
-https://dmst.noordoostpolder.nl
 https://dmzsvr02.winterswijk.nl
 https://do.winterswijk.nl
 https://docgen.deventer.nl
@@ -4072,6 +4077,7 @@ https://ibzpink.nederbetuwe.nl
 https://ibzpink.nieuwegein.nl
 https://ibzpink.nieuwkoop.nl
 https://ibzpink.noord-beveland.nl
+https://ibzpink.noordoostpolder.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -8360,7 +8366,6 @@ https://zs-accept.zeist.nl
 https://zs.noordoostpolder.nl
 https://zsaccept.heusden.nl
 https://zsnl-acceptatie.hilversum.nl
-https://zst.noordoostpolder.nl
 https://zuiderbad.amsterdam.nl
 https://zuil.gemeentehw.nl
 https://zundert.nl
