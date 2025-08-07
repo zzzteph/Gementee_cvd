@@ -4078,6 +4078,7 @@ https://ibzpink.nieuwegein.nl
 https://ibzpink.nieuwkoop.nl
 https://ibzpink.noord-beveland.nl
 https://ibzpink.noordoostpolder.nl
+https://ibzpink.noordwijk.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4400,7 +4401,6 @@ https://kaart.katwijk.nl
 https://kaart.leiden.nl
 https://kaart.lelystad.nl
 https://kaart.nijmegen.nl
-https://kaart.noordwijk.nl
 https://kaart.oegstgeest.nl
 https://kaart.sittard-geleen.nl
 https://kaart.soest.nl
