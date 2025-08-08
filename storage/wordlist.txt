@@ -95,13 +95,13 @@ _autodiscover._tcp
 portaal
 siam
 financien
+bgt
 pki
 test-cmsintranet
 osbacc
 duurzaam
 acc-formulier
 acc-podiumd-logs
-bgt
 podiumd-logs
 extranet
 govroam
@@ -280,6 +280,7 @@ squit2020.acceptatie
 www.samen
 woz-portaal
 www.intranet
+en
 mijnsociaaldomein
 midoffice
 geovisia
@@ -320,7 +321,6 @@ eformulieren
 academie
 aeolus
 squit2020publiceren
-en
 liquit
 radius
 beeldbankbeheer

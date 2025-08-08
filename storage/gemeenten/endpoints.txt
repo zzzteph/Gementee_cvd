@@ -327,6 +327,7 @@ http://felix.loonopzand.nl
 http://felix.middendelfland.nl
 http://felix.mookenmiddelaar.nl
 http://felix.nissewaard.nl
+http://felix.nuenen.nl
 http://felix.renswoude.nl
 http://felix.simpelveld.nl
 http://felix.t-diel.nl
@@ -427,6 +428,7 @@ http://onderzoek.utrecht.nl
 http://ontheffingen-mz.denhaag.nl
 http://open.gemeentebeek.nl
 http://open.halderberge.nl
+http://open.nuenen.nl
 http://open.sonenbreugel.nl
 http://open.zuidplas.nl
 http://opendata-contrast.zoetermeer.nl
@@ -3077,6 +3079,7 @@ https://en.geldrop-mierlo.nl
 https://en.gemert-bakel.nl
 https://en.heerlen.nl
 https://en.kerkrade.nl
+https://en.nuenen.nl
 https://en.sonenbreugel.nl
 https://en.zoetermeer.nl
 https://energiebespaaradvies.overbetuwe.nl
@@ -4079,6 +4082,7 @@ https://ibzpink.nieuwkoop.nl
 https://ibzpink.noord-beveland.nl
 https://ibzpink.noordoostpolder.nl
 https://ibzpink.noordwijk.nl
+https://ibzpink.nuenen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5573,7 +5577,6 @@ https://open.middendrenthe.nl
 https://open.moerdijk.nl
 https://open.nijmegen.nl
 https://open.noordwijk.nl
-https://open.nuenen.nl
 https://open.oirschot.nl
 https://open.oude-ijsselstreek.nl
 https://open.rhenen.nl
@@ -6498,7 +6501,6 @@ https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.gemeentebeek.nl
-https://simcms-open.nuenen.nl
 https://simcms-open.oirschot.nl
 https://simcms-open.wierden.nl
 https://simcms-open.zuidplas.nl
@@ -6520,7 +6522,6 @@ https://simcms.heeze-leende.nl
 https://simcms.intranet.lopik.nl
 https://simcms.leudal.nl
 https://simcms.nieuwkoop.nl
-https://simcms.nuenen.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.overbetuwe.nl
 https://simcms.renswoude.nl
@@ -8021,6 +8022,7 @@ https://www.noorderkwartier.zwolle.nl
 https://www.noordoostpolder.nl
 https://www.noordwijk.nl
 https://www.nu.venlo.nl
+https://www.nuenen.nl
 https://www.nunspeet.nl
 https://www.nwro.velsen.nl
 https://www.oco.eindhoven.nl

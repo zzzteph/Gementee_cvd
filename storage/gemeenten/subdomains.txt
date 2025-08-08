@@ -2406,6 +2406,7 @@ bgt.halderberge.nl
 bgt.hoogeveen.nl
 bgt.lochem.nl
 bgt.medemblik.nl
+bgt.nuenen.nl
 bgt.pijnacker-nootdorp.nl
 bgt.veldhoven.nl
 bgt.voorst.nl
@@ -4574,6 +4575,7 @@ en.geldrop-mierlo.nl
 en.gemert-bakel.nl
 en.heerlen.nl
 en.kerkrade.nl
+en.nuenen.nl
 en.sonenbreugel.nl
 en.zoetermeer.nl
 endpoint.oss.nl
