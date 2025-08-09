@@ -2244,7 +2244,6 @@ https://cmsintranet.wijdemeren.nl
 https://cmsintranet.zeist.nl
 https://cmsjip.hofvantwente.nl
 https://cmsjip.vijfheerenlanden.nl
-https://cmsmarkt1.nunspeet.nl
 https://cmsnopnet.noordoostpolder.nl
 https://cmsoo.assen.nl
 https://cmsoo.bodegraven-reeuwijk.nl
@@ -2492,6 +2491,7 @@ https://denkmee.kaagenbraassem.nl
 https://denkmee.maassluis.nl
 https://denkmee.nieuwkoop.nl
 https://denkmee.noord-beveland.nl
+https://denkmee.nunspeet.nl
 https://denkmee.oudewater.nl
 https://denkmee.pijnacker-nootdorp.nl
 https://denkmee.schouwen-duiveland.nl
@@ -4083,6 +4083,7 @@ https://ibzpink.noord-beveland.nl
 https://ibzpink.noordoostpolder.nl
 https://ibzpink.noordwijk.nl
 https://ibzpink.nuenen.nl
+https://ibzpink.nunspeet.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4200,7 +4201,6 @@ https://intens.enschede.nl
 https://interflex.twenterand.nl
 https://internetafspraken.hattem.nl
 https://internetafspraken.heerde.nl
-https://internetafspraken.nunspeet.nl
 https://internetafspraken.oldebroek.nl
 https://internetafspraken.oss.nl
 https://internoss.oss.nl
@@ -6609,7 +6609,6 @@ https://smartdocuments.denhaag.nl
 https://smartdocwvn.westvoorne.nl
 https://smartdocwvnacc.westvoorne.nl
 https://smoelennet.almelo.nl
-https://smtp01.nunspeet.nl
 https://snelbalie.almere.nl
 https://snelbalie.apeldoorn.nl
 https://snelbalie.bergenopzoom.nl
@@ -7008,7 +7007,6 @@ https://testcms-inhuiz.huizen.nl
 https://testcms-intranet.eemsdelta.nl
 https://testcms-intranet.midden-groningen.nl
 https://testcms-jip.hofvantwente.nl
-https://testcms-markt1.nunspeet.nl
 https://testdigikoppeling.haarlemmermeer.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testdigitaalgemeenteloket.kaagenbraassem.nl
@@ -7060,7 +7058,6 @@ https://testloket.leusden.nl
 https://testloket.middelburg.nl
 https://testloket.nieuwkoop.nl
 https://testloket.oldebroek.nl
-https://testmarkt1.nunspeet.nl
 https://testmeldingen.asten.nl
 https://testmijn.lochem.nl
 https://testmijngemeente.waddinxveen.nl
