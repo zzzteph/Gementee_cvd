@@ -506,6 +506,7 @@ http://simcms-open.bronckhorst.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
+http://simcms-open.oirschot.nl
 http://simcms-open.staphorst.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms.bronckhorst.nl
@@ -535,7 +536,6 @@ http://simsite.heeze-leende.nl
 http://simsite.heumen.nl
 http://simsite.lopik.nl
 http://simsite.mookenmiddelaar.nl
-http://simsite.oirschot.nl
 http://simsite.renswoude.nl
 http://simsite.veere.nl
 http://simsite.westerkwartier.nl
@@ -4084,6 +4084,7 @@ https://ibzpink.noordoostpolder.nl
 https://ibzpink.noordwijk.nl
 https://ibzpink.nuenen.nl
 https://ibzpink.nunspeet.nl
+https://ibzpink.oirschot.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5577,7 +5578,6 @@ https://open.middendrenthe.nl
 https://open.moerdijk.nl
 https://open.nijmegen.nl
 https://open.noordwijk.nl
-https://open.oirschot.nl
 https://open.oude-ijsselstreek.nl
 https://open.rhenen.nl
 https://open.roosendaal.nl
@@ -6104,7 +6104,6 @@ https://preproductie.kerkrade.nl
 https://preproductie.lopik.nl
 https://preproductie.montferland.info
 https://preproductie.mookenmiddelaar.nl
-https://preproductie.oirschot.nl
 https://preproductie.ooststellingwerf.nl
 https://preproductie.scherpenzeel.nl
 https://preproductie.simpelveld.nl
@@ -6501,7 +6500,6 @@ https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.gemeentebeek.nl
-https://simcms-open.oirschot.nl
 https://simcms-open.wierden.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beuningen.nl
@@ -6522,6 +6520,7 @@ https://simcms.heeze-leende.nl
 https://simcms.intranet.lopik.nl
 https://simcms.leudal.nl
 https://simcms.nieuwkoop.nl
+https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.overbetuwe.nl
 https://simcms.renswoude.nl

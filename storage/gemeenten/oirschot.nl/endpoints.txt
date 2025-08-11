@@ -1,12 +1,11 @@
 http://raadsagenda.oirschot.nl
-http://simsite.oirschot.nl
+http://simcms-open.oirschot.nl
 https://betalenaan.oirschot.nl
 https://iburgerzaken.oirschot.nl
+https://ibzpink.oirschot.nl
 https://jccapi.oirschot.nl
 https://leerplein.oirschot.nl
 https://oirschot.nl
-https://open.oirschot.nl
-https://preproductie.oirschot.nl
-https://simcms-open.oirschot.nl
+https://simcms.oirschot.nl
 https://woningbouwkaart.oirschot.nl
 https://www.oirschot.nl
