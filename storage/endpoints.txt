@@ -1254,7 +1254,6 @@ https://afspraken.middendelfland.nl
 https://afspraken.nissewaard.nl
 https://afspraken.noord-beveland.nl
 https://afspraken.oegstgeest.nl
-https://afspraken.oisterwijk.nl
 https://afspraken.olst-wijhe.nl
 https://afspraken.oostzaan.nl
 https://afspraken.pekela.nl
@@ -4085,6 +4084,7 @@ https://ibzpink.noordwijk.nl
 https://ibzpink.nuenen.nl
 https://ibzpink.nunspeet.nl
 https://ibzpink.oirschot.nl
+https://ibzpink.oisterwijk.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -7484,7 +7484,6 @@ https://website.gilzerijen.nl
 https://website.hillegom.nl
 https://website.landvancuijk.nl
 https://website.lisse.nl
-https://website.oisterwijk.nl
 https://website.teylingen.nl
 https://website.venlo.nl
 https://websitestatistiek.oude-ijsselstreek.nl
