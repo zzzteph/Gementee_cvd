@@ -3702,7 +3702,6 @@ https://grondwater.krimpenerwaard.nl
 https://grondwater.noordoostpolder.nl
 https://groningen.nl
 https://grooster.dalfsen.nl
-https://grooster.oldebroek.nl
 https://grooster.reimerswaal.nl
 https://grootklooster.doemee.heemstede.nl
 https://growinggreencities.almere.nl
@@ -4085,6 +4084,7 @@ https://ibzpink.nuenen.nl
 https://ibzpink.nunspeet.nl
 https://ibzpink.oirschot.nl
 https://ibzpink.oisterwijk.nl
+https://ibzpink.oldebroek.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4202,7 +4202,6 @@ https://intens.enschede.nl
 https://interflex.twenterand.nl
 https://internetafspraken.hattem.nl
 https://internetafspraken.heerde.nl
-https://internetafspraken.oldebroek.nl
 https://internetafspraken.oss.nl
 https://internoss.oss.nl
 https://internoss.test.oss.nl
@@ -6247,6 +6246,7 @@ https://raad.koggenland.nl
 https://raad.middendrenthe.nl
 https://raad.molenlanden.nl
 https://raad.noordoostpolder.nl
+https://raad.oldebroek.nl
 https://raad.oude-ijsselstreek.nl
 https://raad.papendrecht.nl
 https://raad.purmerend.nl

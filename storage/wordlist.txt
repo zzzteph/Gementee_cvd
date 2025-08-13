@@ -179,7 +179,6 @@ ro
 contentbeheer.acceptatie
 zaken.acceptatie
 transfer
-internetafspraken
 squit2020
 college
 veiligdelen
@@ -197,6 +196,7 @@ uc
 mobile
 bor
 inproces.acceptatie
+internetafspraken
 bestuur
 afspraakmaken
 mta-sts
@@ -4559,6 +4559,7 @@ raadsagenda
 acceptatie.insite
 haarendossiers
 test.haarendossiers
+koppeling-test
 coalitieprogramma
 genealogie
 inloggen-acceptatie

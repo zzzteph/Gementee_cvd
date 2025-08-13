@@ -6,8 +6,8 @@ digikoppeling.oldebroek.nl
 grooster.oldebroek.nl
 iburgerzaken.oldebroek.nl
 ibzpink.oldebroek.nl
-internetafspraken.oldebroek.nl
 iparticipatie.oldebroek.nl
+koppeling-test.oldebroek.nl
 loket.oldebroek.nl
 meldingen-acc.oldebroek.nl
 meldingen.oldebroek.nl
@@ -15,6 +15,7 @@ oldebroek.nl
 omgevingsvisie.oldebroek.nl
 preprod.oldebroek.nl
 pv.oldebroek.nl
+raad.oldebroek.nl
 ruimtelijkeplannen.oldebroek.nl
 test-ipa.oldebroek.nl
 testbelastingloket.oldebroek.nl

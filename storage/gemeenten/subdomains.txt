@@ -6513,7 +6513,6 @@ internetafspraken.hattem.nl
 internetafspraken.heerde.nl
 internetafspraken.heerlen.nl
 internetafspraken.nunspeet.nl
-internetafspraken.oldebroek.nl
 internetafspraken.oss.nl
 internetafspraken.ouder-amstel.nl
 internetafspraken.overbetuwe.nl
@@ -7173,6 +7172,7 @@ kop-pub-squ.edam-volendam.nl
 kop-pub-tmp-joi.edam-volendam.nl
 kop-pub-woz.edam-volendam.nl
 koppeling-belastingbalie.doetinchem.nl
+koppeling-test.oldebroek.nl
 koppeling.venray.nl
 koppelingen.krimpenerwaard.nl
 koppelingentest.krimpenerwaard.nl
@@ -10274,6 +10274,7 @@ raad.lansingerland.nl
 raad.middendrenthe.nl
 raad.molenlanden.nl
 raad.noordoostpolder.nl
+raad.oldebroek.nl
 raad.oude-ijsselstreek.nl
 raad.papendrecht.nl
 raad.purmerend.nl
