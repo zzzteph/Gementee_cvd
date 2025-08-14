@@ -149,6 +149,7 @@ aanvragenprod.teylingen.nl
 aardgasvrij.acc.nijmegen.nl
 aardgasvrij.nijmegen.nl
 aauth.gouda.nl
+abc.oldenzaal.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
 ac00089.delft.nl
@@ -160,6 +161,7 @@ academie.nederbetuwe.nl
 academie.smallingerland.nl
 academie.weststellingwerf.nl
 acc-abc.laarbeek.nl
+acc-abc.oldenzaal.nl
 acc-afvalkalender.goes.nl
 acc-beeldbank.leiden.nl
 acc-broker.assen.nl
