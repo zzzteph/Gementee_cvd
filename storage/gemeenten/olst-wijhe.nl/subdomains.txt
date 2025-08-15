@@ -1,4 +1,17 @@
 acc-broker.olst-wijhe.nl
+acc-podiumd-abc.olst-wijhe.nl
+acc-podiumd-contact.olst-wijhe.nl
+acc-podiumd-formulier.olst-wijhe.nl
+acc-podiumd-keycloak-admin.olst-wijhe.nl
+acc-podiumd-keycloak.olst-wijhe.nl
+acc-podiumd-logs.olst-wijhe.nl
+acc-podiumd-mijn.olst-wijhe.nl
+acc-podiumd-notificaties.olst-wijhe.nl
+acc-podiumd-objecten.olst-wijhe.nl
+acc-podiumd-objecttypen.olst-wijhe.nl
+acc-podiumd-openklant.olst-wijhe.nl
+acc-podiumd-openzaak.olst-wijhe.nl
+acc-podiumd-zac.olst-wijhe.nl
 afspraken.olst-wijhe.nl
 archief.olst-wijhe.nl
 broker.olst-wijhe.nl
