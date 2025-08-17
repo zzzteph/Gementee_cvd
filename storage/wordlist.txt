@@ -171,6 +171,7 @@ gisib
 bis
 nieuwsbrief
 owa
+www.doemee
 zac
 gasten
 mdm
@@ -187,7 +188,6 @@ mailing
 gis
 bag
 test-digikoppeling
-www.doemee
 meedoen
 localhost
 fmreturn

@@ -648,6 +648,7 @@ http://www.denkmee.woerden.nl
 http://www.destemvan.groningen.nl
 http://www.deurne.nl
 http://www.doemee.gemeentebest.nl
+http://www.doemee.oosterhout.nl
 http://www.eersel.nl
 http://www.gemeenteraad.groningen.nl
 http://www.goedterechtin.leeuwarden.nl
@@ -4102,6 +4103,7 @@ https://ibzpink.oisterwijk.nl
 https://ibzpink.oldebroek.nl
 https://ibzpink.olst-wijhe.nl
 https://ibzpink.ommen.nl
+https://ibzpink.oosterhout.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
