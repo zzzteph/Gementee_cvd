@@ -150,6 +150,7 @@ aardgasvrij.acc.nijmegen.nl
 aardgasvrij.nijmegen.nl
 aauth.gouda.nl
 abc.oldenzaal.nl
+abc.oostgelre.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
 ac00089.delft.nl
@@ -162,6 +163,7 @@ academie.smallingerland.nl
 academie.weststellingwerf.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
+acc-abc.oostgelre.nl
 acc-afvalkalender.goes.nl
 acc-beeldbank.leiden.nl
 acc-broker.assen.nl
@@ -10449,6 +10451,8 @@ restore.wierden.nl
 return.heuvelrug.nl
 return.purmerend.nl
 reuseldemierden.nl
+revprox-acc.oostgelre.nl
+revprox.oostgelre.nl
 revprox01.oostgelre.nl
 revprox02.oostgelre.nl
 rg220.purmerend.nl

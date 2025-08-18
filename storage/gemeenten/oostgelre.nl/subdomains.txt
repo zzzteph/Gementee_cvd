@@ -1,3 +1,5 @@
+abc.oostgelre.nl
+acc-abc.oostgelre.nl
 acc-broker.oostgelre.nl
 acc-contact.oostgelre.nl
 acc-formulier.oostgelre.nl
@@ -61,6 +63,8 @@ openzaak.oostgelre.nl
 piwik.oostgelre.nl
 podiumd-logs.oostgelre.nl
 radius.oostgelre.nl
+revprox-acc.oostgelre.nl
+revprox.oostgelre.nl
 revprox01.oostgelre.nl
 revprox02.oostgelre.nl
 ruimtelijkeplannen.oostgelre.nl

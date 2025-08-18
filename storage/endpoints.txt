@@ -761,12 +761,14 @@ https://aanvragenprod.teylingen.nl
 https://aardgasvrij.acc.nijmegen.nl
 https://aardgasvrij.nijmegen.nl
 https://abc.oldenzaal.nl
+https://abc.oostgelre.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
 https://academie.landgraaf.nl
 https://academie.smallingerland.nl
 https://acc-abc.laarbeek.nl
 https://acc-abc.oldenzaal.nl
+https://acc-abc.oostgelre.nl
 https://acc-afvalkalender.goes.nl
 https://acc-beeldbank.leiden.nl
 https://acc-broker.assen.nl
@@ -4104,6 +4106,7 @@ https://ibzpink.oldebroek.nl
 https://ibzpink.olst-wijhe.nl
 https://ibzpink.ommen.nl
 https://ibzpink.oosterhout.nl
+https://ibzpink.oostgelre.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl

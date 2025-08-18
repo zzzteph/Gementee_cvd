@@ -1,4 +1,6 @@
 http://autodiscover.oostgelre.nl
+https://abc.oostgelre.nl
+https://acc-abc.oostgelre.nl
 https://acc-broker.oostgelre.nl
 https://acc-contact.oostgelre.nl
 https://acc-formulier.oostgelre.nl
@@ -22,6 +24,7 @@ https://dacceptatieloket.oostgelre.nl
 https://dloket.oostgelre.nl
 https://formulier.oostgelre.nl
 https://iburgerzaken.oostgelre.nl
+https://ibzpink.oostgelre.nl
 https://keycloak-admin.oostgelre.nl
 https://keycloak.oostgelre.nl
 https://meldingen-acc.oostgelre.nl

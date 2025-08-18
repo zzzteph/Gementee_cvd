@@ -694,6 +694,7 @@ bekendmakingen
 hybrid1
 hybrid2
 digitaalloket
+acc-abc
 ews
 opentunnel
 duoloket
@@ -1111,7 +1112,6 @@ post
 geocortex
 monitor
 tickets
-acc-abc
 cmsembrace
 embrace
 koppelvlakken
@@ -1169,6 +1169,7 @@ eformulieren-test
 helpmij
 telefonie
 test.open-formulieren
+abc
 dev
 iobjects
 smtp10
@@ -4560,7 +4561,6 @@ acceptatie.insite
 haarendossiers
 test.haarendossiers
 koppeling-test
-abc
 coalitieprogramma
 genealogie
 inloggen-acceptatie
@@ -4615,6 +4615,8 @@ klickwion
 local
 mks-prod
 mob
+revprox-acc
+revprox
 revprox01
 revprox02
 staging.intranet
