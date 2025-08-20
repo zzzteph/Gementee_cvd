@@ -1273,7 +1273,6 @@ https://afspraken.nissewaard.nl
 https://afspraken.noord-beveland.nl
 https://afspraken.oegstgeest.nl
 https://afspraken.olst-wijhe.nl
-https://afspraken.oostzaan.nl
 https://afspraken.pekela.nl
 https://afspraken.pijnacker-nootdorp.nl
 https://afspraken.purmerend.nl
@@ -4747,7 +4746,6 @@ https://lvs.zwemmen.venlo.nl
 https://lyncdiscover.diemen.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
-https://lyncdiscover.oostzaan.nl
 https://lyncdiscover.ouder-amstel.nl
 https://lyncdiscover.uithoorn.nl
 https://lyncdiscover.wijdemeren.nl
@@ -6592,7 +6590,6 @@ https://sintanthonis.landvancuijk.nl
 https://sip.diemen.nl
 https://sip.hellevoetsluis.nl
 https://sip.houten.nl
-https://sip.oostzaan.nl
 https://sip.ouder-amstel.nl
 https://sip.uithoorn.nl
 https://sip.wijdemeren.nl
