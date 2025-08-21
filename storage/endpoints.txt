@@ -365,6 +365,7 @@ http://id-subsidies-login.acceptatie.ede.nl
 http://iga.denhaag.nl
 http://iit-controle.rotterdam.nl
 http://ikbouwin.denhaag.nl
+http://im.opmeer.nl
 http://internoss-test.oss.nl
 http://intranet-acc.bergendal.nl
 http://intranet-acc.landvancuijk.nl
@@ -502,6 +503,7 @@ http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-cjg.scherpenzeel.nl
 http://simcms-energiek.beuningen.nl
+http://simcms-ontmoetingscentra.opmeer.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.bronckhorst.nl
 http://simcms-open.geldrop-mierlo.nl
@@ -518,7 +520,6 @@ http://simcms.huizen.nl
 http://simcms.maassluis.nl
 http://simcms.middendelfland.nl
 http://simcms.nederweert.nl
-http://simcms.opmeer.nl
 http://simcms.valkenswaard.nl
 http://simcms.westmaasenwaal.nl
 http://simcms.wierden.nl
@@ -672,6 +673,7 @@ http://www.ondernemersportaal.denhaag.nl
 http://www.onderzoek.groningen.nl
 http://www.onlinestadsgesprek.harderwijk.nl
 http://www.operatiebomenbuurt.denhaag.nl
+http://www.opmeer.nl
 http://www.opsterland.nl
 http://www.positioneringshuis.denhaag.nl
 http://www.praatmee.borsele.nl
@@ -3241,7 +3243,6 @@ https://felix.lopik.nl
 https://felix.nederweert.nl
 https://felix.nijkerk.eu
 https://felix.ooststellingwerf.nl
-https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
 https://felix.scherpenzeel.nl
@@ -4107,6 +4108,7 @@ https://ibzpink.ommen.nl
 https://ibzpink.oosterhout.nl
 https://ibzpink.oostgelre.nl
 https://ibzpink.ooststellingwerf.nl
+https://ibzpink.opmeer.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4148,7 +4150,6 @@ https://ikonderneemin.almere.nl
 https://ikzitklem.zaanstad.nl
 https://ikzoek.huizen.nl
 https://ikzoekeenhuis.almere.nl
-https://im.opmeer.nl
 https://image.acc-nieuwsbrief.utrecht.nl
 https://image.nieuwsbrief.amsterdam.nl
 https://image.nieuwsbrief.utrecht.nl
@@ -5551,7 +5552,6 @@ https://onsovermorgen.zwolle.nl
 https://ontdek.tynaarlo.nl
 https://ontheffingen.wijdemeren.nl
 https://ontheffingmilieuzone.utrecht.nl
-https://ontmoetingscentra.opmeer.nl
 https://ontmoetingskaart.landvancuijk.nl
 https://ontvangsten.rotterdam.nl
 https://onzestad.nijmegen.nl
@@ -5731,7 +5731,6 @@ https://openzaak.rotterdam.nl
 https://openzaak.zwolle.nl
 https://openzaakbrug-zgw.acc.denhaag.nl
 https://oploo.landvancuijk.nl
-https://opmeer.nl
 https://opname.eindhoven.nl
 https://opvang.zwolle.nl
 https://or.delft.nl
@@ -6540,6 +6539,7 @@ https://simcms.intranet.lopik.nl
 https://simcms.leudal.nl
 https://simcms.nieuwkoop.nl
 https://simcms.oirschot.nl
+https://simcms.opmeer.nl
 https://simcms.overbetuwe.nl
 https://simcms.renswoude.nl
 https://simcms.reuseldemierden.nl
@@ -6576,7 +6576,6 @@ https://simsite.montferland.info
 https://simsite.nederweert.nl
 https://simsite.nijkerk.eu
 https://simsite.ooststellingwerf.nl
-https://simsite.opmeer.nl
 https://simsite.opsterland.nl
 https://simsite.pekela.nl
 https://simsite.twenterand.nl
