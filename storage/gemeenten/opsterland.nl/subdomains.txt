@@ -3,11 +3,13 @@ autodiscover.opsterland.nl
 batched.opsterland.nl
 beeldbank.opsterland.nl
 beeldbankbeheer.opsterland.nl
+en.opsterland.nl
 enterpriseenrollment.opsterland.nl
 enterpriseregistration.opsterland.nl
 felix.opsterland.nl
 formulieren.opsterland.nl
 ftp.opsterland.nl
+fy.opsterland.nl
 iburgerzaken.opsterland.nl
 ibzpink.opsterland.nl
 iparticipatie.opsterland.nl

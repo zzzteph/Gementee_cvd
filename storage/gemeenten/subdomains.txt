@@ -4594,6 +4594,7 @@ en.gemert-bakel.nl
 en.heerlen.nl
 en.kerkrade.nl
 en.nuenen.nl
+en.opsterland.nl
 en.sonenbreugel.nl
 en.zoetermeer.nl
 endpoint.oss.nl
@@ -5192,6 +5193,7 @@ funderingsloket.rotterdam.nl
 fw-rtr.alkmaar.nl
 fw.maassluis.nl
 fw.s-hertogenbosch.nl
+fy.opsterland.nl
 g-rooster.bronckhorst.nl
 g-rooster.heerlen.nl
 g-roostertst.heerlen.nl
