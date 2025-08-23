@@ -9,7 +9,6 @@ betaallink.oss.nl
 cms-internoss-test.oss.nl
 cms-internoss.oss.nl
 cms-internoss.test.oss.nl
-content.oss.nl
 data.oss.nl
 digikoppeling.oss.nl
 digikoppeling.test.oss.nl
@@ -24,6 +23,7 @@ formulieren.oss.nl
 formulieren.test.oss.nl
 geoportaal.oss.nl
 geoportaal.test.oss.nl
+geoportaaloss.oss.nl
 geoweb.oss.nl
 geoweb.test.oss.nl
 hpdm.oss.nl
@@ -52,5 +52,5 @@ test.oss.nl
 uem.oss.nl
 uem.test.oss.nl
 vpn.oss.nl
-vpntunnel.oss.nl
+waarmerk.oss.nl
 www.oss.nl

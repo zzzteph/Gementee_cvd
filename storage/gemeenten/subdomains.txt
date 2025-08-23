@@ -3098,7 +3098,6 @@ contactregistratie.amsterdam.nl
 contactregistratie.tst.amsterdam.nl
 containers.amsterdam.nl
 containersweesperbuurt.amsterdam.nl
-content.oss.nl
 content.voorschoten.nl
 content.wassenaar.nl
 contentbeheer.acceptatie.coevorden.nl
@@ -5461,6 +5460,7 @@ geoportaal.wageningen.nl
 geoportaal.woerden.nl
 geoportaal.zoetermeer.nl
 geoportaal.zwolle.nl
+geoportaaloss.oss.nl
 geoportaaltest.enschede.nl
 geoportaaltest.haarlemmermeer.nl
 geoportal.weert.nl
@@ -12776,7 +12776,6 @@ vpn.zoetermeer.nl
 vpn.zwartewaterland.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
-vpntunnel.oss.nl
 vpsweb.veere.nl
 vraagbaak.doesburg.nl
 vraaghulp.acc.nijmegen.nl
@@ -12862,6 +12861,7 @@ waarmerk.landgraaf.nl
 waarmerk.nissewaard.nl
 waarmerk.oldenzaal.nl
 waarmerk.ooststellingwerf.nl
+waarmerk.oss.nl
 waarmerk.overbetuwe.nl
 waarmerk.peelenmaas.nl
 waarmerk.pekela.nl

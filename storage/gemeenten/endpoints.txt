@@ -268,6 +268,7 @@ http://cardaccess.acc.intra.amsterdam.nl
 http://centrumbegroot.amsterdam.nl
 http://centrumimpuls.geldrop-mierlo.nl
 http://cms-internoss-test.oss.nl
+http://cms-internoss.test.oss.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
 http://cmsintranet.etten-leur.nl
@@ -1447,6 +1448,7 @@ https://api.meldingen-acc.meierijstad.nl
 https://api.meldingen-acc.oldebroek.nl
 https://api.meldingen-acc.oldenzaal.nl
 https://api.meldingen-acc.oostgelre.nl
+https://api.meldingen-acc.oss.nl
 https://api.meldingen-acc.raalte.nl
 https://api.meldingen-acc.roermond.nl
 https://api.meldingen-acc.urk.nl
@@ -1483,6 +1485,7 @@ https://api.meldingen.meierijstad.nl
 https://api.meldingen.oldebroek.nl
 https://api.meldingen.oldenzaal.nl
 https://api.meldingen.oostgelre.nl
+https://api.meldingen.oss.nl
 https://api.meldingen.purmerend.nl
 https://api.meldingen.raalte.nl
 https://api.meldingen.roermond.nl
@@ -2227,7 +2230,6 @@ https://cms-binnenshuis.bergen.nl
 https://cms-extranet.hethogeland.nl
 https://cms-insite.nijmegen.nl
 https://cms-internoss.oss.nl
-https://cms-internoss.test.oss.nl
 https://cms-intranet.eemsdelta.nl
 https://cms.bernheze.org
 https://cms.dordrecht.nl
@@ -3611,6 +3613,7 @@ https://geoportaal.test.oss.nl
 https://geoportaal.waalwijk.nl
 https://geoportaal.wageningen.nl
 https://geoportaal.zoetermeer.nl
+https://geoportaaloss.oss.nl
 https://geoportaaltest.enschede.nl
 https://geoproxy.s-hertogenbosch.nl
 https://geoserver-signalen.almere.nl
@@ -4231,7 +4234,6 @@ https://internetafspraken.hattem.nl
 https://internetafspraken.heerde.nl
 https://internetafspraken.oss.nl
 https://internoss.oss.nl
-https://internoss.test.oss.nl
 https://internwifi.hellevoetsluis.nl
 https://intra.deventer.nl
 https://intra.dordrecht.nl
@@ -4899,6 +4901,7 @@ https://meldingen-acc.meierijstad.nl
 https://meldingen-acc.oldebroek.nl
 https://meldingen-acc.oldenzaal.nl
 https://meldingen-acc.oostgelre.nl
+https://meldingen-acc.oss.nl
 https://meldingen-acc.raalte.nl
 https://meldingen-acc.roermond.nl
 https://meldingen-acc.urk.nl
@@ -4939,6 +4942,7 @@ https://meldingen.meierijstad.nl
 https://meldingen.oldebroek.nl
 https://meldingen.oldenzaal.nl
 https://meldingen.oostgelre.nl
+https://meldingen.oss.nl
 https://meldingen.purmerend.nl
 https://meldingen.raalte.nl
 https://meldingen.roermond.nl
@@ -6997,7 +7001,6 @@ https://test.helmond.nl
 https://test.hoorn.nl
 https://test.io.amsterdam.nl
 https://test.lab.tod.leiden.nl
-https://test.loket.oss.nl
 https://test.mijnhulpvraag.rijswijk.nl
 https://test.mijnzorg.beekdaelen.nl
 https://test.moerdijk.nl

@@ -700,7 +700,6 @@ opentunnel
 duoloket
 www.afspraakmaken
 www.iarchief
-content
 digitalebelastingbalie
 service
 regelgeving
@@ -1205,6 +1204,7 @@ egemeente
 nwro
 szc
 zwemmen
+content
 wsn-mail
 parkeerlokettest
 spamfilter
@@ -4656,6 +4656,7 @@ cms-internoss.test
 endpoint
 formulieren.test
 geoportaal.test
+geoportaaloss
 geoweb.test
 internoss-test
 internoss
@@ -4667,7 +4668,6 @@ portal.test
 test.loket
 uem
 uem.test
-vpntunnel
 belastingloket.test
 cdn
 server02
