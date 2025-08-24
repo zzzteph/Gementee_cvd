@@ -244,6 +244,7 @@ http://beeldbank.leeuwarden.nl
 http://beheer.amsterdam.nl
 http://beheerfotobank.amsterdam.nl
 http://belastingbalie.amsterdam.nl
+http://belastingloket.test.oude-ijsselstreek.nl
 http://beleidsatlas.rotterdam.nl
 http://bergeijk.nl
 http://bergen.nl
@@ -1887,7 +1888,6 @@ https://belastingloket.oudewater.nl
 https://belastingloket.overbetuwe.nl
 https://belastingloket.purmerend.nl
 https://belastingloket.s-hertogenbosch.nl
-https://belastingloket.test.oude-ijsselstreek.nl
 https://belastingloket.vijfheerenlanden.nl
 https://belastingloket.waalwijk.nl
 https://belastingloket.woerden.nl
