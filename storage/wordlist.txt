@@ -141,7 +141,6 @@ bastion365
 keycloak
 notificaties
 objecten
-sip
 obsurv
 gemeente
 contentbeheer
@@ -151,7 +150,7 @@ web
 api.betalen
 acc-keycloak-admin
 acc-zac
-lyncdiscover
+sip
 micollab
 inloggen
 connect.acceptatie
@@ -161,6 +160,7 @@ preprod-mijninkomen
 snelbaliepp
 vdi
 keycloak-admin
+lyncdiscover
 smtp
 jaarstukken
 inproces
@@ -614,6 +614,7 @@ financielestukken
 gdintaker
 preprodgdintaker
 preprodscbroker
+scbroker
 www.financielestukken
 geodata-acc
 micc
@@ -930,7 +931,6 @@ www.staging
 zorgaanbieders
 begraven
 programmabegroting2024.financielestukken
-scbroker
 gisweb
 site
 serverruimte

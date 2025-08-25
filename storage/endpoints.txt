@@ -4116,6 +4116,7 @@ https://ibzpink.oostgelre.nl
 https://ibzpink.ooststellingwerf.nl
 https://ibzpink.opmeer.nl
 https://ibzpink.opsterland.nl
+https://ibzpink.ouder-amstel.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4753,7 +4754,6 @@ https://lvs.zwemmen.venlo.nl
 https://lyncdiscover.diemen.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
-https://lyncdiscover.ouder-amstel.nl
 https://lyncdiscover.uithoorn.nl
 https://lyncdiscover.wijdemeren.nl
 https://lyncdiscover.wormerland.nl
@@ -6442,6 +6442,7 @@ https://sammycms.derondevenen.nl
 https://sbc01.gooisemeren.nl
 https://scan.afs.acc.amsterdam.nl
 https://scbroker.diemen.nl
+https://scbroker.ouder-amstel.nl
 https://scbroker.uithoorn.nl
 https://scep.montferland.info
 https://schagen.nl
@@ -6596,7 +6597,6 @@ https://sintanthonis.landvancuijk.nl
 https://sip.diemen.nl
 https://sip.hellevoetsluis.nl
 https://sip.houten.nl
-https://sip.ouder-amstel.nl
 https://sip.uithoorn.nl
 https://sip.wijdemeren.nl
 https://sip.wormerland.nl

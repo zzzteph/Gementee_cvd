@@ -7533,7 +7533,6 @@ lyncdiscover.houten.nl
 lyncdiscover.kerkrade.nl
 lyncdiscover.landgraaf.nl
 lyncdiscover.oostzaan.nl
-lyncdiscover.ouder-amstel.nl
 lyncdiscover.uithoorn.nl
 lyncdiscover.urk.nl
 lyncdiscover.wijdemeren.nl
@@ -10665,6 +10664,7 @@ scan.brunssum.nl
 scanhulp.amsterdam.nl
 scans.rhenen.nl
 scbroker.diemen.nl
+scbroker.ouder-amstel.nl
 scbroker.uithoorn.nl
 sccmmp.haarlem.nl
 scep.montferland.info
@@ -11209,7 +11209,6 @@ sip.hoorn.nl
 sip.houten.nl
 sip.landgraaf.nl
 sip.oostzaan.nl
-sip.ouder-amstel.nl
 sip.uithoorn.nl
 sip.urk.nl
 sip.wijdemeren.nl

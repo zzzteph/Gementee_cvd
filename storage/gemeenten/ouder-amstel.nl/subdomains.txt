@@ -9,7 +9,6 @@ iburgerzaken.ouder-amstel.nl
 ibzpink.ouder-amstel.nl
 internetafspraken.ouder-amstel.nl
 loket.ouder-amstel.nl
-lyncdiscover.ouder-amstel.nl
 mobiel.ouder-amstel.nl
 ondernemersloket.ouder-amstel.nl
 ouder-amstel.nl
@@ -17,7 +16,7 @@ preprodgdintaker.ouder-amstel.nl
 preprodscbroker.ouder-amstel.nl
 programmabegroting2024.financielestukken.ouder-amstel.nl
 ruimtelijkeplannen.ouder-amstel.nl
-sip.ouder-amstel.nl
+scbroker.ouder-amstel.nl
 test.ouder-amstel.nl
 vergaderingen.ouder-amstel.nl
 verslag.ouder-amstel.nl
