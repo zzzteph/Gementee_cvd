@@ -33,9 +33,9 @@ meldingen
 raad
 geo
 parkeren
+betalen
 api.meldingen
 broker
-betalen
 adfs
 vpn
 iparticipatie
@@ -77,11 +77,11 @@ hybrid
 cloudadapter
 kaarten
 denkmee
+doemee
 klantcontact
 digikoppeling.test
 parkeren-acc
 acc-broker
-doemee
 woningbouwkaart
 test-intranet
 connect
@@ -131,6 +131,7 @@ afvalkalender
 dali
 preprod
 qr
+api.betalen
 apps
 auth
 acc-contact
@@ -147,7 +148,6 @@ contentbeheer
 begroting
 simform
 web
-api.betalen
 acc-keycloak-admin
 acc-zac
 sip
@@ -161,6 +161,7 @@ snelbaliepp
 vdi
 keycloak-admin
 lyncdiscover
+www.doemee
 smtp
 jaarstukken
 inproces
@@ -171,7 +172,6 @@ gisib
 bis
 nieuwsbrief
 owa
-www.doemee
 zac
 gasten
 mdm
@@ -349,6 +349,10 @@ beheer
 parkeervergunning
 mijngeldzaken
 www.openstad
+admin.doemee
+api.doemee
+auth.doemee
+img.doemee
 test-formulier
 test-mijn
 test-notificaties
@@ -423,10 +427,6 @@ moh-acc
 moh
 werk
 www.raad
-admin.doemee
-api.doemee
-auth.doemee
-img.doemee
 media
 test-zac
 kaartviewer

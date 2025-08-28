@@ -1,7 +1,13 @@
 http://autodiscover.papendrecht.nl
 http://e.papendrecht.nl
+https://admin.doemee.papendrecht.nl
+https://api.betalen.papendrecht.nl
+https://api.doemee.papendrecht.nl
+https://auth.doemee.papendrecht.nl
+https://betalen.papendrecht.nl
 https://college.papendrecht.nl
 https://collegeprogramma.papendrecht.nl
+https://doemee.papendrecht.nl
 https://edienstenburgerzaken-test.papendrecht.nl
 https://edienstenburgerzaken.papendrecht.nl
 https://gisib-test.papendrecht.nl
@@ -10,6 +16,7 @@ https://gisibapi-test.papendrecht.nl
 https://gisibapi.papendrecht.nl
 https://gisibgeoserver-test.papendrecht.nl
 https://gisibgeoserver.papendrecht.nl
+https://img.doemee.papendrecht.nl
 https://loket.acceptatie.papendrecht.nl
 https://loket.papendrecht.nl
 https://papendrecht-checker-preprod.papendrecht.nl
@@ -20,5 +27,6 @@ https://rxlaunch-signicat-preprod.papendrecht.nl
 https://vergunningintaker-preprod.papendrecht.nl
 https://vergunningintaker.papendrecht.nl
 https://vthbroker.papendrecht.nl
+https://www.doemee.papendrecht.nl
 https://www.papendrecht.nl
 https://zaken.papendrecht.nl

@@ -1,6 +1,12 @@
+admin.doemee.papendrecht.nl
+api.betalen.papendrecht.nl
+api.doemee.papendrecht.nl
+auth.doemee.papendrecht.nl
 autodiscover.papendrecht.nl
+betalen.papendrecht.nl
 college.papendrecht.nl
 collegeprogramma.papendrecht.nl
+doemee.papendrecht.nl
 e.papendrecht.nl
 edienstenburgerzaken-test.papendrecht.nl
 edienstenburgerzaken.papendrecht.nl
@@ -10,6 +16,7 @@ gisibapi-test.papendrecht.nl
 gisibapi.papendrecht.nl
 gisibgeoserver-test.papendrecht.nl
 gisibgeoserver.papendrecht.nl
+img.doemee.papendrecht.nl
 loket.acceptatie.papendrecht.nl
 loket.papendrecht.nl
 papendrecht-checker-preprod.papendrecht.nl
@@ -20,5 +27,6 @@ rxlaunch-signicat-preprod.papendrecht.nl
 vergunningintaker-preprod.papendrecht.nl
 vergunningintaker.papendrecht.nl
 vthbroker.papendrecht.nl
+www.doemee.papendrecht.nl
 www.papendrecht.nl
 zaken.papendrecht.nl
