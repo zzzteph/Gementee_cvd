@@ -7017,7 +7017,6 @@ https://test.mijnzorg.beekdaelen.nl
 https://test.moerdijk.nl
 https://test.open-formulieren.noordoostpolder.nl
 https://test.open-formulieren.vught.nl
-https://test.pekela.nl
 https://test.schiedam.nl
 https://test.stichtsevecht.nl
 https://test.subsites.leiden.nl

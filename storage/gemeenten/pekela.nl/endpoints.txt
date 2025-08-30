@@ -17,7 +17,6 @@ https://pekela.nl
 https://portal.pekela.nl
 https://secure.pekela.nl
 https://simsite.pekela.nl
-https://test.pekela.nl
 https://www.afspraken.pekela.nl
 https://www.pekela.nl
 https://zaken.pekela.nl
