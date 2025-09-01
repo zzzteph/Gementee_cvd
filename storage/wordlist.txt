@@ -622,6 +622,7 @@ parkeeracties-test
 preprod-sociaalportaal
 sociaalportaal
 efactuur
+besluitvorming
 webdav
 webformulieren
 klantportaal.acc
@@ -936,7 +937,6 @@ site
 serverruimte
 centric
 simcms-woo
-besluitvorming
 test-digikoppelingadapter
 dkd.berichtenverkeer
 geoinformatie

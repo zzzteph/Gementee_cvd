@@ -1943,6 +1943,7 @@ https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
 https://bernheze.org
 https://besluitvorming.doetinchem.nl
+https://besluitvorming.purmerend.nl
 https://bestand.gemeentebest.nl
 https://bestanden.dongen.nl
 https://bestanden.veere.nl
@@ -2555,6 +2556,7 @@ https://dex.meldingen.alphenaandenrijn.nl
 https://dgk-prd.zutphen.nl
 https://dialin.houten.nl
 https://diemen.nl
+https://diensten.purmerend.nl
 https://diensten.rotterdam.nl
 https://dieuwke.defryskemarren.nl
 https://digid-subsidies-login.acceptatie.ede.nl

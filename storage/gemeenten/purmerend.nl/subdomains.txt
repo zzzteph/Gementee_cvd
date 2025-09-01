@@ -9,6 +9,7 @@ auth.purmerend.nl
 autodiscover.purmerend.nl
 beemsterraadsinformatie.purmerend.nl
 belastingloket.purmerend.nl
+besluitvorming.purmerend.nl
 boc-parkeervergunningen-acc.purmerend.nl
 boc-parkeervergunningen.purmerend.nl
 broker.purmerend.nl
