@@ -4,6 +4,7 @@ https://eloket.putten.nl
 https://eloketstaging.putten.nl
 https://historischbeeldarchief.putten.nl
 https://iburgerzaken.putten.nl
+https://ibzpink.putten.nl
 https://mijnsociaalplein.putten.nl
 https://oudebeeldbank.putten.nl
 https://preprod-mijnsociaalplein.putten.nl
