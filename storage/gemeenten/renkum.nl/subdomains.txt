@@ -9,6 +9,7 @@ edienstenburgerzaken-test.renkum.nl
 edienstenburgerzaken.renkum.nl
 enterpriseregistration.renkum.nl
 geo.renkum.nl
+gplan.renkum.nl
 intercontent.renkum.nl
 loket.acceptatie.renkum.nl
 loket.renkum.nl

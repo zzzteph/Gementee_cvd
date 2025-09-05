@@ -1,4 +1,5 @@
 http://autodiscover.renkum.nl
+http://gplan.renkum.nl
 http://melddesk.renkum.nl
 https://afspraakmaken.renkum.nl
 https://belastingen-acc.renkum.nl
@@ -11,7 +12,6 @@ https://loket.acceptatie.renkum.nl
 https://loket.renkum.nl
 https://mdesk.renkum.nl
 https://melddesk-test.renkum.nl
-https://qr.renkum.nl
 https://raad.renkum.nl
 https://renkum.nl
 https://www.renkum.nl

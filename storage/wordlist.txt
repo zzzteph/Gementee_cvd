@@ -1183,6 +1183,7 @@ kantoor
 mijnwerkplek
 www.auth
 mijnpost
+gplan
 analytics
 cloudconnector
 edison-acc
@@ -4847,7 +4848,6 @@ grmks03
 intercontent
 mdesk
 melddesk-test
-gplan
 mijncultuurdocument
 mobilemail
 mobilemailtest

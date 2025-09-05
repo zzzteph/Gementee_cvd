@@ -352,6 +352,7 @@ http://geocortex.krimpenerwaard.nl
 http://geoportal.weert.nl
 http://geuzenstatenkwartierfietst.denhaag.nl
 http://gitops.test.denhaag.nl
+http://gplan.renkum.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://healthyurbanliving.utrecht.nl
 http://heerlen.nl
@@ -6274,7 +6275,6 @@ https://qr.eindhoven.nl
 https://qr.gooisemeren.nl
 https://qr.meierijstad.nl
 https://qr.nijmegen.nl
-https://qr.renkum.nl
 https://qr.rheden.nl
 https://qr.rozendaal.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
