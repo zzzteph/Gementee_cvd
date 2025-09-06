@@ -1,5 +1,7 @@
 autodiscover.renswoude.nl
 digikoppeling.renswoude.nl
+edienstenburgerzaken-test.renswoude.nl
+edienstenburgerzaken.renswoude.nl
 felix.renswoude.nl
 filecap.renswoude.nl
 intranet.renswoude.nl

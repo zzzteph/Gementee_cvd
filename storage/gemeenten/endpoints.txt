@@ -331,7 +331,6 @@ http://felix.mookenmiddelaar.nl
 http://felix.nissewaard.nl
 http://felix.nuenen.nl
 http://felix.overbetuwe.nl
-http://felix.renswoude.nl
 http://felix.simpelveld.nl
 http://felix.t-diel.nl
 http://felix.wierden.nl
@@ -489,6 +488,7 @@ http://rbp.rotterdam.nl
 http://redirector.alkmaar.nl
 http://regentesseplein.denhaag.nl
 http://rekenkamer.rotterdam.nl
+http://renswoude.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://rotterdam.nl
@@ -543,7 +543,6 @@ http://simsite.lopik.nl
 http://simsite.mookenmiddelaar.nl
 http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
-http://simsite.renswoude.nl
 http://simsite.veere.nl
 http://simsite.westerkwartier.nl
 http://simsite.westmaasenwaal.nl
@@ -2829,6 +2828,7 @@ https://edienstenburgerzaken-test.oudewater.nl
 https://edienstenburgerzaken-test.papendrecht.nl
 https://edienstenburgerzaken-test.purmerend.nl
 https://edienstenburgerzaken-test.renkum.nl
+https://edienstenburgerzaken-test.renswoude.nl
 https://edienstenburgerzaken-test.rhenen.nl
 https://edienstenburgerzaken-test.ridderkerk.nl
 https://edienstenburgerzaken-test.rijswijk.nl
@@ -2953,6 +2953,7 @@ https://edienstenburgerzaken.oudewater.nl
 https://edienstenburgerzaken.papendrecht.nl
 https://edienstenburgerzaken.purmerend.nl
 https://edienstenburgerzaken.renkum.nl
+https://edienstenburgerzaken.renswoude.nl
 https://edienstenburgerzaken.rhenen.nl
 https://edienstenburgerzaken.ridderkerk.nl
 https://edienstenburgerzaken.rijswijk.nl
