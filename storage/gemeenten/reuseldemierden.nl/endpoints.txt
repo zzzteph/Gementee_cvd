@@ -1,7 +1,6 @@
-http://preproductie.reuseldemierden.nl
+http://reuseldemierden.nl
 https://felix.reuseldemierden.nl
 https://iburgerzaken.reuseldemierden.nl
+https://ibzpink.reuseldemierden.nl
 https://jccapi.reuseldemierden.nl
-https://reuseldemierden.nl
-https://simcms.reuseldemierden.nl
 https://woningbouwkaart.reuseldemierden.nl

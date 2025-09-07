@@ -480,7 +480,6 @@ http://preproductie.dalfsen.nl
 http://preproductie.deurne.nl
 http://preproductie.gorinchem.nl
 http://preproductie.leudal.nl
-http://preproductie.reuseldemierden.nl
 http://preproductie.wierden.nl
 http://raadsagenda.oirschot.nl
 http://rads.rotterdam.nl
@@ -489,6 +488,7 @@ http://redirector.alkmaar.nl
 http://regentesseplein.denhaag.nl
 http://rekenkamer.rotterdam.nl
 http://renswoude.nl
+http://reuseldemierden.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://rotterdam.nl
@@ -4141,6 +4141,7 @@ https://ibzpink.overbetuwe.nl
 https://ibzpink.putten.nl
 https://ibzpink.raalte.nl
 https://ibzpink.reimerswaal.nl
+https://ibzpink.reuseldemierden.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6373,7 +6374,6 @@ https://reserveringen.tilburg.nl
 https://restore.wierden.nl
 https://return.heuvelrug.nl
 https://return.purmerend.nl
-https://reuseldemierden.nl
 https://rheden.nl
 https://rhenen.nl
 https://ridderkerk.nl
@@ -6578,7 +6578,6 @@ https://simcms.nieuwkoop.nl
 https://simcms.oirschot.nl
 https://simcms.opmeer.nl
 https://simcms.renswoude.nl
-https://simcms.reuseldemierden.nl
 https://simcms.roerdalen.nl
 https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
