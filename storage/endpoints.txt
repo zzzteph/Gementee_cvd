@@ -352,6 +352,7 @@ http://geoportal.weert.nl
 http://geuzenstatenkwartierfietst.denhaag.nl
 http://gitops.test.denhaag.nl
 http://gplan.renkum.nl
+http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://healthyurbanliving.utrecht.nl
 http://heerlen.nl
@@ -3733,7 +3734,6 @@ https://gp-admin.tilburg.nl
 https://gp.deventer.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
-https://gplan.rheden.nl
 https://gpt.apeldoorn.nl
 https://grave.landvancuijk.nl
 https://groenekaart.leiden.nl
@@ -4142,6 +4142,7 @@ https://ibzpink.putten.nl
 https://ibzpink.raalte.nl
 https://ibzpink.reimerswaal.nl
 https://ibzpink.reuseldemierden.nl
+https://ibzpink.rheden.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6277,7 +6278,6 @@ https://qr.eindhoven.nl
 https://qr.gooisemeren.nl
 https://qr.meierijstad.nl
 https://qr.nijmegen.nl
-https://qr.rheden.nl
 https://qr.rozendaal.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.kaagenbraassem.nl
