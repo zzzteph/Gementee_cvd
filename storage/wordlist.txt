@@ -1151,6 +1151,7 @@ regieportaal
 zorg-acc
 lokettest
 portaaltest
+corsa
 mymeeting
 scep
 login-pre
@@ -4323,7 +4324,6 @@ kaarten-test
 webformulieren-test
 appapi
 cmssocial
-corsa
 datamask
 filter
 flowise
