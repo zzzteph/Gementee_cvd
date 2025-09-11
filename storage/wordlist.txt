@@ -4878,8 +4878,10 @@ www.testeloket
 www.vibe
 www.zmm
 openagenda
+bbty
 jcc-api
 mksora
+nieuwbouwzwembad
 omgevingsdocumenten
 persportaal
 pw-specificatie
@@ -4888,6 +4890,7 @@ sportenbeweeg
 squit2go-test
 taxivooriedereen
 timetell
+vpngw2.ns.portal
 afspraak-test
 berichten-test
 cloudconnector-test

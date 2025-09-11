@@ -1969,6 +1969,7 @@ bb864.kerkrade.nl
 bb865.kerkrade.nl
 bb866.kerkrade.nl
 bb867.kerkrade.nl
+bbty.rijssen-holten.nl
 bbv-acceptatie.noordoostpolder.nl
 bbv.noordoostpolder.nl
 bbz-ioaz.rotterdam.nl
@@ -8646,6 +8647,7 @@ nietrnaast.rotterdam.nl
 nieuw.leiden.nl
 nieuw.maassluis.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+nieuwbouwzwembad.rijssen-holten.nl
 nieuweburgemeester.deventer.nl
 nieuwegein.nl
 nieuwkomers.arnhem.nl
@@ -9762,6 +9764,7 @@ portal.peelenmaas.nl
 portal.pekela.nl
 portal.putten.nl
 portal.reuseldemierden.nl
+portal.rijssen-holten.nl
 portal.roerdalen.nl
 portal.roermond.nl
 portal.sittard-geleen.nl
@@ -12803,6 +12806,7 @@ vpn.zoetermeer.nl
 vpn.zwartewaterland.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
+vpngw2.ns.portal.rijssen-holten.nl
 vpsweb.veere.nl
 vraagbaak.doesburg.nl
 vraaghulp.acc.nijmegen.nl

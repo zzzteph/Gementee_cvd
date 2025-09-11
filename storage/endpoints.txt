@@ -1716,6 +1716,7 @@ https://bastion365.someren.nl
 https://bastion365.tilburg.nl
 https://bastion365.venlo.nl
 https://bastion365.weert.nl
+https://bbty.rijssen-holten.nl
 https://bbz-ioaz.rotterdam.nl
 https://bec.acc.topdesk.denhaag.nl
 https://bec.ot.topdesk.denhaag.nl
@@ -3301,6 +3302,7 @@ https://filecap.rozendaal.nl
 https://filecap.wierden.nl
 https://filecapacc.breda.nl
 https://filetransfer.gennep.nl
+https://filetransfer.rijssen-holten.nl
 https://financials-acc.apeldoorn.nl
 https://financials.apeldoorn.nl
 https://financialstest.derondevenen.nl
@@ -4144,6 +4146,7 @@ https://ibzpink.raalte.nl
 https://ibzpink.reimerswaal.nl
 https://ibzpink.reuseldemierden.nl
 https://ibzpink.rheden.nl
+https://ibzpink.rijssen-holten.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5365,6 +5368,7 @@ https://ngsrv02.ad.winterswijk.nl
 https://nicewfm.utrecht.nl
 https://nietrnaast.rotterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+https://nieuwbouwzwembad.rijssen-holten.nl
 https://nieuweburgemeester.deventer.nl
 https://nieuwegein.nl
 https://nieuwkomers.arnhem.nl
@@ -6014,6 +6018,7 @@ https://portal.helmond.nl
 https://portal.noordoostpolder.nl
 https://portal.olst-wijhe.nl
 https://portal.pekela.nl
+https://portal.rijssen-holten.nl
 https://portal.sittard-geleen.nl
 https://portal.stadskanaal.nl
 https://portal.sudwestfryslan.nl
@@ -7387,6 +7392,7 @@ https://vpn.terneuzen.nl
 https://vpn.zoetermeer.nl
 https://vpn02.denhaag.nl
 https://vpn365.denhelder.nl
+https://vpngw2.ns.portal.rijssen-holten.nl
 https://vpsweb.veere.nl
 https://vraagbaak.doesburg.nl
 https://vraaghulp.acc.nijmegen.nl
