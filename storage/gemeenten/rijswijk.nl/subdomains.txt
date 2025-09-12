@@ -36,8 +36,6 @@ m2.rijswijk.nl
 mail.rijswijk.nl
 mijn.rijswijk.nl
 mijnhulpvraag.rijswijk.nl
-mor-test.rijswijk.nl
-mor.rijswijk.nl
 parkeren-test.rijswijk.nl
 parkeren.rijswijk.nl
 rijswijk.nl

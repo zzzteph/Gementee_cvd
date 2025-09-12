@@ -8477,11 +8477,9 @@ montferland.info
 montfoort.nl
 monumentenregister.rotterdam.nl
 mookenmiddelaar.nl
-mor-test.rijswijk.nl
 mor-tst.groningen.nl
 mor.brunssum.nl
 mor.edam-volendam.nl
-mor.rijswijk.nl
 morgen.venlo.nl
 move010.rotterdam.nl
 mozard.ameland.nl

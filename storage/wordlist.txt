@@ -578,7 +578,6 @@ mycorsanxt
 ro-onlineprod
 adsync
 kassaservice
-mor
 ssd
 suite4burgerzaken
 test-eloket
@@ -868,6 +867,7 @@ afspraken-test
 edienstenburgerzaken-prod
 ggk
 key2datadistributie-prod
+mor
 navigus
 nedbrowser
 ssdtest
@@ -4898,7 +4898,6 @@ emagazine2030
 foto-bo
 keerpunt
 mijnhulpvraag
-mor-test
 simform-test
 test.mijnhulpvraag
 voorjaarsnota
