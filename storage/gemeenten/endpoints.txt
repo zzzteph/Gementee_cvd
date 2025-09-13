@@ -523,6 +523,7 @@ http://simcms.huizen.nl
 http://simcms.maassluis.nl
 http://simcms.middendelfland.nl
 http://simcms.nederweert.nl
+http://simcms.roerdalen.nl
 http://simcms.valkenswaard.nl
 http://simcms.westmaasenwaal.nl
 http://simcms.wierden.nl
@@ -6581,7 +6582,6 @@ https://simcms.nieuwkoop.nl
 https://simcms.oirschot.nl
 https://simcms.opmeer.nl
 https://simcms.renswoude.nl
-https://simcms.roerdalen.nl
 https://simcms.scherpenzeel.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.staphorst.nl
