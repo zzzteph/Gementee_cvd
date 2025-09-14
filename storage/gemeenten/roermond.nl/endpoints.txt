@@ -1,5 +1,8 @@
 http://autodiscover.roermond.nl
 http://geo.roermond.nl
+http://intro-acc.roermond.nl
+https://abc.roermond.nl
+https://acc-abc.roermond.nl
 https://acc-broker.roermond.nl
 https://acc-contact.roermond.nl
 https://acc-formulier.roermond.nl
@@ -16,8 +19,6 @@ https://acc-zac.roermond.nl
 https://api.meldingen-acc.roermond.nl
 https://api.meldingen.roermond.nl
 https://awmag.roermond.nl
-https://awmail.roermond.nl
-https://awseg.roermond.nl
 https://awtunnel.roermond.nl
 https://bastion365.roermond.nl
 https://bezoekersparkeren.roermond.nl

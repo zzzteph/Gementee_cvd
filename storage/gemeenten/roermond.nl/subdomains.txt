@@ -1,3 +1,5 @@
+abc.roermond.nl
+acc-abc.roermond.nl
 acc-broker.roermond.nl
 acc-contact.roermond.nl
 acc-formulier.roermond.nl
@@ -15,8 +17,6 @@ api.meldingen-acc.roermond.nl
 api.meldingen.roermond.nl
 autodiscover.roermond.nl
 awmag.roermond.nl
-awmail.roermond.nl
-awseg.roermond.nl
 awtunnel.roermond.nl
 bastion365.roermond.nl
 belastingen.roermond.nl

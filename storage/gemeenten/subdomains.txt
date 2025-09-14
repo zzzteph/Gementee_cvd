@@ -151,6 +151,7 @@ aardgasvrij.nijmegen.nl
 aauth.gouda.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
+abc.roermond.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
 ac00089.delft.nl
@@ -164,6 +165,7 @@ academie.weststellingwerf.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
+acc-abc.roermond.nl
 acc-afvalkalender.goes.nl
 acc-beeldbank.leiden.nl
 acc-broker.assen.nl
@@ -1879,10 +1881,8 @@ awmag.someren.nl
 awmag.venlo.nl
 awmag.weert.nl
 awmail.nederweert.nl
-awmail.roermond.nl
 awmail.venlo.nl
 awmail.weert.nl
-awseg.roermond.nl
 awtunnel.nederweert.nl
 awtunnel.roermond.nl
 awtunnel.venlo.nl

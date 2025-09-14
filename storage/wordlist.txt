@@ -507,8 +507,8 @@ access
 bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
+acc-abc
 wonen
-awmail
 awtunnel
 belastingportaal.acc
 inloggen.belastingportaal
@@ -707,10 +707,11 @@ bekendmakingen
 hybrid1
 hybrid2
 digitaalloket
-acc-abc
 ews
 opentunnel
+awmail
 duoloket
+abc
 www.afspraakmaken
 www.iarchief
 digitalebelastingbalie
@@ -1169,7 +1170,6 @@ eformulieren-test
 helpmij
 telefonie
 test.open-formulieren
-abc
 dev
 iobjects
 smtp10
@@ -4906,7 +4906,6 @@ roerdalen-checker-preprod
 roerdalen-checker
 ws013
 ws018
-awseg
 historiehuis
 intro-acc
 intro
