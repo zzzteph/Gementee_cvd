@@ -439,7 +439,6 @@ http://open.nuenen.nl
 http://open.sonenbreugel.nl
 http://open.zuidplas.nl
 http://opendata-contrast.zoetermeer.nl
-http://opendata.roosendaal.nl
 http://opendata.utrecht.nl
 http://openformulieren-zgw.acc.denhaag.nl
 http://openklant-zgw.test.denhaag.nl
@@ -4685,7 +4684,6 @@ https://lliam.zoetermeer.nl
 https://lms.veere.nl
 https://lochem.nl
 https://logilink001.waterland.nl
-https://login-acc.roosendaal.nl
 https://login-pre.mookenmiddelaar.nl
 https://login-pre.nijkerk.eu
 https://login.alphenaandenrijn.nl
@@ -5252,6 +5250,7 @@ https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
 https://mijnzorg-acc.beesel.nl
 https://mijnzorg-acc.gennep.nl
+https://mijnzorg-acc.roosendaal.nl
 https://mijnzorg-test.borne.nl
 https://mijnzorg-test.heuvelrug.nl
 https://mijnzorg.aalsmeer.nl
@@ -5653,6 +5652,7 @@ https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://opendata.heemstede.nl
 https://opendata.nijmegen.nl
+https://opendata.roosendaal.nl
 https://opendata.zoetermeer.nl
 https://openformulieren-test.dewolden.nl
 https://openformulieren-test.drechterland.nl
