@@ -4146,6 +4146,7 @@ https://ibzpink.reimerswaal.nl
 https://ibzpink.reuseldemierden.nl
 https://ibzpink.rheden.nl
 https://ibzpink.rijssen-holten.nl
+https://ibzpink.rozendaal.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6310,7 +6311,6 @@ https://qr.eindhoven.nl
 https://qr.gooisemeren.nl
 https://qr.meierijstad.nl
 https://qr.nijmegen.nl
-https://qr.rozendaal.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.kaagenbraassem.nl
 https://qr.tubbergen.nl
