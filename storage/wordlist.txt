@@ -211,6 +211,7 @@ mail2
 onderzoek
 jcc
 sharefile
+desktop
 intranet-acc
 email
 iarchief
@@ -229,7 +230,6 @@ website
 gemeentearchief
 _dmarc
 admin.openstad
-desktop
 e-loket
 opendata
 woo

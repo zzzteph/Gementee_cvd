@@ -2,6 +2,7 @@ autodiscover.rucphen.nl
 bijlage.rucphen.nl
 datadis.rucphen.nl
 datadis.test.rucphen.nl
+desktop.rucphen.nl
 edienstenburgerzaken-test.rucphen.nl
 edienstenburgerzaken.rucphen.nl
 eloket.rucphen.nl

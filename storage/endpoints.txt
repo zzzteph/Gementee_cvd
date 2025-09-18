@@ -2535,6 +2535,7 @@ https://designsystem.leiden.nl
 https://designtool.rotterdam.nl
 https://desktop.gemeentestein.nl
 https://desktop.lelystad.nl
+https://desktop.rucphen.nl
 https://desktop.winterswijk.nl
 https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
@@ -3072,7 +3073,6 @@ https://eloket.opmeer.nl
 https://eloket.preprod.leudal.nl
 https://eloket.putten.nl
 https://eloket.rhenen.nl
-https://eloket.rucphen.nl
 https://eloket.simpelveld.nl
 https://eloket.someren.nl
 https://eloket.sonenbreugel.nl
@@ -7430,7 +7430,6 @@ https://vpn.maassluis.nl
 https://vpn.nijkerk.eu
 https://vpn.oostgelre.nl
 https://vpn.rotterdam.nl
-https://vpn.rucphen.nl
 https://vpn.stichtsevecht.nl
 https://vpn.terneuzen.nl
 https://vpn.zoetermeer.nl
