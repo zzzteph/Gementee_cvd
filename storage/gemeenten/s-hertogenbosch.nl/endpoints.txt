@@ -1,9 +1,13 @@
 http://autodiscover.s-hertogenbosch.nl
 http://bestuursakkoord.s-hertogenbosch.nl
+https://airflow.dataplatform.accp.s-hertogenbosch.nl
+https://airflow.dataplatform.s-hertogenbosch.nl
+https://api.meldingen.accp.s-hertogenbosch.nl
 https://api.meldingen.s-hertogenbosch.nl
 https://api.toegang.dataplatform.accp.s-hertogenbosch.nl
 https://api.toegang.dataplatform.s-hertogenbosch.nl
 https://belastingen.accp.s-hertogenbosch.nl
+https://belastingen.s-hertogenbosch.nl
 https://belastingloket.s-hertogenbosch.nl
 https://betalen.belastingloket.s-hertogenbosch.nl
 https://catalogus.dataplatform.accp.s-hertogenbosch.nl
@@ -11,6 +15,7 @@ https://catalogus.dataplatform.s-hertogenbosch.nl
 https://formulier.accp.s-hertogenbosch.nl
 https://formulier.s-hertogenbosch.nl
 https://geoproxy.s-hertogenbosch.nl
+https://iburgerzaken.accp.s-hertogenbosch.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://idselect.accp.s-hertogenbosch.nl
 https://idselect.s-hertogenbosch.nl
@@ -27,6 +32,7 @@ https://openpub.s-hertogenbosch.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://parkeren.s-hertogenbosch.nl
 https://publicaties.s-hertogenbosch.nl
+https://qr.belastingen.accp.s-hertogenbosch.nl
 https://reflex.s-hertogenbosch.nl
 https://s-hertogenbosch.nl
 https://samen.s-hertogenbosch.nl

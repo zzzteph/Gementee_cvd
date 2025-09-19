@@ -1309,6 +1309,8 @@ https://agenda.landvancuijk.nl
 https://agrifoodtech.landvancuijk.nl
 https://agwp01.azweu.alkmaar.nl
 https://aip.amsterdam.nl
+https://airflow.dataplatform.accp.s-hertogenbosch.nl
+https://airflow.dataplatform.s-hertogenbosch.nl
 https://aiz.zoetermeer.nl
 https://alarmfilter.rotterdam.nl
 https://alblasserdam.nl
@@ -1446,6 +1448,7 @@ https://api.meldingen-acc.zoeterwoude.nl
 https://api.meldingen-acc.zundert.nl
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.acceptatie.eindhoven.nl
+https://api.meldingen.accp.s-hertogenbosch.nl
 https://api.meldingen.almere.nl
 https://api.meldingen.alphenaandenrijn.nl
 https://api.meldingen.amsterdam.nl
@@ -1856,6 +1859,7 @@ https://belastingen.nijmegen.nl
 https://belastingen.renkum.nl
 https://belastingen.rheden.nl
 https://belastingen.rozendaal.nl
+https://belastingen.s-hertogenbosch.nl
 https://belastingen.soest.nl
 https://belastingen.stadskanaal.nl
 https://belastingen.sudwestfryslan.nl
@@ -3857,6 +3861,7 @@ https://ibabs.montferland.info
 https://ibor.delft.nl
 https://ibr-projectregistratie.rotterdam.nl
 https://iburgerzaken.aaenhunze.nl
+https://iburgerzaken.accp.s-hertogenbosch.nl
 https://iburgerzaken.achtkarspelen.nl
 https://iburgerzaken.almelo.nl
 https://iburgerzaken.alphen-chaam.nl
@@ -6303,6 +6308,7 @@ https://qr-acc.gooisemeren.nl
 https://qr-test.meierijstad.nl
 https://qr-test.zaanstad.nl
 https://qr.amersfoort.nl
+https://qr.belastingen.accp.s-hertogenbosch.nl
 https://qr.capelleaandenijssel.nl
 https://qr.digitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.digitaalgemeenteloket.kaagenbraassem.nl

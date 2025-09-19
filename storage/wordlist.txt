@@ -40,13 +40,13 @@ adfs
 vpn
 iparticipatie
 ruimtelijkeplannen
-test-ipa
 zaaksysteem-accept
+belastingen
 gemeenteraad
 enterpriseenrollment
 testeloket
 pv
-belastingen
+test-ipa
 werkenbij
 dacceptatieloket
 dacceptatiemidoffice
@@ -246,7 +246,6 @@ archief
 topdesk
 acceptatie-open
 belastingbalie-test
-bestanden
 kcc
 mx1
 mx2
@@ -277,6 +276,7 @@ xential
 erfgoed
 citrix
 key2gbav
+bestanden
 squit2020.acceptatie
 www.samen
 woz-portaal
@@ -514,6 +514,7 @@ mijnsociaaldomein-acc
 acc-abc
 wonen
 awtunnel
+service
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -716,7 +717,6 @@ abc
 www.afspraakmaken
 www.iarchief
 digitalebelastingbalie
-service
 regelgeving
 parkeerloket
 qmanage
@@ -5166,9 +5166,13 @@ datadis.test
 testwww
 workdrive
 accp
+airflow.dataplatform.accp
+airflow.dataplatform
 alsiam
+api.meldingen.accp
 api.toegang.dataplatform.accp
 api.toegang.dataplatform
+b2b.oso
 belastingen.accp
 bestuursakkoord
 betalen.belastingloket
@@ -5184,6 +5188,7 @@ flex5
 flex6
 flex7
 flexg
+flextest
 geoproxy
 iburgerzaken.accp
 idefix
@@ -5201,7 +5206,10 @@ ntp1
 ntp2
 office.oso
 ois.accp
+oso
 overdrachtsdocument2022
+parkeren.accp
+qr.belastingen.accp
 reflex
 servicegateway.accp
 toegang.dataplatform.accp
