@@ -3,6 +3,7 @@ http://mijnwerkplek.schagen.nl
 http://www.samen.schagen.nl
 https://acceptatie.schagen.nl
 https://iburgerzaken.schagen.nl
+https://ibzpink.schagen.nl
 https://login.schagen.nl
 https://meedoen.schagen.nl
 https://mijnwijkteam.schagen.nl
