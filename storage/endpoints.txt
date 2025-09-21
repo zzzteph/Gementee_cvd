@@ -390,6 +390,7 @@ http://mijn-preproductie.westerkwartier.nl
 http://mijn.bronckhorst.nl
 http://mijn.heuvelrug.nl
 http://mijn.opsterland.nl
+http://mijnafspraak.scherpenzeel.nl
 http://mijngeldzaken.denhaag.nl
 http://mijntomindebuurt.nieuwkoop.nl
 http://mijnwerkplek.schagen.nl
@@ -2208,6 +2209,7 @@ https://citrix.waalwijk.nl
 https://civicintegration.zaanstad.nl
 https://cjg.denhaag.nl
 https://cjg.olst-wijhe.nl
+https://cjg.scherpenzeel.nl
 https://clickprotection.haarlem.nl
 https://clicks.helmond.nl
 https://clicks.nieuws.lansingerland.nl
@@ -3267,7 +3269,6 @@ https://felix.nederweert.nl
 https://felix.nijkerk.eu
 https://felix.ooststellingwerf.nl
 https://felix.reuseldemierden.nl
-https://felix.scherpenzeel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.urk.nl
@@ -5102,6 +5103,7 @@ https://mijn.pekela.nl
 https://mijn.roermond.nl
 https://mijn.roosendaal.nl
 https://mijn.rotterdam.nl
+https://mijn.scherpenzeel.nl
 https://mijn.schiedam.nl
 https://mijn.schouwen-duiveland.nl
 https://mijn.sittard-geleen.nl
@@ -5138,7 +5140,6 @@ https://mijnaanvraagzi.beuningen.nl
 https://mijnaanvragen.purmerend.nl
 https://mijnaanvragensociaaldomein.venlo.nl
 https://mijnacc.montfoort.nl
-https://mijnafspraak.scherpenzeel.nl
 https://mijnafval.meerssen.nl
 https://mijnafval.valkenburg.nl
 https://mijnbbsuo.soest.nl
@@ -6518,7 +6519,6 @@ https://scbroker.ouder-amstel.nl
 https://scbroker.uithoorn.nl
 https://scep.montferland.info
 https://schagen.nl
-https://scherpenzeel.nl
 https://scheveningen.denhaag.nl
 https://schiedam.nl
 https://schiedata.schiedam.nl
@@ -6655,6 +6655,7 @@ https://simsite.nederweert.nl
 https://simsite.nijkerk.eu
 https://simsite.ooststellingwerf.nl
 https://simsite.pekela.nl
+https://simsite.scherpenzeel.nl
 https://simsite.twenterand.nl
 https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl

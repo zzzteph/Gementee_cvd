@@ -4,6 +4,8 @@ betalen.scherpenzeel.nl
 cjg.scherpenzeel.nl
 cmsflash.scherpenzeel.nl
 digikoppeling.scherpenzeel.nl
+drop.scherpenzeel.nl
+edienstenburgerzaken.scherpenzeel.nl
 felix.scherpenzeel.nl
 filetransfer.scherpenzeel.nl
 flash.scherpenzeel.nl
@@ -20,6 +22,6 @@ simcms.scherpenzeel.nl
 simsite.scherpenzeel.nl
 test-cmsflash.scherpenzeel.nl
 test-flash.scherpenzeel.nl
+waarmerk.scherpenzeel.nl
 werkenbij.scherpenzeel.nl
 www.scherpenzeel.nl
-www.socialekaart.scherpenzeel.nl

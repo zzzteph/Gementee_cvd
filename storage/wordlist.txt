@@ -480,7 +480,6 @@ mobility
 services
 vergunningen
 mta-sts.raad
-www.socialekaart
 rap
 gt-loket
 duo
@@ -642,6 +641,7 @@ prod
 grondwater
 zorgloket
 acceptatiebelastingen
+www.socialekaart
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -1189,6 +1189,7 @@ mijnpost
 gplan
 analytics
 cloudconnector
+drop
 edison-acc
 edison-opl
 rekenkamer
@@ -4977,7 +4978,6 @@ dolph
 dopleidingloket
 dopleidingmidoffice
 drop-acc
-drop
 dts-preprod
 dts
 e-depot

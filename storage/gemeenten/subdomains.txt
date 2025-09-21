@@ -4042,6 +4042,7 @@ drimmelen.nl
 dronten.nl
 drop-acc.rotterdam.nl
 drop.rotterdam.nl
+drop.scherpenzeel.nl
 droppki.nissewaard.nl
 droptestpki.nissewaard.nl
 drupalintranet.bergeijk.nl
@@ -4426,6 +4427,7 @@ edienstenburgerzaken.rijswijk.nl
 edienstenburgerzaken.roerdalen.nl
 edienstenburgerzaken.rotterdam.nl
 edienstenburgerzaken.rucphen.nl
+edienstenburgerzaken.scherpenzeel.nl
 edienstenburgerzaken.schiedam.nl
 edienstenburgerzaken.schouwen-duiveland.nl
 edienstenburgerzaken.sint-michielsgestel.nl
@@ -12922,6 +12924,7 @@ waarmerk.overbetuwe.nl
 waarmerk.peelenmaas.nl
 waarmerk.pekela.nl
 waarmerk.roerdalen.nl
+waarmerk.scherpenzeel.nl
 waarmerk.simpelveld.nl
 waarmerk.veendam.nl
 waarmerk.vlieland.nl
@@ -14440,7 +14443,6 @@ www.sociaalplein.gemeentewestland.nl
 www.sociaalteam.oegstgeest.nl
 www.socialekaart.duiven.nl
 www.socialekaart.echt-susteren.nl
-www.socialekaart.scherpenzeel.nl
 www.socialekaart.westbetuwe.nl
 www.soest.nl
 www.someren.nl
