@@ -22,8 +22,8 @@ loket
 formulieren
 test
 eloket
-dkd
 werkplek
+dkd
 portal
 acc
 waarmerk
@@ -5234,7 +5234,9 @@ aform
 appl03
 boeken
 brz1-sm100
+fallback.webserver
 geovisiaonlinetest
+gvo
 jnetcc01p
 jnetcc01t
 ns1.webserver

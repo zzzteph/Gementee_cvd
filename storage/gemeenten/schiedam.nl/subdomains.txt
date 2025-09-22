@@ -12,8 +12,10 @@ digikoppeling.schiedam.nl
 edienstenburgerzaken-prod.schiedam.nl
 edienstenburgerzaken-test.schiedam.nl
 edienstenburgerzaken.schiedam.nl
+fallback.webserver.schiedam.nl
 geovisiaonline.schiedam.nl
 geovisiaonlinetest.schiedam.nl
+gvo.schiedam.nl
 jnetcc01p.schiedam.nl
 jnetcc01t.schiedam.nl
 mijn.schiedam.nl
@@ -31,9 +33,11 @@ sgen.schiedam.nl
 sm1-sec.schiedam.nl
 test.digikoppeling.schiedam.nl
 test.schiedam.nl
+webmail.schiedam.nl
 webserver.schiedam.nl
 websrv01.schiedam.nl
 websrv03.schiedam.nl
+werkplek.schiedam.nl
 www.schiedam.nl
 zaaksysteem-accept.schiedam.nl
 zendto.schiedam.nl

@@ -2154,6 +2154,7 @@ https://bros-academie.deurne.nl
 https://brs.winterswijk.nl
 https://brummen.nl
 https://brunssum.nl
+https://brz1-sm100.schiedam.nl
 https://buikslotermeerplein.amsterdam.nl
 https://buitengewoon.zaanstad.nl
 https://buitenoporde.defryskemarren.nl
@@ -3756,6 +3757,7 @@ https://growinggreencities.almere.nl
 https://guido.asten.nl
 https://guisweg.zaanstad.nl
 https://gulpen-wittem.nl
+https://gvo.schiedam.nl
 https://gvonline.hilversum.nl
 https://gwo.lopik.nl
 https://haaksbergen.nl
@@ -6682,6 +6684,7 @@ https://sleutelkwartier.waddinxveen.nl
 https://sliedrecht-checker-preprod.sliedrecht.nl
 https://sliedrecht-checker.sliedrecht.nl
 https://sliedrecht.nl
+https://sm1-sec.schiedam.nl
 https://smallingerland.nl
 https://smap.almere.nl
 https://smartaim-test.haarlemmermeer.nl
@@ -7565,6 +7568,7 @@ https://webmail.noordoostpolder.nl
 https://webmail.nunspeet.nl
 https://webmail.olst-wijhe.nl
 https://webmail.purmerend.nl
+https://webmail.schiedam.nl
 https://webmail.sittard-geleen.nl
 https://webmail.steenwijkerland.nl
 https://webmail.stichtsevecht.nl
@@ -7678,6 +7682,7 @@ https://werkplek.montferland.info
 https://werkplek.roosendaal.nl
 https://werkplek.rucphen.nl
 https://werkplek.schagen.nl
+https://werkplek.schiedam.nl
 https://werkplek.smallingerland.nl
 https://werkplek.steenwijkerland.nl
 https://werkplek.sudwestfryslan.nl
