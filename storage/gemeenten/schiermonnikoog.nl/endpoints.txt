@@ -1,10 +1,9 @@
 http://autodiscover.schiermonnikoog.nl
-http://schiermonnikoog.nl
+http://simcms.schiermonnikoog.nl
 https://enterpriseenrollment.schiermonnikoog.nl
 https://mozard.schiermonnikoog.nl
 https://mozardtest.schiermonnikoog.nl
 https://siam.schiermonnikoog.nl
-https://simcms.schiermonnikoog.nl
 https://test-zaakloket.schiermonnikoog.nl
 https://testsiam.schiermonnikoog.nl
 https://werkenbij.schiermonnikoog.nl

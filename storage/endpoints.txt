@@ -464,7 +464,6 @@ http://reuseldemierden.nl
 http://ro.brunssum.nl
 http://rosmolen.westervoort.nl
 http://scanhulp.amsterdam.nl
-http://schiermonnikoog.nl
 http://secure.acc.denhaag.nl
 http://secure.denhaag.nl
 http://secure.gemeentestein.nl
@@ -494,6 +493,7 @@ http://simcms.maassluis.nl
 http://simcms.middendelfland.nl
 http://simcms.nederweert.nl
 http://simcms.roerdalen.nl
+http://simcms.schiermonnikoog.nl
 http://simcms.valkenswaard.nl
 http://simcms.westmaasenwaal.nl
 http://simcms.wierden.nl
@@ -6625,7 +6625,6 @@ https://simcms.oirschot.nl
 https://simcms.opmeer.nl
 https://simcms.renswoude.nl
 https://simcms.scherpenzeel.nl
-https://simcms.schiermonnikoog.nl
 https://simcms.staphorst.nl
 https://simcms.vlieland.nl
 https://simcms.vlissingen.nl
