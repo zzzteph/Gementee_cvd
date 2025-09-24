@@ -4335,6 +4335,7 @@ https://intranet.ommen.nl
 https://intranet.oosterhout.nl
 https://intranet.peelenmaas.nl
 https://intranet.rucphen.nl
+https://intranet.schouwen-duiveland.nl
 https://intranet.sittard-geleen.nl
 https://intranet.staphorst.nl
 https://intranet.sudwestfryslan.nl
@@ -8312,6 +8313,7 @@ https://www.werkenbij.alkmaar.nl
 https://www.werkenbij.enschede.nl
 https://www.werkenbij.hoorn.nl
 https://www.werkenbij.lingewaard.nl
+https://www.werkenbij.schouwen-duiveland.nl
 https://www.werkenvoor.olst-wijhe.nl
 https://www.werkpakt.enschede.nl
 https://www.westbetuwe.nl

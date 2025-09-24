@@ -6427,7 +6427,6 @@ iit-controle.rotterdam.nl
 ijsselstein.nl
 ijvi.olst-wijhe.nl
 ijz.schouwen-duiveland.nl
-ijz2.schouwen-duiveland.nl
 ik-acc.koggenland.nl
 ik.koggenland.nl
 ikbouwin-acc.denhaag.nl
@@ -6693,6 +6692,7 @@ intranet.renswoude.nl
 intranet.rheden.nl
 intranet.roerdalen.nl
 intranet.rucphen.nl
+intranet.schouwen-duiveland.nl
 intranet.sittard-geleen.nl
 intranet.staphorst.nl
 intranet.sudwestfryslan.nl
@@ -13579,7 +13579,6 @@ wsr.groningen.nl
 wsus.overbetuwe.nl
 wsus01.gem.overbetuwe.nl
 wup.schouwen-duiveland.nl
-wup2.schouwen-duiveland.nl
 wvncmg.westvoorne.nl
 wwcs02.ad.winterswijk.nl
 wwex02.ad.winterswijk.nl
@@ -14637,6 +14636,7 @@ www.werkenbij.enschede.nl
 www.werkenbij.hollandskroon.nl
 www.werkenbij.hoorn.nl
 www.werkenbij.lingewaard.nl
+www.werkenbij.schouwen-duiveland.nl
 www.werkenbij.zaanstad.nl
 www.werkenvoor.olst-wijhe.nl
 www.werkpakt.enschede.nl

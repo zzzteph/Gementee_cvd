@@ -4,6 +4,7 @@ https://denkmee.schouwen-duiveland.nl
 https://edienstenburgerzaken-test.schouwen-duiveland.nl
 https://edienstenburgerzaken.schouwen-duiveland.nl
 https://flowmailer-tracking.schouwen-duiveland.nl
+https://intranet.schouwen-duiveland.nl
 https://link.schouwen-duiveland.nl
 https://mijn.schouwen-duiveland.nl
 https://open.schouwen-duiveland.nl
@@ -13,4 +14,5 @@ https://schouwen-duiveland.nl
 https://solliciteren.schouwen-duiveland.nl
 https://werkenbij.schouwen-duiveland.nl
 https://www.schouwen-duiveland.nl
+https://www.werkenbij.schouwen-duiveland.nl
 https://zaaksysteem-accept.schouwen-duiveland.nl
