@@ -7,7 +7,6 @@ edienstenburgerzaken-test.sint-michielsgestel.nl
 edienstenburgerzaken.sint-michielsgestel.nl
 kaarten.sint-michielsgestel.nl
 mijnoverzicht.sint-michielsgestel.nl
-nieuwsbrief.sint-michielsgestel.nl
 open.sint-michielsgestel.nl
 praatmee.sint-michielsgestel.nl
 preprod-mijnoverzicht.sint-michielsgestel.nl

@@ -9,5 +9,4 @@ https://open.sint-michielsgestel.nl
 https://praatmee.sint-michielsgestel.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
 https://sint-michielsgestel.nl
-https://test-digikoppeling.sint-michielsgestel.nl
 https://www.sint-michielsgestel.nl

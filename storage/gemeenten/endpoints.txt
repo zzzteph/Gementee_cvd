@@ -6989,7 +6989,6 @@ https://test-contact.enschede.nl
 https://test-contact.gemert-bakel.nl
 https://test-dieuwke.defryskemarren.nl
 https://test-digikoppeling.brielle.nl
-https://test-digikoppeling.sint-michielsgestel.nl
 https://test-digikoppeling.westvoorne.nl
 https://test-e-loket.apeldoorn.nl
 https://test-eloket.brunssum.nl

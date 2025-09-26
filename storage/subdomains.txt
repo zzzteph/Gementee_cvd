@@ -8682,7 +8682,6 @@ nieuwsbrief.denhaag.nl
 nieuwsbrief.enschede.nl
 nieuwsbrief.goeree-overflakkee.nl
 nieuwsbrief.losser.nl
-nieuwsbrief.sint-michielsgestel.nl
 nieuwsbrief.stichtsevecht.nl
 nieuwsbrief.utrecht.nl
 nieuwsbrieven.gorinchem.nl

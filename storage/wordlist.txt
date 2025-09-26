@@ -170,7 +170,6 @@ belastingportaal
 ftp
 gisib
 bis
-nieuwsbrief
 owa
 zac
 gasten
@@ -186,6 +185,7 @@ veiligdelen
 maps
 mailing
 gis
+nieuwsbrief
 bag
 test-digikoppeling
 meedoen
