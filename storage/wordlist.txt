@@ -345,7 +345,6 @@ www.duurzaam
 ns
 atlas
 api
-app
 beheer
 parkeervergunning
 mijngeldzaken
@@ -420,6 +419,7 @@ testsiam
 zaakloket
 2secure
 mail1
+app
 belastingbalie-acc
 gbi
 geotest
@@ -5269,7 +5269,6 @@ key2fintest
 pkicertificaat2017
 Belastingportaal
 vind
-app-t
 draadloos
 duurzaamwonen
 fg-api-pkio.haven.tst

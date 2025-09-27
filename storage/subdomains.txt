@@ -1421,7 +1421,6 @@ apint.almere.nl
 apint2.almere.nl
 apis.regiomonitor-acc.oosterhout.nl
 app-ldn.leiden.nl
-app-t.sittard-geleen.nl
 app.acc.meldingen.amsterdam.nl
 app.acceptatie.steenwijkerland.nl
 app.amsterdam.nl
@@ -1429,7 +1428,6 @@ app.landvancuijk.nl
 app.meedoen.venray.nl
 app.meldingen.amsterdam.nl
 app.overbetuwe.nl
-app.sittard-geleen.nl
 app.steenwijkerland.nl
 app1-test.nijmegen.nl
 app1.nijmegen.nl

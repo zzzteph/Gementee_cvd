@@ -338,7 +338,6 @@ http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
 http://healthyurbanliving.utrecht.nl
 http://heerlen.nl
-http://helloid.sittard-geleen.nl
 http://heumen.nl
 http://historie.venlo.nl
 http://hor.denhaag.nl
@@ -547,7 +546,6 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
-http://test-cmsintranet.sittard-geleen.nl
 http://test-cmsintranet.zeist.nl
 http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
@@ -562,6 +560,7 @@ http://test-intranet.gemeentebeek.nl
 http://test-intranet.lansingerland.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
+http://test-intranet.sittard-geleen.nl
 http://test-intranet.steenwijkerland.nl
 http://test-jip.hofvantwente.nl
 http://test-nopnet.noordoostpolder.nl
@@ -577,6 +576,7 @@ http://udp-geoserver.denhaag.nl
 http://udp-pgadmin.denhaag.nl
 http://udp-rsconnect.denhaag.nl
 http://udp-rstudio.denhaag.nl
+http://uitvaartplanner.sittard-geleen.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
 http://verkeersbesluiten.denhaag.nl
@@ -1510,7 +1510,6 @@ https://app-ldn.leiden.nl
 https://app.amsterdam.nl
 https://app.landvancuijk.nl
 https://app.meedoen.venray.nl
-https://app.sittard-geleen.nl
 https://app4.nijmegen.nl
 https://app6-accp.nijmegen.nl
 https://app6.nijmegen.nl
@@ -3605,7 +3604,6 @@ https://geo.nunspeet.nl
 https://geo.raalte.nl
 https://geo.renkum.nl
 https://geo.rheden.nl
-https://geo.sittard-geleen.nl
 https://geo.vught.nl
 https://geo.wijkbijduurstede.nl
 https://geo.zeewolde.nl
@@ -3797,6 +3795,7 @@ https://hellendoorn-checker.hellendoorn.nl
 https://hellendoorn.nl
 https://hellevoetsluis.nl
 https://helloid.bergenopzoom.nl
+https://helloid.sittard-geleen.nl
 https://helmond.nl
 https://helpdesk.gemeentesluis.nl
 https://helpmij.noordoostpolder.nl
@@ -5034,6 +5033,7 @@ https://middendrenthe.nl
 https://mijn-acc.groningen.nl
 https://mijn-acc.leeuwarden.nl
 https://mijn-acc.overbetuwe.nl
+https://mijn-acc.sittard-geleen.nl
 https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
@@ -6325,6 +6325,7 @@ https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.kaagenbraassem.nl
 https://qr.tubbergen.nl
 https://qr.zaanstad.nl
+https://quarantaine.sittard-geleen.nl
 https://raad.acceptatie.asten.nl
 https://raad.acceptatie.someren.nl
 https://raad.alblasserdam.nl
@@ -6975,6 +6976,7 @@ https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
+https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
@@ -7298,7 +7300,6 @@ https://uitvaartagenda-dev.apeldoorn.nl
 https://uitvaartagenda-staging.apeldoorn.nl
 https://uitvaartagenda-test.apeldoorn.nl
 https://uitvaartagenda.apeldoorn.nl
-https://uitvaartplanner.sittard-geleen.nl
 https://uitwisseling.drimmelen.nl
 https://unesco.landvancuijk.nl
 https://unjunk.krimpenerwaard.nl

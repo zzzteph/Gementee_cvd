@@ -1,6 +1,4 @@
 activesync.sittard-geleen.nl
-app-t.sittard-geleen.nl
-app.sittard-geleen.nl
 autodiscover.sittard-geleen.nl
 bezoekersparkeren-acc.sittard-geleen.nl
 bezoekersparkeren.sittard-geleen.nl
