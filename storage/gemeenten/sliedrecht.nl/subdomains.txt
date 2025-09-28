@@ -1,5 +1,8 @@
 afvalkalender.sliedrecht.nl
+api.betalen.sliedrecht.nl
 autodiscover.sliedrecht.nl
+baglv.sliedrecht.nl
+betalen.sliedrecht.nl
 camera.sliedrecht.nl
 college.sliedrecht.nl
 edienstenburgerzaken-test.sliedrecht.nl

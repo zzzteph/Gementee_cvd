@@ -31,9 +31,9 @@ afspraak
 open
 meldingen
 raad
+betalen
 geo
 parkeren
-betalen
 api.meldingen
 broker
 adfs
@@ -109,6 +109,7 @@ samen
 filecap
 preprodbroker
 verkiezingen
+api.betalen
 acc-contact
 acc-mijn
 acc-notificaties
@@ -134,7 +135,6 @@ afvalkalender
 dali
 preprod
 qr
-api.betalen
 apps
 auth
 acc-keycloak
@@ -1100,6 +1100,7 @@ brk
 servicegatewayt
 www.woz
 parkeernormen
+baglv
 liber
 pcorsa
 pkoppelcorsa
@@ -3927,7 +3928,6 @@ wijkteam-acc
 wijkteam-care4
 wijkteam-cursus
 wijkteam-tst
-baglv
 bb1051246
 bb1051247
 bb1051697

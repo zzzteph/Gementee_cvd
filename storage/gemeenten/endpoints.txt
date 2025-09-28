@@ -1387,6 +1387,7 @@ https://api.betalen.gemert-bakel.nl
 https://api.betalen.laarbeek.nl
 https://api.betalen.nissewaard.nl
 https://api.betalen.papendrecht.nl
+https://api.betalen.sliedrecht.nl
 https://api.betalen.smallingerland.nl
 https://api.betalen.stadskanaal.nl
 https://api.betalen.steenwijkerland.nl
@@ -1993,6 +1994,7 @@ https://betalen.pijnacker-nootdorp.nl
 https://betalen.rhenen.nl
 https://betalen.rijswijk.nl
 https://betalen.scherpenzeel.nl
+https://betalen.sliedrecht.nl
 https://betalen.smallingerland.nl
 https://betalen.stadskanaal.nl
 https://betalen.steenwijkerland.nl

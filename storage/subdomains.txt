@@ -1268,6 +1268,7 @@ api.betalen.gemert-bakel.nl
 api.betalen.laarbeek.nl
 api.betalen.nissewaard.nl
 api.betalen.papendrecht.nl
+api.betalen.sliedrecht.nl
 api.betalen.smallingerland.nl
 api.betalen.stadskanaal.nl
 api.betalen.steenwijkerland.nl
@@ -1929,6 +1930,7 @@ bag.zwolle.nl
 bag1.gemeentemaasgouw.nl
 baglevering.beekdaelen.nl
 baglv.kerkrade.nl
+baglv.sliedrecht.nl
 bagonline.vlaardingen.nl
 balie2.vlaardingen.nl
 baliealarm.rhenen.nl
@@ -2397,6 +2399,7 @@ betalen.pijnacker-nootdorp.nl
 betalen.rhenen.nl
 betalen.rijswijk.nl
 betalen.scherpenzeel.nl
+betalen.sliedrecht.nl
 betalen.smallingerland.nl
 betalen.stadskanaal.nl
 betalen.steenwijkerland.nl
