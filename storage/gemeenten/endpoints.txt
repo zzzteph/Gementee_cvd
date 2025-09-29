@@ -2251,6 +2251,7 @@ https://cmsdok.dronten.nl
 https://cmshofnet.coevorden.nl
 https://cmshuisnet.nieuwegein.nl
 https://cmshuisnettest.nieuwegein.nl
+https://cmsids-test.smallingerland.nl
 https://cmsids.smallingerland.nl
 https://cmsinhuiz.huizen.nl
 https://cmsinternet-acc.wijdemeren.nl
@@ -4157,6 +4158,7 @@ https://ibzpink.rheden.nl
 https://ibzpink.rijssen-holten.nl
 https://ibzpink.rozendaal.nl
 https://ibzpink.schagen.nl
+https://ibzpink.smallingerland.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4173,6 +4175,7 @@ https://identity.sudwestfryslan.nl
 https://idiensten-contract.rotterdam.nl
 https://idinloggen.oosterhout.nl
 https://idinloggenpre.oosterhout.nl
+https://ids-test.smallingerland.nl
 https://ids.smallingerland.nl
 https://idselect.accp.s-hertogenbosch.nl
 https://idselect.hollandskroon.nl
