@@ -1,5 +1,4 @@
 acceptatie-zaaksysteem.soest.nl
-afspraakmaken.soest.nl
 archief-zaaksysteem.soest.nl
 bag.soest.nl
 beeldbank.soest.nl
@@ -32,6 +31,7 @@ soest.nl
 test-mijnbbsuo.soest.nl
 verhuursport.soest.nl
 www.begroting.soest.nl
+www.gemeenteraad.soest.nl
 www.soest.nl
 zaaksysteem.soest.nl
 zorgzaam.soest.nl

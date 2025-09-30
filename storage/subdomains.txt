@@ -947,7 +947,6 @@ afspraakmaken.losser.nl
 afspraakmaken.ooststellingwerf.nl
 afspraakmaken.renkum.nl
 afspraakmaken.rheden.nl
-afspraakmaken.soest.nl
 afspraakmaken.weststellingwerf.nl
 afspraakmaken.zoetermeer.nl
 afspraakmakenenschede.losser.nl
@@ -13925,6 +13924,7 @@ www.gemeenteraad.etten-leur.nl
 www.gemeenteraad.groningen.nl
 www.gemeenteraad.haarlemmermeer.nl
 www.gemeenteraad.oegstgeest.nl
+www.gemeenteraad.soest.nl
 www.gemeenteraad.vught.nl
 www.gemeenteraad.westbetuwe.nl
 www.gemeentesluis.nl

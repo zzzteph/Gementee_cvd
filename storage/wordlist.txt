@@ -198,7 +198,6 @@ bor
 inproces.acceptatie
 internetafspraken
 bestuur
-afspraakmaken
 mta-sts
 zaaksysteem
 geoportaal
@@ -220,6 +219,7 @@ outlook
 vth
 testloket
 telewerken
+afspraakmaken
 mobiel
 www.portal
 kennisbank
@@ -240,6 +240,7 @@ publicroam
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
+www.gemeenteraad
 jongin
 www.jongin
 archief
@@ -272,7 +273,6 @@ afval
 publicaties
 support
 data-test
-www.gemeenteraad
 xential
 erfgoed
 citrix

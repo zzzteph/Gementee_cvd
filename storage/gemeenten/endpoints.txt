@@ -7030,6 +7030,7 @@ https://test-mijn.assen.nl
 https://test-mijn.enschede.nl
 https://test-mijn.gemert-bakel.nl
 https://test-mijn.hoorn.nl
+https://test-mijnbbsuo.soest.nl
 https://test-mijnzi.beuningen.nl
 https://test-notificaties.assen.nl
 https://test-notificaties.enschede.nl
@@ -8005,6 +8006,7 @@ https://www.gemeentemaastricht.nl
 https://www.gemeentenoordenveld.nl
 https://www.gemeenteraad.bloemendaal.nl
 https://www.gemeenteraad.etten-leur.nl
+https://www.gemeenteraad.soest.nl
 https://www.gemeenteraad.vught.nl
 https://www.gemeenteraad.westbetuwe.nl
 https://www.gemeentesluis.nl
