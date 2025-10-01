@@ -1654,7 +1654,6 @@ https://autodiscover.wij.groningen.nl
 https://awm.amsterdam.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
-https://awmag.someren.nl
 https://awmail.nederweert.nl
 https://awmail.venlo.nl
 https://awmail.weert.nl
@@ -4159,6 +4158,7 @@ https://ibzpink.rijssen-holten.nl
 https://ibzpink.rozendaal.nl
 https://ibzpink.schagen.nl
 https://ibzpink.smallingerland.nl
+https://ibzpink.someren.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
