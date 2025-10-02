@@ -317,6 +317,7 @@ http://felix.mookenmiddelaar.nl
 http://felix.nissewaard.nl
 http://felix.nuenen.nl
 http://felix.overbetuwe.nl
+http://felix.sonenbreugel.nl
 http://felix.t-diel.nl
 http://felix.wierden.nl
 http://felix.winterswijk.nl
@@ -4159,6 +4160,7 @@ https://ibzpink.rozendaal.nl
 https://ibzpink.schagen.nl
 https://ibzpink.smallingerland.nl
 https://ibzpink.someren.nl
+https://ibzpink.sonenbreugel.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
