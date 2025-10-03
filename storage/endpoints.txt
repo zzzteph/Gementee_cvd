@@ -6964,6 +6964,7 @@ https://teamplan.huizen.nl
 https://teamurenplanninggezondheidmilieu.rotterdam.nl
 https://techniek.landvancuijk.nl
 https://telefonie.noordoostpolder.nl
+https://telefonie.stadskanaal.nl
 https://telewerken.gemeentemaashorst.nl
 https://telewerken.hellevoetsluis.nl
 https://telewerken.nederbetuwe.nl

@@ -13,6 +13,7 @@ https://raad.stadskanaal.nl
 https://stadskanaal.nl
 https://stan-acc.stadskanaal.nl
 https://stan.stadskanaal.nl
+https://telefonie.stadskanaal.nl
 https://www.stadskanaal.nl
 https://xential-prod.stadskanaal.nl
 https://xential-test.stadskanaal.nl
