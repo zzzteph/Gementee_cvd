@@ -8308,6 +8308,7 @@ mijnsociaaldomein.koggenland.nl
 mijnsociaaldomein.losser.nl
 mijnsociaaldomein.meierijstad.nl
 mijnsociaaldomein.opmeer.nl
+mijnsociaaldomein.staphorst.nl
 mijnsociaaldomein.venlo.nl
 mijnsociaalplein-acc.hilversum.nl
 mijnsociaalplein.bergen-nh.nl
@@ -9925,6 +9926,7 @@ preprod-mijnportaal.gouda.nl
 preprod-mijnportaal.lansingerland.nl
 preprod-mijnsociaaldomein.gemeentesluis.nl
 preprod-mijnsociaaldomein.heerenveen.nl
+preprod-mijnsociaaldomein.staphorst.nl
 preprod-mijnsociaaldomein.venlo.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 preprod-mijnsociaalplein.castricum.nl

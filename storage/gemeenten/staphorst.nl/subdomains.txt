@@ -8,7 +8,9 @@ ibzpink.staphorst.nl
 intranet.staphorst.nl
 mdm.staphorst.nl
 mijn.staphorst.nl
+mijnsociaaldomein.staphorst.nl
 open.staphorst.nl
+preprod-mijnsociaaldomein.staphorst.nl
 preproductie.staphorst.nl
 probeer-epos.staphorst.nl
 probeer.staphorst.nl

@@ -251,6 +251,7 @@ kcc
 mx1
 mx2
 en
+mijnsociaaldomein
 cloudadapter-prod
 handhaving
 mijnzorg-acc
@@ -282,7 +283,6 @@ squit2020.acceptatie
 www.samen
 woz-portaal
 www.intranet
-mijnsociaaldomein
 midoffice
 geovisia
 gisib-test
@@ -490,6 +490,7 @@ gemeentewinkel
 mijnmobiel
 pip
 www.mail
+preprod-mijnsociaaldomein
 acceptatie-intranet
 hpdm
 neuron
@@ -664,7 +665,6 @@ ketenportaal.acceptatie
 www.login
 www.parkeren
 prtg
-preprod-mijnsociaaldomein
 rds
 wmoloket
 berichtenverkeer

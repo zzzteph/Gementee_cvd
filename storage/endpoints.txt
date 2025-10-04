@@ -318,6 +318,7 @@ http://felix.nissewaard.nl
 http://felix.nuenen.nl
 http://felix.overbetuwe.nl
 http://felix.sonenbreugel.nl
+http://felix.staphorst.nl
 http://felix.t-diel.nl
 http://felix.wierden.nl
 http://felix.winterswijk.nl
@@ -415,6 +416,7 @@ http://open.gemeentebeek.nl
 http://open.halderberge.nl
 http://open.nuenen.nl
 http://open.sonenbreugel.nl
+http://open.staphorst.nl
 http://open.zuidplas.nl
 http://opendata-contrast.zoetermeer.nl
 http://opendata.utrecht.nl
@@ -481,7 +483,6 @@ http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
 http://simcms-open.oirschot.nl
-http://simcms-open.staphorst.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms.bronckhorst.nl
 http://simcms.doetinchem.nl
@@ -530,7 +531,6 @@ http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
 http://sslvpn.haarlem.nl
 http://stadspas.weert.nl
-http://staphorst.nl
 http://status-paginas-zgw.test.denhaag.nl
 http://stemvan.groningen.nl
 http://stoepvrij.groningen.nl
@@ -4161,6 +4161,7 @@ https://ibzpink.schagen.nl
 https://ibzpink.smallingerland.nl
 https://ibzpink.someren.nl
 https://ibzpink.sonenbreugel.nl
+https://ibzpink.staphorst.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5229,6 +5230,7 @@ https://mijnsociaaldomein.koggenland.nl
 https://mijnsociaaldomein.losser.nl
 https://mijnsociaaldomein.meierijstad.nl
 https://mijnsociaaldomein.opmeer.nl
+https://mijnsociaaldomein.staphorst.nl
 https://mijnsociaaldomein.venlo.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
@@ -5678,7 +5680,6 @@ https://open.rhenen.nl
 https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
-https://open.staphorst.nl
 https://open.teylingen.nl
 https://open.tubbergen.nl
 https://open.zoetermeer.nl
@@ -6145,6 +6146,7 @@ https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
 https://preprod-mijnportaal.lansingerland.nl
 https://preprod-mijnsociaaldomein.gemeentesluis.nl
+https://preprod-mijnsociaaldomein.staphorst.nl
 https://preprod-mijnsociaaldomein.venlo.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
@@ -6609,6 +6611,7 @@ https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.gemeentebeek.nl
+https://simcms-open.staphorst.nl
 https://simcms-open.wierden.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beuningen.nl
@@ -6667,6 +6670,7 @@ https://simsite.ooststellingwerf.nl
 https://simsite.pekela.nl
 https://simsite.scherpenzeel.nl
 https://simsite.simpelveld.nl
+https://simsite.staphorst.nl
 https://simsite.twenterand.nl
 https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl
@@ -6823,6 +6827,7 @@ https://staging.stemvan.groningen.nl
 https://stan-acc.stadskanaal.nl
 https://stan.stadskanaal.nl
 https://standplaatsen.heerenveen.nl
+https://staphorst.nl
 https://stappenteller.rotterdam.nl
 https://start.almelo.nl
 https://start.beverwijk.nl
@@ -8252,7 +8257,6 @@ https://www.stadskanaal.nl
 https://www.stadskrant-acc.denhaag.nl
 https://www.staging.deventer.nl
 https://www.staging.olst-wijhe.nl
-https://www.staphorst.nl
 https://www.stationsdistrict.nijmegen.nl
 https://www.stedebroec.nl
 https://www.steenwijkerland.nl
