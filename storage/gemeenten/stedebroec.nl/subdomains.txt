@@ -3,6 +3,7 @@ acc.stedebroec.nl
 autodiscover.stedebroec.nl
 edienstenburgerzaken-test.stedebroec.nl
 edienstenburgerzaken.stedebroec.nl
+idbroker.stedebroec.nl
 klantportaal.acc.stedebroec.nl
 klantportaal.stedebroec.nl
 openformulieren-test.stedebroec.nl
@@ -12,6 +13,7 @@ openpdckb.stedebroec.nl
 openpubkb.stedebroec.nl
 osb.stedebroec.nl
 osbacc.stedebroec.nl
+preprodidbroker.stedebroec.nl
 preproductie.stedebroec.nl
 prod.stedebroec.nl
 samen.stedebroec.nl

@@ -2,6 +2,7 @@ http://AutoDiscover.stedebroec.nl
 http://autodiscover.stedebroec.nl
 https://edienstenburgerzaken-test.stedebroec.nl
 https://edienstenburgerzaken.stedebroec.nl
+https://idbroker.stedebroec.nl
 https://klantportaal.acc.stedebroec.nl
 https://klantportaal.stedebroec.nl
 https://openformulieren-test.stedebroec.nl
@@ -9,6 +10,7 @@ https://openformulieren.stedebroec.nl
 https://openpdc.stedebroec.nl
 https://openpdckb.stedebroec.nl
 https://openpubkb.stedebroec.nl
+https://preprodidbroker.stedebroec.nl
 https://samen.stedebroec.nl
 https://stedebroec.nl
 https://transfer.stedebroec.nl
