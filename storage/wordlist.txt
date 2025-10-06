@@ -22,8 +22,8 @@ loket
 formulieren
 test
 eloket
-werkplek
 dkd
+werkplek
 portal
 acc
 waarmerk
@@ -69,9 +69,9 @@ osb
 digikoppeling-test
 beeldbank
 flowmailer-tracking
-zaken
 kaart
 formulier
+zaken
 berichten
 hybrid
 cloudadapter
@@ -136,7 +136,6 @@ dali
 preprod
 qr
 apps
-auth
 acc-keycloak
 bastion365
 keycloak
@@ -144,16 +143,17 @@ notificaties
 objecten
 obsurv
 gemeente
-contentbeheer
 begroting
 simform
 web
+auth
 acc-keycloak-admin
 acc-zac
 sip
 micollab
 inloggen
 connect.acceptatie
+contentbeheer
 izaaksuite
 subsidies
 preprod-mijninkomen
@@ -176,8 +176,6 @@ gasten
 mdm
 AutoDiscover
 ro
-contentbeheer.acceptatie
-zaken.acceptatie
 transfer
 squit2020
 college
@@ -194,6 +192,8 @@ fmreturn
 formulieren-test
 uc
 mobile
+contentbeheer.acceptatie
+zaken.acceptatie
 bor
 inproces.acceptatie
 internetafspraken
@@ -419,7 +419,6 @@ testsiam
 zaakloket
 2secure
 mail1
-app
 belastingbalie-acc
 gbi
 geotest
@@ -543,6 +542,7 @@ activesync
 crl
 acc.meldingen
 api.acc.meldingen
+app
 applicaties
 belastingbalie.acc
 bouwdossiers
@@ -5319,8 +5319,8 @@ idbroker
 openpdckb
 openpubkb
 preprodidbroker
-app.acceptatie
 bsp02
+bst02
 digikoppelingenproductie
 digikoppelingentest
 gbiweb

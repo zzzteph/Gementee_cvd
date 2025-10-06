@@ -1,6 +1,4 @@
-http://test-intranet.steenwijkerland.nl
 https://api.betalen.steenwijkerland.nl
-https://auth.steenwijkerland.nl
 https://betalen.steenwijkerland.nl
 https://cmsintranet.steenwijkerland.nl
 https://college.steenwijkerland.nl
@@ -15,6 +13,4 @@ https://loket.steenwijkerland.nl
 https://preproductie.steenwijkerland.nl
 https://steenwijkerland.nl
 https://test-cmsintranet.steenwijkerland.nl
-https://webmail.steenwijkerland.nl
-https://werkplek.steenwijkerland.nl
 https://www.steenwijkerland.nl

@@ -562,7 +562,6 @@ http://test-intranet.lansingerland.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sittard-geleen.nl
-http://test-intranet.steenwijkerland.nl
 http://test-jip.hofvantwente.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
@@ -1594,7 +1593,6 @@ https://auth.openstad.gemeentewestland.nl
 https://auth.openstad.haarlemmermeer.nl
 https://auth.openstad.nijmegen.nl
 https://auth.purmerend.nl
-https://auth.steenwijkerland.nl
 https://auth.v2.openstad.haarlemmermeer.nl
 https://auth1.denhaag.nl
 https://auth2.denhaag.nl
@@ -7587,7 +7585,6 @@ https://webmail.olst-wijhe.nl
 https://webmail.purmerend.nl
 https://webmail.schiedam.nl
 https://webmail.sittard-geleen.nl
-https://webmail.steenwijkerland.nl
 https://webmail.stichtsevecht.nl
 https://webmail.terneuzen.nl
 https://webmail.tynaarlo.nl
@@ -7701,7 +7698,6 @@ https://werkplek.rucphen.nl
 https://werkplek.schagen.nl
 https://werkplek.schiedam.nl
 https://werkplek.smallingerland.nl
-https://werkplek.steenwijkerland.nl
 https://werkplek.sudwestfryslan.nl
 https://werkplek.tholen.nl
 https://werkplek.veldhoven.nl

@@ -1422,13 +1422,11 @@ apint2.almere.nl
 apis.regiomonitor-acc.oosterhout.nl
 app-ldn.leiden.nl
 app.acc.meldingen.amsterdam.nl
-app.acceptatie.steenwijkerland.nl
 app.amsterdam.nl
 app.landvancuijk.nl
 app.meedoen.venray.nl
 app.meldingen.amsterdam.nl
 app.overbetuwe.nl
-app.steenwijkerland.nl
 app1-test.nijmegen.nl
 app1.nijmegen.nl
 app3-test.nijmegen.nl
@@ -1548,7 +1546,6 @@ auth.openstad.haarlemmermeer.nl
 auth.openstad.nijmegen.nl
 auth.peelenmaas.nl
 auth.purmerend.nl
-auth.steenwijkerland.nl
 auth.sudwestfryslan.nl
 auth.v2.openstad.haarlemmermeer.nl
 auth1.denhaag.nl
@@ -2668,6 +2665,7 @@ brz1-sm100.schiedam.nl
 bsmpki.brunssum.nl
 bsmpkitest.brunssum.nl
 bsp02.steenwijkerland.nl
+bst02.steenwijkerland.nl
 buikslotermeerplein.amsterdam.nl
 buiten.enkhuizen.nl
 buitendienst-app.krimpenerwaard.nl
@@ -3140,7 +3138,6 @@ contentbeheer.acceptatie.kerkrade.nl
 contentbeheer.acceptatie.oldenzaal.nl
 contentbeheer.acceptatie.overbetuwe.nl
 contentbeheer.acceptatie.peelenmaas.nl
-contentbeheer.acceptatie.steenwijkerland.nl
 contentbeheer.acceptatie.winterswijk.nl
 contentbeheer.coevorden.nl
 contentbeheer.dantumadiel.frl
@@ -3154,7 +3151,6 @@ contentbeheer.overbetuwe.nl
 contentbeheer.peelenmaas.nl
 contentbeheer.pekela.nl
 contentbeheer.staging.overbetuwe.nl
-contentbeheer.steenwijkerland.nl
 contentbeheer.test.coevorden.nl
 contentbeheer.test.dantumadiel.frl
 contentbeheer.test.kerkrade.nl
@@ -13130,7 +13126,6 @@ webmail.schagen.nl
 webmail.schiedam.nl
 webmail.sittard-geleen.nl
 webmail.smallingerland.nl
-webmail.steenwijkerland.nl
 webmail.stichtsevecht.nl
 webmail.sudwestfryslan.nl
 webmail.terneuzen.nl
@@ -13330,7 +13325,6 @@ werkplek.schagen.nl
 werkplek.schiedam.nl
 werkplek.smallingerland.nl
 werkplek.staphorst.nl
-werkplek.steenwijkerland.nl
 werkplek.sudwestfryslan.nl
 werkplek.texel.nl
 werkplek.tholen.nl
@@ -14846,7 +14840,6 @@ zaken.acceptatie.kerkrade.nl
 zaken.acceptatie.oldenzaal.nl
 zaken.acceptatie.overbetuwe.nl
 zaken.acceptatie.peelenmaas.nl
-zaken.acceptatie.steenwijkerland.nl
 zaken.acceptatie.winterswijk.nl
 zaken.alblasserdam.nl
 zaken.amersfoort.nl
@@ -14868,7 +14861,6 @@ zaken.peelenmaas.nl
 zaken.pekela.nl
 zaken.sliedrecht.nl
 zaken.staging.overbetuwe.nl
-zaken.steenwijkerland.nl
 zaken.test.coevorden.nl
 zaken.test.dantumadiel.frl
 zaken.test.kerkrade.nl
