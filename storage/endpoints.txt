@@ -194,6 +194,7 @@ http://autodiscover.sp.nijmegen.nl
 http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
 http://autodiscover.stedebroec.nl
+http://autodiscover.stichtsevecht.nl
 http://autodiscover.terneuzen.nl
 http://autodiscover.terschelling.nl
 http://autodiscover.texel.nl
@@ -394,7 +395,6 @@ http://mijnafspraak.scherpenzeel.nl
 http://mijngeldzaken.denhaag.nl
 http://mijntomindebuurt.nieuwkoop.nl
 http://mijnwerkplek.schagen.nl
-http://mt-link.stichtsevecht.nl
 http://nederweert.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
@@ -1055,7 +1055,6 @@ https://acc.sensorenregister.amsterdam.nl
 https://acc.stadsarchief.rotterdam.nl
 https://acc.statistiek.data.amsterdam.nl
 https://acc.stemvan.opsterland.nl
-https://acc.stichtsevecht.nl
 https://acc.straatnotes.amsterdam.nl
 https://acc.subsidie.leiden.nl
 https://acc.top.amsterdam.nl
@@ -1084,6 +1083,7 @@ https://acceptatie-open.hofvantwente.nl
 https://acceptatie-open.moerdijk.nl
 https://acceptatie-open.oude-ijsselstreek.nl
 https://acceptatie-open.roosendaal.nl
+https://acceptatie-open.stichtsevecht.nl
 https://acceptatie-open.tubbergen.nl
 https://acceptatie-open.zutphen.nl
 https://acceptatie-zaaksysteem.soest.nl
@@ -1644,7 +1644,6 @@ https://autodiscover.os.groningen.nl
 https://autodiscover.peelenmaas.nl
 https://autodiscover.rijssen-holten.nl
 https://autodiscover.sittard-geleen.nl
-https://autodiscover.stichtsevecht.nl
 https://autodiscover.tynaarlo.nl
 https://autodiscover.valkenburg.nl
 https://autodiscover.veere.nl
@@ -2218,9 +2217,7 @@ https://clicksfm.capelleaandenijssel.nl
 https://clicksfm.lansingerland.nl
 https://clicksfm.nieuws.lansingerland.nl
 https://clicksfm.nieuwsbrief.goeree-overflakkee.nl
-https://clicksfm.nieuwsbrief.stichtsevecht.nl
 https://clicksfm.persberichten.lansingerland.nl
-https://clicksfm.persberichten.stichtsevecht.nl
 https://clicksfm.stichtsevecht.nl
 https://cloud.wageningen.nl
 https://cloudadapter-prod.winterswijk.nl
@@ -4160,6 +4157,7 @@ https://ibzpink.smallingerland.nl
 https://ibzpink.someren.nl
 https://ibzpink.sonenbreugel.nl
 https://ibzpink.staphorst.nl
+https://ibzpink.stichtsevecht.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5679,6 +5677,7 @@ https://open.rhenen.nl
 https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
+https://open.stichtsevecht.nl
 https://open.teylingen.nl
 https://open.tubbergen.nl
 https://open.zoetermeer.nl
@@ -5751,7 +5750,6 @@ https://openpdc.waddinxveen.nl
 https://openpdc.wageningen.nl
 https://openpdc.zaanstad.nl
 https://openpdckb.stedebroec.nl
-https://openpub.acc.stichtsevecht.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
 https://openpub.arnhem.nl
@@ -5775,8 +5773,6 @@ https://openpub.rijssen-holten.nl
 https://openpub.rozendaal.nl
 https://openpub.s-hertogenbosch.nl
 https://openpub.sittard-geleen.nl
-https://openpub.stichtsevecht.nl
-https://openpub.test.stichtsevecht.nl
 https://openpub.texel.nl
 https://openpub.waddinxveen.nl
 https://openpub.wageningen.nl
@@ -5952,13 +5948,10 @@ https://payt.nieuwegein.nl
 https://pcmonitor.leudal.nl
 https://pcportal.nijmegen.nl
 https://pdc-api.cg-intern.utrecht.nl
-https://pdc.acc.stichtsevecht.nl
 https://pdc.alkmaar.nl
 https://pdc.buren.nl
 https://pdc.sittard-geleen.nl
-https://pdc.stichtsevecht.nl
 https://pdc.sudwestfryslan.nl
-https://pdc.test.stichtsevecht.nl
 https://pdcschulddienstverlening.rotterdam.nl
 https://peelenmaas.nl
 https://pekela.nl
@@ -7101,7 +7094,6 @@ https://test.moerdijk.nl
 https://test.open-formulieren.noordoostpolder.nl
 https://test.open-formulieren.vught.nl
 https://test.schiedam.nl
-https://test.stichtsevecht.nl
 https://test.subsites.leiden.nl
 https://test.utrecht.nl
 https://test.veere.nl
@@ -7456,7 +7448,6 @@ https://vpn.maassluis.nl
 https://vpn.nijkerk.eu
 https://vpn.oostgelre.nl
 https://vpn.rotterdam.nl
-https://vpn.stichtsevecht.nl
 https://vpn.terneuzen.nl
 https://vpn.zoetermeer.nl
 https://vpn02.denhaag.nl

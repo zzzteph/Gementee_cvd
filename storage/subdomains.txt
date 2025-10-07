@@ -587,7 +587,6 @@ acc.static.amsterdam.nl
 acc.statistiek.data.amsterdam.nl
 acc.stedebroec.nl
 acc.stemvan.opsterland.nl
-acc.stichtsevecht.nl
 acc.straatnotes.amsterdam.nl
 acc.subsidie-feiten.amsterdam.nl
 acc.subsidie.leiden.nl
@@ -648,6 +647,7 @@ acceptatie-open.hofvantwente.nl
 acceptatie-open.moerdijk.nl
 acceptatie-open.oude-ijsselstreek.nl
 acceptatie-open.roosendaal.nl
+acceptatie-open.stichtsevecht.nl
 acceptatie-open.tubbergen.nl
 acceptatie-open.zutphen.nl
 acceptatie-siam.zaanstad.nl
@@ -2832,9 +2832,7 @@ clicksfm.capelleaandenijssel.nl
 clicksfm.lansingerland.nl
 clicksfm.nieuws.lansingerland.nl
 clicksfm.nieuwsbrief.goeree-overflakkee.nl
-clicksfm.nieuwsbrief.stichtsevecht.nl
 clicksfm.persberichten.lansingerland.nl
-clicksfm.persberichten.stichtsevecht.nl
 clicksfm.stichtsevecht.nl
 client.rotterdam.nl
 clientcert-prd.groningen.nl
@@ -8523,7 +8521,6 @@ msoid.nijkerk.eu
 msoid.tilburg.nl
 mstat.meerssen.nl
 msteamsbellen.soest.nl
-mt-link.stichtsevecht.nl
 mt.peelenmaas.nl
 mta-sts.duiven.nl
 mta-sts.gennep.nl
@@ -9087,6 +9084,7 @@ open.schouwen-duiveland.nl
 open.sint-michielsgestel.nl
 open.sonenbreugel.nl
 open.staphorst.nl
+open.stichtsevecht.nl
 open.teylingen.nl
 open.tilburg.nl
 open.tubbergen.nl
@@ -9173,7 +9171,6 @@ openpdc.waddinxveen.nl
 openpdc.wageningen.nl
 openpdc.zaanstad.nl
 openpdckb.stedebroec.nl
-openpub.acc.stichtsevecht.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.arnhem.nl
@@ -9197,8 +9194,6 @@ openpub.rijssen-holten.nl
 openpub.rozendaal.nl
 openpub.s-hertogenbosch.nl
 openpub.sittard-geleen.nl
-openpub.stichtsevecht.nl
-openpub.test.stichtsevecht.nl
 openpub.texel.nl
 openpub.waddinxveen.nl
 openpub.wageningen.nl
@@ -9558,13 +9553,10 @@ pda.zaanstad.nl
 pdc-api.cg-intern.acc.utrecht.nl
 pdc-api.cg-intern.ont.utrecht.nl
 pdc-api.cg-intern.utrecht.nl
-pdc.acc.stichtsevecht.nl
 pdc.alkmaar.nl
 pdc.buren.nl
 pdc.sittard-geleen.nl
-pdc.stichtsevecht.nl
 pdc.sudwestfryslan.nl
-pdc.test.stichtsevecht.nl
 pdc.test.sudwestfryslan.nl
 pdcschulddienstverlening.rotterdam.nl
 pdk.veldhoven.nl
@@ -10479,7 +10471,6 @@ remote.nunspeet.nl
 remote.renkum.nl
 remote.rozendaal.nl
 remote.schagen.nl
-remote.stichtsevecht.nl
 remote.waalwijk.nl
 remote.westmaasenwaal.nl
 remote.westvoorne.nl
@@ -10832,7 +10823,6 @@ secure.roerdalen.nl
 secure.roermond.nl
 secure.simpelveld.nl
 secure.sittard-geleen.nl
-secure.stichtsevecht.nl
 secure.t-diel.nl
 secure.terneuzen.nl
 secure.terschelling.nl
@@ -12177,7 +12167,6 @@ test.services.dronten.nl
 test.sint-michielsgestel.nl
 test.sittard-geleen.nl
 test.sonenbreugel.nl
-test.stichtsevecht.nl
 test.subsites.leiden.nl
 test.sudwestfryslan.nl
 test.texel.nl
@@ -12823,7 +12812,6 @@ vpn.peelenmaas.nl
 vpn.rotterdam.nl
 vpn.rucphen.nl
 vpn.sittard-geleen.nl
-vpn.stichtsevecht.nl
 vpn.sudwestfryslan.nl
 vpn.terneuzen.nl
 vpn.velsen.nl

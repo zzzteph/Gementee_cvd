@@ -50,18 +50,18 @@ test-ipa
 werkenbij
 dacceptatieloket
 dacceptatiemidoffice
-remote
 dloket
 dmidoffice
 api.meldingen-acc
 meldingen-acc
+remote
 openpdc
 enterpriseregistration
 loket.acceptatie
 data
-openpub
 belastingbalie
 cmsoo
+openpub
 omgevingsvisie
 login
 cloudadapter-test
@@ -217,6 +217,7 @@ iarchief
 legacy
 outlook
 vth
+acceptatie-open
 testloket
 telewerken
 afspraakmaken
@@ -245,7 +246,6 @@ jongin
 www.jongin
 archief
 topdesk
-acceptatie-open
 belastingbalie-test
 kcc
 mx1
@@ -334,7 +334,6 @@ www.acceptatie
 documenten
 raadsnet
 toegang
-pdc
 zoeken
 subsidies-backend.acceptatie
 subsidies.acceptatie
@@ -410,6 +409,7 @@ prefill
 huisstijl
 mijndesktop
 www2
+pdc
 testafspraken
 secure-test
 sociaaldomein
@@ -1001,7 +1001,6 @@ e.doemee
 mailgate
 geovisiaonline
 belastingen-test
-clicksfm.nieuwsbrief
 test-meedoen
 snelbalievergunningen
 vergaderingen
@@ -1124,7 +1123,6 @@ foto
 status
 winkel
 www.huisstijl
-clicksfm.persberichten
 persberichten
 api.meldingen-a
 gisportal
@@ -1202,7 +1200,6 @@ dis4fin
 pda
 secure-t
 camera
-pdc.test
 prefill-test
 digitalebelastingbalie-test
 qmatic
@@ -3130,6 +3127,7 @@ meldpunt
 mijntalent-acc
 mijntalent
 spam
+clicksfm.nieuwsbrief
 dashboard-iav-api
 dashboard-iav
 marketingtools
@@ -4105,6 +4103,7 @@ www.webwinkel
 clicks.nieuws
 clicks.persberichten
 clicksfm.nieuws
+clicksfm.persberichten
 jeugdhulp
 mailsig
 micontentstore
@@ -5326,12 +5325,8 @@ digikoppelingentest
 gbiweb
 infoopkaart
 cmssamenatwork
-mt-link
 octopus-webdav-acc
 octopus-webdav
-openpub.acc
-openpub.test
-pdc.acc
 peoplesync
 ruimtevoorwerken
 rvw
@@ -5388,6 +5383,7 @@ ota-kodision-cli
 ota-test
 ota
 packages
+pdc.test
 pluginupdates
 prifill-test
 prod-kodision-cli
