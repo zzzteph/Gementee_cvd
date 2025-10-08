@@ -40,6 +40,7 @@ edienstenburgerzaken-test.sudwestfryslan.nl
 edienstenburgerzaken.sudwestfryslan.nl
 eloket.sudwestfryslan.nl
 elokettest.sudwestfryslan.nl
+enterpriseregistration.adfs01.sudwestfryslan.nl
 enterpriseregistration.sudwestfryslan.nl
 evmail.sudwestfryslan.nl
 form.sudwestfryslan.nl
@@ -115,7 +116,9 @@ subsidies.sudwestfryslan.nl
 sudwestfryslan.nl
 survey.sudwestfryslan.nl
 tab0751.sudwestfryslan.nl
+tbp.diginetwerk.sudwestfryslan.nl
 tbp.sudwestfryslan.nl
+tbt.diginetwerk.sudwestfryslan.nl
 tbt.sudwestfryslan.nl
 test-cmsintranet.sudwestfryslan.nl
 test-intranet.sudwestfryslan.nl
@@ -133,6 +136,7 @@ tstmijnswf.sudwestfryslan.nl
 uc.sudwestfryslan.nl
 uitleg.sudwestfryslan.nl
 uswolk.sudwestfryslan.nl
+veiligmailen.sudwestfryslan.nl
 vergaderen.sudwestfryslan.nl
 vergeten.sudwestfryslan.nl
 verkiezingen.sudwestfryslan.nl
@@ -146,6 +150,8 @@ wepresent.sudwestfryslan.nl
 werkenbij.sudwestfryslan.nl
 werkplek.sudwestfryslan.nl
 www.acctsjinstbus.sudwestfryslan.nl
+www.adfs01.sudwestfryslan.nl
+www.adobeupdates.sudwestfryslan.nl
 www.auth.sudwestfryslan.nl
 www.bhv.sudwestfryslan.nl
 www.carel1900p.sudwestfryslan.nl
@@ -205,6 +211,7 @@ www.token.sudwestfryslan.nl
 www.topicus.sudwestfryslan.nl
 www.tstmijnswf.sudwestfryslan.nl
 www.vroegsignalering.sudwestfryslan.nl
+www.wepresent.sudwestfryslan.nl
 www.youp.sudwestfryslan.nl
 www.zorgaanbod.sudwestfryslan.nl
 youp.sudwestfryslan.nl

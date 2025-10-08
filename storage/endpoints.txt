@@ -195,6 +195,7 @@ http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
 http://autodiscover.stedebroec.nl
 http://autodiscover.stichtsevecht.nl
+http://autodiscover.sudwestfryslan.nl
 http://autodiscover.terneuzen.nl
 http://autodiscover.terschelling.nl
 http://autodiscover.texel.nl
@@ -1165,7 +1166,6 @@ https://adfs.montferland.info
 https://adfs.rijssen-holten.nl
 https://adfs.simpelveld.nl
 https://adfs.voerendaal.nl
-https://adfs01.sudwestfryslan.nl
 https://adfslogin.defryskemarren.nl
 https://admin.bereikbaarheid.amsterdam.nl
 https://admin.doemee.assen.nl
@@ -7010,7 +7010,6 @@ https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.heuvelrug.nl
-https://test-intranet.sudwestfryslan.nl
 https://test-intranet.velsen.nl
 https://test-intranet.venlo.nl
 https://test-intranet.wageningen.nl

@@ -411,6 +411,7 @@ mijndesktop
 www2
 pdc
 testafspraken
+veiligmailen
 secure-test
 sociaaldomein
 mijnoverzicht
@@ -529,7 +530,6 @@ aanvragen
 ldap
 subsidiebeheer
 subsidieloket
-veiligmailen
 3d
 english
 planon
@@ -5356,6 +5356,7 @@ datalandtest
 devtest
 docs
 download.webmail
+enterpriseregistration.adfs01
 evmail
 geborgenverleden
 geovisiatest
@@ -5396,6 +5397,8 @@ sportdag
 stuf-topicus
 survey
 tab0751
+tbp.diginetwerk
+tbt.diginetwerk
 test-topicus
 testnhr
 token
@@ -5413,6 +5416,8 @@ webmail.devtest
 webshopvitaloo
 wepresent
 www.acctsjinstbus
+www.adfs01
+www.adobeupdates
 www.bhv
 www.carel1900p
 www.carel1900t-clientpki
@@ -5463,6 +5468,7 @@ www.token
 www.topicus
 www.tstmijnswf
 www.vroegsignalering
+www.wepresent
 www.youp
 www.zorgaanbod
 youp

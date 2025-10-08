@@ -4686,6 +4686,7 @@ enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
 enterpriseone.almere.nl
+enterpriseregistration.adfs01.sudwestfryslan.nl
 enterpriseregistration.alphenaandenrijn.nl
 enterpriseregistration.apeldoorn.nl
 enterpriseregistration.arnhem.nl
@@ -11839,8 +11840,10 @@ taxatieverslagen.gemeenteberkelland.nl
 taxiportaal.amsterdam.nl
 taxivergunning.rotterdam.nl
 taxivooriedereen.rijssen-holten.nl
+tbp.diginetwerk.sudwestfryslan.nl
 tbp.harlingen.nl
 tbp.sudwestfryslan.nl
+tbt.diginetwerk.sudwestfryslan.nl
 tbt.harlingen.nl
 tbt.sudwestfryslan.nl
 tc1.groningen.nl
@@ -12648,6 +12651,7 @@ veiligdelen.zeist.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
+veiligmailen.sudwestfryslan.nl
 veldhoven.nl
 velp.landvancuijk.nl
 velsen.nl
@@ -13599,7 +13603,9 @@ www.acctsjinstbus.sudwestfryslan.nl
 www.achtkarspelen.nl
 www.actief.landvancuijk.nl
 www.activesync.rhenen.nl
+www.adfs01.sudwestfryslan.nl
 www.admin.haarlemmermeer.nl
+www.adobeupdates.sudwestfryslan.nl
 www.adviesraad.westbetuwe.nl
 www.afspraak.castricum.nl
 www.afspraak.gemeentehulst.nl
@@ -14617,6 +14623,7 @@ www.webwinkel.landvancuijk.nl
 www.weert.nl
 www.wegwijsplus.vught.nl
 www.wegwijzer.nijkerk.eu
+www.wepresent.sudwestfryslan.nl
 www.werkenbij.alkmaar.nl
 www.werkenbij.enschede.nl
 www.werkenbij.hollandskroon.nl
