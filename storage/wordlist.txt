@@ -221,6 +221,7 @@ acceptatie-open
 testloket
 telewerken
 afspraakmaken
+en
 mobiel
 www.portal
 kennisbank
@@ -250,7 +251,6 @@ belastingbalie-test
 kcc
 mx1
 mx2
-en
 mijnsociaaldomein
 cloudadapter-prod
 handhaving
@@ -1181,6 +1181,7 @@ www.talentenbank
 psiam
 tloket
 tsiam
+fy
 kantoor
 mijnwerkplek
 www.auth
@@ -4643,7 +4644,6 @@ validsign-test
 wijzer-acc
 acc.stemvan
 batched
-fy
 olwmks01
 ops-fw1
 ops-fw2

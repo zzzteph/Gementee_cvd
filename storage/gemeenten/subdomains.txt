@@ -4628,6 +4628,7 @@ en.kerkrade.nl
 en.nuenen.nl
 en.opsterland.nl
 en.sonenbreugel.nl
+en.t-diel.nl
 en.zoetermeer.nl
 endpoint.oss.nl
 energiebespaaradvies.overbetuwe.nl
@@ -5229,6 +5230,7 @@ fw-rtr.alkmaar.nl
 fw.maassluis.nl
 fw.s-hertogenbosch.nl
 fy.opsterland.nl
+fy.t-diel.nl
 g-rooster.bronckhorst.nl
 g-rooster.heerlen.nl
 g-roostertst.heerlen.nl
