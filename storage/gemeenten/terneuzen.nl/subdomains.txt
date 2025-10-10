@@ -34,5 +34,6 @@ tunnel.terneuzen.nl
 vpn.terneuzen.nl
 vsp.terneuzen.nl
 webmail.terneuzen.nl
+webservergbav.terneuzen.nl
 www.doemee.terneuzen.nl
 www.terneuzen.nl
