@@ -540,7 +540,6 @@ http://storing.acc.denhaag.nl
 http://subsidies-backend.leeuwarden.nl
 http://subsidies-login.acceptatie.leeuwarden.nl
 http://taxiportaal.amsterdam.nl
-http://terschelling.nl
 http://test-bink.beverwijk.nl
 http://test-binnenshuis.bergen.nl
 http://test-cmsdok.dronten.nl
@@ -6974,6 +6973,7 @@ https://telewerken.stichtsevecht.nl
 https://telewerken.zaanstad.nl
 https://telewerkentest.nederbetuwe.nl
 https://terneuzen.nl
+https://terschelling.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
@@ -8257,7 +8257,6 @@ https://www.sudwestfryslan.nl
 https://www.t-diel.nl
 https://www.talentenbank.ooststellingwerf.nl
 https://www.terneuzen.nl
-https://www.terschelling.nl
 https://www.test.denhaag.nl
 https://www.texel.nl
 https://www.teylingen.nl
