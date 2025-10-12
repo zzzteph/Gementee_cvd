@@ -2101,6 +2101,8 @@ https://brink70.deventer.nl
 https://brlcmg.brielle.nl
 https://bro.katwijk.nl
 https://bro.pre.katwijk.nl
+https://broker-mijn.texel.nl
+https://broker-preprod-mijn.texel.nl
 https://broker-preprod.eemsdelta.nl
 https://broker.aalten.nl
 https://broker.assen.nl
@@ -4162,6 +4164,7 @@ https://ibzpink.sonenbreugel.nl
 https://ibzpink.staphorst.nl
 https://ibzpink.stichtsevecht.nl
 https://ibzpink.t-diel.nl
+https://ibzpink.texel.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5187,6 +5190,7 @@ https://mijninkomen.goeree-overflakkee.nl
 https://mijninkomen.gouda.nl
 https://mijninkomen.oss.nl
 https://mijninkomen.terneuzen.nl
+https://mijninkomen.texel.nl
 https://mijninkomen.venray.nl
 https://mijnintranet.haaksbergen.nl
 https://mijnintranet.heerlen.nl
@@ -6545,6 +6549,7 @@ https://sdv-t.zwolle.nl
 https://secfs.tilburg.nl
 https://secudoc.gemeentebeek.nl
 https://secudoc.nederbetuwe.nl
+https://secudoc.texel.nl
 https://secure-t.sittard-geleen.nl
 https://secure-test.almere.nl
 https://secure.almere.nl

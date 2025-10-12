@@ -1,10 +1,13 @@
 api.betalen.texel.nl
 autodiscover.texel.nl
 betalen.texel.nl
+broker-mijn.texel.nl
+broker-preprod-mijn.texel.nl
 connect.texel.nl
 digikoppeling.texel.nl
 digitalebelastingbalie-test.texel.nl
 digitalebelastingbalie.texel.nl
+drop.texel.nl
 exchange.texel.nl
 geo.texel.nl
 iburgerzaken.texel.nl
@@ -21,9 +24,10 @@ openpdc.texel.nl
 openpub.texel.nl
 pbx.texel.nl
 preprod-mijn.texel.nl
+preprod-mijninkomen.texel.nl
+secudoc.texel.nl
 subsidiebeleidskaart.texel.nl
 test.texel.nl
 texel.nl
 werken.texel.nl
-werkplek.texel.nl
 www.texel.nl

@@ -2600,6 +2600,8 @@ brk.meerssen.nl
 brlcmg.brielle.nl
 bro.katwijk.nl
 bro.pre.katwijk.nl
+broker-mijn.texel.nl
+broker-preprod-mijn.texel.nl
 broker-preprod.eemsdelta.nl
 broker.aalten.nl
 broker.assen.nl
@@ -4037,6 +4039,7 @@ dronten.nl
 drop-acc.rotterdam.nl
 drop.rotterdam.nl
 drop.scherpenzeel.nl
+drop.texel.nl
 droppki.nissewaard.nl
 droptestpki.nissewaard.nl
 drupalintranet.bergeijk.nl
@@ -9907,6 +9910,7 @@ preprod-mijninkomen.goeree-overflakkee.nl
 preprod-mijninkomen.gouda.nl
 preprod-mijninkomen.oss.nl
 preprod-mijninkomen.terneuzen.nl
+preprod-mijninkomen.texel.nl
 preprod-mijninkomen.venray.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnoverzicht.purmerend.nl
@@ -10750,6 +10754,7 @@ sec.gemeentemaasgouw.nl
 secfs.tilburg.nl
 secudoc.gemeentebeek.nl
 secudoc.nederbetuwe.nl
+secudoc.texel.nl
 secure-a.utrecht.nl
 secure-s.utrecht.nl
 secure-t.sittard-geleen.nl
@@ -13321,7 +13326,6 @@ werkplek.schiedam.nl
 werkplek.smallingerland.nl
 werkplek.staphorst.nl
 werkplek.sudwestfryslan.nl
-werkplek.texel.nl
 werkplek.tholen.nl
 werkplek.tilburg.nl
 werkplek.veldhoven.nl
