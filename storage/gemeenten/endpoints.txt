@@ -1078,7 +1078,6 @@ https://acceptatie-intranet.nederbetuwe.nl
 https://acceptatie-intranet.oosterhout.nl
 https://acceptatie-mobiliteitsplan.hillegom.nl
 https://acceptatie-mobiliteitsplan.lisse.nl
-https://acceptatie-mobiliteitsplan.teylingen.nl
 https://acceptatie-open.dinkelland.nl
 https://acceptatie-open.gooisemeren.nl
 https://acceptatie-open.hofvantwente.nl
@@ -1129,7 +1128,6 @@ https://acceptatie.someren.nl
 https://acceptatie.stadskanaal.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
-https://acceptatie.teylingen.nl
 https://acceptatie.velsen.nl
 https://acceptatie.voorst.nl
 https://acceptatie.waadhoeke.nl
@@ -1688,6 +1686,7 @@ https://bastion365.nieuwkoop.nl
 https://bastion365.roermond.nl
 https://bastion365.rozendaal.nl
 https://bastion365.someren.nl
+https://bastion365.teylingen.nl
 https://bastion365.tilburg.nl
 https://bastion365.venlo.nl
 https://bastion365.weert.nl
@@ -7602,7 +7601,6 @@ https://webshopapp.denhaag.nl
 https://webshopvitaloo.sudwestfryslan.nl
 https://website.acceptatie.hillegom.nl
 https://website.acceptatie.lisse.nl
-https://website.acceptatie.teylingen.nl
 https://website.alphen-chaam.nl
 https://website.gilzerijen.nl
 https://website.hillegom.nl

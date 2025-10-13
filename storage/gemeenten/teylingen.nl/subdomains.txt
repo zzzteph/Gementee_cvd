@@ -3,6 +3,7 @@ aanvragenprod.teylingen.nl
 acceptatie-mobiliteitsplan.teylingen.nl
 acceptatie.teylingen.nl
 autodiscover.teylingen.nl
+bastion365.teylingen.nl
 bouwarchief.teylingen.nl
 dali.teylingen.nl
 edienstenburgerzaken-test.teylingen.nl

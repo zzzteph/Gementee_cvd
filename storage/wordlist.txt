@@ -117,6 +117,7 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
+bastion365
 contact
 objecttypen
 openklant
@@ -137,7 +138,6 @@ preprod
 qr
 apps
 acc-keycloak
-bastion365
 keycloak
 notificaties
 objecten
