@@ -10,9 +10,7 @@ ibzpink.tholen.nl
 intranet.tholen.nl
 mijn.tholen.nl
 qmatic.tholen.nl
-rooster.tholen.nl
 simsite.tholen.nl
-smtp.tholen.nl
 tholen.nl
 ucserver.tholen.nl
 werkplek.tholen.nl

@@ -1,9 +1,9 @@
 http://autodiscover.tholen.nl
-http://smtp.tholen.nl
 https://afspraken.tholen.nl
 https://enterpriseenrollment.tholen.nl
 https://enterpriseregistration.tholen.nl
 https://iburgerzaken.tholen.nl
+https://ibzpink.tholen.nl
 https://mijn.tholen.nl
 https://qmatic.tholen.nl
 https://tholen.nl

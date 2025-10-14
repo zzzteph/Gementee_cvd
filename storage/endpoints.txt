@@ -524,7 +524,6 @@ http://simsite.zoetermeer.nl
 http://simsite.zwartewaterland.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
-http://smtp.tholen.nl
 http://sociaaldomein.ijsselstein.nl
 http://socialintranet.middendelfland.nl
 http://splunk-controlroom.denhaag.nl
@@ -4164,6 +4163,7 @@ https://ibzpink.staphorst.nl
 https://ibzpink.stichtsevecht.nl
 https://ibzpink.t-diel.nl
 https://ibzpink.texel.nl
+https://ibzpink.tholen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl

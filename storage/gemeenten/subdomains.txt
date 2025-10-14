@@ -10565,7 +10565,6 @@ rooster.denhelder.nl
 rooster.haarlemmermeer.nl
 rooster.helmond.nl
 rooster.schagen.nl
-rooster.tholen.nl
 roplan.haarlemmermeer.nl
 roplannen.gemeentewestland.nl
 rosmolen.westervoort.nl
@@ -11325,7 +11324,6 @@ smtp.iba.amsterdam.nl
 smtp.lingewaard.nl
 smtp.moerdijk.nl
 smtp.opsterland.nl
-smtp.tholen.nl
 smtp.zwolle.nl
 smtp01.meerssen.nl
 smtp01.nunspeet.nl

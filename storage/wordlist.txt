@@ -162,7 +162,6 @@ vdi
 keycloak-admin
 lyncdiscover
 www.doemee
-smtp
 jaarstukken
 inproces
 cryptshare
@@ -174,6 +173,7 @@ owa
 zac
 gasten
 mdm
+smtp
 AutoDiscover
 ro
 transfer
@@ -301,7 +301,6 @@ magazine
 wion
 img.openstad
 ns1
-rooster
 dialin
 openformulieren
 test-mijn
@@ -348,6 +347,7 @@ beheer
 parkeervergunning
 mijngeldzaken
 www.openstad
+rooster
 admin.doemee
 api.doemee
 auth.doemee
