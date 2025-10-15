@@ -3,6 +3,7 @@ https://eloket.tiel.nl
 https://formulieren-test.tiel.nl
 https://formulieren.tiel.nl
 https://iburgerzaken.tiel.nl
+https://ibzpink.tiel.nl
 https://prp.tiel.nl
 https://raad.tiel.nl
 https://testeloket.tiel.nl

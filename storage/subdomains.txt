@@ -11359,6 +11359,7 @@ snelbalie.nissewaard.nl
 snelbalie.oudewater.nl
 snelbalie.sudwestfryslan.nl
 snelbalie.terneuzen.nl
+snelbalie.tiel.nl
 snelbalie.uitgeest.nl
 snelbaliebbsuo.soest.nl
 snelbaliepp.alphenaandenrijn.nl
@@ -11374,6 +11375,7 @@ snelbaliepp.terneuzen.nl
 snelbaliepp.uitgeest.nl
 snelbaliepp.zaanstad.nl
 snelbalietest.almere.nl
+snelbalietest.tiel.nl
 snelbalietestbbsuo.soest.nl
 snelbalievergunningen-test.valkenswaard.nl
 snelbalievergunningen.goes.nl

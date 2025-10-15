@@ -109,6 +109,7 @@ samen
 filecap
 preprodbroker
 verkiezingen
+snelbalie
 api.betalen
 acc-contact
 acc-mijn
@@ -131,7 +132,6 @@ mijnzorg
 vergunningintaker
 e
 mijninkomen
-snelbalie
 afvalkalender
 dali
 preprod
@@ -748,6 +748,7 @@ kavels
 kavelwinkel
 leef
 regio
+snelbalietest
 sportencultuur
 test.formulieren
 wijkteams
@@ -1344,7 +1345,6 @@ politiekemarkt
 prd-phpmyadmin
 pv.diensten
 smap
-snelbalietest
 sportsupport
 stadsgesprekken
 svs-acc
