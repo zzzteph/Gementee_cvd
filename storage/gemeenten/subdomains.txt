@@ -785,6 +785,7 @@ activesync.sittard-geleen.nl
 activiteiten.amsterdam.nl
 adam.amsterdam.nl
 adccallback.ovh.gemeentebeek.nl
+addin.schrijfkader.extranet.tilburg.nl
 adeptiaconnect.acc.denhaag.nl
 adeptiaconnect.ot.denhaag.nl
 adfs.beekdaelen.nl
@@ -1417,6 +1418,7 @@ apim-portal-wpi-o.amsterdam.nl
 apim-portal-wpi-t.amsterdam.nl
 apim-scm-wpi-o.amsterdam.nl
 apim-scm-wpi-t.amsterdam.nl
+apim.schrijfkader.extranet.tilburg.nl
 apint.almere.nl
 apint2.almere.nl
 apis.regiomonitor-acc.oosterhout.nl
@@ -1443,7 +1445,6 @@ appl03.schiedam.nl
 applicaties.amsterdam.nl
 applicaties.tilburg.nl
 applicaties.zwolle.nl
-applicationgateway.tilburg.nl
 apps-fat.dijkenwaard.nl
 apps-vdi.dijkenwaard.nl
 apps.amsterdam.nl
@@ -2671,6 +2672,7 @@ bsp02.steenwijkerland.nl
 bst02.steenwijkerland.nl
 buikslotermeerplein.amsterdam.nl
 buiten.enkhuizen.nl
+buitencollectie.tilburg.nl
 buitendienst-app.krimpenerwaard.nl
 buitendienst-dashboard.krimpenerwaard.nl
 buitengewoon.zaanstad.nl
@@ -5194,7 +5196,6 @@ fr.heerlen.nl
 fraudemelding.rotterdam.nl
 frontoffice-parkeervergunningen-acc.beverwijk.nl
 frontoffice-parkeervergunningen.beverwijk.nl
-fs-acct.tilburg.nl
 fs-mail.drimmelen.nl
 fs-test.tilburg.nl
 fs.aaenhunze.nl
@@ -5452,7 +5453,6 @@ geo.sittard-geleen.nl
 geo.staphorst.nl
 geo.sudwestfryslan.nl
 geo.texel.nl
-geo.tilburg.nl
 geo.valkenswaard.nl
 geo.vught.nl
 geo.weert.nl
@@ -5506,6 +5506,7 @@ geoportaaloss.oss.nl
 geoportaaltest.enschede.nl
 geoportaaltest.haarlemmermeer.nl
 geoportal.weert.nl
+geoprojecten.extranet.tilburg.nl
 geoproxy.s-hertogenbosch.nl
 geoserver-signalen.almere.nl
 geoserver-test.baarn.nl
@@ -10176,6 +10177,7 @@ productenraming.venlo.nl
 productie.postex.heusden.nl
 prodwizraapl.nissewaard.nl
 profilemanager.schagen.nl
+programmabegroting-2026.tilburg.nl
 programmabegroting.bronckhorst.nl
 programmabegroting.financien.purmerend.nl
 programmabegroting.gemeente-steenbergen.nl
@@ -10729,6 +10731,7 @@ scholenwijzer-acc.denhaag.nl
 scholenwijzer.denhaag.nl
 school.bibliotheek.rotterdam.nl
 schouwen-duiveland.nl
+schrijfkader.extranet.tilburg.nl
 scim.deurne.nl
 scim.noordwijk.nl
 scoremodule.harderwijk.nl
@@ -12841,6 +12844,7 @@ vraaghulp.acc.nijmegen.nl
 vraagwijzer.gemeente-steenbergen.nl
 vragenlijst.eindhoven.nl
 vragenmachine.landvancuijk.nl
+vri.extranet.tilburg.nl
 vrijwilliger.hilversum.nl
 vrijwilligerin.hilversum.nl
 vrijwilligerswerk-oostgelre.oostgelre.nl
@@ -13338,11 +13342,11 @@ werkplek.wijdemeren.nl
 werkplek.zwolle.nl
 werkplek01.derondevenen.nl
 werkplek02.derondevenen.nl
+werkplek2.tilburg.nl
 werkplek2014.peelenmaas.nl
 werkplek2018.peelenmaas.nl
 werkplek2021.peelenmaas.nl
 werkplekcb.kampen.nl
-werkplekspel.tilburg.nl
 werkplektest.haarlemmermeer.nl
 werkregelingen-acc.utrecht.nl
 werkregelingen.utrecht.nl
@@ -13788,6 +13792,7 @@ www.denkmee.hollandskroon.nl
 www.denkmee.nieuwkoop.nl
 www.denkmee.noord-beveland.nl
 www.denkmee.t-diel.nl
+www.denkmee.tilburg.nl
 www.denkmee.woerden.nl
 www.derondevenen.nl
 www.destemvan.groningen.nl
@@ -14649,7 +14654,6 @@ www.werkplek.peelenmaas.nl
 www.werkplek2014.peelenmaas.nl
 www.werkplek2018.peelenmaas.nl
 www.werkplek2021.peelenmaas.nl
-www.werkplekspel.tilburg.nl
 www.werkplektest.haarlemmermeer.nl
 www.westbetuwe.nl
 www.westerkwartier.groningen.nl
