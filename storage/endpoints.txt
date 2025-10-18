@@ -515,6 +515,7 @@ http://simsite.lopik.nl
 http://simsite.mookenmiddelaar.nl
 http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
+http://simsite.twenterand.nl
 http://simsite.veere.nl
 http://simsite.westerkwartier.nl
 http://simsite.westmaasenwaal.nl
@@ -3272,7 +3273,6 @@ https://felix.nijkerk.eu
 https://felix.ooststellingwerf.nl
 https://felix.reuseldemierden.nl
 https://felix.terschelling.nl
-https://felix.twenterand.nl
 https://felix.urk.nl
 https://felix.vlieland.nl
 https://felix.waalwijk.nl
@@ -4166,6 +4166,7 @@ https://ibzpink.t-diel.nl
 https://ibzpink.texel.nl
 https://ibzpink.tholen.nl
 https://ibzpink.tiel.nl
+https://ibzpink.twenterand.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6677,7 +6678,6 @@ https://simsite.pekela.nl
 https://simsite.scherpenzeel.nl
 https://simsite.simpelveld.nl
 https://simsite.staphorst.nl
-https://simsite.twenterand.nl
 https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
