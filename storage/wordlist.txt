@@ -70,9 +70,9 @@ digikoppeling-test
 beeldbank
 flowmailer-tracking
 kaart
+berichten
 formulier
 zaken
-berichten
 hybrid
 cloudadapter
 kaarten

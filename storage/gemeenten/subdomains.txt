@@ -2310,6 +2310,7 @@ berichten.ommen.nl
 berichten.rijswijk.nl
 berichten.soest.nl
 berichten.sudwestfryslan.nl
+berichten.uitgeest.nl
 berichten.valkenswaard.nl
 berichten.zuidplas.nl
 berichtenverkeer.authenticatie.alkmaar.nl

@@ -1,3 +1,4 @@
+berichten.uitgeest.nl
 betalen.uitgeest.nl
 e-loket.uitgeest.nl
 edienstenburgerzaken-test.uitgeest.nl

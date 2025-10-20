@@ -1931,6 +1931,7 @@ https://berichten.koggenland.nl
 https://berichten.noordoostpolder.nl
 https://berichten.ommen.nl
 https://berichten.soest.nl
+https://berichten.uitgeest.nl
 https://berichten.valkenswaard.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
