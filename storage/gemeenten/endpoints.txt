@@ -4170,6 +4170,7 @@ https://ibzpink.tholen.nl
 https://ibzpink.tiel.nl
 https://ibzpink.twenterand.nl
 https://ibzpink.tynaarlo.nl
+https://ibzpink.uithoorn.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4817,7 +4818,6 @@ https://lvs.zwemmen.venlo.nl
 https://lyncdiscover.diemen.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
-https://lyncdiscover.uithoorn.nl
 https://lyncdiscover.wijdemeren.nl
 https://lyncdiscover.wormerland.nl
 https://m.amersfoort.nl
@@ -6692,7 +6692,6 @@ https://sintanthonis.landvancuijk.nl
 https://sip.diemen.nl
 https://sip.hellevoetsluis.nl
 https://sip.houten.nl
-https://sip.uithoorn.nl
 https://sip.wijdemeren.nl
 https://sip.wormerland.nl
 https://siraskalot.delft.nl

@@ -7586,7 +7586,6 @@ lyncdiscover.houten.nl
 lyncdiscover.kerkrade.nl
 lyncdiscover.landgraaf.nl
 lyncdiscover.oostzaan.nl
-lyncdiscover.uithoorn.nl
 lyncdiscover.urk.nl
 lyncdiscover.wijdemeren.nl
 lyncdiscover.wormerland.nl
@@ -11265,7 +11264,6 @@ sip.hoorn.nl
 sip.houten.nl
 sip.landgraaf.nl
 sip.oostzaan.nl
-sip.uithoorn.nl
 sip.urk.nl
 sip.wijdemeren.nl
 sip.wormerland.nl

@@ -150,7 +150,6 @@ preprod-mijninkomen
 auth
 acc-keycloak-admin
 acc-zac
-sip
 micollab
 inloggen
 connect.acceptatie
@@ -160,7 +159,7 @@ subsidies
 snelbaliepp
 vdi
 keycloak-admin
-lyncdiscover
+sip
 www.doemee
 jaarstukken
 inproces
@@ -169,6 +168,7 @@ belastingportaal
 ftp
 gisib
 bis
+lyncdiscover
 owa
 zac
 gasten

@@ -6,12 +6,10 @@ gdintaker.uithoorn.nl
 iburgerzaken.uithoorn.nl
 ibzpink.uithoorn.nl
 loket.uithoorn.nl
-lyncdiscover.uithoorn.nl
 ondernemersloket.uithoorn.nl
 preprodgdintaker.uithoorn.nl
 preprodscbroker.uithoorn.nl
 scbroker.uithoorn.nl
-sip.uithoorn.nl
 test.uithoorn.nl
 uithoorn.nl
 woz.uithoorn.nl
