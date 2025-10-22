@@ -86,13 +86,13 @@ woningbouwkaart
 test-intranet
 connect
 cmsintranet
+_autodiscover._tcp
 parkeren-test
 piwik
 acc-podiumd-logs
 belastingloket
 mks
 dtestloket
-_autodiscover._tcp
 portaal
 siam
 financien
@@ -573,6 +573,7 @@ simcms-duurzaam
 wmo
 testformulieren
 automator
+rx-mission-publiceren
 preprod-mijnoverzicht
 sportaccommodaties
 mycorsanxt
@@ -854,7 +855,6 @@ gms
 typo3
 wozloket-acc
 mijnzorg-test
-rx-mission-publiceren
 testportal
 voormeldingen
 wim2-acc
@@ -1096,6 +1096,7 @@ www.meedoen
 test-kaartviewer
 mfawerkplek
 veilig
+spf
 www.cryptshare
 brk
 servicegatewayt
@@ -3896,7 +3897,6 @@ kb-apps2
 kb-dezta
 nlmwlkeb
 outlook2
-spf
 test-digitaalgemeenteloket
 testservices
 www.iobjecten-acc

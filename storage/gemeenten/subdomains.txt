@@ -93,6 +93,7 @@ _autodiscover._tcp.oude-ijsselstreek.nl
 _autodiscover._tcp.reimerswaal.nl
 _autodiscover._tcp.schiermonnikoog.nl
 _autodiscover._tcp.tubbergen.nl
+_autodiscover._tcp.urk.nl
 _autodiscover._tcp.vlieland.nl
 _autodiscover._tcp.westbetuwe.nl
 _autodiscover._tcp.wijkbijduurstede.nl
@@ -10630,6 +10631,7 @@ ruimtevoorwerken.stichtsevecht.nl
 rvw.stichtsevecht.nl
 rx-mission-publiceren.borne.nl
 rx-mission-publiceren.meerssen.nl
+rx-mission-publiceren.urk.nl
 rxlaunch-acc.overbetuwe.nl
 rxlaunch-signicat-preprod.hardinxveld-giessendam.nl
 rxlaunch-signicat-preprod.papendrecht.nl
@@ -11438,6 +11440,7 @@ spf-ogone02.someren.nl
 spf-wind.asten.nl
 spf-wind.someren.nl
 spf.kaagenbraassem.nl
+spf.urk.nl
 spin.ede.nl
 spinajaar.haarlemmermeer.nl
 spivoorjaar.haarlemmermeer.nl

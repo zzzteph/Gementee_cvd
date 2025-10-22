@@ -496,6 +496,7 @@ http://simcms.middendelfland.nl
 http://simcms.nederweert.nl
 http://simcms.roerdalen.nl
 http://simcms.schiermonnikoog.nl
+http://simcms.urk.nl
 http://simcms.valkenswaard.nl
 http://simcms.westmaasenwaal.nl
 http://simcms.wierden.nl
@@ -666,7 +667,6 @@ http://www.suikerkwartier.groningen.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
-http://www.urk.nl
 http://www.valkenswaard.nl
 http://www.veenkolonien.groningen.nl
 http://www.waddsup.waddinxveen.nl
@@ -6774,6 +6774,7 @@ https://speciaal.meppel.nl
 https://spelenapp.loonopzand.nl
 https://spf-wind.asten.nl
 https://spf-wind.someren.nl
+https://spf.urk.nl
 https://spinajaar.haarlemmermeer.nl
 https://spivoorjaar.haarlemmermeer.nl
 https://spoorzone.deventer.nl
@@ -7007,7 +7008,6 @@ https://test-cmsintranet.wageningen.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssamenatwork.stichtsevecht.nl
 https://test-cmssocial.montferland.info
-https://test-cmsurknet.urk.nl
 https://test-cmszaanzoeker.zaanstad.nl
 https://test-contact.enschede.nl
 https://test-contact.gemert-bakel.nl
@@ -7077,7 +7077,6 @@ https://test-subsidieloket.alkmaar.nl
 https://test-subsidieloket.zwolle.nl
 https://test-topdesk.venlo.nl
 https://test-trefpunt.deurne.nl
-https://test-urknet.urk.nl
 https://test-vergoedingen.nijmegen.nl
 https://test-website-westland.gemeentewestland.nl
 https://test-witgoed.middendrenthe.nl

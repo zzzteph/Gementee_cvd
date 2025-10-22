@@ -1,3 +1,4 @@
+_autodiscover._tcp.urk.nl
 api.meldingen-acc.urk.nl
 api.meldingen.urk.nl
 av.urk.nl
@@ -25,12 +26,14 @@ pip-test.urk.nl
 pip.urk.nl
 preproductie.urk.nl
 probeer.urk.nl
+rx-mission-publiceren.urk.nl
 secure.urk.nl
 sfb.urk.nl
 sfb2.urk.nl
 simcms.urk.nl
 sip.urk.nl
 sip2.urk.nl
+spf.urk.nl
 test-cmsurknet.urk.nl
 test-ipa.urk.nl
 test-urknet.urk.nl
