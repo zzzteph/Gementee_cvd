@@ -35,6 +35,7 @@ api-meldingen.cg-intern.acc.utrecht.nl
 api-meldingen.cg-intern.ont.utrecht.nl
 api.meldingen.utrecht.nl
 api.openstad.utrecht.nl
+apps.utrecht.nl
 autodiscover.utrecht.nl
 bedrijfsafval.utrecht.nl
 begroten.noordwestbegroot.utrecht.nl
@@ -51,6 +52,7 @@ cg-intern.ont.utrecht.nl
 cg-intern.utrecht.nl
 citycontrol-test.utrecht.nl
 citycontrol.utrecht.nl
+cognos.utrecht.nl
 commonground.acc.utrecht.nl
 commonground.test.utrecht.nl
 commonground.utrecht.nl
@@ -72,18 +74,22 @@ edienstenburgerzaken.utrecht.nl
 edison-acc.utrecht.nl
 edison-opl.utrecht.nl
 edison.utrecht.nl
+energieloket.utrecht.nl
 eop.utrecht.nl
 erfgoed.utrecht.nl
+event.gemeente.utrecht.nl
 ews.utrecht.nl
 fmreturn.dienstverlening.utrecht.nl
 fo-parkeervergunningen.acc.utrecht.nl
 fo-parkeervergunningen.utrecht.nl
 formulieren-g4-acc.utrecht.nl
 formulieren-g4.utrecht.nl
+formulieren.digitaal.utrecht.nl
 ftps.utrecht.nl
 ftptest.utrecht.nl
 gd.utrecht.nl
 gdpp.utrecht.nl
+gebiedsvisies.utrecht.nl
 geodata-a.utrecht.nl
 geodata.utrecht.nl
 gezondleven.utrecht.nl
@@ -96,8 +102,6 @@ huishoudboekje.utrecht.nl
 huisstijl.utrecht.nl
 ibabs.cg-intern.acc.utrecht.nl
 ibabs.cg-intern.ont.utrecht.nl
-image.acc-nieuwsbrief.utrecht.nl
-image.nieuwsbrief.utrecht.nl
 images.openstad.utrecht.nl
 imarkt.utrecht.nl
 infozuil.utrecht.nl
@@ -116,6 +120,8 @@ inway.cg-intern.ont.utrecht.nl
 inway.cg-intern.utrecht.nl
 inway.test.utrecht.nl
 inway.utrecht.nl
+kaart.tst.utrecht.nl
+kaart.utrecht.nl
 kcslive.utrecht.nl
 kcsliveacc.utrecht.nl
 kcslivetst.utrecht.nl
@@ -165,6 +171,8 @@ objects.cg-intern.acc.utrecht.nl
 objects.cg-intern.ont.utrecht.nl
 objecttypes.cg-intern.acc.utrecht.nl
 objecttypes.cg-intern.ont.utrecht.nl
+octobox-anonimiseren.utrecht.nl
+octobox.utrecht.nl
 omgevingsvisie.utrecht.nl
 onderzoek.utrecht.nl
 ontheffingmilieuzone-acc.utrecht.nl
@@ -173,8 +181,8 @@ open-notificaties.cg-intern.acc.utrecht.nl
 open-notificaties.cg-intern.ont.utrecht.nl
 open-zaak.cg-intern.acc.utrecht.nl
 open-zaak.cg-intern.ont.utrecht.nl
+open.utrecht.nl
 opendata.utrecht.nl
-owa.utrecht.nl
 parkeerapp.acc.utrecht.nl
 parkeerapp.utrecht.nl
 parkeerhandhaving.utrecht.nl
@@ -248,7 +256,6 @@ www.rekenkamer.utrecht.nl
 www.utrecht.nl
 zaaksysteem.acc.utrecht.nl
 zaaksysteem.migratie.utrecht.nl
-zaaksysteem.utrecht.nl
 zac.cg-intern.acc.utrecht.nl
 zac.cg-intern.ont.utrecht.nl
 zac.cg-intern.utrecht.nl

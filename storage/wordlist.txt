@@ -27,8 +27,8 @@ werkplek
 portal
 waarmerk
 acc
-afspraak
 open
+afspraak
 meldingen
 raad
 betalen
@@ -111,6 +111,7 @@ preprodbroker
 verkiezingen
 snelbalie
 api.betalen
+apps
 acc-contact
 acc-mijn
 acc-notificaties
@@ -136,7 +137,6 @@ afvalkalender
 dali
 preprod
 qr
-apps
 acc-keycloak
 keycloak
 notificaties
@@ -169,7 +169,6 @@ ftp
 gisib
 bis
 lyncdiscover
-owa
 zac
 gasten
 mdm
@@ -185,6 +184,7 @@ mailing
 gis
 nieuwsbrief
 bag
+owa
 test-digikoppeling
 meedoen
 localhost
@@ -199,7 +199,6 @@ inproces.acceptatie
 internetafspraken
 bestuur
 mta-sts
-zaaksysteem
 geoportaal
 fs
 preprod-mijn
@@ -221,6 +220,7 @@ acceptatie-open
 testloket
 telewerken
 afspraakmaken
+zaaksysteem
 en
 mobiel
 www.portal
@@ -311,6 +311,7 @@ digikoppelingtest
 acc.piwik
 www.acc
 omgevingswet
+cognos
 dkdtest
 test-secure
 woz-loket
@@ -372,7 +373,6 @@ mam
 programmabegroting
 autorisatiebeheer
 carel
-cognos
 key2datadistributie-test
 key2gbavtest
 logilink
@@ -783,7 +783,6 @@ buurtbudget
 centrum
 designsystem
 erfpacht
-image.nieuwsbrief
 ois
 cc
 fm
@@ -791,6 +790,7 @@ gpa
 intranetacc
 mas
 mo
+octobox
 tijdschrijven
 top
 www.stadspas
@@ -1083,6 +1083,7 @@ siem
 coda
 return
 www.thuiswerken
+energieloket
 gvonline
 testwerkplek
 Cloudadapter-test
@@ -1720,6 +1721,7 @@ haal-centraal.api.data
 iamprdsp2
 id-erfpacht-tst
 iedereenwerktmee
+image.nieuwsbrief
 intranet.raadsinformatie
 is2.acc
 krm.brievenbus
@@ -1806,7 +1808,6 @@ ndes
 ndesapeldoorn
 nedbrw
 nedbrwacc
-octobox
 pilot-digitaleplannen
 prijsvraag-zwembad
 proto
@@ -3815,7 +3816,6 @@ Autodiscover
 bgthvs
 bgtwdm
 data-acc
-energieloket
 mijnsociaalplein-acc
 ucconf01
 vrijwilliger
@@ -5649,13 +5649,16 @@ dowc.cg-intern.ont
 drempelsweg
 dvlm.3d
 eop
+event.gemeente
 fmreturn.dienstverlening
 formulieren-g4-acc
 formulieren-g4
+formulieren.digitaal
 ftps
 ftptest
 gd
 gdpp
+gebiedsvisies
 geodata-a
 gezondleven
 gisib-a
@@ -5664,7 +5667,6 @@ healthyurbanliving
 huishoudboekje.acc
 ibabs.cg-intern.acc
 ibabs.cg-intern.ont
-image.acc-nieuwsbrief
 imarkt
 infozuil
 inlogef-test
@@ -5681,6 +5683,7 @@ inway.cg-intern.ont
 inway.cg-intern
 inway.test
 inway
+kaart.tst
 kcslive
 kcsliveacc
 kcslivetst
@@ -5721,6 +5724,7 @@ objects.cg-intern.acc
 objects.cg-intern.ont
 objecttypes.cg-intern.acc
 objecttypes.cg-intern.ont
+octobox-anonimiseren
 ontheffingmilieuzone-acc
 ontheffingmilieuzone
 open-notificaties.cg-intern.acc
