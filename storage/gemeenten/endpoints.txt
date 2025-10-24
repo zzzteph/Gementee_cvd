@@ -21,6 +21,7 @@ http://activiteiten.amsterdam.nl
 http://afspraak.bergendal.nl
 http://afspraken.huizen.nl
 http://afspraken.rijssen-holten.nl
+http://afspraken.vaals.nl
 http://ami-acc.amsterdam.nl
 http://amsterdam.nl
 http://andreas2.acc.amsterdam.nl
@@ -1267,7 +1268,6 @@ https://afspraken.reimerswaal.nl
 https://afspraken.someren.nl
 https://afspraken.tholen.nl
 https://afspraken.tynaarlo.nl
-https://afspraken.vaals.nl
 https://afspraken.veendam.nl
 https://afspraken.waterland.nl
 https://afspraken.westerwolde.nl
@@ -4168,6 +4168,7 @@ https://ibzpink.tiel.nl
 https://ibzpink.twenterand.nl
 https://ibzpink.tynaarlo.nl
 https://ibzpink.uithoorn.nl
+https://ibzpink.vaals.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
