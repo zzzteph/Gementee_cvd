@@ -467,7 +467,6 @@ http://scanhulp.amsterdam.nl
 http://secure.acc.denhaag.nl
 http://secure.denhaag.nl
 http://secure.gemeentestein.nl
-http://secure.valkenburg.nl
 http://sem.kampen.nl
 http://sherlock.tst.amsterdam.nl
 http://simcms-armoedepact.westerkwartier.nl
@@ -1056,6 +1055,7 @@ https://acc.straatnotes.amsterdam.nl
 https://acc.subsidie.leiden.nl
 https://acc.top.amsterdam.nl
 https://acc.vaals.nl
+https://acc.valkenburg.nl
 https://acc.veldhoven.nl
 https://acc.venlo.nl
 https://acc.vijfheerenlanden.nl
@@ -4305,6 +4305,7 @@ https://intranet-cms.bernheze.org
 https://intranet-ot.tilburg.nl
 https://intranet-stats.bernheze.org
 https://intranet-stats.gulpen-wittem.nl
+https://intranet-stats.valkenburg.nl
 https://intranet-test.nissewaard.nl
 https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
@@ -5033,6 +5034,7 @@ https://mfa-rooster.arnhem.nl
 https://mfa.eijsden-margraten.nl
 https://mfawerkplek.venray.nl
 https://mform.meerssen.nl
+https://mform.valkenburg.nl
 https://mh-vwes21.westerwolde.nl
 https://mheenpark.apeldoorn.nl
 https://micc.zuidplas.nl
@@ -5364,6 +5366,7 @@ https://msoid.nieuwkoop.nl
 https://msoid.nijkerk.eu
 https://msoid.tilburg.nl
 https://mstat.meerssen.nl
+https://mstat.valkenburg.nl
 https://mta-sts.duiven.nl
 https://mta-sts.gennep.nl
 https://mta-sts.peelenmaas.nl
@@ -6570,6 +6573,7 @@ https://secure.dalfsen.nl
 https://secure.pekela.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
+https://secure.valkenburg.nl
 https://secure.veendam.nl
 https://secure1.weert.nl
 https://secure1ev.weert.nl

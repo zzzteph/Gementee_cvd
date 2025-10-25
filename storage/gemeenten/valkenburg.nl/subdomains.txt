@@ -1,3 +1,4 @@
+acc.valkenburg.nl
 api.betalen.valkenburg.nl
 as.valkenburg.nl
 autodiscover.valkenburg.nl
@@ -11,9 +12,12 @@ extranet.valkenburg.nl
 gemeente.valkenburg.nl
 handhaving.valkenburg.nl
 handhavingtest.valkenburg.nl
+intranet-stats.valkenburg.nl
 intranet.valkenburg.nl
 ironport.valkenburg.nl
+mform.valkenburg.nl
 mijnafval.valkenburg.nl
+mstat.valkenburg.nl
 mx2.valkenburg.nl
 mx3.valkenburg.nl
 owa.valkenburg.nl

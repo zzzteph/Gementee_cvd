@@ -25,8 +25,8 @@ eloket
 dkd
 werkplek
 portal
-waarmerk
 acc
+waarmerk
 open
 afspraak
 meldingen
@@ -566,6 +566,7 @@ webserver
 intranetcms-acc
 identity
 zorgmail
+intranet-stats
 preprod.vergunningintaker
 testcms-intranet
 digid-parkeervergunningen
@@ -838,7 +839,6 @@ aovpn
 data.gemnet
 testberichten
 helloid
-intranet-stats
 joost
 acc-openwave
 corona
@@ -1147,7 +1147,9 @@ fw
 uitvaart
 blik
 decos
+mform
 mijnafval
+mstat
 smtp01
 stuf
 qr-test
@@ -4241,9 +4243,7 @@ BRK
 digi01
 djumamks
 gs01msn
-mform
 mks01msn
-mstat
 ned03msn
 www.gs01msn
 link.socialewegwijzer

@@ -604,6 +604,7 @@ acc.top.amsterdam.nl
 acc.tubbergen.nl
 acc.tynaarlo.nl
 acc.vaals.nl
+acc.valkenburg.nl
 acc.veldhoven.nl
 acc.venlo.nl
 acc.venray.nl
@@ -6616,6 +6617,7 @@ intranet-oud.gemeentewestland.nl
 intranet-prod.sudwestfryslan.nl
 intranet-stats.bernheze.org
 intranet-stats.gulpen-wittem.nl
+intranet-stats.valkenburg.nl
 intranet-test.nissewaard.nl
 intranet.aalten.nl
 intranet.albrandswaard.nl
@@ -8037,6 +8039,7 @@ mfa.wassenaar.nl
 mfawerkplek.horstaandemaas.nl
 mfawerkplek.venray.nl
 mform.meerssen.nl
+mform.valkenburg.nl
 mft.vlaardingen.nl
 mgapp.heuvelrug.nl
 mh-vwes21.westerwolde.nl
@@ -8537,6 +8540,7 @@ msoid.nieuwkoop.nl
 msoid.nijkerk.eu
 msoid.tilburg.nl
 mstat.meerssen.nl
+mstat.valkenburg.nl
 msteamsbellen.soest.nl
 mt.peelenmaas.nl
 mta-sts.duiven.nl
