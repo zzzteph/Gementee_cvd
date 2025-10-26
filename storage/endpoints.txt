@@ -494,7 +494,6 @@ http://simcms.nederweert.nl
 http://simcms.roerdalen.nl
 http://simcms.schiermonnikoog.nl
 http://simcms.urk.nl
-http://simcms.valkenswaard.nl
 http://simcms.westmaasenwaal.nl
 http://simcms.wierden.nl
 http://simcms.winterswijk.nl
@@ -661,7 +660,6 @@ http://www.suikerkwartier.groningen.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
-http://www.valkenswaard.nl
 http://www.veenkolonien.groningen.nl
 http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
@@ -3271,6 +3269,7 @@ https://felix.ooststellingwerf.nl
 https://felix.reuseldemierden.nl
 https://felix.terschelling.nl
 https://felix.urk.nl
+https://felix.valkenswaard.nl
 https://felix.vlieland.nl
 https://felix.waalwijk.nl
 https://felix.westmaasenwaal.nl
@@ -4169,6 +4168,7 @@ https://ibzpink.twenterand.nl
 https://ibzpink.tynaarlo.nl
 https://ibzpink.uithoorn.nl
 https://ibzpink.vaals.nl
+https://ibzpink.valkenswaard.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6232,6 +6232,7 @@ https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.scherpenzeel.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.t-diel.nl
+https://preproductie.valkenswaard.nl
 https://preproductie.voorschoten.nl
 https://preproductie.wassenaar.nl
 https://preproductie.westmaasenwaal.nl
@@ -6657,6 +6658,7 @@ https://simcms.renswoude.nl
 https://simcms.scherpenzeel.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
+https://simcms.valkenswaard.nl
 https://simcms.vlieland.nl
 https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
@@ -7803,6 +7805,7 @@ https://woningbouwkaart.oirschot.nl
 https://woningbouwkaart.reuseldemierden.nl
 https://woningbouwkaart.sonenbreugel.nl
 https://woningbouwkaart.tynaarlo.nl
+https://woningbouwkaart.valkenswaard.nl
 https://woningbouwkaart.veldhoven.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
@@ -8303,6 +8306,7 @@ https://www.v2.openstad.haarlemmermeer.nl
 https://www.vaals.nl
 https://www.vaarvergunningen.nieuwkoop.nl
 https://www.valkenburg.nl
+https://www.valkenswaard.nl
 https://www.vastgoed.venlo.nl
 https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl

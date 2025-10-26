@@ -78,15 +78,15 @@ cloudadapter
 kaarten
 denkmee
 doemee
+woningbouwkaart
 klantcontact
+_autodiscover._tcp
 digikoppeling.test
 parkeren-acc
 acc-broker
-woningbouwkaart
 test-intranet
 connect
 cmsintranet
-_autodiscover._tcp
 parkeren-test
 piwik
 acc-podiumd-logs
