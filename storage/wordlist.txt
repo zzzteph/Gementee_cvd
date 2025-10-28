@@ -73,10 +73,10 @@ kaart
 berichten
 formulier
 zaken
+denkmee
 hybrid
 cloudadapter
 kaarten
-denkmee
 doemee
 woningbouwkaart
 klantcontact
@@ -263,6 +263,7 @@ www.werkenbij
 subsidie
 cms
 exchange
+mozardtest
 m
 www.test
 werkenvoor
@@ -283,6 +284,7 @@ squit2020.acceptatie
 www.samen
 woz-portaal
 www.intranet
+www.denkmee
 midoffice
 geovisia
 gisib-test
@@ -295,7 +297,6 @@ servicedesk
 belastingen-acc
 ro-online
 mozard
-mozardtest
 bewustwording
 magazine
 wion
@@ -327,7 +328,6 @@ radius
 beeldbankbeheer
 sbc01
 bezoekersparkeren
-www.denkmee
 www.afspraken
 woz
 participatie
@@ -705,6 +705,7 @@ bouwarchief
 edienstenpreprod
 mobiliteitsplan
 website.acceptatie
+idselect
 wijkteam
 open-formulieren-test
 preprod-belastingen
@@ -1092,7 +1093,6 @@ jip
 keyhub
 test-jip
 communicatie
-idselect
 www.meedoen
 test-kaartviewer
 mfawerkplek
@@ -5813,9 +5813,13 @@ bijveencms-acc
 bijveencms
 gemnet.digikoppeling.test
 gemnet.digikoppeling
+idselect-test
+internetprod
+internettest
 ivor
 kranten
 mijn-test
+mozardprod
 raadplegenbrp
 raadsakkoord
 toekomst

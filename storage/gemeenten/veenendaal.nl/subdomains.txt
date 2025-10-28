@@ -7,6 +7,7 @@ bijveen-acc.veenendaal.nl
 bijveen.veenendaal.nl
 bijveencms-acc.veenendaal.nl
 bijveencms.veenendaal.nl
+denkmee.veenendaal.nl
 digikoppeling.test.veenendaal.nl
 digikoppeling.veenendaal.nl
 enterpriseenrollment.veenendaal.nl
@@ -14,6 +15,10 @@ enterpriseregistration.veenendaal.nl
 gemeentearchief.veenendaal.nl
 gemnet.digikoppeling.test.veenendaal.nl
 gemnet.digikoppeling.veenendaal.nl
+idselect-test.veenendaal.nl
+idselect.veenendaal.nl
+internetprod.veenendaal.nl
+internettest.veenendaal.nl
 ivor.veenendaal.nl
 kranten.veenendaal.nl
 loket.veenendaal.nl
@@ -21,6 +26,8 @@ mail.veenendaal.nl
 mijn-test.veenendaal.nl
 mijn.veenendaal.nl
 mijndesktop.veenendaal.nl
+mozardprod.veenendaal.nl
+mozardtest.veenendaal.nl
 mta-sts.veenendaal.nl
 onderzoek.veenendaal.nl
 portaal.veenendaal.nl
@@ -35,5 +42,6 @@ veilig.veenendaal.nl
 wmo.veenendaal.nl
 wmonedtest.veenendaal.nl
 wmonedversie.veenendaal.nl
+www.denkmee.veenendaal.nl
 www.raadsakkoord.veenendaal.nl
 www.veenendaal.nl
