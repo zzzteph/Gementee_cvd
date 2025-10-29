@@ -393,6 +393,7 @@ http://mijn-preproductie.westerkwartier.nl
 http://mijn.bronckhorst.nl
 http://mijn.heuvelrug.nl
 http://mijn.opsterland.nl
+http://mijn.veere.nl
 http://mijnafspraak.scherpenzeel.nl
 http://mijngeldzaken.denhaag.nl
 http://mijntomindebuurt.nieuwkoop.nl
@@ -513,7 +514,6 @@ http://simsite.mookenmiddelaar.nl
 http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.twenterand.nl
-http://simsite.veere.nl
 http://simsite.westerkwartier.nl
 http://simsite.westmaasenwaal.nl
 http://simsite.weststellingwerf.nl
@@ -564,6 +564,7 @@ http://test-jip.hofvantwente.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
+http://test.veere.nl
 http://test.website.westland.gemeentewestland.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
@@ -3271,6 +3272,7 @@ https://felix.reuseldemierden.nl
 https://felix.terschelling.nl
 https://felix.urk.nl
 https://felix.valkenswaard.nl
+https://felix.veere.nl
 https://felix.vlieland.nl
 https://felix.waalwijk.nl
 https://felix.westmaasenwaal.nl
@@ -4170,6 +4172,7 @@ https://ibzpink.tynaarlo.nl
 https://ibzpink.uithoorn.nl
 https://ibzpink.vaals.nl
 https://ibzpink.valkenswaard.nl
+https://ibzpink.veere.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5143,7 +5146,6 @@ https://mijn.texel.nl
 https://mijn.tholen.nl
 https://mijn.urk.nl
 https://mijn.veenendaal.nl
-https://mijn.veere.nl
 https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
@@ -6668,6 +6670,7 @@ https://simcms.scherpenzeel.nl
 https://simcms.simpelveld.nl
 https://simcms.staphorst.nl
 https://simcms.valkenswaard.nl
+https://simcms.veere.nl
 https://simcms.vlieland.nl
 https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
@@ -6703,6 +6706,7 @@ https://simsite.staphorst.nl
 https://simsite.valkenburg.nl
 https://simsite.valkenswaard.nl
 https://simsite.veendam.nl
+https://simsite.veere.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sint-michielsgestel.nl
@@ -7128,7 +7132,6 @@ https://test.open-formulieren.vught.nl
 https://test.schiedam.nl
 https://test.subsites.leiden.nl
 https://test.utrecht.nl
-https://test.veere.nl
 https://test.velsen.nl
 https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
@@ -8321,6 +8324,7 @@ https://www.vastgoed.venlo.nl
 https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl
 https://www.veenendaal.nl
+https://www.veere.nl
 https://www.veldhoven.nl
 https://www.velsen.nl
 https://www.venlo.nl
