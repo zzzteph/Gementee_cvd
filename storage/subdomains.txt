@@ -8463,7 +8463,6 @@ mobiel.hoogeveen.nl
 mobiel.ouder-amstel.nl
 mobiel.peelenmaas.nl
 mobiel.renkum.nl
-mobiel.velsen.nl
 mobiel.vlaardingen.nl
 mobielacc.rotterdam.nl
 mobielapp.zuidplas.nl
@@ -10314,7 +10313,6 @@ q4.venlo.nl
 qcalendar.deventer.nl
 qfact.hofvantwente.nl
 qmanage.smallingerland.nl
-qmanage.velsen.nl
 qmanage.wijchen.nl
 qmatic.tholen.nl
 qmatic.valkenburg.nl
@@ -11902,7 +11900,6 @@ teleweb.heerlen.nl
 teleweb.kerkrade.nl
 teleweb.landgraaf.nl
 teleweb.voerendaal.nl
-telewerk.velsen.nl
 telewerken.drechterland.nl
 telewerken.gemeentemaashorst.nl
 telewerken.haarlemmermeer.nl
@@ -12214,7 +12211,6 @@ test.utrecht.nl
 test.valkenburg.nl
 test.veendam.nl
 test.veere.nl
-test.velsen.nl
 test.vijfheerenlanden.nl
 test.voerendaal.nl
 test.waalre.nl
@@ -12853,7 +12849,6 @@ vpn.rucphen.nl
 vpn.sittard-geleen.nl
 vpn.sudwestfryslan.nl
 vpn.terneuzen.nl
-vpn.velsen.nl
 vpn.voorschoten.nl
 vpn.waalre.nl
 vpn.wassenaar.nl
@@ -13359,7 +13354,6 @@ werkplek.sudwestfryslan.nl
 werkplek.tholen.nl
 werkplek.tilburg.nl
 werkplek.veldhoven.nl
-werkplek.velsen.nl
 werkplek.vlaardingen.nl
 werkplek.waalre.nl
 werkplek.wierden.nl

@@ -4173,6 +4173,7 @@ https://ibzpink.uithoorn.nl
 https://ibzpink.vaals.nl
 https://ibzpink.valkenswaard.nl
 https://ibzpink.veere.nl
+https://ibzpink.velsen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -7132,7 +7133,6 @@ https://test.open-formulieren.vught.nl
 https://test.schiedam.nl
 https://test.subsites.leiden.nl
 https://test.utrecht.nl
-https://test.velsen.nl
 https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
 https://testbelastingbalie.hoorn.nl

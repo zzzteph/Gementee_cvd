@@ -222,7 +222,6 @@ telewerken
 afspraakmaken
 zaaksysteem
 en
-mobiel
 www.portal
 kennisbank
 subsidies-backend
@@ -251,6 +250,7 @@ belastingbalie-test
 kcc
 mx1
 mx2
+mobiel
 mijnsociaaldomein
 cloudadapter-prod
 handhaving
@@ -724,7 +724,6 @@ digitalebelastingbalie
 drop
 regelgeving
 parkeerloket
-qmanage
 autodiscover.raad
 edienstenburgerzaken.test
 av
@@ -1207,6 +1206,7 @@ dis4fin
 pda
 secure-t
 camera
+qmanage
 idbroker
 prefill-test
 digitalebelastingbalie-test
@@ -5855,7 +5855,6 @@ midofficeacc
 midofficeprd
 midofficetst
 nwro2
-telewerk
 tijd
 vlspmks
 vlstmks

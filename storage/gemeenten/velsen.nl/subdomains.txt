@@ -23,17 +23,13 @@ midofficeacc.velsen.nl
 midofficeprd.velsen.nl
 midofficetst.velsen.nl
 mks.velsen.nl
-mobiel.velsen.nl
 nwro.velsen.nl
 nwro2.velsen.nl
-qmanage.velsen.nl
 raad.velsen.nl
 szc.velsen.nl
-telewerk.velsen.nl
 test-cmsintranet.velsen.nl
 test-intranet.velsen.nl
 test-ipa.velsen.nl
-test.velsen.nl
 testeloket.velsen.nl
 tijd.velsen.nl
 typo3.velsen.nl
@@ -41,9 +37,7 @@ uitvaart.velsen.nl
 velsen.nl
 vlspmks.velsen.nl
 vlstmks.velsen.nl
-vpn.velsen.nl
 vsnwutg.velsen.nl
 webmail.velsen.nl
-werkplek.velsen.nl
 www.nwro.velsen.nl
 www.velsen.nl
