@@ -6,7 +6,6 @@ api.zwemmen.venlo.nl
 archief.venlo.nl
 autodiscover.venlo.nl
 awmag.venlo.nl
-awmail.venlo.nl
 awtunnel.venlo.nl
 bastion365.venlo.nl
 begroting.venlo.nl
@@ -17,7 +16,6 @@ buurtbudget-oostzuid.venlo.nl
 buurtbudget-opdeheide.venlo.nl
 buurtbudget-vastenavondkamp.venlo.nl
 buurtbudget.venlo.nl
-cmsintranet.venlo.nl
 collecties.venlo.nl
 data.venlo.nl
 digikoppeling.venlo.nl
@@ -30,6 +28,7 @@ fit.venlo.nl
 flowmailer-tracking.venlo.nl
 formulieren-test.venlo.nl
 formulieren.venlo.nl
+ftp.venlo.nl
 gemeenteraad.venlo.nl
 gisib.venlo.nl
 historie.venlo.nl
@@ -45,14 +44,11 @@ jobport.venlo.nl
 kaarten-acc.venlo.nl
 kaarten.venlo.nl
 lvs.zwemmen.venlo.nl
-mail.venlo.nl
 maps.venlo.nl
 mijnaanvragensociaaldomein.venlo.nl
 mijnsociaaldomein.venlo.nl
-mobile.venlo.nl
 morgen.venlo.nl
 nu.venlo.nl
-ondernemen.venlo.nl
 parkeren-test.venlo.nl
 parkeren.venlo.nl
 piwik.venlo.nl
@@ -70,8 +66,6 @@ stadspas.venlo.nl
 staging.archief.venlo.nl
 staging.buurtbudget-buurt.venlo.nl
 staging.buurtbudget.venlo.nl
-test-cmsintranet.venlo.nl
-test-intranet.venlo.nl
 test-topdesk.venlo.nl
 topdesk.venlo.nl
 vastgoed.venlo.nl
@@ -89,7 +83,6 @@ www.buurtbudget-vastenavondkamp.venlo.nl
 www.fit.venlo.nl
 www.morgen.venlo.nl
 www.nu.venlo.nl
-www.ondernemen.venlo.nl
 www.q4.venlo.nl
 www.stadspas.venlo.nl
 www.vastgoed.venlo.nl

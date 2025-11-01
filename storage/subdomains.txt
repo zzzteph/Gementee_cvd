@@ -1890,7 +1890,6 @@ awmag.someren.nl
 awmag.venlo.nl
 awmag.weert.nl
 awmail.nederweert.nl
-awmail.venlo.nl
 awmail.weert.nl
 awtunnel.nederweert.nl
 awtunnel.roermond.nl
@@ -2974,7 +2973,6 @@ cmsintranet.sittard-geleen.nl
 cmsintranet.steenwijkerland.nl
 cmsintranet.sudwestfryslan.nl
 cmsintranet.velsen.nl
-cmsintranet.venlo.nl
 cmsintranet.wageningen.nl
 cmsintranet.westerwolde.nl
 cmsintranet.wijdemeren.nl
@@ -5235,6 +5233,7 @@ ftp.opsterland.nl
 ftp.rp.heerlen.nl
 ftp.sudwestfryslan.nl
 ftp.tilburg.nl
+ftp.venlo.nl
 ftp.venray.nl
 ftpes.westmaasenwaal.nl
 ftps.utrecht.nl
@@ -7729,7 +7728,6 @@ mail.veendam.nl
 mail.veenendaal.nl
 mail.veere.nl
 mail.veldhoven.nl
-mail.venlo.nl
 mail.vijfheerenlanden.nl
 mail.vlaardingen.nl
 mail.voorschoten.nl
@@ -8478,7 +8476,6 @@ mobile.gemeentewestland.nl
 mobile.gilzerijen.nl
 mobile.huizen.nl
 mobile.lochem.nl
-mobile.venlo.nl
 mobile.zoetermeer.nl
 mobile.zwolle.nl
 mobilemail.rheden.nl
@@ -8994,7 +8991,6 @@ onderhoud.zaanstad.nl
 ondernemen.ede.nl
 ondernemen.landvancuijk.nl
 ondernemen.oude-ijsselstreek.nl
-ondernemen.venlo.nl
 ondernemen.zaanstad.nl
 ondernemend.leeuwarden.nl
 ondernemers.bloemendaal.nl
@@ -11942,7 +11938,6 @@ test-cmsintranet.sittard-geleen.nl
 test-cmsintranet.steenwijkerland.nl
 test-cmsintranet.sudwestfryslan.nl
 test-cmsintranet.velsen.nl
-test-cmsintranet.venlo.nl
 test-cmsintranet.wageningen.nl
 test-cmsintranet.zeist.nl
 test-cmsjip.vijfheerenlanden.nl
@@ -12005,7 +12000,6 @@ test-intranet.sittard-geleen.nl
 test-intranet.steenwijkerland.nl
 test-intranet.sudwestfryslan.nl
 test-intranet.velsen.nl
-test-intranet.venlo.nl
 test-intranet.wageningen.nl
 test-intranet.zeist.nl
 test-ipa.achtkarspelen.nl
@@ -14293,7 +14287,6 @@ www.omgevingsvisie.denhaag.nl
 www.omgevingsvisie.hilversum.nl
 www.ommen.nl
 www.ondernemen.ede.nl
-www.ondernemen.venlo.nl
 www.ondernemersportaal.denhaag.nl
 www.ondersteuning.olst-wijhe.nl
 www.onderwijssubsidies.amsterdam.nl

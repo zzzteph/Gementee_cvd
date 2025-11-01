@@ -656,7 +656,6 @@ http://www.sip.hellevoetsluis.nl
 http://www.socialekaart.duiven.nl
 http://www.stadskrant.denhaag.nl
 http://www.stadspas.apeldoorn.nl
-http://www.stadspas.venlo.nl
 http://www.suikerkwartier.groningen.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
@@ -1647,7 +1646,6 @@ https://awm.amsterdam.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
 https://awmail.nederweert.nl
-https://awmail.venlo.nl
 https://awmail.weert.nl
 https://awtunnel.nederweert.nl
 https://awtunnel.roermond.nl
@@ -2262,7 +2260,6 @@ https://cmsintranet.sittard-geleen.nl
 https://cmsintranet.steenwijkerland.nl
 https://cmsintranet.sudwestfryslan.nl
 https://cmsintranet.velsen.nl
-https://cmsintranet.venlo.nl
 https://cmsintranet.wageningen.nl
 https://cmsintranet.westerwolde.nl
 https://cmsintranet.wijdemeren.nl
@@ -4174,6 +4171,7 @@ https://ibzpink.vaals.nl
 https://ibzpink.valkenswaard.nl
 https://ibzpink.veere.nl
 https://ibzpink.velsen.nl
+https://ibzpink.venlo.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4892,7 +4890,6 @@ https://maps.groningen.nl
 https://maps.moerdijk.nl
 https://maps.rotterdam.nl
 https://maps.tynaarlo.nl
-https://maps.venlo.nl
 https://maps.vlaardingen.nl
 https://maps.waterland.nl
 https://maps.zaanstad.nl
@@ -5616,7 +5613,6 @@ https://onderhoud.zaanstad.nl
 https://ondernemen.ede.nl
 https://ondernemen.landvancuijk.nl
 https://ondernemen.oude-ijsselstreek.nl
-https://ondernemen.venlo.nl
 https://ondernemen.zaanstad.nl
 https://ondernemend.leeuwarden.nl
 https://ondernemers.bloemendaal.nl
@@ -7026,7 +7022,6 @@ https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
-https://test-cmsintranet.venlo.nl
 https://test-cmsintranet.wageningen.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssamenatwork.stichtsevecht.nl
@@ -7050,7 +7045,6 @@ https://test-insite.nijmegen.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.velsen.nl
-https://test-intranet.venlo.nl
 https://test-intranet.wageningen.nl
 https://test-intranet.zeist.nl
 https://test-kaartviewer.hoorn.nl
@@ -8196,7 +8190,6 @@ https://www.ombudsman.denhaag.nl
 https://www.ombudsman.nijmegen.nl
 https://www.ommen.nl
 https://www.ondernemen.ede.nl
-https://www.ondernemen.venlo.nl
 https://www.ondersteuning.olst-wijhe.nl
 https://www.onderwijssubsidies.amsterdam.nl
 https://www.onsovermorgen.zwolle.nl
@@ -8284,6 +8277,7 @@ https://www.stadsarchief.rotterdam.nl
 https://www.stadsbroekenijsselvizier.zwolle.nl
 https://www.stadskanaal.nl
 https://www.stadskrant-acc.denhaag.nl
+https://www.stadspas.venlo.nl
 https://www.staging.deventer.nl
 https://www.staging.olst-wijhe.nl
 https://www.stationsdistrict.nijmegen.nl

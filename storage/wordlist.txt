@@ -84,21 +84,20 @@ _autodiscover._tcp
 digikoppeling.test
 parkeren-acc
 acc-broker
-test-intranet
 connect
-cmsintranet
 parkeren-test
 piwik
 acc-podiumd-logs
 belastingloket
 mks
+test-intranet
 dtestloket
+cmsintranet
 portaal
 siam
 financien
 bgt
 pki
-test-cmsintranet
 osbacc
 duurzaam
 acc-formulier
@@ -107,6 +106,7 @@ extranet
 govroam
 samen
 filecap
+test-cmsintranet
 preprodbroker
 verkiezingen
 snelbalie
@@ -154,6 +154,7 @@ micollab
 inloggen
 connect.acceptatie
 contentbeheer
+ftp
 izaaksuite
 subsidies
 snelbaliepp
@@ -165,7 +166,6 @@ jaarstukken
 inproces
 cryptshare
 belastingportaal
-ftp
 gisib
 bis
 lyncdiscover
@@ -191,7 +191,6 @@ localhost
 fmreturn
 formulieren-test
 uc
-mobile
 contentbeheer.acceptatie
 zaken.acceptatie
 bor
@@ -214,6 +213,7 @@ intranet-acc
 email
 iarchief
 legacy
+mobile
 outlook
 vth
 acceptatie-open
@@ -391,7 +391,6 @@ openformulieren-test
 webservices
 socialekaart
 testbelastingloket
-ondernemen
 raadsinformatie
 e.openstad
 mijnuitkering
@@ -482,6 +481,7 @@ vergunningen
 mta-sts.raad
 rap
 gt-loket
+ondernemen
 duo
 gbionline
 cca-acc
@@ -715,7 +715,6 @@ hybrid2
 digitaalloket
 ews
 opentunnel
-awmail
 duoloket
 abc
 www.afspraakmaken
@@ -959,7 +958,6 @@ betaal
 formulier-acc
 mx3
 redirect
-www.ondernemen
 antispam
 mx
 allegro
@@ -1164,6 +1162,7 @@ mymeeting
 scep
 login-pre
 services-test
+awmail
 exch
 huisnet
 raadzaam
@@ -2715,6 +2714,7 @@ spin
 sslvpn2
 sso-sharefile
 veluwsepoort
+www.ondernemen
 broker-preprod
 cms-intranet
 extranet-acc
