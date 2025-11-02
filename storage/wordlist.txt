@@ -32,10 +32,10 @@ afspraak
 meldingen
 raad
 betalen
+broker
 parkeren
 api.meldingen
 geo
-broker
 adfs
 vpn
 iparticipatie
@@ -72,8 +72,8 @@ flowmailer-tracking
 kaart
 berichten
 formulier
-zaken
 denkmee
+zaken
 hybrid
 cloudadapter
 kaarten
@@ -98,6 +98,7 @@ siam
 financien
 bgt
 pki
+preprodbroker
 osbacc
 duurzaam
 acc-formulier
@@ -107,7 +108,6 @@ govroam
 samen
 filecap
 test-cmsintranet
-preprodbroker
 verkiezingen
 snelbalie
 api.betalen
@@ -1092,7 +1092,7 @@ test-jip
 communicatie
 www.meedoen
 test-kaartviewer
-mfawerkplek
+my-lex
 veilig
 spf
 www.cryptshare
@@ -3859,7 +3859,7 @@ themawebsite
 webformulieren-acc
 webmail.test
 wpvh
-my-lex
+mfawerkplek
 raster
 zwembad
 gisdata
@@ -5908,6 +5908,7 @@ GT-Loket
 app.meedoen
 koppeling
 testkoppeling
+verwerkingsregister
 webproxy
 www.hulpwijzer
 www.prodoud

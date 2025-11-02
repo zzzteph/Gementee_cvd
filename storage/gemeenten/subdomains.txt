@@ -2411,6 +2411,7 @@ betalen.uitgeest.nl
 betalen.uithoorn.nl
 betalen.valkenburg.nl
 betalen.veldhoven.nl
+betalen.venray.nl
 betalen.wijdemeren.nl
 betalen.zeewolde.nl
 betalen.zundert.nl
@@ -2648,6 +2649,7 @@ broker.roermond.nl
 broker.rotterdam.nl
 broker.stichtsevecht.nl
 broker.test.purmerend.nl
+broker.venray.nl
 broker.waterland.nl
 broker.westervoort.nl
 broker.wijdemeren.nl
@@ -3487,6 +3489,7 @@ denkmee.tilburg.nl
 denkmee.twenterand.nl
 denkmee.utrecht.nl
 denkmee.veenendaal.nl
+denkmee.venray.nl
 denkmee.woerden.nl
 denkmee.wormerland.nl
 derdenws.sozawe.rotterdam.nl
@@ -8041,7 +8044,6 @@ mfa.eijsden-margraten.nl
 mfa.voorschoten.nl
 mfa.wassenaar.nl
 mfawerkplek.horstaandemaas.nl
-mfawerkplek.venray.nl
 mform.meerssen.nl
 mform.valkenburg.nl
 mft.vlaardingen.nl
@@ -8589,6 +8591,7 @@ mx2.wierden.nl
 mx3.ede.nl
 mx3.valkenburg.nl
 my-lex.horstaandemaas.nl
+my-lex.venray.nl
 mycorsanxt.brielle.nl
 mycorsanxt.derondevenen.nl
 mycorsanxt.nissewaard.nl
@@ -9995,6 +9998,7 @@ preprodbroker.meppel.nl
 preprodbroker.nunspeet.nl
 preprodbroker.overbetuwe.nl
 preprodbroker.stichtsevecht.nl
+preprodbroker.venray.nl
 preprodbroker.westervoort.nl
 preprodbroker.wijdemeren.nl
 preprodbroker.zevenaar.nl
@@ -12748,6 +12752,7 @@ verslag.ouder-amstel.nl
 versterkenenvernieuwen.groningen.nl
 vertexobjecten-accp.lansingerland.nl
 vertexobjecten.lansingerland.nl
+verwerkingsregister.venray.nl
 vf.heitje.heerlen.nl
 via.geertruidenberg.nl
 vianen.landvancuijk.nl

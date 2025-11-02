@@ -1994,6 +1994,7 @@ https://betalen.uitgeest.nl
 https://betalen.uithoorn.nl
 https://betalen.valkenburg.nl
 https://betalen.veldhoven.nl
+https://betalen.venray.nl
 https://betalen.wijdemeren.nl
 https://betalen.zeewolde.nl
 https://betalen.zundert.nl
@@ -2135,6 +2136,7 @@ https://broker.roermond.nl
 https://broker.rotterdam.nl
 https://broker.stichtsevecht.nl
 https://broker.test.purmerend.nl
+https://broker.venray.nl
 https://broker.waterland.nl
 https://broker.westervoort.nl
 https://broker.wijdemeren.nl
@@ -2526,6 +2528,7 @@ https://denkmee.tilburg.nl
 https://denkmee.twenterand.nl
 https://denkmee.utrecht.nl
 https://denkmee.veenendaal.nl
+https://denkmee.venray.nl
 https://denkmee.woerden.nl
 https://denkmee.wormerland.nl
 https://derondevenen.nl
@@ -4172,6 +4175,7 @@ https://ibzpink.valkenswaard.nl
 https://ibzpink.veere.nl
 https://ibzpink.velsen.nl
 https://ibzpink.venlo.nl
+https://ibzpink.venray.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -5039,7 +5043,6 @@ https://meppel.nl
 https://merk-acc.denhaag.nl
 https://mfa-rooster.arnhem.nl
 https://mfa.eijsden-margraten.nl
-https://mfawerkplek.venray.nl
 https://mform.meerssen.nl
 https://mform.valkenburg.nl
 https://mh-vwes21.westerwolde.nl
@@ -5394,6 +5397,7 @@ https://museumcollecties.roermond.nl
 https://mx.oss.nl
 https://mx01.haarlem.nl
 https://my-lex.horstaandemaas.nl
+https://my-lex.venray.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mylex.gemeentesluis.nl
@@ -6210,6 +6214,7 @@ https://preprodbroker.meppel.nl
 https://preprodbroker.nunspeet.nl
 https://preprodbroker.overbetuwe.nl
 https://preprodbroker.stichtsevecht.nl
+https://preprodbroker.venray.nl
 https://preprodbroker.westervoort.nl
 https://preprodbroker.wijdemeren.nl
 https://preprodbroker.zevenaar.nl
@@ -7428,6 +7433,7 @@ https://verkiezingen.eemsdelta.nl
 https://verkiezingen.sudwestfryslan.nl
 https://verslag.ouder-amstel.nl
 https://versterkenenvernieuwen.groningen.nl
+https://verwerkingsregister.venray.nl
 https://vf.heitje.heerlen.nl
 https://via.geertruidenberg.nl
 https://vianen.landvancuijk.nl
