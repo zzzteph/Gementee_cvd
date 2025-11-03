@@ -1,9 +1,10 @@
 http://autodiscover.vijfheerenlanden.nl
+http://cmsjip.vijfheerenlanden.nl
 http://test-cmsjip.vijfheerenlanden.nl
+http://test-jip.vijfheerenlanden.nl
 https://acc.vijfheerenlanden.nl
 https://belastingloket-test.vijfheerenlanden.nl
 https://belastingloket.vijfheerenlanden.nl
-https://cmsjip.vijfheerenlanden.nl
 https://edienstenburgerzaken-test.vijfheerenlanden.nl
 https://edienstenburgerzaken.vijfheerenlanden.nl
 https://enterpriseenrollment.vijfheerenlanden.nl
@@ -13,6 +14,7 @@ https://gis.vijfheerenlanden.nl
 https://jip.vijfheerenlanden.nl
 https://mijn.vijfheerenlanden.nl
 https://omgevingsvisie.vijfheerenlanden.nl
+https://pki-test.vijfheerenlanden.nl
 https://reserveren.vijfheerenlanden.nl
 https://vijfheerenlanden.nl
 https://www.vijfheerenlanden.nl

@@ -268,6 +268,7 @@ http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
 http://cmsintranet.etten-leur.nl
 http://cmsintranet.lansingerland.nl
+http://cmsjip.vijfheerenlanden.nl
 http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://contactregistratie.amsterdam.nl
@@ -561,6 +562,7 @@ http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sittard-geleen.nl
 http://test-jip.hofvantwente.nl
+http://test-jip.vijfheerenlanden.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
@@ -2267,7 +2269,6 @@ https://cmsintranet.westerwolde.nl
 https://cmsintranet.wijdemeren.nl
 https://cmsintranet.zeist.nl
 https://cmsjip.hofvantwente.nl
-https://cmsjip.vijfheerenlanden.nl
 https://cmsnopnet.noordoostpolder.nl
 https://cmsoo.assen.nl
 https://cmsoo.bodegraven-reeuwijk.nl
@@ -6007,6 +6008,7 @@ https://pip.urk.nl
 https://pip.vlaardingen.nl
 https://piwik.ede.nl
 https://piwik.krimpenerwaard.nl
+https://pki-test.vijfheerenlanden.nl
 https://pki.olst-wijhe.nl
 https://pki.rotterdam.nl
 https://plannen.horstaandemaas.nl
