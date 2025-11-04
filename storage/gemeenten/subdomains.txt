@@ -1824,7 +1824,6 @@ autodiscover.veere.nl
 autodiscover.venlo.nl
 autodiscover.venray.nl
 autodiscover.vijfheerenlanden.nl
-autodiscover.vlaardingen.nl
 autodiscover.vlieland.nl
 autodiscover.voorschoten.nl
 autodiscover.voorst.nl
@@ -7771,7 +7770,6 @@ mail22.utrecht.nl
 mail3.smallingerland.nl
 mail4.smallingerland.nl
 mail5.smallingerland.nl
-mailarchief.vlaardingen.nl
 mailbackup.vlaardingen.nl
 mailcamp.utrecht.nl
 mailct.nijmegen.nl
@@ -10604,6 +10602,7 @@ rpl3.alphenaandenrijn.nl
 rpl3.nissewaard.nl
 rpl3.pzr.rotterdam.nl
 rpl3.rijswijk.nl
+rproxy4.vlaardingen.nl
 rs010.rotterdam.nl
 rspw.rotterdam.nl
 rtr-fw.alkmaar.nl
@@ -12970,6 +12969,7 @@ wachtwoord.houten.nl
 wachtwoord.nederbetuwe.nl
 wachtwoord.oostgelre.nl
 wachtwoord.rotterdam.nl
+wachtwoord.vlaardingen.nl
 wachtwoordreset.almere.nl
 wachtwoordvergeten.nederbetuwe.nl
 wacweb.peelenmaas.nl

@@ -1642,7 +1642,6 @@ https://autodiscover.sittard-geleen.nl
 https://autodiscover.tynaarlo.nl
 https://autodiscover.valkenburg.nl
 https://autodiscover.veere.nl
-https://autodiscover.vlaardingen.nl
 https://autodiscover.wij.groningen.nl
 https://awm.amsterdam.nl
 https://awmag.asten.nl
@@ -1667,7 +1666,6 @@ https://bag-vwes11.westerwolde.nl
 https://bag.acc.denhaag.nl
 https://bag.deventer.nl
 https://bag.etten-leur.nl
-https://balie2.vlaardingen.nl
 https://barendrecht.nl
 https://barneveld.nl
 https://bastion365.assen.nl
@@ -3408,7 +3406,6 @@ https://formulieracc.breda.nl
 https://formulieren-acc.hoorn.nl
 https://formulieren-intern.hoorn.nl
 https://formulieren-preprod.veere.nl
-https://formulieren-preproductie.vlaardingen.nl
 https://formulieren-test.beesel.nl
 https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
@@ -3455,6 +3452,7 @@ https://formulieren.tiel.nl
 https://formulieren.veere.nl
 https://formulieren.veldhoven.nl
 https://formulieren.venlo.nl
+https://formulieren.vlaardingen.nl
 https://formulieren.vught.nl
 https://formulieren.westbetuwe.nl
 https://formulieren.westervoort.nl
@@ -5329,7 +5327,6 @@ https://mijnzorg.waalwijk.nl
 https://milieudienst.groningen.nl
 https://milieueducatie.denhaag.nl
 https://mill.landvancuijk.nl
-https://minimi.vlaardingen.nl
 https://mis.waterland.nl
 https://mivbxsrvr.gorinchem.nl
 https://mk01.hellevoetsluis.nl
@@ -6501,6 +6498,7 @@ https://router.winterswijk.nl
 https://rozendaal.nl
 https://rp.beverwijk.nl
 https://rpl3.nissewaard.nl
+https://rproxy4.vlaardingen.nl
 https://rs010.rotterdam.nl
 https://rspw.rotterdam.nl
 https://rucphen.nl
@@ -6606,7 +6604,6 @@ https://sera.zwemmen.venlo.nl
 https://server02.oude-ijsselstreek.nl
 https://serverruimte.dinkelland.nl
 https://serverruimte.tubbergen.nl
-https://service.vlaardingen.nl
 https://servicebus-t.kampen.nl
 https://servicedesk.almelo.nl
 https://servicedesk.edam-volendam.nl
@@ -6682,6 +6679,7 @@ https://simcms.wassenaar.nl
 https://simcms.westerkwartier.nl
 https://simcms.zuidplas.nl
 https://simform-preproductie.achtkarspelen.nl
+https://simform-preproductie.vlaardingen.nl
 https://simform-preproductie.wassenaar.nl
 https://simform.achtkarspelen.nl
 https://simform.gemeentemaasgouw.nl
@@ -7535,6 +7533,7 @@ https://wachtwoord.houten.nl
 https://wachtwoord.nederbetuwe.nl
 https://wachtwoord.oostgelre.nl
 https://wachtwoord.rotterdam.nl
+https://wachtwoord.vlaardingen.nl
 https://wachtwoordreset.almere.nl
 https://wachtwoordvergeten.nederbetuwe.nl
 https://waddenland.groningen.nl
