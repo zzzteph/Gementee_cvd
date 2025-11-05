@@ -324,6 +324,7 @@ http://felix.overbetuwe.nl
 http://felix.sonenbreugel.nl
 http://felix.staphorst.nl
 http://felix.t-diel.nl
+http://felix.vlieland.nl
 http://felix.wierden.nl
 http://felix.winterswijk.nl
 http://felix.zwartewaterland.nl
@@ -663,6 +664,7 @@ http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.veenkolonien.groningen.nl
+http://www.vlieland.nl
 http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.zaanstad.nl
@@ -3272,7 +3274,6 @@ https://felix.terschelling.nl
 https://felix.urk.nl
 https://felix.valkenswaard.nl
 https://felix.veere.nl
-https://felix.vlieland.nl
 https://felix.waalwijk.nl
 https://felix.westmaasenwaal.nl
 https://felix.weststellingwerf.nl
@@ -7456,6 +7457,7 @@ https://visnet.vlissingen.nl
 https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://vlaardingen.nl
+https://vlieland.nl
 https://vlissingen.nl
 https://vluchtelingen.zaanstad.nl
 https://voerendaal.nl
@@ -8333,7 +8335,6 @@ https://www.venray.nl
 https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
-https://www.vlieland.nl
 https://www.vlissingen.nl
 https://www.voerendaal.nl
 https://www.voorst.nl
