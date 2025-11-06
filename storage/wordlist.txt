@@ -10,8 +10,8 @@ mijn
 webmail
 simsite
 mail
-afspraken
 digikoppeling
+afspraken
 preproductie
 simcms
 secure
@@ -150,6 +150,7 @@ preprod-mijninkomen
 auth
 acc-keycloak-admin
 acc-zac
+www.doemee
 micollab
 inloggen
 connect.acceptatie
@@ -161,7 +162,6 @@ snelbaliepp
 vdi
 keycloak-admin
 sip
-www.doemee
 jaarstukken
 inproces
 cryptshare
@@ -232,7 +232,6 @@ website
 gemeentearchief
 _dmarc
 admin.openstad
-e-loket
 opendata
 woo
 meet
@@ -269,6 +268,7 @@ www.test
 werkenvoor
 auth.openstad
 parkeervergunningen
+e-loket
 openstad
 sslvpn
 afval
@@ -5933,7 +5933,6 @@ rproxy4
 test.mijnloket
 woningzoeken
 zoekpersoon
-meld
 probeer-gemeenteraad
 simcms-gemeenteraad
 statistieken

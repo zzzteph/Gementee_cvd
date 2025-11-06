@@ -1050,7 +1050,6 @@ afspraken.valkenswaard.nl
 afspraken.veendam.nl
 afspraken.veere.nl
 afspraken.velsen.nl
-afspraken.vlissingen.nl
 afspraken.voerendaal.nl
 afspraken.waterland.nl
 afspraken.weert.nl
@@ -4143,7 +4142,6 @@ e-loket.bergen.nl
 e-loket.gemeentebest.nl
 e-loket.steenwijkerland.nl
 e-loket.uitgeest.nl
-e-loket.vlissingen.nl
 e-loket.voerendaal.nl
 e-loket.waalwijk.nl
 e-loketstaging.bergen.nl
@@ -7914,7 +7912,6 @@ meet.peelenmaas.nl
 meet.urk.nl
 meet.zwolle.nl
 meierijstad.nl
-meld.vlissingen.nl
 meldcode.denhaag.nl
 melddesk-test.renkum.nl
 melddesk.almere.nl
@@ -13847,6 +13844,7 @@ www.doemee.oosterhout.nl
 www.doemee.papendrecht.nl
 www.doemee.peelenmaas.nl
 www.doemee.terneuzen.nl
+www.doemee.vlissingen.nl
 www.doemee.zwolle.nl
 www.doesburg.nl
 www.doetinchem.nl

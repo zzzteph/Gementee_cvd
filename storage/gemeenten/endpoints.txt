@@ -477,6 +477,7 @@ http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-cjg.scherpenzeel.nl
 http://simcms-energiek.beuningen.nl
+http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-ontmoetingscentra.opmeer.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.bronckhorst.nl
@@ -497,6 +498,7 @@ http://simcms.nederweert.nl
 http://simcms.roerdalen.nl
 http://simcms.schiermonnikoog.nl
 http://simcms.urk.nl
+http://simcms.vlissingen.nl
 http://simcms.westmaasenwaal.nl
 http://simcms.wierden.nl
 http://simcms.winterswijk.nl
@@ -617,6 +619,7 @@ http://www.destemvan.groningen.nl
 http://www.deurne.nl
 http://www.doemee.gemeentebest.nl
 http://www.doemee.oosterhout.nl
+http://www.doemee.vlissingen.nl
 http://www.eersel.nl
 http://www.gemeenteraad.groningen.nl
 http://www.goedterechtin.leeuwarden.nl
@@ -665,6 +668,7 @@ http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.veenkolonien.groningen.nl
 http://www.vlieland.nl
+http://www.vlissingen.nl
 http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.zaanstad.nl
@@ -4176,6 +4180,7 @@ https://ibzpink.veere.nl
 https://ibzpink.velsen.nl
 https://ibzpink.venlo.nl
 https://ibzpink.venray.nl
+https://ibzpink.vlissingen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4946,7 +4951,6 @@ https://meedoenregeling.dongen.nl
 https://meerssen.nl
 https://meet.houten.nl
 https://meierijstad.nl
-https://meld.vlissingen.nl
 https://melddesk-test.renkum.nl
 https://melding.acc.heerlen.nl
 https://melding.heerlen.nl
@@ -6640,7 +6644,6 @@ https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.woensdrecht.nl
-https://simcms-gemeenteraad.vlissingen.nl
 https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.doetinchem.nl
@@ -6674,7 +6677,6 @@ https://simcms.staphorst.nl
 https://simcms.valkenswaard.nl
 https://simcms.veere.nl
 https://simcms.vlieland.nl
-https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
 https://simcms.wassenaar.nl
 https://simcms.westerkwartier.nl
@@ -6687,6 +6689,7 @@ https://simform.gemeentemaasgouw.nl
 https://simform.heerenveen.nl
 https://simform.rijswijk.nl
 https://simform.vlaardingen.nl
+https://simform.vlissingen.nl
 https://simsite.bergendal.nl
 https://simsite.beverwijk.nl
 https://simsite.bronckhorst.nl
@@ -8335,7 +8338,6 @@ https://www.venray.nl
 https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl
 https://www.vlaardingen.nl
-https://www.vlissingen.nl
 https://www.voerendaal.nl
 https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl
