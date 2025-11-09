@@ -2648,6 +2648,7 @@ broker.rotterdam.nl
 broker.stichtsevecht.nl
 broker.test.purmerend.nl
 broker.venray.nl
+broker.voorst.nl
 broker.waterland.nl
 broker.westervoort.nl
 broker.wijdemeren.nl
@@ -4787,8 +4788,6 @@ evenementen.denhaag.nl
 evenementen.landvancuijk.nl
 evenementen.nijmegen.nl
 evenementen.rotterdam.nl
-evenementen.voorst.nl
-evenemententest.voorst.nl
 evenementenvergunning.rotterdam.nl
 event.gemeente.utrecht.nl
 evmail.sudwestfryslan.nl
@@ -4949,7 +4948,6 @@ filecap.noordoostpolder.nl
 filecap.nunspeet.nl
 filecap.renswoude.nl
 filecap.rozendaal.nl
-filecap.voorst.nl
 filecap.wierden.nl
 filecapacc.breda.nl
 fileshare.westerkwartier.nl
@@ -5906,7 +5904,6 @@ houtwijkbegroot.denhaag.nl
 hpdm.gooisemeren.nl
 hpdm.oss.nl
 hpdm.purmerend.nl
-hpdm.voorst.nl
 hrplus.rotterdam.nl
 hsdjbappdb01.heusden.nl
 hta-stuf.medemblik.nl
@@ -7305,7 +7302,6 @@ lba.almere.nl
 ld-01.hellevoetsluis.nl
 ldap.alkmaar.nl
 ldap.gemeentehulst.nl
-ldap.voorst.nl
 ldlmks01.leudal.nl
 ledeacker.landvancuijk.nl
 leef-acc.almere.nl
@@ -8182,6 +8178,7 @@ mijn.scherpenzeel.nl
 mijn.schiedam.nl
 mijn.schouwen-duiveland.nl
 mijn.sittard-geleen.nl
+mijn.sociaal.voorst.nl
 mijn.soest.nl
 mijn.staphorst.nl
 mijn.stichtsevecht.nl
@@ -9994,6 +9991,7 @@ preprodbroker.nunspeet.nl
 preprodbroker.overbetuwe.nl
 preprodbroker.stichtsevecht.nl
 preprodbroker.venray.nl
+preprodbroker.voorst.nl
 preprodbroker.westervoort.nl
 preprodbroker.wijdemeren.nl
 preprodbroker.zevenaar.nl
@@ -10763,7 +10761,6 @@ sd.someren.nl
 sd2-zgw.acc.denhaag.nl
 sd2-zgw.denhaag.nl
 sd2-zgw.test.denhaag.nl
-sdm.voorst.nl
 sdr.rotterdam.nl
 sdtest.asten.nl
 sdtest.someren.nl
@@ -12177,6 +12174,7 @@ test.leiden.nl
 test.loket.oss.nl
 test.maasdriel.nl
 test.middendrenthe.nl
+test.mijn.sociaal.voorst.nl
 test.mijnhulpvraag.rijswijk.nl
 test.mijnloket.vlaardingen.nl
 test.mijnzorg.beekdaelen.nl

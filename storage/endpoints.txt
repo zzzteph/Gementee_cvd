@@ -2145,6 +2145,7 @@ https://broker.rotterdam.nl
 https://broker.stichtsevecht.nl
 https://broker.test.purmerend.nl
 https://broker.venray.nl
+https://broker.voorst.nl
 https://broker.waterland.nl
 https://broker.westervoort.nl
 https://broker.wijdemeren.nl
@@ -5146,6 +5147,7 @@ https://mijn.scherpenzeel.nl
 https://mijn.schiedam.nl
 https://mijn.schouwen-duiveland.nl
 https://mijn.sittard-geleen.nl
+https://mijn.sociaal.voorst.nl
 https://mijn.soest.nl
 https://mijn.staphorst.nl
 https://mijn.stichtsevecht.nl
@@ -6222,6 +6224,7 @@ https://preprodbroker.nunspeet.nl
 https://preprodbroker.overbetuwe.nl
 https://preprodbroker.stichtsevecht.nl
 https://preprodbroker.venray.nl
+https://preprodbroker.voorst.nl
 https://preprodbroker.westervoort.nl
 https://preprodbroker.wijdemeren.nl
 https://preprodbroker.zevenaar.nl

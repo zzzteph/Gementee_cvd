@@ -93,12 +93,12 @@ mks
 test-intranet
 dtestloket
 cmsintranet
+preprodbroker
 portaal
 siam
 financien
 bgt
 pki
-preprodbroker
 osbacc
 duurzaam
 acc-formulier
@@ -106,7 +106,6 @@ podiumd-logs
 extranet
 govroam
 samen
-filecap
 test-cmsintranet
 verkiezingen
 snelbalie
@@ -127,6 +126,7 @@ openzaak
 sts
 simcms-open
 www.webmail
+filecap
 dtestmidoffice
 squit2go
 mijnzorg
@@ -226,7 +226,6 @@ www.portal
 kennisbank
 wachtwoord
 subsidies-backend
-evenementen
 thuiswerken
 website
 gemeentearchief
@@ -260,6 +259,7 @@ simform-preproductie
 praatmee
 www.werkenbij
 subsidie
+evenementen
 cms
 exchange
 mozardtest
@@ -492,7 +492,6 @@ pip
 www.mail
 preprod-mijnsociaaldomein
 acceptatie-intranet
-hpdm
 neuron
 nieuwsbrieven
 mijn-acc
@@ -527,7 +526,6 @@ edienstenmijninkomen
 edienstverlening-preprod
 edienstverlening
 aanvragen
-ldap
 subsidiebeheer
 subsidieloket
 3d
@@ -678,6 +676,7 @@ de
 aaa
 preprod-belastingportaal
 squitxo
+hpdm
 magazines
 online
 stats
@@ -728,6 +727,7 @@ edienstenburgerzaken.test
 av
 datalab
 gen1
+ldap
 notubiz
 test-subsidiebeheer
 test-subsidieloket
@@ -5945,18 +5945,18 @@ key2financien
 notubiz-recorder
 vdlpki
 ctb
-evenemententest
 geobeheer
 login1
 login2
 logintest
 mijn-accept
+mijn.sociaal
 mitel
-sdm
 shift2
 sl
 sltest
 smartdoctest
+test.mijn.sociaal
 zsnl
 cmsoo.wegwijsplus
 geodb
