@@ -1,4 +1,5 @@
 anyconnect.vught.nl
+apps.vught.nl
 cmsoo.vught.nl
 cmsoo.wegwijsplus.vught.nl
 dkd.vught.nl
@@ -19,11 +20,11 @@ mailptr.vught.nl
 mijnbelastingen.vught.nl
 mta-sts.vught.nl
 portal.vught.nl
-preprod-mijnbelastingen.vught.nl
 saas.vught.nl
 test.open-formulieren.vught.nl
 vught.nl
 wegwijsplus.vught.nl
+woningbouwkaart.vught.nl
 www.gemeenteraad.vught.nl
 www.vught.nl
 www.wegwijsplus.vught.nl

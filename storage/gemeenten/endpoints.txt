@@ -1533,6 +1533,7 @@ https://apps.nieuwkoop.nl
 https://apps.sudwestfryslan.nl
 https://apps.tilburg.nl
 https://apps.utrecht.nl
+https://apps.vught.nl
 https://apps.waalre.nl
 https://apps.waddinxveen.nl
 https://apps.zuidplas.nl
@@ -3667,6 +3668,7 @@ https://geovisiaonline.schiedam.nl
 https://geoweb.haarlemmermeer.nl
 https://geoweb.oss.nl
 https://geoweb.test.oss.nl
+https://geoweb.vught.nl
 https://gezinscoach.deventer.nl
 https://gezondheid.landvancuijk.nl
 https://gezondleven.utrecht.nl
@@ -4186,6 +4188,7 @@ https://ibzpink.venlo.nl
 https://ibzpink.venray.nl
 https://ibzpink.vlissingen.nl
 https://ibzpink.voorschoten.nl
+https://ibzpink.vught.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6166,7 +6169,6 @@ https://preprod-mijn.texel.nl
 https://preprod-mijn.zwolle.nl
 https://preprod-mijnaanvragen.purmerend.nl
 https://preprod-mijnaanvragensociaaldomein.venlo.nl
-https://preprod-mijnbelastingen.vught.nl
 https://preprod-mijninkomen.almere.nl
 https://preprod-mijninkomen.doesburg.nl
 https://preprod-mijninkomen.dronten.nl
@@ -7832,6 +7834,7 @@ https://woningbouwkaart.sonenbreugel.nl
 https://woningbouwkaart.tynaarlo.nl
 https://woningbouwkaart.valkenswaard.nl
 https://woningbouwkaart.veldhoven.nl
+https://woningbouwkaart.vught.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
 https://woo.doesburg.nl

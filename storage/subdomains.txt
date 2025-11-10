@@ -1462,6 +1462,7 @@ apps.nieuwkoop.nl
 apps.sudwestfryslan.nl
 apps.tilburg.nl
 apps.utrecht.nl
+apps.vught.nl
 apps.waalre.nl
 apps.waddinxveen.nl
 apps.zuidplas.nl
@@ -9912,7 +9913,6 @@ preprod-mijn.texel.nl
 preprod-mijn.zwolle.nl
 preprod-mijnaanvragen.purmerend.nl
 preprod-mijnaanvragensociaaldomein.venlo.nl
-preprod-mijnbelastingen.vught.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
 preprod-mijninkomen.beverwijk.nl
@@ -13514,6 +13514,7 @@ woningbouwkaart.sonenbreugel.nl
 woningbouwkaart.tynaarlo.nl
 woningbouwkaart.valkenswaard.nl
 woningbouwkaart.veldhoven.nl
+woningbouwkaart.vught.nl
 woningdossier.assen.nl
 woningzoeken.vlaardingen.nl
 woo-acc.denhaag.nl

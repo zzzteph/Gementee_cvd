@@ -75,10 +75,10 @@ formulier
 denkmee
 zaken
 hybrid
+woningbouwkaart
 cloudadapter
 kaarten
 doemee
-woningbouwkaart
 klantcontact
 _autodiscover._tcp
 digikoppeling.test
@@ -101,6 +101,7 @@ bgt
 pki
 osbacc
 duurzaam
+apps
 acc-formulier
 podiumd-logs
 extranet
@@ -110,7 +111,6 @@ test-cmsintranet
 verkiezingen
 snelbalie
 api.betalen
-apps
 acc-contact
 acc-mijn
 acc-notificaties
@@ -5962,7 +5962,6 @@ cmsoo.wegwijsplus
 geodb
 mailptr
 mijnbelastingen
-preprod-mijnbelastingen
 saas
 wegwijsplus
 www.wegwijsplus
