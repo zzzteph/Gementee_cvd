@@ -3,12 +3,10 @@ api.meldingen-a.waadhoeke.nl
 api.meldingen.waadhoeke.nl
 autodiscover.waadhoeke.nl
 csc.waadhoeke.nl
-e.videobellen.waadhoeke.nl
 edienstenburgerzaken-test.waadhoeke.nl
 edienstenburgerzaken.waadhoeke.nl
 enterpriseenrollment.waadhoeke.nl
 flowmailer-tracking.parkeervergunningen.waadhoeke.nl
-gebiedsteam.waadhoeke.nl
 intranet.waadhoeke.nl
 kaart.waadhoeke.nl
 loket.acceptatie.waadhoeke.nl
@@ -25,6 +23,7 @@ squit2go-acc.waadhoeke.nl
 squit2go-beheer-acc.waadhoeke.nl
 uc.waadhoeke.nl
 waadhoeke.nl
+waarmerk.waadhoeke.nl
 werkenbij.waadhoeke.nl
 werknemersportaal.waadhoeke.nl
 www.parkeren.waadhoeke.nl

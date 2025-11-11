@@ -4176,7 +4176,6 @@ e.papendrecht.nl
 e.stichtsevecht.nl
 e.t-diel.nl
 e.venlo.nl
-e.videobellen.waadhoeke.nl
 e2s-connector-prd.heerlen.nl
 e2s-connector-tst.heerlen.nl
 e2s-test.molenlanden.nl
@@ -5304,7 +5303,6 @@ gdintaker.ouder-amstel.nl
 gdintaker.uithoorn.nl
 gdpp.utrecht.nl
 gebiedmaanweg.denhaag.nl
-gebiedsteam.waadhoeke.nl
 gebiedsvisies.utrecht.nl
 geborgenverleden.sudwestfryslan.nl
 geerken.westervoort.nl
@@ -12946,6 +12944,7 @@ waarmerk.simpelveld.nl
 waarmerk.tynaarlo.nl
 waarmerk.veendam.nl
 waarmerk.vlieland.nl
+waarmerk.waadhoeke.nl
 waarmerk.waterland.nl
 waarmerk.westerwolde.nl
 waarmerk.westvoorne.nl

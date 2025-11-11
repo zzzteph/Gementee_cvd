@@ -3,13 +3,11 @@ https://acceptatie.waadhoeke.nl
 https://api.meldingen-a.waadhoeke.nl
 https://api.meldingen.waadhoeke.nl
 https://csc.waadhoeke.nl
-https://e.videobellen.waadhoeke.nl
 https://edienstenburgerzaken-test.waadhoeke.nl
 https://edienstenburgerzaken.waadhoeke.nl
 https://enterpriseenrollment.waadhoeke.nl
 https://flowmailer-tracking.parkeervergunningen.waadhoeke.nl
-https://gebiedsteam.waadhoeke.nl
-https://kaart.waadhoeke.nl
+https://loket.acceptatie.waadhoeke.nl
 https://loket.waadhoeke.nl
 https://mbg1.waadhoeke.nl
 https://mbg2.waadhoeke.nl

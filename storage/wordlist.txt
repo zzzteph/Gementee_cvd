@@ -25,8 +25,8 @@ eloket
 dkd
 werkplek
 portal
-acc
 waarmerk
+acc
 open
 afspraak
 meldingen
@@ -5965,9 +5965,7 @@ mijnbelastingen
 saas
 wegwijsplus
 www.wegwijsplus
-e.videobellen
 flowmailer-tracking.parkeervergunningen
-gebiedsteam
 squit2go-acc
 squit2go-beheer-acc
 key2
