@@ -23,5 +23,6 @@ vpn.waalre.nl
 waalre.nl
 webserver.waalre.nl
 werkplek.waalre.nl
+woningbouwkaart.waalre.nl
 www.waalre.nl
 zaaksysteem-accept.waalre.nl

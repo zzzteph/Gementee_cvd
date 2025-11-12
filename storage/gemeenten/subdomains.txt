@@ -13514,6 +13514,7 @@ woningbouwkaart.tynaarlo.nl
 woningbouwkaart.valkenswaard.nl
 woningbouwkaart.veldhoven.nl
 woningbouwkaart.vught.nl
+woningbouwkaart.waalre.nl
 woningdossier.assen.nl
 woningzoeken.vlaardingen.nl
 woo-acc.denhaag.nl

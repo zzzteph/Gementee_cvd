@@ -74,8 +74,8 @@ berichten
 formulier
 denkmee
 zaken
-hybrid
 woningbouwkaart
+hybrid
 cloudadapter
 kaarten
 doemee

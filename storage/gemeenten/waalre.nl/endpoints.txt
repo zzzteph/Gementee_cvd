@@ -6,7 +6,9 @@ https://bewustwording.waalre.nl
 https://edienstenburgerzaken-test.waalre.nl
 https://edienstenburgerzaken.waalre.nl
 https://iburgerzaken.waalre.nl
+https://ibzpink.waalre.nl
 https://mijn.waalre.nl
 https://waalre.nl
+https://woningbouwkaart.waalre.nl
 https://www.waalre.nl
 https://zaaksysteem-accept.waalre.nl

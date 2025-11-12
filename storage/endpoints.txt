@@ -4187,6 +4187,7 @@ https://ibzpink.venray.nl
 https://ibzpink.vlissingen.nl
 https://ibzpink.voorschoten.nl
 https://ibzpink.vught.nl
+https://ibzpink.waalre.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -7833,6 +7834,7 @@ https://woningbouwkaart.tynaarlo.nl
 https://woningbouwkaart.valkenswaard.nl
 https://woningbouwkaart.veldhoven.nl
 https://woningbouwkaart.vught.nl
+https://woningbouwkaart.waalre.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
 https://woo.doesburg.nl
