@@ -4052,6 +4052,7 @@ drop-acc.rotterdam.nl
 drop.rotterdam.nl
 drop.scherpenzeel.nl
 drop.texel.nl
+drop.waalwijk.nl
 droppki.nissewaard.nl
 droptestpki.nissewaard.nl
 drupalintranet.bergeijk.nl
@@ -7479,7 +7480,6 @@ loket.acceptatie.smallingerland.nl
 loket.acceptatie.steenwijkerland.nl
 loket.acceptatie.veendam.nl
 loket.acceptatie.waadhoeke.nl
-loket.acceptatie.waalwijk.nl
 loket.acceptatie.zoetermeer.nl
 loket.acceptatie.zwijndrecht.nl
 loket.alblasserdam.nl
@@ -10418,6 +10418,7 @@ raster.horstaandemaas.nl
 rbp.rotterdam.nl
 rds.gemeentesluis.nl
 rds.hofvantwente.nl
+rds.waalwijk.nl
 rds.zeist.nl
 rdsportal.haarlemmermeer.nl
 rdw-test.authenticatie.alkmaar.nl

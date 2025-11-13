@@ -57,10 +57,10 @@ meldingen-acc
 remote
 openpdc
 enterpriseregistration
-loket.acceptatie
 data
 belastingbalie
 cmsoo
+loket.acceptatie
 openpub
 omgevingsvisie
 login
@@ -491,6 +491,7 @@ mijnmobiel
 pip
 www.mail
 preprod-mijnsociaaldomein
+rds
 acceptatie-intranet
 neuron
 nieuwsbrieven
@@ -514,6 +515,7 @@ acc-abc
 wonen
 awtunnel
 service
+drop
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -666,7 +668,6 @@ secudoc
 www.login
 www.parkeren
 prtg
-rds
 wmoloket
 berichtenverkeer
 www.kaarten
@@ -719,7 +720,6 @@ abc
 www.afspraakmaken
 www.iarchief
 digitalebelastingbalie
-drop
 regelgeving
 parkeerloket
 autodiscover.raad

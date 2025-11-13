@@ -291,7 +291,6 @@ http://digiform.acc.amsterdam.nl
 http://digitaalnachtregister.alphen-chaam.nl
 http://digitaalnachtregister.baarle-nassau.nl
 http://digitaalnachtregister.gilzerijen.nl
-http://duurzaam.waalwijk.nl
 http://duurzamestad.denhaag.nl
 http://e.papendrecht.nl
 http://ebsfin.acc.topdesk.denhaag.nl
@@ -325,6 +324,7 @@ http://felix.sonenbreugel.nl
 http://felix.staphorst.nl
 http://felix.t-diel.nl
 http://felix.vlieland.nl
+http://felix.waalwijk.nl
 http://felix.wierden.nl
 http://felix.winterswijk.nl
 http://felix.zwartewaterland.nl
@@ -3282,7 +3282,6 @@ https://felix.urk.nl
 https://felix.valkenswaard.nl
 https://felix.veere.nl
 https://felix.voorschoten.nl
-https://felix.waalwijk.nl
 https://felix.westmaasenwaal.nl
 https://felix.weststellingwerf.nl
 https://felix.woensdrecht.nl
@@ -4188,6 +4187,7 @@ https://ibzpink.vlissingen.nl
 https://ibzpink.voorschoten.nl
 https://ibzpink.vught.nl
 https://ibzpink.waalre.nl
+https://ibzpink.waalwijk.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4779,7 +4779,6 @@ https://loket.acceptatie.smallingerland.nl
 https://loket.acceptatie.steenwijkerland.nl
 https://loket.acceptatie.veendam.nl
 https://loket.acceptatie.waadhoeke.nl
-https://loket.acceptatie.waalwijk.nl
 https://loket.acceptatie.zoetermeer.nl
 https://loket.acceptatie.zwijndrecht.nl
 https://loket.alblasserdam.nl
@@ -6425,6 +6424,7 @@ https://rads.rotterdam.nl
 https://rap.gemeentesluis.nl
 https://raster.horstaandemaas.nl
 https://rbp.rotterdam.nl
+https://rds.waalwijk.nl
 https://rdweb.houten.nl
 https://rdweb01.schagen.nl
 https://reclame.nijmegen.nl
@@ -6649,6 +6649,7 @@ https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-data.westerkwartier.nl
+https://simcms-duurzaam.waalwijk.nl
 https://simcms-duurzaam.woensdrecht.nl
 https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
@@ -6684,6 +6685,7 @@ https://simcms.valkenswaard.nl
 https://simcms.veere.nl
 https://simcms.vlieland.nl
 https://simcms.voorschoten.nl
+https://simcms.waalwijk.nl
 https://simcms.wassenaar.nl
 https://simcms.westerkwartier.nl
 https://simcms.zuidplas.nl
@@ -7525,7 +7527,6 @@ https://waadhoeke.nl
 https://waalre.nl
 https://waalsprong.acc.nijmegen.nl
 https://waalsprong.nijmegen.nl
-https://waalwijk.nl
 https://waardwijzer.krimpenerwaard.nl
 https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
@@ -8357,7 +8358,6 @@ https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl
 https://www.waadhoeke.nl
 https://www.waalre.nl
-https://www.waalwijk.nl
 https://www.waddenland.groningen.nl
 https://www.waddinxveen.nl
 https://www.wageningen.nl

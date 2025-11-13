@@ -9,6 +9,7 @@ belastingloket.waalwijk.nl
 bezoekersparkeren-acc.waalwijk.nl
 bezoekersparkeren.waalwijk.nl
 citrix.waalwijk.nl
+drop.waalwijk.nl
 duurzaam.waalwijk.nl
 e-loket.waalwijk.nl
 felix.waalwijk.nl
@@ -22,7 +23,6 @@ intranet-acc.waalwijk.nl
 intranet.waalwijk.nl
 intranetcms-acc.waalwijk.nl
 intranetcms.waalwijk.nl
-loket.acceptatie.waalwijk.nl
 loket.waalwijk.nl
 mail.waalwijk.nl
 meedoen.waalwijk.nl
@@ -35,6 +35,7 @@ parkeren-acc.waalwijk.nl
 parkeren.waalwijk.nl
 paswijzer.waalwijk.nl
 pre-mijnzorg.waalwijk.nl
+rds.waalwijk.nl
 remote.waalwijk.nl
 sharefile.waalwijk.nl
 simcms-duurzaam.waalwijk.nl
