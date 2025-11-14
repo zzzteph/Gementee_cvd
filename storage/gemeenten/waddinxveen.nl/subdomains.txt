@@ -1,4 +1,5 @@
 apps.waddinxveen.nl
+bag.waddinxveen.nl
 bgt.waddinxveen.nl
 circulairopdreef.waddinxveen.nl
 dali.waddinxveen.nl
@@ -15,6 +16,7 @@ mijnuitkering.waddinxveen.nl
 openpdc.waddinxveen.nl
 openpub.waddinxveen.nl
 piptest.waddinxveen.nl
+portaal.waddinxveen.nl
 preprod-formulieren.waddinxveen.nl
 preproductie.waddinxveen.nl
 probeer.waddinxveen.nl

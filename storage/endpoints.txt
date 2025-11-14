@@ -589,7 +589,6 @@ http://verkiezingen.acc.topdesk.denhaag.nl
 http://verkiezingen.topdesk.denhaag.nl
 http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
-http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
 http://webmail.meierijstad.nl
 http://welkom.ede.nl
@@ -4188,6 +4187,7 @@ https://ibzpink.voorschoten.nl
 https://ibzpink.vught.nl
 https://ibzpink.waalre.nl
 https://ibzpink.waalwijk.nl
+https://ibzpink.waddinxveen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -7553,6 +7553,7 @@ https://wachtwoordvergeten.nederbetuwe.nl
 https://waddenland.groningen.nl
 https://waddinxveen.nl
 https://waddsup.waddinxveen.nl
+https://wadelse-acc.waddinxveen.nl
 https://wadelse.waddinxveen.nl
 https://wadelsecms-acc.waddinxveen.nl
 https://wadelsecms.waddinxveen.nl

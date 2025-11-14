@@ -1925,6 +1925,7 @@ bag.etten-leur.nl
 bag.haarlemmermeer.nl
 bag.montferland.info
 bag.soest.nl
+bag.waddinxveen.nl
 bag.weert.nl
 bag.zwolle.nl
 bag1.gemeentemaasgouw.nl
@@ -9752,6 +9753,7 @@ portaal.pijnacker-nootdorp.nl
 portaal.purmerend.nl
 portaal.veenendaal.nl
 portaal.voorschoten.nl
+portaal.waddinxveen.nl
 portaal.wassenaar.nl
 portaal.zuidplas.nl
 portaaltest.middendrenthe.nl

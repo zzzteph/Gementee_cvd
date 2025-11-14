@@ -85,6 +85,7 @@ digikoppeling.test
 parkeren-acc
 acc-broker
 connect
+portaal
 parkeren-test
 piwik
 acc-podiumd-logs
@@ -94,7 +95,6 @@ test-intranet
 dtestloket
 cmsintranet
 preprodbroker
-portaal
 siam
 financien
 bgt
@@ -168,6 +168,7 @@ cryptshare
 belastingportaal
 gisib
 bis
+bag
 lyncdiscover
 zac
 gasten
@@ -183,7 +184,6 @@ maps
 mailing
 gis
 nieuwsbrief
-bag
 owa
 test-digikoppeling
 meedoen
