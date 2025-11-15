@@ -565,6 +565,7 @@ http://test-intranet.lansingerland.nl
 http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sittard-geleen.nl
+http://test-intranet.wageningen.nl
 http://test-jip.hofvantwente.nl
 http://test-jip.vijfheerenlanden.nl
 http://test-nopnet.noordoostpolder.nl
@@ -2988,7 +2989,6 @@ https://edienstenburgerzaken.voerendaal.nl
 https://edienstenburgerzaken.vught.nl
 https://edienstenburgerzaken.waadhoeke.nl
 https://edienstenburgerzaken.waalre.nl
-https://edienstenburgerzaken.wageningen.nl
 https://edienstenburgerzaken.waterland.nl
 https://edienstenburgerzaken.westervoort.nl
 https://edienstenburgerzaken.westerwolde.nl
@@ -4188,6 +4188,7 @@ https://ibzpink.vught.nl
 https://ibzpink.waalre.nl
 https://ibzpink.waalwijk.nl
 https://ibzpink.waddinxveen.nl
+https://ibzpink.wageningen.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -7064,7 +7065,6 @@ https://test-insite.nijmegen.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.velsen.nl
-https://test-intranet.wageningen.nl
 https://test-intranet.zeist.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
