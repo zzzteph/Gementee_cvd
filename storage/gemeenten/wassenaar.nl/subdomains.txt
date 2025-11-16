@@ -1,6 +1,7 @@
 autodiscover.wassenaar.nl
 content.wassenaar.nl
 dali.wassenaar.nl
+en.wassenaar.nl
 felix.wassenaar.nl
 gemeentearchief.wassenaar.nl
 iburgerzaken.wassenaar.nl

@@ -199,6 +199,7 @@ internetafspraken
 bestuur
 mta-sts
 geoportaal
+en
 fs
 preprod-mijn
 geodata
@@ -221,7 +222,6 @@ testloket
 telewerken
 afspraakmaken
 zaaksysteem
-en
 www.portal
 kennisbank
 wachtwoord

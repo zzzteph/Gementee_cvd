@@ -1,10 +1,11 @@
 http://autodiscover.wassenaar.nl
+http://mijn.wassenaar.nl
+http://simform.wassenaar.nl
+http://wassenaar.nl
 https://dali.wassenaar.nl
-https://gemeentearchief.wassenaar.nl
+https://en.wassenaar.nl
+https://felix.wassenaar.nl
 https://iburgerzaken.wassenaar.nl
-https://mijn.wassenaar.nl
-https://preproductie.wassenaar.nl
+https://ibzpink.wassenaar.nl
 https://simcms.wassenaar.nl
-https://simform-preproductie.wassenaar.nl
-https://wassenaar.nl
 https://www.wassenaar.nl
