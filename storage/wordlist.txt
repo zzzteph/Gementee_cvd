@@ -668,6 +668,7 @@ secudoc
 www.login
 www.parkeren
 prtg
+mylex
 wmoloket
 berichtenverkeer
 www.kaarten
@@ -992,7 +993,6 @@ ediensten
 pip-preproductie
 telefoon
 mm
-mylex
 e.bewustwording
 digikoppelingjnet
 apigateway
@@ -6007,12 +6007,16 @@ ansvwl2019
 ansvwl2032
 ansvwl2903
 anwebintwl2008
+cloudadapter-acc
+cloudadapter-prd
 digikoppelingwl.test
 digikoppelingwl
 dis4fis-prod
 dis4fis-test
 logilink001
 mis
+narrowcasting
+wa-centric-01-a
 waterweb
 web001
 wlc01
@@ -6020,6 +6024,7 @@ www.ansvwl2016
 www.ansvwl2903
 www.anwebintwl2008
 www.mis
+ztna
 adproxy
 geoportal
 klicwion

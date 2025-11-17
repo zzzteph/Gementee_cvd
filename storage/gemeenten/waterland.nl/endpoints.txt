@@ -1,9 +1,10 @@
 https://acc-broker.waterland.nl
-https://afspraken.waterland.nl
 https://ansvwl2016.waterland.nl
 https://ansvwl2903.waterland.nl
 https://anwebintwl2008.waterland.nl
 https://broker.waterland.nl
+https://cloudadapter-acc.waterland.nl
+https://cloudadapter-prd.waterland.nl
 https://cmsoo.waterland.nl
 https://dacceptatieloket.waterland.nl
 https://dloket.waterland.nl
@@ -18,6 +19,8 @@ https://mdm.waterland.nl
 https://mijn-acceptatie.waterland.nl
 https://mijn.waterland.nl
 https://mis.waterland.nl
+https://mylex.waterland.nl
+https://narrowcasting.waterland.nl
 https://parkeren.waterland.nl
 https://waarmerk.waterland.nl
 https://waterland.nl

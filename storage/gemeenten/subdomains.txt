@@ -2856,11 +2856,13 @@ cloud.buren.nl
 cloud.midden-groningen.nl
 cloud.nissewaard.nl
 cloud.wageningen.nl
+cloudadapter-acc.waterland.nl
 cloudadapter-dmz-p.lopik.nl
 cloudadapter-gemnet-p.lopik.nl
 cloudadapter-gemnet-t.lopik.nl
 cloudadapter-p.denhelder.nl
 cloudadapter-p.lopik.nl
+cloudadapter-prd.waterland.nl
 cloudadapter-prod.gorinchem.nl
 cloudadapter-prod.gulpen-wittem.nl
 cloudadapter-prod.hofvantwente.nl
@@ -8591,6 +8593,7 @@ mycorsanxt.nissewaard.nl
 myexports.bernheze.org
 mylex.gemeentesluis.nl
 mylex.nieuwkoop.nl
+mylex.waterland.nl
 mylex1.gem.overbetuwe.nl
 mymeeting-ris.gulpen-wittem.nl
 mymeeting.montferland.info
@@ -8613,6 +8616,7 @@ najaarsnota2020.pijnacker-nootdorp.nl
 najaarsrapportage.haarlemmermeer.nl
 namitest1.acc.denhaag.nl
 napels.emmen.nl
+narrowcasting.waterland.nl
 nas-beek.ovh.gemeentebeek.nl
 nas-productie.ovh.gemeentebeek.nl
 nasbackup.ovh.gemeentebeek.nl
@@ -12900,6 +12904,7 @@ w2012y.landgraaf.nl
 w2016l.landgraaf.nl
 w2kmks.montferland.info
 w2kzmm.montferland.info
+wa-centric-01-a.waterland.nl
 waadhoeke.nl
 waalre.nl
 waalsprong.acc.nijmegen.nl
@@ -14959,6 +14964,7 @@ zsnl-acceptatie.hilversum.nl
 zsnl.voorst.nl
 zst.noordoostpolder.nl
 ztc.data.amsterdam.nl
+ztna.waterland.nl
 zuiderbad.amsterdam.nl
 zuidplas.nl
 zuil.gemeentehw.nl

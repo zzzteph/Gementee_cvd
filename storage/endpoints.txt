@@ -1280,7 +1280,6 @@ https://afspraken.someren.nl
 https://afspraken.tholen.nl
 https://afspraken.tynaarlo.nl
 https://afspraken.veendam.nl
-https://afspraken.waterland.nl
 https://afspraken.westerwolde.nl
 https://afspraken.winterswijk.nl
 https://afspraken.wormerland.nl
@@ -2232,6 +2231,8 @@ https://clicksfm.nieuwsbrief.goeree-overflakkee.nl
 https://clicksfm.persberichten.lansingerland.nl
 https://clicksfm.stichtsevecht.nl
 https://cloud.wageningen.nl
+https://cloudadapter-acc.waterland.nl
+https://cloudadapter-prd.waterland.nl
 https://cloudadapter-prod.winterswijk.nl
 https://cloudadapter-prod.zutphen.nl
 https://cloudadapter-test.landsmeer.nl
@@ -5416,6 +5417,7 @@ https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mylex.gemeentesluis.nl
 https://mylex.nieuwkoop.nl
+https://mylex.waterland.nl
 https://mymeeting.veldhoven.nl
 https://mzdtest.bunnik.nl
 https://naardebasisschool.utrecht.nl
@@ -5424,6 +5426,7 @@ https://najaarsnota.pijnacker-nootdorp.nl
 https://najaarsnota2019.pijnacker-nootdorp.nl
 https://najaarsnota2020.pijnacker-nootdorp.nl
 https://najaarsrapportage.haarlemmermeer.nl
+https://narrowcasting.waterland.nl
 https://natuur.leiden.nl
 https://ndbu-acc.utrecht.nl
 https://ndbu-tst.utrecht.nl

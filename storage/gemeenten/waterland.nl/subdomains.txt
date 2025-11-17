@@ -7,6 +7,8 @@ ansvwl2032.waterland.nl
 ansvwl2903.waterland.nl
 anwebintwl2008.waterland.nl
 broker.waterland.nl
+cloudadapter-acc.waterland.nl
+cloudadapter-prd.waterland.nl
 cloudadapter-test.waterland.nl
 cloudadapter.waterland.nl
 cmsoo.waterland.nl
@@ -34,8 +36,11 @@ mdm.waterland.nl
 mijn-acceptatie.waterland.nl
 mijn.waterland.nl
 mis.waterland.nl
+mylex.waterland.nl
+narrowcasting.waterland.nl
 parkeren-acc.waterland.nl
 parkeren.waterland.nl
+wa-centric-01-a.waterland.nl
 waarmerk.waterland.nl
 waterland.nl
 waterweb.waterland.nl
@@ -49,3 +54,4 @@ www.anwebintwl2008.waterland.nl
 www.mdm.waterland.nl
 www.mis.waterland.nl
 www.waterland.nl
+ztna.waterland.nl
