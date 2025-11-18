@@ -4023,6 +4023,7 @@ doemee.terneuzen.nl
 doemee.valkenburg.nl
 doemee.veere.nl
 doemee.vlissingen.nl
+doemee.weert.nl
 doemee.zoetermeer.nl
 doemee.zwolle.nl
 doesburg.nl
@@ -7735,7 +7736,6 @@ mail.waalre.nl
 mail.waalwijk.nl
 mail.wageningen.nl
 mail.wassenaar.nl
-mail.weert.nl
 mail.westerkwartier.nl
 mail.westmaasenwaal.nl
 mail.westvoorne.nl
@@ -13170,7 +13170,6 @@ webmail.voorst.nl
 webmail.waalwijk.nl
 webmail.wageningen.nl
 webmail.waterland.nl
-webmail.weert.nl
 webmail.west.amsterdam.nl
 webmail.westmaasenwaal.nl
 webmail.weststellingwerf.nl
@@ -13524,6 +13523,7 @@ woningbouwkaart.valkenswaard.nl
 woningbouwkaart.veldhoven.nl
 woningbouwkaart.vught.nl
 woningbouwkaart.waalre.nl
+woningbouwkaart.weert.nl
 woningdossier.assen.nl
 woningzoeken.vlaardingen.nl
 woo-acc.denhaag.nl

@@ -8,6 +8,7 @@ awtunnel.weert.nl
 bag.weert.nl
 bastion365.weert.nl
 bestuur.weert.nl
+doemee.weert.nl
 eloket.weert.nl
 flowmailer-tracking.weert.nl
 gemeenteraad.weert.nl
@@ -19,7 +20,6 @@ intra.weert.nl
 intranet.weert.nl
 intranetacc.weert.nl
 klicwion.weert.nl
-mail.weert.nl
 micollab.weert.nl
 parkeerloket.weert.nl
 parkeerlokettest.weert.nl
@@ -30,6 +30,6 @@ secure1ev.weert.nl
 secure1t.weert.nl
 stadspas.weert.nl
 testeloket.weert.nl
-webmail.weert.nl
 weert.nl
+woningbouwkaart.weert.nl
 www.weert.nl

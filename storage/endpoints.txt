@@ -1280,6 +1280,7 @@ https://afspraken.someren.nl
 https://afspraken.tholen.nl
 https://afspraken.tynaarlo.nl
 https://afspraken.veendam.nl
+https://afspraken.weert.nl
 https://afspraken.westerwolde.nl
 https://afspraken.winterswijk.nl
 https://afspraken.wormerland.nl
@@ -1658,7 +1659,6 @@ https://awm.amsterdam.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
 https://awmail.nederweert.nl
-https://awmail.weert.nl
 https://awtunnel.nederweert.nl
 https://awtunnel.roermond.nl
 https://awtunnel.venlo.nl
@@ -2658,6 +2658,7 @@ https://doemee.terneuzen.nl
 https://doemee.valkenburg.nl
 https://doemee.veere.nl
 https://doemee.vlissingen.nl
+https://doemee.weert.nl
 https://doemee.zoetermeer.nl
 https://doemee.zwolle.nl
 https://doetinchem.nl
@@ -4195,6 +4196,7 @@ https://ibzpink.waalwijk.nl
 https://ibzpink.waddinxveen.nl
 https://ibzpink.wageningen.nl
 https://ibzpink.wassenaar.nl
+https://ibzpink.weert.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -7841,6 +7843,7 @@ https://woningbouwkaart.valkenswaard.nl
 https://woningbouwkaart.veldhoven.nl
 https://woningbouwkaart.vught.nl
 https://woningbouwkaart.waalre.nl
+https://woningbouwkaart.weert.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
 https://woo.doesburg.nl

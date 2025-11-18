@@ -72,13 +72,13 @@ flowmailer-tracking
 kaart
 berichten
 formulier
+woningbouwkaart
 denkmee
 zaken
-woningbouwkaart
 hybrid
+doemee
 cloudadapter
 kaarten
-doemee
 klantcontact
 _autodiscover._tcp
 digikoppeling.test
