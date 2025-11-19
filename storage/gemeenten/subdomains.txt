@@ -7002,6 +7002,7 @@ kaart.tilburg.nl
 kaart.tst.utrecht.nl
 kaart.utrecht.nl
 kaart.waadhoeke.nl
+kaart.westbetuwe.nl
 kaart.westerkwartier.nl
 kaart.zandvoort.nl
 kaarten-acc.venlo.nl

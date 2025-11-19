@@ -66,10 +66,10 @@ omgevingsvisie
 login
 cloudadapter-test
 osb
+kaart
 digikoppeling-test
 beeldbank
 flowmailer-tracking
-kaart
 berichten
 formulier
 woningbouwkaart

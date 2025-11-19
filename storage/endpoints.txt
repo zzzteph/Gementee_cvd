@@ -4197,6 +4197,7 @@ https://ibzpink.waddinxveen.nl
 https://ibzpink.wageningen.nl
 https://ibzpink.wassenaar.nl
 https://ibzpink.weert.nl
+https://ibzpink.westbetuwe.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -4533,6 +4534,7 @@ https://kaart.soest.nl
 https://kaart.tilburg.nl
 https://kaart.tst.utrecht.nl
 https://kaart.utrecht.nl
+https://kaart.westbetuwe.nl
 https://kaart.westerkwartier.nl
 https://kaart.zandvoort.nl
 https://kaarten-test.molenlanden.nl
