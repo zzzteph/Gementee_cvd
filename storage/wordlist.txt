@@ -31,8 +31,8 @@ open
 afspraak
 meldingen
 raad
-betalen
 broker
+betalen
 parkeren
 api.meldingen
 geo
@@ -85,6 +85,7 @@ digikoppeling.test
 parkeren-acc
 acc-broker
 connect
+preprodbroker
 portaal
 parkeren-test
 piwik
@@ -94,7 +95,6 @@ mks
 test-intranet
 dtestloket
 cmsintranet
-preprodbroker
 siam
 financien
 bgt
@@ -108,6 +108,7 @@ extranet
 govroam
 samen
 test-cmsintranet
+e
 verkiezingen
 snelbalie
 api.betalen
@@ -131,7 +132,6 @@ dtestmidoffice
 squit2go
 mijnzorg
 vergunningintaker
-e
 mijninkomen
 afvalkalender
 dali
@@ -172,6 +172,7 @@ bag
 lyncdiscover
 zac
 gasten
+formulieren-test
 mdm
 smtp
 AutoDiscover
@@ -189,7 +190,6 @@ test-digikoppeling
 meedoen
 localhost
 fmreturn
-formulieren-test
 uc
 contentbeheer.acceptatie
 zaken.acceptatie
@@ -794,6 +794,7 @@ mo
 octobox
 tijdschrijven
 top
+uitvaartagenda
 www.stadspas
 digikoppelingtst
 leerplein
@@ -1212,6 +1213,7 @@ digitalebelastingbalie-test
 qmatic
 kofax
 egemeente
+mijn-test
 nwro
 szc
 zwemmen
@@ -1824,7 +1826,6 @@ topvorm
 uitvaartagenda-dev
 uitvaartagenda-staging
 uitvaartagenda-test
-uitvaartagenda
 www.energiepunt
 www.matenpark
 www.prijsvraag-zwembad
@@ -5818,7 +5819,6 @@ internetprod
 internettest
 ivor
 kranten
-mijn-test
 mozardprod
 raadplegenbrp
 raadsakkoord
