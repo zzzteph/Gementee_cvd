@@ -163,7 +163,6 @@ academie.goirle.nl
 academie.landgraaf.nl
 academie.nederbetuwe.nl
 academie.smallingerland.nl
-academie.weststellingwerf.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -952,7 +951,6 @@ afspraakmaken.losser.nl
 afspraakmaken.ooststellingwerf.nl
 afspraakmaken.renkum.nl
 afspraakmaken.rheden.nl
-afspraakmaken.weststellingwerf.nl
 afspraakmaken.zoetermeer.nl
 afspraakmakenenschede.losser.nl
 afspraakmakenenschedetest.losser.nl
@@ -5991,7 +5989,6 @@ iarchief.hilversum.nl
 iarchief.lochem.nl
 iarchief.ooststellingwerf.nl
 iarchief.twenterand.nl
-iarchief.weststellingwerf.nl
 iarchief.zutphen.nl
 iarchieftest.twenterand.nl
 ib.kampen.nl
@@ -6789,7 +6786,6 @@ inwonerportaal.zoetermeer.nl
 inzagecleopatra.rotterdam.nl
 iobjecten-acc.kaagenbraassem.nl
 iobjects.ooststellingwerf.nl
-iobjects.weststellingwerf.nl
 ip1060.kerkrade.nl
 iparticipatie.accp.s-hertogenbosch.nl
 iparticipatie.achtkarspelen.nl
@@ -7049,7 +7045,6 @@ kadernota2025.oss.nl
 kampen.nl
 kansshop.eemsdelta.nl
 kantoor.opsterland.nl
-kantoor.weststellingwerf.nl
 kapelle.nl
 kassaservice.brunssum.nl
 kassaservice.landgraaf.nl
@@ -8742,7 +8737,6 @@ nllwd-spider.leeuwarden.nl
 nlmwlkeb.kaagenbraassem.nl
 nln.nunspeet.nl
 nlwmoosw.ooststellingwerf.nl
-nlwmowsw.weststellingwerf.nl
 nlx-management.cg-intern.acc.utrecht.nl
 nlx-management.cg-intern.ont.utrecht.nl
 nlx.buren.nl
@@ -10884,7 +10878,6 @@ secure.voerendaal.nl
 secure.waalre.nl
 secure.weert.nl
 secure.westmaasenwaal.nl
-secure.weststellingwerf.nl
 secure.westvoorne.nl
 secure.zwartewaterland.nl
 secure1.gulpen-wittem.nl
@@ -11520,7 +11513,6 @@ squit2020.opsterland.nl
 squit2020.peelenmaas.nl
 squit2020.test.kerkrade.nl
 squit2020.test.winterswijk.nl
-squit2020.weststellingwerf.nl
 squit2020.winterswijk.nl
 squit2020publiceren.eijsden-margraten.nl
 squit2020publiceren.gemeentebeek.nl
@@ -11723,11 +11715,8 @@ stufddsprod.schouwen-duiveland.nl
 stufddstest.schouwen-duiveland.nl
 stuftest.peelenmaas.nl
 stwapp02.ooststellingwerf.nl
-stwapp02.weststellingwerf.nl
 stwidocosw02.ooststellingwerf.nl
-stwidocwsw02.weststellingwerf.nl
 stwmksoost01.ooststellingwerf.nl
-stwmkswest01.weststellingwerf.nl
 subsidie-api.utrecht.nl
 subsidie-backend.maassluis.nl
 subsidie-staging.utrecht.nl
@@ -11872,7 +11861,6 @@ talent.apeldoorn.nl
 talentcenter.almere.nl
 talentcenter2.almere.nl
 talentenbank.ooststellingwerf.nl
-talentenbank.weststellingwerf.nl
 talentencoach.gemeentewestland.nl
 taskflow.t-diel.nl
 tasman375.groningen.nl
@@ -12502,7 +12490,6 @@ tripleforms.nieuwegein.nl
 tripleformst.nieuwegein.nl
 tripleproductie.heerlen.nl
 tripletest.heerlen.nl
-triton.weststellingwerf.nl
 trobit.gooisemeren.nl
 trobit.gorinchem.nl
 trouwen.tynaarlo.nl
@@ -13636,7 +13623,6 @@ www.aalsmeer.nl
 www.aalten.nl
 www.aanvraagparkeren.groningen.nl
 www.aanvraagparkerenacc.groningen.nl
-www.academie.weststellingwerf.nl
 www.acc.bodegraven-reeuwijk.nl
 www.acc.denhaag.nl
 www.acc.echt-susteren.nl
@@ -13668,7 +13654,6 @@ www.afspraak.peelenmaas.nl
 www.afspraak.zandvoort.nl
 www.afspraakmaken.ooststellingwerf.nl
 www.afspraakmaken.rheden.nl
-www.afspraakmaken.weststellingwerf.nl
 www.afspraken-abs.groningen.nl
 www.afspraken-tst.groningen.nl
 www.afspraken-tstabs.groningen.nl
@@ -14091,7 +14076,6 @@ www.hvd.groningen.nl
 www.hyperdrive.peelenmaas.nl
 www.iarchief.ooststellingwerf.nl
 www.iarchief.twenterand.nl
-www.iarchief.weststellingwerf.nl
 www.iarchieftest.twenterand.nl
 www.ibabs-acc.gemeente-oldambt.nl
 www.ibabs.gemeente-oldambt.nl
@@ -14121,7 +14105,6 @@ www.intranet.kampen.nl
 www.intranet.oegstgeest.nl
 www.intranet.peelenmaas.nl
 www.iobjecten-acc.kaagenbraassem.nl
-www.iobjects.weststellingwerf.nl
 www.itstore.kaagenbraassem.nl
 www.janvanzanen-acc.denhaag.nl
 www.janvanzanen.denhaag.nl
@@ -14147,7 +14130,6 @@ www.kaarten.sudwestfryslan.nl
 www.kaartlaag.rotterdam.nl
 www.kaartviewer.gemeentehulst.nl
 www.kampen.nl
-www.kantoor.weststellingwerf.nl
 www.kapelle.nl
 www.katwijk.nl
 www.kerkrade.nl
@@ -14536,7 +14518,6 @@ www.stuf-topicus.sudwestfryslan.nl
 www.stuf.peelenmaas.nl
 www.stuftest.peelenmaas.nl
 www.stwidocosw02.ooststellingwerf.nl
-www.stwidocwsw02.weststellingwerf.nl
 www.subsidies.sudwestfryslan.nl
 www.sudwestfryslan.nl
 www.suikerkwartier.groningen.nl
@@ -14547,7 +14528,6 @@ www.suite4sd-test.peelenmaas.nl
 www.t-diel.nl
 www.tab0751.sudwestfryslan.nl
 www.talentenbank.ooststellingwerf.nl
-www.talentenbank.weststellingwerf.nl
 www.telewerken.hellevoetsluis.nl
 www.telewerken.peelenmaas.nl
 www.terneuzen.nl
