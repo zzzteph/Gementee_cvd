@@ -8,6 +8,7 @@ https://esuitenotubiz-test.westvoorne.nl
 https://gemeenteraad.westvoorne.nl
 https://grofvuil.westvoorne.nl
 https://iburgerzaken.westvoorne.nl
+https://ibzpink.westvoorne.nl
 https://mijnuitkering.westvoorne.nl
 https://preprod-mijnuitkering.westvoorne.nl
 https://remote.westvoorne.nl

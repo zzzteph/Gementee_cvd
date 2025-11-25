@@ -4202,6 +4202,7 @@ https://ibzpink.weert.nl
 https://ibzpink.westbetuwe.nl
 https://ibzpink.westerkwartier.nl
 https://ibzpink.weststellingwerf.nl
+https://ibzpink.westvoorne.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
