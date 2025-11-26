@@ -325,7 +325,6 @@ http://felix.staphorst.nl
 http://felix.t-diel.nl
 http://felix.vlieland.nl
 http://felix.waalwijk.nl
-http://felix.wierden.nl
 http://felix.winterswijk.nl
 http://felix.zwartewaterland.nl
 http://flash.scherpenzeel.nl
@@ -422,6 +421,7 @@ http://open.halderberge.nl
 http://open.nuenen.nl
 http://open.sonenbreugel.nl
 http://open.staphorst.nl
+http://open.wierden.nl
 http://open.zuidplas.nl
 http://opendata-contrast.zoetermeer.nl
 http://openformulieren-zgw.acc.denhaag.nl
@@ -460,7 +460,6 @@ http://preproductie.deurne.nl
 http://preproductie.gorinchem.nl
 http://preproductie.leudal.nl
 http://preproductie.voorschoten.nl
-http://preproductie.wierden.nl
 http://raadsagenda.oirschot.nl
 http://redirector.alkmaar.nl
 http://regentesseplein.denhaag.nl
@@ -488,6 +487,7 @@ http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.halderberge.nl
 http://simcms-open.leudal.nl
 http://simcms-open.oirschot.nl
+http://simcms-open.wierden.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms-werkenbij.t-diel.nl
 http://simcms-werkenvoor.westerkwartier.nl
@@ -503,7 +503,6 @@ http://simcms.roerdalen.nl
 http://simcms.schiermonnikoog.nl
 http://simcms.urk.nl
 http://simcms.vlissingen.nl
-http://simcms.wierden.nl
 http://simcms.winterswijk.nl
 http://simform-preproductie.heerenveen.nl
 http://simform-preproductie.t-diel.nl
@@ -521,7 +520,6 @@ http://simsite.mookenmiddelaar.nl
 http://simsite.opsterland.nl
 http://simsite.pijnacker-nootdorp.nl
 http://simsite.twenterand.nl
-http://simsite.wierden.nl
 http://simsite.zoetermeer.nl
 http://simsite.zwartewaterland.nl
 http://smartphone.kampen.nl
@@ -675,7 +673,6 @@ http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.zaanstad.nl
 http://www.weststellingwerf.nl
-http://www.wierden.nl
 http://www.wij.groningen.nl
 http://www.woensdrecht.nl
 http://www.woz-portaal-eemnes.baarn.nl
@@ -3289,6 +3286,7 @@ https://felix.veere.nl
 https://felix.voorschoten.nl
 https://felix.wassenaar.nl
 https://felix.weststellingwerf.nl
+https://felix.wierden.nl
 https://felix.woensdrecht.nl
 https://felix.zundert.nl
 https://felixburgerzaken.nissewaard.nl
@@ -4203,6 +4201,7 @@ https://ibzpink.westbetuwe.nl
 https://ibzpink.westerkwartier.nl
 https://ibzpink.weststellingwerf.nl
 https://ibzpink.westvoorne.nl
+https://ibzpink.wierden.nl
 https://ica.winterswijk.nl
 https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
@@ -6276,6 +6275,7 @@ https://preproductie.steenwijkerland.nl
 https://preproductie.t-diel.nl
 https://preproductie.valkenswaard.nl
 https://preproductie.westerkwartier.nl
+https://preproductie.wierden.nl
 https://preproductie.zuidplas.nl
 https://preproductie.zwartewaterland.nl
 https://preproductiebroker.gemeentewesterveld.nl
@@ -6674,7 +6674,6 @@ https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.doetinchem.nl
 https://simcms-open.gemeentebeek.nl
 https://simcms-open.staphorst.nl
-https://simcms-open.wierden.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-preproductie.bladel.nl
@@ -6744,6 +6743,7 @@ https://simsite.veendam.nl
 https://simsite.veere.nl
 https://simsite.westerkwartier.nl
 https://simsite.weststellingwerf.nl
+https://simsite.wierden.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sint-michielsgestel.nl
@@ -8405,6 +8405,7 @@ https://www.westervoort.nl
 https://www.westerwolde.groningen.nl
 https://www.westerwolde.nl
 https://www.westvoorne.nl
+https://www.wierden.nl
 https://www.wijchen.nl
 https://www.wijdemeren.nl
 https://www.wijkbijduurstede.nl

@@ -11140,7 +11140,6 @@ simcms.westerkwartier.nl
 simcms.westmaasenwaal.nl
 simcms.weststellingwerf.nl
 simcms.westvoorne.nl
-simcms.wierden.nl
 simcms.wijchen.nl
 simcms.winterswijk.nl
 simcms.woensdrecht.nl

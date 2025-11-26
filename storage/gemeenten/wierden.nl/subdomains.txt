@@ -16,7 +16,6 @@ preproductie.wierden.nl
 probeer.wierden.nl
 restore.wierden.nl
 simcms-open.wierden.nl
-simcms.wierden.nl
 simsite.wierden.nl
 sync.wierden.nl
 test-ipa.wierden.nl
