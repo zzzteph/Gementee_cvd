@@ -6368,7 +6368,6 @@ ibzpink.zutphen.nl
 ibzpink.zwartewaterland.nl
 ibzpink.zwolle.nl
 ica.winterswijk.nl
-icclient.wijdemeren.nl
 icm-ast.asten.nl
 icontroler-api.zwolle.nl
 icontroler.zwolle.nl
@@ -6823,7 +6822,6 @@ iparticipatie.velsen.nl
 iparticipatie.waddinxveen.nl
 iparticipatie.weststellingwerf.nl
 iparticipatie.wierden.nl
-iparticipatie.wijdemeren.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
 iris.acc.denhaag.nl
@@ -7602,7 +7600,6 @@ lyncdiscover.kerkrade.nl
 lyncdiscover.landgraaf.nl
 lyncdiscover.oostzaan.nl
 lyncdiscover.urk.nl
-lyncdiscover.wijdemeren.nl
 lyncdiscover.wormerland.nl
 lyncrp.houten.nl
 lyncweb.haarlem.nl
@@ -9374,7 +9371,6 @@ owa.nieuwegein.nl
 owa.schagen.nl
 owa.valkenburg.nl
 owa.veere.nl
-owas.wijdemeren.nl
 owncloud.zandvoort.nl
 ows-ahp-test.groningen.nl
 ows-ahp.groningen.nl
@@ -11290,7 +11286,6 @@ sip.houten.nl
 sip.landgraaf.nl
 sip.oostzaan.nl
 sip.urk.nl
-sip.wijdemeren.nl
 sip.wormerland.nl
 sip2.urk.nl
 siraskalot.delft.nl
@@ -11301,7 +11296,6 @@ site2008.woensdrecht.nl
 sittard-geleen.nl
 sjaak.test.zutphen.nl
 sjaak.zutphen.nl
-skype.wijdemeren.nl
 sl.voorst.nl
 sleutelkwartier.waddinxveen.nl
 sliedrecht-checker-preprod.sliedrecht.nl
@@ -12040,7 +12034,6 @@ test-ipa.velsen.nl
 test-ipa.waddinxveen.nl
 test-ipa.weststellingwerf.nl
 test-ipa.wierden.nl
-test-ipa.wijdemeren.nl
 test-jip.hofvantwente.nl
 test-jip.vijfheerenlanden.nl
 test-kaart.almere.nl
@@ -13013,7 +13006,6 @@ wbs003.assen.nl
 wbs004.assen.nl
 wcf.middendelfland.nl
 wcs.amersfoort.nl
-wdm-fepoolweb-ext.wijdemeren.nl
 wdm01.gooisemeren.nl
 wdvggm.waddinxveen.nl
 web.alblasserdam.nl
@@ -13047,7 +13039,6 @@ webcon.castricum.nl
 webcon.hoorn.nl
 webcon.peelenmaas.nl
 webconf.assen.nl
-webconf.wijdemeren.nl
 webconfedge.zwolle.nl
 webdav.doetinchem.nl
 webdav.gemeentesluis.nl

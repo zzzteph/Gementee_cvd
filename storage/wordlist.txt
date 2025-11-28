@@ -38,13 +38,13 @@ api.meldingen
 geo
 adfs
 vpn
-iparticipatie
 ruimtelijkeplannen
 zaaksysteem-accept
 belastingen
 gemeenteraad
 enterpriseenrollment
 testeloket
+iparticipatie
 pv
 test-ipa
 werkenbij
@@ -161,7 +161,6 @@ subsidies
 snelbaliepp
 vdi
 keycloak-admin
-sip
 jaarstukken
 inproces
 cryptshare
@@ -169,7 +168,7 @@ belastingportaal
 gisib
 bis
 bag
-lyncdiscover
+sip
 zac
 gasten
 formulieren-test
@@ -184,6 +183,7 @@ maps
 mailing
 gis
 nieuwsbrief
+lyncdiscover
 owa
 test-digikoppeling
 meedoen
@@ -813,7 +813,6 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
-webconf
 werknemersportaal
 www.evenementen
 www.vastgoed
@@ -1856,6 +1855,7 @@ slimbereikbaar
 wbs003
 wbs004
 web2print
+webconf
 widocmksp001
 woningdossier
 wpdagast1
@@ -6088,11 +6088,7 @@ restore
 wrd131001
 cmsinternet-acc
 cmsintranet-acc
-icclient
 ontheffingen
-owas
-skype
-wdm-fepoolweb-ext
 plek
 vmjboss01.gem-dom
 Squit2020publiceren

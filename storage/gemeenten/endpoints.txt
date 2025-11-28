@@ -4201,8 +4201,8 @@ https://ibzpink.westerkwartier.nl
 https://ibzpink.weststellingwerf.nl
 https://ibzpink.westvoorne.nl
 https://ibzpink.wierden.nl
+https://ibzpink.wijdemeren.nl
 https://ica.winterswijk.nl
-https://icclient.wijdemeren.nl
 https://ict.gemeentesluis.nl
 https://id-erfpacht-tst.amsterdam.nl
 https://id-subsidies-login.ede.nl
@@ -4854,7 +4854,6 @@ https://lvs.zwemmen.venlo.nl
 https://lyncdiscover.diemen.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
-https://lyncdiscover.wijdemeren.nl
 https://lyncdiscover.wormerland.nl
 https://m.amersfoort.nl
 https://m.lochem.nl
@@ -5896,7 +5895,6 @@ https://owa.groningen.nl
 https://owa.nieuwegein.nl
 https://owa.valkenburg.nl
 https://owa.veere.nl
-https://owas.wijdemeren.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
 https://ows-emssapi-test.groningen.nl
@@ -6750,7 +6748,6 @@ https://sintanthonis.landvancuijk.nl
 https://sip.diemen.nl
 https://sip.hellevoetsluis.nl
 https://sip.houten.nl
-https://sip.wijdemeren.nl
 https://sip.wormerland.nl
 https://siraskalot.delft.nl
 https://sisa.rotterdam.nl
@@ -6759,7 +6756,6 @@ https://site.tilburg.nl
 https://sittard-geleen.nl
 https://sjaak.test.zutphen.nl
 https://sjaak.zutphen.nl
-https://skype.wijdemeren.nl
 https://sleutelkwartier.waddinxveen.nl
 https://sliedrecht-checker-preprod.sliedrecht.nl
 https://sliedrecht-checker.sliedrecht.nl
@@ -7590,7 +7586,6 @@ https://waterberging.valkenswaard.nl
 https://waterland.nl
 https://waterweb.waterland.nl
 https://waz.rotterdam.nl
-https://wdm-fepoolweb-ext.wijdemeren.nl
 https://wdm01.gooisemeren.nl
 https://web.alblasserdam.nl
 https://web.dordrecht.nl
