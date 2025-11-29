@@ -4336,6 +4336,7 @@ edienstenburgerzaken-test.wageningen.nl
 edienstenburgerzaken-test.waterland.nl
 edienstenburgerzaken-test.westervoort.nl
 edienstenburgerzaken-test.westerwolde.nl
+edienstenburgerzaken-test.wijkbijduurstede.nl
 edienstenburgerzaken-test.winterswijk.nl
 edienstenburgerzaken-test.woerden.nl
 edienstenburgerzaken-test.wormerland.nl
@@ -4467,6 +4468,7 @@ edienstenburgerzaken.wageningen.nl
 edienstenburgerzaken.waterland.nl
 edienstenburgerzaken.westervoort.nl
 edienstenburgerzaken.westerwolde.nl
+edienstenburgerzaken.wijkbijduurstede.nl
 edienstenburgerzaken.winterswijk.nl
 edienstenburgerzaken.woerden.nl
 edienstenburgerzaken.wormerland.nl
@@ -14814,7 +14816,6 @@ zaaksysteem-accept.tilburg.nl
 zaaksysteem-accept.vlaardingen.nl
 zaaksysteem-accept.voerendaal.nl
 zaaksysteem-accept.waalre.nl
-zaaksysteem-accept.wijkbijduurstede.nl
 zaaksysteem-accept.zaltbommel.nl
 zaaksysteem-accept.zutphen.nl
 zaaksysteem-acceptatie.venlo.nl

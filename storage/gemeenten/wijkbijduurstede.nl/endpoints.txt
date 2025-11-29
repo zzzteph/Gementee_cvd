@@ -1,3 +1,5 @@
+https://edienstenburgerzaken-test.wijkbijduurstede.nl
+https://edienstenburgerzaken.wijkbijduurstede.nl
 https://geo.wijkbijduurstede.nl
 https://mijn.wijkbijduurstede.nl
 https://plek.wijkbijduurstede.nl
@@ -5,4 +7,3 @@ https://raad.wijkbijduurstede.nl
 https://ro-online.wijkbijduurstede.nl
 https://wijkbijduurstede.nl
 https://www.wijkbijduurstede.nl
-https://zaaksysteem-accept.wijkbijduurstede.nl

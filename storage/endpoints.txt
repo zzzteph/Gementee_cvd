@@ -2868,6 +2868,7 @@ https://edienstenburgerzaken-test.wageningen.nl
 https://edienstenburgerzaken-test.waterland.nl
 https://edienstenburgerzaken-test.westervoort.nl
 https://edienstenburgerzaken-test.westerwolde.nl
+https://edienstenburgerzaken-test.wijkbijduurstede.nl
 https://edienstenburgerzaken-test.winterswijk.nl
 https://edienstenburgerzaken-test.woerden.nl
 https://edienstenburgerzaken-test.wormerland.nl
@@ -2994,6 +2995,7 @@ https://edienstenburgerzaken.waalre.nl
 https://edienstenburgerzaken.waterland.nl
 https://edienstenburgerzaken.westervoort.nl
 https://edienstenburgerzaken.westerwolde.nl
+https://edienstenburgerzaken.wijkbijduurstede.nl
 https://edienstenburgerzaken.winterswijk.nl
 https://edienstenburgerzaken.woerden.nl
 https://edienstenburgerzaken.wormerland.nl
@@ -8487,7 +8489,6 @@ https://zaaksysteem-accept.tilburg.nl
 https://zaaksysteem-accept.vlaardingen.nl
 https://zaaksysteem-accept.voerendaal.nl
 https://zaaksysteem-accept.waalre.nl
-https://zaaksysteem-accept.wijkbijduurstede.nl
 https://zaaksysteem-accept.zaltbommel.nl
 https://zaaksysteem-accept.zutphen.nl
 https://zaaksysteem-acceptatie.venlo.nl

@@ -39,13 +39,13 @@ geo
 adfs
 vpn
 ruimtelijkeplannen
-zaaksysteem-accept
 belastingen
 gemeenteraad
 enterpriseenrollment
 testeloket
 iparticipatie
 pv
+zaaksysteem-accept
 test-ipa
 werkenbij
 dacceptatieloket
