@@ -1,6 +1,6 @@
 http://autodiscover.winterswijk.nl
 http://felix.winterswijk.nl
-http://simcms.winterswijk.nl
+http://preproductie.winterswijk.nl
 https://Squit2020publiceren.winterswijk.nl
 https://acceptatie.winterswijk.nl
 https://afspraken.winterswijk.nl
@@ -8,8 +8,6 @@ https://atlasomgevingskwaliteit.winterswijk.nl
 https://belasting-loket.winterswijk.nl
 https://belastingen.winterswijk.nl
 https://brs.winterswijk.nl
-https://cloudadapter-prod.winterswijk.nl
-https://cloudadapter-test.winterswijk.nl
 https://connect.acceptatie.winterswijk.nl
 https://connect.test.winterswijk.nl
 https://connect.winterswijk.nl
@@ -35,15 +33,15 @@ https://portal.winterswijk.nl
 https://preprod-belasting-loket.winterswijk.nl
 https://preprod-mijnplan.winterswijk.nl
 https://probeer.winterswijk.nl
-https://remote.winterswijk.nl
 https://ro.winterswijk.nl
 https://router.winterswijk.nl
+https://simcms-preproductie.winterswijk.nl
+https://simcms.winterswijk.nl
 https://squit2020.acceptatie.winterswijk.nl
 https://squit2020.test.winterswijk.nl
 https://squit2020.winterswijk.nl
 https://squit2020publiceren.winterswijk.nl
 https://testeloket.winterswijk.nl
-https://waarmerk.winterswijk.nl
 https://webmail.winterswijk.nl
 https://winterswijk.nl
 https://wwcs02.ad.winterswijk.nl

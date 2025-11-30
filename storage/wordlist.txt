@@ -307,6 +307,7 @@ openformulieren
 test-mijn
 awmag
 beeldbank-bo
+simcms-preproductie
 intranetcms
 digikoppelingtest
 acc.piwik
@@ -362,7 +363,6 @@ test-podiumd-logs
 plannen
 geoserver
 nhr
-simcms-preproductie
 uca
 esb
 wifi

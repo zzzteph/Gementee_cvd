@@ -460,6 +460,7 @@ http://preproductie.deurne.nl
 http://preproductie.gorinchem.nl
 http://preproductie.leudal.nl
 http://preproductie.voorschoten.nl
+http://preproductie.winterswijk.nl
 http://raadsagenda.oirschot.nl
 http://redirector.alkmaar.nl
 http://regentesseplein.denhaag.nl
@@ -503,7 +504,6 @@ http://simcms.roerdalen.nl
 http://simcms.schiermonnikoog.nl
 http://simcms.urk.nl
 http://simcms.vlissingen.nl
-http://simcms.winterswijk.nl
 http://simform-preproductie.heerenveen.nl
 http://simform-preproductie.t-diel.nl
 http://simform.beuningen.nl
@@ -2229,11 +2229,9 @@ https://clicksfm.stichtsevecht.nl
 https://cloud.wageningen.nl
 https://cloudadapter-acc.waterland.nl
 https://cloudadapter-prd.waterland.nl
-https://cloudadapter-prod.winterswijk.nl
 https://cloudadapter-prod.zutphen.nl
 https://cloudadapter-test.landsmeer.nl
 https://cloudadapter-test.meppel.nl
-https://cloudadapter-test.winterswijk.nl
 https://cloudadapter-test.zutphen.nl
 https://cloudadapter.landsmeer.nl
 https://cloudadapter.meppel.nl
@@ -6477,7 +6475,6 @@ https://remote.nunspeet.nl
 https://remote.waalwijk.nl
 https://remote.westmaasenwaal.nl
 https://remote.westvoorne.nl
-https://remote.winterswijk.nl
 https://remote.zaanstad.nl
 https://remote.zutphen.nl
 https://renkum.nl
@@ -6676,6 +6673,7 @@ https://simcms-open.staphorst.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beuningen.nl
 https://simcms-preproductie.bladel.nl
+https://simcms-preproductie.winterswijk.nl
 https://simcms-samenindebuurt.heerlen.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
@@ -6706,6 +6704,7 @@ https://simcms.waalwijk.nl
 https://simcms.wassenaar.nl
 https://simcms.westmaasenwaal.nl
 https://simcms.weststellingwerf.nl
+https://simcms.winterswijk.nl
 https://simcms.zuidplas.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.vlaardingen.nl
@@ -7555,7 +7554,6 @@ https://waarmerk.veendam.nl
 https://waarmerk.waterland.nl
 https://waarmerk.westerwolde.nl
 https://waarmerk.westvoorne.nl
-https://waarmerk.winterswijk.nl
 https://waarmerk.woensdrecht.nl
 https://wachtwoord.alkmaar.nl
 https://wachtwoord.almere.nl

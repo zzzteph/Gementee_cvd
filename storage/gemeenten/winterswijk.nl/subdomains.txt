@@ -44,6 +44,7 @@ probeer.winterswijk.nl
 remote.winterswijk.nl
 ro.winterswijk.nl
 router.winterswijk.nl
+simcms-preproductie.winterswijk.nl
 simcms.winterswijk.nl
 squit2020.acceptatie.winterswijk.nl
 squit2020.test.winterswijk.nl
