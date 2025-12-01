@@ -407,6 +407,7 @@ lyncweb
 prefill
 huisstijl
 mijndesktop
+drop
 www2
 pdc
 testafspraken
@@ -515,7 +516,6 @@ acc-abc
 wonen
 awtunnel
 service
-drop
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
