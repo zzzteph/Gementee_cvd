@@ -100,6 +100,7 @@ financien
 bgt
 pki
 osbacc
+snelbalie
 duurzaam
 apps
 acc-formulier
@@ -111,7 +112,6 @@ simcms-open
 test-cmsintranet
 e
 verkiezingen
-snelbalie
 api.betalen
 acc-contact
 acc-mijn
