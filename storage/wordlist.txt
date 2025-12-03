@@ -25,8 +25,8 @@ eloket
 dkd
 werkplek
 portal
-waarmerk
 acc
+waarmerk
 open
 afspraak
 meldingen
@@ -110,6 +110,7 @@ govroam
 samen
 simcms-open
 test-cmsintranet
+mijnzorg
 e
 verkiezingen
 api.betalen
@@ -130,7 +131,6 @@ www.webmail
 filecap
 dtestmidoffice
 squit2go
-mijnzorg
 vergunningintaker
 mijninkomen
 afvalkalender
@@ -254,6 +254,7 @@ mobiel
 mijnsociaaldomein
 cloudadapter-prod
 handhaving
+www.denkmee
 mijnzorg-acc
 vergunningintaker-preprod
 praatmee
@@ -284,7 +285,6 @@ squit2020.acceptatie
 www.samen
 woz-portaal
 www.intranet
-www.denkmee
 midoffice
 geovisia
 gisib-test
@@ -6112,6 +6112,7 @@ site2008
 geoxchange-prod
 geoxchange-test
 relay2
+mijnzorgacc
 sat
 uat
 acc-loket

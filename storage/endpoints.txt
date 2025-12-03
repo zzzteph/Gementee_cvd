@@ -1281,7 +1281,6 @@ https://afspraken.veendam.nl
 https://afspraken.weert.nl
 https://afspraken.westerwolde.nl
 https://afspraken.winterswijk.nl
-https://afspraken.wormerland.nl
 https://afspraken.zeewolde.nl
 https://afspraken.zevenaar.nl
 https://afspraken.zwartewaterland.nl
@@ -4857,7 +4856,6 @@ https://lvs.zwemmen.venlo.nl
 https://lyncdiscover.diemen.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
-https://lyncdiscover.wormerland.nl
 https://m.amersfoort.nl
 https://m.lochem.nl
 https://m.voorst.nl
@@ -5352,6 +5350,8 @@ https://mijnzorg.roosendaal.nl
 https://mijnzorg.s-hertogenbosch.nl
 https://mijnzorg.utrecht.nl
 https://mijnzorg.waalwijk.nl
+https://mijnzorg.wormerland.nl
+https://mijnzorgacc.wormerland.nl
 https://milieudienst.groningen.nl
 https://milieueducatie.denhaag.nl
 https://mill.landvancuijk.nl
@@ -6753,7 +6753,6 @@ https://sintanthonis.landvancuijk.nl
 https://sip.diemen.nl
 https://sip.hellevoetsluis.nl
 https://sip.houten.nl
-https://sip.wormerland.nl
 https://siraskalot.delft.nl
 https://sisa.rotterdam.nl
 https://site.dijkenwaard.nl
@@ -7999,6 +7998,7 @@ https://www.denhaagfietst-acc.denhaag.nl
 https://www.denhelder.nl
 https://www.denkmee.tilburg.nl
 https://www.denkmee.veenendaal.nl
+https://www.denkmee.wormerland.nl
 https://www.derondevenen.nl
 https://www.deventer.nl
 https://www.devgovrs1.deventer.nl

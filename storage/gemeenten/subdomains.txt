@@ -8410,6 +8410,8 @@ mijnzorg.roosendaal.nl
 mijnzorg.s-hertogenbosch.nl
 mijnzorg.utrecht.nl
 mijnzorg.waalwijk.nl
+mijnzorg.wormerland.nl
+mijnzorgacc.wormerland.nl
 milieudienst.groningen.nl
 milieueducatie.denhaag.nl
 mill.landvancuijk.nl
@@ -12959,7 +12961,6 @@ waarmerk.westvoorne.nl
 waarmerk.wijkbijduurstede.nl
 waarmerk.winterswijk.nl
 waarmerk.woensdrecht.nl
-waarmerk.wormerland.nl
 waarmerk.zandvoort.nl
 waarmerk.zevenaar.nl
 waarstemjijvoor.kerkrade.nl
@@ -13817,6 +13818,7 @@ www.denkmee.t-diel.nl
 www.denkmee.tilburg.nl
 www.denkmee.veenendaal.nl
 www.denkmee.woerden.nl
+www.denkmee.wormerland.nl
 www.derondevenen.nl
 www.destemvan.groningen.nl
 www.desuikerzijde.groningen.nl
