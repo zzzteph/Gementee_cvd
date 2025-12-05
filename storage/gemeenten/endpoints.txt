@@ -12,7 +12,6 @@ http://Autodiscover.hilversum.nl
 http://a-consent.sarphati.amsterdam.nl
 http://aanmeldenparkeren.amsterdam.nl
 http://acc-keycloak.gemert-bakel.nl
-http://acc-zaanlink.zaanstad.nl
 http://acc.aip.amsterdam.nl
 http://acc.hior.amsterdam.nl
 http://acc.schoolwijzer.amsterdam.nl
@@ -675,7 +674,6 @@ http://www.vlissingen.nl
 http://www.voorschoten.nl
 http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
-http://www.werkenbij.zaanstad.nl
 http://www.weststellingwerf.nl
 http://www.wij.groningen.nl
 http://www.woz-portaal-eemnes.baarn.nl
@@ -994,6 +992,7 @@ https://acc-podiumd-zac.raalte.nl
 https://acc-podiumd.sschosting.nl.assen.nl
 https://acc-subsidie.delft.nl
 https://acc-subsidiebeheer.delft.nl
+https://acc-zaanlink.zaanstad.nl
 https://acc-zaanlinkcms.zaanstad.nl
 https://acc-zac.assen.nl
 https://acc-zac.borger-odoorn.nl
@@ -3050,6 +3049,7 @@ https://eikenhof.heemskerk.nl
 https://eindhoven.nl
 https://elburg.nl
 https://elise.rotterdam.nl
+https://eloket-acc.zaanstad.nl
 https://eloket-sociaaldomein.krimpenerwaard.nl
 https://eloket-test-sociaaldomein.krimpenerwaard.nl
 https://eloket-test.gemeentehulst.nl
@@ -3751,6 +3751,9 @@ https://govpub.sudwestfryslan.nl
 https://gp.deventer.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
+https://gpp-app.zaanstad.nl
+https://gpp-publicatiebank.zaanstad.nl
+https://gpp-zoeken.zaanstad.nl
 https://gpt.apeldoorn.nl
 https://grave.landvancuijk.nl
 https://groenekaart.leiden.nl
@@ -5246,7 +5249,6 @@ https://mijnloket.nieuwkoop.nl
 https://mijnloonkostensubsidie-acc.utrecht.nl
 https://mijnloonkostensubsidie.utrecht.nl
 https://mijnmail.zaanstad.nl
-https://mijnmailv3.zaanstad.nl
 https://mijnmobiel.zaanstad.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
@@ -5740,6 +5742,7 @@ https://open.teylingen.nl
 https://open.tilburg.nl
 https://open.tubbergen.nl
 https://open.utrecht.nl
+https://open.zaanstad.nl
 https://open.zoetermeer.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
@@ -6167,6 +6170,7 @@ https://preprod-burgerportaal.hardenberg.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-ediensten-sociaaldomein.denhelder.nl
 https://preprod-edienstensociaaldomein.heerenveen.nl
+https://preprod-edienstsociaal-mijnaanvraag.zaanstad.nl
 https://preprod-formulieren.buren.nl
 https://preprod-formulieren.gemeentehw.nl
 https://preprod-formulieren.pijnacker-nootdorp.nl
@@ -7021,6 +7025,7 @@ https://survey.sudwestfryslan.nl
 https://svhsd-ot.berichtenverkeer.tilburg.nl
 https://svhsd.berichtenverkeer.tilburg.nl
 https://svs-acc.almere.nl
+https://swt.zaanstad.nl
 https://t-diel.nl
 https://taakveldenbegroting2023.bronckhorst.nl
 https://taakveldenrekening2022.bronckhorst.nl
@@ -7135,7 +7140,6 @@ https://test-trefpunt.deurne.nl
 https://test-vergoedingen.nijmegen.nl
 https://test-website-westland.gemeentewestland.nl
 https://test-witgoed.middendrenthe.nl
-https://test-wiz.zaanstad.nl
 https://test-zaakloket.ameland.nl
 https://test-zaakloket.schiermonnikoog.nl
 https://test-zaakloket.terschelling.nl
@@ -8145,7 +8149,6 @@ https://www.inkomensondersteuning.nijmegen.nl
 https://www.intranet.kampen.nl
 https://www.intranet.oegstgeest.nl
 https://www.jijmaaktdebuurt.openstad.enschede.nl
-https://www.jongerenloket.zaanstad.nl
 https://www.jouwgrotemarkt.groningen.nl
 https://www.kaagenbraassem.nl
 https://www.kaartlaag.rotterdam.nl
