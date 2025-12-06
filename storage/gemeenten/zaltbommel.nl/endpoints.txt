@@ -1,5 +1,6 @@
 http://autodiscover.zaltbommel.nl
 https://iburgerzaken.zaltbommel.nl
+https://ibzpink.zaltbommel.nl
 https://mijn.zaltbommel.nl
 https://mijnhulp-test.zaltbommel.nl
 https://mijnhulp.zaltbommel.nl

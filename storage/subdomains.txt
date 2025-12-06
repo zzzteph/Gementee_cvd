@@ -7748,7 +7748,6 @@ mail.wierden.nl
 mail.wijdemeren.nl
 mail.winterswijk.nl
 mail.wormerland.nl
-mail.zaltbommel.nl
 mail.zandvoort.nl
 mail.zutphen.nl
 mail.zwartewaterland.nl

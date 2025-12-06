@@ -7,7 +7,6 @@ formulieren.zaltbommel.nl
 gemeenteraad.zaltbommel.nl
 iburgerzaken.zaltbommel.nl
 ibzpink.zaltbommel.nl
-mail.zaltbommel.nl
 mijn.zaltbommel.nl
 mijnhulp-test.zaltbommel.nl
 mijnhulp.zaltbommel.nl
