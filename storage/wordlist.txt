@@ -25,9 +25,9 @@ eloket
 dkd
 werkplek
 portal
+open
 acc
 waarmerk
-open
 afspraak
 meldingen
 raad
@@ -1188,6 +1188,7 @@ mijnwerkplek
 www.auth
 mijnpost
 gplan
+www.open
 analytics
 cloudconnector
 edison-acc
@@ -4875,7 +4876,6 @@ www.belastingbalie.acc
 www.bi
 www.mijndesktop
 www.netwerk
-www.open
 www.siam
 www.testeloket
 www.vibe
@@ -6186,10 +6186,13 @@ bouwdossier
 code.intern
 code
 code2
+depot
 docu
 nlgemzdv.intern
 owncloud
 stroomlijn.intern
+test-open
+testdepot
 thuis
 www.bam
 www.code.intern

@@ -3494,6 +3494,7 @@ denkmee.veenendaal.nl
 denkmee.venray.nl
 denkmee.woerden.nl
 denkmee.wormerland.nl
+depot.zandvoort.nl
 derdenws.sozawe.rotterdam.nl
 derdenwstest.sozawe.rotterdam.nl
 derondevenen.nl
@@ -9125,6 +9126,7 @@ open.utrecht.nl
 open.westmaasenwaal.nl
 open.wierden.nl
 open.zaanstad.nl
+open.zandvoort.nl
 open.zoetermeer.nl
 open.zuidplas.nl
 openagenda.ridderkerk.nl
@@ -12091,6 +12093,7 @@ test-objecttypen.enschede.nl
 test-objecttypen.gemert-bakel.nl
 test-objecttypen.rotterdam.nl
 test-objecttypen.zwolle.nl
+test-open.zandvoort.nl
 test-openklant.assen.nl
 test-openklant.enschede.nl
 test-openklant.gemert-bakel.nl
@@ -12246,6 +12249,7 @@ testcms-intranet.midden-groningen.nl
 testcms-jip.hofvantwente.nl
 testcms-markt1.nunspeet.nl
 testcorsa.gulpen-wittem.nl
+testdepot.zandvoort.nl
 testdigid.arnhem.nl
 testdigid.denhaag.nl
 testdigikoppeling.haarlemmermeer.nl
@@ -14313,6 +14317,7 @@ www.oostzaan.nl
 www.open-notificaties.ot.denhaag.nl
 www.open-zaak.ot.denhaag.nl
 www.open.rhenen.nl
+www.open.zandvoort.nl
 www.openstad.apeldoorn.nl
 www.openstad.deventer.nl
 www.openstad.gemeentewestland.nl
