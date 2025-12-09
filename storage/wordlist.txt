@@ -25,8 +25,8 @@ eloket
 dkd
 werkplek
 portal
-open
 acc
+open
 waarmerk
 afspraak
 meldingen
@@ -1076,6 +1076,7 @@ belasting-loket
 e2s
 parkeerproducten
 siem
+geoloket
 coda
 return
 www.thuiswerken
@@ -3778,7 +3779,6 @@ siem2
 test-cmsextranet
 test-extranet
 email.privacy
-geoloket
 bijeen
 hsdjbappdb01
 maisflexis

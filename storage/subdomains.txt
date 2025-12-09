@@ -621,6 +621,7 @@ acc.westerwolde.nl
 acc.wonen.zaken.amsterdam.nl
 acc.woz-loket.harlingen.nl
 acc.zandvoort.nl
+acc.zeist.nl
 acc.zevenaar.nl
 acc.zorg.voerendaal.nl
 acc.zrc.data.amsterdam.nl
@@ -5510,6 +5511,7 @@ geokoppeling-t.soest.nl
 geokoppeling.debilt.nl
 geokoppeling.soest.nl
 geoloket.heumen.nl
+geoloket.zeist.nl
 geoplaza.noordoostpolder.nl
 geopoort.zwolle.nl
 geoportaal.enschede.nl
@@ -6192,6 +6194,7 @@ iburgerzaken.wijchen.nl
 iburgerzaken.wijdemeren.nl
 iburgerzaken.woensdrecht.nl
 iburgerzaken.zaltbommel.nl
+iburgerzaken.zeist.nl
 iburgerzaken.zundert.nl
 iburgerzaken.zutphen.nl
 iburgerzaken.zwartewaterland.nl
@@ -6371,6 +6374,7 @@ ibzpink.wijchen.nl
 ibzpink.wijdemeren.nl
 ibzpink.woensdrecht.nl
 ibzpink.zaltbommel.nl
+ibzpink.zeist.nl
 ibzpink.zundert.nl
 ibzpink.zutphen.nl
 ibzpink.zwartewaterland.nl

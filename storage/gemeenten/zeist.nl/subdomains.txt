@@ -1,3 +1,4 @@
+acc.zeist.nl
 acctest.zeist.nl
 afspraak.zeist.nl
 autodiscover.zeist.nl
@@ -10,6 +11,9 @@ digikoppeling.zeist.nl
 edienstenburgerzaken-test.zeist.nl
 edienstenburgerzaken.zeist.nl
 enterpriseregistration.zeist.nl
+geoloket.zeist.nl
+iburgerzaken.zeist.nl
+ibzpink.zeist.nl
 intranet.zeist.nl
 mijn.zeist.nl
 rds.zeist.nl

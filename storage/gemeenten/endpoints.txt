@@ -550,7 +550,6 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gemeentebeek.nl
-http://test-cmsintranet.zeist.nl
 http://test-cmsjip.vijfheerenlanden.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-dok.dronten.nl
@@ -566,6 +565,7 @@ http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.sittard-geleen.nl
 http://test-intranet.wageningen.nl
+http://test-intranet.zeist.nl
 http://test-jip.hofvantwente.nl
 http://test-jip.vijfheerenlanden.nl
 http://test-nopnet.noordoostpolder.nl
@@ -3639,6 +3639,7 @@ https://geografie.bronckhorst.nl
 https://geoinformatie.dongen.nl
 https://geoinformatie.test.denhaag.nl
 https://geoloket.heumen.nl
+https://geoloket.zeist.nl
 https://geoplaza.noordoostpolder.nl
 https://geopoort.zwolle.nl
 https://geoportaal.enschede.nl
@@ -4056,6 +4057,7 @@ https://iburgerzaken.wierden.nl
 https://iburgerzaken.wijdemeren.nl
 https://iburgerzaken.woensdrecht.nl
 https://iburgerzaken.zaltbommel.nl
+https://iburgerzaken.zeist.nl
 https://iburgerzaken.zundert.nl
 https://iburgerzaken.zutphen.nl
 https://iburgerzaken.zwartewaterland.nl
@@ -4208,6 +4210,7 @@ https://ibzpink.wierden.nl
 https://ibzpink.wijdemeren.nl
 https://ibzpink.woensdrecht.nl
 https://ibzpink.zaltbommel.nl
+https://ibzpink.zeist.nl
 https://ica.winterswijk.nl
 https://ict.gemeentesluis.nl
 https://id-erfpacht-tst.amsterdam.nl
@@ -7068,6 +7071,7 @@ https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
 https://test-cmsintranet.wageningen.nl
+https://test-cmsintranet.zeist.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssamenatwork.stichtsevecht.nl
 https://test-cmssocial.montferland.info
@@ -7090,7 +7094,6 @@ https://test-insite.nijmegen.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.heuvelrug.nl
 https://test-intranet.velsen.nl
-https://test-intranet.zeist.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
