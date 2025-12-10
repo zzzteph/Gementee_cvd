@@ -16,5 +16,6 @@ https://mta-sts.raad.zevenaar.nl
 https://mta-sts.zevenaar.nl
 https://parkeren.zevenaar.nl
 https://preprodbroker.zevenaar.nl
+https://social.zevenaar.nl
 https://www.zevenaar.nl
 https://zevenaar.nl

@@ -20,6 +20,7 @@ parkeren.zevenaar.nl
 piwik.zevenaar.nl
 preprodbroker.zevenaar.nl
 raad.zevenaar.nl
+social.zevenaar.nl
 waarmerk.zevenaar.nl
 www.zevenaar.nl
 zevenaar.nl

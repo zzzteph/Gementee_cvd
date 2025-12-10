@@ -11441,6 +11441,7 @@ sociaalportaal.dinkelland.nl
 sociaalportaal.rijssen-holten.nl
 sociaalportaal.tubbergen.nl
 social.montferland.info
+social.zevenaar.nl
 socialebasis.kampen.nl
 socialekaart.echt-susteren.nl
 socialekaart.ede.nl

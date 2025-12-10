@@ -1160,6 +1160,7 @@ witgoed
 corsa
 mymeeting
 scep
+social
 login-pre
 services-test
 awmail
@@ -4328,7 +4329,6 @@ datamask
 filter
 flowise
 orbit
-social
 squitxo-server-service
 test-cmssocial
 test-social
