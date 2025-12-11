@@ -3,6 +3,7 @@ afspraakmaken.zoetermeer.nl
 aiz.zoetermeer.nl
 beeldbellen.zoetermeer.nl
 belastingen.zoetermeer.nl
+berichten.zoetermeer.nl
 dkd.zoetermeer.nl
 doemee.zoetermeer.nl
 en.zoetermeer.nl
@@ -13,8 +14,12 @@ felix.zoetermeer.nl
 geoportaal.zoetermeer.nl
 gis.zoetermeer.nl
 horizon.zoetermeer.nl
+iburgerzaken.zoetermeer.nl
+ibzpink.zoetermeer.nl
 inwonerportaal-test.zoetermeer.nl
 inwonerportaal.zoetermeer.nl
+inwonersportaal-preprod.zoetermeer.nl
+inwonersportaal.zoetermeer.nl
 kcc.zoetermeer.nl
 lliam-test.zoetermeer.nl
 lliam.zoetermeer.nl

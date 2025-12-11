@@ -2314,6 +2314,7 @@ berichten.soest.nl
 berichten.sudwestfryslan.nl
 berichten.uitgeest.nl
 berichten.valkenswaard.nl
+berichten.zoetermeer.nl
 berichten.zuidplas.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtenverkeer.gemeentewestland.nl
@@ -6195,6 +6196,7 @@ iburgerzaken.wijdemeren.nl
 iburgerzaken.woensdrecht.nl
 iburgerzaken.zaltbommel.nl
 iburgerzaken.zeist.nl
+iburgerzaken.zoetermeer.nl
 iburgerzaken.zundert.nl
 iburgerzaken.zutphen.nl
 iburgerzaken.zwartewaterland.nl
@@ -6375,6 +6377,7 @@ ibzpink.wijdemeren.nl
 ibzpink.woensdrecht.nl
 ibzpink.zaltbommel.nl
 ibzpink.zeist.nl
+ibzpink.zoetermeer.nl
 ibzpink.zundert.nl
 ibzpink.zutphen.nl
 ibzpink.zwartewaterland.nl
@@ -6794,6 +6797,8 @@ inway.test.utrecht.nl
 inway.utrecht.nl
 inwonerportaal-test.zoetermeer.nl
 inwonerportaal.zoetermeer.nl
+inwonersportaal-preprod.zoetermeer.nl
+inwonersportaal.zoetermeer.nl
 inzagecleopatra.rotterdam.nl
 iobjecten-acc.kaagenbraassem.nl
 iobjects.ooststellingwerf.nl
