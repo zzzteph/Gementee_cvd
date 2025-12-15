@@ -24,9 +24,9 @@ test
 eloket
 dkd
 werkplek
+open
 portal
 acc
-open
 waarmerk
 afspraak
 meldingen
@@ -176,6 +176,7 @@ mdm
 smtp
 AutoDiscover
 ro
+bor
 transfer
 college
 veiligdelen
@@ -192,7 +193,6 @@ fmreturn
 uc
 contentbeheer.acceptatie
 zaken.acceptatie
-bor
 inproces.acceptatie
 internetafspraken
 bestuur
@@ -6231,6 +6231,7 @@ Parkeren
 clearpass
 dgk-prd
 dgk-tst
+dtr-test
 flowmailer-tracking.parkeren
 leestenschouwbroek
 mdx
@@ -6244,6 +6245,7 @@ preprod-mijntoegang
 sigmax-acc
 sjaak.test
 sjaak
+www.leestenschouwbroek
 digik
 zwijndrecht-checker-preprod
 zwijndrecht-checker

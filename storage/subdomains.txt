@@ -2566,6 +2566,7 @@ bor.oosterhout.nl
 bor.test.oosterhout.nl
 bor.woensdrecht.nl
 bor.zundert.nl
+bor.zutphen.nl
 bordashboard.noordoostpolder.nl
 borger-odoorn.nl
 borne.nl
@@ -4098,6 +4099,7 @@ dtestmidoffice.twenterand.nl
 dtestmidoffice.waterland.nl
 dtestmidoffice.westvoorne.nl
 dtestmidoffice.zwolle.nl
+dtr-test.zutphen.nl
 dts-preprod.rotterdam.nl
 dts.rotterdam.nl
 duinoordfietst.denhaag.nl
@@ -9139,6 +9141,7 @@ open.zaanstad.nl
 open.zandvoort.nl
 open.zoetermeer.nl
 open.zuidplas.nl
+open.zutphen.nl
 openagenda.ridderkerk.nl
 openbaartoilet.zutphen.nl
 openbareruimte.deventer.nl
@@ -14179,6 +14182,7 @@ www.laren.nl
 www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl
 www.ldap.gemeentehulst.nl
+www.leestenschouwbroek.zutphen.nl
 www.leeuwarden.nl
 www.legacy.gemeentewestland.nl
 www.leiden.nl

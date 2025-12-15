@@ -5,12 +5,14 @@ autodiscover.raad.zutphen.nl
 autodiscover.test.zutphen.nl
 autodiscover.zutphen.nl
 bgt.zutphen.nl
+bor.zutphen.nl
 clearpass.zutphen.nl
 cloudadapter-prod.zutphen.nl
 cloudadapter-test.zutphen.nl
 connect.acceptatie.zutphen.nl
 dgk-prd.zutphen.nl
 dgk-tst.zutphen.nl
+dtr-test.zutphen.nl
 flowmailer-tracking.parkeren.zutphen.nl
 formulieren.zutphen.nl
 geodata-acc.zutphen.nl
@@ -26,6 +28,7 @@ mijn.zutphen.nl
 mijnaanvraag-test.zutphen.nl
 mijnaanvraag.zutphen.nl
 mijntoegang.zutphen.nl
+open.zutphen.nl
 openbaartoilet.zutphen.nl
 overleg.zutphen.nl
 parkeren-test.zutphen.nl
@@ -41,6 +44,7 @@ staging.zutphen.nl
 szc.zutphen.nl
 voice.zutphen.nl
 webmail.zutphen.nl
+www.leestenschouwbroek.zutphen.nl
 www.zutphen.nl
 zaaksysteem-accept.zutphen.nl
 zutphen.nl
