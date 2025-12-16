@@ -23,8 +23,8 @@ formulieren
 test
 eloket
 dkd
-werkplek
 open
+werkplek
 portal
 acc
 waarmerk
@@ -98,6 +98,7 @@ cmsintranet
 siam
 financien
 bgt
+simcms-open
 pki
 osbacc
 snelbalie
@@ -108,7 +109,6 @@ podiumd-logs
 extranet
 govroam
 samen
-simcms-open
 test-cmsintranet
 mijnzorg
 e
@@ -491,6 +491,7 @@ gemeentewinkel
 mijnmobiel
 pip
 www.mail
+mylex
 preprod-mijnsociaaldomein
 rds
 acceptatie-intranet
@@ -668,7 +669,6 @@ secudoc
 www.login
 www.parkeren
 prtg
-mylex
 wmoloket
 berichtenverkeer
 www.kaarten

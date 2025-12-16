@@ -8,11 +8,14 @@ joinconnect.zwartewaterland.nl
 mail.zwartewaterland.nl
 mailgate.zwartewaterland.nl
 mijn.zwartewaterland.nl
+mylex.zwartewaterland.nl
+open.zwartewaterland.nl
 pki.zwartewaterland.nl
 preproductie.zwartewaterland.nl
 probeer.zwartewaterland.nl
 secure.zwartewaterland.nl
 siam.zwartewaterland.nl
+simcms-open.zwartewaterland.nl
 simcms.zwartewaterland.nl
 simsite.zwartewaterland.nl
 vpn.zwartewaterland.nl

@@ -8615,6 +8615,7 @@ myexports.bernheze.org
 mylex.gemeentesluis.nl
 mylex.nieuwkoop.nl
 mylex.waterland.nl
+mylex.zwartewaterland.nl
 mylex1.gem.overbetuwe.nl
 mymeeting-ris.gulpen-wittem.nl
 mymeeting.montferland.info
@@ -9142,6 +9143,7 @@ open.zandvoort.nl
 open.zoetermeer.nl
 open.zuidplas.nl
 open.zutphen.nl
+open.zwartewaterland.nl
 openagenda.ridderkerk.nl
 openbaartoilet.zutphen.nl
 openbareruimte.deventer.nl
@@ -11063,6 +11065,7 @@ simcms-open.westmaasenwaal.nl
 simcms-open.wierden.nl
 simcms-open.zoetermeer.nl
 simcms-open.zuidplas.nl
+simcms-open.zwartewaterland.nl
 simcms-preproductie.beekdaelen.nl
 simcms-preproductie.beuningen.nl
 simcms-preproductie.bladel.nl
