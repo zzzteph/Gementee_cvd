@@ -1390,6 +1390,7 @@ https://api.betalen.texel.nl
 https://api.betalen.valkenburg.nl
 https://api.betalen.wijdemeren.nl
 https://api.betalen.zundert.nl
+https://api.betalen.zwijndrecht.nl
 https://api.darwin.tilburg.nl
 https://api.data.amsterdam.nl
 https://api.denhaag.nl
@@ -2000,6 +2001,7 @@ https://betalen.venray.nl
 https://betalen.wijdemeren.nl
 https://betalen.zeewolde.nl
 https://betalen.zundert.nl
+https://betalen.zwijndrecht.nl
 https://betalenaan.oirschot.nl
 https://betalingen.amsterdam.nl
 https://beugen.landvancuijk.nl
@@ -5950,7 +5952,6 @@ https://parkeren-prod.schiedam.nl
 https://parkeren-siam-prod.schiedam.nl
 https://parkeren-siam-test.dijkenwaard.nl
 https://parkeren-siam-test.valkenswaard.nl
-https://parkeren-siam-test.zwijndrecht.nl
 https://parkeren-siam.dijkenwaard.nl
 https://parkeren-siam.gemeentehulst.nl
 https://parkeren-siam.valkenswaard.nl

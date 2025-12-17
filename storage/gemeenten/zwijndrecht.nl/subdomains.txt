@@ -1,4 +1,6 @@
+api.betalen.zwijndrecht.nl
 autodiscover.zwijndrecht.nl
+betalen.zwijndrecht.nl
 college.zwijndrecht.nl
 edienstenburgerzaken-test.zwijndrecht.nl
 edienstenburgerzaken.zwijndrecht.nl
@@ -12,7 +14,6 @@ loket.acceptatie.zwijndrecht.nl
 loket.zwijndrecht.nl
 parkeeracties-test.zwijndrecht.nl
 parkeeracties.zwijndrecht.nl
-parkeren-siam-test.zwijndrecht.nl
 parkeren-siam.zwijndrecht.nl
 parkeren-test.zwijndrecht.nl
 parkeren.zwijndrecht.nl

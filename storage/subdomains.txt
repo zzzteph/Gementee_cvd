@@ -1278,6 +1278,7 @@ api.betalen.texel.nl
 api.betalen.valkenburg.nl
 api.betalen.wijdemeren.nl
 api.betalen.zundert.nl
+api.betalen.zwijndrecht.nl
 api.darwin.tilburg.nl
 api.data.amsterdam.nl
 api.data.leiden.nl
@@ -2415,6 +2416,7 @@ betalen.venray.nl
 betalen.wijdemeren.nl
 betalen.zeewolde.nl
 betalen.zundert.nl
+betalen.zwijndrecht.nl
 betalenaan.oirschot.nl
 betalingen.amsterdam.nl
 beugen.landvancuijk.nl
@@ -9502,7 +9504,6 @@ parkeren-siam-prod.schiedam.nl
 parkeren-siam-test.dijkenwaard.nl
 parkeren-siam-test.gemeentehulst.nl
 parkeren-siam-test.valkenswaard.nl
-parkeren-siam-test.zwijndrecht.nl
 parkeren-siam.dijkenwaard.nl
 parkeren-siam.gemeentehulst.nl
 parkeren-siam.valkenswaard.nl

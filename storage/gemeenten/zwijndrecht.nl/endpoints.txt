@@ -1,4 +1,6 @@
 http://autodiscover.zwijndrecht.nl
+https://api.betalen.zwijndrecht.nl
+https://betalen.zwijndrecht.nl
 https://college.zwijndrecht.nl
 https://edienstenburgerzaken-test.zwijndrecht.nl
 https://edienstenburgerzaken.zwijndrecht.nl
@@ -12,7 +14,6 @@ https://loket.acceptatie.zwijndrecht.nl
 https://loket.zwijndrecht.nl
 https://parkeeracties-test.zwijndrecht.nl
 https://parkeeracties.zwijndrecht.nl
-https://parkeren-siam-test.zwijndrecht.nl
 https://parkeren-siam.zwijndrecht.nl
 https://parkeren-test.zwijndrecht.nl
 https://parkeren.zwijndrecht.nl

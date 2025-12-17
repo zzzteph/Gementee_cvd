@@ -31,8 +31,8 @@ waarmerk
 afspraak
 meldingen
 raad
-broker
 betalen
+broker
 parkeren
 api.meldingen
 geo
@@ -103,6 +103,7 @@ pki
 osbacc
 snelbalie
 duurzaam
+api.betalen
 apps
 acc-formulier
 podiumd-logs
@@ -113,7 +114,6 @@ test-cmsintranet
 mijnzorg
 e
 verkiezingen
-api.betalen
 acc-contact
 acc-mijn
 acc-notificaties
@@ -471,7 +471,6 @@ filr
 intra
 mijnloket
 parkeeracties
-parkeren-siam-test
 parkeren-siam
 relay
 router
@@ -634,6 +633,7 @@ www.financielestukken
 geodata-acc
 micc
 parkeeracties-test
+parkeren-siam-test
 preprod-sociaalportaal
 sociaalportaal
 efactuur
