@@ -1,12 +1,19 @@
+_sip._tcp.zwolle.nl
+_sip._udp.zwolle.nl
+_sips._tcp.zwolle.nl
+abc.zwolle.nl
+acc-abc.zwolle.nl
 acc-broker.zwolle.nl
 acc-contact.zwolle.nl
 acc-formulier.zwolle.nl
+acc-ita.zwolle.nl
 acc-keycloak-admin.zwolle.nl
 acc-keycloak.zwolle.nl
 acc-mijn.zwolle.nl
 acc-notificaties.zwolle.nl
 acc-objecten.zwolle.nl
 acc-objecttypen.zwolle.nl
+acc-office-addin.zwolle.nl
 acc-openklant.zwolle.nl
 acc-openzaak.zwolle.nl
 acc-podiumd-logs.zwolle.nl
@@ -59,8 +66,10 @@ icontrolertest.zwolle.nl
 img.doemee.zwolle.nl
 inc-ons.zwolle.nl
 initiatiefrijk.zwolle.nl
+ita.zwolle.nl
 jouwstukje.zwolle.nl
 kcc.zwolle.nl
+keycloak-admin.zwolle.nl
 keycloak.zwolle.nl
 koningsdag.zwolle.nl
 link.pr.zwolle.nl
@@ -81,6 +90,7 @@ noorderkwartier.zwolle.nl
 notificaties.zwolle.nl
 objecten.zwolle.nl
 objecttypen.zwolle.nl
+office-addin.zwolle.nl
 offwa.zwolle.nl
 offwatest.zwolle.nl
 ons.zwolle.nl
@@ -98,6 +108,7 @@ piwik.zwolle.nl
 podiumd-logs.zwolle.nl
 portal.zwolle.nl
 portaltest.zwolle.nl
+pr.zwolle.nl
 preprod-mijn.zwolle.nl
 pv.zwolle.nl
 radius.zwolle.nl
@@ -150,4 +161,5 @@ www.opvang.zwolle.nl
 www.stadsbroekenijsselvizier.zwolle.nl
 www.webvpn.zwolle.nl
 www.zwolle.nl
+zac.zwolle.nl
 zwolle.nl

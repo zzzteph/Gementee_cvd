@@ -106,6 +106,9 @@ _dmarc.nederweert.nl
 _dmarc.nieuwegein.nl
 _dmarc.vijfheerenlanden.nl
 _dmarc.zoeterwoude.nl
+_sip._tcp.zwolle.nl
+_sip._udp.zwolle.nl
+_sips._tcp.zwolle.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
 a-eformsmidoffice.utrecht.nl
@@ -154,6 +157,7 @@ aauth.gouda.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
+abc.zwolle.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
 ac00089.delft.nl
@@ -167,6 +171,7 @@ acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
 acc-abc.roermond.nl
+acc-abc.zwolle.nl
 acc-afvalkalender.goes.nl
 acc-beeldbank.leiden.nl
 acc-broker.assen.nl
@@ -225,6 +230,7 @@ acc-formulier.roermond.nl
 acc-formulier.rotterdam.nl
 acc-formulier.zwolle.nl
 acc-idbroker.tynaarlo.nl
+acc-ita.zwolle.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak-admin.borger-odoorn.nl
@@ -329,6 +335,7 @@ acc-objecttypen.oostgelre.nl
 acc-objecttypen.roermond.nl
 acc-objecttypen.rotterdam.nl
 acc-objecttypen.zwolle.nl
+acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
 acc-openformulieren.gemert-bakel.nl
@@ -6860,6 +6867,7 @@ isis-a.rotterdam.nl
 isis.rotterdam.nl
 isms-acc.denhaag.nl
 isms.denhaag.nl
+ita.zwolle.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -7173,6 +7181,7 @@ keycloak-admin.laarbeek.nl
 keycloak-admin.oldenzaal.nl
 keycloak-admin.oostgelre.nl
 keycloak-admin.roermond.nl
+keycloak-admin.zwolle.nl
 keycloak-zgw.acc.denhaag.nl
 keycloak-zgw.test.denhaag.nl
 keycloak.acc.denhaag.nl
@@ -8930,6 +8939,7 @@ oeffelt.landvancuijk.nl
 oegstgeest.nl
 oekraine.zaanstad.nl
 oens.almere.nl
+office-addin.zwolle.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
@@ -9872,6 +9882,7 @@ pp-fo-parkeervergunningen.acc.utrecht.nl
 pp-parkeerapp.acc.utrecht.nl
 pp-parkeervergunningen.acc.utrecht.nl
 ppmoflprojecten.rotterdam.nl
+pr.zwolle.nl
 praathuis.edam-volendam.nl
 praatmee.alblasserdam.nl
 praatmee.borsele.nl
@@ -14884,6 +14895,7 @@ zac.laarbeek.nl
 zac.oldenzaal.nl
 zac.oostgelre.nl
 zac.roermond.nl
+zac.zwolle.nl
 zaken.acceptatie.coevorden.nl
 zaken.acceptatie.dantumadiel.frl
 zaken.acceptatie.drechterland.nl

@@ -150,6 +150,7 @@ preprod-mijninkomen
 auth
 acc-keycloak-admin
 acc-zac
+keycloak-admin
 www.doemee
 micollab
 inloggen
@@ -160,7 +161,7 @@ izaaksuite
 subsidies
 snelbaliepp
 vdi
-keycloak-admin
+zac
 jaarstukken
 inproces
 cryptshare
@@ -169,7 +170,6 @@ gisib
 bis
 bag
 sip
-zac
 gasten
 formulieren-test
 mdm
@@ -406,6 +406,7 @@ authenticatie
 gateway
 lyncweb
 prefill
+acc-abc
 huisstijl
 mijndesktop
 www2
@@ -512,9 +513,9 @@ access
 bezoekersparkeren-acc
 hta
 mijnsociaaldomein-acc
-acc-abc
 wonen
 awtunnel
+abc
 service
 belastingportaal.acc
 inloggen.belastingportaal
@@ -717,7 +718,6 @@ digitaalloket
 ews
 opentunnel
 duoloket
-abc
 digitalebelastingbalie
 regelgeving
 parkeerloket
@@ -6249,6 +6249,11 @@ www.leestenschouwbroek
 digik
 zwijndrecht-checker-preprod
 zwijndrecht-checker
+_sip._tcp
+_sip._udp
+_sips._tcp
+acc-ita
+acc-office-addin
 avedge
 beelden
 bezoekerspas
@@ -6263,11 +6268,13 @@ icontrolertest-api
 icontrolertest
 inc-ons
 initiatiefrijk
+ita
 jouwstukje
 mijnwijk
 mysite
 mysitetest
 noorderkwartier
+office-addin
 offwa
 offwatest
 onsovermorgen
@@ -6276,6 +6283,7 @@ openmonumentendag
 opvang
 p8-test
 p8
+pr
 rondleidingspoorzone
 samenwerkentest
 sdv-a
