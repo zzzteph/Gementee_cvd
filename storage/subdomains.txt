@@ -5232,7 +5232,6 @@ frontoffice-parkeervergunningen-acc.beverwijk.nl
 frontoffice-parkeervergunningen.beverwijk.nl
 fs-mail.drimmelen.nl
 fs-test.tilburg.nl
-fs.aaenhunze.nl
 fs.beverwijk.nl
 fs.haarlem.nl
 fs.halderberge.nl
@@ -10518,7 +10517,6 @@ relay.woerden.nl
 relay2.woerden.nl
 religieuserfgoed.deventer.nl
 remcon.amsterdam.nl
-remote.aaenhunze.nl
 remote.arnhem.nl
 remote.beverwijk.nl
 remote.borne.nl
@@ -13539,6 +13537,7 @@ wonen.zaanstad.nl
 wonenin.deventer.nl
 wonenwelzijnenzorg.tiel.nl
 woningbouw.buren.nl
+woningbouwkaart.aaenhunze.nl
 woningbouwkaart.assen.nl
 woningbouwkaart.borger-odoorn.nl
 woningbouwkaart.coevorden.nl

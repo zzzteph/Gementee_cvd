@@ -5,7 +5,6 @@ autodiscover.aaenhunze.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
 digikoppeling.aaenhunze.nl
-fs.aaenhunze.nl
 geo.aaenhunze.nl
 iburgerzaken.aaenhunze.nl
 ibzpink.aaenhunze.nl
@@ -15,7 +14,7 @@ loket.aaenhunze.nl
 loket.acceptatie.aaenhunze.nl
 meldingen-acc.aaenhunze.nl
 meldingen.aaenhunze.nl
-remote.aaenhunze.nl
 webapps.aaenhunze.nl
+woningbouwkaart.aaenhunze.nl
 www.aaenhunze.nl
 www2.aaenhunze.nl

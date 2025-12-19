@@ -54,11 +54,11 @@ dloket
 dmidoffice
 api.meldingen-acc
 meldingen-acc
-remote
 openpdc
 enterpriseregistration
 data
 belastingbalie
+remote
 cmsoo
 loket.acceptatie
 openpub
@@ -69,10 +69,10 @@ osb
 kaart
 digikoppeling-test
 beeldbank
+woningbouwkaart
 flowmailer-tracking
 berichten
 formulier
-woningbouwkaart
 denkmee
 zaken
 hybrid
@@ -200,7 +200,6 @@ squit2020
 mta-sts
 geoportaal
 en
-fs
 preprod-mijn
 geodata
 melddesk
@@ -239,6 +238,7 @@ publicroam
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
+fs
 www.gemeenteraad
 iarchief
 jongin

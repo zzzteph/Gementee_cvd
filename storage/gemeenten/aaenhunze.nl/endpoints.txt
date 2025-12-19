@@ -5,10 +5,12 @@ https://api.meldingen.aaenhunze.nl
 https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
 https://iburgerzaken.aaenhunze.nl
+https://ibzpink.aaenhunze.nl
 https://inloggen.belastingportaal.aaenhunze.nl
 https://inloggen.belastingportaal.acc.aaenhunze.nl
 https://loket.aaenhunze.nl
 https://loket.acceptatie.aaenhunze.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen.aaenhunze.nl
+https://woningbouwkaart.aaenhunze.nl
 https://www.aaenhunze.nl

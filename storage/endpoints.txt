@@ -4060,6 +4060,7 @@ https://iburgerzaken.zundert.nl
 https://iburgerzaken.zutphen.nl
 https://iburgerzaken.zwartewaterland.nl
 https://iburgerzaken.zwolle.nl
+https://ibzpink.aaenhunze.nl
 https://ibzpink.almelo.nl
 https://ibzpink.alphen-chaam.nl
 https://ibzpink.amersfoort.nl
@@ -7855,6 +7856,7 @@ https://wonen.westerkwartier.nl
 https://wonen.zaanstad.nl
 https://wonenin.deventer.nl
 https://wonenwelzijnenzorg.tiel.nl
+https://woningbouwkaart.aaenhunze.nl
 https://woningbouwkaart.assen.nl
 https://woningbouwkaart.borger-odoorn.nl
 https://woningbouwkaart.coevorden.nl
