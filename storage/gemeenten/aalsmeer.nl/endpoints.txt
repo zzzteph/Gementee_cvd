@@ -1,6 +1,7 @@
 http://autodiscover.aalsmeer.nl
 https://aalsmeer.nl
 https://data.aalsmeer.nl
+https://denkmee.aalsmeer.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://email.mail.participatie.aalsmeer.nl
@@ -10,5 +11,6 @@ https://loket.test.aalsmeer.nl
 https://mijnzorg-acc.aalsmeer.nl
 https://mijnzorg.aalsmeer.nl
 https://participatie.aalsmeer.nl
+https://socialekaart.aalsmeer.nl
 https://www.aalsmeer.nl
 https://www.acceptatie.aalsmeer.nl

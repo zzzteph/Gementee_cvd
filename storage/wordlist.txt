@@ -72,8 +72,8 @@ beeldbank
 woningbouwkaart
 flowmailer-tracking
 berichten
-formulier
 denkmee
+formulier
 zaken
 hybrid
 doemee
@@ -285,6 +285,7 @@ www.samen
 woz-portaal
 www.intranet
 midoffice
+socialekaart
 geovisia
 gisib-test
 gisibapi-test
@@ -391,7 +392,6 @@ mijnzaken
 openformulieren-test
 webservices
 academie
-socialekaart
 testbelastingloket
 raadsinformatie
 e.openstad

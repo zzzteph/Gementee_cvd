@@ -2515,6 +2515,7 @@ https://denhaag.nl
 https://denhaagfietst-acc.denhaag.nl
 https://denhaagfietst.denhaag.nl
 https://denhelder.nl
+https://denkmee.aalsmeer.nl
 https://denkmee.achtkarspelen.nl
 https://denkmee.amstelveen.nl
 https://denkmee.beverwijk.nl
@@ -6841,6 +6842,7 @@ https://sociaalportaal.rijssen-holten.nl
 https://sociaalportaal.tubbergen.nl
 https://social.montferland.info
 https://social.zevenaar.nl
+https://socialekaart.aalsmeer.nl
 https://socialekaart.echt-susteren.nl
 https://socialekaart.ede.nl
 https://socialekaart.nieuwegein.nl

@@ -2,6 +2,7 @@ aalsmeer.nl
 acceptatie.aalsmeer.nl
 autodiscover.aalsmeer.nl
 data.aalsmeer.nl
+denkmee.aalsmeer.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.test.aalsmeer.nl
 email.mail.participatie.aalsmeer.nl
@@ -13,6 +14,7 @@ midoffice.aalsmeer.nl
 mijnzorg-acc.aalsmeer.nl
 mijnzorg.aalsmeer.nl
 participatie.aalsmeer.nl
+socialekaart.aalsmeer.nl
 test.aalsmeer.nl
 www.aalsmeer.nl
 www.acceptatie.aalsmeer.nl
