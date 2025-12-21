@@ -166,6 +166,7 @@ jaarstukken
 inproces
 cryptshare
 belastingportaal
+en
 gisib
 bis
 bag
@@ -199,7 +200,6 @@ bestuur
 squit2020
 mta-sts
 geoportaal
-en
 preprod-mijn
 geodata
 melddesk
@@ -410,6 +410,7 @@ acc-abc
 huisstijl
 mijndesktop
 www2
+de
 pdc
 testafspraken
 veiligmailen
@@ -675,7 +676,6 @@ berichtenverkeer
 www.kaarten
 www.mdm
 www.sharefile
-de
 aaa
 preprod-belastingportaal
 squitxo

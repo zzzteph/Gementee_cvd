@@ -10,6 +10,7 @@ http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
 http://a-consent.sarphati.amsterdam.nl
+http://aalten.nl
 http://aanmeldenparkeren.amsterdam.nl
 http://acc-keycloak.gemert-bakel.nl
 http://acc.aip.amsterdam.nl
@@ -308,7 +309,6 @@ http://es.hengelo.nl
 http://extranet-acc.eemsdelta.nl
 http://extranetcms-acc.eemsdelta.nl
 http://fd-zgw.test.denhaag.nl
-http://felix.aalten.nl
 http://felix.beverwijk.nl
 http://felix.bronckhorst.nl
 http://felix.dalfsen.nl
@@ -706,7 +706,6 @@ https://aaenhunze.nl
 https://aalsmeer.nl
 https://aalten-checker-preprod.aalten.nl
 https://aalten-checker.aalten.nl
-https://aalten.nl
 https://aanmelden.gorinchem.nl
 https://aanmelden.hengelo.nl
 https://aanmelden.krimpenerwaard.nl
@@ -2494,6 +2493,7 @@ https://dataportaal.tilburg.nl
 https://datasociaaldomein.rotterdam.nl
 https://db01.deventer.nl
 https://dds-vwes21.westerwolde.nl
+https://de.aalten.nl
 https://de.gemert-bakel.nl
 https://de.heerlen.nl
 https://de.kerkrade.nl
@@ -3124,6 +3124,7 @@ https://email.wijkteam-bewustwording.amersfoort.nl
 https://emm.groningen.nl
 https://emma.eijsden-margraten.nl
 https://emmen.nl
+https://en.aalten.nl
 https://en.cmsoo.gemert-bakel.nl
 https://en.geldrop-mierlo.nl
 https://en.gemert-bakel.nl
@@ -5108,6 +5109,7 @@ https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
 https://mijn-test.veenendaal.nl
 https://mijn-test.westerkwartier.nl
+https://mijn.aalten.nl
 https://mijn.accp.nijmegen.nl
 https://mijn.alkmaar.nl
 https://mijn.amersfoort.nl
@@ -6703,6 +6705,7 @@ https://simcms-raad.zoetermeer.nl
 https://simcms-samenindebuurt.heerlen.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
+https://simcms.aalten.nl
 https://simcms.baarn.nl
 https://simcms.bergendal.nl
 https://simcms.bladel.nl

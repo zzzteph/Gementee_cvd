@@ -3442,6 +3442,7 @@ ddskoppeling.gulpen-wittem.nl
 ddsp.services.debilt.nl
 ddst.services.debilt.nl
 ddstest.winterswijk.nl
+de.aalten.nl
 de.gemert-bakel.nl
 de.heerlen.nl
 de.kerkrade.nl
@@ -4658,6 +4659,7 @@ emm.groningen.nl
 emma.eijsden-margraten.nl
 emmen.nl
 ems.amstelveen.nl
+en.aalten.nl
 en.cmsoo.gemert-bakel.nl
 en.geldrop-mierlo.nl
 en.gemert-bakel.nl

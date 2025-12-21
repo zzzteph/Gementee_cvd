@@ -3,10 +3,12 @@ aalten-checker-preprod.aalten.nl
 aalten-checker.aalten.nl
 aalten.nl
 broker.aalten.nl
+de.aalten.nl
 dkd.aalten.nl
 documenten.aalten.nl
 edienstenburgerzaken-test.aalten.nl
 edienstenburgerzaken.aalten.nl
+en.aalten.nl
 felix.aalten.nl
 intranet.aalten.nl
 mail.aalten.nl
