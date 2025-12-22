@@ -605,7 +605,6 @@ http://wion.gemeentestein.nl
 http://wob.arnhem.nl
 http://woo.denhaag.nl
 http://www.aanvraagparkeren.groningen.nl
-http://www.achtkarspelen.nl
 http://www.bereikbarestad.denhaag.nl
 http://www.binnenstadsplan2030.denhaag.nl
 http://www.cjg.denhaag.nl
@@ -1143,6 +1142,7 @@ https://access.landvancuijk.nl
 https://accisdtalentcenter.bergenopzoom.nl
 https://accommodatieverhuur.gemeentesluis.nl
 https://acd.lopik.nl
+https://achtkarspelen.nl
 https://acpt.3d.utrecht.nl
 https://actief.landvancuijk.nl
 https://activesync.sittard-geleen.nl
@@ -3259,7 +3259,6 @@ https://ezaken.purmerend.nl
 https://fba.deventer.nl
 https://fd-zgw.denhaag.nl
 https://feedback.delft.nl
-https://felix.achtkarspelen.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.bladel.nl
@@ -4063,6 +4062,7 @@ https://iburgerzaken.zutphen.nl
 https://iburgerzaken.zwartewaterland.nl
 https://iburgerzaken.zwolle.nl
 https://ibzpink.aaenhunze.nl
+https://ibzpink.achtkarspelen.nl
 https://ibzpink.almelo.nl
 https://ibzpink.alphen-chaam.nl
 https://ibzpink.amersfoort.nl
@@ -4894,7 +4894,6 @@ https://magazine.landvancuijk.nl
 https://magazines.gooisemeren.nl
 https://magazines.horstaandemaas.nl
 https://magazines.rotterdam.nl
-https://mail.achtkarspelen.nl
 https://mail.apeldoorn.nl
 https://mail.bloemendaal.nl
 https://mail.ede.nl
@@ -6706,6 +6705,7 @@ https://simcms-samenindebuurt.heerlen.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
+https://simcms.achtkarspelen.nl
 https://simcms.baarn.nl
 https://simcms.bergendal.nl
 https://simcms.bladel.nl
@@ -6739,7 +6739,6 @@ https://simcms.zwartewaterland.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.vlaardingen.nl
 https://simform-preproductie.voorschoten.nl
-https://simform.achtkarspelen.nl
 https://simform.gemeentemaasgouw.nl
 https://simform.heerenveen.nl
 https://simform.rijswijk.nl
