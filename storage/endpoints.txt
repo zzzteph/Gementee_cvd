@@ -2751,7 +2751,6 @@ https://edienstenaanvragensd.barendrecht.nl
 https://edienstenaanvragensd.ridderkerk.nl
 https://edienstenburgerzaken-test.aalten.nl
 https://edienstenburgerzaken-test.alblasserdam.nl
-https://edienstenburgerzaken-test.albrandswaard.nl
 https://edienstenburgerzaken-test.alkmaar.nl
 https://edienstenburgerzaken-test.almere.nl
 https://edienstenburgerzaken-test.alphenaandenrijn.nl
@@ -5110,6 +5109,7 @@ https://mijn-test.veenendaal.nl
 https://mijn-test.westerkwartier.nl
 https://mijn.aalten.nl
 https://mijn.accp.nijmegen.nl
+https://mijn.albrandswaard.nl
 https://mijn.alkmaar.nl
 https://mijn.amersfoort.nl
 https://mijn.arnhem.nl

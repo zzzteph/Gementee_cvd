@@ -11,6 +11,7 @@ edienstverlening.albrandswaard.nl
 intranet.albrandswaard.nl
 loket.acceptatie.albrandswaard.nl
 loket.albrandswaard.nl
+mijn.albrandswaard.nl
 openpdc.albrandswaard.nl
 openpub.albrandswaard.nl
 preprod-mijn.albrandswaard.nl
