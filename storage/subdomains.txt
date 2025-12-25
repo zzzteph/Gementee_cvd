@@ -1141,8 +1141,6 @@ alg-zgw.test.denhaag.nl
 algemenediensten.sudwestfryslan.nl
 algoritmeregister.amsterdam.nl
 algoritmeregister.rotterdam.nl
-alk-fw01.alkmaar.nl
-alk-fw02.alkmaar.nl
 alkbip.alkmaar.nl
 alkbip01.alkmaar.nl
 alkbip02.alkmaar.nl
@@ -3780,7 +3778,6 @@ digilevering-portaal.zwolle.nl
 digilevering.vaals.nl
 digileveringportaal.gemeentebeek.nl
 digiloket.kerkrade.nl
-digimedia.alkmaar.nl
 digimelding.venlo.nl
 digipoort.emmen.nl
 digiprodsrvr.gorinchem.nl
@@ -3813,7 +3810,6 @@ digitalebelastingbalie.vlieland.nl
 digitaleplannen.apeldoorn.nl
 digitaleplannen.hardenberg.nl
 digitaleplannen.ommen.nl
-digitaletweeling.alkmaar.nl
 digitestsrvr.gorinchem.nl
 digiwap.rotterdam.nl
 dijkenwaard.nl
@@ -4243,7 +4239,6 @@ edienstenburgerzaken-prod.schiedam.nl
 edienstenburgerzaken-test.aalten.nl
 edienstenburgerzaken-test.alblasserdam.nl
 edienstenburgerzaken-test.albrandswaard.nl
-edienstenburgerzaken-test.alkmaar.nl
 edienstenburgerzaken-test.almere.nl
 edienstenburgerzaken-test.alphenaandenrijn.nl
 edienstenburgerzaken-test.arnhem.nl
@@ -4370,7 +4365,6 @@ edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
 edienstenburgerzaken.alblasserdam.nl
 edienstenburgerzaken.albrandswaard.nl
-edienstenburgerzaken.alkmaar.nl
 edienstenburgerzaken.almere.nl
 edienstenburgerzaken.alphenaandenrijn.nl
 edienstenburgerzaken.amstelveen.nl
@@ -4556,7 +4550,6 @@ eformulieren.stichtsevecht.nl
 eformulieren.waterland.nl
 egemeente.urk.nl
 egemeente.westvoorne.nl
-egress-repro.alkmaar.nl
 ehv-lpi-ap-15.lopik.nl
 ehvsubsidie.eindhoven.nl
 ehvsubsidie.test.eindhoven.nl
@@ -4844,6 +4837,7 @@ exo-mrs04.rotterdam.nl
 exo-smtp.rotterdam.nl
 exoconnect.denhaag.nl
 extern.borger-odoorn.nl
+extern.digimedia.alkmaar.nl
 extern.emmen.nl
 extern.gemeentemaashorst.nl
 extern.huizen.nl
@@ -5268,7 +5262,6 @@ ftptest.utrecht.nl
 ftrust.veere.nl
 funderingen.zaanstad.nl
 funderingsloket.rotterdam.nl
-fw-rtr.alkmaar.nl
 fw.maassluis.nl
 fw.s-hertogenbosch.nl
 fy.opsterland.nl
@@ -5279,7 +5272,6 @@ g-roostertst.heerlen.nl
 g0498.drechterland.nl
 game.groningen.nl
 gassel.landvancuijk.nl
-gast-rtr.alkmaar.nl
 gast.schouwen-duiveland.nl
 gasten.beekdaelen.nl
 gasten.brunssum.nl
@@ -5309,7 +5301,6 @@ gbaservices.zuidplas.nl
 gbav.emmen.nl
 gbav1.amersfoort.nl
 gbavt.emmen.nl
-gbcultuur.alkmaar.nl
 gbi.apeldoorn.nl
 gbi.gemeentemaashorst.nl
 gbi.lingewaard.nl
@@ -5324,8 +5315,6 @@ gbionlinetest.velsen.nl
 gbiweb.steenwijkerland.nl
 gbos.helmond.nl
 gbs.purmerend.nl
-gbsserver.alkmaar.nl
-gbstadswerk.alkmaar.nl
 gd.utrecht.nl
 gdintaker.diemen.nl
 gdintaker.ouder-amstel.nl
@@ -5440,9 +5429,7 @@ gemnet.digikoppeling.test.veenendaal.nl
 gemnet.digikoppeling.veenendaal.nl
 gemnps01.eijsden-margraten.nl
 gemnps01.intern.eijsden-margraten.nl
-gen1.alkmaar.nl
 gen1.edam-volendam.nl
-gen2.alkmaar.nl
 genealogie.oldenzaal.nl
 genieten.groningen.nl
 genietenzonderzorgen.landvancuijk.nl
@@ -6873,7 +6860,6 @@ ita.zwolle.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
-izaaksuite.alkmaar.nl
 izaaksuite.bergenopzoom.nl
 izaaksuite.bronckhorst.nl
 izaaksuite.drimmelen.nl
@@ -7337,7 +7323,6 @@ lavueltaholanda.breda.nl
 lb-servers.laarbeek.nl
 lba.almere.nl
 ld-01.hellevoetsluis.nl
-ldap.alkmaar.nl
 ldap.gemeentehulst.nl
 ldlmks01.leudal.nl
 ledeacker.landvancuijk.nl
@@ -7930,7 +7915,6 @@ meedoen.schagen.nl
 meedoen.venray.nl
 meedoen.waalwijk.nl
 meedoenregeling.dongen.nl
-meent.alkmaar.nl
 meerssen.nl
 meet.assen.nl
 meet.ede.nl
@@ -8132,7 +8116,6 @@ mijn-test.westerkwartier.nl
 mijn.aalten.nl
 mijn.accp.nijmegen.nl
 mijn.albrandswaard.nl
-mijn.alkmaar.nl
 mijn.almere.nl
 mijn.amersfoort.nl
 mijn.arnhem.nl
@@ -8415,7 +8398,6 @@ mijnzaken.schagen.nl
 mijnzakentest.heerlen.nl
 mijnzi.beuningen.nl
 mijnzorg-acc.aalsmeer.nl
-mijnzorg-acc.alkmaar.nl
 mijnzorg-acc.amstelveen.nl
 mijnzorg-acc.barneveld.nl
 mijnzorg-acc.beesel.nl
@@ -8426,7 +8408,6 @@ mijnzorg-test.heuvelrug.nl
 mijnzorg.aalsmeer.nl
 mijnzorg.acc.utrecht.nl
 mijnzorg.accp.s-hertogenbosch.nl
-mijnzorg.alkmaar.nl
 mijnzorg.amstelveen.nl
 mijnzorg.barneveld.nl
 mijnzorg.beekdaelen.nl
@@ -8828,8 +8809,6 @@ nswclodroptest.nissewaard.nl
 nswdmz001.nissewaard.nl
 nswropubliceer.nissewaard.nl
 nswweb011.nissewaard.nl
-nsx01.alkmaar.nl
-nsx02.alkmaar.nl
 nta7516.gemeentebest.nl
 ntp1.s-hertogenbosch.nl
 ntp2.s-hertogenbosch.nl
@@ -9210,7 +9189,6 @@ opennotificaties-zgw.acc.denhaag.nl
 opennotificaties-zgw.denhaag.nl
 opennotificaties-zgw.test.denhaag.nl
 openpdc.albrandswaard.nl
-openpdc.alkmaar.nl
 openpdc.arnhem.nl
 openpdc.barendrecht.nl
 openpdc.defryskemarren.nl
@@ -9240,7 +9218,6 @@ openpdc.wageningen.nl
 openpdc.zaanstad.nl
 openpdckb.stedebroec.nl
 openpub.albrandswaard.nl
-openpub.alkmaar.nl
 openpub.arnhem.nl
 openpub.barendrecht.nl
 openpub.buren.nl
@@ -9324,7 +9301,6 @@ organisatie.hoorn.nl
 organisatieontwikkeling.assen.nl
 organisatievisie2030.hollandskroon.nl
 ortest.delft.nl
-osb.alkmaar.nl
 osb.almere.nl
 osb.bergendal.nl
 osb.beuningen.nl
@@ -9350,7 +9326,6 @@ osb.stedebroec.nl
 osb.stichtsevecht.nl
 osb.tiel.nl
 osb.woerden.nl
-osbacc.alkmaar.nl
 osbacc.almere.nl
 osbacc.drechterland.nl
 osbacc.enkhuizen.nl
@@ -9618,7 +9593,6 @@ pda.zaanstad.nl
 pdc-api.cg-intern.acc.utrecht.nl
 pdc-api.cg-intern.ont.utrecht.nl
 pdc-api.cg-intern.utrecht.nl
-pdc.alkmaar.nl
 pdc.buren.nl
 pdc.sittard-geleen.nl
 pdc.sudwestfryslan.nl
@@ -9683,8 +9657,6 @@ piwik.zaanstad.nl
 piwik.zevenaar.nl
 piwik.zwolle.nl
 piwikacc.breda.nl
-pix-ia-sth.alkmaar.nl
-pix-ia-stk.alkmaar.nl
 pki-a.utrecht.nl
 pki-nonprod.rotterdam.nl
 pki-test.vijfheerenlanden.nl
@@ -9813,7 +9785,6 @@ portal.beverwijk.nl
 portal.borne.nl
 portal.brummen.nl
 portal.dalfsen.nl
-portal.data.alkmaar.nl
 portal.denhaag.nl
 portal.dijkenwaard.nl
 portal.drechterland.nl
@@ -10271,7 +10242,6 @@ psmartdoc.heerlen.nl
 psn.ise.rotterdam.nl
 psquit2020.landgraaf.nl
 ptr.cranendonck.nl
-pub.alkmaar.nl
 pubgov.heerenveen.nl
 publicatie-test.castricum.nl
 publicatie.castricum.nl
@@ -10470,8 +10440,6 @@ rds.hofvantwente.nl
 rds.waalwijk.nl
 rds.zeist.nl
 rdsportal.haarlemmermeer.nl
-rdw-test.authenticatie.alkmaar.nl
-rdw.authenticatie.alkmaar.nl
 rdweb.deurne.nl
 rdweb.houten.nl
 rdweb01.schagen.nl
@@ -10487,7 +10455,6 @@ redactiemijn-t.ot.denhaag.nl
 redi.denhaag.nl
 redirect.ede.nl
 redirect.leeuwarden.nl
-redirector.alkmaar.nl
 reflex.s-hertogenbosch.nl
 regelen-acc.haarlem.nl
 regelen.haarlem.nl
@@ -10619,7 +10586,6 @@ roerdalen-checker-preprod.roerdalen.nl
 roerdalen-checker.roerdalen.nl
 roerdalen.nl
 roermond.nl
-rom.authenticatie.alkmaar.nl
 rondleidingen.landvancuijk.nl
 rondleidingspoorzone.zwolle.nl
 roonline.westvoorne.nl
@@ -11695,9 +11661,7 @@ stemvan.midden-groningen.nl
 stemvan.opsterland.nl
 stemvan.wageningen.nl
 stevensbeek.landvancuijk.nl
-sthbcp02.alkmaar.nl
 stichtsevecht.nl
-stkbcp01.alkmaar.nl
 stoepvrij.groningen.nl
 stolpersteine.groningen.nl
 storavox.landgraaf.nl
@@ -11769,7 +11733,6 @@ subsidie.maassluis.nl
 subsidie.utrecht.nl
 subsidiebackoffice.acceptatie.dordrecht.nl
 subsidiebackoffice.dordrecht.nl
-subsidiebeheer.alkmaar.nl
 subsidiebeheer.delft.nl
 subsidiebeheer.zwolle.nl
 subsidiebeleidskaart.texel.nl
@@ -11778,7 +11741,6 @@ subsidieloket-backend-acc.midden-groningen.nl
 subsidieloket-backend.midden-groningen.nl
 subsidieloket-login-acc.midden-groningen.nl
 subsidieloket-login.midden-groningen.nl
-subsidieloket.alkmaar.nl
 subsidieloket.midden-groningen.nl
 subsidieloket.zwolle.nl
 subsidieregister.denhaag.nl
@@ -11877,7 +11839,6 @@ svrnedgeo.twenterand.nl
 svrxentialprd.twenterand.nl
 svs-acc.almere.nl
 svtobmks01.gem.overbetuwe.nl
-sw01.alkmaar.nl
 swa1158ot.iamacc.denhaag.nl
 swt.zaanstad.nl
 sync.brunssum.nl
@@ -12154,7 +12115,6 @@ test-secure.voerendaal.nl
 test-secureweb.landgraaf.nl
 test-social.montferland.info
 test-socialintranet.middendelfland.nl
-test-subsidiebeheer.alkmaar.nl
 test-subsidiebeheer.zwolle.nl
 test-subsidieloket.alkmaar.nl
 test-subsidieloket.zwolle.nl
@@ -12257,7 +12217,6 @@ test.waalwijk.nl
 test.waddinxveen.nl
 test.website.westland.gemeentewestland.nl
 test.zaltbommel.nl
-testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
 testafspraken.peelenmaas.nl
@@ -12857,7 +12816,6 @@ vow.rotterdam.nl
 vp.denhaag.nl
 vpn-extern.gooisemeren.nl
 vpn-sso.hofvantwente.nl
-vpn.alkmaar.nl
 vpn.almelo.nl
 vpn.almere.nl
 vpn.bergen-nh.nl
@@ -13006,7 +12964,6 @@ waarmerk.zandvoort.nl
 waarmerk.zevenaar.nl
 waarstemjijvoor.kerkrade.nl
 wabo.oostgelre.nl
-wachtwoord.alkmaar.nl
 wachtwoord.almere.nl
 wachtwoord.gemeentemaashorst.nl
 wachtwoord.houten.nl
@@ -13107,7 +13064,6 @@ weblogic-prod.middendelfland.nl
 weblogic-test.middendelfland.nl
 weblogic.middendelfland.nl
 webmail-test.haarlem.nl
-webmail.alkmaar.nl
 webmail.amersfoort.nl
 webmail.bergen-nh.nl
 webmail.bergen.nl
@@ -13292,7 +13248,6 @@ werkaandewijk.denhaag.nl
 werken.heiloo.nl
 werken.texel.nl
 werkenbij-ict.haarlem.nl
-werkenbij.alkmaar.nl
 werkenbij.ameland.nl
 werkenbij.barneveld.nl
 werkenbij.buren.nl
@@ -13346,7 +13301,6 @@ werkomgeving.beesel.nl
 werkomgeving.rotterdam.nl
 werkpakt.enschede.nl
 werkplek-test.rheden.nl
-werkplek.alkmaar.nl
 werkplek.almere.nl
 werkplek.amersfoort.nl
 werkplek.arnhem.nl
@@ -13433,7 +13387,6 @@ whitelabel.nijmegen.nl
 widocmksp001.assen.nl
 wie.meppel.nl
 wierden.nl
-wifi-sport.alkmaar.nl
 wifi.bergenopzoom.nl
 wifi.gemeentemaashorst.nl
 wifi.hilversum.nl
@@ -13707,7 +13660,6 @@ www.aga.amsterdam.nl
 www.agrifoodtech.landvancuijk.nl
 www.alblasserdam.nl
 www.albrandswaard.nl
-www.alkmaar.nl
 www.alleplannen.centrumbegroot.alphenaandenrijn.nl
 www.almelo.nl
 www.almere.nl
@@ -14701,7 +14653,6 @@ www.weert.nl
 www.wegwijsplus.vught.nl
 www.wegwijzer.nijkerk.eu
 www.wepresent.sudwestfryslan.nl
-www.werkenbij.alkmaar.nl
 www.werkenbij.enschede.nl
 www.werkenbij.hollandskroon.nl
 www.werkenbij.hoorn.nl
@@ -14831,7 +14782,6 @@ zaakloket.schiermonnikoog.nl
 zaakloket.terschelling.nl
 zaakloket.vlieland.nl
 zaaksysteem-acc.meppel.nl
-zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl
 zaaksysteem-accept.beuningen.nl
 zaaksysteem-accept.debilt.nl
@@ -14956,7 +14906,6 @@ zmm.druten.nl
 zmm.rhenen.nl
 zoek.epe.nl
 zoek.gilzerijen.nl
-zoeken.alkmaar.nl
 zoeken.deventer.nl
 zoeken.haarlemmermeer.nl
 zoeken.hengelo.nl
