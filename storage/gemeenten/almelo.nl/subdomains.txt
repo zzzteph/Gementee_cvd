@@ -7,11 +7,16 @@ autodiscover.almelo.nl
 bis.almelo.nl
 brandweer.almelo.nl
 cimot.almelo.nl
+data.almelo.nl
 directadmin.almelo.nl
 dkd.almelo.nl
 e.almelo.nl
 enquete.almelo.nl
 flowmailer-tracking.almelo.nl
+formulieren-test.almelo.nl
+formulieren.almelo.nl
+geo-test.almelo.nl
+geo.almelo.nl
 geodata.almelo.nl
 hybrid.almelo.nl
 iburgerzaken.almelo.nl
@@ -21,6 +26,7 @@ join-test.almelo.nl
 join.almelo.nl
 kennisbank.almelo.nl
 kennisnet.almelo.nl
+kunstwerk.almelo.nl
 mail.almelo.nl
 makelaar-test.almelo.nl
 makelaar.almelo.nl
@@ -29,10 +35,11 @@ meldingen.almelo.nl
 mhp.almelo.nl
 mht.almelo.nl
 micstz.almelo.nl
+mijn-test.almelo.nl
+mijn.almelo.nl
 mijninkomen-test.almelo.nl
 mijninkomen.almelo.nl
 msm.almelo.nl
-nac.almelo.nl
 netwerkstad.almelo.nl
 objectenregistratie-api.almelo.nl
 objectenregistratie.almelo.nl
@@ -44,6 +51,7 @@ portaal.almelo.nl
 ruimtelijkeplannen.almelo.nl
 servicedesk.almelo.nl
 smoelennet.almelo.nl
+socialekaart.almelo.nl
 start.almelo.nl
 subsidie.almelo.nl
 subsidies-backend.acceptatie.almelo.nl
@@ -57,4 +65,3 @@ vpn.almelo.nl
 wooninstrumenten.almelo.nl
 workspace365.almelo.nl
 www.almelo.nl
-www.brandweer.almelo.nl

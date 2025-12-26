@@ -2465,6 +2465,7 @@ https://data-test.nijmegen.nl
 https://data-test.wijchen.nl
 https://data.aalsmeer.nl
 https://data.alkmaar.nl
+https://data.almelo.nl
 https://data.amstelveen.nl
 https://data.bergendal.nl
 https://data.beuningen.nl
@@ -3413,6 +3414,7 @@ https://formulieracc.breda.nl
 https://formulieren-acc.hoorn.nl
 https://formulieren-intern.hoorn.nl
 https://formulieren-preprod.veere.nl
+https://formulieren-test.almelo.nl
 https://formulieren-test.beesel.nl
 https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
@@ -3423,6 +3425,7 @@ https://formulieren-test.westbetuwe.nl
 https://formulieren-test.westerkwartier.nl
 https://formulieren-test.westervoort.nl
 https://formulieren-test.zevenaar.nl
+https://formulieren.almelo.nl
 https://formulieren.almere.nl
 https://formulieren.beesel.nl
 https://formulieren.bodegraven-reeuwijk.nl
@@ -4711,6 +4714,7 @@ https://kredietbankwestbrabant.breda.nl
 https://krimpenaandenijssel.nl
 https://krimpenerwaard.nl
 https://ksnijmegen.acc.nijmegen.nl
+https://kunstwerk.almelo.nl
 https://laakhavensbepaalt.denhaag.nl
 https://laarbeek.nl
 https://lab.tod.leiden.nl
@@ -5103,11 +5107,13 @@ https://mijn-acceptatie.waterland.nl
 https://mijn-preproductie.westerkwartier.nl
 https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
+https://mijn-test.almelo.nl
 https://mijn-test.veenendaal.nl
 https://mijn-test.westerkwartier.nl
 https://mijn.aalten.nl
 https://mijn.accp.nijmegen.nl
 https://mijn.albrandswaard.nl
+https://mijn.almelo.nl
 https://mijn.amersfoort.nl
 https://mijn.arnhem.nl
 https://mijn.assen.nl
@@ -6834,6 +6840,7 @@ https://sociaalportaal.tubbergen.nl
 https://social.montferland.info
 https://social.zevenaar.nl
 https://socialekaart.aalsmeer.nl
+https://socialekaart.almelo.nl
 https://socialekaart.echt-susteren.nl
 https://socialekaart.ede.nl
 https://socialekaart.nieuwegein.nl

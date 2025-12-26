@@ -33,9 +33,9 @@ meldingen
 raad
 betalen
 broker
+geo
 parkeren
 api.meldingen
-geo
 adfs
 vpn
 ruimtelijkeplannen
@@ -54,8 +54,8 @@ dloket
 dmidoffice
 api.meldingen-acc
 meldingen-acc
-enterpriseregistration
 data
+enterpriseregistration
 openpdc
 belastingbalie
 remote
@@ -157,6 +157,7 @@ inloggen
 connect.acceptatie
 contentbeheer
 ftp
+formulieren-test
 subsidies
 snelbaliepp
 vdi
@@ -171,7 +172,6 @@ bis
 bag
 sip
 gasten
-formulieren-test
 izaaksuite
 mdm
 smtp
@@ -254,6 +254,7 @@ mijnsociaaldomein
 cloudadapter-prod
 handhaving
 www.denkmee
+socialekaart
 vergunningintaker-preprod
 praatmee
 subsidie
@@ -285,7 +286,6 @@ woz-portaal
 www.intranet
 midoffice
 mijnzorg-acc
-socialekaart
 geovisia
 gisib-test
 gisibapi-test
@@ -528,6 +528,7 @@ edienstenmijninkomen
 edienstverlening-preprod
 edienstverlening
 aanvragen
+mijn-test
 3d
 english
 planon
@@ -732,7 +733,6 @@ ids
 join
 kennisnet
 meldingen.acc
-nac
 start
 apex
 eloketstaging
@@ -1208,7 +1208,6 @@ digitalebelastingbalie-test
 qmatic
 kofax
 egemeente
-mijn-test
 nwro
 szc
 zwemmen
@@ -1254,7 +1253,9 @@ almelo-centraal
 brandweer
 cimot
 directadmin
+geo-test
 join-test
+kunstwerk
 makelaar-test
 mhp
 mht
@@ -1269,7 +1270,6 @@ test-kennisbank
 testportaal
 wooninstrumenten
 workspace365
-www.brandweer
 acc-kaart
 acc-maps
 acc.formulieren
@@ -4222,6 +4222,7 @@ www.gs01msn
 link.socialewegwijzer
 mx11
 mx12
+nac
 nerdio
 preprod-belasting
 preprod.inloggen

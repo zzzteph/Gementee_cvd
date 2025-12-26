@@ -3366,6 +3366,7 @@ data-test.nijmegen.nl
 data-test.wijchen.nl
 data.aalsmeer.nl
 data.alkmaar.nl
+data.almelo.nl
 data.amstelveen.nl
 data.amsterdam.nl
 data.arnhem.nl
@@ -5131,6 +5132,7 @@ formulieren-g4.utrecht.nl
 formulieren-intern.hoorn.nl
 formulieren-preprod.veere.nl
 formulieren-preproductie.vlaardingen.nl
+formulieren-test.almelo.nl
 formulieren-test.beesel.nl
 formulieren-test.bronckhorst.nl
 formulieren-test.culemborg.nl
@@ -5142,6 +5144,7 @@ formulieren-test.westbetuwe.nl
 formulieren-test.westerkwartier.nl
 formulieren-test.westervoort.nl
 formulieren-test.zevenaar.nl
+formulieren.almelo.nl
 formulieren.almere.nl
 formulieren.amersfoort.nl
 formulieren.assen.nl
@@ -5440,7 +5443,9 @@ geo-key2inf.gulpen-wittem.nl
 geo-secure.ermelo.nl
 geo-secure.harderwijk.nl
 geo-secure.zeewolde.nl
+geo-test.almelo.nl
 geo.aaenhunze.nl
+geo.almelo.nl
 geo.arnhem.nl
 geo.beverwijk.nl
 geo.breda.nl
@@ -7303,6 +7308,7 @@ krimpenaandenijssel.nl
 krimpenerwaard.nl
 krm.brievenbus.amsterdam.nl
 ksnijmegen.acc.nijmegen.nl
+kunstwerk.almelo.nl
 kwaliteitsmonitor.utrecht.nl
 laakhavensbepaalt.denhaag.nl
 laarbeek.nl
@@ -8111,11 +8117,13 @@ mijn-preproductie.zuidplas.nl
 mijn-services.accp.nijmegen.nl
 mijn-services.nijmegen.nl
 mijn-t.ot.denhaag.nl
+mijn-test.almelo.nl
 mijn-test.veenendaal.nl
 mijn-test.westerkwartier.nl
 mijn.aalten.nl
 mijn.accp.nijmegen.nl
 mijn.albrandswaard.nl
+mijn.almelo.nl
 mijn.almere.nl
 mijn.amersfoort.nl
 mijn.arnhem.nl
@@ -8624,7 +8632,6 @@ mzdtest.bunnik.nl
 n1.auth.haarlem.nl
 n2.auth.haarlem.nl
 naardebasisschool.utrecht.nl
-nac.almelo.nl
 nac.meierijstad.nl
 najaarsbrief.middelburg.nl
 najaarsnota.pijnacker-nootdorp.nl
@@ -11436,6 +11443,7 @@ social.montferland.info
 social.zevenaar.nl
 socialebasis.kampen.nl
 socialekaart.aalsmeer.nl
+socialekaart.almelo.nl
 socialekaart.echt-susteren.nl
 socialekaart.ede.nl
 socialekaart.nieuwegein.nl
@@ -13736,7 +13744,6 @@ www.borne.nl
 www.borsele.nl
 www.boxtel.nl
 www.bptl.ot.denhaag.nl
-www.brandweer.almelo.nl
 www.breda.nl
 www.brielle.nl
 www.bronckhorst.nl
