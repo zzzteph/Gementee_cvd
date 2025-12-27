@@ -243,6 +243,7 @@ http://beeldbank.leeuwarden.nl
 http://beheer.amsterdam.nl
 http://beheerfotobank.amsterdam.nl
 http://belastingbalie.amsterdam.nl
+http://belastingen.almere.nl
 http://belastingloket.test.oude-ijsselstreek.nl
 http://bergeijk.nl
 http://bergen.nl
@@ -727,6 +728,7 @@ https://abc.roermond.nl
 https://abc.zwolle.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
+https://academie.almere.nl
 https://academie.landgraaf.nl
 https://academie.smallingerland.nl
 https://acc-abc.laarbeek.nl
@@ -1621,7 +1623,6 @@ https://authx3.denhaag.nl
 https://authx30.denhaag.nl
 https://authx4.denhaag.nl
 https://authx5.denhaag.nl
-https://autodiscover.almere.nl
 https://autodiscover.apeldoorn.nl
 https://autodiscover.beverwijk.nl
 https://autodiscover.defryskemarren.nl
@@ -1790,6 +1791,7 @@ https://belastingbalie-acc.hilversum.nl
 https://belastingbalie-acc.noordoostpolder.nl
 https://belastingbalie-acc.wijdemeren.nl
 https://belastingbalie-prepod.gooisemeren.nl
+https://belastingbalie-test.almere.nl
 https://belastingbalie-test.doetinchem.nl
 https://belastingbalie-test.gemeentewestland.nl
 https://belastingbalie-test.leeuwarden.nl
@@ -1800,6 +1802,7 @@ https://belastingbalie-test.veenendaal.nl
 https://belastingbalie-test.veldhoven.nl
 https://belastingbalie.acc.nissewaard.nl
 https://belastingbalie.acc.rhenen.nl
+https://belastingbalie.almere.nl
 https://belastingbalie.amersfoort.nl
 https://belastingbalie.capelleaandenijssel.nl
 https://belastingbalie.doetinchem.nl
@@ -1836,7 +1839,6 @@ https://belastingen-test.gilzerijen.nl
 https://belastingen-test.molenlanden.nl
 https://belastingen.acc.koggenland.nl
 https://belastingen.accp.s-hertogenbosch.nl
-https://belastingen.almere.nl
 https://belastingen.arnhem.nl
 https://belastingen.duiven.nl
 https://belastingen.gemeente-oldambt.nl
@@ -2339,6 +2341,7 @@ https://concern.ir.rotterdam.nl
 https://connect-preprod.almere.nl
 https://connect-with.trouwen.tilburg.nl
 https://connect.acceptatie.winterswijk.nl
+https://connect.almere.nl
 https://connect.goirle.nl
 https://connect.pekela.nl
 https://connect.test.winterswijk.nl
@@ -3225,6 +3228,7 @@ https://erfgoed.medemblik.nl
 https://erfgoed.utrecht.nl
 https://erfgoed.zaanstad.nl
 https://erfgoed.zwolle.nl
+https://erfgoedhuis.almere.nl
 https://erfgoedmaasenniers.gennep.nl
 https://erfpacht.vlaardingen.nl
 https://erfpachtprofessionals.amsterdam.nl
@@ -3384,7 +3388,6 @@ https://forms.wijchen.nl
 https://formtest.middendrenthe.nl
 https://formulier-acc.ede.nl
 https://formulier-acc.leeuwarden.nl
-https://formulier-test.almere.nl
 https://formulier-test.hethogeland.nl
 https://formulier.accp.nijmegen.nl
 https://formulier.accp.s-hertogenbosch.nl
@@ -3744,7 +3747,6 @@ https://goirle.nl
 https://googleauth.gemeentemaastricht.nl
 https://gooisemeren.nl
 https://gorinchem.nl
-https://goud.almere.nl
 https://gouda.nl
 https://govpub.sudwestfryslan.nl
 https://gp.deventer.nl
@@ -3756,7 +3758,6 @@ https://gpp-zoeken.zaanstad.nl
 https://gpt.apeldoorn.nl
 https://grave.landvancuijk.nl
 https://groenekaart.leiden.nl
-https://groenengezond.almere.nl
 https://groenervijfhuizen.haarlemmermeer.nl
 https://groeningen.landvancuijk.nl
 https://grofvuil.westvoorne.nl
@@ -3868,7 +3869,6 @@ https://huurprijscalculator.rotterdam.nl
 https://huursportzaal.kampen.nl
 https://hwok-test.gemeentehw.nl
 https://hwok.gemeentehw.nl
-https://hybrid.almere.nl
 https://hybrid.beverwijk.nl
 https://hybrid.gooisemeren.nl
 https://hybrid.nederbetuwe.nl
@@ -6199,7 +6199,6 @@ https://preprod-mijn.texel.nl
 https://preprod-mijn.zwolle.nl
 https://preprod-mijnaanvragen.purmerend.nl
 https://preprod-mijnaanvragensociaaldomein.venlo.nl
-https://preprod-mijninkomen.almere.nl
 https://preprod-mijninkomen.doesburg.nl
 https://preprod-mijninkomen.dronten.nl
 https://preprod-mijninkomen.gouda.nl
@@ -6986,6 +6985,7 @@ https://subsidieloket-login-acc.midden-groningen.nl
 https://subsidieloket-login.midden-groningen.nl
 https://subsidieloket.midden-groningen.nl
 https://subsidieloket.zwolle.nl
+https://subsidies-acc.almere.nl
 https://subsidies-acceptatie.gemeentewestland.nl
 https://subsidies-backend-acceptatie.gemeentewestland.nl
 https://subsidies-backend-test.heerenveen.nl
@@ -7021,6 +7021,7 @@ https://subsidies.acceptatie.leeuwarden.nl
 https://subsidies.acceptatie.lelystad.nl
 https://subsidies.acceptatie.maassluis.nl
 https://subsidies.almelo.nl
+https://subsidies.almere.nl
 https://subsidies.backoffice.nijmegen.nl
 https://subsidies.debilt.nl
 https://subsidies.ede.nl
@@ -7044,6 +7045,7 @@ https://survey.sudwestfryslan.nl
 https://svhsd-ot.berichtenverkeer.tilburg.nl
 https://svhsd.berichtenverkeer.tilburg.nl
 https://svs-acc.almere.nl
+https://svs.almere.nl
 https://swt.zaanstad.nl
 https://t-diel.nl
 https://taakveldenbegroting2023.bronckhorst.nl
@@ -7522,7 +7524,6 @@ https://voorst.nl
 https://vortum-mullem.landvancuijk.nl
 https://vow.rotterdam.nl
 https://vpn-extern.gooisemeren.nl
-https://vpn.almere.nl
 https://vpn.denhaag.nl
 https://vpn.gemeentestein.nl
 https://vpn.gooisemeren.nl
@@ -7745,7 +7746,6 @@ https://werkenvoor.westerkwartier.nl
 https://werkomgeving.beesel.nl
 https://werkomgeving.rotterdam.nl
 https://werkpakt.enschede.nl
-https://werkplek.almere.nl
 https://werkplek.amersfoort.nl
 https://werkplek.beesel.nl
 https://werkplek.bodegraven-reeuwijk.nl

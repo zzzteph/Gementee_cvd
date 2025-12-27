@@ -162,6 +162,7 @@ abonneren-t.delft.nl
 abonneren.delft.nl
 ac00089.delft.nl
 ac03617.delft.nl
+academie.almere.nl
 academie.drimmelen.nl
 academie.goirle.nl
 academie.landgraaf.nl
@@ -1102,6 +1103,7 @@ agenda.landvancuijk.nl
 agis.apeldoorn.nl
 agrifoodtech.landvancuijk.nl
 agwp01.azweu.alkmaar.nl
+aik.almere.nl
 aip.amsterdam.nl
 airflow.dataplatform.accp.s-hertogenbosch.nl
 airflow.dataplatform.s-hertogenbosch.nl
@@ -1166,7 +1168,6 @@ alleplannen.centrumbegroot.alphenaandenrijn.nl
 alleplannen.laakhavensbepaalt.denhaag.nl
 alleplannen.mariahoeveaanzet.denhaag.nl
 alleplannen.noordwestbegroot.utrecht.nl
-almeersekei.almere.nl
 almelo-centraal.almelo.nl
 almelo.nl
 almere.nl
@@ -1492,7 +1493,6 @@ archief.schiedam.nl
 archief.venlo.nl
 archief.zaanstad.nl
 archieven.stadsarchief.breda.nl
-architectuurprijs.almere.nl
 arena.ami-acc.amsterdam.nl
 arena.ami-dev.amsterdam.nl
 arena.ami-tac.amsterdam.nl
@@ -2155,6 +2155,7 @@ belastingbalie-acc.hilversum.nl
 belastingbalie-acc.noordoostpolder.nl
 belastingbalie-acc.wijdemeren.nl
 belastingbalie-prepod.gooisemeren.nl
+belastingbalie-test.almere.nl
 belastingbalie-test.doetinchem.nl
 belastingbalie-test.gemeentewestland.nl
 belastingbalie-test.leeuwarden.nl
@@ -2166,6 +2167,7 @@ belastingbalie-test.veldhoven.nl
 belastingbalie.acc.amsterdam.nl
 belastingbalie.acc.nissewaard.nl
 belastingbalie.acc.rhenen.nl
+belastingbalie.almere.nl
 belastingbalie.amersfoort.nl
 belastingbalie.amsterdam.nl
 belastingbalie.capelleaandenijssel.nl
@@ -2591,7 +2593,6 @@ bouwdossiers.amsterdam.nl
 bouwdossiers.gemeentewestland.nl
 bouwdossiers.heemstede.nl
 bouwdossiers.stadsarchief.breda.nl
-bouwexpo-tinyhousing.almere.nl
 bouwkavels.hofvantwente.nl
 bouwprojecten.hoorn.nl
 bouwtekeningen.heemstede.nl
@@ -3098,6 +3099,7 @@ connect.acceptatie.peelenmaas.nl
 connect.acceptatie.steenwijkerland.nl
 connect.acceptatie.winterswijk.nl
 connect.acceptatie.zutphen.nl
+connect.almere.nl
 connect.coevorden.nl
 connect.dantumadiel.frl
 connect.doesburg.nl
@@ -4767,6 +4769,7 @@ erfgoed.medemblik.nl
 erfgoed.utrecht.nl
 erfgoed.zaanstad.nl
 erfgoed.zwolle.nl
+erfgoedhuis.almere.nl
 erfgoedmaasenniers.gennep.nl
 erfpacht.amsterdam.nl
 erfpacht.test.denhaag.nl
@@ -5709,7 +5712,6 @@ gooisemeren.nl
 goprod.koggenland.nl
 gorinchem.nl
 gotest.koggenland.nl
-goud.almere.nl
 gouda.nl
 gouwbag-test.haarlemmermeer.nl
 gouwbag.haarlemmermeer.nl
@@ -5762,7 +5764,6 @@ grnwi520.groningen.nl
 groen.harlingen.nl
 groen.sudwestfryslan.nl
 groenekaart.leiden.nl
-groenengezond.almere.nl
 groenervijfhuizen.haarlemmermeer.nl
 groeningen.landvancuijk.nl
 groenlinks.mookenmiddelaar.nl
@@ -7327,7 +7328,6 @@ laren.nl
 lauwersmeer.groningen.nl
 lavueltaholanda.breda.nl
 lb-servers.laarbeek.nl
-lba.almere.nl
 ld-01.hellevoetsluis.nl
 ldap.gemeentehulst.nl
 ldlmks01.leudal.nl
@@ -8048,7 +8048,6 @@ menditectsb.rotterdam.nl
 menditectso.rotterdam.nl
 menditectweni.rotterdam.nl
 menscentraal.doesburg.nl
-mensenmakendestad.almere.nl
 meppel.nl
 merk-acc.denhaag.nl
 merk.denhaag.nl
@@ -8529,7 +8528,6 @@ monitor.zwolle.nl
 monitoring.hellendoorn.nl
 monitoring.nederbetuwe.nl
 monitoring.purmerend.nl
-monitorsociaal.almere.nl
 monrovia.emmen.nl
 montferland.info
 montfoort.nl
@@ -9755,7 +9753,6 @@ podiumd-openklant.deventer.nl
 podiumd-openzaak.deventer.nl
 podiumd-zac.deventer.nl
 point.assen.nl
-politiekemarkt.almere.nl
 pollerscs.rotterdam.nl
 pop.deventer.nl
 pop.opsterland.nl
@@ -9872,7 +9869,6 @@ praatmee.goeree-overflakkee.nl
 praatmee.schiedam.nl
 praatmee.sint-michielsgestel.nl
 praatmee.zaanstad.nl
-prd-phpmyadmin.almere.nl
 prd1.hoorn.nl
 prdb.haarlem.nl
 pre-formulieren.houten.nl
@@ -11752,6 +11748,7 @@ subsidieloket-login.midden-groningen.nl
 subsidieloket.midden-groningen.nl
 subsidieloket.zwolle.nl
 subsidieregister.denhaag.nl
+subsidies-acc.almere.nl
 subsidies-acceptatie.gemeentewestland.nl
 subsidies-backend-acceptatie.gemeentewestland.nl
 subsidies-backend-test.heerenveen.nl
@@ -11790,6 +11787,7 @@ subsidies.acceptatie.leeuwarden.nl
 subsidies.acceptatie.lelystad.nl
 subsidies.acceptatie.maassluis.nl
 subsidies.almelo.nl
+subsidies.almere.nl
 subsidies.backoffice.nijmegen.nl
 subsidies.debilt.nl
 subsidies.ede.nl
@@ -11846,6 +11844,7 @@ svrmks.twenterand.nl
 svrnedgeo.twenterand.nl
 svrxentialprd.twenterand.nl
 svs-acc.almere.nl
+svs.almere.nl
 svtobmks01.gem.overbetuwe.nl
 swa1158ot.iamacc.denhaag.nl
 swt.zaanstad.nl
