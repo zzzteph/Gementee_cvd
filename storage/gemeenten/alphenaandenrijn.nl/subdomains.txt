@@ -46,7 +46,6 @@ rpl3.alphenaandenrijn.nl
 samenveiligwerken.alphenaandenrijn.nl
 snelbalie.alphenaandenrijn.nl
 snelbaliepp.alphenaandenrijn.nl
-ssp.alphenaandenrijn.nl
 test-mijnoverzicht.alphenaandenrijn.nl
 testdigitaalgemeenteloket.alphenaandenrijn.nl
 testkaart.alphenaandenrijn.nl
