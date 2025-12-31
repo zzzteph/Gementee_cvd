@@ -380,7 +380,6 @@ http://lingewaard.nl
 http://login.sittard-geleen.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
-http://magazine.amersfoort.nl
 http://magazine.schagen.nl
 http://mail.kampen.nl
 http://mail.wijdemeren.nl
@@ -1805,7 +1804,6 @@ https://belastingbalie-test.veldhoven.nl
 https://belastingbalie.acc.nissewaard.nl
 https://belastingbalie.acc.rhenen.nl
 https://belastingbalie.almere.nl
-https://belastingbalie.amersfoort.nl
 https://belastingbalie.capelleaandenijssel.nl
 https://belastingbalie.doetinchem.nl
 https://belastingbalie.ede.nl
@@ -2011,7 +2009,6 @@ https://betalenaan.oirschot.nl
 https://betalingen.amsterdam.nl
 https://beugen.landvancuijk.nl
 https://bewegen.apeldoorn.nl
-https://bewustwording.amersfoort.nl
 https://bewustwording.brielle.nl
 https://bewustwording.waalre.nl
 https://bewustwording.westerwolde.nl
@@ -2700,6 +2697,7 @@ https://duurzaam.purmerend.nl
 https://duurzaambouwen.gooisemeren.nl
 https://duurzaamwonen.sittard-geleen.nl
 https://dvlm.3d.utrecht.nl
+https://e-dienstaanvragen.amersfoort.nl
 https://e-loket.apeldoorn.nl
 https://e-loket.bergen.nl
 https://e-loket.gemeentebest.nl
@@ -4874,7 +4872,6 @@ https://lvs.zwemmen.venlo.nl
 https://lyncdiscover.diemen.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
-https://m.amersfoort.nl
 https://m.lochem.nl
 https://m.voorst.nl
 https://maak.zaanstad.nl
@@ -6463,7 +6460,6 @@ https://rds.waalwijk.nl
 https://rdweb.houten.nl
 https://rdweb01.schagen.nl
 https://reclame.nijmegen.nl
-https://redactie.amersfoort.nl
 https://redirect.leeuwarden.nl
 https://reflex.s-hertogenbosch.nl
 https://regelen.haarlem.nl
@@ -7328,7 +7324,6 @@ https://topvorm.apeldoorn.nl
 https://tportal.noordoostpolder.nl
 https://tr.barneveld.nl
 https://tra.hengelo.nl
-https://tracking.amersfoort.nl
 https://tradities.doemee.bloemendaal.nl
 https://tradities.heemstede.nl
 https://trainersportaal.huizen.nl
