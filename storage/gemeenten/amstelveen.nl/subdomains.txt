@@ -13,8 +13,8 @@ edienstenburgerzaken.amstelveen.nl
 edienstenburgerzaken.test.amstelveen.nl
 email.mail.denkmee.amstelveen.nl
 ems.amstelveen.nl
+energieloket.amstelveen.nl
 fgt.amstelveen.nl
-jcc.amstelveen.nl
 loket.acceptatie.amstelveen.nl
 loket.amstelveen.nl
 loket.test.amstelveen.nl
@@ -22,6 +22,9 @@ mail.denkmee.amstelveen.nl
 midoffice.amstelveen.nl
 mijnzorg-acc.amstelveen.nl
 mijnzorg.amstelveen.nl
+parkeren.amstelveen.nl
+smartaim.amstelveen.nl
+socialekaart.amstelveen.nl
 test.amstelveen.nl
 webmailpost.amstelveen.nl
 werkenvoor.acceptatie.amstelveen.nl

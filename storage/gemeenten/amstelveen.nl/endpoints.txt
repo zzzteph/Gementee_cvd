@@ -9,12 +9,14 @@ https://documenten.amstelveen.nl
 https://edienstenburgerzaken.amstelveen.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://email.mail.denkmee.amstelveen.nl
+https://energieloket.amstelveen.nl
 https://fgt.amstelveen.nl
 https://loket.acceptatie.amstelveen.nl
 https://loket.amstelveen.nl
 https://loket.test.amstelveen.nl
 https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg.amstelveen.nl
+https://socialekaart.amstelveen.nl
 https://werkenvoor.acceptatie.amstelveen.nl
 https://werkenvoor.amstelveen.nl
 https://www.acceptatie.amstelveen.nl

@@ -3137,6 +3137,7 @@ https://en.wassenaar.nl
 https://en.zoetermeer.nl
 https://energiek.beuningen.nl
 https://energieklussers.rotterdam.nl
+https://energieloket.amstelveen.nl
 https://energieloket.hilversum.nl
 https://energiepunt.apeldoorn.nl
 https://energiethuis.eba.maassluis.nl
@@ -6838,6 +6839,7 @@ https://social.montferland.info
 https://social.zevenaar.nl
 https://socialekaart.aalsmeer.nl
 https://socialekaart.almelo.nl
+https://socialekaart.amstelveen.nl
 https://socialekaart.echt-susteren.nl
 https://socialekaart.ede.nl
 https://socialekaart.nieuwegein.nl

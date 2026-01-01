@@ -4670,6 +4670,7 @@ endpoint.oss.nl
 energiebespaaradvies.overbetuwe.nl
 energiek.beuningen.nl
 energieklussers.rotterdam.nl
+energieloket.amstelveen.nl
 energieloket.hilversum.nl
 energieloket.utrecht.nl
 energiepunt.apeldoorn.nl
@@ -6919,7 +6920,6 @@ jbt.test.denhaag.nl
 jcc-afspraken.brunssum.nl
 jcc-api.rijssen-holten.nl
 jcc-test.heerlen.nl
-jcc.amstelveen.nl
 jcc.bergenopzoom.nl
 jcc.heerlen.nl
 jcc.ijsselstein.nl
@@ -9518,6 +9518,7 @@ parkeren-test.zutphen.nl
 parkeren-test.zwijndrecht.nl
 parkeren.accp.s-hertogenbosch.nl
 parkeren.almelo.nl
+parkeren.amstelveen.nl
 parkeren.apeldoorn.nl
 parkeren.assen.nl
 parkeren.bloemendaal.nl
@@ -11314,6 +11315,7 @@ sm1-sec.schiedam.nl
 smallingerland.nl
 smap.almere.nl
 smartaim-test.haarlemmermeer.nl
+smartaim.amstelveen.nl
 smartaim.haarlemmermeer.nl
 smartatsea.denhaag.nl
 smartcity.denhaag.nl
@@ -11436,6 +11438,7 @@ social.zevenaar.nl
 socialebasis.kampen.nl
 socialekaart.aalsmeer.nl
 socialekaart.almelo.nl
+socialekaart.amstelveen.nl
 socialekaart.echt-susteren.nl
 socialekaart.ede.nl
 socialekaart.nieuwegein.nl
