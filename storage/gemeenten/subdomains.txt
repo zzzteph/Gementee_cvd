@@ -78,13 +78,13 @@ SnelbaliePP.nissewaard.nl
 Snelbaliepp.terneuzen.nl
 Squit2020publiceren.winterswijk.nl
 Squitpub-prod.haarlem.nl
-Top.apeldoorn.nl
 VRiSeLoket.cranendonck.nl
 WOZ-loket.heeze-leende.nl
 WOZ-loket.valkenswaard.nl
 Www.lochem.nl
 _autodiscover._tcp.aalten.nl
 _autodiscover._tcp.ameland.nl
+_autodiscover._tcp.apeldoorn.nl
 _autodiscover._tcp.barendrecht.nl
 _autodiscover._tcp.bergeijk.nl
 _autodiscover._tcp.boxtel.nl
@@ -1537,6 +1537,7 @@ appconnect.wageningen.nl
 appl.gw.rotterdam.nl
 appl03.schiedam.nl
 applicaties.amsterdam.nl
+applicaties.apeldoorn.nl
 applicaties.tilburg.nl
 applicaties.zwolle.nl
 apps-fat.dijkenwaard.nl
@@ -3180,6 +3181,9 @@ cognos.kerkrade.nl
 cognos.simpelveld.nl
 cognos.utrecht.nl
 cognos.voerendaal.nl
+cognosweb.apeldoorn.nl
+cognoswebacc.apeldoorn.nl
+cognoswebbi.apeldoorn.nl
 cok.amsterdam.nl
 collabora.ede.nl
 collecties.dantumadiel.frl
@@ -3982,6 +3986,8 @@ dis4fin.voerendaal.nl
 dis4fintest.simpelveld.nl
 dis4fis-prod.waterland.nl
 dis4fis-test.waterland.nl
+dis4piv.apeldoorn.nl
+dis4pivacc.apeldoorn.nl
 discoverreceiver.purmerend.nl
 ditwilikin.rotterdam.nl
 djuma-mks-prd.velsen.nl
@@ -5945,6 +5951,7 @@ gplan.rheden.nl
 gpp-app.zaanstad.nl
 gpp-publicatiebank.zaanstad.nl
 gpp-zoeken.zaanstad.nl
+gps.apeldoorn.nl
 gpt.apeldoorn.nl
 grave.landvancuijk.nl
 griffie.rotterdam.nl
@@ -6115,6 +6122,7 @@ home.groningen.nl
 home1.groningen.nl
 home2.groningen.nl
 hometest.groningen.nl
+hoogbouw.apeldoorn.nl
 hoogeland.groningen.nl
 hoogeveen.nl
 hoorn.nl
@@ -7366,6 +7374,8 @@ key2gbavtest.simpelveld.nl
 key2gbavtest.voerendaal.nl
 key2parkeren.utrecht.nl
 key2percelen.haarlemmermeer.nl
+key2sub.apeldoorn.nl
+key2subacc.apeldoorn.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
 keycloak-adm.denhaag.nl
 keycloak-admin.assen.nl
@@ -7473,6 +7483,8 @@ kodision.sudwestfryslan.nl
 kodisiontest.sudwestfryslan.nl
 kofax.twenterand.nl
 kofax.winterswijk.nl
+kofaxta.apeldoorn.nl
+kofaxtaacc.apeldoorn.nl
 koggenland.nl
 kompas.rotterdam.nl
 komverder.krimpenaandenijssel.nl
@@ -7895,6 +7907,7 @@ mail.echt-susteren.nl
 mail.ede.nl
 mail.eemsdelta.nl
 mail.eijsden-margraten.nl
+mail.energiepunt.apeldoorn.nl
 mail.enkhuizen.nl
 mail.enschede.nl
 mail.epe.nl
@@ -8098,7 +8111,6 @@ mdmks.middendrenthe.nl
 mdr.beverwijk.nl
 mdtel01.middendrenthe.nl
 mdx.zutphen.nl
-medeleven.apeldoorn.nl
 medemblik.nl
 medewerkers.buren.nl
 medewerkers.defryskemarren.nl
@@ -8905,6 +8917,7 @@ neuron.prod.baarn.nl
 neuron.test.baarn.nl
 neuron.zandvoort.nl
 neurontst.kerkrade.nl
+nextcloud.apeldoorn.nl
 nextcloud.ede.nl
 ngdw.brunssum.nl
 ngsrv02.ad.winterswijk.nl
@@ -11652,9 +11665,11 @@ snowinv.utrecht.nl
 sociaal.amsterdam.nl
 sociaaldomein-acc.ijsselstein.nl
 sociaaldomein.almere.nl
+sociaaldomein.apeldoorn.nl
 sociaaldomein.gulpen-wittem.nl
 sociaaldomein.heerde.nl
 sociaaldomein.ijsselstein.nl
+sociaaldomeinacc.apeldoorn.nl
 sociaaljaarverslag.hollandskroon.nl
 sociaalloket.medemblik.nl
 sociaalplein.gemeentewestland.nl
@@ -12685,7 +12700,6 @@ tom.eijsden-margraten.nl
 toolbox.openstad.enschede.nl
 tooltracker.utrecht.nl
 top.amsterdam.nl
-top.apeldoorn.nl
 top.geertruidenberg.nl
 topdesk.delft.nl
 topdesk.houten.nl
@@ -13021,6 +13035,8 @@ viewer.zaanstad.nl
 vijfheerenlanden.nl
 vind.sint-michielsgestel.nl
 vinden.heuvelrug.nl
+violix.apeldoorn.nl
+violixacc.apeldoorn.nl
 vis.gouda.nl
 visnet-acc.vlissingen.nl
 visnet.vlissingen.nl
@@ -14440,7 +14456,6 @@ www.mail.zandvoort.nl
 www.mariahoeveaanzet.denhaag.nl
 www.marketingtools.goeree-overflakkee.nl
 www.mas.groningen.nl
-www.matenpark.apeldoorn.nl
 www.mdm.gemeentewestland.nl
 www.mdm.haarlem.nl
 www.mdm.waterland.nl
@@ -14631,7 +14646,6 @@ www.preprod-belastingloket.overbetuwe.nl
 www.preprod-woz-portaal-eemnes.baarn.nl
 www.preprod.clo.gemeentehulst.nl
 www.prifill-test.sudwestfryslan.nl
-www.prijsvraag-zwembad.apeldoorn.nl
 www.prod-kodision-cli.sudwestfryslan.nl
 www.prodoud.venray.nl
 www.proeftuin.amsterdam.nl
@@ -14996,6 +15010,7 @@ www2.haarlemmermeer.nl
 www2.heusden.nl
 www2.noordoostpolder.nl
 www2.testformulieren.haarlemmermeer.nl
+wwwt.apeldoorn.nl
 wwwtest.beuningen.nl
 xelion.deurne.nl
 xencor.bergenopzoom.nl

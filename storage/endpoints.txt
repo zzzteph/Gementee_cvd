@@ -427,6 +427,7 @@ http://login.sittard-geleen.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
 http://magazine.schagen.nl
+http://mail.energiepunt.apeldoorn.nl
 http://mail.kampen.nl
 http://mail.wijdemeren.nl
 http://malengo-cms.gemert-bakel.nl
@@ -2426,6 +2427,9 @@ https://coda-acc.nissewaard.nl
 https://coevorden.nl
 https://cognos-oth.oosterhout.nl
 https://cognos.utrecht.nl
+https://cognosweb.apeldoorn.nl
+https://cognoswebacc.apeldoorn.nl
+https://cognoswebbi.apeldoorn.nl
 https://cok.amsterdam.nl
 https://collecties.dantumadiel.frl
 https://collecties.losser.nl
@@ -2722,6 +2726,8 @@ https://dijkenwaard.nl
 https://dinkelland.nl
 https://directadmin.almelo.nl
 https://directduidelijk.openstad.enschede.nl
+https://dis4piv.apeldoorn.nl
+https://dis4pivacc.apeldoorn.nl
 https://discoverreceiver.purmerend.nl
 https://dkd.deventer.nl
 https://dkdtest.deventer.nl
@@ -3983,6 +3989,7 @@ https://hofvantwente.nl
 https://hollandskroon.nl
 https://holthees.landvancuijk.nl
 https://hometest.groningen.nl
+https://hoogbouw.apeldoorn.nl
 https://hoogeveen.nl
 https://hoorn.nl
 https://horizon.zoetermeer.nl
@@ -4210,6 +4217,7 @@ https://ibzpink.achtkarspelen.nl
 https://ibzpink.almelo.nl
 https://ibzpink.alphen-chaam.nl
 https://ibzpink.amersfoort.nl
+https://ibzpink.apeldoorn.nl
 https://ibzpink.bergendal.nl
 https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
@@ -4759,6 +4767,8 @@ https://kennisportaal.denhaag.nl
 https://kennisportaal.deventer.nl
 https://kennisportaal2.deventer.nl
 https://kernhem.ede.nl
+https://key2sub.apeldoorn.nl
+https://key2subacc.apeldoorn.nl
 https://keycloak-adm.denhaag.nl
 https://keycloak-admin.assen.nl
 https://keycloak-admin.borger-odoorn.nl
@@ -4846,6 +4856,8 @@ https://kluis.hethogeland.nl
 https://knaal.helmond.nl
 https://knowledgebase.sittard-geleen.nl
 https://kofax.winterswijk.nl
+https://kofaxta.apeldoorn.nl
+https://kofaxtaacc.apeldoorn.nl
 https://kompas.rotterdam.nl
 https://komverder.krimpenaandenijssel.nl
 https://koppelpoort.amersfoort.nl
@@ -5614,6 +5626,7 @@ https://nederbetuwe.nl
 https://nerdio.meierijstad.nl
 https://neuron-test.gorinchem.nl
 https://neuron.gorinchem.nl
+https://nextcloud.apeldoorn.nl
 https://ngsrv02.ad.winterswijk.nl
 https://nha.amsterdam.nl
 https://nicewfm.utrecht.nl
@@ -6974,8 +6987,10 @@ https://snelbezwaar.test.purmerend.nl
 https://snowagent.denhaag.nl
 https://snowinv.utrecht.nl
 https://sociaaldomein.almere.nl
+https://sociaaldomein.apeldoorn.nl
 https://sociaaldomein.gulpen-wittem.nl
 https://sociaaldomein.heerde.nl
+https://sociaaldomeinacc.apeldoorn.nl
 https://sociaaljaarverslag.hollandskroon.nl
 https://sociaalloket.medemblik.nl
 https://sociaalportaal.dinkelland.nl
@@ -7654,6 +7669,8 @@ https://viewer-acc.zaanstad.nl
 https://viewer.zaanstad.nl
 https://vijfheerenlanden.nl
 https://vinden.heuvelrug.nl
+https://violix.apeldoorn.nl
+https://violixacc.apeldoorn.nl
 https://visnet-acc.vlissingen.nl
 https://visnet.vlissingen.nl
 https://visvijver.doetinchem.nl
@@ -8346,7 +8363,6 @@ https://www.loonopzand.nl
 https://www.losser.nl
 https://www.maasdriel.nl
 https://www.mariahoeveaanzet.denhaag.nl
-https://www.matenpark.apeldoorn.nl
 https://www.mdm.waterland.nl
 https://www.medemblik.nl
 https://www.meedenken.arnhem.nl
@@ -8427,7 +8443,6 @@ https://www.platform.culemborg.nl
 https://www.portal.olst-wijhe.nl
 https://www.positionering.denhaag.nl
 https://www.praatmee.alblasserdam.nl
-https://www.prijsvraag-zwembad.apeldoorn.nl
 https://www.publicaties.s-hertogenbosch.nl
 https://www.purmerend.nl
 https://www.putten.nl

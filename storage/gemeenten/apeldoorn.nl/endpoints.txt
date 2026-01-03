@@ -1,3 +1,4 @@
+http://mail.energiepunt.apeldoorn.nl
 http://test-topvorm.apeldoorn.nl
 http://www.stadspas.apeldoorn.nl
 https://admin.openstad.apeldoorn.nl
@@ -14,11 +15,16 @@ https://auth.openstad.apeldoorn.nl
 https://autodiscover.apeldoorn.nl
 https://bewegen.apeldoorn.nl
 https://cms.openstad.apeldoorn.nl
+https://cognosweb.apeldoorn.nl
+https://cognoswebacc.apeldoorn.nl
+https://cognoswebbi.apeldoorn.nl
 https://crypt.apeldoorn.nl
 https://cryptacc.apeldoorn.nl
 https://dagbesteding.apeldoorn.nl
 https://dataportaal.apeldoorn.nl
 https://digitaleplannen.apeldoorn.nl
+https://dis4piv.apeldoorn.nl
+https://dis4pivacc.apeldoorn.nl
 https://e-loket.apeldoorn.nl
 https://energiepunt.apeldoorn.nl
 https://enterpriseenrollment.apeldoorn.nl
@@ -29,11 +35,17 @@ https://gbi.apeldoorn.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
 https://gpt.apeldoorn.nl
+https://hoogbouw.apeldoorn.nl
 https://iburgerzaken.apeldoorn.nl
+https://ibzpink.apeldoorn.nl
 https://img.openstad.apeldoorn.nl
 https://intranet.apeldoorn.nl
 https://intranetacc.apeldoorn.nl
+https://key2sub.apeldoorn.nl
+https://key2subacc.apeldoorn.nl
 https://kinderburgemeester.apeldoorn.nl
+https://kofaxta.apeldoorn.nl
+https://kofaxtaacc.apeldoorn.nl
 https://maatwerkacc.apeldoorn.nl
 https://mail.apeldoorn.nl
 https://mas.apeldoorn.nl
@@ -46,6 +58,7 @@ https://ndes.apeldoorn.nl
 https://ndesapeldoorn.apeldoorn.nl
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
+https://nextcloud.apeldoorn.nl
 https://openstad.apeldoorn.nl
 https://parkeerapp.apeldoorn.nl
 https://parkeren.apeldoorn.nl
@@ -58,6 +71,8 @@ https://smartdoc.apeldoorn.nl
 https://smartdocacc.apeldoorn.nl
 https://snelbalie.apeldoorn.nl
 https://snelbaliepp.apeldoorn.nl
+https://sociaaldomein.apeldoorn.nl
+https://sociaaldomeinacc.apeldoorn.nl
 https://stadspark.apeldoorn.nl
 https://stadspas.apeldoorn.nl
 https://talent.apeldoorn.nl
@@ -68,7 +83,7 @@ https://uitvaartagenda-dev.apeldoorn.nl
 https://uitvaartagenda-staging.apeldoorn.nl
 https://uitvaartagenda-test.apeldoorn.nl
 https://uitvaartagenda.apeldoorn.nl
+https://violix.apeldoorn.nl
+https://violixacc.apeldoorn.nl
 https://www.energiepunt.apeldoorn.nl
-https://www.matenpark.apeldoorn.nl
 https://www.openstad.apeldoorn.nl
-https://www.prijsvraag-zwembad.apeldoorn.nl

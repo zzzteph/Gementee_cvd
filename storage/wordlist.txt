@@ -79,9 +79,9 @@ zaken
 hybrid
 cloudadapter
 kaarten
+_autodiscover._tcp
 connect
 klantcontact
-_autodiscover._tcp
 digikoppeling.test
 parkeren-acc
 acc-broker
@@ -339,6 +339,7 @@ toegang
 subsidies-backend.acceptatie
 subsidies.acceptatie
 diensten
+sociaaldomein
 dkd-test
 msoid
 www.duurzaam
@@ -412,7 +413,6 @@ loket.test
 de
 veiligmailen
 secure-test
-sociaaldomein
 stadsarchief
 mijnoverzicht
 test-zaakloket
@@ -420,6 +420,7 @@ testsiam
 zaakloket
 2secure
 mail1
+applicaties
 belastingbalie-acc
 cms.openstad
 gbi
@@ -544,14 +545,12 @@ energieloket
 acc.meldingen
 api.acc.meldingen
 app
-applicaties
 belastingbalie.acc
 bouwdossiers
 dataportaal
 dev
 ombudsman
 rekenkamer
-top
 digitaleplannen
 parkeerapp
 smartdoc
@@ -790,6 +789,7 @@ duurzaamwonen
 fileshare
 formulieren-g4-acc
 mijnbelastingen
+top
 www1
 cc
 fm
@@ -797,6 +797,7 @@ gpa
 intranetacc
 mas
 mo
+nextcloud
 octobox
 tijdschrijven
 uitvaartagenda
@@ -1975,7 +1976,6 @@ zwd
 2connect-acc
 2connect-tst
 2connect
-Top
 adiko
 adp
 adpa
@@ -1987,11 +1987,16 @@ atijdschrijven
 atlasacc
 bewegen
 cctst
+cognosweb
+cognoswebacc
+cognoswebbi
 crypt
 cryptacc
 csp-report
 dagbesteding
 diko
+dis4piv
+dis4pivacc
 energiepunt
 financials-acc
 financials
@@ -2000,10 +2005,16 @@ fm02
 gn2connect-acc
 gn2connect
 gpg
+gps
 gpt
+hoogbouw
+key2sub
+key2subacc
+kofaxta
+kofaxtaacc
 maatwerkacc
+mail.energiepunt
 matenpark
-medeleven
 mheenpark
 mijngeldzakenacc
 ndes
@@ -2016,6 +2027,7 @@ proto
 riv
 riviewer
 smartdocacc
+sociaaldomeinacc
 stadspark
 talent
 test-e-loket
@@ -2024,9 +2036,10 @@ topvorm
 uitvaartagenda-dev
 uitvaartagenda-staging
 uitvaartagenda-test
+violix
+violixacc
 www.energiepunt
-www.matenpark
-www.prijsvraag-zwembad
+wwwt
 edienstenweni-test
 edienstenweni
 geo1
@@ -2907,7 +2920,6 @@ liquidfiles-acc
 liquidfiles
 liveblog
 logoff
-nextcloud
 pencportal
 pit
 spin
