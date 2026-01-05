@@ -1,7 +1,0 @@
-http://autodiscover.renswoude.nl
-http://renswoude.nl
-https://edienstenburgerzaken-test.renswoude.nl
-https://edienstenburgerzaken.renswoude.nl
-https://simcms.renswoude.nl
-https://web.renswoude.nl
-https://www.renswoude.nl

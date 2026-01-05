@@ -1,7 +1,0 @@
-http://autodiscover.ijsselstein.nl
-http://sociaaldomein.ijsselstein.nl
-https://gijs-acc.ijsselstein.nl
-https://gijs.ijsselstein.nl
-https://gijscms.ijsselstein.nl
-https://ijsselstein.nl
-https://testeloket.ijsselstein.nl

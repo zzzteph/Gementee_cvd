@@ -1,7 +1,0 @@
-http://afspraken.vaals.nl
-https://acc.vaals.nl
-https://iburgerzaken.vaals.nl
-https://ibzpink.vaals.nl
-https://mta-sts.vaals.nl
-https://vaals.nl
-https://www.vaals.nl

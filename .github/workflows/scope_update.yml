@@ -1,0 +1,80 @@
+name: Scope update
+
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-scope:
+    runs-on: ubuntu-latest
+    env:
+      SCOPE_FOLDER: ./storage/projects
+      DB_PATH: ./storage/database.db
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Create empty branch if not exists
+        run: |
+          git fetch --all --prune
+
+          if git ls-remote --exit-code --heads origin empty > /dev/null 2>&1; then
+            echo "Remote branch 'empty' already exists"
+          else
+            echo "Creating empty branch and pushing it to origin"
+            git checkout --orphan empty
+            git rm -rf . || true
+            git commit --allow-empty -m "Initial empty branch"
+            git push -u origin empty
+          fi
+
+      - name: Create storage branch
+        run: |
+          git fetch --all --prune
+          if git ls-remote --exit-code --heads origin "storage" > /dev/null 2>&1; then
+            echo "Remote branch storage already exists"
+          else
+            git checkout empty
+            git checkout -b "storage"
+            git push -u origin "storage"
+          fi
+
+
+      - name: Add storage worktree into ./storage
+        run: |
+          git fetch origin storage
+          git worktree add storage storage
+
+
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r engine/requirements.txt
+
+      - name: Sync scope
+        run: |
+          python engine/sync_scope.py
+
+
+      - name: Commit & push back to storage branch
+        working-directory: storage
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+          git commit -m "Update storage" || echo "No changes to commit"
+          git push origin storage

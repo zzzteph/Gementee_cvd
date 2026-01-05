@@ -26,6 +26,7 @@ def get_latest_unscanned_or_oldest_scanned():
         print(f"LATEST_SCOPE_ID={latest_unscanned.id}")
         print(f"LATEST_SCOPE_NAME={latest_unscanned.name}")
         print(f"LATEST_SCOPE_TYPE ={latest_unscanned.type}")
+        print(f"LATEST_SCOPE_TAG={latest_unscanned.tag}")
         latest_unscanned.updated_at = utc_now()
         latest_unscanned.scanned = True
         session.commit()
@@ -34,6 +35,7 @@ def get_latest_unscanned_or_oldest_scanned():
         print("LATEST_SCOPE_ID=None")
         print("LATEST_SCOPE_NAME=None")
         print("LATEST_SCOPE_TYPE=None")
+        print("LATEST_SCOPE_TAG=None")
         return None
 
 if __name__ == "__main__":

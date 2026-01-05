@@ -1,9 +1,0 @@
-http://autodiscover.alkmaar.nl
-https://afspraken.alkmaar.nl
-https://agwp01.azweu.alkmaar.nl
-https://alkmaar.nl
-https://data.alkmaar.nl
-https://datalab.alkmaar.nl
-https://extern.digimedia.alkmaar.nl
-https://test-subsidieloket.alkmaar.nl
-https://veiligdelen.alkmaar.nl

@@ -7,6 +7,10 @@ import tldextract
 def utc_now():
     return datetime.now(timezone.utc)
 
+def get_top_level_domain(domain):
+    """Extracts the top-level domain (TLD) from a given domain."""
+    extracted = tldextract.extract(domain)
+    return f"{extracted.domain}.{extracted.suffix}" if extracted.suffix else extracted.domain
 
 def import_endpoints(scope_id: int, file_path: str):
     session = Session()
@@ -25,12 +29,12 @@ def import_endpoints(scope_id: int, file_path: str):
 
             #getting correct endpoint        
             endpoint_tld=tldextract.extract(data.get("url"))
-
+            print(f"{endpoint_tld.fqdn}")
             resource =session.query(Resource).filter_by(scope_id=scope_id, name=endpoint_tld.fqdn).first()
             if not resource:
                 continue
             endpoint= session.query(Endpoint).filter_by(resource_id=resource.id, name=data.get("url")).first()
-
+            print(f"{data.get("url")}")
             if resource and endpoint:
                 endpoint.name=data.get("url")
                 endpoint.port=int(data.get("port", 0))
@@ -72,7 +76,7 @@ def import_endpoints(scope_id: int, file_path: str):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python import_endpoints.py <scope_id> <file_path>")
+        print("Usage: python httpx_parser.py <scope_id> <file_path>")
         sys.exit(1)
 
     import_endpoints(int(sys.argv[1]), sys.argv[2])
