@@ -72,7 +72,7 @@ class Endpoint(Base):
 
 
 # Database setup
-engine = create_engine("sqlite:///database/database.db")
+engine = create_engine("sqlite:///storage/database.db")
 Base.metadata.create_all(engine)
 
 Session = sessionmaker(bind=engine)
