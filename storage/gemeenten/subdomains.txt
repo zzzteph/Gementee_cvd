@@ -164,6 +164,7 @@ aardgasvrij.nijmegen.nl
 aauth.gouda.nl
 aba-acc.amsterdam.nl
 aba.amsterdam.nl
+abc.assen.nl
 abc.oldenzaal.nl
 abc.oostgelre.nl
 abc.roermond.nl
@@ -178,6 +179,7 @@ academie.goirle.nl
 academie.landgraaf.nl
 academie.nederbetuwe.nl
 academie.smallingerland.nl
+acc-abc.assen.nl
 acc-abc.laarbeek.nl
 acc-abc.oldenzaal.nl
 acc-abc.oostgelre.nl
@@ -240,7 +242,12 @@ acc-formulier.oostgelre.nl
 acc-formulier.roermond.nl
 acc-formulier.rotterdam.nl
 acc-formulier.zwolle.nl
+acc-gpp-app.assen.nl
+acc-gpp-burgerportaal.assen.nl
+acc-gpp-publicatiebank.assen.nl
+acc-gpp-zoeken.assen.nl
 acc-idbroker.tynaarlo.nl
+acc-ita.assen.nl
 acc-ita.zwolle.nl
 acc-kaart.almere.nl
 acc-keycloak-admin.assen.nl
@@ -346,6 +353,7 @@ acc-objecttypen.oostgelre.nl
 acc-objecttypen.roermond.nl
 acc-objecttypen.rotterdam.nl
 acc-objecttypen.zwolle.nl
+acc-office-addin.assen.nl
 acc-office-addin.zwolle.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
@@ -1269,6 +1277,7 @@ amvi.amsterdam.nl
 analytics.gis.tilburg.nl
 analytics.rijswijk.nl
 analytics.westmaasenwaal.nl
+ananke.assen.nl
 andreas-api.acc.amsterdam.nl
 andreas-api.amsterdam.nl
 andreas-opleiding.amsterdam.nl
@@ -2407,6 +2416,7 @@ bergendal.nl
 bergenopzoom.nl
 berichten-test.rijswijk.nl
 berichten.alphen-chaam.nl
+berichten.assen.nl
 berichten.baarle-nassau.nl
 berichten.bergendal.nl
 berichten.cranendonck.nl
@@ -7078,6 +7088,7 @@ isis-a.rotterdam.nl
 isis.rotterdam.nl
 isms-acc.denhaag.nl
 isms.denhaag.nl
+ita.assen.nl
 ita.zwolle.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
@@ -9162,6 +9173,7 @@ oeffelt.landvancuijk.nl
 oegstgeest.nl
 oekraine.zaanstad.nl
 oens.almere.nl
+office-addin.assen.nl
 office-addin.zwolle.nl
 office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
@@ -12174,6 +12186,7 @@ teradek.roermond.nl
 terneuzen.nl
 terschelling.nl
 test-2secure.gulpen-wittem.nl
+test-abc.assen.nl
 test-abc.rotterdam.nl
 test-belastingbalie.eindhoven.nl
 test-belastingen.wageningen.nl
@@ -12210,6 +12223,7 @@ test-cmssocial.montferland.info
 test-cmssocialintranet.middendelfland.nl
 test-cmsurknet.urk.nl
 test-cmszaanzoeker.zaanstad.nl
+test-contact.assen.nl
 test-contact.enschede.nl
 test-contact.gemert-bakel.nl
 test-contact.rotterdam.nl
@@ -12299,6 +12313,7 @@ test-ipa.velsen.nl
 test-ipa.waddinxveen.nl
 test-ipa.weststellingwerf.nl
 test-ipa.wierden.nl
+test-ita.assen.nl
 test-jip.hofvantwente.nl
 test-jip.vijfheerenlanden.nl
 test-kaart.almere.nl
@@ -12344,6 +12359,7 @@ test-objecttypen.enschede.nl
 test-objecttypen.gemert-bakel.nl
 test-objecttypen.rotterdam.nl
 test-objecttypen.zwolle.nl
+test-office-addin.assen.nl
 test-open.zandvoort.nl
 test-openklant.assen.nl
 test-openklant.enschede.nl

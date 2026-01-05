@@ -773,6 +773,7 @@ https://aanvragenprod.teylingen.nl
 https://aardgasvrij.acc.nijmegen.nl
 https://aardgasvrij.nijmegen.nl
 https://aba-acc.amsterdam.nl
+https://abc.assen.nl
 https://abc.oldenzaal.nl
 https://abc.oostgelre.nl
 https://abc.roermond.nl
@@ -782,6 +783,7 @@ https://abonneren.delft.nl
 https://academie.almere.nl
 https://academie.landgraaf.nl
 https://academie.smallingerland.nl
+https://acc-abc.assen.nl
 https://acc-abc.laarbeek.nl
 https://acc-abc.oldenzaal.nl
 https://acc-abc.oostgelre.nl
@@ -810,7 +812,6 @@ https://acc-broker.waterland.nl
 https://acc-broker.zwolle.nl
 https://acc-contact.assen.nl
 https://acc-contact.borger-odoorn.nl
-https://acc-contact.dev.assen.nl
 https://acc-contact.dev.groningen.nl
 https://acc-contact.emmen.nl
 https://acc-contact.enschede.nl
@@ -828,7 +829,6 @@ https://acc-contact.zwolle.nl
 https://acc-eformulier.heerlen.nl
 https://acc-formulier.assen.nl
 https://acc-formulier.borger-odoorn.nl
-https://acc-formulier.dev.assen.nl
 https://acc-formulier.dev.groningen.nl
 https://acc-formulier.emmen.nl
 https://acc-formulier.enschede.nl
@@ -844,7 +844,12 @@ https://acc-formulier.oostgelre.nl
 https://acc-formulier.roermond.nl
 https://acc-formulier.rotterdam.nl
 https://acc-formulier.zwolle.nl
+https://acc-gpp-app.assen.nl
+https://acc-gpp-burgerportaal.assen.nl
+https://acc-gpp-publicatiebank.assen.nl
+https://acc-gpp-zoeken.assen.nl
 https://acc-idbroker.tynaarlo.nl
+https://acc-ita.assen.nl
 https://acc-ita.zwolle.nl
 https://acc-keycloak-admin.assen.nl
 https://acc-keycloak-admin.borger-odoorn.nl
@@ -861,7 +866,6 @@ https://acc-keycloak-admin.roermond.nl
 https://acc-keycloak-admin.zwolle.nl
 https://acc-keycloak.assen.nl
 https://acc-keycloak.borger-odoorn.nl
-https://acc-keycloak.dev.assen.nl
 https://acc-keycloak.dev.groningen.nl
 https://acc-keycloak.emmen.nl
 https://acc-keycloak.enschede.nl
@@ -878,7 +882,6 @@ https://acc-maps.almere.nl
 https://acc-mediabank.gemeentehw.nl
 https://acc-mijn.assen.nl
 https://acc-mijn.borger-odoorn.nl
-https://acc-mijn.dev.assen.nl
 https://acc-mijn.dev.groningen.nl
 https://acc-mijn.emmen.nl
 https://acc-mijn.enschede.nl
@@ -895,7 +898,6 @@ https://acc-mijn.rotterdam.nl
 https://acc-mijn.zwolle.nl
 https://acc-notificaties.assen.nl
 https://acc-notificaties.borger-odoorn.nl
-https://acc-notificaties.dev.assen.nl
 https://acc-notificaties.dev.groningen.nl
 https://acc-notificaties.emmen.nl
 https://acc-notificaties.enschede.nl
@@ -912,7 +914,6 @@ https://acc-notificaties.rotterdam.nl
 https://acc-notificaties.zwolle.nl
 https://acc-objecten.assen.nl
 https://acc-objecten.borger-odoorn.nl
-https://acc-objecten.dev.assen.nl
 https://acc-objecten.dev.groningen.nl
 https://acc-objecten.emmen.nl
 https://acc-objecten.enschede.nl
@@ -929,7 +930,6 @@ https://acc-objecten.rotterdam.nl
 https://acc-objecten.zwolle.nl
 https://acc-objecttypen.assen.nl
 https://acc-objecttypen.borger-odoorn.nl
-https://acc-objecttypen.dev.assen.nl
 https://acc-objecttypen.dev.groningen.nl
 https://acc-objecttypen.emmen.nl
 https://acc-objecttypen.enschede.nl
@@ -944,10 +944,10 @@ https://acc-objecttypen.oostgelre.nl
 https://acc-objecttypen.roermond.nl
 https://acc-objecttypen.rotterdam.nl
 https://acc-objecttypen.zwolle.nl
+https://acc-office-addin.assen.nl
 https://acc-office-addin.zwolle.nl
 https://acc-openklant.assen.nl
 https://acc-openklant.borger-odoorn.nl
-https://acc-openklant.dev.assen.nl
 https://acc-openklant.dev.groningen.nl
 https://acc-openklant.emmen.nl
 https://acc-openklant.enschede.nl
@@ -966,7 +966,6 @@ https://acc-openwave.beverwijk.nl
 https://acc-openwave.hollandskroon.nl
 https://acc-openzaak.assen.nl
 https://acc-openzaak.borger-odoorn.nl
-https://acc-openzaak.dev.assen.nl
 https://acc-openzaak.dev.groningen.nl
 https://acc-openzaak.emmen.nl
 https://acc-openzaak.enschede.nl
@@ -998,7 +997,6 @@ https://acc-podiumd-keycloak.olst-wijhe.nl
 https://acc-podiumd-keycloak.raalte.nl
 https://acc-podiumd-logs.assen.nl
 https://acc-podiumd-logs.borger-odoorn.nl
-https://acc-podiumd-logs.dev.assen.nl
 https://acc-podiumd-logs.dev.groningen.nl
 https://acc-podiumd-logs.deventer.nl
 https://acc-podiumd-logs.emmen.nl
@@ -2012,6 +2010,7 @@ https://bereikbarestad.denhaag.nl
 https://bergen-nh.nl
 https://bergendal.nl
 https://berichten.alphen-chaam.nl
+https://berichten.assen.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
 https://berichten.cranendonck.nl
@@ -4222,6 +4221,7 @@ https://ibzpink.almelo.nl
 https://ibzpink.alphen-chaam.nl
 https://ibzpink.amersfoort.nl
 https://ibzpink.apeldoorn.nl
+https://ibzpink.assen.nl
 https://ibzpink.bergendal.nl
 https://ibzpink.bergenopzoom.nl
 https://ibzpink.bernheze.org
@@ -4615,6 +4615,7 @@ https://ironport.valkenburg.nl
 https://isdtalentcenter.bergenopzoom.nl
 https://isms-acc.denhaag.nl
 https://isms.denhaag.nl
+https://ita.assen.nl
 https://ita.zwolle.nl
 https://ivor.veenendaal.nl
 https://izaaksuite.bergenopzoom.nl
@@ -5768,6 +5769,7 @@ https://oeffelt.landvancuijk.nl
 https://oegstgeest.nl
 https://oekraine.zaanstad.nl
 https://oens.almere.nl
+https://office-addin.assen.nl
 https://office-addin.zwolle.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
@@ -7113,7 +7115,6 @@ https://stroomlijntest.derondevenen.nl
 https://stroomt.deventer.nl
 https://sts-acc.rotterdam.nl
 https://sts-azdev.rotterdam.nl
-https://sts.assen.nl
 https://sts.delft.nl
 https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
@@ -7268,7 +7269,6 @@ https://test-e-loket.apeldoorn.nl
 https://test-eloket.brunssum.nl
 https://test-eloket.krimpenerwaard.nl
 https://test-eloket.nunspeet.nl
-https://test-formulier.assen.nl
 https://test-formulier.enschede.nl
 https://test-formulier.gemert-bakel.nl
 https://test-hofnet.coevorden.nl
@@ -7279,39 +7279,30 @@ https://test-intranet.velsen.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
-https://test-keycloak-admin.assen.nl
 https://test-keycloak-admin.enschede.nl
 https://test-keycloak-admin.gemert-bakel.nl
-https://test-keycloak.assen.nl
 https://test-keycloak.enschede.nl
 https://test-keycloak.gemert-bakel.nl
 https://test-meedoen.goeree-overflakkee.nl
 https://test-meedoen.schagen.nl
 https://test-meedoenregeling.dongen.nl
-https://test-mijn.assen.nl
 https://test-mijn.enschede.nl
 https://test-mijn.gemert-bakel.nl
 https://test-mijn.hoorn.nl
 https://test-mijnbbsuo.soest.nl
 https://test-mijnzi.beuningen.nl
-https://test-notificaties.assen.nl
 https://test-notificaties.enschede.nl
 https://test-notificaties.gemert-bakel.nl
-https://test-objecten.assen.nl
 https://test-objecten.enschede.nl
 https://test-objecten.gemert-bakel.nl
-https://test-objecttypen.assen.nl
 https://test-objecttypen.enschede.nl
 https://test-objecttypen.gemert-bakel.nl
-https://test-openklant.assen.nl
 https://test-openklant.enschede.nl
 https://test-openklant.gemert-bakel.nl
-https://test-openzaak.assen.nl
 https://test-openzaak.enschede.nl
 https://test-openzaak.gemert-bakel.nl
 https://test-opname.eindhoven.nl
 https://test-paswijzer.waalwijk.nl
-https://test-podiumd-logs.assen.nl
 https://test-podiumd-logs.enschede.nl
 https://test-podiumd-logs.gemert-bakel.nl
 https://test-potjeswijzer.westerkwartier.nl
@@ -7330,7 +7321,6 @@ https://test-zaakloket.schiermonnikoog.nl
 https://test-zaakloket.terschelling.nl
 https://test-zaakloket.vlieland.nl
 https://test-zaanzoeker.zaanstad.nl
-https://test-zac.assen.nl
 https://test-zac.enschede.nl
 https://test-zac.gemert-bakel.nl
 https://test.3d.utrecht.nl

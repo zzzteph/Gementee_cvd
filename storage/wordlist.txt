@@ -67,11 +67,11 @@ cloudadapter-test
 openpub
 kaart
 osb
+berichten
 digikoppeling-test
 beeldbank
 woningbouwkaart
 flowmailer-tracking
-berichten
 denkmee
 formulier
 doemee
@@ -300,6 +300,7 @@ mozard
 wion
 img.openstad
 ns1
+acc-abc
 dialin
 openformulieren
 test-mijn
@@ -351,6 +352,7 @@ mijngeldzaken
 www.openstad
 aanmelden
 rooster
+abc
 admin.doemee
 api.doemee
 auth.doemee
@@ -406,7 +408,6 @@ authenticatie
 gateway
 lyncweb
 prefill
-acc-abc
 huisstijl
 mijndesktop
 www2
@@ -429,6 +430,7 @@ moh-acc
 moh
 werk
 media
+test-contact
 test-keycloak-admin
 test-keycloak
 test-openklant
@@ -516,7 +518,6 @@ hta
 mijnsociaaldomein-acc
 wonen
 awtunnel
-abc
 service
 belastingportaal.acc
 inloggen.belastingportaal
@@ -665,7 +666,6 @@ www.gemeente
 www.mobile
 gbionlinetest
 squit2gotest
-test-contact
 geo-secure
 ketenportaal.acceptatie
 secudoc
@@ -810,15 +810,20 @@ wob
 www.geo
 acc-contact.dev
 acc-formulier.dev
+acc-ita
 acc-keycloak.dev
 acc-mijn.dev
 acc-notificaties.dev
 acc-objecten.dev
 acc-objecttypen.dev
+acc-office-addin
 acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
+ita
+office-addin
+test-abc
 werknemersportaal
 www.evenementen
 www.vastgoed
@@ -2054,7 +2059,12 @@ mfa-rooster
 preprod-mijngeldzaken
 wWW
 www.meedenken
+acc-gpp-app
+acc-gpp-burgerportaal
+acc-gpp-publicatiebank
+acc-gpp-zoeken
 acc-podiumd.sschosting.nl
+ananke
 assengast1
 assengast2
 conference
@@ -2068,6 +2078,8 @@ organisatieontwikkeling
 point
 scorpio
 slimbereikbaar
+test-ita
+test-office-addin
 wbs003
 wbs004
 web2print
@@ -5313,7 +5325,6 @@ sts-azdev
 sts2
 taxivergunning
 teamurenplanninggezondheidmilieu
-test-abc
 this010
 thomas100
 thomas111
@@ -6460,8 +6471,6 @@ zwijndrecht-checker
 _sip._tcp
 _sip._udp
 _sips._tcp
-acc-ita
-acc-office-addin
 avedge
 beelden
 bezoekerspas
@@ -6476,13 +6485,11 @@ icontrolertest-api
 icontrolertest
 inc-ons
 initiatiefrijk
-ita
 jouwstukje
 mijnwijk
 mysite
 mysitetest
 noorderkwartier
-office-addin
 offwa
 offwatest
 onsovermorgen

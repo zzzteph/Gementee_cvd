@@ -1,8 +1,15 @@
+abc.assen.nl
+acc-abc.assen.nl
 acc-broker.assen.nl
 acc-contact.assen.nl
 acc-contact.dev.assen.nl
 acc-formulier.assen.nl
 acc-formulier.dev.assen.nl
+acc-gpp-app.assen.nl
+acc-gpp-burgerportaal.assen.nl
+acc-gpp-publicatiebank.assen.nl
+acc-gpp-zoeken.assen.nl
+acc-ita.assen.nl
 acc-keycloak-admin.assen.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
@@ -14,6 +21,7 @@ acc-objecten.assen.nl
 acc-objecten.dev.assen.nl
 acc-objecttypen.assen.nl
 acc-objecttypen.dev.assen.nl
+acc-office-addin.assen.nl
 acc-openformulieren.assen.nl
 acc-openklant.assen.nl
 acc-openklant.dev.assen.nl
@@ -26,6 +34,7 @@ acc-zac.assen.nl
 admin.doemee.assen.nl
 afspraken.assen.nl
 afval.assen.nl
+ananke.assen.nl
 api.doemee.assen.nl
 api.meldingen-acc.assen.nl
 api.meldingen.assen.nl
@@ -38,6 +47,7 @@ bastion365.assen.nl
 bedrijfsafval.assen.nl
 belastingportaal.acc.assen.nl
 belastingportaal.assen.nl
+berichten.assen.nl
 bgt.assen.nl
 bis.assen.nl
 broker.assen.nl
@@ -70,6 +80,7 @@ img.doemee.assen.nl
 inloggen.belastingportaal.acc.assen.nl
 inloggen.belastingportaal.assen.nl
 intranet.assen.nl
+ita.assen.nl
 keycloak-admin.assen.nl
 keycloak.assen.nl
 lyncdiscover.assen.nl
@@ -83,6 +94,7 @@ nieuwsbrief.assen.nl
 notificaties.assen.nl
 objecten.assen.nl
 objecttypen.assen.nl
+office-addin.assen.nl
 opendata.assen.nl
 openformulieren.assen.nl
 openklant.assen.nl
@@ -97,14 +109,18 @@ scorpio.assen.nl
 sip.assen.nl
 slimbereikbaar.assen.nl
 sts.assen.nl
+test-abc.assen.nl
+test-contact.assen.nl
 test-digikoppeling.assen.nl
 test-formulier.assen.nl
+test-ita.assen.nl
 test-keycloak-admin.assen.nl
 test-keycloak.assen.nl
 test-mijn.assen.nl
 test-notificaties.assen.nl
 test-objecten.assen.nl
 test-objecttypen.assen.nl
+test-office-addin.assen.nl
 test-openklant.assen.nl
 test-openzaak.assen.nl
 test-podiumd-logs.assen.nl
