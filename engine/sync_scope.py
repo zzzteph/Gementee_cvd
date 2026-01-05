@@ -51,7 +51,8 @@ def remove_scope_data():
                 shutil.rmtree(path)
             session.delete(scope)
             session.commit()
-
+    if not os.path.isdir(PROJECTS_FOLDER):
+        return
     for tag_entry in os.listdir(PROJECTS_FOLDER):
         tag_path=os.path.join(PROJECTS_FOLDER,tag_entry)
         if os.path.isdir(tag_path) and not tag_path.startswith("."):
