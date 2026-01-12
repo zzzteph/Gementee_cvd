@@ -1,0 +1,16 @@
+http://autodiscover.debilt.nl
+https://subsidies-login.debilt.nl
+https://debilt.nl
+https://subsidies-login.acceptatie.debilt.nl
+https://edienstenburgerzaken.debilt.nl
+https://intranet.debilt.nl
+https://acceptatie.intranet.debilt.nl
+https://subsidies-backend.acceptatie.debilt.nl
+https://subsidies-backend.debilt.nl
+https://kaart.debilt.nl
+https://mijn.debilt.nl
+https://subsidies.debilt.nl
+https://www.debilt.nl
+https://subsidies.acceptatie.debilt.nl
+https://edienstenburgerzaken-test.debilt.nl
+https://zaaksysteem-accept.debilt.nl
