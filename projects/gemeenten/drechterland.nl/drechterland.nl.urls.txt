@@ -1,0 +1,16 @@
+http://autodiscover.drechterland.nl
+https://drechterland.nl
+https://openpdc.drechterland.nl
+https://www.drechterland.nl
+https://belastingbalie.drechterland.nl
+https://samen.drechterland.nl
+https://edienstenburgerzaken-test.drechterland.nl
+https://edienstenburgerzaken.drechterland.nl
+https://belastingbalie.acc.drechterland.nl
+https://transfer.drechterland.nl
+https://klantportaal.acc.drechterland.nl
+https://klantportaal.drechterland.nl
+https://idbroker.drechterland.nl
+https://preprodidbroker.drechterland.nl
+https://openformulieren.drechterland.nl
+https://openformulieren-test.drechterland.nl
