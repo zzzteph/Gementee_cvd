@@ -1,0 +1,11 @@
+http://autodiscover.gemeentewesterveld.nl
+https://mylex.gemeentewesterveld.nl
+https://preproductie.gemeentewesterveld.nl
+https://mylex.test.gemeentewesterveld.nl
+https://woningbouwkaart.gemeentewesterveld.nl
+https://preproductiebroker.gemeentewesterveld.nl
+https://broker.gemeentewesterveld.nl
+https://www.gemeentewesterveld.nl
+https://gemeentewesterveld.nl
+https://loket.gemeentewesterveld.nl
+https://loket.acceptatie.gemeentewesterveld.nl
