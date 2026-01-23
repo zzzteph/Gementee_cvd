@@ -1,0 +1,12 @@
+https://meldingen.lopik.nl
+https://ews.lopik.nl
+https://alwayson.lopik.nl
+https://intranet.lopik.nl
+https://lopik.nl
+https://api.meldingen.lopik.nl
+https://edienstenburgerzaken.lopik.nl
+http://simsite.lopik.nl
+http://simcms.intranet.lopik.nl
+http://gwo.lopik.nl
+http://webmail.lopik.nl
+https://crl.lopik.nl
