@@ -1,0 +1,10 @@
+http://autodiscover.rozendaal.nl
+https://rozendaal.nl
+https://openpub.rozendaal.nl
+https://www.rozendaal.nl
+https://bastion365.rozendaal.nl
+https://openpdc.rozendaal.nl
+https://belastingen.rozendaal.nl
+https://belastingen-acc.rozendaal.nl
+https://iburgerzaken.rozendaal.nl
+https://filecap.rozendaal.nl
