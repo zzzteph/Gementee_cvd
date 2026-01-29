@@ -1,0 +1,13 @@
+https://test-zaakloket.schiermonnikoog.nl
+https://enterpriseenrollment.schiermonnikoog.nl
+http://autodiscover.schiermonnikoog.nl
+https://mozardtest.schiermonnikoog.nl
+https://schiermonnikoog.nl
+https://mozard.schiermonnikoog.nl
+https://zaakloket.schiermonnikoog.nl
+http://www.schiermonnikoog.nl
+https://siam.schiermonnikoog.nl
+https://testsiam.schiermonnikoog.nl
+https://felix.schiermonnikoog.nl
+https://werkenbij.schiermonnikoog.nl
+http://simcms.schiermonnikoog.nl
