@@ -1,0 +1,12 @@
+http://autodiscover.terschelling.nl
+https://enterpriseenrollment.terschelling.nl
+https://terschelling.nl
+https://mozard.terschelling.nl
+https://co2monitor.terschelling.nl
+https://mozardtest.terschelling.nl
+https://zaakloket.terschelling.nl
+https://siam.terschelling.nl
+https://simcms.terschelling.nl
+https://testsiam.terschelling.nl
+https://test-zaakloket.terschelling.nl
+http://felix.terschelling.nl
