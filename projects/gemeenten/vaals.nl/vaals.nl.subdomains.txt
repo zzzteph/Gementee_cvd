@@ -1,0 +1,16 @@
+www.vaals.nl
+digid-prod.vaals.nl
+acc.vaals.nl
+afs.vaals.nl
+vaals.nl
+webmail.vaals.nl
+hvc02.vaals.nl
+webpublishing.vaals.nl
+mta-sts.vaals.nl
+kgs01.vaals.nl
+bzg1.vaals.nl
+afspraken.vaals.nl
+bestuur.vaals.nl
+digilevering.vaals.nl
+iburgerzaken.vaals.nl
+ibzpink.vaals.nl
