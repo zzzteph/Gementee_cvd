@@ -1,0 +1,15 @@
+http://autodiscover.vlieland.nl
+https://mozardtest.vlieland.nl
+https://felix.vlieland.nl
+https://mozard.vlieland.nl
+https://zaakloket.vlieland.nl
+https://enterpriseenrollment.vlieland.nl
+https://digitalebelastingbalie-test.vlieland.nl
+https://werkenbij.vlieland.nl
+https://test-zaakloket.vlieland.nl
+https://testsiam.vlieland.nl
+https://simcms.vlieland.nl
+http://vlieland.nl
+https://siam.vlieland.nl
+https://digitalebelastingbalie.vlieland.nl
+https://www.vlieland.nl
